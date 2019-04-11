@@ -1,0 +1,95 @@
+{
+  "id": 101917289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":45862.236309,
+    "geom:bbox":"172.126504159,-41.2531860813,172.130056787,-41.2497529032",
+    "geom:latitude":-41.251366,
+    "geom:longitude":172.12855,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.251394,
+    "lbl:longitude":172.128673,
+    "mps:latitude":-41.251452,
+    "mps:longitude":172.128724,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Marktkreuz"
+    ],
+    "name:eng_x_preferred":[
+        "Market Cross"
+    ],
+    "name:ita_x_preferred":[
+        "Croci di mercato"
+    ],
+    "name:nor_x_preferred":[
+        "Markedskors"
+    ],
+    "name:spa_x_preferred":[
+        "Market Cross"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e1nh gi\u00e1 ch\u1ee3"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Market Cross",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":350,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d3d70-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2187308,
+        "gp:id":2349418,
+        "wd:id":"Q427926"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"963c636f9ba127d3fd105d76f6515de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101917289,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101917289,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715906,
+    "wof:name":"Market Cross",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.12650415929016,
+    -41.2531860812858,
+    172.13005678664044,
+    -41.24975290319462
+],
+  "geometry": {"coordinates":[[[172.12766031611977,-41.25002946462801],[172.1277566056815,-41.24975290319462],[172.12843510443241,-41.24990762908128],[172.12831938102693,-41.2502618546936],[172.12911023346527,-41.2504052692152],[172.12905616847669,-41.25071160035511],[172.12959467851209,-41.25083301933302],[172.12948095429329,-41.25128164267635],[172.13005678664044,-41.25138704106598],[172.12994640863573,-41.25186549958889],[172.12940613088517,-41.25209151547975],[172.12968529473625,-41.25263704043411],[172.12907755041545,-41.25280679837359],[172.12922615348251,-41.25308206107575],[172.12878600510052,-41.2531860812858],[172.12826927070861,-41.25208426413339],[172.12802408308076,-41.25201927627661],[172.12789389856266,-41.25135131526455],[172.12652307950955,-41.25105066409651],[172.12650415929016,-41.25080123794491],[172.12650884504845,-41.25070067785602],[172.12687762889658,-41.25077390111711],[172.12744418016226,-41.25087347841895],[172.12750628121211,-41.25060728506264],[172.12766031611977,-41.25002946462801]]],"type":"Polygon"}
+}

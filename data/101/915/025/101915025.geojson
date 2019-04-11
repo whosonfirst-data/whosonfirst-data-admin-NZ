@@ -1,0 +1,85 @@
+{
+  "id": 101915025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11598.139439,
+    "geom:bbox":"173.004318564,-41.0827333273,173.004936334,-41.0802308269",
+    "geom:latitude":-41.081457,
+    "geom:longitude":173.004616,
+    "gn:population":986,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.081445,
+    "lbl:longitude":173.004622,
+    "mps:latitude":-41.081445,
+    "mps:longitude":173.004622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Riwaka"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Riwaka",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d3910-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2183406,
+        "gp:id":2350426,
+        "qs:id":484957,
+        "wd:id":"Q2155783",
+        "wk:page":"Riwaka"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3896eb02e9690df38b3d49265df221eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101915025,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":101915025,
+    "wof:lastmodified":1527643130,
+    "wof:name":"Riwaka",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:population":986,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914971
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.00431856437487,
+    -41.08273332732656,
+    173.00493633371028,
+    -41.08023082691292
+],
+  "geometry": {"coordinates":[[[173.00433847386859,-41.08216994934476],[173.00440686928923,-41.08023082691292],[173.00484212786279,-41.08025159890934],[173.00493633371028,-41.08028317636644],[173.00479563847753,-41.08272427472121],[173.00473035874501,-41.08273332732656],[173.00431856437487,-41.08268323561653],[173.00433819402335,-41.08217788667152],[173.00433847386859,-41.08216994934476]]],"type":"Polygon"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 85781369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2928394.449438,
+    "geom:bbox":"176.916436,-39.501373,176.916436,-39.501373",
+    "geom:latitude":-39.501373,
+    "geom:longitude":176.916436,
+    "gn:latitude":-39.49824,
+    "gn:longitude":176.90022,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.501373,
+    "lbl:longitude":176.916436,
+    "mps:latitude":-39.505864,
+    "mps:longitude":176.91548,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Napier South"
+    ],
+    "name:unk_x_variant":[
+        "Napier South"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186313,
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Napier South",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Napier South",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":129,
+    "qs:photo_sum":336,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914679,
+        102079331,
+        85687189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6246626,
+        "gp:id":28644290,
+        "qs:id":1086330,
+        "qs_pg:id":1086330
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a93652f10a93d4e14b4fedc3e3461758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101914679,
+            "neighbourhood_id":85781369,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":85781369,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860196,
+    "wof:name":"Napier South",
+    "wof:parent_id":101914679,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.916436,
+    -39.501373,
+    176.916436,
+    -39.501373
+],
+  "geometry": {"coordinates":[176.916436,-39.501373],"type":"Point"}
+}

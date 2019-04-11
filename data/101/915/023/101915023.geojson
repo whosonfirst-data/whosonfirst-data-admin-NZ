@@ -1,0 +1,80 @@
+{
+  "id": 101915023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13752.412988,
+    "geom:bbox":"175.174731176,-38.3410362549,175.177344522,-38.339725849",
+    "geom:latitude":-38.340381,
+    "geom:longitude":175.176031,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.34038,
+    "lbl:longitude":175.176019,
+    "mps:latitude":-38.34038,
+    "mps:longitude":175.176019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Kuiti"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Kuiti",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":902,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6234244,
+        "gp:id":2350818,
+        "qs:id":9580,
+        "wd:id":"Q999418",
+        "wk:page":"Te Kuiti"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"823a1d8e843166213702000ce305d9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079279,
+            "locality_id":101915023,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101915023,
+    "wof:lastmodified":1527643128,
+    "wof:name":"Te Kuiti",
+    "wof:parent_id":102079279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914457
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.1747311763932,
+    -38.34103625488459,
+    175.17734452211178,
+    -38.33972584901792
+],
+  "geometry": {"coordinates":[[[175.17707121460765,-38.34103625488459],[175.17493692938919,-38.34030865033923],[175.17493553959224,-38.3403081818808],[175.17493390084047,-38.34030764081855],[175.17493201336856,-38.34030704264682],[175.17473117639321,-38.34024428834027],[175.17492104028824,-38.33972584901792],[175.17658710925167,-38.3402665752407],[175.17734452211178,-38.34051183056063],[175.17707121460765,-38.34103625488459]]],"type":"Polygon"}
+}

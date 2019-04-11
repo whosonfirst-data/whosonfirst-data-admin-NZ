@@ -1,0 +1,76 @@
+{
+  "id": 101918525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6711.172074,
+    "geom:bbox":"174.456937925,-35.8233698725,174.458300325,-35.8216952591",
+    "geom:latitude":-35.822507,
+    "geom:longitude":174.457604,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.822513,
+    "lbl:longitude":174.457619,
+    "mps:latitude":-35.822513,
+    "mps:longitude":174.457619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Marsden Bay"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marsden Bay",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q6773226"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fd1e5de21ba058c756b81eac19efd149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101918525,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918525,
+    "wof:lastmodified":1527715679,
+    "wof:name":"Marsden Bay",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915979
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.4569379251948,
+    -35.82336987253684,
+    174.45830032501812,
+    -35.82169525908806
+],
+  "geometry": {"coordinates":[[[174.45817355573016,-35.82336987253684],[174.45693792519481,-35.82209578427319],[174.45711723698989,-35.8217336336964],[174.4571540459778,-35.82169525908806],[174.45730103506392,-35.82184189529797],[174.45821788360902,-35.82295735400157],[174.45830032501812,-35.82308687579904],[174.45824189608646,-35.82320126527273],[174.45817355573016,-35.82336987253684]]],"type":"Polygon"}
+}

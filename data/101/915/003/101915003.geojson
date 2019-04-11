@@ -1,0 +1,84 @@
+{
+  "id": 101915003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":57848.408008,
+    "geom:bbox":"171.854793148,-41.6278371412,171.86441014,-41.6178745671",
+    "geom:latitude":-41.622862,
+    "geom:longitude":171.859607,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.622872,
+    "lbl:longitude":171.8596,
+    "mps:latitude":-41.622872,
+    "mps:longitude":171.8596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Granity"
+    ],
+    "name:eng_x_variant":[
+        "Torea"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Granity",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":331,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c7480-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2190530,
+        "gp:id":2348645,
+        "qs:id":319639,
+        "wd:id":"Q2076873",
+        "wk:page":"Granity"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"24dc8890c4cd45fe7e28b14691afd5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101915003,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101915003,
+    "wof:lastmodified":1527643140,
+    "wof:name":"Granity",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914495
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.8547931480208,
+    -41.62783714119313,
+    171.8644101401338,
+    -41.61787456706141
+],
+  "geometry": {"coordinates":[[[171.86206911208643,-41.61992462163724],[171.8629826069872,-41.61895962762814],[171.86361917739666,-41.61824934517847],[171.86395460439371,-41.61787456706141],[171.8644101401338,-41.61803129605787],[171.8643518992902,-41.61813515181336],[171.86406959259301,-41.61849155689232],[171.86384577492063,-41.61871574340923],[171.86373853176335,-41.61882316269837],[171.86373731610448,-41.6188240508465],[171.86249428308639,-41.62014235203073],[171.85753881108008,-41.62539720249703],[171.85522228897005,-41.62783714119313],[171.8547931480208,-41.62761131558487],[171.86206911208643,-41.61992462163724]]],"type":"Polygon"}
+}

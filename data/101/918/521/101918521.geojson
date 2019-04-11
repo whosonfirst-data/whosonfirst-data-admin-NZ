@@ -1,0 +1,94 @@
+{
+  "id": 101918521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10243.10665,
+    "geom:bbox":"174.445566606,-36.1613229567,174.447373918,-36.1601825085",
+    "geom:latitude":-36.160747,
+    "geom:longitude":174.446448,
+    "gn:population":565,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.160748,
+    "lbl:longitude":174.446454,
+    "mps:latitude":-36.160748,
+    "mps:longitude":174.446454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Kaiwaka"
+    ],
+    "name:eng_x_preferred":[
+        "Kaiwaka"
+    ],
+    "name:mri_x_preferred":[
+        "Kaiwaka"
+    ],
+    "name:msa_x_preferred":[
+        "Kaiwaka"
+    ],
+    "name:nno_x_preferred":[
+        "Kaiwaka"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kaiwaka",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":530,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189167,
+        "gp:id":2348958,
+        "wd:id":"Q1015707"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a794849ba3d1326742aa1c022c9af708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101918521,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918521,
+    "wof:lastmodified":1527715672,
+    "wof:name":"Kaiwaka",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:population":565,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916805
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.4455666057735,
+    -36.16132295670396,
+    174.4473739181063,
+    -36.16018250850936
+],
+  "geometry": {"coordinates":[[[174.44737391810631,-36.16072663547898],[174.44584836704786,-36.16132295670396],[174.44556660577351,-36.16072033940889],[174.44562373234737,-36.16068889870281],[174.44661692335126,-36.16035507737657],[174.44662353240571,-36.16035228126105],[174.44703448480323,-36.16018250850936],[174.44737391810631,-36.16072663547898]]],"type":"Polygon"}
+}

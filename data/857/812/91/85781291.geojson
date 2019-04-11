@@ -1,0 +1,107 @@
+{
+  "id": 85781291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1355334.869847,
+    "geom:bbox":"174.895439,-36.924859,174.895439,-36.924859",
+    "geom:latitude":-36.924859,
+    "geom:longitude":174.895439,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.924859,
+    "lbl:longitude":174.895439,
+    "mps:latitude":-36.918174,
+    "mps:longitude":174.89309,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Burswood"
+    ],
+    "name:unk_x_variant":[
+        "Burswood"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Burswood",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":17,
+    "qs:photo_sum":36,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644232,
+        "qs:id":1286543,
+        "qs_pg:id":1286543
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"49f3957a68e9e3c96d92a9ef0d19e456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85781291,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781291,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860182,
+    "wof:name":"Burswood",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.895439,
+    -36.924859,
+    174.895439,
+    -36.924859
+],
+  "geometry": {"coordinates":[174.89543900000001,-36.924859],"type":"Point"}
+}

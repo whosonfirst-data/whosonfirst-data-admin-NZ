@@ -1,0 +1,68 @@
+{
+  "id": 1260114871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.41667,-35.15,173.41667,-35.15",
+    "geom:latitude":-35.15,
+    "geom:longitude":173.41667,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Victoria Valley",
+    "gn:country_code":"NZ",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180501,
+    "gn:latitude":-35.15,
+    "gn:longitude":173.41667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Victoria Valley",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180501
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e633b135584e91c070ecb27a8d626e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1260114871,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1260114871,
+    "wof:lastmodified":1536943425,
+    "wof:name":"Victoria Valley",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.41666999999995,
+    -35.15,
+    173.41666999999995,
+    -35.15
+],
+  "geometry": {"coordinates":[173.41666999999995,-35.15],"type":"Point"}
+}

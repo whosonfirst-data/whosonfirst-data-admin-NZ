@@ -1,0 +1,81 @@
+{
+  "id": 101917003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":38648.286641,
+    "geom:bbox":"170.37450031,-45.8772495129,170.378503181,-45.8749224976",
+    "geom:latitude":-45.876003,
+    "geom:longitude":170.376467,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.875899,
+    "lbl:longitude":170.376489,
+    "mps:latitude":-45.875899,
+    "mps:longitude":170.376489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Mosgiel"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mosgiel",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2200,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020deeb4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2208241,
+        "gp:id":2349596,
+        "qs:id":1034356,
+        "wd:id":"Q1949244",
+        "wk:page":"Mosgiel"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"10ab58e25aa7de3c2f1f9781bd622c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101917003,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101917003,
+    "wof:lastmodified":1527715913,
+    "wof:name":"Mosgiel",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914505
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.37450030993278,
+    -45.87724951285974,
+    170.37850318064972,
+    -45.87492249757413
+],
+  "geometry": {"coordinates":[[[170.37517198709369,-45.87724951285974],[170.37474802691793,-45.87651858805738],[170.37474763191338,-45.87651794900894],[170.37474724550694,-45.87651713023179],[170.37474665517655,-45.87651612684008],[170.37460159642185,-45.87627971807673],[170.37450030993278,-45.87610658852413],[170.37516607911138,-45.87569696178684],[170.37535232860156,-45.87581238025542],[170.3764646741709,-45.87519532398222],[170.37659482067346,-45.87529271335027],[170.37793491669748,-45.87492249757413],[170.37850318064972,-45.87601974266784],[170.37564965540858,-45.8768202612387],[170.375770423365,-45.87707167859627],[170.37517198709369,-45.87724951285974]]],"type":"Polygon"}
+}

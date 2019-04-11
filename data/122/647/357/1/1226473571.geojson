@@ -1,0 +1,68 @@
+{
+  "id": 1226473571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.2,-44.03333,171.2,-44.03333",
+    "geom:latitude":-44.03333,
+    "geom:longitude":171.2,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"64.0",
+    "gn:asciiname":"Woodbury",
+    "gn:country_code":"NZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178986,
+    "gn:latitude":-44.03333,
+    "gn:longitude":171.2,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Woodbury",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178986
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"465f13f40995dacd2c2c38f0ec695116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":1226473571,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1226473571,
+    "wof:lastmodified":1536602294,
+    "wof:name":"Woodbury",
+    "wof:parent_id":102079373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.2,
+    -44.03333,
+    171.2,
+    -44.03333
+],
+  "geometry": {"coordinates":[171.19999999999999,-44.03333],"type":"Point"}
+}

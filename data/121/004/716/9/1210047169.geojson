@@ -1,0 +1,68 @@
+{
+  "id": 1210047169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.65,-37.08333,174.65,-37.08333",
+    "geom:latitude":-37.08333,
+    "geom:longitude":174.65,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Awhitu",
+    "gn:country_code":"NZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2193643,
+    "gn:latitude":-37.08333,
+    "gn:longitude":174.65,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Awhitu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193643
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e15c6e43416d1d21740f5382cae74709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1210047169,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1210047169,
+    "wof:lastmodified":1536377710,
+    "wof:name":"Awhitu",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.65,
+    -37.08333,
+    174.65,
+    -37.08333
+],
+  "geometry": {"coordinates":[174.65000000000001,-37.08333],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 101918641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6446.422167,
+    "geom:bbox":"168.450563796,-45.7410185559,168.452210059,-45.7401331179",
+    "geom:latitude":-45.74059,
+    "geom:longitude":168.451341,
+    "gn:population":463,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.740595,
+    "lbl:longitude":168.451326,
+    "mps:latitude":-45.740595,
+    "mps:longitude":168.451326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Lumsden"
+    ],
+    "name:eng_x_variant":[
+        "Lumsden Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lumsden",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":360,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd55a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2188128,
+        "gp:id":2349251,
+        "wd:id":"Q1877305",
+        "wk:page":"Lumsden, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1e4611e7974af98b729cb972dac0d024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101918641,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101918641,
+    "wof:lastmodified":1527715676,
+    "wof:name":"Lumsden",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:population":463,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916059
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.45056379620675,
+    -45.74101855586572,
+    168.45221005855512,
+    -45.74013311786739
+],
+  "geometry": {"coordinates":[[[168.45156374178305,-45.74101855586572],[168.45056379620675,-45.74065267692958],[168.45099409446311,-45.74013311786739],[168.45221005855512,-45.74058889614489],[168.45156374178305,-45.74101855586572]]],"type":"Polygon"}
+}

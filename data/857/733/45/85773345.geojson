@@ -1,0 +1,112 @@
+{
+  "id": 85773345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6834192.839877,
+    "geom:bbox":"170.386789,-45.873757,170.386789,-45.873757",
+    "geom:latitude":-45.873757,
+    "geom:longitude":170.386789,
+    "gn:latitude":-45.88333,
+    "gn:longitude":170.38333,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.873757,
+    "lbl:longitude":170.386789,
+    "mps:latitude":-45.875172,
+    "mps:longitude":170.385982,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Wingatui"
+    ],
+    "name:unk_x_variant":[
+        "Wingatui"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2208241,
+    "qs:gn_nam_loc":"Mosgiel, Dunedin City, Otago, NZ",
+    "qs:gn_namadm1":"F7",
+    "qs:gn_name":"Wingatui",
+    "qs:local_max":32,
+    "qs:local_sum":32,
+    "qs:localhoods":1,
+    "qs:name":"Wingatui",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Mosgiel",
+    "qs:photo_max":13,
+    "qs:photo_sum":32,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349596,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179017,
+        "gp:id":2351433,
+        "qs:id":1159811,
+        "qs_pg:id":1159811,
+        "wd:id":"Q8025157",
+        "wk:page":"Wingatui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1ee2c86ef1f22b9af5019aeaa65777b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":-1,
+            "neighbourhood_id":85773345,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85773345,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859664,
+    "wof:name":"Wingatui",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.386789,
+    -45.873757,
+    170.386789,
+    -45.873757
+],
+  "geometry": {"coordinates":[170.38678899999999,-45.873757],"type":"Point"}
+}

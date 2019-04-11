@@ -1,0 +1,80 @@
+{
+  "id": 101917919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16592.99137,
+    "geom:bbox":"173.679943612,-42.3788161629,173.681126173,-42.3763984241",
+    "geom:latitude":-42.377627,
+    "geom:longitude":173.680566,
+    "geonames:id":"2189272,7303619",
+    "iso:country":"NZ",
+    "lbl:latitude":-42.37789,
+    "lbl:longitude":173.680518,
+    "mps:latitude":-42.37789,
+    "mps:longitude":173.680518,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kaikoura"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kaikoura",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-42.400011,
+    "wd:longitude":173.681358,
+    "wd:wordcount":1164,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2348927,
+        "wd:id":"Q25834"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"bcb0c07865c8e4d4de460d7a395ac2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079355,
+            "locality_id":101917919,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101917919,
+    "wof:lastmodified":1527715916,
+    "wof:name":"Kaikoura",
+    "wof:parent_id":102079355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914427
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.6799436115839,
+    -42.3788161629331,
+    173.68112617276492,
+    -42.3763984240942
+],
+  "geometry": {"coordinates":[[[173.68010611161662,-42.37823069166086],[173.67996945971112,-42.37804599556849],[173.67994361158389,-42.37787491097177],[173.68005693112778,-42.37767447952152],[173.68029523459123,-42.3774661801056],[173.68041336862692,-42.37726572026286],[173.68045038846185,-42.37712638086579],[173.68036731574398,-42.37700199343278],[173.68018382745939,-42.37693526708453],[173.68014451005737,-42.3768570203106],[173.68019375070378,-42.37646057780481],[173.68026471915906,-42.37645068276218],[173.68072148661139,-42.3763984240942],[173.68112617276492,-42.37726968130573],[173.6808166938865,-42.3788161629331],[173.68048670192121,-42.3787440763772],[173.68013833763902,-42.37855343762337],[173.68010611161662,-42.37823069166086]]],"type":"Polygon"}
+}

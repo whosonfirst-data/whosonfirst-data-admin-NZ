@@ -1,0 +1,75 @@
+{
+  "id": 101917357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":48671.48367,
+    "geom:bbox":"174.841545865,-37.8057075816,174.846224922,-37.8037423884",
+    "geom:latitude":-37.804674,
+    "geom:longitude":174.844008,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.804445,
+    "lbl:longitude":174.844556,
+    "mps:latitude":-37.804444,
+    "mps:longitude":174.844558,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Rangipu"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rangipu",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643454,
+        "qs_pg:id":985802
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c6d2f3f3481b6994adca4a7e8c6045b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101917357,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101917357,
+    "wof:lastmodified":1497296968,
+    "wof:name":"Rangipu",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.84154586472,
+    -37.80570758161475,
+    174.846224922247,
+    -37.80374238841784
+],
+  "geometry": {"coordinates":[[[174.84154586471999,-37.80483776674683],[174.84230862286691,-37.80447613436909],[174.84335635882366,-37.80410969671668],[174.84445517723069,-37.80374238841784],[174.84528222284192,-37.80383119144851],[174.8457798056952,-37.8041301354161],[174.84622492224699,-37.80535377006606],[174.84584163074592,-37.80546298061441],[174.84567676648049,-37.80507550875841],[174.84496122728254,-37.80533362191646],[174.84477302684738,-37.80505018895517],[174.84434028074193,-37.80522151489654],[174.84404709697972,-37.80487766215263],[174.84229043042708,-37.80570758161475],[174.84154586471999,-37.80483776674683]]],"type":"Polygon"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 85781837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2355942.226937,
+    "geom:bbox":"173.239911,-41.297944,173.239911,-41.297944",
+    "geom:latitude":-41.297944,
+    "geom:longitude":173.239911,
+    "gn:latitude":-41.30006,
+    "gn:longitude":173.24178,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.297944,
+    "lbl:longitude":173.239911,
+    "mps:latitude":-41.299969,
+    "mps:longitude":173.244758,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Annesbrook"
+    ],
+    "name:unk_x_variant":[
+        "Annesbrook"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186280,
+    "qs:gn_nam_loc":"Nelson, Nelson City, Nelson, NZ",
+    "qs:gn_namadm1":"F5",
+    "qs:gn_name":"Annesbrook",
+    "qs:local_max":2029,
+    "qs:local_sum":5504,
+    "qs:localhoods":17,
+    "qs:name":"Annesbrook",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Nelson",
+    "qs:name_adm2":"Nelson City",
+    "qs:name_local":"Nelson",
+    "qs:photo_max":178,
+    "qs:photo_sum":270,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021758,
+    "qs:woe_adm2":55875906,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349669,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079351,
+        85687157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6242983,
+        "gp:id":28644832,
+        "qs:id":1086353,
+        "qs_pg:id":1086353
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5bc495cb222bd388ce1c4debd7186326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":-1,
+            "neighbourhood_id":85781837,
+            "region_id":85687157
+        }
+    ],
+    "wof:id":85781837,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860279,
+    "wof:name":"Annesbrook",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.239911,
+    -41.297944,
+    173.239911,
+    -41.297944
+],
+  "geometry": {"coordinates":[173.23991100000001,-41.297944],"type":"Point"}
+}

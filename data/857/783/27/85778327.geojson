@@ -1,0 +1,104 @@
+{
+  "id": 85778327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5102667.599466,
+    "geom:bbox":"174.839083,-41.163915,174.839083,-41.163915",
+    "geom:latitude":-41.163915,
+    "geom:longitude":174.839083,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.163915,
+    "lbl:longitude":174.839083,
+    "mps:latitude":-41.170537,
+    "mps:longitude":174.844095,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Greenacres"
+    ],
+    "name:unk_x_variant":[
+        "Greenacres"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":308,
+    "qs:local_sum":752,
+    "qs:localhoods":5,
+    "qs:name":"Greenacres",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Tawa",
+    "qs:photo_max":165,
+    "qs:photo_sum":308,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":101,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914575,
+        102079339,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726382
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b0431c50353b3149e09dbf2f4dad0ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914575,
+            "neighbourhood_id":85778327,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778327,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859775,
+    "wof:name":"Greenacres",
+    "wof:parent_id":101914575,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.839083,
+    -41.163915,
+    174.839083,
+    -41.163915
+],
+  "geometry": {"coordinates":[174.83908299999999,-41.163915],"type":"Point"}
+}

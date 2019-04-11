@@ -1,0 +1,90 @@
+{
+  "id": 101917261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":62402.12202,
+    "geom:bbox":"174.206229034,-39.0629556366,174.211174381,-39.0594892707",
+    "geom:latitude":-39.061196,
+    "geom:longitude":174.209355,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.061522,
+    "lbl:longitude":174.210351,
+    "mps:latitude":-39.061415,
+    "mps:longitude":174.21023,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lepperton"
+    ],
+    "name:eng_x_preferred":[
+        "Lepperton"
+    ],
+    "name:may_x_preferred":[
+        "Lepperton"
+    ],
+    "name:msa_x_preferred":[
+        "Lepperton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lepperton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":563,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c3c7c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2188417,
+        "gp:id":2349188,
+        "wd:id":"Q6527800",
+        "wk:page":"Lepperton"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fcb6ab9068bdf2bfa213659bdd84795a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101917261,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101917261,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715907,
+    "wof:name":"Lepperton",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.2062290337893,
+    -39.06295563660774,
+    174.21117438087657,
+    -39.05948927067394
+],
+  "geometry": {"coordinates":[[[174.21112700519708,-39.06284513633356],[174.2103994624388,-39.0629265302028],[174.20988226250856,-39.06295563660774],[174.20984408200471,-39.06250558085652],[174.20962162624284,-39.06247378782369],[174.20947242042539,-39.06159249500223],[174.20877437400497,-39.06160015760602],[174.20848180861108,-39.06162138698639],[174.20844697118105,-39.06135598892911],[174.20800330412538,-39.06136085576603],[174.20798308215669,-39.06107277361681],[174.20742135696125,-39.06106722069917],[174.20733875279117,-39.06030817516849],[174.20696294074986,-39.06031815049386],[174.20622968312992,-39.05954686269909],[174.2062290337893,-39.05951083178619],[174.20819602196281,-39.05948927067394],[174.20819601244162,-39.05982379353546],[174.20766544621608,-39.05986447938513],[174.20775880371491,-39.06065145645297],[174.2103041897991,-39.06056528488121],[174.21112589145326,-39.0605414776913],[174.21117438087657,-39.0615566764272],[174.21112700519708,-39.06284513633356]]],"type":"Polygon"}
+}

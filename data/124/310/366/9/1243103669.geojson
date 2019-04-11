@@ -1,0 +1,68 @@
+{
+  "id": 1243103669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.23333,-38.43333,175.23333,-38.43333",
+    "geom:latitude":-38.43333,
+    "geom:longitude":175.23333,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Puketutu",
+    "gn:country_code":"NZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2184033,
+    "gn:latitude":-38.43333,
+    "gn:longitude":175.23333,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Puketutu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184033
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c499eb324c12456e1541bd9ee5ad3104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079279,
+            "locality_id":1243103669,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1243103669,
+    "wof:lastmodified":1536802496,
+    "wof:name":"Puketutu",
+    "wof:parent_id":102079279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.23333,
+    -38.43333,
+    175.23333,
+    -38.43333
+],
+  "geometry": {"coordinates":[175.23333,-38.43333],"type":"Point"}
+}

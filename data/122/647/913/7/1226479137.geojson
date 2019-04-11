@@ -1,0 +1,68 @@
+{
+  "id": 1226479137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.06667,-37.65,175.06667,-37.65",
+    "geom:latitude":-37.65,
+    "geom:longitude":175.06667,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Te Akatea",
+    "gn:country_code":"NZ",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181636,
+    "gn:latitude":-37.65,
+    "gn:longitude":175.06667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Te Akatea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181636
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"edb3d8d8d39cf101d7d8fc51e0fe513a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":1226479137,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1226479137,
+    "wof:lastmodified":1537090666,
+    "wof:name":"Te Akatea",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.06667,
+    -37.65,
+    175.06667,
+    -37.65
+],
+  "geometry": {"coordinates":[175.06666999999999,-37.65],"type":"Point"}
+}

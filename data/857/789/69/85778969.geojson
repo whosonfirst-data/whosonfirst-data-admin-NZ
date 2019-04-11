@@ -1,0 +1,105 @@
+{
+  "id": 85778969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4913872.013794,
+    "geom:bbox":"174.708226,-36.722127,174.708226,-36.722127",
+    "geom:latitude":-36.722127,
+    "geom:longitude":174.708226,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.722127,
+    "lbl:longitude":174.708226,
+    "mps:latitude":-36.709764,
+    "mps:longitude":174.688927,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:note":"extra directiona77l",
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Albany North"
+    ],
+    "name:unk_x_variant":[
+        "Albany North"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Albany North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":26,
+    "qs:photo_sum":62,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726664,
+        "qs:id":267156,
+        "qs_pg:id":267156
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b428be8b63617c0894c18efdf1dcd591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85778969,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778969,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859879,
+    "wof:name":"Albany North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.708226,
+    -36.722127,
+    174.708226,
+    -36.722127
+],
+  "geometry": {"coordinates":[174.708226,-36.722127],"type":"Point"}
+}

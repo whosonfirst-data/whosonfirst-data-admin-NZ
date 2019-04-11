@@ -1,0 +1,91 @@
+{
+  "id": 101915403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":122709.611393,
+    "geom:bbox":"176.072584796,-38.7612730001,176.075377569,-38.7512335703",
+    "geom:latitude":-38.755678,
+    "geom:longitude":176.074029,
+    "gn:population":22469,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.755558,
+    "lbl:longitude":176.073938,
+    "mps:latitude":-38.755558,
+    "mps:longitude":176.073938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Taupo"
+    ],
+    "name:eng_x_variant":[
+        "TUO",
+        "Taupo Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Taupo",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":360.0,
+    "wd:latitude":-38.69,
+    "wd:longitude":176.08,
+    "wd:wordcount":1271,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dfa3a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181742,
+        "gp:id":2350750,
+        "wd:id":"Q2397257",
+        "wk:page":"Taupo"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7fb2936ad6e09fac8f2383417b918d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":101915403,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101915403,
+    "wof:lastmodified":1527643141,
+    "wof:name":"Taupo",
+    "wof:parent_id":102079281,
+    "wof:placetype":"locality",
+    "wof:population":22469,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914385
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.07258479626503,
+    -38.76127300014046,
+    176.07537756867492,
+    -38.75123357029495
+],
+  "geometry": {"coordinates":[[[176.0733723984475,-38.75128933159789],[176.07410041587733,-38.75123357029495],[176.07428771751051,-38.75262098904965],[176.07537756867492,-38.76069182197536],[176.07533875388722,-38.76127300014046],[176.07479425996689,-38.76122120670762],[176.07420637304028,-38.75926044718123],[176.07361637641631,-38.75724853554181],[176.07317196022262,-38.75557363710605],[176.07294599483788,-38.75390977587998],[176.07258479626503,-38.75140890508411],[176.0733723984475,-38.75128933159789]]],"type":"Polygon"}
+}

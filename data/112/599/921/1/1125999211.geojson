@@ -1,0 +1,98 @@
+{
+  "id": 1125999211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.46667,-36.63333,175.46667,-36.63333",
+    "geom:latitude":-36.63333,
+    "geom:longitude":175.46667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.63333,
+    "lbl:longitude":175.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Colville"
+    ],
+    "name:eng_x_preferred":[
+        "Colville"
+    ],
+    "name:may_x_preferred":[
+        "Colville"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2192182,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Colville",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Waikato",
+    "qs_pg:photos":369,
+    "qs_pg:photos_1k":75,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":369,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":241200,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348370,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Waikato",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192182,
+        "gp:id":2348370,
+        "qs_pg:id":241200,
+        "wd:id":"Q5150283"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497299544,
+    "wof:geomhash":"f9c133b9ef1e2284572a8a81721591f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1125999211,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1125999211,
+    "wof:lastmodified":1514494102,
+    "wof:name":"Colville",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.46667,
+    -36.63333,
+    175.46667,
+    -36.63333
+],
+  "geometry": {"coordinates":[175.46666999999999,-36.63333],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 101914527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5352.150982,
+    "geom:bbox":"174.274386655,-39.5401341273,174.274807837,-39.5382953701",
+    "geom:latitude":-39.539218,
+    "geom:longitude":174.274593,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.539223,
+    "lbl:longitude":174.274594,
+    "mps:latitude":-39.539223,
+    "mps:longitude":174.274594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Normanby"
+    ],
+    "name:eng_x_variant":[
+        "Normanby Town District"
+    ],
+    "name:msa_x_preferred":[
+        "Normanby"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Normanby",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":323,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df148-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186049,
+        "gp:id":2349734,
+        "wd:id":"Q7052998",
+        "wk:page":"Normanby, Taranaki"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"77979cdc5a15b6319546fd582aef19c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101914527,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101914527,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527688586,
+    "wof:name":"Normanby",
+    "wof:parent_id":102079295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914265
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.2743866550506,
+    -39.54013412730232,
+    174.27480783747083,
+    -39.53829537011951
+],
+  "geometry": {"coordinates":[[[174.27438665505059,-39.53829767178959],[174.27446995244361,-39.53829708347032],[174.27468365985919,-39.53829537011951],[174.27469965127605,-39.53851852225367],[174.27472020917327,-39.53881054159562],[174.27480783747083,-39.54010945864304],[174.27449286572516,-39.54013412730232],[174.27438665505059,-39.53829767178959]]],"type":"Polygon"}
+}

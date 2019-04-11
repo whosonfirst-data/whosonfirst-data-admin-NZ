@@ -1,0 +1,68 @@
+{
+  "id": 1259517651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.76667,-37.63333,175.76667,-37.63333",
+    "geom:latitude":-37.63333,
+    "geom:longitude":175.76667,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Manawaru",
+    "gn:country_code":"NZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187805,
+    "gn:latitude":-37.63333,
+    "gn:longitude":175.76667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Manawaru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187805
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ab637f5c0783230e8c6902b744a1ef27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":1259517651,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1259517651,
+    "wof:lastmodified":1536809316,
+    "wof:name":"Manawaru",
+    "wof:parent_id":102079267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.76667,
+    -37.63333,
+    175.76667,
+    -37.63333
+],
+  "geometry": {"coordinates":[175.76667,-37.63333],"type":"Point"}
+}

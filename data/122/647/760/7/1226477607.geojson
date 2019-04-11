@@ -1,0 +1,68 @@
+{
+  "id": 1226477607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.15,-35.56667,174.15,-35.56667",
+    "geom:latitude":-35.56667,
+    "geom:longitude":174.15,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Riponui",
+    "gn:country_code":"NZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183419,
+    "gn:latitude":-35.56667,
+    "gn:longitude":174.15,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Riponui",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183419
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a7e3ff67a15f5ca3ec1a8c3392beace7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1226477607,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1226477607,
+    "wof:lastmodified":1537092973,
+    "wof:name":"Riponui",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.15,
+    -35.56667,
+    174.15,
+    -35.56667
+],
+  "geometry": {"coordinates":[174.15000000000001,-35.56667],"type":"Point"}
+}

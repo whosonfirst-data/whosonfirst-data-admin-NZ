@@ -1,0 +1,82 @@
+{
+  "id": 1125946913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.1545025,-37.5674535,178.1545025,-37.5674535",
+    "geom:latitude":-37.567453,
+    "geom:longitude":178.154503,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.567453,
+    "lbl:longitude":178.154503,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Potaka",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Gisborne",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1286386,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643411,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Gisborne",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643411,
+        "qs_pg:id":1286386
+    },
+    "wof:country":"NZ",
+    "wof:created":1497297318,
+    "wof:geomhash":"2bb11c8efd3e66aaa28d6c0c9b07d283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":1125946913,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1125946913,
+    "wof:lastmodified":1509402434,
+    "wof:name":"Potaka",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.1545025,
+    -37.5674535,
+    178.1545025,
+    -37.5674535
+],
+  "geometry": {"coordinates":[178.15450250000001,-37.5674535],"type":"Point"}
+}

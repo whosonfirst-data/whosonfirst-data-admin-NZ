@@ -1,0 +1,110 @@
+{
+  "id": 1125821001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.05993,-40.83624,175.05993,-40.83624",
+    "geom:latitude":-40.83624,
+    "geom:longitude":175.05993,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.83624,
+    "lbl:longitude":175.05993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Peka Peka"
+    ],
+    "name:eng_x_preferred":[
+        "Peka Peka"
+    ],
+    "name:epo_x_preferred":[
+        "Peka Peka"
+    ],
+    "name:fre_x_preferred":[
+        "Peka Peka"
+    ],
+    "name:ger_x_preferred":[
+        "Peka Peka"
+    ],
+    "name:may_x_preferred":[
+        "Peka Peka"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u06a9\u0627 \u067e\u06a9\u0627"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7798673,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Peka Peka",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":62,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":62,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1086334,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644298,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798673,
+        "gp:id":28644298,
+        "qs_pg:id":1086334,
+        "wd:id":"Q2067747"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497292064,
+    "wof:geomhash":"bf2f354d2f1522fb2f1b86958bbd7255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":1125821001,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1125821001,
+    "wof:lastmodified":1514494398,
+    "wof:name":"Peka Peka",
+    "wof:parent_id":102079315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.05993,
+    -40.83624,
+    175.05993,
+    -40.83624
+],
+  "geometry": {"coordinates":[175.05993000000001,-40.83624],"type":"Point"}
+}

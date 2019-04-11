@@ -1,0 +1,68 @@
+{
+  "id": 1276690529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.65,-43.45,172.65,-43.45",
+    "geom:latitude":-43.45,
+    "geom:longitude":172.65,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"60.0",
+    "gn:asciiname":"Ouruhia",
+    "gn:country_code":"NZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185187,
+    "gn:latitude":-43.45,
+    "gn:longitude":172.65,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Ouruhia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185187
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c2642c53229857f423acf846c5591934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":1276690529,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1276690529,
+    "wof:lastmodified":1536797264,
+    "wof:name":"Ouruhia",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.65,
+    -43.45,
+    172.65,
+    -43.45
+],
+  "geometry": {"coordinates":[172.65000000000001,-43.45],"type":"Point"}
+}

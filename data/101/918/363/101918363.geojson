@@ -1,0 +1,86 @@
+{
+  "id": 101918363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21641.371922,
+    "geom:bbox":"176.836556636,-39.6556772532,176.839549685,-39.6539020733",
+    "geom:latitude":-39.654626,
+    "geom:longitude":176.838241,
+    "gn:population":61696,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.6546,
+    "lbl:longitude":176.838329,
+    "mps:latitude":-39.6546,
+    "mps:longitude":176.838329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hastings"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hastings",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-39.65,
+    "wd:longitude":176.833333,
+    "wd:wordcount":4493,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df742-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2190224,
+        "gp:id":2348712,
+        "wd:id":"Q1015690",
+        "wk:page":"Hastings, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"516e1183c8c0ae0b5bf839a28424f611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101918363,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918363,
+    "wof:lastmodified":1527715669,
+    "wof:name":"Hastings",
+    "wof:parent_id":102079329,
+    "wof:placetype":"locality",
+    "wof:population":61696,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914313
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.8365566355779,
+    -39.65567725317729,
+    176.83954968454273,
+    -39.65390207330208
+],
+  "geometry": {"coordinates":[[[176.83655663557789,-39.65400342141407],[176.8367010666052,-39.65393730915301],[176.83713644960102,-39.65390207330208],[176.83785532759484,-39.65393131467377],[176.8381570757364,-39.6539672047337],[176.83842520667801,-39.65404746684708],[176.83866797287175,-39.65419530334143],[176.83873640694176,-39.65427145019302],[176.83892436013133,-39.65447962618451],[176.83950530260913,-39.65512700442832],[176.83954326909776,-39.65516931214328],[176.83954907280074,-39.65517577936399],[176.83954968454273,-39.6551764610827],[176.83907716471037,-39.65567725317729],[176.83900528551413,-39.65562942338713],[176.83900434655075,-39.65563022371878],[176.83771387930381,-39.65477286561248],[176.83767768792688,-39.65474882031849],[176.83676255486552,-39.65414080359227],[176.83655663557789,-39.65400342141407]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276905665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.61667,-43.43333,172.61667,-43.43333",
+    "geom:latitude":-43.43333,
+    "geom:longitude":172.61667,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"60.0",
+    "gn:asciiname":"Coutts Island",
+    "gn:country_code":"NZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2192068,
+    "gn:latitude":-43.43333,
+    "gn:longitude":172.61667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Coutts Island",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192068
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"31ba9db09fb2dfb1d92bdbc79f5226e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":1276905665,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1276905665,
+    "wof:lastmodified":1537006082,
+    "wof:name":"Coutts Island",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.61667,
+    -43.43333,
+    172.61667,
+    -43.43333
+],
+  "geometry": {"coordinates":[172.61667,-43.43333],"type":"Point"}
+}

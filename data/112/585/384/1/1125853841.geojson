@@ -1,0 +1,95 @@
+{
+  "id": 1125853841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.5,-35.4,173.5,-35.4",
+    "geom:latitude":-35.4,
+    "geom:longitude":173.5,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":486,
+    "gn:population":486,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.4,
+    "lbl:longitude":173.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rawene"
+    ],
+    "name:eng_x_preferred":[
+        "Rawene"
+    ],
+    "name:ger_x_preferred":[
+        "Rawene"
+    ],
+    "name:mao_x_preferred":[
+        "Rawene"
+    ],
+    "name:may_x_preferred":[
+        "Rawene"
+    ],
+    "name:unk_x_variant":[
+        "Rawene Town District"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2183601,
+    "qs_pg:gn_pop":486,
+    "qs_pg:name":"Rawene",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":573153,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183601,
+        "qs_pg:id":573153,
+        "wd:id":"Q7296972"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497293527,
+    "wof:geomhash":"02a239e41d7a7cb9d8f8c2168b70ba03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1125853841,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1125853841,
+    "wof:lastmodified":1514494413,
+    "wof:name":"Rawene",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.5,
+    -35.4,
+    173.5,
+    -35.4
+],
+  "geometry": {"coordinates":[173.5,-35.4],"type":"Point"}
+}

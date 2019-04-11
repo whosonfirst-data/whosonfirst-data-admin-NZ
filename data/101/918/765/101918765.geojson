@@ -1,0 +1,83 @@
+{
+  "id": 101918765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3709.302066,
+    "geom:bbox":"174.936906666,-37.2653334644,174.938168946,-37.2647225525",
+    "geom:latitude":-37.264933,
+    "geom:longitude":174.937629,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.264974,
+    "lbl:longitude":174.937709,
+    "mps:latitude":-37.264974,
+    "mps:longitude":174.937709,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tuakau"
+    ],
+    "name:eng_x_variant":[
+        "Tuakau Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tuakau",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":606,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd0d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2180831,
+        "gp:id":2350980,
+        "wd:id":"Q6979900",
+        "wk:page":"Tuakau"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8bd8d7fb285f0b097ffe1c103e91bd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101918765,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918765,
+    "wof:lastmodified":1527715669,
+    "wof:name":"Tuakau",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915029
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.9369066663,
+    -37.26533346436456,
+    174.93816894580536,
+    -37.2647225525155
+],
+  "geometry": {"coordinates":[[[174.93816894580536,-37.2647225525155],[174.93784395321154,-37.26525775126596],[174.93779856484534,-37.26533346436456],[174.93778569046131,-37.2653281785382],[174.93772094048637,-37.26528337375965],[174.93725265159387,-37.26495971285314],[174.93724952673108,-37.26495751129509],[174.93690666629999,-37.26474321784363],[174.93816894580536,-37.2647225525155]]],"type":"Polygon"}
+}

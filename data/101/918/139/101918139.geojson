@@ -1,0 +1,80 @@
+{
+  "id": 101918139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15140.15926,
+    "geom:bbox":"172.732708221,-43.5698336892,172.735067686,-43.5681112684",
+    "geom:latitude":-43.569011,
+    "geom:longitude":172.733983,
+    "geonames:id":"2183578,6220850",
+    "iso:country":"NZ",
+    "lbl:latitude":-43.569068,
+    "lbl:longitude":172.734011,
+    "mps:latitude":-43.569053,
+    "mps:longitude":172.734031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Redcliffs"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0434\u043a\u043b\u0438\u0444\u0444\u0441"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Redcliffs",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":475,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183578,
+        "gp:id":2350384,
+        "wd:id":"Q7305572"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2b1d4db4a5bdfee98ca34a7d3563fdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101918139,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918139,
+    "wof:lastmodified":1527715675,
+    "wof:name":"Redcliffs",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.73270822054008,
+    -43.56983368924613,
+    172.7350676864291,
+    -43.56811126840531
+],
+  "geometry": {"coordinates":[[[172.7337127030633,-43.56983368924613],[172.73332613050735,-43.5696607980125],[172.73319113358897,-43.56936517970879],[172.73277982293598,-43.56927386416346],[172.73270822054008,-43.56925803769598],[172.73296291620937,-43.56890238628948],[172.73326068024511,-43.56902980117221],[172.73414328542418,-43.56845634246342],[172.73416848459124,-43.56841157785286],[172.73454709613412,-43.5683927371182],[172.73459663082207,-43.56833083739772],[172.73477236627696,-43.56811126840531],[172.73506768642909,-43.5682027609877],[172.73476026003985,-43.56898924041442],[172.7337127030633,-43.56983368924613]]],"type":"Polygon"}
+}

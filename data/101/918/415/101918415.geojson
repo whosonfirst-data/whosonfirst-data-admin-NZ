@@ -1,0 +1,88 @@
+{
+  "id": 101918415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":39266.125756,
+    "geom:bbox":"177.889414765,-38.6260152486,177.891945002,-38.6235664037",
+    "geom:latitude":-38.624788,
+    "geom:longitude":177.890676,
+    "gn:population":386,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.624788,
+    "lbl:longitude":177.890666,
+    "mps:latitude":-38.624788,
+    "mps:longitude":177.890666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Patutahi"
+    ],
+    "name:eng_x_variant":[
+        "Patutahi Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Patutahi",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d7042-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2184772,
+        "gp:id":2350097,
+        "qs:id":260712,
+        "wd:id":"Q7148767",
+        "wk:page":"Patutahi"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5109e70aaff0bc1bad328f3baec5c3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101918415,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":101918415,
+    "wof:lastmodified":1527715670,
+    "wof:name":"Patutahi",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:population":386,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917553
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.88941476484692,
+    -38.62601524856545,
+    177.89194500161585,
+    -38.62356640368843
+],
+  "geometry": {"coordinates":[[[177.89194500161585,-38.62391679852104],[177.89158326461251,-38.62497151854673],[177.89155274447478,-38.62506050278832],[177.89122535607177,-38.62601524856545],[177.88941476484692,-38.62566037900014],[177.88974185886602,-38.62468445215269],[177.88977073950753,-38.62459833476911],[177.89011648502662,-38.62356640368843],[177.89194500161585,-38.62391679852104]]],"type":"Polygon"}
+}

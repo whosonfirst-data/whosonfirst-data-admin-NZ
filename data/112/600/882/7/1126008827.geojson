@@ -1,0 +1,126 @@
+{
+  "id": 1126008827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.11667,-35.31667,174.11667,-35.31667",
+    "geom:latitude":-35.31667,
+    "geom:longitude":174.11667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":360,
+    "gn:population":360,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.31667,
+    "lbl:longitude":174.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Opua"
+    ],
+    "name:dut_x_preferred":[
+        "Opua"
+    ],
+    "name:eng_x_preferred":[
+        "Opua"
+    ],
+    "name:fre_x_preferred":[
+        "Opua"
+    ],
+    "name:ger_x_preferred":[
+        "Opua"
+    ],
+    "name:hun_x_preferred":[
+        "Opua"
+    ],
+    "name:ita_x_preferred":[
+        "Opua"
+    ],
+    "name:mao_x_preferred":[
+        "Opua"
+    ],
+    "name:may_x_preferred":[
+        "Opua"
+    ],
+    "name:por_x_preferred":[
+        "Opua"
+    ],
+    "name:war_x_preferred":[
+        "Opua"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2185493,
+    "qs_pg:gn_pop":360,
+    "qs_pg:name":"Opua",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Northland",
+    "qs_pg:photos":208,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":208,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":245605,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2349887,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Northland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185493,
+        "gp:id":2349887,
+        "qs_pg:id":245605,
+        "wd:id":"Q933663"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497300143,
+    "wof:geomhash":"a5f14933f34f64fb8f1a495302d17c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1126008827,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1126008827,
+    "wof:lastmodified":1514494331,
+    "wof:name":"Opua",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:population":360,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.11667,
+    -35.31667,
+    174.11667,
+    -35.31667
+],
+  "geometry": {"coordinates":[174.11667,-35.31667],"type":"Point"}
+}

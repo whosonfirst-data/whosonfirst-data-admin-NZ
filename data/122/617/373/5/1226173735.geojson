@@ -1,0 +1,68 @@
+{
+  "id": 1226173735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.11667,-37.53333,175.11667,-37.53333",
+    "geom:latitude":-37.53333,
+    "geom:longitude":175.11667,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Pukekapia",
+    "gn:country_code":"NZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2184173,
+    "gn:latitude":-37.53333,
+    "gn:longitude":175.11667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Pukekapia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184173
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a62ff2e495e2d87f031b485a9a98d086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":1226173735,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1226173735,
+    "wof:lastmodified":1537035846,
+    "wof:name":"Pukekapia",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.11667,
+    -37.53333,
+    175.11667,
+    -37.53333
+],
+  "geometry": {"coordinates":[175.11667,-37.53333],"type":"Point"}
+}

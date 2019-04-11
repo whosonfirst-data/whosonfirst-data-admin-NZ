@@ -1,0 +1,111 @@
+{
+  "id": 85778407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1193281.951642,
+    "geom:bbox":"174.756745288,-41.3287563,174.771271906,-41.3149498172",
+    "geom:latitude":-41.321402,
+    "geom:longitude":174.76531,
+    "gn:latitude":-41.31828,
+    "gn:longitude":174.76019,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.322235,
+    "lbl:longitude":174.765041,
+    "mps:latitude":-41.321564,
+    "mps:longitude":174.765449,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Kingston"
+    ],
+    "name:unk_x_variant":[
+        "Kingston"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Kingston",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Kingston",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":7,
+    "qs:photo_sum":17,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244791,
+        "gp:id":22726421,
+        "qs:id":483273,
+        "qs_pg:id":483273
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"479dba37d44a0941bbbcb966f2a3c945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85778407,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778407,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497309884,
+    "wof:name":"Kingston",
+    "wof:parent_id":101914285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.7567452878955,
+    -41.32875629998022,
+    174.77127190618262,
+    -41.31494981722494
+],
+  "geometry": {"coordinates":[[[174.77050781214626,-41.32320103695001],[174.77050786122646,-41.32320110222002],[174.77107567282115,-41.32395717946217],[174.77127190618262,-41.32526372759994],[174.77107570469042,-41.32657002225425],[174.77050781218799,-41.32732625507497],[174.77050781200006,-41.32732632039996],[174.76608847314179,-41.32732632039996],[174.76501464800026,-41.32875629998022],[174.76226806600039,-41.3275371206732],[174.76226806600039,-41.32732632039996],[174.76226806600022,-41.32526373710824],[174.76098750906721,-41.32355853070994],[174.75964537494372,-41.32320110219995],[174.75952148400017,-41.32320110220004],[174.75952148400017,-41.32316810836233],[174.75949057239535,-41.32315987618295],[174.75674528789551,-41.31950435538222],[174.76111198187135,-41.31701262214985],[174.76346529190602,-41.31701262214985],[174.76501459897281,-41.31494988249992],[174.76501464800026,-41.31494981722502],[174.7694337909864,-41.31494981722494],[174.76943383076258,-41.31494987815326],[174.77050781200006,-41.31494988250001],[174.77050781200006,-41.319075623],[174.77050781214626,-41.31910839915388],[174.77050781214626,-41.32320103695001]]],"type":"Polygon"}
+}

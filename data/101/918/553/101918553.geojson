@@ -1,0 +1,75 @@
+{
+  "id": 101918553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8832.79464,
+    "geom:bbox":"174.420883254,-35.7847018045,174.422833945,-35.7839353134",
+    "geom:latitude":-35.784318,
+    "geom:longitude":174.42191,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.784374,
+    "lbl:longitude":174.422057,
+    "mps:latitude":-35.784374,
+    "mps:longitude":174.422057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tamaterau"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tamaterau",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644202
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8de3e47c6bb7da8062f5ee8e84058491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101918553,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918553,
+    "wof:lastmodified":1487270014,
+    "wof:name":"Tamaterau",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916831
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.42088325393019,
+    -35.78470180450293,
+    174.4228339450724,
+    -35.78393531337374
+],
+  "geometry": {"coordinates":[[[174.4219352069303,-35.784626468698],[174.42179579445786,-35.78451844061377],[174.4214058139433,-35.78443551177848],[174.42132047872312,-35.78442767986543],[174.4208993094679,-35.78428118899388],[174.42088374394413,-35.78401191680722],[174.42088325393019,-35.78393531337374],[174.42156372242735,-35.78405117653224],[174.42156816439044,-35.78405201626412],[174.42224904544625,-35.78413452183657],[174.42225459323811,-35.78413534629791],[174.4228339450724,-35.7841759922516],[174.42274314916804,-35.78470180450293],[174.4219352069303,-35.784626468698]]],"type":"Polygon"}
+}

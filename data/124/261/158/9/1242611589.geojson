@@ -1,0 +1,68 @@
+{
+  "id": 1242611589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.76667,-35.85,173.76667,-35.85",
+    "geom:latitude":-35.85,
+    "geom:longitude":173.76667,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Maitahi",
+    "gn:country_code":"NZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187986,
+    "gn:latitude":-35.85,
+    "gn:longitude":173.76667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Maitahi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187986
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a6559ea9edfbb247419a6bc180214b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":1242611589,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1242611589,
+    "wof:lastmodified":1537014035,
+    "wof:name":"Maitahi",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.76667,
+    -35.85,
+    173.76667,
+    -35.85
+],
+  "geometry": {"coordinates":[173.76667,-35.85],"type":"Point"}
+}

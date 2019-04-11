@@ -1,0 +1,82 @@
+{
+  "id": 1125987793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.105531,-38.767468,177.105531,-38.767468",
+    "geom:latitude":-38.767468,
+    "geom:longitude":177.105531,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.767468,
+    "lbl:longitude":177.105531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kaitawa",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Hawke's Bay",
+    "qs_pg:photos":71,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":71,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":996185,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643025,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Hawke's Bay",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643025,
+        "qs_pg:id":996185
+    },
+    "wof:country":"NZ",
+    "wof:created":1497298896,
+    "wof:geomhash":"f686db53e057b782d8b8d7b251126bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079327,
+            "locality_id":1125987793,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1125987793,
+    "wof:lastmodified":1509405185,
+    "wof:name":"Kaitawa",
+    "wof:parent_id":102079327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.105531,
+    -38.767468,
+    177.105531,
+    -38.767468
+],
+  "geometry": {"coordinates":[177.10553100000001,-38.767468],"type":"Point"}
+}

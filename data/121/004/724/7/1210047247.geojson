@@ -1,0 +1,68 @@
+{
+  "id": 1210047247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.95806,-41.18361,175.95806,-41.18361",
+    "geom:latitude":-41.18361,
+    "geom:longitude":175.95806,
+    "gn:admin1_code":"G2",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Homewood",
+    "gn:country_code":"NZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2206885,
+    "gn:latitude":-41.18361,
+    "gn:longitude":175.95806,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Homewood",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2206885
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d4b9c8459291ccc94ffc1afe913d9cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
+            "locality_id":1210047247,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1210047247,
+    "wof:lastmodified":1536377618,
+    "wof:name":"Homewood",
+    "wof:parent_id":102079343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.95806000000005,
+    -41.18361,
+    175.95806000000005,
+    -41.18361
+],
+  "geometry": {"coordinates":[175.95806000000005,-41.18361],"type":"Point"}
+}

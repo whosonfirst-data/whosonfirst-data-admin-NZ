@@ -1,0 +1,84 @@
+{
+  "id": 101918621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26343.233227,
+    "geom:bbox":"172.33871631,-41.8014539536,172.342394316,-41.7992764219",
+    "geom:latitude":-41.800355,
+    "geom:longitude":172.340669,
+    "gn:population":624,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.800661,
+    "lbl:longitude":172.340993,
+    "mps:latitude":-41.800661,
+    "mps:longitude":172.340993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Murchison"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Murchison",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":445,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df0a8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186377,
+        "gp:id":2349649,
+        "wd:id":"Q971172",
+        "wk:page":"Murchison, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"cdce13cd15453f587d66ef9dd988eaeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101918621,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":101918621,
+    "wof:lastmodified":1527715670,
+    "wof:name":"Murchison",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:population":624,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915077
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.3387163097961,
+    -41.80145395364965,
+    172.3423943160374,
+    -41.79927642193702
+],
+  "geometry": {"coordinates":[[[172.3423943160374,-41.79927668877727],[172.34238517815413,-41.79989473678649],[172.34127774610718,-41.79993598643367],[172.34129972848663,-41.80064548338103],[172.34130848789204,-41.8010238084002],[172.34038406666144,-41.80101032638746],[172.33990308230636,-41.80099808547284],[172.33989952077673,-41.80139929766401],[172.3392704292265,-41.80145395364965],[172.33874458243076,-41.801340123511],[172.3387163097961,-41.80093839440444],[172.33909867643436,-41.80073535463156],[172.33990515146775,-41.8007661333173],[172.33990788796552,-41.80045897446379],[172.34074505976417,-41.80047669166747],[172.34074553085856,-41.80024767132809],[172.34069880302474,-41.79930480461828],[172.34211729055269,-41.79927642193702],[172.3423943160374,-41.79927668877727]]],"type":"Polygon"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 85781867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1596981.816495,
+    "geom:bbox":"172.631482,-43.575935,172.631482,-43.575935",
+    "geom:latitude":-43.575935,
+    "geom:longitude":172.631482,
+    "gn:latitude":-43.5678,
+    "gn:longitude":172.628,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.575935,
+    "lbl:longitude":172.631482,
+    "mps:latitude":-43.574375,
+    "mps:longitude":172.628766,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Cashmere"
+    ],
+    "name:eng_x_variant":[
+        "Cashmere Central"
+    ],
+    "name:kor_x_preferred":[
+        "\uce90\uc2dc\ubbf8\uc5b4"
+    ],
+    "name:nld_x_preferred":[
+        "Cashmere"
+    ],
+    "name:por_x_preferred":[
+        "Cashmere"
+    ],
+    "name:unk_x_variant":[
+        "Cashmere"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Cashmere",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Cashmere",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":132,
+    "qs:photo_sum":373,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":81,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6220896,
+        "gp:id":28644844,
+        "qs:id":886868,
+        "qs_pg:id":886868
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4020de4c122e33d9576630b5f39bef7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781867,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85781867,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860283,
+    "wof:name":"Cashmere",
+    "wof:parent_id":101914521,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.631482,
+    -43.575935,
+    172.631482,
+    -43.575935
+],
+  "geometry": {"coordinates":[172.63148200000001,-43.575935],"type":"Point"}
+}

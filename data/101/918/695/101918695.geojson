@@ -1,0 +1,79 @@
+{
+  "id": 101918695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1647.03808,
+    "geom:bbox":"175.696205248,-40.647712105,175.696529675,-40.6471578698",
+    "geom:latitude":-40.647436,
+    "geom:longitude":175.696367,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.647456,
+    "lbl:longitude":175.696425,
+    "mps:latitude":-40.647456,
+    "mps:longitude":175.696425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Eketahuna"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Eketahuna",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":302,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6227908,
+        "gp:id":28643817,
+        "wd:id":"Q377814",
+        "wk:page":"Eketahuna"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9d0893a6d8e92fa0a9085f23cbe1fc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":101918695,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918695,
+    "wof:lastmodified":1527715672,
+    "wof:name":"Eketahuna",
+    "wof:parent_id":102079309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914603
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.6962052482751,
+    -40.64771210497926,
+    175.69652967451455,
+    -40.64715786979095
+],
+  "geometry": {"coordinates":[[[175.69652357167149,-40.64771210497926],[175.69620524827511,-40.64770872203161],[175.69620602408457,-40.64716902653271],[175.69652967451455,-40.64715786979095],[175.69652357167149,-40.64771210497926]]],"type":"Polygon"}
+}

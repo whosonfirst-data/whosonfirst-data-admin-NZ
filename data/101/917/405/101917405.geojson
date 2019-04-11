@@ -1,0 +1,90 @@
+{
+  "id": 101917405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26754.72992,
+    "geom:bbox":"174.907363341,-37.3314833881,174.913478693,-37.3288003651",
+    "geom:latitude":-37.330154,
+    "geom:longitude":174.910484,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.330156,
+    "lbl:longitude":174.910478,
+    "mps:latitude":-37.330155,
+    "mps:longitude":174.91048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Onewhero"
+    ],
+    "name:eng_x_preferred":[
+        "Onewhero"
+    ],
+    "name:may_x_preferred":[
+        "Onewhero"
+    ],
+    "name:msa_x_preferred":[
+        "Onewhero"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Onewhero",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":219,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c5310-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185565,
+        "gp:id":2349863,
+        "wd:id":"Q7093772",
+        "wk:page":"Onewhero"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e26111352011760ab3285908b286fcf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101917405,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101917405,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715913,
+    "wof:name":"Onewhero",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.90736334102257,
+    -37.33148338806509,
+    174.91347869295092,
+    -37.32880036512097
+],
+  "geometry": {"coordinates":[[[174.90960246592454,-37.33028776022776],[174.91090358482802,-37.32973534332117],[174.91310563650194,-37.32880036512097],[174.91335833505545,-37.329036469438],[174.91347869295092,-37.32914892280839],[174.91329649487614,-37.32921341863958],[174.90855653515808,-37.33120211311223],[174.90803941877735,-37.33148338806509],[174.90736334102257,-37.33123837376068],[174.90960246592454,-37.33028776022776]]],"type":"Polygon"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1125835377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.18189,-43.38905,170.18189,-43.38905",
+    "geom:latitude":-43.38905,
+    "geom:longitude":170.18189,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":315,
+    "gn:population":315,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.38905,
+    "lbl:longitude":170.18189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Franz Josef"
+    ],
+    "name:eng_x_preferred":[
+        "Franz Josef Glacier"
+    ],
+    "name:eng_x_variant":[
+        "Franz Josef"
+    ],
+    "name:ger_x_preferred":[
+        "Franz Josef/Waiau"
+    ],
+    "name:may_x_preferred":[
+        "Franz Josef"
+    ],
+    "name:mri_x_preferred":[
+        "Waiau"
+    ],
+    "name:unk_x_variant":[
+        "Waiho Gorge"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2190928,
+    "qs_pg:gn_pop":315,
+    "qs_pg:name":"Franz Josef",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"West Coast",
+    "qs_pg:photos":3895,
+    "qs_pg:photos_1k":789,
+    "qs_pg:photos_9k":17,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3895,
+    "qs_pg:photos_sr":22,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1171196,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348562,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"West Coast",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190928,
+        "gp:id":2348562,
+        "qs_pg:id":1171196,
+        "wd:id":"Q1447467"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497292692,
+    "wof:geomhash":"d02d45d6d0118ef664758e60ac2ab54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1125835377,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1125835377,
+    "wof:lastmodified":1514494129,
+    "wof:name":"Franz Josef",
+    "wof:parent_id":102079363,
+    "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.18189,
+    -43.38905,
+    170.18189,
+    -43.38905
+],
+  "geometry": {"coordinates":[170.18189000000001,-43.38905],"type":"Point"}
+}

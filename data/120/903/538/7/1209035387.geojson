@@ -1,0 +1,62 @@
+{
+  "id": 1209035387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.11349,-37.34914,175.11349,-37.34914",
+    "geom:latitude":-37.34914,
+    "geom:longitude":175.11349,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Whangamarino",
+    "gn:country_code":"NZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179330,
+    "gn:latitude":-37.34914,
+    "gn:longitude":175.11349,
+    "gn:modification_date":"2015-03-18",
+    "gn:name":"Whangamarino",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179330
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"07aaed442bfa41bbfe51fe868194e944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209035387
+        }
+    ],
+    "wof:id":1209035387,
+    "wof:lastmodified":1536299718,
+    "wof:name":"Whangamarino",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.11348999999996,
+    -37.34914000000001,
+    175.11348999999996,
+    -37.34914000000001
+],
+  "geometry": {"coordinates":[175.11348999999996,-37.34914000000001],"type":"Point"}
+}

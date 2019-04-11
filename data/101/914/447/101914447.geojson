@@ -1,0 +1,75 @@
+{
+  "id": 101914447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":72645.06586,
+    "geom:bbox":"172.700426925,-43.3421388626,172.702984441,-43.3357166204",
+    "geom:latitude":-43.338662,
+    "geom:longitude":172.701627,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.338653,
+    "lbl:longitude":172.70161,
+    "mps:latitude":-43.338649,
+    "mps:longitude":172.701605,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Woodend Beach"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Woodend Beach",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28645620,
+        "qs_pg:id":1327181
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6f1af0017b711d7fe8a27a2ad7e617f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101914447,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101914447,
+    "wof:lastmodified":1497294145,
+    "wof:name":"Woodend Beach",
+    "wof:parent_id":102079367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.70042692489105,
+    -43.34213886255909,
+    172.70298444144478,
+    -43.33571662043978
+],
+  "geometry": {"coordinates":[[[172.70155303008704,-43.34213886255909],[172.70089841033254,-43.34209240905515],[172.70144136594467,-43.34020046731604],[172.70106939960405,-43.34012702383546],[172.70042692489105,-43.33951837997785],[172.7012236402482,-43.33651292631183],[172.70083484627312,-43.33589351323122],[172.70156261366802,-43.33571662043978],[172.70165958637276,-43.33618789571729],[172.70221754542717,-43.33628900987544],[172.70206969522187,-43.33692304646982],[172.7026721797308,-43.3370108602926],[172.70298444144478,-43.33705848573027],[172.7022862240718,-43.33959624668096],[172.70223666129021,-43.33976716929085],[172.70222227758717,-43.33981700685636],[172.70174790408936,-43.34146209695515],[172.70155303008704,-43.34213886255909]]],"type":"Polygon"}
+}

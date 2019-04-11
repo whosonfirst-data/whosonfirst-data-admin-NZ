@@ -1,0 +1,101 @@
+{
+  "id": 1125767721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.45,-37.76667,178.45,-37.76667",
+    "geom:latitude":-37.76667,
+    "geom:longitude":178.45,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.76667,
+    "lbl:longitude":178.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rangitukia"
+    ],
+    "name:eng_x_preferred":[
+        "Rangitukia"
+    ],
+    "name:fre_x_preferred":[
+        "Rangitukia"
+    ],
+    "name:ger_x_preferred":[
+        "Rangitukia"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2183697,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rangitukia",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Gisborne",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":892201,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350346,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Gisborne",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183697,
+        "gp:id":2350346,
+        "qs_pg:id":892201,
+        "wd:id":"Q1358832"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497289957,
+    "wof:geomhash":"66269f85d00c61df815017c4a95d1d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":1125767721,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1125767721,
+    "wof:lastmodified":1514494412,
+    "wof:name":"Rangitukia",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.45,
+    -37.76667,
+    178.45,
+    -37.76667
+],
+  "geometry": {"coordinates":[178.44999999999999,-37.76667],"type":"Point"}
+}

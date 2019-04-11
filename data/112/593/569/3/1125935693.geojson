@@ -1,0 +1,82 @@
+{
+  "id": 1125935693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.813353,-40.888406,172.813353,-40.888406",
+    "geom:latitude":-40.888406,
+    "geom:longitude":172.813353,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.888406,
+    "lbl:longitude":172.813353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Four Rivers",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Tasman",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985770,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28642927,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Tasman",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28642927,
+        "qs_pg:id":985770
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296961,
+    "wof:geomhash":"acf1f59b9b2fc3f77aa9a7ac991c5cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1125935693,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1125935693,
+    "wof:lastmodified":1512501896,
+    "wof:name":"Four Rivers",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.813353,
+    -40.888406,
+    172.813353,
+    -40.888406
+],
+  "geometry": {"coordinates":[172.81335300000001,-40.888406],"type":"Point"}
+}

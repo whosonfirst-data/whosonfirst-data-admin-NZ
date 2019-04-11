@@ -1,0 +1,72 @@
+{
+  "id": 1343895145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.83333,-43.75,172.83333,-43.75",
+    "geom:latitude":-43.75,
+    "geom:longitude":172.83333,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"60.0",
+    "gn:asciiname":"Puaha",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2184264,
+    "gn:latitude":-43.75,
+    "gn:longitude":172.83333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Puaha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puaho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184264
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"06ecc6c1f215bfe141aaa2999f2f08c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":1343895145,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1343895145,
+    "wof:lastmodified":1537676142,
+    "wof:name":"Puaha",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.83333000000005,
+    -43.75,
+    172.83333000000005,
+    -43.75
+],
+  "geometry": {"coordinates":[172.83333000000005,-43.75],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 85782023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15410289.678001,
+    "geom:bbox":"174.503612,-35.814622,174.503612,-35.814622",
+    "geom:latitude":-35.814622,
+    "geom:longitude":174.503612,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-35.814622,
+    "lbl:longitude":174.503612,
+    "mps:latitude":-35.81523,
+    "mps:longitude":174.500646,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "McLeod Bay"
+    ],
+    "name:eng_x_preferred":[
+        "McLeod Bay"
+    ],
+    "name:swe_x_preferred":[
+        "McLeod Bay"
+    ],
+    "name:unk_x_variant":[
+        "McLeod Bay"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":173,
+    "qs:local_sum":335,
+    "qs:localhoods":3,
+    "qs:name":"McLeod Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Northland",
+    "qs:name_adm2":"Whangarei District",
+    "qs:name_local":"Whangarei Heads",
+    "qs:photo_max":45,
+    "qs:photo_sum":119,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021755,
+    "qs:woe_adm2":55875890,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351369,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28645539,
+        "qs:id":1286891,
+        "qs_pg:id":1286891
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"378ea1bd5fd79eeef348b0113cba712a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":85782023,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":85782023,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860304,
+    "wof:name":"McLeod Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.503612,
+    -35.814622,
+    174.503612,
+    -35.814622
+],
+  "geometry": {"coordinates":[174.503612,-35.814622],"type":"Point"}
+}

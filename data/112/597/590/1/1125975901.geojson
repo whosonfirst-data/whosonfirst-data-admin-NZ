@@ -1,0 +1,89 @@
+{
+  "id": 1125975901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.580248,-41.100633,175.580248,-41.100633",
+    "geom:latitude":-41.100633,
+    "geom:longitude":175.580248,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.100633,
+    "lbl:longitude":175.580248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ponatahi"
+    ],
+    "name:eng_x_preferred":[
+        "Ponatahi"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ponatahi",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":147,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":147,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1154864,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644001,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644001,
+        "qs_pg:id":1154864,
+        "wd:id":"Q7227564"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497298348,
+    "wof:geomhash":"a33fcb68960e40a1ddb1e75bc69e7738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079345,
+            "locality_id":1125975901,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1125975901,
+    "wof:lastmodified":1514494400,
+    "wof:name":"Ponatahi",
+    "wof:parent_id":102079345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.580248,
+    -41.100633,
+    175.580248,
+    -41.100633
+],
+  "geometry": {"coordinates":[175.58024800000001,-41.100633],"type":"Point"}
+}

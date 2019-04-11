@@ -1,0 +1,62 @@
+{
+  "id": 1209043275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.84514,-37.31413,174.84514,-37.31413",
+    "geom:latitude":-37.31413,
+    "geom:longitude":174.84514,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Te Kohanga",
+    "gn:country_code":"NZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181497,
+    "gn:latitude":-37.31413,
+    "gn:longitude":174.84514,
+    "gn:modification_date":"2015-03-05",
+    "gn:name":"Te Kohanga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181497
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"28b453f2cf76adc100cb1cceb045aa37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209043275
+        }
+    ],
+    "wof:id":1209043275,
+    "wof:lastmodified":1536299476,
+    "wof:name":"Te Kohanga",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.84514,
+    -37.31413,
+    174.84514,
+    -37.31413
+],
+  "geometry": {"coordinates":[174.84513999999999,-37.31413],"type":"Point"}
+}

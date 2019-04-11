@@ -1,0 +1,84 @@
+{
+  "id": 101918129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25361.396495,
+    "geom:bbox":"172.29648101,-43.6149536769,172.299303698,-43.6131691513",
+    "geom:latitude":-43.613964,
+    "geom:longitude":172.297888,
+    "gn:population":1239,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.614068,
+    "lbl:longitude":172.297898,
+    "mps:latitude":-43.614068,
+    "mps:longitude":172.297898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Burnham"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Burnham",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":349,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d92de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192797,
+        "gp:id":2348255,
+        "wd:id":"Q137105",
+        "wk:page":"Burnham, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0457488bc4a2d2066fab1da6b5682b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101918129,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918129,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Burnham",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:population":1239,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916241
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.29648100981157,
+    -43.61495367688681,
+    172.29930369843132,
+    -43.61316915128607
+],
+  "geometry": {"coordinates":[[[172.29871902655358,-43.61345257113855],[172.29930369843132,-43.61428755554488],[172.2976492388396,-43.61491657636186],[172.29749881958671,-43.61495367688681],[172.29747295655653,-43.61469697679821],[172.29648100981157,-43.6133688292144],[172.29705157707659,-43.61316915128607],[172.29871902655358,-43.61345257113855]]],"type":"Polygon"}
+}

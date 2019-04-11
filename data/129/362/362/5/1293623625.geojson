@@ -1,0 +1,71 @@
+{
+  "id": 1293623625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.83497,-41.12488,174.83497,-41.12488",
+    "geom:latitude":-41.12488,
+    "geom:longitude":174.83497,
+    "gn:admin1_code":"G2",
+    "gn:admin2_code":"44.0",
+    "gn:asciiname":"Porirua Pa",
+    "gn:country_code":"NZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":2184394,
+    "gn:latitude":-41.12488,
+    "gn:longitude":174.83497,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Porirua Pa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Takapuwahia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184394
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"06a8d287ef1abf0cc85e1a66cbf406bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":1293623625,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1293623625,
+    "wof:lastmodified":1537676142,
+    "wof:name":"Porirua Pa",
+    "wof:parent_id":102079317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.83497,
+    -41.12488,
+    174.83497,
+    -41.12488
+],
+  "geometry": {"coordinates":[174.83497,-41.12488],"type":"Point"}
+}

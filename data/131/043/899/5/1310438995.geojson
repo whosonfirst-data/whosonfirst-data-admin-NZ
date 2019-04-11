@@ -1,0 +1,68 @@
+{
+  "id": 1310438995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.15,-45.81667,170.15,-45.81667",
+    "geom:latitude":-45.81667,
+    "geom:longitude":170.15,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Traquair",
+    "gn:country_code":"NZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180884,
+    "gn:latitude":-45.81667,
+    "gn:longitude":170.15,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Traquair",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180884
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"faccf3e13581abdb3bb8b1bb4073b608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":1310438995,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1310438995,
+    "wof:lastmodified":1537012293,
+    "wof:name":"Traquair",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.15,
+    -45.81667,
+    170.15,
+    -45.81667
+],
+  "geometry": {"coordinates":[170.15000000000001,-45.81667],"type":"Point"}
+}

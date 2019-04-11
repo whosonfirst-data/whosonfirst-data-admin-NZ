@@ -1,0 +1,73 @@
+{
+  "id": 101918491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":30752.848939,
+    "geom:bbox":"174.692323368,-36.7191169344,174.695780212,-36.717541647",
+    "geom:latitude":-36.718462,
+    "geom:longitude":174.694235,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.718458,
+    "lbl:longitude":174.694216,
+    "mps:latitude":-36.718458,
+    "mps:longitude":174.694216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Albany Village"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Albany Village",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NZ",
+    "wof:geomhash":"52f6345a0ea69c28f65dc6b5817e79c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101918491,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101918491,
+    "wof:lastmodified":1487270011,
+    "wof:name":"Albany Village",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916753
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.69232336849967,
+    -36.71911693435204,
+    174.69578021163665,
+    -36.71754164704777
+],
+  "geometry": {"coordinates":[[[174.69578021163665,-36.71896726067057],[174.69463478171195,-36.71911693435204],[174.69353907013178,-36.71906296867011],[174.693108378636,-36.71869493683811],[174.69268777808736,-36.71862982024186],[174.69232336849967,-36.71857069175852],[174.69258113185262,-36.71807728221993],[174.69274604227138,-36.71814973517458],[174.69307263571505,-36.71823169342833],[174.69359367060179,-36.71804908826691],[174.69497226373443,-36.71754164704777],[174.69578021163665,-36.71896726067057]]],"type":"Polygon"}
+}

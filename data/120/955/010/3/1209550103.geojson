@@ -1,0 +1,62 @@
+{
+  "id": 1209550103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.46667,-45.08333,168.46667,-45.08333",
+    "geom:latitude":-45.08333,
+    "geom:longitude":168.46667,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"70.0",
+    "gn:asciiname":"Closeburn",
+    "gn:country_code":"NZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2192279,
+    "gn:latitude":-45.08333,
+    "gn:longitude":168.46667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Closeburn",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192279
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1e0edd7c0c1692e7681913211a5fc17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209550103
+        }
+    ],
+    "wof:id":1209550103,
+    "wof:lastmodified":1536283722,
+    "wof:name":"Closeburn",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.46667,
+    -45.08333,
+    168.46667,
+    -45.08333
+],
+  "geometry": {"coordinates":[168.46666999999999,-45.08333],"type":"Point"}
+}

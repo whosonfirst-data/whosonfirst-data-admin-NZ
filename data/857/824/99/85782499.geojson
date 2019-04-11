@@ -1,0 +1,107 @@
+{
+  "id": 85782499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16661671.066873,
+    "geom:bbox":"176.074847,-38.687427,176.074847,-38.687427",
+    "geom:latitude":-38.687427,
+    "geom:longitude":176.074847,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-38.687427,
+    "lbl:longitude":176.074847,
+    "mps:latitude":-38.68391,
+    "mps:longitude":176.076147,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Taupo Central"
+    ],
+    "name:unk_x_variant":[
+        "Taupo Central"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2181742,
+    "qs:gn_nam_loc":"Taupo, Taupo, NZ",
+    "qs:gn_namadm1":"G1",
+    "qs:local_max":2299,
+    "qs:local_sum":4551,
+    "qs:localhoods":7,
+    "qs:name":"Taupo Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Waikato",
+    "qs:name_adm2":"Taupo District",
+    "qs:name_local":"Taupo",
+    "qs:photo_max":205,
+    "qs:photo_sum":2299,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":74,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021765,
+    "qs:woe_adm2":55875847,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350750,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079281,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676768,
+        "qs:id":890699,
+        "qs_pg:id":890699
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fc5a828ebc4ead6f78e8dfb1edb48013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":-1,
+            "neighbourhood_id":85782499,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":85782499,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860385,
+    "wof:name":"Taupo Central",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.074847,
+    -38.687427,
+    176.074847,
+    -38.687427
+],
+  "geometry": {"coordinates":[176.07484700000001,-38.687427],"type":"Point"}
+}

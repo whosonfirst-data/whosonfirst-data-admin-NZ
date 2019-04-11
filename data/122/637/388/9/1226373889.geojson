@@ -1,0 +1,68 @@
+{
+  "id": 1226373889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.37288,-38.87917,176.37288,-38.87917",
+    "geom:latitude":-38.87917,
+    "geom:longitude":176.37288,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Rangitaiki",
+    "gn:country_code":"NZ",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183725,
+    "gn:latitude":-38.87917,
+    "gn:longitude":176.37288,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Rangitaiki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183725
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4e5184f483bab7802c79f95bf9734d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":1226373889,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1226373889,
+    "wof:lastmodified":1536748944,
+    "wof:name":"Rangitaiki",
+    "wof:parent_id":102079281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.37288,
+    -38.87917,
+    176.37288,
+    -38.87917
+],
+  "geometry": {"coordinates":[176.37288000000001,-38.87917],"type":"Point"}
+}

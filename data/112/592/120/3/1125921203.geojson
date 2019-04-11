@@ -1,0 +1,80 @@
+{
+  "id": 1125921203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.499526,-42.568252,173.499526,-42.568252",
+    "geom:latitude":-42.568252,
+    "geom:longitude":173.499526,
+    "gn:gn_country":"NZ",
+    "iso:country":"NZ",
+    "lbl:latitude":-42.568252,
+    "lbl:longitude":173.499526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:name":"Claverley",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1135513,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348344,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2348344,
+        "qs_pg:id":1135513
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296488,
+    "wof:geomhash":"57226e845694817ff7b3f8138d2949a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1125921203,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125921203,
+    "wof:lastmodified":1509400815,
+    "wof:name":"Claverley",
+    "wof:parent_id":85687179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.499526,
+    -42.568252,
+    173.499526,
+    -42.568252
+],
+  "geometry": {"coordinates":[173.499526,-42.568252],"type":"Point"}
+}

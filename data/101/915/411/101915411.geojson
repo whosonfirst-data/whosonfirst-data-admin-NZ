@@ -1,0 +1,78 @@
+{
+  "id": 101915411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":152184.116192,
+    "geom:bbox":"175.687304475,-37.5418254757,175.695202079,-37.5370135263",
+    "geom:latitude":-37.53932,
+    "geom:longitude":175.691405,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.539805,
+    "lbl:longitude":175.692008,
+    "mps:latitude":-37.539805,
+    "mps:longitude":175.692008,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Aroha"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Aroha",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":820,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6235636,
+        "gp:id":2350782,
+        "wd:id":"Q1026489"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8ebf1fd807e336d76e8f089852d1491c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915411,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101915411,
+    "wof:lastmodified":1527643139,
+    "wof:name":"Te Aroha",
+    "wof:parent_id":102079267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915341
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.6873044751177,
+    -37.54182547571497,
+    175.69520207921747,
+    -37.53701352628304
+],
+  "geometry": {"coordinates":[[[175.69248513583668,-37.53766618532886],[175.69337418020811,-37.53842829171712],[175.69454666158251,-37.53860411726204],[175.69520207921747,-37.53910573215028],[175.69174764409462,-37.54182547571497],[175.69107910017223,-37.54120822173243],[175.68866500364558,-37.53898062977416],[175.68865797689025,-37.53897448873383],[175.68730447511771,-37.53772510473162],[175.68844698121492,-37.53701352628304],[175.69067959561016,-37.53888958325119],[175.6914966298352,-37.53833919143811],[175.69248513583668,-37.53766618532886]]],"type":"Polygon"}
+}

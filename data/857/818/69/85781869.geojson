@@ -1,0 +1,113 @@
+{
+  "id": 85781869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1812174.907833,
+    "geom:bbox":"174.853249,-36.975586,174.853249,-36.975586",
+    "geom:latitude":-36.975586,
+    "geom:longitude":174.853249,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.975586,
+    "lbl:longitude":174.853249,
+    "mps:latitude":-36.966372,
+    "mps:longitude":174.848859,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Papatoetoe Central"
+    ],
+    "name:eng_x_variant":[
+        "Papatoetoe Central"
+    ],
+    "name:unk_x_variant":[
+        "Papatoetoe Central"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6232008,
+    "qs:gn_nam_loc":"papatoetoe",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":207,
+    "qs:local_sum":208,
+    "qs:localhoods":2,
+    "qs:name":"Papatoetoe Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Papatoetoe",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350050,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1645,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644853,
+        "qs:id":991845,
+        "qs_pg:id":991845,
+        "wd:id":"Q7132514"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3a669b8e322aa14c803660058c2e9c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781869,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781869,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860284,
+    "wof:name":"Papatoetoe",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.853249,
+    -36.975586,
+    174.853249,
+    -36.975586
+],
+  "geometry": {"coordinates":[174.85324900000001,-36.975586],"type":"Point"}
+}

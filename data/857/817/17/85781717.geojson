@@ -1,0 +1,109 @@
+{
+  "id": 85781717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7373670.824982,
+    "geom:bbox":"174.710752,-36.816804,174.710752,-36.816804",
+    "geom:latitude":-36.816804,
+    "geom:longitude":174.710752,
+    "gn:latitude":-36.8082,
+    "gn:longitude":174.71019,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.816804,
+    "lbl:longitude":174.710752,
+    "mps:latitude":-36.828582,
+    "mps:longitude":174.706495,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Chatswood"
+    ],
+    "name:unk_x_variant":[
+        "Chatswood"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Chatswood",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Chatswood",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":42,
+    "qs:photo_sum":129,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232144,
+        "gp:id":28644754,
+        "qs:id":237064,
+        "qs_pg:id":237064
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"06f15f573ec79f0917f1cfe20378ada3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781717,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781717,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860260,
+    "wof:name":"Chatswood",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.710752,
+    -36.816804,
+    174.710752,
+    -36.816804
+],
+  "geometry": {"coordinates":[174.71075200000001,-36.816804],"type":"Point"}
+}

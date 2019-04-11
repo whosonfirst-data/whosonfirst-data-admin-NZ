@@ -1,0 +1,84 @@
+{
+  "id": 101917595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":79593.621293,
+    "geom:bbox":"175.913999946,-37.5612329608,175.91752968,-37.5571283966",
+    "geom:latitude":-37.55883,
+    "geom:longitude":175.915663,
+    "gn:population":3232,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.558614,
+    "lbl:longitude":175.915632,
+    "mps:latitude":-37.558614,
+    "mps:longitude":175.915632,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Katikati"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Katikati",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":490,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd924-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2189016,
+        "gp:id":2349000,
+        "wd:id":"Q911377",
+        "wk:page":"Katikati"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7ca52a839f3a8dd1867bcf7a4e3fc7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101917595,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":101917595,
+    "wof:lastmodified":1527715904,
+    "wof:name":"Katikati",
+    "wof:parent_id":102079283,
+    "wof:placetype":"locality",
+    "wof:population":3232,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914243
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.91399994572288,
+    -37.56123296075688,
+    175.91752968002882,
+    -37.55712839658505
+],
+  "geometry": {"coordinates":[[[175.91518793773002,-37.56123296075688],[175.91514024314162,-37.56117199037757],[175.91476763259934,-37.56069593793937],[175.91432981067146,-37.56026980997313],[175.91399994572288,-37.55994625522455],[175.91401452437253,-37.55936182691561],[175.91433701508839,-37.55906615819999],[175.91443609347274,-37.55852469782645],[175.91453941101682,-37.55796003910383],[175.91531323031427,-37.55731000326683],[175.91606419269269,-37.55712839658505],[175.91752968002882,-37.5575304932952],[175.91744767517855,-37.55807737847243],[175.91743914803675,-37.55813431141149],[175.91740846510513,-37.5584471549169],[175.91736689420654,-37.55887108528634],[175.91683877046262,-37.5588236609491],[175.91632392526992,-37.56003124920721],[175.91574353793263,-37.55988662571182],[175.915307884832,-37.56092752944323],[175.91520778513609,-37.5611976334944],[175.91518793773002,-37.56123296075688]]],"type":"Polygon"}
+}

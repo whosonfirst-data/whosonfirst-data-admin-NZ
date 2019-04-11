@@ -1,0 +1,89 @@
+{
+  "id": 101917007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":32847.472891,
+    "geom:bbox":"170.465507334,-45.8747254915,170.47092268,-45.8731179184",
+    "geom:latitude":-45.87385,
+    "geom:longitude":170.468314,
+    "gn:population":114347,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.87389,
+    "lbl:longitude":170.46949,
+    "mps:latitude":-45.87389,
+    "mps:longitude":170.46949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Dunedin"
+    ],
+    "name:eng_x_variant":[
+        "DUD",
+        "Taieri"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dunedin",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-45.866667,
+    "wd:longitude":170.5,
+    "wd:wordcount":8479,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dfa08-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2191562,
+        "gp:id":2348444,
+        "wd:id":"Q133073"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"cba7532d50505fbc329d19896fb433f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101917007,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101917007,
+    "wof:lastmodified":1527715907,
+    "wof:name":"Dunedin",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:population":114347,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914269
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.4655073336438,
+    -45.8747254914782,
+    170.47092268019094,
+    -45.87311791843318
+],
+  "geometry": {"coordinates":[[[170.46971259325639,-45.8747254914782],[170.46869537557114,-45.87451594965581],[170.46888974584067,-45.87404979177224],[170.46753041309429,-45.87378172202308],[170.46726750909639,-45.8743808922861],[170.46607484377279,-45.87416752565101],[170.4662613129876,-45.87372369429689],[170.46550733364381,-45.87359078619109],[170.465695126029,-45.87311791843318],[170.46713213888631,-45.873392232486],[170.46804484682502,-45.87357220433765],[170.46897717720185,-45.87376241267502],[170.46897738960044,-45.87376241738256],[170.46897770385647,-45.87376251435566],[170.46921377984478,-45.87329970989829],[170.47092268019094,-45.87358648061539],[170.47085310365864,-45.87385994823933],[170.47064831847572,-45.87381860691097],[170.47044228042802,-45.8743619004783],[170.4699046818246,-45.87422751498308],[170.46971259325639,-45.8747254914782]]],"type":"Polygon"}
+}

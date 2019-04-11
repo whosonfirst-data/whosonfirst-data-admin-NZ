@@ -1,0 +1,80 @@
+{
+  "id": 101918701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3814.177996,
+    "geom:bbox":"175.564823891,-40.2302783387,175.566320286,-40.2296158284",
+    "geom:latitude":-40.229966,
+    "geom:longitude":175.565599,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.229894,
+    "lbl:longitude":175.565596,
+    "mps:latitude":-40.229894,
+    "mps:longitude":175.565596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Feilding"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Feilding",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1131,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d7af6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6224615,
+        "gp:id":2348519,
+        "wd:id":"Q992577",
+        "wk:page":"Feilding"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"97eb78a7721d963fb11d788e88e41b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":101918701,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918701,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Feilding",
+    "wof:parent_id":102079303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914717
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.56482389056006,
+    -40.23027833873335,
+    175.5663202857164,
+    -40.22961582843467
+],
+  "geometry": {"coordinates":[[[175.56632028571639,-40.23027833873335],[175.56482389056006,-40.23000400332346],[175.56565206663831,-40.22961582843467],[175.56632028571639,-40.23027833873335]]],"type":"Polygon"}
+}

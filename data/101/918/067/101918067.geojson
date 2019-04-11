@@ -1,0 +1,92 @@
+{
+  "id": 101918067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9208.443315,
+    "geom:bbox":"174.877395914,-41.2132490646,174.878479963,-41.2118575606",
+    "geom:latitude":-41.212595,
+    "geom:longitude":174.877926,
+    "gn:population":101194,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.212621,
+    "lbl:longitude":174.877914,
+    "mps:latitude":-41.212621,
+    "mps:longitude":174.877914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Lower Hutt"
+    ],
+    "name:eng_x_variant":[
+        "Lower Hutt City",
+        "Lowerhutt"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lower Hutt",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:area":377.0,
+    "wd:latitude":-41.216667,
+    "wd:longitude":174.916667,
+    "wd:population":102000,
+    "wd:wordcount":2727,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ade9a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2188164,
+        "gp:id":2349239,
+        "wd:id":"Q1015681",
+        "wk:page":"Lower Hutt"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8108b1ddce227f30e04bad0ca255b590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101918067,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918067,
+    "wof:lastmodified":1527715678,
+    "wof:name":"Lower Hutt",
+    "wof:parent_id":102079337,
+    "wof:placetype":"locality",
+    "wof:population":102000,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914319
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.87739591426032,
+    -41.21324906459096,
+    174.87847996304217,
+    -41.21185756064011
+],
+  "geometry": {"coordinates":[[[174.87822603586454,-41.21324906459096],[174.87759523793829,-41.21316875999329],[174.87739591426032,-41.21310501047824],[174.87752353332391,-41.21250496888154],[174.87764866300989,-41.21211713559317],[174.87779457379725,-41.21185756064011],[174.87847996304217,-41.21215499477125],[174.87839253337057,-41.21237183114486],[174.87826280802344,-41.21289797349758],[174.87822603586454,-41.21324906459096]]],"type":"Polygon"}
+}

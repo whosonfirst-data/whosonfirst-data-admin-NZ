@@ -1,0 +1,67 @@
+{
+  "id": 1326767047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.89,-40.49657,175.89,-40.49657",
+    "geom:latitude":-40.49657,
+    "geom:longitude":175.89,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Kaitawa",
+    "gn:country_code":"NZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189195,
+    "gn:latitude":-40.49657,
+    "gn:longitude":175.89,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Kaitawa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189195
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8e133cf83655aef151904c6a49b14c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":1326767047,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1326767047,
+    "wof:lastmodified":1536644813,
+    "wof:name":"Kaitawa",
+    "wof:parent_id":102079309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.89,
+    -40.49657,
+    175.89,
+    -40.49657
+],
+  "geometry": {"coordinates":[175.88999999999999,-40.49657],"type":"Point"}
+}

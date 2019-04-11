@@ -1,0 +1,110 @@
+{
+  "id": 85781063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3414612.173074,
+    "geom:bbox":"176.882465,-39.513973,176.882465,-39.513973",
+    "geom:latitude":-39.513973,
+    "geom:longitude":176.882465,
+    "gn:latitude":-39.50824,
+    "gn:longitude":176.88022,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.513973,
+    "lbl:longitude":176.882465,
+    "mps:latitude":-39.508543,
+    "mps:longitude":176.882095,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Pirimai"
+    ],
+    "name:unk_x_variant":[
+        "Pirimai"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186313,
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Pirimai",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Pirimai",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":28,
+    "qs:photo_sum":32,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914679,
+        102079331,
+        85687189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6246630,
+        "gp:id":28643995,
+        "qs:id":356968,
+        "qs_pg:id":356968
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e240c3239f4c79dd9f58b727aabe55bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101914679,
+            "neighbourhood_id":85781063,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":85781063,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860133,
+    "wof:name":"Pirimai",
+    "wof:parent_id":101914679,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.882465,
+    -39.513973,
+    176.882465,
+    -39.513973
+],
+  "geometry": {"coordinates":[176.882465,-39.513973],"type":"Point"}
+}

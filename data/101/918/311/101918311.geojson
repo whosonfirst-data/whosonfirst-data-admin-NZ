@@ -1,0 +1,77 @@
+{
+  "id": 101918311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16327.325562,
+    "geom:bbox":"175.1970354,-37.7013996685,175.199451269,-37.6992446132",
+    "geom:latitude":-37.700262,
+    "geom:longitude":175.198375,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.700285,
+    "lbl:longitude":175.198347,
+    "mps:latitude":-37.700285,
+    "mps:longitude":175.198347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Horotiu"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Horotiu",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd6f4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2189773,
+        "gp:id":2348832
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"215baade78750d8af23af6b575cc1170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101918311,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918311,
+    "wof:lastmodified":1487270000,
+    "wof:name":"Horotiu",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915265
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.1970354002585,
+    -37.7013996685415,
+    175.1994512690816,
+    -37.69924461322211
+],
+  "geometry": {"coordinates":[[[175.1970354002585,-37.6995016460404],[175.19758543946512,-37.69924461322211],[175.19833394212648,-37.69988502282958],[175.19876985135144,-37.70025403183485],[175.199064816045,-37.70007418252744],[175.19927811395061,-37.70003928412655],[175.19941474823364,-37.7001627582278],[175.19898471149253,-37.70052015681365],[175.19921757512108,-37.70074537543101],[175.19945126908161,-37.70110487276183],[175.19922346696339,-37.7013996685415],[175.1987023727273,-37.70099179431396],[175.1970354002585,-37.6995016460404]]],"type":"Polygon"}
+}

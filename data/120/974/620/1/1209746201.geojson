@@ -1,0 +1,68 @@
+{
+  "id": 1209746201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.45,-35.76667,174.45,-35.76667",
+    "geom:latitude":-35.76667,
+    "geom:longitude":174.45,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Turiapua",
+    "gn:country_code":"NZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180735,
+    "gn:latitude":-35.76667,
+    "gn:longitude":174.45,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Turiapua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180735
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"459d2d29c516f13113ff5b2607f1b64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1209746201,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1209746201,
+    "wof:lastmodified":1536394880,
+    "wof:name":"Turiapua",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.45,
+    -35.76667,
+    174.45,
+    -35.76667
+],
+  "geometry": {"coordinates":[174.44999999999999,-35.76667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293231461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.78333,-38.33333,176.78333,-38.33333",
+    "geom:latitude":-38.33333,
+    "geom:longitude":176.78333,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Kopuriki",
+    "gn:country_code":"NZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188693,
+    "gn:latitude":-38.33333,
+    "gn:longitude":176.78333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kopuriki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188693
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b6307a4be8202c48cb6a9478433878fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
+            "locality_id":1293231461,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1293231461,
+    "wof:lastmodified":1536659358,
+    "wof:name":"Kopuriki",
+    "wof:parent_id":102079291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.78333,
+    -38.33333,
+    176.78333,
+    -38.33333
+],
+  "geometry": {"coordinates":[176.78333000000001,-38.33333],"type":"Point"}
+}

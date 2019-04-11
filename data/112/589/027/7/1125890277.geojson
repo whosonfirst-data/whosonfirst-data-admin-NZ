@@ -1,0 +1,82 @@
+{
+  "id": 1125890277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.935791,-40.840895,172.935791,-40.840895",
+    "geom:latitude":-40.840895,
+    "geom:longitude":172.935791,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.840895,
+    "lbl:longitude":172.935791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Anatimo",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Tasman",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985756,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28642777,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Tasman",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28642777,
+        "qs_pg:id":985756
+    },
+    "wof:country":"NZ",
+    "wof:created":1497295283,
+    "wof:geomhash":"ec63e89df1bbb968aebc2a30ce27f081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1125890277,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1125890277,
+    "wof:lastmodified":1512501800,
+    "wof:name":"Anatimo",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.935791,
+    -40.840895,
+    172.935791,
+    -40.840895
+],
+  "geometry": {"coordinates":[172.93579099999999,-40.840895],"type":"Point"}
+}

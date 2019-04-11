@@ -1,0 +1,126 @@
+{
+  "id": 85773073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13898671.458949,
+    "geom:bbox":"170.550429,-45.906185,170.550429,-45.906185",
+    "geom:latitude":-45.906185,
+    "geom:longitude":170.550429,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.906185,
+    "lbl:longitude":170.550429,
+    "mps:latitude":-45.906014,
+    "mps:longitude":170.554858,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Ocean Grove"
+    ],
+    "name:eng_x_preferred":[
+        "Ocean Grove"
+    ],
+    "name:eng_x_variant":[
+        "Tomahawk"
+    ],
+    "name:hbs_x_preferred":[
+        "Ou\u0161an Grouv"
+    ],
+    "name:nld_x_preferred":[
+        "Ocean Grove"
+    ],
+    "name:pol_x_preferred":[
+        "Ocean Grove"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0443\u0448\u0430\u043d \u0413\u0440\u043e\u0443\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Ocean Grove"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2191562,
+    "qs:gn_namadm1":"F7",
+    "qs:gn_name":"Ocean Grove",
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Ocean Grove",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":35,
+    "qs:photo_sum":184,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":63,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6212220,
+        "gp:id":2349770,
+        "qs:id":222464,
+        "qs_pg:id":222464
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"50d47dfe5b9b68041962a6e61aa10003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":-1,
+            "neighbourhood_id":85773073,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85773073,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859621,
+    "wof:name":"Ocean Grove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.550429,
+    -45.906185,
+    170.550429,
+    -45.906185
+],
+  "geometry": {"coordinates":[170.55042900000001,-45.906185],"type":"Point"}
+}

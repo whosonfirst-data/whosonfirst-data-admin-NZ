@@ -1,0 +1,85 @@
+{
+  "id": 101917075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11909.200825,
+    "geom:bbox":"167.614478591,-45.5629681169,167.618228516,-45.5602495516",
+    "geom:latitude":-45.561532,
+    "geom:longitude":167.616656,
+    "gn:population":248,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.561285,
+    "lbl:longitude":167.617159,
+    "mps:latitude":-45.561285,
+    "mps:longitude":167.617159,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Manapouri"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Manapouri",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":436,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de00e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2187816,
+        "gp:id":2349328,
+        "qs:id":461571,
+        "wd:id":"Q1888660",
+        "wk:page":"Manapouri"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3cf382f7e229adb28227e705bb804a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101917075,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101917075,
+    "wof:lastmodified":1527715912,
+    "wof:name":"Manapouri",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914877
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.61447859064776,
+    -45.56296811687346,
+    167.6182285158494,
+    -45.56024955156129
+],
+  "geometry": {"coordinates":[[[167.61822851584941,-45.56024955156129],[167.61816432670196,-45.56091990508126],[167.61768356415584,-45.56123477705839],[167.61716347333336,-45.5615754005164],[167.6171362737756,-45.56159321418031],[167.61686002289105,-45.56138594356944],[167.61590080876005,-45.562073818312],[167.61504345974134,-45.56268796349667],[167.61476429940586,-45.56296811687346],[167.61447859064776,-45.56282505765678],[167.61492343887005,-45.5624344220757],[167.61787073655032,-45.56053179959255],[167.6178719750902,-45.56051857805996],[167.61787197643858,-45.56051856264052],[167.61795195111958,-45.5604678116204],[167.61800612333755,-45.5604389856797],[167.61800664444618,-45.56043869991993],[167.61801888066179,-45.56043156470395],[167.61803021126087,-45.56042375242423],[167.61804041935434,-45.56041546986697],[167.61822851584941,-45.56024955156129]]],"type":"Polygon"}
+}

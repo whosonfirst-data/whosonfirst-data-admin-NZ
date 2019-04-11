@@ -1,0 +1,115 @@
+{
+  "id": 85778935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4793884.79239,
+    "geom:bbox":"174.918383,-37.025714,174.918383,-37.025714",
+    "geom:latitude":-37.025714,
+    "geom:longitude":174.918383,
+    "gn:latitude":-37.0182,
+    "gn:longitude":174.91019,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.025714,
+    "lbl:longitude":174.918383,
+    "mps:latitude":-37.02476,
+    "mps:longitude":174.925197,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:note":"area unit not place",
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Manurewa East"
+    ],
+    "name:unk_x_variant":[
+        "Manurewa East"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":6232064,
+    "qs:gn_nam_loc":"manurewa",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Manurewa East",
+    "qs:local_max":264,
+    "qs:local_sum":269,
+    "qs:localhoods":2,
+    "qs:name":"Manurewa East",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manurewa",
+    "qs:photo_max":232,
+    "qs:photo_sum":264,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726439,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":53,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232059,
+        "gp:id":22726649,
+        "qs:id":1123103,
+        "qs_pg:id":1123103,
+        "wd:id":"Q6753180",
+        "wk:page":"Manurewa East"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e98eb70b9a32db9834f1c819ee58ca81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85778935,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778935,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859868,
+    "wof:name":"Manurewa East",
+    "wof:parent_id":101914625,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.918383,
+    -37.025714,
+    174.918383,
+    -37.025714
+],
+  "geometry": {"coordinates":[174.91838300000001,-37.025714],"type":"Point"}
+}

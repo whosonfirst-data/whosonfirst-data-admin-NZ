@@ -1,0 +1,78 @@
+{
+  "id": 101918321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3188.900165,
+    "geom:bbox":"175.157521021,-37.5717603531,175.158164724,-37.5707514775",
+    "geom:latitude":-37.571246,
+    "geom:longitude":175.157851,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.570945,
+    "lbl:longitude":175.157719,
+    "mps:latitude":-37.570945,
+    "mps:longitude":175.157719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Huntly"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Huntly",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":956,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6249343,
+        "wd:id":"Q907941",
+        "wk:page":"Huntly, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9e9021d48339951e026bfeeef6056d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101918321,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918321,
+    "wof:lastmodified":1527715679,
+    "wof:name":"Huntly",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914295
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.15752102072335,
+    -37.57176035314482,
+    175.158164724493,
+    -37.57075147751425
+],
+  "geometry": {"coordinates":[[[175.15786712024544,-37.57176035314482],[175.15776430738089,-37.57148482588537],[175.15752102072335,-37.57083281599078],[175.15789613499624,-37.57075147751425],[175.15792232109894,-37.5709263023389],[175.15792331577407,-37.57093195146468],[175.15792462479118,-37.57093760980164],[175.15792628479542,-37.57094333877166],[175.15815086069372,-37.57165012367719],[175.15815089890231,-37.57165023139155],[175.15815097587466,-37.57165046213036],[175.1581510740784,-37.57165081648466],[175.15816472449299,-37.57169281525263],[175.15786712024544,-37.57176035314482]]],"type":"Polygon"}
+}

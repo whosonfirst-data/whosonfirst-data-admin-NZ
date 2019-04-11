@@ -1,0 +1,90 @@
+{
+  "id": 101914541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":60982.601142,
+    "geom:bbox":"175.419542322,-37.7860878109,175.424290686,-37.7830819395",
+    "geom:latitude":-37.78464,
+    "geom:longitude":175.421919,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.784716,
+    "lbl:longitude":175.421947,
+    "mps:latitude":-37.78471,
+    "mps:longitude":175.421962,
+    "mz:hierarchy_label":1,
+    "name:deu_x_preferred":[
+        "Ng\u0101i Tahu"
+    ],
+    "name:eng_x_preferred":[
+        "Tauwhare Pa"
+    ],
+    "name:fin_x_preferred":[
+        "Ng\u0101i Tahu"
+    ],
+    "name:fra_x_preferred":[
+        "Ng\u0101i Tahu"
+    ],
+    "name:mri_x_preferred":[
+        "K\u0101i Tahu"
+    ],
+    "name:spa_x_preferred":[
+        "Ng\u0101i Tahu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u5854\u80e1\u90e8\u843d"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tauwhare Pa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2349459
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a0be4fc9c4be0c8e6e8abf0a292e6826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101914541,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101914541,
+    "wof:lastmodified":1487208189,
+    "wof:name":"Tauwhare Pa",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.41954232152227,
+    -37.78608781090057,
+    175.42429068580535,
+    -37.7830819395019
+],
+  "geometry": {"coordinates":[[[175.42385247990433,-37.7830819395019],[175.42390577874281,-37.78314477756274],[175.42429068580535,-37.78369889511057],[175.4239686428939,-37.78381228017708],[175.42319922766262,-37.78409408575286],[175.42367089333877,-37.78486636500575],[175.42158467840704,-37.78573912417225],[175.42053852915606,-37.78608781090057],[175.41991246026402,-37.78485889196877],[175.4195549473134,-37.7848666746028],[175.41954232152227,-37.78460012228457],[175.41995221010421,-37.78452989444047],[175.41996238913862,-37.78452877440606],[175.42062847350954,-37.78434570567632],[175.42063183408064,-37.78434473412421],[175.42092068542641,-37.78425639885013],[175.42092857814902,-37.78425443029179],[175.42385247990433,-37.7830819395019]]],"type":"Polygon"}
+}

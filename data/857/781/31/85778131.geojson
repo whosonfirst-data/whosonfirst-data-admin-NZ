@@ -1,0 +1,110 @@
+{
+  "id": 85778131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1313624.47042,
+    "geom:bbox":"174.74029541,-36.8686348769,174.75402832,-36.855449927",
+    "geom:latitude":-36.862642,
+    "geom:longitude":174.746413,
+    "gn:latitude":-36.85971,
+    "gn:longitude":174.75308,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.865534,
+    "lbl:longitude":174.747444,
+    "mps:latitude":-36.863612,
+    "mps:longitude":174.746412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Arch Hill"
+    ],
+    "name:unk_x_variant":[
+        "Arch Hill"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Arch Hill",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Arch Hill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":116,
+    "qs:photo_sum":424,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":37,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232265,
+        "gp:id":22726319,
+        "qs:id":1086011,
+        "qs_pg:id":1086011
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"dc1a0fe1c34db416d6a66812ec717bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778131,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778131,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527639403,
+    "wof:name":"Arch Hill",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.7402954100001,
+    -36.86863487687327,
+    174.7540283200006,
+    -36.85544992697108
+],
+  "geometry": {"coordinates":[[[174.74853515600012,-36.85764758559993],[174.74853515600012,-36.85984517200008],[174.75128173800016,-36.85984517200008],[174.75128173800016,-36.86054895650862],[174.75128173800016,-36.86204268588321],[174.7540283200006,-36.86204268908083],[174.75402832000043,-36.86424014711245],[174.75402832000043,-36.86643754256863],[174.75128173800016,-36.8664375457714],[174.75128173800016,-36.86863487617108],[174.74853515600029,-36.86863487687327],[174.74578857400041,-36.86863487687327],[174.74304199200003,-36.86863487608333],[174.74304199200003,-36.8664375457714],[174.7402954100001,-36.86643754265656],[174.7402954100001,-36.86424014514052],[174.7402954100001,-36.8620426852248],[174.7402954100001,-36.85984516210932],[174.7402954100001,-36.85764757858892],[174.74304199200003,-36.8576475753222],[174.74304199200003,-36.85544993008095],[174.74578857400024,-36.85544992697108],[174.74853515600029,-36.85544992907775],[174.74853515600029,-36.85694379195151],[174.74853515600012,-36.85764758559993]]],"type":"Polygon"}
+}

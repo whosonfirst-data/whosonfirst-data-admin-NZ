@@ -1,0 +1,82 @@
+{
+  "id": 1126057331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.68295,-45.761625,170.68295,-45.761625",
+    "geom:latitude":-45.761625,
+    "geom:longitude":170.68295,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.761625,
+    "lbl:longitude":170.68295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Heyward Point",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Otago",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":916131,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28642973,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Otago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28642973,
+        "qs_pg:id":916131
+    },
+    "wof:country":"NZ",
+    "wof:created":1497303381,
+    "wof:geomhash":"54befc50d7d425fc9e7cbee481aae344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":1126057331,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1126057331,
+    "wof:lastmodified":1509409721,
+    "wof:name":"Heyward Point",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.68295,
+    -45.761625,
+    170.68295,
+    -45.761625
+],
+  "geometry": {"coordinates":[170.68295000000001,-45.761625],"type":"Point"}
+}

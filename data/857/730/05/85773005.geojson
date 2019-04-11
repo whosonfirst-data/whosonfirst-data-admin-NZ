@@ -1,0 +1,109 @@
+{
+  "id": 85773005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11195197.104043,
+    "geom:bbox":"174.869587,-41.215695,174.869587,-41.215695",
+    "geom:latitude":-41.215695,
+    "geom:longitude":174.869587,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.215695,
+    "lbl:longitude":174.869587,
+    "mps:latitude":-41.21482,
+    "mps:longitude":174.86369,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Korokoro"
+    ],
+    "name:unk_x_variant":[
+        "Korokoro"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Korokoro",
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Korokoro",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":55,
+    "qs:photo_sum":322,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079337,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244911,
+        "gp:id":2349125,
+        "qs:id":901885,
+        "qs_pg:id":901885
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2ddef38514710e7dd71f29b5974cdb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":-1,
+            "neighbourhood_id":85773005,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85773005,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859614,
+    "wof:name":"Korokoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.869587,
+    -41.215695,
+    174.869587,
+    -41.215695
+],
+  "geometry": {"coordinates":[174.869587,-41.215695],"type":"Point"}
+}

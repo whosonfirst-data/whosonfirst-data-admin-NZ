@@ -1,0 +1,76 @@
+{
+  "id": 101918675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6002.790981,
+    "geom:bbox":"175.136707647,-41.0916426675,175.138070334,-41.0906170843",
+    "geom:latitude":-41.091142,
+    "geom:longitude":175.137339,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.091162,
+    "lbl:longitude":175.137295,
+    "mps:latitude":-41.091162,
+    "mps:longitude":175.137295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Marua"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Marua",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":279,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7690871"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"17d60618fa8901f37fec7d489028e81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":101918675,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918675,
+    "wof:lastmodified":1527715669,
+    "wof:name":"Te Marua",
+    "wof:parent_id":102079335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916205
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.13670764726342,
+    -41.09164266748724,
+    175.13807033446483,
+    -41.09061708426544
+],
+  "geometry": {"coordinates":[[[175.13680506158332,-41.09155150481953],[175.13670764726342,-41.09140832523696],[175.13675802158645,-41.09112399070593],[175.1376822772643,-41.09074446221413],[175.13768372855057,-41.09074380486089],[175.13768498946985,-41.09074333118566],[175.137686054065,-41.09074286115435],[175.13797560627989,-41.09061708426544],[175.13807033446483,-41.09065621030243],[175.13797165356198,-41.09095531038839],[175.13747545525806,-41.09136895287227],[175.1370413739883,-41.09164266748724],[175.13680506158332,-41.09155150481953]]],"type":"Polygon"}
+}

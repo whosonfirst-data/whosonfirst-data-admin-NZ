@@ -1,0 +1,84 @@
+{
+  "id": 101918123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13277.493888,
+    "geom:bbox":"172.195549957,-43.2865788157,172.196950427,-43.2847457748",
+    "geom:latitude":-43.285694,
+    "geom:longitude":172.196197,
+    "gn:population":1776,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.28566,
+    "lbl:longitude":172.196169,
+    "mps:latitude":-43.28566,
+    "mps:longitude":172.196169,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Oxford"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Oxford",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1018,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de900-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185148,
+        "gp:id":2349985,
+        "wd:id":"Q7115205",
+        "wk:page":"Oxford, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"027445b918c207faf39b427b0a76a6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101918123,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918123,
+    "wof:lastmodified":1527715678,
+    "wof:name":"Oxford",
+    "wof:parent_id":102079367,
+    "wof:placetype":"locality",
+    "wof:population":1776,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915805
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.19554995694426,
+    -43.28657881565015,
+    172.19695042734344,
+    -43.2847457748032
+],
+  "geometry": {"coordinates":[[[172.19566651637768,-43.28532199941132],[172.19554995694426,-43.2848700962489],[172.1963046782611,-43.2847457748032],[172.19637993380198,-43.28498707015995],[172.19667949619915,-43.28594755133741],[172.1968367197243,-43.28607918301427],[172.19695042734344,-43.28642745477984],[172.19599069636843,-43.28657881565015],[172.19566651637768,-43.28532199941132]]],"type":"Polygon"}
+}

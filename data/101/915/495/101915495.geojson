@@ -1,0 +1,86 @@
+{
+  "id": 101915495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3155.802277,
+    "geom:bbox":"175.448236437,-41.2208752949,175.449209773,-41.2201247867",
+    "geom:latitude":-41.220501,
+    "geom:longitude":175.448723,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.220465,
+    "lbl:longitude":175.448685,
+    "mps:latitude":-41.220465,
+    "mps:longitude":175.448685,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Martinborough"
+    ],
+    "name:eng_x_preferred":[
+        "Martinborough"
+    ],
+    "name:msa_x_preferred":[
+        "Martinborough"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Martinborough",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":582,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dee46-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6226278,
+        "gp:id":2349429,
+        "wd:id":"Q1905554",
+        "wk:page":"Martinborough"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"97fec90c19ed17562f0ad43c556d4ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101915495,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101915495,
+    "wof:lastmodified":1527643141,
+    "wof:name":"Martinborough",
+    "wof:parent_id":102079347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914287
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.44823643696466,
+    -41.22087529487606,
+    175.44920977302442,
+    -41.2201247867344
+],
+  "geometry": {"coordinates":[[[175.44910677656097,-41.22071756686469],[175.44880364617075,-41.22087529487606],[175.44862814333484,-41.22071056416731],[175.44823643696466,-41.22034503132475],[175.44864222902808,-41.2201247867344],[175.44920977302442,-41.22066404868232],[175.44910677656097,-41.22071756686469]]],"type":"Polygon"}
+}

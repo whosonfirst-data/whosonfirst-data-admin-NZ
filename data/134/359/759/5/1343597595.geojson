@@ -1,0 +1,72 @@
+{
+  "id": 1343597595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.96667,-38.7,174.96667,-38.7",
+    "geom:latitude":-38.7,
+    "geom:longitude":174.96667,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Waitewhenua",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179806,
+    "gn:latitude":-38.7,
+    "gn:longitude":174.96667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Waitewhenua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waitewhena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179806
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"496c01cda39b29fb262a7230cf42d00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1343597595,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1343597595,
+    "wof:lastmodified":1537676140,
+    "wof:name":"Waitewhenua",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.96667,
+    -38.7,
+    174.96667,
+    -38.7
+],
+  "geometry": {"coordinates":[174.96666999999999,-38.7],"type":"Point"}
+}

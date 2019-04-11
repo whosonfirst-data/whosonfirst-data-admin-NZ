@@ -1,0 +1,87 @@
+{
+  "id": 101915075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2579.353907,
+    "geom:bbox":"175.705786009,-36.8357219761,175.706479223,-36.8350589167",
+    "geom:latitude":-36.835375,
+    "geom:longitude":175.706104,
+    "gn:population":3367,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.835394,
+    "lbl:longitude":175.706085,
+    "mps:latitude":-36.835394,
+    "mps:longitude":175.706085,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Whitianga"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Whitianga",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-36.833056,
+    "wd:longitude":175.699722,
+    "wd:wordcount":1220,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df710-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179103,
+        "gp:id":2351416,
+        "qs:id":9664,
+        "wd:id":"Q1375183",
+        "wk:page":"Whitianga"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f8a9cc2b0b5829adc13c6d724250e58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915075,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101915075,
+    "wof:lastmodified":1527643139,
+    "wof:name":"Whitianga",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:population":3367,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914279
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.70578600921,
+    -36.83572197611593,
+    175.70647922319267,
+    -36.83505891669235
+],
+  "geometry": {"coordinates":[[[175.70613551746058,-36.83572197611593],[175.70578600920999,-36.83557888711694],[175.7059769263758,-36.83505891669235],[175.70644726538876,-36.83517697010406],[175.70645190305251,-36.83517808015201],[175.7064654420646,-36.83518066064898],[175.70647922319267,-36.83518233669884],[175.70613551746058,-36.83572197611593]]],"type":"Polygon"}
+}

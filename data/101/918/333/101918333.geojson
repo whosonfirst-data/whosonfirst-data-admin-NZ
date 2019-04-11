@@ -1,0 +1,78 @@
+{
+  "id": 101918333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13217.619849,
+    "geom:bbox":"174.883826863,-37.1978760959,174.886017833,-37.1966255105",
+    "geom:latitude":-37.197312,
+    "geom:longitude":174.884957,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.19718,
+    "lbl:longitude":174.884936,
+    "mps:latitude":-37.19718,
+    "mps:longitude":174.884936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Pukekohe"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pukekohe",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1048,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6231587,
+        "gp:id":2350236,
+        "wd:id":"Q733057"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ba669216ee956a5ae30fbd2c4cb25240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101918333,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101918333,
+    "wof:lastmodified":1527715675,
+    "wof:name":"Pukekohe",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914379
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.88382686323342,
+    -37.19787609585025,
+    174.8860178329654,
+    -37.19662551052873
+],
+  "geometry": {"coordinates":[[[174.88530261038528,-37.19662551052873],[174.88601783296539,-37.19754297328533],[174.88554753378651,-37.1978218725002],[174.88517616464074,-37.19743193280276],[174.88416184790125,-37.19787609585025],[174.88382686323342,-37.19741726977252],[174.88530261038528,-37.19662551052873]]],"type":"Polygon"}
+}

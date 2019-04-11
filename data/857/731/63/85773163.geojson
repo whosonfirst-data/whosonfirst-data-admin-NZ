@@ -1,0 +1,112 @@
+{
+  "id": 85773163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1774651.219999,
+    "geom:bbox":"170.491995,-45.86553,170.491995,-45.86553",
+    "geom:latitude":-45.86553,
+    "geom:longitude":170.491995,
+    "gn:latitude":-45.86667,
+    "gn:longitude":170.48333,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.86553,
+    "lbl:longitude":170.491995,
+    "mps:latitude":-45.86228,
+    "mps:longitude":170.490347,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Roslyn"
+    ],
+    "name:unk_x_variant":[
+        "Roslyn"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2191562,
+    "qs:gn_namadm1":"F7",
+    "qs:gn_name":"Roslyn",
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Roslyn",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":37,
+    "qs:photo_sum":94,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183288,
+        "gp:id":2350445,
+        "qs:id":1315440,
+        "qs_pg:id":1315440,
+        "wd:id":"Q7369040",
+        "wk:page":"Roslyn, Otago"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fa64c61d8d67bc6d3aa2fbdc3324b3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85773163,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85773163,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859637,
+    "wof:name":"Roslyn",
+    "wof:parent_id":101914269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.491995,
+    -45.86553,
+    170.491995,
+    -45.86553
+],
+  "geometry": {"coordinates":[170.491995,-45.86553],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 101915279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12265.955719,
+    "geom:bbox":"176.533971,-39.9924710662,176.536144131,-39.991457638",
+    "geom:latitude":-39.991953,
+    "geom:longitude":176.535062,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.991955,
+    "lbl:longitude":176.53506,
+    "mps:latitude":-39.991955,
+    "mps:longitude":176.53506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waipukurau"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waipukurau",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2106,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd690-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6247047,
+        "gp:id":2351197,
+        "wd:id":"Q913122"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0cf9319928861ebfac0cef22443d8f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101915279,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101915279,
+    "wof:lastmodified":1527643138,
+    "wof:name":"Waipukurau",
+    "wof:parent_id":102079333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914309
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.53397100034468,
+    -39.9924710662402,
+    176.53614413054365,
+    -39.99145763804552
+],
+  "geometry": {"coordinates":[[[176.53397100034468,-39.99205932552461],[176.53425213486412,-39.99145763804552],[176.53614413054365,-39.99181247006368],[176.53582084363737,-39.9924710662402],[176.53397100034468,-39.99205932552461]]],"type":"Polygon"}
+}

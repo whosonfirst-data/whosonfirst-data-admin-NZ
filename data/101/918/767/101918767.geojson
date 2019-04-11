@@ -1,0 +1,92 @@
+{
+  "id": 101918767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10204.067979,
+    "geom:bbox":"174.945886741,-37.2611575913,174.94725382,-37.2595697848",
+    "geom:latitude":-37.260376,
+    "geom:longitude":174.946531,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.260326,
+    "lbl:longitude":174.946349,
+    "mps:latitude":-37.260326,
+    "mps:longitude":174.946349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tuakau"
+    ],
+    "name:eng_x_variant":[
+        "Tuakau Town District"
+    ],
+    "name:msa_x_preferred":[
+        "Tuakau"
+    ],
+    "name:nno_x_preferred":[
+        "Tuakau"
+    ],
+    "name:pol_x_preferred":[
+        "Tuakau"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tuakau",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":606,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd0d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2180831,
+        "gp:id":2350980,
+        "wd:id":"Q6979900",
+        "wk:page":"Tuakau"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d1e88c2924db32b55455445fde41e055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101918767,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918767,
+    "wof:lastmodified":1527715674,
+    "wof:name":"Tuakau",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915029
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.94588674133374,
+    -37.26115759126059,
+    174.94725382005862,
+    -37.25956978479256
+],
+  "geometry": {"coordinates":[[[174.94633810871048,-37.25956978479256],[174.94694734706405,-37.25973060898937],[174.94663759979392,-37.26041890268405],[174.94697362925567,-37.2605382649416],[174.94691030357424,-37.26071853139388],[174.94725382005862,-37.26086498222092],[174.94709873495296,-37.26115759126059],[174.94648695529705,-37.26089129344772],[174.94588674133374,-37.26062984815336],[174.94613739296548,-37.26004750391494],[174.94633810871048,-37.25956978479256]]],"type":"Polygon"}
+}

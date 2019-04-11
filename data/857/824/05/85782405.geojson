@@ -1,0 +1,113 @@
+{
+  "id": 85782405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1827337.591923,
+    "geom:bbox":"175.285381,-37.790026,175.285381,-37.790026",
+    "geom:latitude":-37.790026,
+    "geom:longitude":175.285381,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-37.790026,
+    "lbl:longitude":175.285381,
+    "mps:latitude":-37.788851,
+    "mps:longitude":175.285732,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Hamilton Central"
+    ],
+    "name:may_x_preferred":[
+        "Hamilton Tengah"
+    ],
+    "name:msa_x_preferred":[
+        "Hamilton Tengah"
+    ],
+    "name:unk_x_variant":[
+        "Hamilton Central"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2190324,
+    "qs:gn_nam_loc":"Hamilton, Hamilton City, Waikato, NZ",
+    "qs:gn_namadm1":"G1",
+    "qs:local_max":2282,
+    "qs:local_sum":13296,
+    "qs:localhoods":25,
+    "qs:name":"Hamilton Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Waikato",
+    "qs:name_adm2":"Hamilton City",
+    "qs:name_local":"Hamilton",
+    "qs:photo_max":331,
+    "qs:photo_sum":1378,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021765,
+    "qs:woe_adm2":55875919,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348696,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1647,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079271,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676733,
+        "qs:id":375352,
+        "wd:id":"Q5644866"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b81313110b5271ba1b6b61ceb598ca62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "locality_id":-1,
+            "neighbourhood_id":85782405,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":85782405,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860358,
+    "wof:name":"Hamilton Central",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.285381,
+    -37.790026,
+    175.285381,
+    -37.790026
+],
+  "geometry": {"coordinates":[175.285381,-37.790026],"type":"Point"}
+}

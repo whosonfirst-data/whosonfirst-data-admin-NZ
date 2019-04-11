@@ -1,0 +1,68 @@
+{
+  "id": 1226571467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.03333,-38.88333,175.03333,-38.88333",
+    "geom:latitude":-38.88333,
+    "geom:longitude":175.03333,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Roto",
+    "gn:country_code":"NZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183271,
+    "gn:latitude":-38.88333,
+    "gn:longitude":175.03333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Roto",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183271
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"570d9926f5503e1b1d25cd70980b373d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1226571467,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1226571467,
+    "wof:lastmodified":1536962041,
+    "wof:name":"Roto",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.03333,
+    -38.88333,
+    175.03333,
+    -38.88333
+],
+  "geometry": {"coordinates":[175.03333000000001,-38.88333],"type":"Point"}
+}

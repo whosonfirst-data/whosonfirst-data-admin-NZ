@@ -1,0 +1,77 @@
+{
+  "id": 101918643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5377.254574,
+    "geom:bbox":"170.591320706,-45.8301120899,170.592367768,-45.8289335115",
+    "geom:latitude":-45.829458,
+    "geom:longitude":170.591952,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.829447,
+    "lbl:longitude":170.591936,
+    "mps:latitude":-45.829447,
+    "mps:longitude":170.591936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Roseneath"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Roseneath",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726514,
+        "wd:id":"Q5401292"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"167975c604d1ecff9a4d0ec7bd48e81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101918643,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101918643,
+    "wof:lastmodified":1527715669,
+    "wof:name":"Roseneath",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916093
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.59132070630213,
+    -45.83011208990299,
+    170.5923677678834,
+    -45.82893351148208
+],
+  "geometry": {"coordinates":[[[170.59214482300888,-45.83011208990299],[170.59132070630213,-45.82939206833553],[170.59206154239337,-45.82899103782665],[170.59236776788339,-45.82893351148208],[170.59234405209963,-45.82904765881912],[170.59234308840712,-45.82905276789781],[170.59234244308288,-45.8290578837787],[170.59234211600619,-45.82906300627923],[170.59233308647109,-45.82927231270001],[170.59225258561435,-45.82962481623681],[170.5922521859101,-45.82962669762482],[170.59225189621074,-45.82962849132382],[170.592251610391,-45.82963019509626],[170.59221271878477,-45.82985983959139],[170.59217561713785,-45.83001599992905],[170.59214482300888,-45.83011208990299]]],"type":"Polygon"}
+}

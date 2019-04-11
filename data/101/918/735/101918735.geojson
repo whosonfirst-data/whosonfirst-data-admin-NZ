@@ -1,0 +1,80 @@
+{
+  "id": 101918735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3974.474504,
+    "geom:bbox":"175.38684444,-38.9374664983,175.387850096,-38.9366658573",
+    "geom:latitude":-38.937065,
+    "geom:longitude":175.387348,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.937081,
+    "lbl:longitude":175.387335,
+    "mps:latitude":-38.937081,
+    "mps:longitude":175.387335,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kakahi"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kakahi",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":959,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c365a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2189155,
+        "gp:id":2348963,
+        "wd:id":"Q1563148",
+        "wk:page":"Kakahi, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5759d4adae788d78fcbc23e8e1ff70b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918735,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918735,
+    "wof:lastmodified":1527715674,
+    "wof:name":"Kakahi",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101918229
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.3868444403935,
+    -38.93746649832273,
+    175.38785009628913,
+    -38.9366658572643
+],
+  "geometry": {"coordinates":[[[175.38729254354521,-38.9366658572643],[175.38782185856581,-38.93695480200958],[175.38785009628913,-38.93697042851944],[175.3874068260634,-38.93746649832273],[175.3868444403935,-38.93715571800202],[175.38729254354521,-38.9366658572643]]],"type":"Polygon"}
+}

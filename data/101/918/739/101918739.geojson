@@ -1,0 +1,89 @@
+{
+  "id": 101918739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6812.738718,
+    "geom:bbox":"175.388104665,-38.9351292634,175.389446179,-38.9342477469",
+    "geom:latitude":-38.934708,
+    "geom:longitude":175.388793,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.934692,
+    "lbl:longitude":175.388774,
+    "mps:latitude":-38.934692,
+    "mps:longitude":175.388774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Kakahi"
+    ],
+    "name:eng_x_preferred":[
+        "Kakahi"
+    ],
+    "name:mri_x_preferred":[
+        "K\u0101kahi"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kakahi",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":959,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c365a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2189155,
+        "gp:id":2348963,
+        "wd:id":"Q1563148",
+        "wk:page":"Kakahi, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a8d82f7764b5d5a251461794d5071ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918739,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918739,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715668,
+    "wof:name":"Kakahi",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101918229
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.38810466450695,
+    -38.93512926340924,
+    175.38944617936886,
+    -38.93424774691449
+],
+  "geometry": {"coordinates":[[[175.38810466450695,-38.93465862507541],[175.38849354538155,-38.93452512258438],[175.38860589205768,-38.93440377563541],[175.38865276477767,-38.93439106762504],[175.38920747505608,-38.93424774691449],[175.38932053034912,-38.93454638938827],[175.38944617936886,-38.9348754096191],[175.38931678022024,-38.9349042842704],[175.38861817205884,-38.93505785869305],[175.38849101610924,-38.93508488238407],[175.38831022402886,-38.93512926340924],[175.38810466450695,-38.93465862507541]]],"type":"Polygon"}
+}

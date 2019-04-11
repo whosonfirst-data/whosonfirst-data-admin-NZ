@@ -1,0 +1,109 @@
+{
+  "id": 85773221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2110573.326928,
+    "geom:bbox":"176.833191,-39.556999,176.833191,-39.556999",
+    "geom:latitude":-39.556999,
+    "geom:longitude":176.833191,
+    "gn:latitude":-39.54028,
+    "gn:longitude":176.84778,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.556999,
+    "lbl:longitude":176.833191,
+    "mps:latitude":-39.559855,
+    "mps:longitude":176.832632,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Tamihunu"
+    ],
+    "name:unk_x_variant":[
+        "Tamihunu"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2186313,
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Tamihunu",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Tamihunu",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079329,
+        85687189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2206822,
+        "gp:id":2350694,
+        "qs:id":466757,
+        "qs_pg:id":466757
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"67ff41ef8feff0e976df0e43e069edf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":-1,
+            "neighbourhood_id":85773221,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":85773221,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859649,
+    "wof:name":"Tamihunu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.833191,
+    -39.556999,
+    176.833191,
+    -39.556999
+],
+  "geometry": {"coordinates":[176.833191,-39.556999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293518599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.83187,-39.05978,177.83187,-39.05978",
+    "geom:latitude":-39.05978,
+    "geom:longitude":177.83187,
+    "gn:admin1_code":"F2",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Opoutama",
+    "gn:country_code":"NZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185497,
+    "gn:latitude":-39.05978,
+    "gn:longitude":177.83187,
+    "gn:modification_date":"2015-03-05",
+    "gn:name":"Opoutama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185497
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ffa08445c69a5bff9d659b44623aa59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079327,
+            "locality_id":1293518599,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1293518599,
+    "wof:lastmodified":1536742058,
+    "wof:name":"Opoutama",
+    "wof:parent_id":102079327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.83187,
+    -39.05978,
+    177.83187,
+    -39.05978
+],
+  "geometry": {"coordinates":[177.83187000000001,-39.05978],"type":"Point"}
+}

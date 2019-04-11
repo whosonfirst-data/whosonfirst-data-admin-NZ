@@ -1,0 +1,89 @@
+{
+  "id": 1125999221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.01667,-42.0,174.01667,-42.0",
+    "geom:latitude":-42.0,
+    "geom:longitude":174.01667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.0,
+    "lbl:longitude":174.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kekerangu"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2188924,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kekerengu",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":137,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":137,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241204,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2349022,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188924,
+        "gp:id":2349022,
+        "qs_pg:id":241204
+    },
+    "wof:country":"NZ",
+    "wof:created":1497299545,
+    "wof:geomhash":"0ca0470fcd6a461ee438f309e43d0bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1125999221,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125999221,
+    "wof:lastmodified":1509406006,
+    "wof:name":"Kekerengu",
+    "wof:parent_id":85687179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.01667,
+    -42.0,
+    174.01667,
+    -42.0
+],
+  "geometry": {"coordinates":[174.01667,-42.0],"type":"Point"}
+}

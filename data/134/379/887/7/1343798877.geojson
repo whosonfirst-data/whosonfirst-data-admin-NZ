@@ -1,0 +1,67 @@
+{
+  "id": 1343798877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.88333,-44.93333,170.88333,-44.93333",
+    "geom:latitude":-44.93333,
+    "geom:longitude":170.88333,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Awamoko",
+    "gn:country_code":"NZ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2193680,
+    "gn:latitude":-44.93333,
+    "gn:longitude":170.88333,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Awamoko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193680
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3cbcee4d69f958642f17e87287d66e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1343798877,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1343798877,
+    "wof:lastmodified":1536755507,
+    "wof:name":"Awamoko",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.88333,
+    -44.93333,
+    170.88333,
+    -44.93333
+],
+  "geometry": {"coordinates":[170.88333,-44.93333],"type":"Point"}
+}

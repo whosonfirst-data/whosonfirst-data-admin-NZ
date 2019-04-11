@@ -1,0 +1,88 @@
+{
+  "id": 101918035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15755.433373,
+    "geom:bbox":"172.247841135,-43.8073653655,172.249959319,-43.8056790604",
+    "geom:latitude":-43.806518,
+    "geom:longitude":172.248906,
+    "gn:population":785,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.806533,
+    "lbl:longitude":172.248891,
+    "mps:latitude":-43.806533,
+    "mps:longitude":172.248891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Southbridge"
+    ],
+    "name:eng_x_variant":[
+        "Southbridge Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Southbridge",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":244,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ded7e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2182525,
+        "gp:id":2350574,
+        "qs:id":195101,
+        "wd:id":"Q3492294",
+        "wk:page":"Southbridge, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3344893f319041e68d6bb3c21d92b329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101918035,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918035,
+    "wof:lastmodified":1527715677,
+    "wof:name":"Southbridge",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:population":785,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915185
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.24784113508022,
+    -43.80736536549237,
+    172.24995931925696,
+    -43.80567906040566
+],
+  "geometry": {"coordinates":[[[172.24995931925696,-43.8069463495739],[172.24893489573321,-43.80736536549237],[172.24784113508022,-43.80602990313298],[172.24867065804585,-43.80567906040566],[172.24897781745659,-43.80605325630374],[172.24920859982637,-43.80596336284761],[172.24995931925696,-43.8069463495739]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243584933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.38333,-40.5,175.38333,-40.5",
+    "geom:latitude":-40.5,
+    "geom:longitude":175.38333,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Moutoa",
+    "gn:country_code":"NZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2186413,
+    "gn:latitude":-40.5,
+    "gn:longitude":175.38333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Moutoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186413
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"533acc161fd0b36937d7ad300f0b3608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":1243584933,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1243584933,
+    "wof:lastmodified":1536603000,
+    "wof:name":"Moutoa",
+    "wof:parent_id":102079313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.38333,
+    -40.5,
+    175.38333,
+    -40.5
+],
+  "geometry": {"coordinates":[175.38333,-40.5],"type":"Point"}
+}

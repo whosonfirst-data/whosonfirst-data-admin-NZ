@@ -1,0 +1,68 @@
+{
+  "id": 1260013661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.15,-43.88333,172.15,-43.88333",
+    "geom:latitude":-43.88333,
+    "geom:longitude":172.15,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Dorie",
+    "gn:country_code":"NZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2191665,
+    "gn:latitude":-43.88333,
+    "gn:longitude":172.15,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Dorie",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191665
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d49c7851cfd6b4e1a3e1cf6df8e69ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":1260013661,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1260013661,
+    "wof:lastmodified":1537085346,
+    "wof:name":"Dorie",
+    "wof:parent_id":102079371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.15,
+    -43.88333,
+    172.15,
+    -43.88333
+],
+  "geometry": {"coordinates":[172.15000000000001,-43.88333],"type":"Point"}
+}

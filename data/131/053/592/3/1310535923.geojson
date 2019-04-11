@@ -1,0 +1,68 @@
+{
+  "id": 1310535923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.11667,-39.13333,174.11667,-39.13333",
+    "geom:latitude":-39.13333,
+    "geom:longitude":174.11667,
+    "gn:admin1_code":"F9",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Kent Road",
+    "gn:country_code":"NZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188886,
+    "gn:latitude":-39.13333,
+    "gn:longitude":174.11667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kent Road",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188886
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fa5b08dd2c20ac18afdf57f08c9a91b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":1310535923,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1310535923,
+    "wof:lastmodified":1536871996,
+    "wof:name":"Kent Road",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.11667,
+    -39.13333,
+    174.11667,
+    -39.13333
+],
+  "geometry": {"coordinates":[174.11667,-39.13333],"type":"Point"}
+}

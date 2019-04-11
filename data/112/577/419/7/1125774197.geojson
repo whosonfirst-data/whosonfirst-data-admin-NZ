@@ -1,0 +1,107 @@
+{
+  "id": 1125774197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.98333,-40.91667,174.98333,-40.91667",
+    "geom:latitude":-40.91667,
+    "geom:longitude":174.98333,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.91667,
+    "lbl:longitude":174.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Raumati"
+    ],
+    "name:eng_x_preferred":[
+        "Raumati"
+    ],
+    "name:fre_x_preferred":[
+        "Raumati"
+    ],
+    "name:ger_x_preferred":[
+        "Raumati"
+    ],
+    "name:may_x_preferred":[
+        "Raumati"
+    ],
+    "name:unk_x_variant":[
+        "Raumati"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2183620,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Raumati Beach",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":193,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":193,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1077173,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644849,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183620,
+        "gp:id":28644849,
+        "qs_pg:id":1077173,
+        "wd:id":"Q1387551"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497290187,
+    "wof:geomhash":"3b041cc1fa7165a7074bbbe253c36e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":1125774197,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1125774197,
+    "wof:lastmodified":1514494413,
+    "wof:name":"Raumati Beach",
+    "wof:parent_id":102079315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.98333,
+    -40.91667,
+    174.98333,
+    -40.91667
+],
+  "geometry": {"coordinates":[174.98333,-40.91667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209546179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.95,-43.66667,171.95,-43.66667",
+    "geom:latitude":-43.66667,
+    "geom:longitude":171.95,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Te Pirita",
+    "gn:country_code":"NZ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181388,
+    "gn:latitude":-43.66667,
+    "gn:longitude":171.95,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Te Pirita",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181388
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b7648352f27c0441e1d7d4117b24bc99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209546179
+        }
+    ],
+    "wof:id":1209546179,
+    "wof:lastmodified":1536283836,
+    "wof:name":"Te Pirita",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.95,
+    -43.66667,
+    171.95,
+    -43.66667
+],
+  "geometry": {"coordinates":[171.94999999999999,-43.66667],"type":"Point"}
+}

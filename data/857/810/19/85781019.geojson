@@ -1,0 +1,123 @@
+{
+  "id": 85781019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000189,
+    "geom:area_square_m":1870208.946282,
+    "geom:bbox":"174.704589844,-36.9147639728,174.723815918,-36.8993907605",
+    "geom:latitude":-36.907808,
+    "geom:longitude":174.715008,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.907226,
+    "lbl:longitude":174.714911,
+    "mps:latitude":-36.907077,
+    "mps:longitude":174.715192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "New Windsor"
+    ],
+    "name:eng_x_preferred":[
+        "New Windsor"
+    ],
+    "name:ita_x_preferred":[
+        "New Windsor"
+    ],
+    "name:nld_x_preferred":[
+        "New Windsor"
+    ],
+    "name:pol_x_preferred":[
+        "New Windsor"
+    ],
+    "name:spa_x_preferred":[
+        "New Windsor"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0443 \u0412\u0438\u043d\u0441\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "New Windsor"
+    ],
+    "name:vol_x_preferred":[
+        "New Windsor"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2193733,
+    "qs:id":0,
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"New Windsor",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":13,
+    "qs:photo_sum":34,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":35,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643947
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4aa8bc5890ff9ccf24dd5994f83d71b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781019,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781019,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269408,
+    "wof:name":"New Windsor",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.7045898440001,
+    -36.91476397282492,
+    174.7238159180003,
+    -36.89939076049991
+],
+  "geometry": {"coordinates":[[[174.7238159180003,-36.90941467246812],[174.7238159180003,-36.91361889081047],[174.72106933600043,-36.91476397282492],[174.719087565508,-36.91476397282492],[174.71557617200017,-36.91256812480009],[174.71008300800037,-36.91256812480009],[174.70634569242799,-36.91256812480009],[174.70458989453391,-36.9103722135],[174.70458984400011,-36.9103722135],[174.70458984400045,-36.91037215029989],[174.70458984400028,-36.9059798852],[174.70458984400062,-36.90597982197484],[174.71008300800037,-36.90597982197484],[174.71008300800037,-36.90158730400007],[174.71008300800037,-36.90158724077473],[174.71557617200017,-36.90158724077473],[174.71733262706135,-36.89939076049991],[174.71931288093975,-36.89939076049991],[174.72106933600043,-36.90158724077473],[174.72106933600026,-36.90158730400007],[174.72106933600026,-36.90597982197484],[174.72106938655662,-36.90597988520009],[174.7238159180003,-36.90941467246812]]],"type":"Polygon"}
+}

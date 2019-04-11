@@ -1,0 +1,114 @@
+{
+  "id": 85772995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000269,
+    "geom:area_square_m":2501691.8556,
+    "geom:bbox":"174.76341655,-41.2489025224,174.786987305,-41.2211458959",
+    "geom:latitude":-41.234992,
+    "geom:longitude":174.774239,
+    "gn:latitude":-41.23827,
+    "gn:longitude":174.79019,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.245289,
+    "lbl:longitude":174.790306,
+    "mps:latitude":-41.227865,
+    "mps:longitude":174.770131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Khandallah"
+    ],
+    "name:unk_x_variant":[
+        "Khandallah"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Khandallah",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Khandallah",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":13,
+    "qs:photo_sum":28,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":990,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244933,
+        "gp:id":2349050,
+        "qs:id":319770,
+        "qs_pg:id":319770,
+        "wd:id":"Q2567227",
+        "wk:page":"Khandallah"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"75d0b1d0bdb1bcb449f6a562049ef16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772995,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85772995,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527639421,
+    "wof:name":"Khandallah",
+    "wof:parent_id":101914285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.76341655012033,
+    -41.2489025224,
+    174.78698730500065,
+    -41.2211458958787
+],
+  "geometry": {"coordinates":[[[174.78047853283391,-41.23929120036131],[174.78149414100017,-41.24064183742501],[174.78698730500065,-41.24064183742501],[174.78698730500065,-41.24064190270008],[174.78698730500048,-41.24477227782503],[174.78698730500031,-41.24477234309992],[174.78698730500048,-41.24747296834105],[174.78698730500014,-41.2489025224],[174.7814941381294,-41.24890252024155],[174.78149414100017,-41.24683746539993],[174.77874755900046,-41.24683745669338],[174.77746350707133,-41.24512965207185],[174.77612020828929,-41.24477234309495],[174.77600097700008,-41.24477234309992],[174.77600097692743,-41.24474062829901],[174.77600097687537,-41.24064190270008],[174.77050781200006,-41.24064190270008],[174.77050781200006,-41.24064183742501],[174.76776123025007,-41.24064183742501],[174.76776123025007,-41.23651113594992],[174.76620799869676,-41.23238017344985],[174.76341655012033,-41.22866823330881],[174.76344654169628,-41.22836372372984],[174.76401559917508,-41.22648779262622],[174.76493969837742,-41.22475892461978],[174.76618332668795,-41.22324355913797],[174.76769869216997,-41.22199993082688],[174.7692964791774,-41.2211458958787],[174.77600097675048,-41.224117204275],[174.77600097686098,-41.22824901520005],[174.77600097685456,-41.23095078484202],[174.77600097700008,-41.23238023870005],[174.77600097700008,-41.23651120119995],[174.77600097700008,-41.23654263141287],[174.77673201759256,-41.2371259105694],[174.7774493205996,-41.23871571362447],[174.78047853283391,-41.23929120036131]]],"type":"Polygon"}
+}

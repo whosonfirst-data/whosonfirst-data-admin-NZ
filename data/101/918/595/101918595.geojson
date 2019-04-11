@@ -1,0 +1,85 @@
+{
+  "id": 101918595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":13979.700763,
+    "geom:bbox":"171.607412243,-41.7491107699,171.609618853,-41.7481836489",
+    "geom:latitude":-41.748617,
+    "geom:longitude":171.608433,
+    "gn:population":3629,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.748604,
+    "lbl:longitude":171.60844,
+    "mps:latitude":-41.748604,
+    "mps:longitude":171.60844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Westport"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Westport",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1387,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de072-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206900,
+        "gp:id":2351332,
+        "qs:id":970312,
+        "wd:id":"Q1349217",
+        "wk:page":"Westport, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ca18990c44456981d3225aedbe36e534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101918595,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101918595,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Westport",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:population":3629,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.60741224322732,
+    -41.74911076989416,
+    171.60961885271078,
+    -41.7481836488507
+],
+  "geometry": {"coordinates":[[[171.60949712702322,-41.748286015362],[171.60961885271078,-41.74882362475424],[171.60742025385395,-41.74911076989416],[171.60741224322732,-41.74859291515535],[171.60756821348068,-41.74860820383288],[171.60759047416158,-41.74820383967253],[171.60759150598955,-41.7481836488507],[171.60949712702322,-41.748286015362]]],"type":"Polygon"}
+}

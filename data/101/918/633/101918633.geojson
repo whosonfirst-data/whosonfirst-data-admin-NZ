@@ -1,0 +1,77 @@
+{
+  "id": 101918633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9565.572402,
+    "geom:bbox":"168.304387399,-46.4316582943,168.306550625,-46.4310604605",
+    "geom:latitude":-46.431368,
+    "geom:longitude":168.305518,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.431361,
+    "lbl:longitude":168.305541,
+    "mps:latitude":-46.431361,
+    "mps:longitude":168.305541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Otatara"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Otatara",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d29d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185302,
+        "gp:id":2349943
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3b446fd9be35761a5fa154e94425da87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101918633,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101918633,
+    "wof:lastmodified":1487270015,
+    "wof:name":"Otatara",
+    "wof:parent_id":102079397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914753
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.3043873989973,
+    -46.43165829425836,
+    168.30655062541416,
+    -46.43106046047172
+],
+  "geometry": {"coordinates":[[[168.30438739899731,-46.43163004040212],[168.30463426215863,-46.43106046047172],[168.30619204634451,-46.43110429985074],[168.30655062541416,-46.43111625909263],[168.30653104338253,-46.43165829425836],[168.30495458208529,-46.43162548024923],[168.30495179309568,-46.43162545550964],[168.30494900423579,-46.43162543077533],[168.30494632240544,-46.4316254103546],[168.30438739899731,-46.43163004040212]]],"type":"Polygon"}
+}

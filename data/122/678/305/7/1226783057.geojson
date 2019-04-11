@@ -1,0 +1,68 @@
+{
+  "id": 1226783057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.01667,-37.56667,178.01667,-37.56667",
+    "geom:latitude":-37.56667,
+    "geom:longitude":178.01667,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Cape Runaway",
+    "gn:country_code":"NZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2192620,
+    "gn:latitude":-37.56667,
+    "gn:longitude":178.01667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Cape Runaway",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192620
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"67cb81741c3d8fff3e9f63336e164fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079321,
+            "locality_id":1226783057,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1226783057,
+    "wof:lastmodified":1536661875,
+    "wof:name":"Cape Runaway",
+    "wof:parent_id":102079321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.01667,
+    -37.56667,
+    178.01667,
+    -37.56667
+],
+  "geometry": {"coordinates":[178.01667,-37.56667],"type":"Point"}
+}

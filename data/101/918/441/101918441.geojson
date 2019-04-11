@@ -1,0 +1,85 @@
+{
+  "id": 101918441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13375.562068,
+    "geom:bbox":"176.4467974,-37.7623009336,176.448514184,-37.7605320757",
+    "geom:latitude":-37.761473,
+    "geom:longitude":176.447678,
+    "gn:population":1083,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.761482,
+    "lbl:longitude":176.447691,
+    "mps:latitude":-37.761482,
+    "mps:longitude":176.447691,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Maketu"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Maketu",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd366-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2187908,
+        "gp:id":2349315,
+        "qs:id":1354788,
+        "wd:id":"Q1886343",
+        "wk:page":"Maketu"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8d4cb877c22b0c8f12ccff6f479d5cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101918441,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":101918441,
+    "wof:lastmodified":1527715670,
+    "wof:name":"Maketu",
+    "wof:parent_id":102079283,
+    "wof:placetype":"locality",
+    "wof:population":1083,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916609
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.44679739977053,
+    -37.76230093359702,
+    176.44851418391755,
+    -37.76053207565068
+],
+  "geometry": {"coordinates":[[[176.44758141944538,-37.76227786860014],[176.44756436548755,-37.76230093359702],[176.4471370416552,-37.76217874430772],[176.44679739977053,-37.762084530942],[176.44701669902472,-37.76171171957851],[176.44749804775242,-37.76107479941899],[176.44791475348646,-37.76055708031002],[176.44793625609339,-37.76053207565068],[176.44851418391755,-37.76101936503576],[176.44844819467934,-37.76111065594925],[176.44838809226985,-37.76118283027844],[176.44758141944538,-37.76227786860014]]],"type":"Polygon"}
+}

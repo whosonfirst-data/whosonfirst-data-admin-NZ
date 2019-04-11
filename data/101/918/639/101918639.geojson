@@ -1,0 +1,82 @@
+{
+  "id": 101918639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3990.42968,
+    "geom:bbox":"169.789589922,-46.2255540493,169.791112621,-46.2247869043",
+    "geom:latitude":-46.225175,
+    "geom:longitude":169.790388,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.225179,
+    "lbl:longitude":169.790382,
+    "mps:latitude":-46.225179,
+    "mps:longitude":169.790382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Benhar"
+    ],
+    "name:eng_x_preferred":[
+        "Benhar"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Benhar",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cd470-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2193420,
+        "gp:id":2348164,
+        "wd:id":"Q817258"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"02be34ff8411e3f6796d1c27bcea5cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101918639,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101918639,
+    "wof:lastmodified":1527715677,
+    "wof:name":"Benhar",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917981
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.78958992214208,
+    -46.22555404925515,
+    169.79111262122066,
+    -46.22478690428358
+],
+  "geometry": {"coordinates":[[[169.79111262122066,-46.2250705709191],[169.79040016243036,-46.22535669149335],[169.79038820583028,-46.22536177301374],[169.79003766869002,-46.22555404925515],[169.78958992214208,-46.22530168473057],[169.79090787709185,-46.22478690428358],[169.79093641736597,-46.22481017528045],[169.79111262122066,-46.2250705709191]]],"type":"Polygon"}
+}

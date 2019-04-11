@@ -1,0 +1,107 @@
+{
+  "id": 85782371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4115358.631746,
+    "geom:bbox":"172.633547,-43.530658,172.633547,-43.530658",
+    "geom:latitude":-43.530658,
+    "geom:longitude":172.633547,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-43.530658,
+    "lbl:longitude":172.633547,
+    "mps:latitude":-43.531624,
+    "mps:longitude":172.633492,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Christchurch Central"
+    ],
+    "name:unk_x_variant":[
+        "Christchurch Central"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Christchurch Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":1807,
+    "qs:photo_sum":24580,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":90,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1182,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079401,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676724,
+        "qs:id":984410,
+        "wd:id":"Q5109061"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3041a33e050ee8faf1ff85150c954c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":-1,
+            "neighbourhood_id":85782371,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85782371,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860351,
+    "wof:name":"Christchurch Central",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.633547,
+    -43.530658,
+    172.633547,
+    -43.530658
+],
+  "geometry": {"coordinates":[172.63354699999999,-43.530658],"type":"Point"}
+}

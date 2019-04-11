@@ -1,0 +1,103 @@
+{
+  "id": 85782905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000302,
+    "geom:area_square_m":2809853.902677,
+    "geom:bbox":"174.825439453,-41.2248790968,174.844785885,-41.2055224564",
+    "geom:latitude":-41.214815,
+    "geom:longitude":174.835196,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.21658,
+    "lbl:longitude":174.834541,
+    "mps:latitude":-41.21482,
+    "mps:longitude":174.835011,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Woodridge"
+    ],
+    "name:unk_x_variant":[
+        "Woodridge"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:id":0,
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Woodridge",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":42,
+    "qs:photo_sum":65,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55876921
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7ced8808f220240ff7699318895d1fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":-1,
+            "neighbourhood_id":85782905,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85782905,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269401,
+    "wof:name":"Woodridge",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.82543945300006,
+    -41.22487909677343,
+    174.8447858851452,
+    -41.20552245642507
+],
+  "geometry": {"coordinates":[[[174.84367919900052,-41.20965524614991],[174.84360333781052,-41.21042547773563],[174.84360619736771,-41.21042313095774],[174.84295508720601,-41.21172144527495],[174.84239598910608,-41.21395120005115],[174.8447858851452,-41.22030574234937],[174.84191894500037,-41.22411746532485],[174.84191894500003,-41.22411753059993],[174.83642578100006,-41.22411753059993],[174.83642578100006,-41.22411746532485],[174.83408838003857,-41.22411746532485],[174.83367919900019,-41.22487909677343],[174.83093261700014,-41.22414875877411],[174.83081517721035,-41.22411753059993],[174.82818603500044,-41.22341842077496],[174.82818603500027,-41.22205169040004],[174.82818603500044,-41.21998578490004],[174.82818603500044,-41.21753359510802],[174.8264559559691,-41.21720502764518],[174.82543950212147,-41.21585377830014],[174.82543945300006,-41.21585377830005],[174.8254394530004,-41.21585371299993],[174.8254394530004,-41.21172151049993],[174.82543945300057,-41.20965511567491],[174.82783175378398,-41.2080651327113],[174.82815285606245,-41.20802633125415],[174.83079013760795,-41.20552245642507],[174.8427544577566,-41.20552245642507],[174.84291799432543,-41.20582841182618],[174.84348705180423,-41.20770434292979],[174.84367919900052,-41.20965524614991]]],"type":"Polygon"}
+}

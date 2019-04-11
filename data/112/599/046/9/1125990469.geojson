@@ -1,0 +1,86 @@
+{
+  "id": 1125990469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.859621,-41.073398,174.859621,-41.073398",
+    "geom:latitude":-41.073398,
+    "geom:longitude":174.859621,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.073398,
+    "lbl:longitude":174.859621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Karehana Bay"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Karehana Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187565,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":22726413,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726413,
+        "qs_pg:id":1187565,
+        "wd:id":"Q15233668"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497299033,
+    "wof:geomhash":"8be3d0dec41c0fcbab54a0cb4e00c510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":1125990469,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1125990469,
+    "wof:lastmodified":1514494211,
+    "wof:name":"Karehana Bay",
+    "wof:parent_id":102079317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.859621,
+    -41.073398,
+    174.859621,
+    -41.073398
+],
+  "geometry": {"coordinates":[174.859621,-41.073398],"type":"Point"}
+}

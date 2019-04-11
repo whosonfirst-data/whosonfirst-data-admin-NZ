@@ -1,0 +1,132 @@
+{
+  "id": 1125836905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.08062,-35.27025,174.08062,-35.27025",
+    "geom:latitude":-35.27025,
+    "geom:longitude":174.08062,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":795,
+    "gn:population":795,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.27025,
+    "lbl:longitude":174.08062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0451\u043d \u0412\u0430\u0439\u0442\u0430\u043d\u0433\u0456"
+    ],
+    "name:dut_x_preferred":[
+        "Waitangi"
+    ],
+    "name:eng_x_preferred":[
+        "Waitangi"
+    ],
+    "name:fre_x_preferred":[
+        "Waitangi"
+    ],
+    "name:ger_x_preferred":[
+        "Waitangi"
+    ],
+    "name:ita_x_preferred":[
+        "Waitangi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30a4\u30bf\u30f3\u30ae"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\uc774\ud0d5\uc774"
+    ],
+    "name:nds_x_preferred":[
+        "Waitangi"
+    ],
+    "name:nno_x_preferred":[
+        "Waitangi"
+    ],
+    "name:nob_x_preferred":[
+        "Waitangi"
+    ],
+    "name:pol_x_preferred":[
+        "Waitangi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u0442\u0430\u043d\u0433\u0438"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2179855,
+    "qs_pg:gn_pop":795,
+    "qs_pg:name":"Waitangi",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Northland",
+    "qs_pg:photos":1546,
+    "qs_pg:photos_1k":313,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1546,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1171459,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2351226,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Northland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179855,
+        "gp:id":2351226,
+        "qs_pg:id":1171459,
+        "wd:id":"Q499111"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497292753,
+    "wof:geomhash":"ca57fcfef6a9689c98f997670516dcdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1125836905,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1125836905,
+    "wof:lastmodified":1514494543,
+    "wof:name":"Waitangi",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:population":795,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.08062,
+    -35.27025,
+    174.08062,
+    -35.27025
+],
+  "geometry": {"coordinates":[174.08062000000001,-35.27025],"type":"Point"}
+}

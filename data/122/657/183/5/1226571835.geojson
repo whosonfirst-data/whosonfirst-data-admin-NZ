@@ -1,0 +1,68 @@
+{
+  "id": 1226571835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.8,-35.88333,173.8,-35.88333",
+    "geom:latitude":-35.88333,
+    "geom:longitude":173.8,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Rotu",
+    "gn:country_code":"NZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183226,
+    "gn:latitude":-35.88333,
+    "gn:longitude":173.8,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Rotu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183226
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"308ce757b34471ef77467743be889d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":1226571835,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1226571835,
+    "wof:lastmodified":1536961515,
+    "wof:name":"Rotu",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.8,
+    -35.88333,
+    173.8,
+    -35.88333
+],
+  "geometry": {"coordinates":[173.80000000000001,-35.88333],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1125794671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.81667,-44.86667,169.81667,-44.86667",
+    "geom:latitude":-44.86667,
+    "geom:longitude":169.81667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.86667,
+    "lbl:longitude":169.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Saint Bathans"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Bathans"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30d0\u30b5\u30f3\u30ba"
+    ],
+    "name:may_x_preferred":[
+        "Saint Bathans"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2183033,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St Bathans",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Otago",
+    "qs_pg:photos":258,
+    "qs_pg:photos_1k":52,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":258,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1081103,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350506,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Otago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183033,
+        "gp:id":2350506,
+        "qs_pg:id":1081103,
+        "wd:id":"Q7401029"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497291001,
+    "wof:geomhash":"e67b1b86007626973f8be571f0746c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079383,
+            "locality_id":1125794671,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1125794671,
+    "wof:lastmodified":1514494455,
+    "wof:name":"St Bathans",
+    "wof:parent_id":102079383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.81667,
+    -44.86667,
+    169.81667,
+    -44.86667
+],
+  "geometry": {"coordinates":[169.81666999999999,-44.86667],"type":"Point"}
+}

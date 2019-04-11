@@ -1,0 +1,126 @@
+{
+  "id": 85772825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5938493.738984,
+    "geom:bbox":"174.701475,-36.723353,174.701475,-36.723353",
+    "geom:latitude":-36.723353,
+    "geom:longitude":174.701475,
+    "gn:latitude":-36.71667,
+    "gn:longitude":174.7,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.723353,
+    "lbl:longitude":174.701475,
+    "mps:latitude":-36.734101,
+    "mps:longitude":174.704115,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Albany"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03bb\u03bc\u03c0\u03b1\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Albany"
+    ],
+    "name:mri_x_preferred":[
+        "Albany Village"
+    ],
+    "name:msa_x_preferred":[
+        "Albany"
+    ],
+    "name:unk_x_variant":[
+        "Albany"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0646\u06cc\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Albany",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Albany",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":272,
+    "qs:photo_sum":552,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":2255,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194046,
+        "gp:id":2347990,
+        "qs:id":1092125,
+        "qs_pg:id":1092125,
+        "wd:id":"Q1501615",
+        "wk:page":"Albany, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a81bc254c8ecda6b0991d38f29a62004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85772825,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85772825,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859581,
+    "wof:name":"Albany",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.701475,
+    -36.723353,
+    174.701475,
+    -36.723353
+],
+  "geometry": {"coordinates":[174.70147499999999,-36.723353],"type":"Point"}
+}

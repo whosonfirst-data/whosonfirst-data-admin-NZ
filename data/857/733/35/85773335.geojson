@@ -1,0 +1,105 @@
+{
+  "id": 85773335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12878222.648172,
+    "geom:bbox":"174.624054,-36.790179,174.624054,-36.790179",
+    "geom:latitude":-36.790179,
+    "geom:longitude":174.624054,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.790179,
+    "lbl:longitude":174.624054,
+    "mps:latitude":-36.78906,
+    "mps:longitude":174.620684,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Whenuapai"
+    ],
+    "name:unk_x_variant":[
+        "Whenuapai"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":7302484,
+    "qs:gn_nam_loc":"waitakere",
+    "qs:gn_namadm1":"E7",
+    "qs:id":0,
+    "qs:local_max":282,
+    "qs:local_sum":2234,
+    "qs:localhoods":18,
+    "qs:name":"Whenuapai",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Waitakere",
+    "qs:photo_max":139,
+    "qs:photo_sum":267,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":28644854,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914869,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2351403
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"174f0daa86c7f386124188d5d2845758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914869,
+            "neighbourhood_id":85773335,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85773335,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859662,
+    "wof:name":"Whenuapai",
+    "wof:parent_id":101914869,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.624054,
+    -36.790179,
+    174.624054,
+    -36.790179
+],
+  "geometry": {"coordinates":[174.624054,-36.790179],"type":"Point"}
+}

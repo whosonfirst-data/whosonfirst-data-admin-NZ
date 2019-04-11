@@ -1,0 +1,86 @@
+{
+  "id": 101918419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5203.817776,
+    "geom:bbox":"177.871482568,-38.4657389813,177.873033433,-38.4651626277",
+    "geom:latitude":-38.465461,
+    "geom:longitude":177.872262,
+    "gn:population":592,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.465449,
+    "lbl:longitude":177.872234,
+    "mps:latitude":-38.465449,
+    "mps:longitude":177.872234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Karaka"
+    ],
+    "name:eng_x_variant":[
+        "Te Karaka Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Karaka",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dcc36-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181521,
+        "gp:id":2350804,
+        "wd:id":"Q2398174"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"28eac3a5553599c98492b7165ca12298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101918419,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":101918419,
+    "wof:lastmodified":1527715675,
+    "wof:name":"Te Karaka",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:population":592,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914987
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.87148256819356,
+    -38.46573898132168,
+    177.8730334328879,
+    -38.46516262767027
+],
+  "geometry": {"coordinates":[[[177.87172104241841,-38.46516549678906],[177.8717460881002,-38.46516262767027],[177.87303343288789,-38.46541190217962],[177.87297906655144,-38.46573898132168],[177.8725088446017,-38.46565884197508],[177.87193259806895,-38.46562200062501],[177.87179465829053,-38.46560170402727],[177.87158992894189,-38.46557793210557],[177.87148256819356,-38.46551844546428],[177.87160441818781,-38.46533825161749],[177.87172104241841,-38.46516549678906]]],"type":"Polygon"}
+}

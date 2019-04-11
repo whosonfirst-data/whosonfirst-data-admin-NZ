@@ -1,0 +1,110 @@
+{
+  "id": 85781377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13034401.376158,
+    "geom:bbox":"174.847337,-41.20342,174.847337,-41.20342",
+    "geom:latitude":-41.20342,
+    "geom:longitude":174.847337,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-41.20342,
+    "lbl:longitude":174.847337,
+    "mps:latitude":-41.165927,
+    "mps:longitude":174.877544,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Horokiwi"
+    ],
+    "name:unk_x_variant":[
+        "Horokiwi"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Horokiwi",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":13,
+    "qs:photo_sum":59,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":122,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079339,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644295,
+        "qs:id":889534,
+        "qs_pg:id":889534,
+        "wd:id":"Q17051458"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6f3861e581fe138c23e91904e986be5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":-1,
+            "neighbourhood_id":85781377,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85781377,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860197,
+    "wof:name":"Horokiwi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.847337,
+    -41.20342,
+    174.847337,
+    -41.20342
+],
+  "geometry": {"coordinates":[174.84733700000001,-41.20342],"type":"Point"}
+}

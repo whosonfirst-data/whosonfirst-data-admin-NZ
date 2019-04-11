@@ -1,0 +1,126 @@
+{
+  "id": 1125887209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.56667,-42.95,171.56667,-42.95",
+    "geom:latitude":-42.95,
+    "geom:longitude":171.56667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":930,
+    "gn:population":930,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.95,
+    "lbl:longitude":171.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Arthur's Pass"
+    ],
+    "name:eng_x_preferred":[
+        "Arthur's Pass"
+    ],
+    "name:epo_x_preferred":[
+        "Artura Montopasejo"
+    ],
+    "name:fin_x_preferred":[
+        "Arthurinsola"
+    ],
+    "name:ger_x_preferred":[
+        "Arthur\u2019s Pass"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc11c\uc2a4 \ud328\uc2a4"
+    ],
+    "name:mao_x_preferred":[
+        "Arthur's Pass"
+    ],
+    "name:per_x_preferred":[
+        "\u06af\u0630\u0631\u06af\u0627\u0647 \u0622\u0631\u062a\u0648\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u0443\u0440\u0441 \u041f\u0430\u0441\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Paso de Arthur"
+    ],
+    "name:wel_x_preferred":[
+        "Arthur's Pass"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2178896,
+    "qs_pg:gn_pop":930,
+    "qs_pg:name":"Arthur's Pass",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":2132,
+    "qs_pg:photos_1k":432,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2132,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":898187,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348058,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178896,
+        "gp:id":2348058,
+        "qs_pg:id":898187,
+        "wd:id":"Q474342"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497295136,
+    "wof:geomhash":"cc28da4a842bd994f616940d8d65a2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":1125887209,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125887209,
+    "wof:lastmodified":1514493735,
+    "wof:name":"Arthur's Pass",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:population":930,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.56667,
+    -42.95,
+    171.56667,
+    -42.95
+],
+  "geometry": {"coordinates":[171.56666999999999,-42.95],"type":"Point"}
+}

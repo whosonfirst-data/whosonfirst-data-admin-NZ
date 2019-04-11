@@ -1,0 +1,111 @@
+{
+  "id": 85781347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":9860100.977856,
+    "geom:bbox":"178.027956,-38.673016,178.027956,-38.673016",
+    "geom:latitude":-38.673016,
+    "geom:longitude":178.027956,
+    "gn:latitude":-38.66824,
+    "gn:longitude":178.03021,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.673016,
+    "lbl:longitude":178.027956,
+    "mps:latitude":-38.678549,
+    "mps:longitude":178.03831,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kaiti"
+    ],
+    "name:unk_x_variant":[
+        "Kaiti"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2206854,
+    "qs:gn_namadm1":"F1",
+    "qs:gn_name":"Kaiti",
+    "qs:local_max":317,
+    "qs:local_sum":1233,
+    "qs:localhoods":9,
+    "qs:name":"Kaiti",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Gisborne",
+    "qs:name_adm2":"Gisborne District",
+    "qs:name_local":"Gisborne",
+    "qs:photo_max":63,
+    "qs:photo_sum":317,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021761,
+    "qs:woe_adm2":55875882,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348582,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687237,
+        102191583,
+        85633345,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6240088,
+        "gp:id":28644276,
+        "qs:id":230145
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e81d08c5d8b7f272a5fb2b72f277b013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":-1,
+            "neighbourhood_id":85781347,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":85781347,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379391,
+    "wof:name":"Kaiti",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        1126067767
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.027956,
+    -38.673016,
+    178.027956,
+    -38.673016
+],
+  "geometry": {"coordinates":[178.02795599999999,-38.673016],"type":"Point"}
+}

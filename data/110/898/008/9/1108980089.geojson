@@ -1,0 +1,92 @@
+{
+  "id": 1108980089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.86641,-41.11299,174.86641,-41.11299",
+    "geom:latitude":-41.11299,
+    "geom:longitude":174.86641,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.11299,
+    "lbl:longitude":174.86641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Papakowhai"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6244919,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Papakowhai",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":56260,
+    "qs_pg:qs_pg_placetype":"locality_gp_neighbourhood_gn",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":22726491,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244919,
+        "qs_pg:id":56260,
+        "wd:id":"Q7132409",
+        "woe:id":22726491
+    },
+    "wof:country":"NZ",
+    "wof:created":1496793277,
+    "wof:geomhash":"109e8a3990ac3c9d92073bba58769911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":1108980089,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1108980089,
+    "wof:lastmodified":1514494395,
+    "wof:name":"Papakowhai",
+    "wof:parent_id":102079317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.86641,
+    -41.11299,
+    174.86641,
+    -41.11299
+],
+  "geometry": {"coordinates":[174.86641,-41.11299],"type":"Point"}
+}

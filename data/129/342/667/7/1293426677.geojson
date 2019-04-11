@@ -1,0 +1,68 @@
+{
+  "id": 1293426677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.72917,-36.84611,174.72917,-36.84611",
+    "geom:latitude":-36.84611,
+    "geom:longitude":174.72917,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Herne Bay",
+    "gn:country_code":"NZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2207697,
+    "gn:latitude":-36.84611,
+    "gn:longitude":174.72917,
+    "gn:modification_date":"2015-03-04",
+    "gn:name":"Herne Bay",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2207697
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e52a923d70ca982803d35f53662c5ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1293426677,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1293426677,
+    "wof:lastmodified":1536873642,
+    "wof:name":"Herne Bay",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.72916999999995,
+    -36.84611,
+    174.72916999999995,
+    -36.84611
+],
+  "geometry": {"coordinates":[174.72916999999995,-36.84611],"type":"Point"}
+}

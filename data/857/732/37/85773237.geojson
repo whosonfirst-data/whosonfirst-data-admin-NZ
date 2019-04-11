@@ -1,0 +1,110 @@
+{
+  "id": 85773237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12166525.832992,
+    "geom:bbox":"174.824289,-36.606712,174.824289,-36.606712",
+    "geom:latitude":-36.606712,
+    "geom:longitude":174.824289,
+    "gn:latitude":-36.6,
+    "gn:longitude":174.83333,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.606712,
+    "lbl:longitude":174.824289,
+    "mps:latitude":-36.601915,
+    "mps:longitude":174.828964,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Te Whanga"
+    ],
+    "name:unk_x_variant":[
+        "Te Whanga"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2179313,
+    "qs:gn_nam_loc":"whangaparaoa",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Te Whanga",
+    "qs:local_max":358,
+    "qs:local_sum":1491,
+    "qs:localhoods":9,
+    "qs:name":"Te Whanga",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Whangaparaoa",
+    "qs:photo_max":54,
+    "qs:photo_sum":358,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351363,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181271,
+        "gp:id":2350875,
+        "qs:id":1083903,
+        "qs_pg:id":1083903
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6834d12336b7ba5b609ecc9c27ce6fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85773237,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85773237,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859653,
+    "wof:name":"Te Whanga",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.824289,
+    -36.606712,
+    174.824289,
+    -36.606712
+],
+  "geometry": {"coordinates":[174.82428899999999,-36.606712],"type":"Point"}
+}

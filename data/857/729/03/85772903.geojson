@@ -1,0 +1,110 @@
+{
+  "id": 85772903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4178613.910974,
+    "geom:bbox":"174.806211,-36.953449,174.806211,-36.953449",
+    "geom:latitude":-36.953449,
+    "geom:longitude":174.806211,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.953449,
+    "lbl:longitude":174.806211,
+    "mps:latitude":-36.950754,
+    "mps:longitude":174.809047,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Favona"
+    ],
+    "name:unk_x_variant":[
+        "Favona"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Favona",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Favona",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":20,
+    "qs:photo_sum":29,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":257,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6231910,
+        "gp:id":2348517,
+        "qs:id":973627,
+        "qs_pg:id":973627,
+        "wd:id":"Q5438588"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1c0dd6ab3e7075afe7a4c3f325ee0ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85772903,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85772903,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859600,
+    "wof:name":"Favona",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.806211,
+    -36.953449,
+    174.806211,
+    -36.953449
+],
+  "geometry": {"coordinates":[174.80621099999999,-36.953449],"type":"Point"}
+}

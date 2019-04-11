@@ -1,0 +1,89 @@
+{
+  "id": 101916989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":23033.562402,
+    "geom:bbox":"168.229742392,-45.6710789856,168.234446714,-45.6694658709",
+    "geom:latitude":-45.670269,
+    "geom:longitude":168.232043,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.669893,
+    "lbl:longitude":168.231663,
+    "mps:latitude":-45.669893,
+    "mps:longitude":168.231663,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Mossburn"
+    ],
+    "name:eng_x_preferred":[
+        "Mossburn"
+    ],
+    "name:msa_x_preferred":[
+        "Mossburn"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mossburn",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":660,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df440-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186585,
+        "gp:id":2349597,
+        "wd:id":"Q1949441",
+        "wk:page":"Mossburn"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"005cc28f21e327c8d66f69166d4d2cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916989,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101916989,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715567,
+    "wof:name":"Mossburn",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916061
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.22974239197202,
+    -45.67107898561999,
+    168.234446714076,
+    -45.66946587093361
+],
+  "geometry": {"coordinates":[[[168.234446714076,-45.67043317796667],[168.23396660573815,-45.67085889038321],[168.23189868048894,-45.67009051773086],[168.23038707963789,-45.67107898561999],[168.22974239197202,-45.6707913128122],[168.23146496439639,-45.66965972385194],[168.23151536894929,-45.66962809744283],[168.23178782885972,-45.66946587093361],[168.234446714076,-45.67043317796667]]],"type":"Polygon"}
+}

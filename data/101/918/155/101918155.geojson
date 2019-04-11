@@ -1,0 +1,80 @@
+{
+  "id": 101918155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":23922.601389,
+    "geom:bbox":"175.635966013,-40.2828810861,175.639380293,-40.2815569319",
+    "geom:latitude":-40.282211,
+    "geom:longitude":175.637674,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.282244,
+    "lbl:longitude":175.637707,
+    "mps:latitude":-40.282244,
+    "mps:longitude":175.637707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Bunnythorpe"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bunnythorpe",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":847,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dde7e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192822,
+        "gp:id":2348251,
+        "wd:id":"Q4997892",
+        "wk:page":"Bunnythorpe"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4cc97fbe496976cef573ab2acbbaa93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101918155,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918155,
+    "wof:lastmodified":1527715675,
+    "wof:name":"Bunnythorpe",
+    "wof:parent_id":102079307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916313
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.6359660130493,
+    -40.28288108609567,
+    175.6393802929609,
+    -40.28155693192083
+],
+  "geometry": {"coordinates":[[[175.63938029296091,-40.28239951051995],[175.63890966306883,-40.28257969826549],[175.63822801528002,-40.28268903118783],[175.63745619461616,-40.28268869466878],[175.63704250820064,-40.28288108609567],[175.6363918807622,-40.28230849792981],[175.63638824888997,-40.28230587795457],[175.63613043703427,-40.28209102253381],[175.63596601304931,-40.28195377195277],[175.63601496785296,-40.28193598142906],[175.63653714598783,-40.28175011949282],[175.63717495286065,-40.28175353191673],[175.63787219234206,-40.2818116248854],[175.63840144048157,-40.28155693192083],[175.63887710990971,-40.2819875481381],[175.63892571195009,-40.28202698175932],[175.63922936138002,-40.28227051523198],[175.63938029296091,-40.28239951051995]]],"type":"Polygon"}
+}

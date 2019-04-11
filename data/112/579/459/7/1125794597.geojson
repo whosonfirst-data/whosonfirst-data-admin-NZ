@@ -1,0 +1,101 @@
+{
+  "id": 1125794597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.9,-35.03333,173.9,-35.03333",
+    "geom:latitude":-35.03333,
+    "geom:longitude":173.9,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.03333,
+    "lbl:longitude":173.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u99ac\u9676\u91cc\u7063"
+    ],
+    "name:dut_x_preferred":[
+        "Matauri Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Matauri Bay"
+    ],
+    "name:ger_x_preferred":[
+        "Matauri Bay"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2187161,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Matauri Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Northland",
+    "qs_pg:photos":553,
+    "qs_pg:photos_1k":112,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":553,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1081096,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2349475,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Northland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187161,
+        "gp:id":2349475,
+        "qs_pg:id":1081096,
+        "wd:id":"Q6786169"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497290998,
+    "wof:geomhash":"f32e02e38860e517e470af69aa28c11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1125794597,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1125794597,
+    "wof:lastmodified":1514494293,
+    "wof:name":"Matauri Bay",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.9,
+    -35.03333,
+    173.9,
+    -35.03333
+],
+  "geometry": {"coordinates":[173.90000000000001,-35.03333],"type":"Point"}
+}

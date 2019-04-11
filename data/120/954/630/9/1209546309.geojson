@@ -1,0 +1,62 @@
+{
+  "id": 1209546309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.98333,-45.66667,169.98333,-45.66667",
+    "geom:latitude":-45.66667,
+    "geom:longitude":169.98333,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Rocklands",
+    "gn:country_code":"NZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183362,
+    "gn:latitude":-45.66667,
+    "gn:longitude":169.98333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Rocklands",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183362
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1a6e721b4e8ac1459a6fe2a27986934c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209546309
+        }
+    ],
+    "wof:id":1209546309,
+    "wof:lastmodified":1536283832,
+    "wof:name":"Rocklands",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.98333,
+    -45.66667,
+    169.98333,
+    -45.66667
+],
+  "geometry": {"coordinates":[169.98333,-45.66667],"type":"Point"}
+}

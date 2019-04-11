@@ -1,0 +1,117 @@
+{
+  "id": 85778647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1931080.421159,
+    "geom:bbox":"170.52168,-45.907148,170.52168,-45.907148",
+    "geom:latitude":-45.907148,
+    "geom:longitude":170.52168,
+    "gn:latitude":-45.89838,
+    "gn:longitude":170.5101,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.907148,
+    "lbl:longitude":170.52168,
+    "mps:latitude":-45.908294,
+    "mps:longitude":170.521334,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Waikato-Tainui"
+    ],
+    "name:eng_x_preferred":[
+        "Tainui"
+    ],
+    "name:msa_x_preferred":[
+        "Tainui"
+    ],
+    "name:unk_x_variant":[
+        "Tainui"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2191562,
+    "qs:gn_namadm1":"F7",
+    "qs:gn_name":"Tainui",
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Tainui",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":47,
+    "qs:photo_sum":120,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":2090,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6212209,
+        "gp:id":22726542,
+        "qs:id":1330231,
+        "qs_pg:id":1330231,
+        "wd:id":"Q1480041"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3bfa9b3aa24fd7bdf0d1ad1f64d47052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":-1,
+            "neighbourhood_id":85778647,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85778647,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859820,
+    "wof:name":"Tainui",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.52168,
+    -45.907148,
+    170.52168,
+    -45.907148
+],
+  "geometry": {"coordinates":[170.52168,-45.907148],"type":"Point"}
+}

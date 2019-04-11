@@ -1,0 +1,80 @@
+{
+  "id": 101918787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4500.809801,
+    "geom:bbox":"176.92191346,-39.5795329193,176.922880646,-39.5784660397",
+    "geom:latitude":-39.578991,
+    "geom:longitude":176.922393,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.579015,
+    "lbl:longitude":176.922374,
+    "mps:latitude":-39.579015,
+    "mps:longitude":176.922374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Clive"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Clive",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":242,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cb36e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192282,
+        "gp:id":2348356,
+        "wd:id":"Q580817",
+        "wk:page":"Clive, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3b3299c98fcd34141656c0184aa38c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101918787,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918787,
+    "wof:lastmodified":1527715679,
+    "wof:name":"Clive",
+    "wof:parent_id":102079329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916511
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.9219134601662,
+    -39.57953291926776,
+    176.92288064634198,
+    -39.57846603967382
+],
+  "geometry": {"coordinates":[[[176.92224161053559,-39.57953291926776],[176.92191346016619,-39.57911742977976],[176.92242202580718,-39.57859292050662],[176.92246876348477,-39.57854471709373],[176.92254504844817,-39.57846603967382],[176.92288064634198,-39.57882953807191],[176.92224161053559,-39.57953291926776]]],"type":"Polygon"}
+}

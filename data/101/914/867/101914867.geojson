@@ -1,0 +1,86 @@
+{
+  "id": 101914867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25564.710746,
+    "geom:bbox":"174.964514316,-37.0359982137,174.966695878,-37.0334621128",
+    "geom:latitude":-37.034529,
+    "geom:longitude":174.965612,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.034547,
+    "lbl:longitude":174.965673,
+    "mps:latitude":-37.034499,
+    "mps:longitude":174.965653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u5fb7\u6469\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Ardmore"
+    ],
+    "name:eng_x_preferred":[
+        "Ardmore"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ardmore",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":193,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178897,
+        "gp:id":2348047,
+        "qs:id":898186,
+        "qs_pg:id":898186,
+        "wd:id":"Q4788185"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d4c50c520dcd45503be0d12e1b8efd92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914867,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101914867,
+    "wof:lastmodified":1553815585,
+    "wof:name":"Ardmore",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.96451431599496,
+    -37.03599821368233,
+    174.96669587769028,
+    -37.03346211276065
+],
+  "geometry": {"coordinates":[[[174.96451431599496,-37.03354472816733],[174.96512472754924,-37.03362661979617],[174.96579692184892,-37.03346211276065],[174.96595079940698,-37.03373512110779],[174.96669587769028,-37.03506992479912],[174.9661566424914,-37.03519627893208],[174.96582979015486,-37.03526522456248],[174.96590397223608,-37.03551044785086],[174.96586001963254,-37.03577961618542],[174.96569469206972,-37.03599745048773],[174.96549094946161,-37.03599821368233],[174.96549558913171,-37.03562805208038],[174.96451431599496,-37.03354472816733]]],"type":"Polygon"}
+}

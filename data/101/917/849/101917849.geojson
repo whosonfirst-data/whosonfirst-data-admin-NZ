@@ -1,0 +1,76 @@
+{
+  "id": 101917849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":62775.346475,
+    "geom:bbox":"174.582495865,-36.1080063696,174.58604401,-36.1054393972",
+    "geom:latitude":-36.106915,
+    "geom:longitude":174.584474,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.10695,
+    "lbl:longitude":174.584482,
+    "mps:latitude":-36.10695,
+    "mps:longitude":174.584482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Mangawhai Heads"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mangawhai Heads",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244383,
+        "gp:id":28644070
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c11946826299af52cfae0cff560bcc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101917849,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101917849,
+    "wof:lastmodified":1487269984,
+    "wof:name":"Mangawhai Heads",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914903
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.58249586541297,
+    -36.10800636961648,
+    174.58604400989034,
+    -36.10543939721469
+],
+  "geometry": {"coordinates":[[[174.58375519812839,-36.10618214877289],[174.58398379712088,-36.10592099641492],[174.58440442952235,-36.10552443561677],[174.58478565685922,-36.10543939721469],[174.58604400989034,-36.10623214280695],[174.58601937029519,-36.10741418264744],[174.58532910819108,-36.10797712536094],[174.58311792878717,-36.10800636961648],[174.58249586541297,-36.10716203514757],[174.58307604287319,-36.10684119661126],[174.58318035471828,-36.10684786922154],[174.58289015215442,-36.10655814445776],[174.58323991891552,-36.10633618724424],[174.58345852331561,-36.10646650285999],[174.58375519812839,-36.10618214877289]]],"type":"Polygon"}
+}

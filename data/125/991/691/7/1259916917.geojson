@@ -1,0 +1,68 @@
+{
+  "id": 1259916917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.38333,-42.5,171.38333,-42.5",
+    "geom:latitude":-42.5,
+    "geom:longitude":171.38333,
+    "gn:admin1_code":"G3",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Kokiri",
+    "gn:country_code":"NZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188723,
+    "gn:latitude":-42.5,
+    "gn:longitude":171.38333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kokiri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188723
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a838301183537006d4b864e181fe531d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":1259916917,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1259916917,
+    "wof:lastmodified":1536731211,
+    "wof:name":"Kokiri",
+    "wof:parent_id":102079361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.38333,
+    -42.5,
+    171.38333,
+    -42.5
+],
+  "geometry": {"coordinates":[171.38333,-42.5],"type":"Point"}
+}

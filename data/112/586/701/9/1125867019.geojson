@@ -1,0 +1,82 @@
+{
+  "id": 1125867019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.4685295,-40.43533,175.4685295,-40.43533",
+    "geom:latitude":-40.43533,
+    "geom:longitude":175.468529,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.43533,
+    "lbl:longitude":175.468529,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Opiki",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Manawatu Wanganui",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":133741,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643968,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Manawatu Wanganui",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643968,
+        "qs_pg:id":133741
+    },
+    "wof:country":"NZ",
+    "wof:created":1497294092,
+    "wof:geomhash":"747da1d5f6387366d3bf18bd48d3e63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":1125867019,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1125867019,
+    "wof:lastmodified":1509397053,
+    "wof:name":"Opiki",
+    "wof:parent_id":102079313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.4685295,
+    -40.43533,
+    175.4685295,
+    -40.43533
+],
+  "geometry": {"coordinates":[175.46852949999999,-40.43533],"type":"Point"}
+}

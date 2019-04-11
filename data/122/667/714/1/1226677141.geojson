@@ -1,0 +1,68 @@
+{
+  "id": 1226677141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.1,-38.75,175.1,-38.75",
+    "geom:latitude":-38.75,
+    "geom:longitude":175.1,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Matiere",
+    "gn:country_code":"NZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187141,
+    "gn:latitude":-38.75,
+    "gn:longitude":175.1,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Matiere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187141
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"10e0588cd55994e138d9b30b5ed20c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1226677141,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1226677141,
+    "wof:lastmodified":1536813707,
+    "wof:name":"Matiere",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.1,
+    -38.75,
+    175.1,
+    -38.75
+],
+  "geometry": {"coordinates":[175.09999999999999,-38.75],"type":"Point"}
+}

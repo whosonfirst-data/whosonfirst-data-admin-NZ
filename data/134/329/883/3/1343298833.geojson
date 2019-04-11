@@ -1,0 +1,68 @@
+{
+  "id": 1343298833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.76667,-38.68333,177.76667,-38.68333",
+    "geom:latitude":-38.68333,
+    "geom:longitude":177.76667,
+    "gn:admin1_code":"F1",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Waerengaokuri",
+    "gn:country_code":"NZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180478,
+    "gn:latitude":-38.68333,
+    "gn:longitude":177.76667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Waerengaokuri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180478
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0fc437aa2cb0280f68a3fd1a7e148c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":1343298833,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1343298833,
+    "wof:lastmodified":1536978783,
+    "wof:name":"Waerengaokuri",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.76667,
+    -38.68333,
+    177.76667,
+    -38.68333
+],
+  "geometry": {"coordinates":[177.76667,-38.68333],"type":"Point"}
+}

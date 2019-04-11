@@ -1,0 +1,68 @@
+{
+  "id": 1226279231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.1,-39.16667,174.1,-39.16667",
+    "geom:latitude":-39.16667,
+    "geom:longitude":174.1,
+    "gn:admin1_code":"F9",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Korito",
+    "gn:country_code":"NZ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188650,
+    "gn:latitude":-39.16667,
+    "gn:longitude":174.1,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Korito",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188650
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3f1c8539b3a23b0debe564a01cf375eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":1226279231,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1226279231,
+    "wof:lastmodified":1536884754,
+    "wof:name":"Korito",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.1,
+    -39.16667,
+    174.1,
+    -39.16667
+],
+  "geometry": {"coordinates":[174.09999999999999,-39.16667],"type":"Point"}
+}

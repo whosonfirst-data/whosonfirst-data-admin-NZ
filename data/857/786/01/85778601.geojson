@@ -1,0 +1,113 @@
+{
+  "id": 85778601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10750141.566227,
+    "geom:bbox":"174.898623,-41.247994,174.898623,-41.247994",
+    "geom:latitude":-41.247994,
+    "geom:longitude":174.898623,
+    "gn:latitude":-41.24235,
+    "gn:longitude":174.90479,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.247994,
+    "lbl:longitude":174.898623,
+    "mps:latitude":-41.25407,
+    "mps:longitude":174.895592,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Seaview"
+    ],
+    "name:eng_x_preferred":[
+        "Seaview"
+    ],
+    "name:unk_x_variant":[
+        "Seaview"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Seaview",
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Seaview",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":131,
+    "qs:photo_sum":659,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":184,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244857,
+        "gp:id":22726522,
+        "qs:id":56270,
+        "qs_pg:id":56270
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4ae992013cc7fe6d09de287d41800c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":85778601,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778601,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859812,
+    "wof:name":"Seaview",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.898623,
+    -41.247994,
+    174.898623,
+    -41.247994
+],
+  "geometry": {"coordinates":[174.89862299999999,-41.247994],"type":"Point"}
+}

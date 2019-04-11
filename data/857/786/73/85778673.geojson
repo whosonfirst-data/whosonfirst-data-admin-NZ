@@ -1,0 +1,108 @@
+{
+  "id": 85778673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10168042.872961,
+    "geom:bbox":"175.132106,-41.094885,175.132106,-41.094885",
+    "geom:latitude":-41.094885,
+    "geom:longitude":175.132106,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-41.094885,
+    "lbl:longitude":175.132106,
+    "mps:latitude":-41.084217,
+    "mps:longitude":175.15266,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Te Marua"
+    ],
+    "name:unk_x_variant":[
+        "Te Marua"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6244895,
+    "qs:gn_nam_loc":"Upper Hutt, Upper Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:local_max":2176,
+    "qs:local_sum":5219,
+    "qs:localhoods":16,
+    "qs:name":"Te Marua",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Upper Hutt City",
+    "qs:name_local":"Upper Hutt",
+    "qs:photo_max":2011,
+    "qs:photo_sum":2176,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875896,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351024,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079335,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726550,
+        "qs:id":1154433,
+        "qs_pg:id":1154433
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7a4c0c0c18fd146fb6fbfff22246f276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":-1,
+            "neighbourhood_id":85778673,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778673,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859822,
+    "wof:name":"Te Marua",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.132106,
+    -41.094885,
+    175.132106,
+    -41.094885
+],
+  "geometry": {"coordinates":[175.13210599999999,-41.094885],"type":"Point"}
+}

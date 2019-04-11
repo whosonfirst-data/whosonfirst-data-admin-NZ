@@ -1,0 +1,102 @@
+{
+  "id": 85778309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7102677.586211,
+    "geom:bbox":"170.481641,-45.830825,170.481641,-45.830825",
+    "geom:latitude":-45.830825,
+    "geom:longitude":170.481641,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.830825,
+    "lbl:longitude":170.481641,
+    "mps:latitude":-45.830713,
+    "mps:longitude":170.482721,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Glenleith"
+    ],
+    "name:unk_x_variant":[
+        "Glenleith"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2191562,
+    "qs:id":0,
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Glenleith",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":16,
+    "qs:photo_sum":34,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726377
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"73c1cf01ba55b87f6774536ce5edecf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":-1,
+            "neighbourhood_id":85778309,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85778309,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859773,
+    "wof:name":"Glenleith",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.481641,
+    -45.830825,
+    170.481641,
+    -45.830825
+],
+  "geometry": {"coordinates":[170.481641,-45.830825],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 101917479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26435.353471,
+    "geom:bbox":"175.909806815,-38.9093068222,175.913639822,-38.908046519",
+    "geom:latitude":-38.908693,
+    "geom:longitude":175.911568,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.908752,
+    "lbl:longitude":175.911569,
+    "mps:latitude":-38.908752,
+    "mps:longitude":175.911569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Rangiita"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Rangiita",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6236085,
+        "gp:id":28644803
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6f4430f6fc27431528a33a2af59878f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":101917479,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101917479,
+    "wof:lastmodified":1487269950,
+    "wof:name":"Te Rangiita",
+    "wof:parent_id":102079281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917477
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.90980681509487,
+    -38.90930682221967,
+    175.91363982247427,
+    -38.90804651903588
+],
+  "geometry": {"coordinates":[[[175.91363982247427,-38.90861718941166],[175.91335258638642,-38.9087007441857],[175.91206664697376,-38.90906801003376],[175.91055351462899,-38.90922971202926],[175.91055039127792,-38.90923006013871],[175.9099177337016,-38.90930682221967],[175.90980681509487,-38.90839562941173],[175.91067331002668,-38.90842706480335],[175.91196056937397,-38.9083642243566],[175.91194341256931,-38.90814460702258],[175.91256757901974,-38.90804651903588],[175.91273581569232,-38.90835910118311],[175.91341003494256,-38.90815743725333],[175.91363982247427,-38.90861718941166]]],"type":"Polygon"}
+}

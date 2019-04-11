@@ -1,0 +1,123 @@
+{
+  "id": 85773225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14195823.834306,
+    "geom:bbox":"176.841622,-39.538751,176.841622,-39.538751",
+    "geom:latitude":-39.538751,
+    "geom:longitude":176.841622,
+    "gn:latitude":-39.53333,
+    "gn:longitude":176.85,
+    "gn:population":16599,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.538751,
+    "lbl:longitude":176.841622,
+    "mps:latitude":-39.54092,
+    "mps:longitude":176.835063,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Taradale"
+    ],
+    "name:eng_x_variant":[
+        "Taradale Town District"
+    ],
+    "name:msa_x_preferred":[
+        "Taradale"
+    ],
+    "name:unk_x_variant":[
+        "Taradale"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186313,
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Taradale",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Taradale",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":25,
+    "qs:photo_sum":139,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wd:wordcount":4111,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914679,
+        102079331,
+        85687189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6246634,
+        "gp:id":2350718,
+        "qs:id":386623,
+        "qs_pg:id":386623,
+        "wd:id":"Q7685280",
+        "wk:page":"Taradale, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1306868a506f94b05372775da71eef51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101914679,
+            "neighbourhood_id":85773225,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":85773225,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859650,
+    "wof:name":"Taradale",
+    "wof:parent_id":101914679,
+    "wof:placetype":"neighbourhood",
+    "wof:population":16599,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.841622,
+    -39.538751,
+    176.841622,
+    -39.538751
+],
+  "geometry": {"coordinates":[176.841622,-39.538751],"type":"Point"}
+}

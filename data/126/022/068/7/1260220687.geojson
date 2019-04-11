@@ -1,0 +1,68 @@
+{
+  "id": 1260220687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.856,-39.01822,174.856,-39.01822",
+    "geom:latitude":-39.01822,
+    "geom:longitude":174.856,
+    "gn:admin1_code":"F9",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Tangarakau",
+    "gn:country_code":"NZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181943,
+    "gn:latitude":-39.01822,
+    "gn:longitude":174.856,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Tangarakau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181943
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6cb25453e1ce07e63fbe0509bd82e7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079293,
+            "locality_id":1260220687,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1260220687,
+    "wof:lastmodified":1536797356,
+    "wof:name":"Tangarakau",
+    "wof:parent_id":102079293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.856,
+    -39.01822,
+    174.856,
+    -39.01822
+],
+  "geometry": {"coordinates":[174.85599999999999,-39.01822],"type":"Point"}
+}

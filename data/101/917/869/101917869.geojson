@@ -1,0 +1,120 @@
+{
+  "id": 101917869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":64790.268632,
+    "geom:bbox":"173.258657246,-35.1023703596,173.262099086,-35.0985223564",
+    "geom:latitude":-35.100405,
+    "geom:longitude":173.260046,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.101192,
+    "lbl:longitude":173.259585,
+    "mps:latitude":-35.101192,
+    "mps:longitude":173.259585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:eng_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:fra_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:gla_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:ita_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30a4\u30bf\u30a4\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc774\ud0c0\uc774\uc544"
+    ],
+    "name:msa_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:nld_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:nno_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:nor_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:pol_x_preferred":[
+        "Kaitaia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0438\u0442\u0430\u0438\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u5854\u4e9e"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kaitaia",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-35.1125,
+    "wd:longitude":173.262778,
+    "wd:wordcount":1147,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6228827,
+        "gp:id":2348946,
+        "wd:id":"Q257417",
+        "wk:page":"Kaitaia"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8eb96564d59e0e9b9646e1306705d0ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101917869,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101917869,
+    "wof:lastmodified":1527715908,
+    "wof:name":"Kaitaia",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915171
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.25865724562567,
+    -35.10237035963151,
+    173.26209908560992,
+    -35.09852235644813
+],
+  "geometry": {"coordinates":[[[173.25870443810618,-35.1011198907198],[173.2589793623325,-35.1002345641085],[173.2596467944764,-35.1003406536574],[173.25966244372049,-35.10021891778249],[173.25959150344599,-35.09960278957023],[173.25945507103773,-35.09919964253628],[173.25958343269076,-35.09854117306563],[173.25996491945881,-35.09852235644813],[173.26007288473562,-35.09876520994283],[173.26136659149674,-35.09872521117675],[173.26147123717271,-35.09946195410991],[173.26209908560992,-35.09938615748451],[173.26205283269383,-35.09985500490082],[173.26065498878862,-35.10007031254775],[173.26044993257881,-35.10123831984132],[173.26017503207677,-35.10212545202178],[173.26011950857722,-35.10218698229136],[173.25982023709162,-35.10237035963151],[173.25962171691253,-35.10236583307402],[173.25944841864643,-35.10236119432963],[173.2594479656735,-35.10236118348636],[173.25916215288336,-35.10235435246989],[173.25888647478274,-35.10228978418039],[173.25871161316223,-35.10221395412425],[173.25870061764331,-35.1022094966407],[173.25865724562567,-35.10161577718814],[173.25873735303148,-35.10145680565573],[173.25870443810618,-35.1011198907198]]],"type":"Polygon"}
+}

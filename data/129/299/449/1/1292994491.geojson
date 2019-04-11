@@ -1,0 +1,65 @@
+{
+  "id": 1292994491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.81667,-43.78333,-176.81667,-43.78333",
+    "geom:latitude":-43.78333,
+    "geom:longitude":-176.81667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Waitangi West",
+    "gn:country_code":"NZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032800,
+    "gn:latitude":-43.78333,
+    "gn:longitude":-176.81667,
+    "gn:modification_date":"2015-03-05",
+    "gn:name":"Waitangi West",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chatham",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253053,
+        85687215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032800
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"59c9fc97ae8b2de7d21631c1d9f8a186",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253053,
+            "locality_id":1292994491,
+            "region_id":85687215
+        }
+    ],
+    "wof:id":1292994491,
+    "wof:lastmodified":1537000042,
+    "wof:name":"Waitangi West",
+    "wof:parent_id":85687215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.81667,
+    -43.78333,
+    -176.81667,
+    -43.78333
+],
+  "geometry": {"coordinates":[-176.81666999999999,-43.78333],"type":"Point"}
+}

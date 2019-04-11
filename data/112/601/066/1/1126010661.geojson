@@ -1,0 +1,101 @@
+{
+  "id": 1126010661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.933615,-35.325209,173.933615,-35.325209",
+    "geom:latitude":-35.325209,
+    "geom:longitude":173.933615,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.325209,
+    "lbl:longitude":173.933615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Oromahoe"
+    ],
+    "name:eng_x_preferred":[
+        "Oromahoe"
+    ],
+    "name:fre_x_preferred":[
+        "Oromahoe"
+    ],
+    "name:ger_x_preferred":[
+        "Oromahoe"
+    ],
+    "name:mao_x_preferred":[
+        "Oromahoe"
+    ],
+    "name:may_x_preferred":[
+        "Oromahoe"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Oromahoe",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Northland",
+    "qs_pg:photos":84,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":84,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":484324,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644694,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Northland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644694,
+        "qs_pg:id":484324,
+        "wd:id":"Q995987"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497300254,
+    "wof:geomhash":"70fc2d28b55ec4ccf6e7a006bb1c128b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1126010661,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1126010661,
+    "wof:lastmodified":1514494332,
+    "wof:name":"Oromahoe",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.933615,
+    -35.325209,
+    173.933615,
+    -35.325209
+],
+  "geometry": {"coordinates":[173.933615,-35.325209],"type":"Point"}
+}

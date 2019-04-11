@@ -1,0 +1,106 @@
+{
+  "id": 85782517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7412770.060279,
+    "geom:bbox":"174.947797,-41.262365,174.947797,-41.262365",
+    "geom:latitude":-41.262365,
+    "geom:longitude":174.947797,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-41.262365,
+    "lbl:longitude":174.947797,
+    "mps:latitude":-41.263118,
+    "mps:longitude":174.948952,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Wainuiomata Central"
+    ],
+    "name:unk_x_variant":[
+        "Wainuiomata Central"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":394,
+    "qs:local_sum":411,
+    "qs:localhoods":2,
+    "qs:name":"Wainuiomata Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Wainuiomata",
+    "qs:photo_max":6,
+    "qs:photo_sum":17,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351156,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914357,
+        102079337,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676775,
+        "qs:id":192810,
+        "qs_pg:id":192810
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2a049c7b2e0bd3a244d97d7ce6b24eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914357,
+            "neighbourhood_id":85782517,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85782517,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860389,
+    "wof:name":"Wainuiomata",
+    "wof:parent_id":101914357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.947797,
+    -41.262365,
+    174.947797,
+    -41.262365
+],
+  "geometry": {"coordinates":[174.94779700000001,-41.262365],"type":"Point"}
+}

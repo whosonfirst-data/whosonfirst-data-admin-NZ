@@ -1,0 +1,83 @@
+{
+  "id": 101917531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":47650.056852,
+    "geom:bbox":"176.074234318,-38.0946841656,176.077503685,-38.0919333245",
+    "geom:latitude":-38.093311,
+    "geom:longitude":176.075819,
+    "gn:population":751,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.093284,
+    "lbl:longitude":176.075794,
+    "mps:latitude":-38.093284,
+    "mps:longitude":176.075794,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Mamaku"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mamaku",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":302,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187834,
+        "gp:id":2349323,
+        "wd:id":"Q6745410",
+        "wk:page":"Mamaku"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b4a94fc770224c440c013edc95b7b993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101917531,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":101917531,
+    "wof:lastmodified":1527715911,
+    "wof:name":"Mamaku",
+    "wof:parent_id":102079289,
+    "wof:placetype":"locality",
+    "wof:population":751,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914481
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.0742343182082,
+    -38.09468416555509,
+    176.07750368488436,
+    -38.09193332451207
+],
+  "geometry": {"coordinates":[[[176.07512467942252,-38.09468416555509],[176.07457928044849,-38.09398773512735],[176.07488521888214,-38.09384748804393],[176.0742343182082,-38.09291700383043],[176.07614448623187,-38.0920224879281],[176.07614541016005,-38.09202210342422],[176.07614596218485,-38.09202181876127],[176.07614633031272,-38.09202162892296],[176.07632959968544,-38.09193332451207],[176.07750368488436,-38.09361034108977],[176.07746864385592,-38.09362657294883],[176.07512467942252,-38.09468416555509]]],"type":"Polygon"}
+}

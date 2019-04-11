@@ -1,0 +1,102 @@
+{
+  "id": 1125889601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.3,-38.13333,178.3,-38.13333",
+    "geom:latitude":-38.13333,
+    "geom:longitude":178.3,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":495,
+    "gn:population":495,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.13333,
+    "lbl:longitude":178.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tokomaru Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Tokomaru Bay"
+    ],
+    "name:fre_x_preferred":[
+        "Tokomaru Bay"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2181002,
+    "qs_pg:gn_pop":495,
+    "qs_pg:name":"Tokomaru Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Gisborne",
+    "qs_pg:photos":277,
+    "qs_pg:photos_1k":56,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":277,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":914379,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350953,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Gisborne",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181002,
+        "gp:id":2350953,
+        "qs_pg:id":914379,
+        "wd:id":"Q7813668"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497295253,
+    "wof:geomhash":"8755dc80a1a91e9eac79e888b1bb7544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":1125889601,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1125889601,
+    "wof:lastmodified":1514494502,
+    "wof:name":"Tokomaru Bay",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:population":495,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.3,
+    -38.13333,
+    178.3,
+    -38.13333
+],
+  "geometry": {"coordinates":[178.30000000000001,-38.13333],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 101917585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":31265.085592,
+    "geom:bbox":"176.153428236,-37.727352601,176.15667591,-37.7256838035",
+    "geom:latitude":-37.726557,
+    "geom:longitude":176.155204,
+    "gn:population":110338,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.726595,
+    "lbl:longitude":176.155317,
+    "mps:latitude":-37.726595,
+    "mps:longitude":176.155317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tauranga"
+    ],
+    "name:eng_x_variant":[
+        "TRG"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tauranga",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-37.685833,
+    "wd:longitude":176.166667,
+    "wd:wordcount":3068,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df972-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2208032,
+        "gp:id":2350751,
+        "wd:id":"Q207756",
+        "wk:page":"Tauranga"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7696087abee636f8a99ff00df275cbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101917585,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":101917585,
+    "wof:lastmodified":1527715915,
+    "wof:name":"Tauranga",
+    "wof:parent_id":102079285,
+    "wof:placetype":"locality",
+    "wof:population":110338,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914325
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.1534282362039,
+    -37.72735260104415,
+    176.15667590992527,
+    -37.72568380349
+],
+  "geometry": {"coordinates":[[[176.15667590992527,-37.72614675957562],[176.15665906523401,-37.72617608000901],[176.15646658913613,-37.72649160254426],[176.15605069776643,-37.72691256932614],[176.15585000487658,-37.72708331789479],[176.15572904673311,-37.72718622799467],[176.15553349465128,-37.72735260104415],[176.15517888813619,-37.72731534006377],[176.15405765555073,-37.72719749388127],[176.15342823620389,-37.72672646828583],[176.15413378607954,-37.72638295920527],[176.15490619196117,-37.72600635062286],[176.15498930060824,-37.72596582735919],[176.15580283895883,-37.725702221963],[176.1560415433313,-37.72568380349],[176.15630040849024,-37.72573603741524],[176.15659277776882,-37.72605601634469],[176.15667590992527,-37.72614675957562]]],"type":"Polygon"}
+}

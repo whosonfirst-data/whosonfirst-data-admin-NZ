@@ -1,0 +1,102 @@
+{
+  "id": 1126012875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.55,-43.15,170.55,-43.15",
+    "geom:latitude":-43.15,
+    "geom:longitude":170.55,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":345,
+    "gn:population":345,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.15,
+    "lbl:longitude":170.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hari Hari"
+    ],
+    "name:eng_x_preferred":[
+        "Hari Hari"
+    ],
+    "name:may_x_preferred":[
+        "Hari Hari"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2190260,
+    "qs_pg:gn_pop":345,
+    "qs_pg:name":"Harihari",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"West Coast",
+    "qs_pg:photos":220,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":220,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":246785,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348709,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"West Coast",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190260,
+        "gp:id":2348709,
+        "qs_pg:id":246785,
+        "wd:id":"Q5657127"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497300378,
+    "wof:geomhash":"dbac0009225aea2bb71e8773e9755cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1126012875,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1126012875,
+    "wof:lastmodified":1514494161,
+    "wof:name":"Harihari",
+    "wof:parent_id":102079363,
+    "wof:placetype":"locality",
+    "wof:population":345,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.55,
+    -43.15,
+    170.55,
+    -43.15
+],
+  "geometry": {"coordinates":[170.55000000000001,-43.15],"type":"Point"}
+}

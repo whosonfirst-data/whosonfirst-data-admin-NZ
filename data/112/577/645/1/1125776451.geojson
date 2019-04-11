@@ -1,0 +1,95 @@
+{
+  "id": 1125776451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.6,-38.8,174.6,-38.8",
+    "geom:latitude":-38.8,
+    "geom:longitude":174.6,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.8,
+    "lbl:longitude":174.6,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tongaporutu"
+    ],
+    "name:eng_x_preferred":[
+        "Tongaporutu"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2180972,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tongaporutu",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Taranaki",
+    "qs_pg:photos":233,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":233,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":191635,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350960,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Taranaki",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180972,
+        "gp:id":2350960,
+        "qs_pg:id":191635,
+        "wd:id":"Q7821036"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497290280,
+    "wof:geomhash":"f3df57d3a83314badf1e0396d45de5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":1125776451,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1125776451,
+    "wof:lastmodified":1514494503,
+    "wof:name":"Tongaporutu",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.6,
+    -38.8,
+    174.6,
+    -38.8
+],
+  "geometry": {"coordinates":[174.59999999999999,-38.8],"type":"Point"}
+}

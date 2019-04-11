@@ -1,0 +1,84 @@
+{
+  "id": 101918651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8666.329537,
+    "geom:bbox":"170.971001713,-45.0832931152,170.972837314,-45.0820523162",
+    "geom:latitude":-45.082678,
+    "geom:longitude":170.971919,
+    "gn:population":13000,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.082714,
+    "lbl:longitude":170.97189,
+    "mps:latitude":-45.082714,
+    "mps:longitude":170.97189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Oamaru"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Oamaru",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-45.089444,
+    "wd:longitude":170.966111,
+    "wd:wordcount":3681,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6215045,
+        "wd:id":"Q4782",
+        "wk:page":"Oamaru"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"13b17eedb0d932fe35d4bd776f711578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101918651,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918651,
+    "wof:lastmodified":1527715671,
+    "wof:name":"Oamaru",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:population":13000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.97100171278626,
+    -45.08329311519434,
+    170.97283731362353,
+    -45.08205231620622
+],
+  "geometry": {"coordinates":[[[170.97283731362353,-45.08237752897183],[170.97174773048141,-45.08329311519434],[170.97100171278626,-45.08288779336112],[170.97170657548514,-45.0824192501795],[170.97171788335467,-45.08241179352088],[170.97191358980493,-45.08223171644919],[170.97197104135461,-45.08217887774289],[170.9719231503791,-45.08205231620622],[170.97283731362353,-45.08237752897183]]],"type":"Polygon"}
+}

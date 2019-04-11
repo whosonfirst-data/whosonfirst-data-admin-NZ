@@ -1,0 +1,68 @@
+{
+  "id": 1292939643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.41667,-36.15,175.41667,-36.15",
+    "geom:latitude":-36.15,
+    "geom:longitude":175.41667,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Okiwi",
+    "gn:country_code":"NZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185742,
+    "gn:latitude":-36.15,
+    "gn:longitude":175.41667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Okiwi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185742
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7fe97dfad7e1ca129ae22c72dcb68c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1292939643,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1292939643,
+    "wof:lastmodified":1537076804,
+    "wof:name":"Okiwi",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.41666999999995,
+    -36.15,
+    175.41666999999995,
+    -36.15
+],
+  "geometry": {"coordinates":[175.41666999999995,-36.15],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 101918193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":43160.606455,
+    "geom:bbox":"174.293475243,-39.4334783572,174.296204795,-39.4306239815",
+    "geom:latitude":-39.432311,
+    "geom:longitude":174.294649,
+    "gn:population":2235,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.432312,
+    "lbl:longitude":174.294665,
+    "mps:latitude":-39.432312,
+    "mps:longitude":174.294665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Eltham"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Eltham",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":51.451478,
+    "wd:longitude":0.051772,
+    "wd:wordcount":5378,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de338-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206358,
+        "gp:id":2348482,
+        "wd:id":"Q2057625"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5bd1088e2f9eba1bf6761c9c5c3cfd2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101918193,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101918193,
+    "wof:lastmodified":1527715669,
+    "wof:name":"Eltham",
+    "wof:parent_id":102079295,
+    "wof:placetype":"locality",
+    "wof:population":2235,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914909
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.29347524329833,
+    -39.43347835721767,
+    174.296204795414,
+    -39.43062398150191
+],
+  "geometry": {"coordinates":[[[174.29606804162685,-39.43330643939232],[174.29594004526399,-39.43323585114184],[174.2958844384591,-39.43321397345429],[174.29551136230751,-39.43314622913945],[174.29545610332141,-39.43314236567934],[174.29508290375136,-39.4332187697204],[174.29486409665304,-39.43332692638266],[174.29459089980926,-39.43347835721767],[174.29347524329833,-39.43334786174837],[174.29383994978991,-39.43141781538594],[174.29398741212512,-39.43062398150191],[174.29423128881839,-39.43065559970447],[174.29415261200032,-39.43097363797158],[174.29498605900133,-39.43111893211302],[174.29498222700659,-39.43138808339086],[174.29545187191823,-39.43142563873771],[174.29576237489306,-39.43269825823112],[174.29620479541401,-39.43280754008907],[174.29606804162685,-39.43330643939232]]],"type":"Polygon"}
+}

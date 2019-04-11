@@ -1,0 +1,68 @@
+{
+  "id": 1343893067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.03333,-41.11667,174.03333,-41.11667",
+    "geom:latitude":-41.11667,
+    "geom:longitude":174.03333,
+    "gn:admin1_code":"F4",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Manaroa",
+    "gn:country_code":"NZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187813,
+    "gn:latitude":-41.11667,
+    "gn:longitude":174.03333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Manaroa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187813
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c64d85b53f196c59b97e4f1c5cfc80ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":1343893067,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1343893067,
+    "wof:lastmodified":1536617289,
+    "wof:name":"Manaroa",
+    "wof:parent_id":102079353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.03333,
+    -41.11667,
+    174.03333,
+    -41.11667
+],
+  "geometry": {"coordinates":[174.03333000000001,-41.11667],"type":"Point"}
+}

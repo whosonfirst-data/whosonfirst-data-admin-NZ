@@ -1,0 +1,81 @@
+{
+  "id": 101918103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5918.200571,
+    "geom:bbox":"175.448870298,-41.2238701066,175.450168115,-41.2227554605",
+    "geom:latitude":-41.223296,
+    "geom:longitude":175.449532,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.223263,
+    "lbl:longitude":175.4495,
+    "mps:latitude":-41.223263,
+    "mps:longitude":175.4495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Martinborough"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Martinborough",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":582,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dee46-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6226278,
+        "gp:id":2349429,
+        "qs:id":9387,
+        "wd:id":"Q1905554",
+        "wk:page":"Martinborough"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"402a9e26b3a29f1f44329c4a43dce53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101918103,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918103,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Martinborough",
+    "wof:parent_id":102079347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914287
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.44887029755057,
+    -41.22387010657501,
+    175.45016811518738,
+    -41.22275546048586
+],
+  "geometry": {"coordinates":[[[175.44887029755057,-41.222996025124],[175.44938510534624,-41.22275546048586],[175.45016811518738,-41.2235387680981],[175.44970558232322,-41.22387010657501],[175.44887029755057,-41.222996025124]]],"type":"Polygon"}
+}

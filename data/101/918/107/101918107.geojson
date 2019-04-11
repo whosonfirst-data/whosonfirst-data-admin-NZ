@@ -1,0 +1,92 @@
+{
+  "id": 101918107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12678.239156,
+    "geom:bbox":"175.450467055,-41.0912442954,175.452676234,-41.0898346345",
+    "geom:latitude":-41.09048,
+    "geom:longitude":175.451511,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.090484,
+    "lbl:longitude":175.451511,
+    "mps:latitude":-41.090484,
+    "mps:longitude":175.451511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Greytown"
+    ],
+    "name:eng_x_preferred":[
+        "Greytown"
+    ],
+    "name:msa_x_preferred":[
+        "Greytown"
+    ],
+    "name:nld_x_preferred":[
+        "Greytown"
+    ],
+    "name:pol_x_preferred":[
+        "Greytown"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Greytown",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1083,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de568-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6225996,
+        "gp:id":2348670,
+        "wd:id":"Q984008",
+        "wk:page":"Greytown, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8659b727c99ddcac1e1362e63eaa6440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101918107,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918107,
+    "wof:lastmodified":1527715674,
+    "wof:name":"Greytown",
+    "wof:parent_id":102079347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915623
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.45046705472257,
+    -41.0912442953715,
+    175.4526762335454,
+    -41.08983463451278
+],
+  "geometry": {"coordinates":[[[175.45191777621983,-41.09062950545455],[175.45121540422366,-41.0912442953715],[175.45046705472257,-41.09071155338274],[175.45060279080332,-41.09061499977041],[175.45172290063243,-41.08983463451278],[175.45229491121174,-41.08997745942069],[175.45267623354539,-41.09008288375799],[175.45191777621983,-41.09062950545455]]],"type":"Polygon"}
+}

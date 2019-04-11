@@ -1,0 +1,68 @@
+{
+  "id": 1242709219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.08333,-41.3,173.08333,-41.3",
+    "geom:latitude":-41.3,
+    "geom:longitude":173.08333,
+    "gn:admin1_code":"TAS",
+    "gn:admin2_code":"51.0",
+    "gn:asciiname":"Redwoods Valley",
+    "gn:country_code":"NZ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183556,
+    "gn:latitude":-41.3,
+    "gn:longitude":173.08333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Redwoods Valley",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183556
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8254eb9919912254f3783dadf03986d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1242709219,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1242709219,
+    "wof:lastmodified":1536873241,
+    "wof:name":"Redwoods Valley",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.08333000000005,
+    -41.3,
+    173.08333000000005,
+    -41.3
+],
+  "geometry": {"coordinates":[173.08333000000005,-41.3],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85781437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3172058.603351,
+    "geom:bbox":"173.273621,-41.29638,173.273621,-41.29638",
+    "geom:latitude":-41.29638,
+    "geom:longitude":173.273621,
+    "gn:latitude":-41.29496,
+    "gn:longitude":173.26478,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.29638,
+    "lbl:longitude":173.273621,
+    "mps:latitude":-41.299233,
+    "mps:longitude":173.275322,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Bishopdale"
+    ],
+    "name:unk_x_variant":[
+        "Bishopdale"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186280,
+    "qs:gn_nam_loc":"Nelson, Nelson City, Nelson, NZ",
+    "qs:gn_namadm1":"F5",
+    "qs:gn_name":"Bishopdale",
+    "qs:local_max":2029,
+    "qs:local_sum":5504,
+    "qs:localhoods":17,
+    "qs:name":"Bishopdale",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Nelson",
+    "qs:name_adm2":"Nelson City",
+    "qs:name_local":"Nelson",
+    "qs:photo_max":1,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021758,
+    "qs:woe_adm2":55875906,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349669,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":16,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079351,
+        85687157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6242982,
+        "gp:id":28644356,
+        "qs:id":55317,
+        "qs_pg:id":55317
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"31f4a178c50a8680913f1c5003581643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":-1,
+            "neighbourhood_id":85781437,
+            "region_id":85687157
+        }
+    ],
+    "wof:id":85781437,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860208,
+    "wof:name":"Bishopdale",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.273621,
+    -41.29638,
+    173.273621,
+    -41.29638
+],
+  "geometry": {"coordinates":[173.27362099999999,-41.29638],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101918225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18041.796511,
+    "geom:bbox":"175.397724733,-39.1743799338,175.399911306,-39.1727625521",
+    "geom:latitude":-39.173542,
+    "geom:longitude":175.398754,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.173659,
+    "lbl:longitude":175.39856,
+    "mps:latitude":-39.173659,
+    "mps:longitude":175.39856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "National Park"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"National Park",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":574,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd2c6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186302,
+        "gp:id":2349665,
+        "wd:id":"Q1318354",
+        "wk:page":"National Park, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e1a0fdafa341cb563efd93d8540a97cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918225,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918225,
+    "wof:lastmodified":1527715676,
+    "wof:name":"National Park",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916365
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.39772473321523,
+    -39.17437993376635,
+    175.39991130641542,
+    -39.17276255214742
+],
+  "geometry": {"coordinates":[[[175.39991130641542,-39.1739279949774],[175.39917222871546,-39.17398419405664],[175.39881630623796,-39.17400434309753],[175.39884895242338,-39.17430918037896],[175.39827363966941,-39.17437993376635],[175.39814444517899,-39.17349852812652],[175.39813863444422,-39.173365264259],[175.39779209661256,-39.17338881663009],[175.39779193942849,-39.17338431368551],[175.39772473321523,-39.17285218762269],[175.39868146729617,-39.17276255214742],[175.39874121069803,-39.17331286097426],[175.39891376253203,-39.17331371627522],[175.3990893137302,-39.17330098892231],[175.39982729028276,-39.17324661601555],[175.39984589433433,-39.17338141164561],[175.39991130641542,-39.1739279949774]]],"type":"Polygon"}
+}

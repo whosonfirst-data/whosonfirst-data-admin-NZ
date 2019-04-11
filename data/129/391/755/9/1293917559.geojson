@@ -1,0 +1,68 @@
+{
+  "id": 1293917559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.56667,-39.05,174.56667,-39.05",
+    "geom:latitude":-39.05,
+    "geom:longitude":174.56667,
+    "gn:admin1_code":"F9",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Pehu",
+    "gn:country_code":"NZ",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2184719,
+    "gn:latitude":-39.05,
+    "gn:longitude":174.56667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Pehu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184719
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2897e7416f7c1a7030051811affd54ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":1293917559,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1293917559,
+    "wof:lastmodified":1536664295,
+    "wof:name":"Pehu",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.56667,
+    -39.05,
+    174.56667,
+    -39.05
+],
+  "geometry": {"coordinates":[174.56666999999999,-39.05],"type":"Point"}
+}

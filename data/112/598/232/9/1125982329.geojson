@@ -1,0 +1,95 @@
+{
+  "id": 1125982329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.21667,-39.03333,177.21667,-39.03333",
+    "geom:latitude":-39.03333,
+    "geom:longitude":177.21667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.03333,
+    "lbl:longitude":177.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Raupunga"
+    ],
+    "name:eng_x_preferred":[
+        "Raupunga"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2183609,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Raupunga",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Hawke's Bay",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1320451,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350373,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Hawke's Bay",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183609,
+        "gp:id":2350373,
+        "qs_pg:id":1320451,
+        "wd:id":"Q7296239"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497298616,
+    "wof:geomhash":"1de8c5a40bf192b9c0f50f89a1febebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079327,
+            "locality_id":1125982329,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1125982329,
+    "wof:lastmodified":1514494413,
+    "wof:name":"Raupunga",
+    "wof:parent_id":102079327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.21667,
+    -39.03333,
+    177.21667,
+    -39.03333
+],
+  "geometry": {"coordinates":[177.21666999999999,-39.03333],"type":"Point"}
+}

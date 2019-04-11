@@ -1,0 +1,123 @@
+{
+  "id": 85773137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17740920.534853,
+    "geom:bbox":"172.511245,-43.585779,172.511245,-43.585779",
+    "geom:latitude":-43.585779,
+    "geom:longitude":172.511245,
+    "gn:elevation":50,
+    "gn:latitude":-43.58333,
+    "gn:longitude":172.51667,
+    "gn:population":3600,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.585779,
+    "lbl:longitude":172.511245,
+    "mps:latitude":-43.58181,
+    "mps:longitude":172.515357,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Prebbleton"
+    ],
+    "name:eng_x_preferred":[
+        "Prebbleton"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0431\u043b\u0442\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Prebbleton"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Prebbleton",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Prebbleton",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Selwyn District",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":22,
+    "qs:photo_sum":89,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875886,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079369,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184297,
+        "gp:id":2350214,
+        "qs:id":408713,
+        "qs_pg:id":408713,
+        "wd:id":"Q176330",
+        "wk:page":"Prebbleton"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5a090156f8ba0fab941d632d9a06f719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":-1,
+            "neighbourhood_id":85773137,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85773137,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859631,
+    "wof:name":"Prebbleton",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":3600,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.511245,
+    -43.585779,
+    172.511245,
+    -43.585779
+],
+  "geometry": {"coordinates":[172.511245,-43.585779],"type":"Point"}
+}

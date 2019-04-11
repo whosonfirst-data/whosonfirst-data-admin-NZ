@@ -1,0 +1,68 @@
+{
+  "id": 1343698667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.71667,-44.83333,168.71667,-44.83333",
+    "geom:latitude":-44.83333,
+    "geom:longitude":168.71667,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"70.0",
+    "gn:asciiname":"Upper Shotover",
+    "gn:country_code":"NZ",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180572,
+    "gn:latitude":-44.83333,
+    "gn:longitude":168.71667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Upper Shotover",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180572
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4ebdc0c34435741cd1ef633ad485e19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":1343698667,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1343698667,
+    "wof:lastmodified":1536899900,
+    "wof:name":"Upper Shotover",
+    "wof:parent_id":102079385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.71667,
+    -44.83333,
+    168.71667,
+    -44.83333
+],
+  "geometry": {"coordinates":[168.71666999999999,-44.83333],"type":"Point"}
+}

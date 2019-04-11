@@ -1,0 +1,72 @@
+{
+  "id": 1260010579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.65,-36.91667,174.65,-36.91667",
+    "geom:latitude":-36.91667,
+    "geom:longitude":174.65,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Glen Eden",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2190727,
+    "gn:latitude":-36.91667,
+    "gn:longitude":174.65,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Glen Eden",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glen Eden Town District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190727
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4c02232a27bb284f0b794b5654878e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1260010579,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1260010579,
+    "wof:lastmodified":1537676146,
+    "wof:name":"Glen Eden",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.65,
+    -36.91667,
+    174.65,
+    -36.91667
+],
+  "geometry": {"coordinates":[174.65000000000001,-36.91667],"type":"Point"}
+}

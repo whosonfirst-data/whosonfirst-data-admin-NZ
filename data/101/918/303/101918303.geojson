@@ -1,0 +1,74 @@
+{
+  "id": 101918303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26512.207858,
+    "geom:bbox":"175.319723539,-37.7880051079,175.322033663,-37.7850914943",
+    "geom:latitude":-37.786687,
+    "geom:longitude":175.320839,
+    "geonames:id":"2190324,6697408",
+    "iso:country":"NZ",
+    "lbl:latitude":-37.787415,
+    "lbl:longitude":175.32054,
+    "mps:latitude":-37.787415,
+    "mps:longitude":175.32054,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hamilton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hamilton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NZ",
+    "wof:geomhash":"25df498fc4bfb5f02e1872b769ee7454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "locality_id":101918303,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918303,
+    "wof:lastmodified":1487270000,
+    "wof:name":"Hamilton",
+    "wof:parent_id":102079271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914271
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.31972353912894,
+    -37.78800510794113,
+    175.32203366295767,
+    -37.78509149430202
+],
+  "geometry": {"coordinates":[[[175.32108180738271,-37.78509149430202],[175.32110034471518,-37.78510283101005],[175.32143971731847,-37.78543735477607],[175.32203366295767,-37.78628937425033],[175.32178922322959,-37.78631612951568],[175.32118563041629,-37.78660470648574],[175.32097719275441,-37.78711101734102],[175.3212921926079,-37.78718466951799],[175.32091433426271,-37.78781095267688],[175.32055276633696,-37.78800510794113],[175.31972353912894,-37.78779799910991],[175.3200882523312,-37.78708276652246],[175.32098949639851,-37.78532147761783],[175.32099483193349,-37.78531145337443],[175.32108180738271,-37.78509149430202]]],"type":"Polygon"}
+}

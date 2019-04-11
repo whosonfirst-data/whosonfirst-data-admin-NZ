@@ -1,0 +1,115 @@
+{
+  "id": 85778479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8569314.925711,
+    "geom:bbox":"174.951574,-41.202922,174.951574,-41.202922",
+    "geom:latitude":-41.202922,
+    "geom:longitude":174.951574,
+    "gn:latitude":-41.19827,
+    "gn:longitude":174.94019,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.202922,
+    "lbl:longitude":174.951574,
+    "mps:latitude":-41.205255,
+    "mps:longitude":174.967855,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Naenae"
+    ],
+    "name:unk_x_variant":[
+        "Naenae"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Naenae",
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Naenae",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":15,
+    "qs:photo_sum":35,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":692,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914319,
+        102079337,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244869,
+        "gp:id":22726469,
+        "qs:id":886085,
+        "qs_pg:id":886085,
+        "wd:id":"Q6958111",
+        "wk:page":"Naenae"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"bb75cdcb8d76defb08f7ad23ef362bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914319,
+            "neighbourhood_id":85778479,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778479,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859799,
+    "wof:name":"Naenae",
+    "wof:parent_id":101914319,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.951574,
+    -41.202922,
+    174.951574,
+    -41.202922
+],
+  "geometry": {"coordinates":[174.95157399999999,-41.202922],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 101917959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":13935.048094,
+    "geom:bbox":"168.79171784,-46.3136835387,168.794674969,-46.3127354341",
+    "geom:latitude":-46.313201,
+    "geom:longitude":168.793202,
+    "gn:population":583,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.313201,
+    "lbl:longitude":168.793186,
+    "mps:latitude":-46.313201,
+    "mps:longitude":168.793186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Edendale"
+    ],
+    "name:eng_x_preferred":[
+        "Edendale"
+    ],
+    "name:eng_x_variant":[
+        "Edendale Town District"
+    ],
+    "name:msa_x_preferred":[
+        "Edendale"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Edendale",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":577,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dda46-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2191456,
+        "gp:id":2348466,
+        "qs:id":795406,
+        "wd:id":"Q5336984",
+        "wk:page":"Edendale, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"cf9eced697177f679c657a00991f748f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101917959,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101917959,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715910,
+    "wof:name":"Edendale",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:population":583,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915723
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.7917178397652,
+    -46.31368353870759,
+    168.79467496916837,
+    -46.31273543406704
+],
+  "geometry": {"coordinates":[[[168.7917178397652,-46.31327071500919],[168.7917589419587,-46.31273543406704],[168.7943452055512,-46.31306561030767],[168.79467496916837,-46.31310700297365],[168.79457269670624,-46.31368353870759],[168.79432312551603,-46.31364768510282],[168.7917178397652,-46.31327071500919]]],"type":"Polygon"}
+}

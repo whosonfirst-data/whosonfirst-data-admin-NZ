@@ -1,0 +1,111 @@
+{
+  "id": 85778553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":600285.751875,
+    "geom:bbox":"174.795345043,-41.2344849898,174.807066463,-41.2261832892",
+    "geom:latitude":-41.230021,
+    "geom:longitude":174.801467,
+    "gn:latitude":-41.22827,
+    "gn:longitude":174.80019,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.227338,
+    "lbl:longitude":174.797174,
+    "mps:latitude":-41.229578,
+    "mps:longitude":174.801578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Raroa"
+    ],
+    "name:unk_x_variant":[
+        "Raroa"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Raroa",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Raroa",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":22,
+    "qs:photo_sum":40,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244931,
+        "gp:id":22726504,
+        "qs:id":985499,
+        "qs_pg:id":985499
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"201fdb2862ca4bb31cb01c1098661910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85778553,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778553,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497309578,
+    "wof:name":"Raroa",
+    "wof:parent_id":101914285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.79534504307736,
+    -41.23448498979737,
+    174.80706646320556,
+    -41.22618328919984
+],
+  "geometry": {"coordinates":[[[174.80402396972175,-41.22618328919984],[174.80454186083097,-41.22824899887497],[174.80454187310914,-41.22824901520005],[174.80609543600326,-41.23031464327486],[174.80691477100703,-41.23096829179399],[174.80706646320556,-41.23238017344985],[174.8067025615,-41.23350925505299],[174.80499044882703,-41.23448498979737],[174.80346679700011,-41.23380963974691],[174.80072021500058,-41.2325922328176],[174.79833160866866,-41.23365096905779],[174.79797363299997,-41.2334129630246],[174.79683028733774,-41.23265279078549],[174.79689861416358,-41.23238023870005],[174.7974164439147,-41.23031464327486],[174.79689861962015,-41.22824900431667],[174.79534504307736,-41.22618328919984],[174.79797363299997,-41.22618329538271],[174.80072021500041,-41.22618329680655],[174.80402396972175,-41.22618328919984]]],"type":"Polygon"}
+}

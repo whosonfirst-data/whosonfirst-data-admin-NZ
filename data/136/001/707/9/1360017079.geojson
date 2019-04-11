@@ -1,0 +1,72 @@
+{
+  "id": 1360017079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.5,-40.4,175.5,-40.4",
+    "geom:latitude":-40.4,
+    "geom:longitude":175.5,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Tiakitahuna",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181175,
+    "gn:latitude":-40.4,
+    "gn:longitude":175.5,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Tiakitahuna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takitahuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181175
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a0faac1a69c7c2d70ec9065058e66e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":1360017079,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1360017079,
+    "wof:lastmodified":1537676141,
+    "wof:name":"Tiakitahuna",
+    "wof:parent_id":102079303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.5,
+    -40.4,
+    175.5,
+    -40.4
+],
+  "geometry": {"coordinates":[175.5,-40.4],"type":"Point"}
+}

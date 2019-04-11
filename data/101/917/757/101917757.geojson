@@ -1,0 +1,84 @@
+{
+  "id": 101917757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":61936.872853,
+    "geom:bbox":"174.709713669,-36.71630007,174.714211063,-36.7134770968",
+    "geom:latitude":-36.714823,
+    "geom:longitude":174.712008,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.714993,
+    "lbl:longitude":174.712043,
+    "mps:latitude":-36.714993,
+    "mps:longitude":174.712043,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Auckland"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Auckland",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:area":559.0,
+    "wd:elevation":196.0,
+    "wd:latitude":-36.85,
+    "wd:longitude":174.783333,
+    "wd:population":1454300,
+    "wd:wordcount":9046,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q37100"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"36a68dce9881bf46abf0b0dd37359c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101917757,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101917757,
+    "wof:lastmodified":1527715911,
+    "wof:name":"Auckland",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:population":1454300,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914257
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.7097136688947,
+    -36.71630007000483,
+    174.71421106306238,
+    -36.71347709681113
+],
+  "geometry": {"coordinates":[[[174.71104411144444,-36.71347709681113],[174.71155605275055,-36.71376181004742],[174.71161256970655,-36.71378343674044],[174.71202933019336,-36.71411550597067],[174.71254710327329,-36.71418162735562],[174.71285076086036,-36.71405463278874],[174.71408606256313,-36.71525065519599],[174.71414426077837,-36.71539355625862],[174.71421106306238,-36.71563301106201],[174.71395322522454,-36.71573477416493],[174.71372270326759,-36.71576267177331],[174.71364997008229,-36.71577420316327],[174.71296716836494,-36.71588245446367],[174.71287865462423,-36.71589648713924],[174.71284772647397,-36.71590139038486],[174.71249469853578,-36.71602260648873],[174.71250597129003,-36.71624319426429],[174.71206411010084,-36.71630007000483],[174.70981583518707,-36.7138162582357],[174.70971366889469,-36.71353307661447],[174.71104411144444,-36.71347709681113]]],"type":"Polygon"}
+}

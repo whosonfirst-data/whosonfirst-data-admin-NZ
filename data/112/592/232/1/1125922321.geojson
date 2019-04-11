@@ -1,0 +1,96 @@
+{
+  "id": 1125922321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.819747,-43.660334,172.819747,-43.660334",
+    "geom:latitude":-43.660334,
+    "geom:longitude":172.819747,
+    "gn:gn_country":"NZ",
+    "iso:country":"NZ",
+    "lbl:latitude":-43.660334,
+    "lbl:longitude":172.819747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Port Levy"
+    ],
+    "name:eng_x_preferred":[
+        "Port Levy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30fb\u30ec\u30f4\u30a3"
+    ],
+    "name:nno_x_preferred":[
+        "Port Levy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0435\u0432\u0438"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:name":"Port Levy",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1135728,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350197,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2350197,
+        "qs_pg:id":1135728,
+        "wd:id":"Q7230754"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296524,
+    "wof:geomhash":"c194731ad30866ff5e931bfad8d09685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1125922321,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125922321,
+    "wof:lastmodified":1514494407,
+    "wof:name":"Port Levy",
+    "wof:parent_id":85687179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.819747,
+    -43.660334,
+    172.819747,
+    -43.660334
+],
+  "geometry": {"coordinates":[172.81974700000001,-43.660334],"type":"Point"}
+}

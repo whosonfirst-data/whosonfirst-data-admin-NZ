@@ -1,0 +1,86 @@
+{
+  "id": 101916939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":31444.614008,
+    "geom:bbox":"168.346297285,-46.3587151078,168.34822217,-46.3555911956",
+    "geom:latitude":-46.357219,
+    "geom:longitude":168.347278,
+    "gn:population":47287,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.35725,
+    "lbl:longitude":168.34729,
+    "mps:latitude":-46.35725,
+    "mps:longitude":168.34729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waihopai"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Invercargill",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-46.416667,
+    "wd:longitude":168.266667,
+    "wd:wordcount":3975,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0211ad38-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2189529,
+        "gp:id":28644491,
+        "wd:id":"Q31805",
+        "wk:page":"Invercargill"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"16a4e5fae9afccd9dee09b28431850ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101916939,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101916939,
+    "wof:lastmodified":1527715554,
+    "wof:name":"Invercargill",
+    "wof:parent_id":102079397,
+    "wof:placetype":"locality",
+    "wof:population":47287,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915515
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.34629728545056,
+    -46.35871510781497,
+    168.34822217031356,
+    -46.35559119563417
+],
+  "geometry": {"coordinates":[[[168.34822217031356,-46.35871510781497],[168.34768294308199,-46.35870122216068],[168.34759358833003,-46.35869377579819],[168.34759617488245,-46.35798202450533],[168.34733551711238,-46.35797511656124],[168.34731973668127,-46.35797285323014],[168.34730365857254,-46.35797156761931],[168.34728751192907,-46.35797108922866],[168.34629728545056,-46.35797372316627],[168.34645209616721,-46.35591972379101],[168.34643759517201,-46.35559119563417],[168.34702251869936,-46.3556027127804],[168.34700141168284,-46.35652742088297],[168.34820951905999,-46.35653321002505],[168.34822217031356,-46.35871510781497]]],"type":"Polygon"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 85781519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3414957.746074,
+    "geom:bbox":"168.369637,-46.408328,168.369637,-46.408328",
+    "geom:latitude":-46.408328,
+    "geom:longitude":168.369637,
+    "gn:latitude":-46.40842,
+    "gn:longitude":168.36009,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.408328,
+    "lbl:longitude":168.369637,
+    "mps:latitude":-46.410474,
+    "mps:longitude":168.377435,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Richmond"
+    ],
+    "name:unk_x_variant":[
+        "Richmond"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2189529,
+    "qs:gn_namadm1":"F8",
+    "qs:gn_name":"Richmond",
+    "qs:local_max":954,
+    "qs:local_sum":2108,
+    "qs:localhoods":12,
+    "qs:name":"Richmond",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Southland",
+    "qs:name_adm2":"Invercargill City",
+    "qs:name_local":"Invercargill",
+    "qs:photo_max":256,
+    "qs:photo_sum":285,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021750,
+    "qs:woe_adm2":55875899,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348887,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6205096,
+        "gp:id":28644464,
+        "qs:id":1086342,
+        "qs_pg:id":1086342
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"198a1ec833b0212ff44695a03f2294f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781519,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":85781519,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860223,
+    "wof:name":"Richmond",
+    "wof:parent_id":101915515,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.369637,
+    -46.408328,
+    168.369637,
+    -46.408328
+],
+  "geometry": {"coordinates":[168.36963700000001,-46.408328],"type":"Point"}
+}

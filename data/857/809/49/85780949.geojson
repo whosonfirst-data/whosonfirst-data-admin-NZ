@@ -1,0 +1,104 @@
+{
+  "id": 85780949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4119946.226034,
+    "geom:bbox":"175.156967,-37.566607,175.156967,-37.566607",
+    "geom:latitude":-37.566607,
+    "geom:longitude":175.156967,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.566607,
+    "lbl:longitude":175.156967,
+    "mps:latitude":-37.5707,
+    "mps:longitude":175.154013,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Huntly West"
+    ],
+    "name:unk_x_variant":[
+        "Huntly West"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6249343,
+    "qs:gn_nam_loc":"huntly",
+    "qs:gn_namadm1":"E7",
+    "qs:id":0,
+    "qs:local_max":110,
+    "qs:local_sum":190,
+    "qs:localhoods":3,
+    "qs:name":"Huntly West",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Waikato",
+    "qs:name_adm2":"Waikato District",
+    "qs:name_local":"Huntly",
+    "qs:photo_max":9,
+    "qs:photo_sum":26,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021765,
+    "qs:woe_adm2":55875915,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348866,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079265,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643868
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"bf1449ef890aad7ad312b1d6ee519e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":-1,
+            "neighbourhood_id":85780949,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":85780949,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860114,
+    "wof:name":"Huntly West",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.156967,
+    -37.566607,
+    175.156967,
+    -37.566607
+],
+  "geometry": {"coordinates":[175.15696700000001,-37.566607],"type":"Point"}
+}

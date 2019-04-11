@@ -1,0 +1,86 @@
+{
+  "id": 101915459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":39260.229308,
+    "geom:bbox":"176.197699862,-38.1404967413,176.201214265,-38.1382175165",
+    "geom:latitude":-38.139148,
+    "geom:longitude":176.199534,
+    "gn:population":65901,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.139209,
+    "lbl:longitude":176.199394,
+    "mps:latitude":-38.139209,
+    "mps:longitude":176.199394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Rotorua"
+    ],
+    "name:eng_x_variant":[
+        "ROT"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rotorua",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dfb5c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6241325,
+        "gp:id":2350462,
+        "wd:id":"Q208948",
+        "wk:page":"Rotorua"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7cbf1e3bef2c435064b6f504eb1fdd30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101915459,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":101915459,
+    "wof:lastmodified":1505338674,
+    "wof:name":"Rotorua",
+    "wof:parent_id":102079289,
+    "wof:placetype":"locality",
+    "wof:population":65901,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914629
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.19769986174524,
+    -38.14049674133764,
+    176.20121426479656,
+    -38.13821751652667
+],
+  "geometry": {"coordinates":[[[176.20121426479656,-38.1393613871861],[176.20081520683118,-38.13947865143459],[176.20086461784192,-38.13976752491818],[176.20013565032144,-38.1399035136212],[176.19934551745456,-38.14004116548885],[176.19914341952042,-38.14018205802382],[176.19923881630166,-38.14040194221662],[176.19901927612815,-38.14049674133764],[176.19863597958189,-38.1394272817036],[176.19863448737459,-38.13942326899212],[176.1986296078303,-38.13941277315596],[176.19862371049217,-38.13940266534584],[176.19861659961808,-38.13939277080075],[176.19769986174524,-38.13823209905053],[176.19774578482912,-38.13821751652667],[176.19889309150432,-38.13831757550341],[176.19943979866778,-38.138391304587],[176.19970241348452,-38.13851817558238],[176.20021555148344,-38.13848022274337],[176.20056487920169,-38.13860463684362],[176.2010638063569,-38.13888269023757],[176.20121426479656,-38.1393613871861]]],"type":"Polygon"}
+}

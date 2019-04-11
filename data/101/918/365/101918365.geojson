@@ -1,0 +1,76 @@
+{
+  "id": 101918365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12335.927384,
+    "geom:bbox":"176.812815541,-39.6193871727,176.815381892,-39.6179398297",
+    "geom:latitude":-39.61866,
+    "geom:longitude":176.814098,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.618629,
+    "lbl:longitude":176.814061,
+    "mps:latitude":-39.618629,
+    "mps:longitude":176.814061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Napier"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Napier",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":284,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q255867"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b5cbf4e0a0a030a16514890c7efcca1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101918365,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918365,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Napier",
+    "wof:parent_id":102079329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914679
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.8128155409916,
+    -39.61938717274251,
+    176.81538189164272,
+    -39.61793982971085
+],
+  "geometry": {"coordinates":[[[176.81490126114974,-39.61938717274251],[176.81432682826241,-39.61908370341489],[176.81281554099161,-39.61832375912442],[176.81341856754841,-39.61794365387313],[176.81342463459433,-39.61793982971085],[176.81354157718954,-39.61801344987972],[176.81538189164272,-39.61906134079033],[176.81490126114974,-39.61938717274251]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226571793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.3,-43.3,172.3,-43.3",
+    "geom:latitude":-43.3,
+    "geom:longitude":172.3,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Bennetts",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2193395,
+    "gn:latitude":-43.3,
+    "gn:longitude":172.3,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Bennetts",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bennets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193395
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f4ae171a81d5773337695ec3446053e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":1226571793,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1226571793,
+    "wof:lastmodified":1537676147,
+    "wof:name":"Bennetts",
+    "wof:parent_id":102079367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.3,
+    -43.3,
+    172.3,
+    -43.3
+],
+  "geometry": {"coordinates":[172.30000000000001,-43.3],"type":"Point"}
+}

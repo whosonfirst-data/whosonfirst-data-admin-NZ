@@ -1,0 +1,93 @@
+{
+  "id": 101916147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":72570.272368,
+    "geom:bbox":"171.237210324,-44.3527488983,171.241010765,-44.3474478547",
+    "geom:latitude":-44.349722,
+    "geom:longitude":171.238716,
+    "gn:population":28007,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.34897,
+    "lbl:longitude":171.238368,
+    "mps:latitude":-44.34897,
+    "mps:longitude":171.238368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Timaru"
+    ],
+    "name:eng_x_variant":[
+        "TIU",
+        "Timaru City"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Timaru",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-44.4,
+    "wd:longitude":171.25,
+    "wd:wordcount":2736,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dfc24-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181133,
+        "gp:id":2350910,
+        "wd:id":"Q1016574",
+        "wk:page":"Timaru"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5a8ab830c8095cd9ab290969ba55cab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101916147,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101916147,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715567,
+    "wof:name":"Timaru",
+    "wof:parent_id":102079373,
+    "wof:placetype":"locality",
+    "wof:population":28007,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915527
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.23721032438954,
+    -44.35274889828001,
+    171.24101076485823,
+    -44.34744785466106
+],
+  "geometry": {"coordinates":[[[171.23790319480563,-44.35274889828001],[171.23721041436124,-44.3474484860766],[171.23721032438954,-44.3474480346349],[171.23721032978509,-44.34744785466106],[171.23840760757363,-44.34803114519833],[171.23978172208666,-44.34870058859865],[171.24101076485823,-44.34929928315511],[171.240277706884,-44.35013453493433],[171.24027760342116,-44.35013453333993],[171.23984881477733,-44.35062370096865],[171.23907608046676,-44.35049234383403],[171.23923015456603,-44.35022900958236],[171.23854023692789,-44.34983375565385],[171.2381834993416,-44.35003104527732],[171.23822834069867,-44.35178693585094],[171.23845285824001,-44.3517763579833],[171.23845779670691,-44.3512869588036],[171.23918581908626,-44.35073175293227],[171.23960479804447,-44.35090212138931],[171.23921638327496,-44.35134519372446],[171.23831464989738,-44.35235587163202],[171.23790319480563,-44.35274889828001]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125860935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.444866,-36.88978,174.444866,-36.88978",
+    "geom:latitude":-36.88978,
+    "geom:longitude":174.444866,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.88978,
+    "lbl:longitude":174.444866,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bethells Beach",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Auckland Region",
+    "qs_pg:photos":1119,
+    "qs_pg:photos_1k":227,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1119,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1286880,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28645488,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Auckland Region",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28645488,
+        "qs_pg:id":1286880
+    },
+    "wof:country":"NZ",
+    "wof:created":1497293828,
+    "wof:geomhash":"4a66d1bebf295af4f12a7c9ecc6637a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1125860935,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1125860935,
+    "wof:lastmodified":1509396619,
+    "wof:name":"Bethells Beach",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.444866,
+    -36.88978,
+    174.444866,
+    -36.88978
+],
+  "geometry": {"coordinates":[174.44486599999999,-36.88978],"type":"Point"}
+}

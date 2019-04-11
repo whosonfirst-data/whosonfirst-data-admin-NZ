@@ -1,0 +1,160 @@
+{
+  "id": 85772891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":20984650.676574,
+    "geom:bbox":"171.228939,-42.405822,171.228939,-42.405822",
+    "geom:latitude":-42.405822,
+    "geom:longitude":171.228939,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.405822,
+    "lbl:longitude":171.228939,
+    "mps:latitude":-42.390182,
+    "mps:longitude":171.218383,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Cobden"
+    ],
+    "name:eng_x_preferred":[
+        "Cobden"
+    ],
+    "name:hbs_x_preferred":[
+        "Kabden"
+    ],
+    "name:ita_x_preferred":[
+        "Cobden"
+    ],
+    "name:nld_x_preferred":[
+        "Cobden"
+    ],
+    "name:pol_x_preferred":[
+        "Cobden"
+    ],
+    "name:por_x_preferred":[
+        "Cobden"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u0434\u0435\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0431\u0434\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Cobden"
+    ],
+    "name:vol_x_preferred":[
+        "Cobden"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2206895,
+    "qs:gn_nam_loc":"Greymouth, Grey District, West Coast, NZ",
+    "qs:gn_namadm1":"G3",
+    "qs:gn_name":"Cobden",
+    "qs:local_max":664,
+    "qs:local_sum":1109,
+    "qs:localhoods":4,
+    "qs:name":"Cobden",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"West Coast",
+    "qs:name_adm2":"Grey District",
+    "qs:name_local":"Greymouth",
+    "qs:photo_max":51,
+    "qs:photo_sum":168,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021752,
+    "qs:woe_adm2":55875922,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348669,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6212559,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cobden",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"West Coast",
+    "qs_pg:photos":204,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":204,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1054040,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348366,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":42,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687165,
+        102191583,
+        85633345,
+        102079361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6212559,
+        "gp:id":2348366,
+        "qs:id":1054040,
+        "qs_pg:id":1054040
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"aa3aee1ac45000ef70acaf29b46cb802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":-1,
+            "neighbourhood_id":85772891,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":85772891,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379392,
+    "wof:name":"Cobden",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126085807
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.228939,
+    -42.405822,
+    171.228939,
+    -42.405822
+],
+  "geometry": {"coordinates":[171.228939,-42.405822],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85778855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":785045.53942,
+    "geom:bbox":"174.767544,-36.885068,174.767544,-36.885068",
+    "geom:latitude":-36.885068,
+    "geom:longitude":174.767544,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.885068,
+    "lbl:longitude":174.767544,
+    "mps:latitude":-36.886889,
+    "mps:longitude":174.76688,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Mount Eden East"
+    ],
+    "name:eng_x_variant":[
+        "Mt Eden East"
+    ],
+    "name:unk_x_variant":[
+        "Mount Eden East"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6232237,
+    "qs:gn_nam_loc":"mount eden",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Mount Eden",
+    "qs:local_max":1642,
+    "qs:local_sum":3216,
+    "qs:localhoods":3,
+    "qs:name":"Mount Eden East",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Mount Eden",
+    "qs:photo_max":207,
+    "qs:photo_sum":587,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726462,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726623,
+        "qs:id":1087594,
+        "qs_pg:id":1087594
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"eda33cc5cea8477888aa6c5d4b926231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85778855,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778855,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859848,
+    "wof:name":"Mount Eden East",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.767544,
+    -36.885068,
+    174.767544,
+    -36.885068
+],
+  "geometry": {"coordinates":[174.76754399999999,-36.885068],"type":"Point"}
+}

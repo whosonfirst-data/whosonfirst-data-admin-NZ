@@ -1,0 +1,111 @@
+{
+  "id": 85781389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":3556065.990969,
+    "geom:bbox":"174.091081,-39.049764,174.091081,-39.049764",
+    "geom:latitude":-39.049764,
+    "geom:longitude":174.091081,
+    "gn:latitude":-39.05395,
+    "gn:longitude":174.09429,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.049764,
+    "lbl:longitude":174.091081,
+    "mps:latitude":-39.048085,
+    "mps:longitude":174.089044,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Strandon"
+    ],
+    "name:unk_x_variant":[
+        "Strandon"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186239,
+    "qs:gn_namadm1":"F9",
+    "qs:gn_name":"Strandon",
+    "qs:local_max":1301,
+    "qs:local_sum":2817,
+    "qs:localhoods":8,
+    "qs:name":"Strandon",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Taranaki",
+    "qs:name_adm2":"New Plymouth District",
+    "qs:name_local":"New Plymouth",
+    "qs:photo_max":77,
+    "qs:photo_sum":240,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021763,
+    "qs:woe_adm2":55875870,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349680,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687195,
+        102191583,
+        85633345,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6222904,
+        "gp:id":28644304,
+        "qs:id":1182376
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"be5b2fcc710098f057c374c8eab46c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":-1,
+            "neighbourhood_id":85781389,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":85781389,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379391,
+    "wof:name":"Strandon",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        1126068605
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.091081,
+    -39.049764,
+    174.091081,
+    -39.049764
+],
+  "geometry": {"coordinates":[174.091081,-39.049764],"type":"Point"}
+}

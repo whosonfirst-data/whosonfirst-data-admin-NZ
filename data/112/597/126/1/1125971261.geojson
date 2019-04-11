@@ -1,0 +1,116 @@
+{
+  "id": 1125971261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.38333,-44.85,168.38333,-44.85",
+    "geom:latitude":-44.85,
+    "geom:longitude":168.38333,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.85,
+    "lbl:longitude":168.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Glenorchy"
+    ],
+    "name:dan_x_preferred":[
+        "Glenorchy"
+    ],
+    "name:dut_x_preferred":[
+        "Glenorchy"
+    ],
+    "name:eng_x_preferred":[
+        "Glenorchy"
+    ],
+    "name:fre_x_preferred":[
+        "Glenorchy"
+    ],
+    "name:ger_x_preferred":[
+        "Glenorchy"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u043b\u0435\u043d\u043e\u0440\u0445\u0438"
+    ],
+    "name:mao_x_preferred":[
+        "Glenorchy"
+    ],
+    "name:may_x_preferred":[
+        "Glenorchy"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2190700,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Glenorchy",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Otago",
+    "qs_pg:photos":1550,
+    "qs_pg:photos_1k":314,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1550,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1312269,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348615,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Otago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190700,
+        "gp:id":2348615,
+        "qs_pg:id":1312269,
+        "wd:id":"Q2784207"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497298173,
+    "wof:geomhash":"c54d4a5648c34170ca295bfa263e8962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":1125971261,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1125971261,
+    "wof:lastmodified":1514494134,
+    "wof:name":"Glenorchy",
+    "wof:parent_id":102079385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.38333,
+    -44.85,
+    168.38333,
+    -44.85
+],
+  "geometry": {"coordinates":[168.38333,-44.85],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 101918029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12605.474657,
+    "geom:bbox":"171.12315334,-44.260017454,171.125453872,-44.2591126491",
+    "geom:latitude":-44.259498,
+    "geom:longitude":171.124057,
+    "gn:population":1187,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.259567,
+    "lbl:longitude":171.123855,
+    "mps:latitude":-44.259567,
+    "mps:longitude":171.123855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Pleasant Point"
+    ],
+    "name:eng_x_variant":[
+        "Pleasant Point Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pleasant Point",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":681,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de36a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2184512,
+        "gp:id":2350149,
+        "qs:id":9463,
+        "wd:id":"Q1474784",
+        "wk:page":"Pleasant Point, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"582cdbdd2a0483968263b6255d946340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101918029,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918029,
+    "wof:lastmodified":1527715676,
+    "wof:name":"Pleasant Point",
+    "wof:parent_id":102079373,
+    "wof:placetype":"locality",
+    "wof:population":1187,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915377
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.12315333999987,
+    -44.26001745399755,
+    171.1254538720377,
+    -44.25911264912403
+],
+  "geometry": {"coordinates":[[[171.12315333999987,-44.25990688437637],[171.12316033077795,-44.25911264912403],[171.12502806044915,-44.25915512245893],[171.1254538720377,-44.25933988565357],[171.12393335114237,-44.26001745399755],[171.12315333999987,-44.25990688437637]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343994499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.91667,-39.9,175.91667,-39.9",
+    "geom:latitude":-39.9,
+    "geom:longitude":175.91667,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Rangiwahia",
+    "gn:country_code":"NZ",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183692,
+    "gn:latitude":-39.9,
+    "gn:longitude":175.91667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Rangiwahia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183692
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"be484470d7f51a838c98cedcd355fbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":1343994499,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1343994499,
+    "wof:lastmodified":1536970397,
+    "wof:name":"Rangiwahia",
+    "wof:parent_id":102079303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.91666999999995,
+    -39.9,
+    175.91666999999995,
+    -39.9
+],
+  "geometry": {"coordinates":[175.91666999999995,-39.9],"type":"Point"}
+}

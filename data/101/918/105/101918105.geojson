@@ -1,0 +1,80 @@
+{
+  "id": 101918105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17690.880912,
+    "geom:bbox":"175.336285157,-41.1204701978,175.338253003,-41.1188135327",
+    "geom:latitude":-41.119641,
+    "geom:longitude":175.337299,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.119696,
+    "lbl:longitude":175.337242,
+    "mps:latitude":-41.119696,
+    "mps:longitude":175.337242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Featherston"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Featherston",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":570,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dceca-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6226307,
+        "gp:id":2348518,
+        "wd:id":"Q836942",
+        "wk:page":"Featherston, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ab1fde0f4c64fb4cc87880b36ef97ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101918105,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918105,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Featherston",
+    "wof:parent_id":102079347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914289
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.33628515664864,
+    -41.12047019784256,
+    175.33825300293273,
+    -41.11881353269659
+],
+  "geometry": {"coordinates":[[[175.33771470061598,-41.11881353269659],[175.33825300293273,-41.11891255755688],[175.3377064423492,-41.12047019784256],[175.33725608259229,-41.12036579248004],[175.3372913460442,-41.12028491308267],[175.33628515664864,-41.12005750791382],[175.33651542285219,-41.11932504787812],[175.33666193732239,-41.11935902274507],[175.3367847569528,-41.11902506458708],[175.33760540806577,-41.11919315763797],[175.33771470061598,-41.11881353269659]]],"type":"Polygon"}
+}

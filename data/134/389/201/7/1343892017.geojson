@@ -1,0 +1,68 @@
+{
+  "id": 1343892017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.06667,-46.43333,169.06667,-46.43333",
+    "geom:latitude":-46.43333,
+    "geom:longitude":169.06667,
+    "gn:admin1_code":"F8",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Mokoreta",
+    "gn:country_code":"NZ",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2186676,
+    "gn:latitude":-46.43333,
+    "gn:longitude":169.06667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Mokoreta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186676
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7827159adeeaec8336bb615905b33e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1343892017,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1343892017,
+    "wof:lastmodified":1536618939,
+    "wof:name":"Mokoreta",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.06667,
+    -46.43333,
+    169.06667,
+    -46.43333
+],
+  "geometry": {"coordinates":[169.06666999999999,-46.43333],"type":"Point"}
+}

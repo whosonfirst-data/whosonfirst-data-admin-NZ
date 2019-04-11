@@ -1,0 +1,68 @@
+{
+  "id": 1276796537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.18333,-44.31667,169.18333,-44.31667",
+    "geom:latitude":-44.31667,
+    "geom:longitude":169.18333,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"70.0",
+    "gn:asciiname":"Makarora Wharf",
+    "gn:country_code":"NZ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187922,
+    "gn:latitude":-44.31667,
+    "gn:longitude":169.18333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Makarora Wharf",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187922
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0d748d3ffe3b7aae433814d4956a1237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":1276796537,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1276796537,
+    "wof:lastmodified":1536655349,
+    "wof:name":"Makarora Wharf",
+    "wof:parent_id":102079385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.18333,
+    -44.31667,
+    169.18333,
+    -44.31667
+],
+  "geometry": {"coordinates":[169.18333000000001,-44.31667],"type":"Point"}
+}

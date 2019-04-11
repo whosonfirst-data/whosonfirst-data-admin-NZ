@@ -1,0 +1,87 @@
+{
+  "id": 101917927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":44706.12614,
+    "geom:bbox":"173.914756688,-41.4997457949,173.919030229,-41.4975463472",
+    "geom:latitude":-41.498667,
+    "geom:longitude":173.917002,
+    "gn:population":26550,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.499046,
+    "lbl:longitude":173.917872,
+    "mps:latitude":-41.499046,
+    "mps:longitude":173.917872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Blenheim"
+    ],
+    "name:eng_x_variant":[
+        "BHE"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Blenheim",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":2267,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020deb80-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6243926,
+        "gp:id":2348195,
+        "wd:id":"Q883831",
+        "wk:page":"Blenheim, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0e808cf8979e38d1e16393a8a086bfe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101917927,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":101917927,
+    "wof:lastmodified":1527715915,
+    "wof:name":"Blenheim",
+    "wof:parent_id":102079353,
+    "wof:placetype":"locality",
+    "wof:population":26550,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915709
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.91475668848727,
+    -41.49974579494879,
+    173.9190302286435,
+    -41.49754634724282
+],
+  "geometry": {"coordinates":[[[173.91861436727632,-41.49962551084969],[173.91778471755447,-41.49966239306392],[173.91608613233268,-41.49974579494879],[173.91606683826905,-41.49942982385971],[173.91597071730973,-41.49822559592311],[173.91476584598027,-41.49825097108278],[173.91475668848727,-41.49760021774993],[173.91556937604756,-41.49758123326972],[173.91694149213762,-41.49754634724282],[173.91695480680579,-41.49805604140679],[173.91659774279904,-41.49806798328861],[173.91662817638073,-41.49893712980607],[173.91725771653429,-41.49893211056637],[173.91723273273141,-41.49844979616113],[173.91847340557581,-41.49841720089677],[173.91849136891972,-41.49797551865435],[173.91902396558757,-41.49796216844847],[173.91903022864349,-41.49883141734289],[173.91857016620614,-41.49883968561728],[173.91861436727632,-41.49962551084969]]],"type":"Polygon"}
+}

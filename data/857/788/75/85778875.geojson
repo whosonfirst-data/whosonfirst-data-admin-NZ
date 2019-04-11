@@ -1,0 +1,103 @@
+{
+  "id": 85778875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":949934.843992,
+    "geom:bbox":"174.703463769,-36.8799297228,174.717603097,-36.8694245014",
+    "geom:latitude":-36.874381,
+    "geom:longitude":174.710864,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.873687,
+    "lbl:longitude":174.709386,
+    "mps:latitude":-36.874203,
+    "mps:longitude":174.710863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":19.0,
+    "mz:note":"extra directional",
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Point Chevalier South"
+    ],
+    "name:unk_x_variant":[
+        "Point Chevalier South"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2193733,
+    "qs:id":0,
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Point Chevalier South",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":51,
+    "qs:photo_sum":108,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1791,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        85633345,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726630,
+        "wd:id":"Q7207981"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"29c6c05529e54b4d163f6e68b1b9fb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85778875,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778875,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269541,
+    "wof:name":"Point Chevalier South",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.70346376877376,
+    -36.87992972279893,
+    174.71760309671566,
+    -36.86942450142381
+],
+  "geometry": {"coordinates":[[[174.7100830080002,-36.86942450142381],[174.71120908322706,-36.87083209242491],[174.71445007149413,-36.87083209242491],[174.71445012203293,-36.87083215559997],[174.71557617200017,-36.87083215559997],[174.71557617200034,-36.87223975551367],[174.71760309671566,-36.87477347882758],[174.71744780313895,-36.87522644349993],[174.71757479280586,-36.87633772856301],[174.71694946300033,-36.87764064606827],[174.71557617200017,-36.87821291525107],[174.71557617200017,-36.87962060500001],[174.71219809797219,-36.87962060499993],[174.71145629900042,-36.87992972279893],[174.71120903267655,-36.87962060500001],[174.71008300800003,-36.87962060500001],[174.71008300800003,-36.8774235875],[174.7073364260005,-36.87742357826863],[174.7073364260005,-36.87522650069045],[174.70458984400045,-36.87522649749789],[174.70374530615476,-36.87417074498394],[174.70404967086739,-36.87302934697495],[174.70346378561953,-36.87083215559997],[174.70346376877376,-36.87083209242491],[174.70458984400062,-36.86942450142381],[174.7073364260005,-36.87056890812531],[174.7100830080002,-36.86942450142381]]],"type":"Polygon"}
+}

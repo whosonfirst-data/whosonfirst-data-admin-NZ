@@ -1,0 +1,98 @@
+{
+  "id": 101917167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":33444.93773,
+    "geom:bbox":"172.592042513,-43.5445476821,172.595196587,-43.5427425535",
+    "geom:latitude":-43.543607,
+    "geom:longitude":172.593377,
+    "gn:population":363926,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.54369,
+    "lbl:longitude":172.593366,
+    "mps:latitude":-43.54369,
+    "mps:longitude":172.593366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Christchurch"
+    ],
+    "name:eng_x_variant":[
+        "CHC"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30a4\u30b9\u30c8\u30c1\u30e3\u30fc\u30c1"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub9ac\uc2a4\ud2b8\ucc98\uce58"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Christchurch",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:area":608.0,
+    "wd:elevation":920.0,
+    "wd:latitude":-43.53,
+    "wd:longitude":172.620278,
+    "wd:population":362000,
+    "wd:wordcount":8478,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dfada-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192362,
+        "gp:id":2348327,
+        "wd:id":"Q79990",
+        "wk:page":"Christchurch"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5afe4c087b17e58a9ecd76aabc592183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101917167,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101917167,
+    "wof:lastmodified":1527715905,
+    "wof:name":"Christchurch",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:population":362000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914521
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.59204251300062,
+    -43.54454768208925,
+    172.5951965872577,
+    -43.54274255352856
+],
+  "geometry": {"coordinates":[[[172.59225204543068,-43.54441933262573],[172.59210950600303,-43.54365979041906],[172.59205863324783,-43.54312586279845],[172.59204251300062,-43.5428720730977],[172.5921746658598,-43.54285291941277],[172.59281337111474,-43.54279919449326],[172.59326451343733,-43.54274255352856],[172.59334123112487,-43.54305767241937],[172.59414996520968,-43.54296430678401],[172.59447058485014,-43.54312835069335],[172.5951965872577,-43.54328877887384],[172.59453214449073,-43.54404943895487],[172.59370325250961,-43.54454768208925],[172.59364159072348,-43.54429373208785],[172.59327431905785,-43.5443336593505],[172.59225204543068,-43.54441933262573]]],"type":"Polygon"}
+}

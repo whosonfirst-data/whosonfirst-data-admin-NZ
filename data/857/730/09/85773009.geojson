@@ -1,0 +1,109 @@
+{
+  "id": 85773009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1837764.474392,
+    "geom:bbox":"176.233097,-38.122133,176.233097,-38.122133",
+    "geom:latitude":-38.122133,
+    "geom:longitude":176.233097,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.122133,
+    "lbl:longitude":176.233097,
+    "mps:latitude":-38.126994,
+    "mps:longitude":176.226869,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Koutu"
+    ],
+    "name:unk_x_variant":[
+        "Koutu"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":6241325,
+    "qs:gn_nam_loc":"Rotorua, Rotorua District, NZ",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Koutu",
+    "qs:local_max":5438,
+    "qs:local_sum":12891,
+    "qs:localhoods":17,
+    "qs:name":"Koutu",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Rotorua District",
+    "qs:name_local":"Rotorua",
+    "qs:photo_max":26,
+    "qs:photo_sum":46,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875881,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350462,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914629,
+        102079289,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6241290,
+        "gp:id":2349131,
+        "qs:id":1168809,
+        "qs_pg:id":1168809
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3d8ee4e0f873e304e2cd782860109407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85773009,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":85773009,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859615,
+    "wof:name":"Koutu",
+    "wof:parent_id":101914629,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.233097,
+    -38.122133,
+    176.233097,
+    -38.122133
+],
+  "geometry": {"coordinates":[176.23309699999999,-38.122133],"type":"Point"}
+}

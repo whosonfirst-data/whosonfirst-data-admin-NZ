@@ -1,0 +1,77 @@
+{
+  "id": 101914339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25453.878236,
+    "geom:bbox":"168.247130872,-46.2969480865,168.250432041,-46.295132226",
+    "geom:latitude":-46.295794,
+    "geom:longitude":168.24931,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.295796,
+    "lbl:longitude":168.249613,
+    "mps:latitude":-46.295794,
+    "mps:longitude":168.249607,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Waianiwa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waianiwa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d05ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2180464,
+        "gp:id":2351062
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"904eb4865605ee475946ee45f628fdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101914339,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101914339,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1487208200,
+    "wof:name":"Waianiwa",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.24713087202105,
+    -46.29694808646506,
+    168.25043204105089,
+    -46.29513222604779
+],
+  "geometry": {"coordinates":[[[168.24713087202105,-46.2952946120082],[168.24850674245235,-46.29523421882645],[168.25043204105089,-46.29513222604779],[168.2503595948869,-46.29694808646506],[168.24713087202105,-46.2952946120082]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 101918809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17896.610425,
+    "geom:bbox":"177.285404621,-38.0036092098,177.28701632,-38.0023870212",
+    "geom:latitude":-38.00299,
+    "geom:longitude":177.286241,
+    "geonames:id":"6237304,2208332",
+    "iso:country":"NZ",
+    "lbl:latitude":-38.003003,
+    "lbl:longitude":177.286213,
+    "mps:latitude":-38.003003,
+    "mps:longitude":177.286213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Opotiki"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Opotiki",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NZ",
+    "wof:geomhash":"9cbf60c1f3e1d909b74d63eaca593121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079321,
+            "locality_id":101918809,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":101918809,
+    "wof:lastmodified":1487270018,
+    "wof:name":"Opotiki",
+    "wof:parent_id":102079321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914249
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.2854046206951,
+    -38.0036092098431,
+    177.28701631965762,
+    -38.00238702122054
+],
+  "geometry": {"coordinates":[[[177.28540462069509,-38.00239274990687],[177.28574039838279,-38.00242248655506],[177.28636645954285,-38.00240790565625],[177.28701607885799,-38.00238702122054],[177.28701550287212,-38.00286960299567],[177.28701631965762,-38.00297781000419],[177.2870149362796,-38.00357948375318],[177.28550862813233,-38.0036092098431],[177.28553553483832,-38.00312834184726],[177.28540814891633,-38.0028111360667],[177.28540462069509,-38.00239274990687]]],"type":"Polygon"}
+}

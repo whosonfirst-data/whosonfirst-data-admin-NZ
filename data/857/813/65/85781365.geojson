@@ -1,0 +1,110 @@
+{
+  "id": 85781365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8560640.058816,
+    "geom:bbox":"176.917398,-39.48398,176.917398,-39.48398",
+    "geom:latitude":-39.48398,
+    "geom:longitude":176.917398,
+    "gn:latitude":-39.48397,
+    "gn:longitude":176.91233,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.48398,
+    "lbl:longitude":176.917398,
+    "mps:latitude":-39.477625,
+    "mps:longitude":176.920801,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Bluff Hill"
+    ],
+    "name:unk_x_variant":[
+        "Bluff Hill"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186313,
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Bluff Hill",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Bluff Hill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":334,
+    "qs:photo_sum":1168,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":43,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914679,
+        102079331,
+        85687189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6246620,
+        "gp:id":28644288,
+        "qs:id":1086329,
+        "qs_pg:id":1086329
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"172739ddd2f31e67dc9d26a3cd613964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101914679,
+            "neighbourhood_id":85781365,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":85781365,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860195,
+    "wof:name":"Bluff Hill",
+    "wof:parent_id":101914679,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.917398,
+    -39.48398,
+    176.917398,
+    -39.48398
+],
+  "geometry": {"coordinates":[176.91739799999999,-39.48398],"type":"Point"}
+}

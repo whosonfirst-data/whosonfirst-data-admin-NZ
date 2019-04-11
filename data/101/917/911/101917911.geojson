@@ -1,0 +1,83 @@
+{
+  "id": 101917911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":37614.558397,
+    "geom:bbox":"171.869213432,-41.6136926442,171.873521245,-41.6088087665",
+    "geom:latitude":-41.611238,
+    "geom:longitude":171.87133,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.612176,
+    "lbl:longitude":171.870574,
+    "mps:latitude":-41.612177,
+    "mps:longitude":171.870573,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Ngakawau"
+    ],
+    "name:eng_x_variant":[
+        "Ngakawhau"
+    ],
+    "name:unk_x_variant":[
+        "Ngakawhau"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ngakawau",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c7520-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186212,
+        "gp:id":2349695
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"81de703bbf94a8a05f6cdbc9436977df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101917911,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101917911,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501229607,
+    "wof:name":"Ngakawau",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.86921343166034,
+    -41.61369264417597,
+    171.8735212448318,
+    -41.60880876645064
+],
+  "geometry": {"coordinates":[[[171.86964444983903,-41.61210178983775],[171.8711903221691,-41.61070907478243],[171.87151256644071,-41.61032874039064],[171.87158732602927,-41.6102394510497],[171.87293943946008,-41.60880876645064],[171.87326477541154,-41.60899927682795],[171.87284516126434,-41.60945967790962],[171.87352124483181,-41.60976082054125],[171.87271699525274,-41.61067026687667],[171.87222891846758,-41.61038809909404],[171.8720744535876,-41.61030372839586],[171.87201694871999,-41.61036708001639],[171.87197900140555,-41.61040991843464],[171.87172170294306,-41.61064867844339],[171.8706312198014,-41.61166056552755],[171.87137630584692,-41.61213077387897],[171.86972902672417,-41.61369264417597],[171.86921343166034,-41.61340568697232],[171.87021366637481,-41.61247661371492],[171.86964444983903,-41.61210178983775]]],"type":"Polygon"}
+}

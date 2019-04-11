@@ -1,0 +1,100 @@
+{
+  "id": 1126066775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.85021,-39.63824,176.85021,-39.63824",
+    "geom:latitude":-39.63824,
+    "geom:longitude":176.85021,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-39.63824,
+    "gn:longitude":176.85021,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.63824,
+    "lbl:longitude":176.85021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Mayfair"
+    ],
+    "name:unk_x_variant":[
+        "Mayfair"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6246623,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mayfair",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Hawke's Bay",
+    "qs_pg:photos":85,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":85,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":973853,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643932,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Hawke's Bay",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85687189,
+        102191583,
+        85633345,
+        102079329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6246623,
+        "gp:id":28643932,
+        "qs:id":973853,
+        "qs_pg:id":973853
+    },
+    "wof:country":"NZ",
+    "wof:created":1497308993,
+    "wof:geomhash":"8187555e5b076d301ee65374d1b08b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":-1,
+            "neighbourhood_id":1126066775,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1126066775,
+    "wof:lastmodified":1534379391,
+    "wof:name":"Mayfair",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85781003
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.85021,
+    -39.63824,
+    176.85021,
+    -39.63824
+],
+  "geometry": {"coordinates":[176.85021,-39.63824],"type":"Point"}
+}

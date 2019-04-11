@@ -1,0 +1,68 @@
+{
+  "id": 1226378639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.05,-35.73333,174.05,-35.73333",
+    "geom:latitude":-35.73333,
+    "geom:longitude":174.05,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Titoki",
+    "gn:country_code":"NZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181053,
+    "gn:latitude":-35.73333,
+    "gn:longitude":174.05,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Titoki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181053
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c2f0a2a2a645eb28ebf1159ab9edf102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1226378639,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1226378639,
+    "wof:lastmodified":1536741870,
+    "wof:name":"Titoki",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.05,
+    -35.73333,
+    174.05,
+    -35.73333
+],
+  "geometry": {"coordinates":[174.05000000000001,-35.73333],"type":"Point"}
+}

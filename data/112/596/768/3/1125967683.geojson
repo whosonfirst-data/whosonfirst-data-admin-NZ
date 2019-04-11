@@ -1,0 +1,95 @@
+{
+  "id": 1125967683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.767984,-42.874391,172.767984,-42.874391",
+    "geom:latitude":-42.874391,
+    "geom:longitude":172.767984,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.874391,
+    "lbl:longitude":172.767984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hurunui"
+    ],
+    "name:eng_x_preferred":[
+        "Hurunui"
+    ],
+    "name:fre_x_preferred":[
+        "Hurunui"
+    ],
+    "name:ger_x_preferred":[
+        "Hurunui"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hurunui",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":990981,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643001,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643001,
+        "qs_pg:id":990981,
+        "wd:id":"Q16815408"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497298037,
+    "wof:geomhash":"9211fea0688d7b8ba94bc4e94a66b70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":1125967683,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125967683,
+    "wof:lastmodified":1514494202,
+    "wof:name":"Hurunui",
+    "wof:parent_id":102079365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.767984,
+    -42.874391,
+    172.767984,
+    -42.874391
+],
+  "geometry": {"coordinates":[172.76798400000001,-42.874391],"type":"Point"}
+}

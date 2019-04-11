@@ -1,0 +1,80 @@
+{
+  "id": 101918297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23826.06256,
+    "geom:bbox":"175.308372057,-37.9149748486,175.310771278,-37.9125501143",
+    "geom:latitude":-37.913794,
+    "geom:longitude":175.309636,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.913803,
+    "lbl:longitude":175.309639,
+    "mps:latitude":-37.913803,
+    "mps:longitude":175.309639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ohaupo"
+    ],
+    "name:eng_x_variant":[
+        "Ohaupo Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ohaupo",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd726-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185857,
+        "gp:id":2349783
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e5e2a8b5d810ed111f5d319ff28060b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101918297,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918297,
+    "wof:lastmodified":1487269999,
+    "wof:name":"Ohaupo",
+    "wof:parent_id":102079273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914459
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.30837205668615,
+    -37.91497484864426,
+    175.3107712780586,
+    -37.91255011430351
+],
+  "geometry": {"coordinates":[[[175.31021705160811,-37.91255011430351],[175.31076139659689,-37.91290836823394],[175.31054024150441,-37.91306710871055],[175.31077127805861,-37.91320652775877],[175.30926541183445,-37.91497484864426],[175.30837205668615,-37.91462564360769],[175.30840727779773,-37.91458975692589],[175.30841281377084,-37.91458513483451],[175.30879447644534,-37.91411928962081],[175.30879992284571,-37.91411196509152],[175.30906874632456,-37.91367460485363],[175.30937142789475,-37.91333208873145],[175.30974609775217,-37.91296463851613],[175.31021705160811,-37.91255011430351]]],"type":"Polygon"}
+}

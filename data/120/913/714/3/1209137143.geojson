@@ -1,0 +1,62 @@
+{
+  "id": 1209137143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.75,-41.03333,173.75,-41.03333",
+    "geom:latitude":-41.03333,
+    "geom:longitude":173.75,
+    "gn:admin1_code":"F4",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Wairangi",
+    "gn:country_code":"NZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179956,
+    "gn:latitude":-41.03333,
+    "gn:longitude":173.75,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Wairangi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179956
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b7c2813ef39397f60bb47c6827da3456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209137143
+        }
+    ],
+    "wof:id":1209137143,
+    "wof:lastmodified":1536296624,
+    "wof:name":"Wairangi",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.75,
+    -41.03333,
+    173.75,
+    -41.03333
+],
+  "geometry": {"coordinates":[173.75,-41.03333],"type":"Point"}
+}

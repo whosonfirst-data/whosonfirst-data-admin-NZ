@@ -1,0 +1,86 @@
+{
+  "id": 101914595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5549.211003,
+    "geom:bbox":"174.807018332,-36.9043150286,174.808460791,-36.9029369461",
+    "geom:latitude":-36.903633,
+    "geom:longitude":174.807727,
+    "gn:population":417910,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.903616,
+    "lbl:longitude":174.807711,
+    "mps:latitude":-36.903616,
+    "mps:longitude":174.807711,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Auckland"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Auckland",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:area":559.0,
+    "wd:elevation":196.0,
+    "wd:latitude":-36.85,
+    "wd:longitude":174.783333,
+    "wd:population":1454300,
+    "wd:wordcount":9046,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193733,
+        "wd:id":"Q37100"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b05b2cb1613854cfb9e48c0cc2f7bc1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914595,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101914595,
+    "wof:lastmodified":1527688578,
+    "wof:name":"Auckland",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:population":1454300,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914257
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.80701833206953,
+    -36.9043150286368,
+    174.80846079149487,
+    -36.90293694613279
+],
+  "geometry": {"coordinates":[[[174.80729806550528,-36.90293694613279],[174.8075453998311,-36.90319424501951],[174.80846079149487,-36.9041677885407],[174.80815349798075,-36.9043150286368],[174.80701833206953,-36.90314999835883],[174.80729806550528,-36.90293694613279]]],"type":"Polygon"}
+}

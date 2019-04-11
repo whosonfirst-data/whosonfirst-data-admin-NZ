@@ -1,0 +1,68 @@
+{
+  "id": 1343298043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.43333,-45.66667,168.43333,-45.66667",
+    "geom:latitude":-45.66667,
+    "geom:longitude":168.43333,
+    "gn:admin1_code":"F8",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Lowther",
+    "gn:country_code":"NZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188150,
+    "gn:latitude":-45.66667,
+    "gn:longitude":168.43333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Lowther",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188150
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8a2ddb34948279cc06a1cc3e6b0cc0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1343298043,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1343298043,
+    "wof:lastmodified":1536979949,
+    "wof:name":"Lowther",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.43333,
+    -45.66667,
+    168.43333,
+    -45.66667
+],
+  "geometry": {"coordinates":[168.43333000000001,-45.66667],"type":"Point"}
+}

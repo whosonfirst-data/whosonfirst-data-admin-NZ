@@ -1,0 +1,82 @@
+{
+  "id": 1125947363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.086302,-45.564562,168.086302,-45.564562",
+    "geom:latitude":-45.564562,
+    "geom:longitude":168.086302,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.564562,
+    "lbl:longitude":168.086302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Centre Hill",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Southland",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1286594,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644366,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Southland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644366,
+        "qs_pg:id":1286594
+    },
+    "wof:country":"NZ",
+    "wof:created":1497297334,
+    "wof:geomhash":"8411ec93ef3db8a1fcf86f19838ab26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1125947363,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1125947363,
+    "wof:lastmodified":1509402474,
+    "wof:name":"Centre Hill",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.086302,
+    -45.564562,
+    168.086302,
+    -45.564562
+],
+  "geometry": {"coordinates":[168.08630199999999,-45.564562],"type":"Point"}
+}

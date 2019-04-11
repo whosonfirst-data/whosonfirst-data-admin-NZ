@@ -1,0 +1,84 @@
+{
+  "id": 101915481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10308.825914,
+    "geom:bbox":"170.966668806,-45.0857124991,170.968335914,-45.084370122",
+    "geom:latitude":-45.084994,
+    "geom:longitude":170.967528,
+    "gn:population":13000,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.084999,
+    "lbl:longitude":170.967525,
+    "mps:latitude":-45.084999,
+    "mps:longitude":170.967525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Oamaru"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Oamaru",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-45.089444,
+    "wd:longitude":170.966111,
+    "wd:wordcount":3681,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6215045,
+        "wd:id":"Q4782",
+        "wk:page":"Oamaru"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d2aa420b0d6cde4d1eba9b2e26fb9f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101915481,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101915481,
+    "wof:lastmodified":1527643138,
+    "wof:name":"Oamaru",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:population":13000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.96666880563865,
+    -45.08571249912611,
+    170.9683359144401,
+    -45.08437012196682
+],
+  "geometry": {"coordinates":[[[170.9672506983363,-45.08571249912611],[170.96666880563865,-45.08517073019148],[170.96703608649315,-45.08486742156352],[170.96763755536134,-45.08437012196682],[170.9683359144401,-45.08444918053467],[170.96799135948143,-45.08521336047277],[170.9676819251541,-45.08543404977139],[170.9672506983363,-45.08571249912611]]],"type":"Polygon"}
+}

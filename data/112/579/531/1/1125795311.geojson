@@ -1,0 +1,94 @@
+{
+  "id": 1125795311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.58333,-44.11667,171.58333,-44.11667",
+    "geom:latitude":-44.11667,
+    "geom:longitude":171.58333,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.11667,
+    "lbl:longitude":171.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lowcliffe"
+    ],
+    "name:eng_x_preferred":[
+        "Lowcliffe"
+    ],
+    "name:unk_x_variant":[
+        "Lowcliff"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2188168,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lowcliffe",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":195059,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2349237,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188168,
+        "gp:id":2349237,
+        "qs_pg:id":195059,
+        "wd:id":"Q6693076"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497291025,
+    "wof:geomhash":"38b53c108886e1f1aeadcb94db1c26a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":1125795311,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125795311,
+    "wof:lastmodified":1514494216,
+    "wof:name":"Lowcliffe",
+    "wof:parent_id":102079371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.58333,
+    -44.11667,
+    171.58333,
+    -44.11667
+],
+  "geometry": {"coordinates":[171.58332999999999,-44.11667],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 101917523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":89444.082108,
+    "geom:bbox":"175.774322753,-38.3653273827,175.779192289,-38.3623924727",
+    "geom:latitude":-38.363855,
+    "geom:longitude":175.776547,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.363936,
+    "lbl:longitude":175.776741,
+    "mps:latitude":-38.363936,
+    "mps:longitude":175.776741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Mangakino"
+    ],
+    "name:msa_x_preferred":[
+        "Mangakino"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mangakino",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":528,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6226586,
+        "gp:id":2349338,
+        "qs:id":9375,
+        "wd:id":"Q6748627",
+        "wk:page":"Mangakino"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8d9e6163f20d7d3fb7b0cfd9bd0a7424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":101917523,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101917523,
+    "wof:lastmodified":1527715916,
+    "wof:name":"Mangakino",
+    "wof:parent_id":102079281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915897
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.7743227530987,
+    -38.36532738268163,
+    175.77919228876024,
+    -38.36239247272911
+],
+  "geometry": {"coordinates":[[[175.77919228876024,-38.36449983948604],[175.77858497475077,-38.3647185525228],[175.77824279007635,-38.36532738268163],[175.7759500900334,-38.36479971660782],[175.77435845306479,-38.36442332667098],[175.77432275309869,-38.36268883559324],[175.77464302297042,-38.36239247272911],[175.77502292769768,-38.36241557128029],[175.77518089132914,-38.36250092868266],[175.77522125945728,-38.36273882959395],[175.77551733920888,-38.36269818213636],[175.77589130691661,-38.36262947200144],[175.77662434956869,-38.36272229532771],[175.77669063352394,-38.36289194547384],[175.77699597354814,-38.36288261824755],[175.77813069820337,-38.36299888791665],[175.77919228876024,-38.36449983948604]]],"type":"Polygon"}
+}

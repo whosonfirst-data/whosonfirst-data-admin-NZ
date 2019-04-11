@@ -1,0 +1,81 @@
+{
+  "id": 101918281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16759.924857,
+    "geom:bbox":"175.337204397,-38.0133421829,175.33998518,-38.0112036022",
+    "geom:latitude":-38.012186,
+    "geom:longitude":175.338573,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.011642,
+    "lbl:longitude":175.338073,
+    "mps:latitude":-38.011642,
+    "mps:longitude":175.338073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Awamutu"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Awamutu",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-38.016667,
+    "wd:longitude":175.316667,
+    "wd:wordcount":1083,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6240801,
+        "gp:id":2350790,
+        "wd:id":"Q992759",
+        "wk:page":"Te Awamutu"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2fe615bc7c82cb48a74a7a625998abf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101918281,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918281,
+    "wof:lastmodified":1527715671,
+    "wof:name":"Te Awamutu",
+    "wof:parent_id":102079273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914417
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.3372043965441,
+    -38.013342182877,
+    175.33998518025848,
+    -38.01120360224643
+],
+  "geometry": {"coordinates":[[[175.33942604962493,-38.013342182877],[175.3394166390016,-38.01333336653779],[175.33924862770979,-38.01318185493114],[175.33924745904594,-38.01318097807817],[175.33738678671662,-38.01158040126512],[175.33735525179515,-38.01152337343652],[175.33733822493048,-38.01149128027806],[175.33720439654411,-38.01140755502941],[175.3374871693058,-38.01131237844341],[175.337859489934,-38.01120360224643],[175.33817223471846,-38.01125472395466],[175.33843827113347,-38.01130592451302],[175.33849106684468,-38.01172487127786],[175.33886936843405,-38.01226948657417],[175.33929923885694,-38.01261921463131],[175.33994860229009,-38.01275339856458],[175.33997651485348,-38.0129060512024],[175.33998518025848,-38.01292660138292],[175.33942604962493,-38.013342182877]]],"type":"Polygon"}
+}

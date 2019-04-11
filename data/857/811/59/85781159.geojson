@@ -1,0 +1,107 @@
+{
+  "id": 85781159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":19015367.399352,
+    "geom:bbox":"174.848662,-41.108701,174.848662,-41.108701",
+    "geom:latitude":-41.108701,
+    "geom:longitude":174.848662,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.108701,
+    "lbl:longitude":174.848662,
+    "mps:latitude":-41.097374,
+    "mps:longitude":174.873467,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Onepoto"
+    ],
+    "name:unk_x_variant":[
+        "Onepoto"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2184397,
+    "qs:gn_nam_loc":"Porirua, Porirua City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:id":0,
+    "qs:local_max":1459,
+    "qs:local_sum":4025,
+    "qs:localhoods":7,
+    "qs:name":"Onepoto",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Porirua City",
+    "qs:name_local":"Porirua",
+    "qs:photo_max":237,
+    "qs:photo_sum":1333,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":75,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875866,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350182,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":55,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914355,
+        102079317,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644071
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"427f4467cb8085f732faaaad3c3dcf11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":101914355,
+            "neighbourhood_id":85781159,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85781159,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860151,
+    "wof:name":"Onepoto",
+    "wof:parent_id":101914355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.848662,
+    -41.108701,
+    174.848662,
+    -41.108701
+],
+  "geometry": {"coordinates":[174.84866199999999,-41.108701],"type":"Point"}
+}

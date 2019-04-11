@@ -1,0 +1,75 @@
+{
+  "id": 101918459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7650.736794,
+    "geom:bbox":"171.275292261,-42.3186205817,171.27711687,-42.3164778437",
+    "geom:latitude":-42.317642,
+    "geom:longitude":171.276176,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.318229,
+    "lbl:longitude":171.275724,
+    "mps:latitude":-42.317648,
+    "mps:longitude":171.276192,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Greigs"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Greigs",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28642947,
+        "qs_pg:id":375059
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3b53f690786b78b8fb7e7536aa0ca1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":101918459,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101918459,
+    "wof:lastmodified":1497301760,
+    "wof:name":"Greigs",
+    "wof:parent_id":102079361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.27529226087267,
+    -42.31862058169235,
+    171.27711686969855,
+    -42.31647784372868
+],
+  "geometry": {"coordinates":[[[171.27645040820184,-42.31705336732413],[171.27691153920097,-42.31647784372868],[171.27711686969855,-42.31673036838663],[171.27678869257471,-42.31706031394273],[171.27677874267499,-42.31706916628601],[171.27668210207614,-42.31720951380174],[171.27591423503844,-42.31832463186987],[171.27565977505117,-42.31862058169235],[171.27556456908832,-42.31859752375838],[171.27529226087267,-42.31839799873506],[171.27611743816288,-42.31746877296282],[171.27645040820184,-42.31705336732413]]],"type":"Polygon"}
+}

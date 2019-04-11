@@ -1,0 +1,112 @@
+{
+  "id": 85781237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4339517.501769,
+    "geom:bbox":"174.066081,-39.069908,174.066081,-39.069908",
+    "geom:latitude":-39.069908,
+    "geom:longitude":174.066081,
+    "gn:latitude":-39.07135,
+    "gn:longitude":174.06215,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.069908,
+    "lbl:longitude":174.066081,
+    "mps:latitude":-39.077511,
+    "mps:longitude":174.066846,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Westown"
+    ],
+    "name:unk_x_variant":[
+        "Westown"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186239,
+    "qs:gn_namadm1":"F9",
+    "qs:gn_name":"Westown",
+    "qs:local_max":1301,
+    "qs:local_sum":2817,
+    "qs:localhoods":8,
+    "qs:name":"Westown",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Taranaki",
+    "qs:name_adm2":"New Plymouth District",
+    "qs:name_local":"New Plymouth",
+    "qs:photo_max":131,
+    "qs:photo_sum":174,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021763,
+    "qs:woe_adm2":55875870,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349680,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":270,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079311,
+        85687195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6222897,
+        "gp:id":28644169,
+        "qs:id":230144,
+        "qs_pg:id":230144,
+        "wd:id":"Q7989538",
+        "wk:page":"Westown"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6c8c3e385fdca73f1e812a0ce1cecfa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":-1,
+            "neighbourhood_id":85781237,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":85781237,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860168,
+    "wof:name":"Westown",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.066081,
+    -39.069908,
+    174.066081,
+    -39.069908
+],
+  "geometry": {"coordinates":[174.066081,-39.069908],"type":"Point"}
+}

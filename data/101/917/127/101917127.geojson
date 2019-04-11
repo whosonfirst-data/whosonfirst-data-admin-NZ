@@ -1,0 +1,87 @@
+{
+  "id": 101917127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":66237.8545,
+    "geom:bbox":"175.12321132,-41.1171643786,175.127370417,-41.1133224165",
+    "geom:latitude":-41.115383,
+    "geom:longitude":175.125262,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.115431,
+    "lbl:longitude":175.125236,
+    "mps:latitude":-41.11543,
+    "mps:longitude":175.125235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mangaroa"
+    ],
+    "name:eng_x_variant":[
+        "Mungaroa"
+    ],
+    "name:unk_x_variant":[
+        "Mungaroa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mangaroa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c426c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2187569,
+        "gp:id":2349359,
+        "wd:id":"Q6748835",
+        "wk:page":"Mangaroa"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d700694e5823a0cc6075ce2a88d8f4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":101917127,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101917127,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715909,
+    "wof:name":"Mangaroa",
+    "wof:parent_id":102079335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.12321131990666,
+    -41.11716437858017,
+    175.12737041711225,
+    -41.11332241653413
+],
+  "geometry": {"coordinates":[[[175.12666854594477,-41.11701635207949],[175.12652080091323,-41.1168570737759],[175.12566008115598,-41.11716437858017],[175.12504832600683,-41.11633348647446],[175.12465292602809,-41.11647027945195],[175.12384961336841,-41.11544839869208],[175.1242570527485,-41.11524654763901],[175.12386884109424,-41.11471374556577],[175.1236273560931,-41.11475052828764],[175.12321131990666,-41.11418905958587],[175.12413645356983,-41.11389751525196],[175.12432087768585,-41.11370545067108],[175.12471186470137,-41.1133744941792],[175.12479140085011,-41.11332241653413],[175.12634207924043,-41.11532153563314],[175.12737041711225,-41.11664713570804],[175.12666854594477,-41.11701635207949]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125998513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.173419,-34.980001,173.173419,-34.980001",
+    "geom:latitude":-34.980001,
+    "geom:longitude":173.173419,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.980001,
+    "lbl:longitude":173.173419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Paparore",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Northland",
+    "qs_pg:photos":18,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":18,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":32846,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644191,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Northland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644191,
+        "qs_pg:id":32846
+    },
+    "wof:country":"NZ",
+    "wof:created":1497299505,
+    "wof:geomhash":"f1cbdb8e2bcb2cbbf9337ac11f67271b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1125998513,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1125998513,
+    "wof:lastmodified":1509405961,
+    "wof:name":"Paparore",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.173419,
+    -34.980001,
+    173.173419,
+    -34.980001
+],
+  "geometry": {"coordinates":[173.173419,-34.980001],"type":"Point"}
+}

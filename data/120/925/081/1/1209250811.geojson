@@ -1,0 +1,62 @@
+{
+  "id": 1209250811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.05,-46.2,168.05,-46.2",
+    "geom:latitude":-46.2,
+    "geom:longitude":168.05,
+    "gn:admin1_code":"F8",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Fairfax",
+    "gn:country_code":"NZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2191226,
+    "gn:latitude":-46.2,
+    "gn:longitude":168.05,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Fairfax",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191226
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3fe5508a90464ec803804547b9a19487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209250811
+        }
+    ],
+    "wof:id":1209250811,
+    "wof:lastmodified":1536293011,
+    "wof:name":"Fairfax",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.05,
+    -46.2,
+    168.05,
+    -46.2
+],
+  "geometry": {"coordinates":[168.05000000000001,-46.2],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225975933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.26667,-34.91667,173.26667,-34.91667",
+    "geom:latitude":-34.91667,
+    "geom:longitude":173.26667,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Kaimaumau",
+    "gn:country_code":"NZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189251,
+    "gn:latitude":-34.91667,
+    "gn:longitude":173.26667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kaimaumau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189251
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b548dab0460d9e9307c19be1cfec854b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1225975933,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1225975933,
+    "wof:lastmodified":1536824856,
+    "wof:name":"Kaimaumau",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.26667,
+    -34.91667,
+    173.26667,
+    -34.91667
+],
+  "geometry": {"coordinates":[173.26667,-34.91667],"type":"Point"}
+}

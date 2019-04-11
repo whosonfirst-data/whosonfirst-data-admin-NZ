@@ -1,0 +1,68 @@
+{
+  "id": 1259718517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.28333,-35.85,174.28333,-35.85",
+    "geom:latitude":-35.85,
+    "geom:longitude":174.28333,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Mangapai",
+    "gn:country_code":"NZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187632,
+    "gn:latitude":-35.85,
+    "gn:longitude":174.28333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Mangapai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187632
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"73004e0ee6aaac0e7afd05a28fe206b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1259718517,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1259718517,
+    "wof:lastmodified":1537015880,
+    "wof:name":"Mangapai",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.28333,
+    -35.85,
+    174.28333,
+    -35.85
+],
+  "geometry": {"coordinates":[174.28333000000001,-35.85],"type":"Point"}
+}

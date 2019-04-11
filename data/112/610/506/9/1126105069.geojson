@@ -1,0 +1,93 @@
+{
+  "id": 1126105069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.0802,-39.06824,174.0802,-39.06824",
+    "geom:latitude":-39.06824,
+    "geom:longitude":174.0802,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.06824,
+    "lbl:longitude":174.0802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6222902,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Brooklands",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Taranaki",
+    "qs_pg:photos":408,
+    "qs_pg:photos_1k":83,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":408,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1196870,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643793,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Taranaki",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85687195,
+        102191583,
+        85633345,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6222902,
+        "gp:id":28643793,
+        "qs_pg:id":1196870
+    },
+    "wof:country":"NZ",
+    "wof:created":1497316766,
+    "wof:geomhash":"1df1fbfd2e0ac8c33dd4f19aef766046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":-1,
+            "neighbourhood_id":1126105069,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1126105069,
+    "wof:lastmodified":1534379390,
+    "wof:name":"Brooklands",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        85780851
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.0802,
+    -39.06824,
+    174.0802,
+    -39.06824
+],
+  "geometry": {"coordinates":[174.08019999999999,-39.06824],"type":"Point"}
+}

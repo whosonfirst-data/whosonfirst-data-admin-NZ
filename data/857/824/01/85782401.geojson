@@ -1,0 +1,108 @@
+{
+  "id": 85782401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11578973.778476,
+    "geom:bbox":"171.20581,-42.461683,171.20581,-42.461683",
+    "geom:latitude":-42.461683,
+    "geom:longitude":171.20581,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-42.461683,
+    "lbl:longitude":171.20581,
+    "mps:latitude":-42.467776,
+    "mps:longitude":171.207887,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Greymouth Central"
+    ],
+    "name:unk_x_variant":[
+        "Greymouth Central"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2206895,
+    "qs:gn_nam_loc":"Greymouth, Grey District, West Coast, NZ",
+    "qs:gn_namadm1":"G3",
+    "qs:local_max":664,
+    "qs:local_sum":1109,
+    "qs:localhoods":4,
+    "qs:name":"Greymouth Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"West Coast",
+    "qs:name_adm2":"Grey District",
+    "qs:name_local":"Greymouth",
+    "qs:photo_max":33,
+    "qs:photo_sum":171,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021752,
+    "qs:woe_adm2":55875922,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348669,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101915333,
+        102079361,
+        85687165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676732,
+        "qs:id":375351,
+        "qs_pg:id":375351
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fb68a34a49d012e7992200aef30dcfa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":101915333,
+            "neighbourhood_id":85782401,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":85782401,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860358,
+    "wof:name":"Greymouth Central",
+    "wof:parent_id":101915333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.20581,
+    -42.461683,
+    171.20581,
+    -42.461683
+],
+  "geometry": {"coordinates":[171.20581000000001,-42.461683],"type":"Point"}
+}

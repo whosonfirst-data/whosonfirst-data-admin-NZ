@@ -1,0 +1,82 @@
+{
+  "id": 1125935747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.322154,-38.079581,176.322154,-38.079581",
+    "geom:latitude":-38.079581,
+    "geom:longitude":176.322154,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.079581,
+    "lbl:longitude":176.322154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mataikotere Marae",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Bay of Plenty",
+    "qs_pg:photos":112,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":112,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985776,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643182,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Bay of Plenty",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643182,
+        "qs_pg:id":985776
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296963,
+    "wof:geomhash":"e6cb776ef71129af9a55036b9e1f480b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":1125935747,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1125935747,
+    "wof:lastmodified":1509401694,
+    "wof:name":"Mataikotere Marae",
+    "wof:parent_id":102079289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.322154,
+    -38.079581,
+    176.322154,
+    -38.079581
+],
+  "geometry": {"coordinates":[176.32215400000001,-38.079581],"type":"Point"}
+}

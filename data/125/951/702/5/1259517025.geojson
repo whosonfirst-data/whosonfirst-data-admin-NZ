@@ -1,0 +1,68 @@
+{
+  "id": 1259517025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.16667,-37.51667,175.16667,-37.51667",
+    "geom:latitude":-37.51667,
+    "geom:longitude":175.16667,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Kimihia",
+    "gn:country_code":"NZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188839,
+    "gn:latitude":-37.51667,
+    "gn:longitude":175.16667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kimihia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188839
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"15ed509191260c66e90aec54f462ec2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":1259517025,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1259517025,
+    "wof:lastmodified":1536810216,
+    "wof:name":"Kimihia",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.16666999999995,
+    -37.51667,
+    175.16666999999995,
+    -37.51667
+],
+  "geometry": {"coordinates":[175.16666999999995,-37.51667],"type":"Point"}
+}

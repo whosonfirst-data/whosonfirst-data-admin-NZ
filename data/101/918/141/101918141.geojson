@@ -1,0 +1,75 @@
+{
+  "id": 101918141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21582.790675,
+    "geom:bbox":"172.666496252,-43.4091868108,172.669003556,-43.4076843469",
+    "geom:latitude":-43.408317,
+    "geom:longitude":172.667831,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.408435,
+    "lbl:longitude":172.667872,
+    "mps:latitude":-43.408435,
+    "mps:longitude":172.667872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kainga"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kainga",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644073
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b4ce9924f607e7c483d8814c82a82265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101918141,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918141,
+    "wof:lastmodified":1487269997,
+    "wof:name":"Kainga",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914413
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.66649625199716,
+    -43.40918681083848,
+    172.66900355578994,
+    -43.40768434689616
+],
+  "geometry": {"coordinates":[[[172.66839137036698,-43.40918681083848],[172.66803156514814,-43.40914777597846],[172.66751436591832,-43.40911710504128],[172.66673118917265,-43.40803928427825],[172.66649625199716,-43.40768434689616],[172.66684982551121,-43.40768798820287],[172.66781829867875,-43.40773239745003],[172.66782257551938,-43.40773249982715],[172.66782685223598,-43.40773260229379],[172.66783112956816,-43.40773261471769],[172.66900355578994,-43.40772773173144],[172.66887556827803,-43.40798447564525],[172.66839137036698,-43.40918681083848]]],"type":"Polygon"}
+}

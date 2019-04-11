@@ -1,0 +1,78 @@
+{
+  "id": 101915011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26356.732763,
+    "geom:bbox":"174.712099756,-41.2222113118,174.715241706,-41.219830108",
+    "geom:latitude":-41.220727,
+    "geom:longitude":174.713836,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.22066,
+    "lbl:longitude":174.713847,
+    "mps:latitude":-41.220659,
+    "mps:longitude":174.713849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makara Beach"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Makara Beach",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726433,
+        "qs_pg:id":1121105,
+        "wd:id":"Q12061449"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f9285c16a19cfea1f01c68bd54b6bec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101915011,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101915011,
+    "wof:lastmodified":1527643139,
+    "wof:name":"Makara Beach",
+    "wof:parent_id":102079339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.7120997557893,
+    -41.22221131183135,
+    174.71524170626094,
+    -41.21983010796546
+],
+  "geometry": {"coordinates":[[[174.71301156876754,-41.22215382254476],[174.71330958195651,-41.22100631692697],[174.71290983862687,-41.22065699758505],[174.7120997557893,-41.22000795250621],[174.71250882823179,-41.22000637085227],[174.71271200441277,-41.22000812123296],[174.71310728104385,-41.22031464151174],[174.71455549705732,-41.21983010796546],[174.71524170626094,-41.22073322601487],[174.71485591755342,-41.22109901413647],[174.713684347465,-41.22127666808171],[174.71344915371296,-41.22191001496013],[174.71340262077152,-41.22221131183135],[174.71301156876754,-41.22215382254476]]],"type":"Polygon"}
+}

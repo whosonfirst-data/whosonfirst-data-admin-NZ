@@ -1,0 +1,89 @@
+{
+  "id": 101916967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26627.902437,
+    "geom:bbox":"170.264664422,-45.9172308188,170.26849766,-45.9154677869",
+    "geom:latitude":-45.916376,
+    "geom:longitude":170.266875,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.916449,
+    "lbl:longitude":170.267011,
+    "mps:latitude":-45.916449,
+    "mps:longitude":170.267011,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Allanton"
+    ],
+    "name:eng_x_preferred":[
+        "Allanton"
+    ],
+    "name:msa_x_preferred":[
+        "Allanton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Allanton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":346,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cd0ce-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2194000,
+        "gp:id":2348002,
+        "wd:id":"Q4731109",
+        "wk:page":"Allanton, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"72210ad63cbda6e7c99f5448d1e60689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101916967,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101916967,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715562,
+    "wof:name":"Allanton",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915047
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.26466442163135,
+    -45.91723081880339,
+    170.26849765987555,
+    -45.91546778691887
+],
+  "geometry": {"coordinates":[[[170.26680959483144,-45.91723081880339],[170.26624800030734,-45.916528234899],[170.26495312290965,-45.91698749131238],[170.26466442163135,-45.91659389061343],[170.26668530975698,-45.91586693080381],[170.2668576354319,-45.9158050032138],[170.26782301134892,-45.91546778691887],[170.26849765987555,-45.91638238333121],[170.26806543761404,-45.91664597185778],[170.26762549182237,-45.9168956956068],[170.26747644989666,-45.91695548191531],[170.26735354762829,-45.91700482475419],[170.26735278649792,-45.91700516657162],[170.26735213592394,-45.91700542093677],[170.26735137921418,-45.91700567276203],[170.26693522819599,-45.91717785222257],[170.26693479456034,-45.91717802185967],[170.26693435651217,-45.91717828130909],[170.26693392274771,-45.91717845094313],[170.26680959483144,-45.91723081880339]]],"type":"Polygon"}
+}

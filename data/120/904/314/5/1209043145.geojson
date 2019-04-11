@@ -1,0 +1,62 @@
+{
+  "id": 1209043145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.2,-39.96667,175.2,-39.96667",
+    "geom:latitude":-39.96667,
+    "geom:longitude":175.2,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"37.0",
+    "gn:asciiname":"Fordell",
+    "gn:country_code":"NZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2191000,
+    "gn:latitude":-39.96667,
+    "gn:longitude":175.2,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Fordell",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191000
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"da4b71ee9083d2f6376a350b86b1e2ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209043145
+        }
+    ],
+    "wof:id":1209043145,
+    "wof:lastmodified":1536299480,
+    "wof:name":"Fordell",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.2,
+    -39.96667,
+    175.2,
+    -39.96667
+],
+  "geometry": {"coordinates":[175.19999999999999,-39.96667],"type":"Point"}
+}

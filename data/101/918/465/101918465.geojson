@@ -1,0 +1,80 @@
+{
+  "id": 101918465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23824.929526,
+    "geom:bbox":"174.482912913,-36.7703933853,174.486116777,-36.7691707684",
+    "geom:latitude":-36.769772,
+    "geom:longitude":174.484428,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.769819,
+    "lbl:longitude":174.484425,
+    "mps:latitude":-36.769819,
+    "mps:longitude":174.484425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waimauku"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waimauku",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":295,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180167,
+        "gp:id":2351141,
+        "qs:id":906628,
+        "wd:id":"Q7960112",
+        "wk:page":"Waimauku"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"bd3cee1b450f04f728c50e2463fdcf79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101918465,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101918465,
+    "wof:lastmodified":1527715672,
+    "wof:name":"Waimauku",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915941
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.48291291255495,
+    -36.77039338529757,
+    174.4861167768808,
+    -36.76917076842071
+],
+  "geometry": {"coordinates":[[[174.48291291255495,-36.76917076842071],[174.48358816546644,-36.76923273255919],[174.48506365686623,-36.76945151823917],[174.48587034208549,-36.76961195256629],[174.48611677688081,-36.76966168469584],[174.48599503041061,-36.76991166863636],[174.48519962125076,-36.77039338529757],[174.48470887904779,-36.77033732853265],[174.48370639365751,-36.77013733253413],[174.48347521836834,-36.76994456365637],[174.48305156491571,-36.76983151793509],[174.4829357975394,-36.76961063321461],[174.48291291255495,-36.76917076842071]]],"type":"Polygon"}
+}

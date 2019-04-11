@@ -1,0 +1,90 @@
+{
+  "id": 101918401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19976.965341,
+    "geom:bbox":"175.789679135,-38.0690823876,175.79134019,-38.0671397494",
+    "geom:latitude":-38.068129,
+    "geom:longitude":175.790359,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.0682,
+    "lbl:longitude":175.790372,
+    "mps:latitude":-38.0682,
+    "mps:longitude":175.790372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Putaruru"
+    ],
+    "name:eng_x_preferred":[
+        "Putaruru"
+    ],
+    "name:msa_x_preferred":[
+        "Putaruru"
+    ],
+    "name:nld_x_preferred":[
+        "Putaruru"
+    ],
+    "name:pol_x_preferred":[
+        "Putaruru"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Putaruru",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":815,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6235878,
+        "wd:id":"Q827402",
+        "wk:page":"Putaruru"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8e3fa536f4b2416224a0aaf038de1db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101918401,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918401,
+    "wof:lastmodified":1527715671,
+    "wof:name":"Putaruru",
+    "wof:parent_id":102079277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915689
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.78967913475623,
+    -38.06908238760607,
+    175.791340190457,
+    -38.06713974938811
+],
+  "geometry": {"coordinates":[[[175.78990703969956,-38.06728764058255],[175.7905979079583,-38.06713974938811],[175.79100790500763,-38.06807255475287],[175.79101171676189,-38.06808237675271],[175.79134019045699,-38.06857095199398],[175.78995103711009,-38.06908238760607],[175.78970326379908,-38.06852959815896],[175.78967913475623,-38.06795141791168],[175.789813621669,-38.06743330461914],[175.78990703969956,-38.06728764058255]]],"type":"Polygon"}
+}

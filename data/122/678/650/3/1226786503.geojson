@@ -1,0 +1,72 @@
+{
+  "id": 1226786503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.71667,-43.83333,171.71667,-43.83333",
+    "geom:latitude":-43.83333,
+    "geom:longitude":171.71667,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Winchmore",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179036,
+    "gn:latitude":-43.83333,
+    "gn:longitude":171.71667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Winchmore",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wynchmore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179036
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d6585b153ee3838f93fff10a2df2927a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":1226786503,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1226786503,
+    "wof:lastmodified":1537676139,
+    "wof:name":"Winchmore",
+    "wof:parent_id":102079371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.71667,
+    -43.83333,
+    171.71667,
+    -43.83333
+],
+  "geometry": {"coordinates":[171.71666999999999,-43.83333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344090817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.12277,-40.54668,176.12277,-40.54668",
+    "geom:latitude":-40.54668,
+    "geom:longitude":176.12277,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Mangatiti",
+    "gn:country_code":"NZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187510,
+    "gn:latitude":-40.54668,
+    "gn:longitude":176.12277,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Mangatiti",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187510
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0021d6d6db19ff7555b97ef6048df443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":1344090817,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1344090817,
+    "wof:lastmodified":1536830870,
+    "wof:name":"Mangatiti",
+    "wof:parent_id":102079309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.12277,
+    -40.54668,
+    176.12277,
+    -40.54668
+],
+  "geometry": {"coordinates":[176.12277,-40.54668],"type":"Point"}
+}

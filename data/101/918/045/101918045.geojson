@@ -1,0 +1,98 @@
+{
+  "id": 101918045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7659.483934,
+    "geom:bbox":"174.790211155,-41.3426491763,174.791220554,-41.340398637",
+    "geom:latitude":-41.341502,
+    "geom:longitude":174.790581,
+    "gn:population":381900,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.341415,
+    "lbl:longitude":174.790425,
+    "mps:latitude":-41.341415,
+    "mps:longitude":174.790425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:chi_x_preferred":[
+        "\u5a01\u9748\u9813"
+    ],
+    "name:chi_x_variant":[
+        "\u60e0\u7075\u987f"
+    ],
+    "name:eng_x_preferred":[
+        "Wellington"
+    ],
+    "name:eng_x_variant":[
+        "WLG"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30ea\u30f3\u30c8\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6f0\ub9c1\ud134"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wellington",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020e116e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179537,
+        "gp:id":2351310,
+        "wd:id":"Q23661",
+        "wk:page":"Wellington"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"62ed667545c25b43374f0050e18039bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101918045,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918045,
+    "wof:lastmodified":1505338686,
+    "wof:name":"Wellington",
+    "wof:parent_id":102079339,
+    "wof:placetype":"locality",
+    "wof:population":381900,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914285
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.79021115513555,
+    -41.34264917634211,
+    174.79122055416877,
+    -41.34039863697345
+],
+  "geometry": {"coordinates":[[[174.79052316085421,-41.34264917634211],[174.79026018695907,-41.34196436297455],[174.79021115513555,-41.34158113976426],[174.79025192033478,-41.34137122226888],[174.79029804783281,-41.34113042321822],[174.79061253022053,-41.34066319722788],[174.79099918117143,-41.34039863697345],[174.79122055416877,-41.34061194847467],[174.79090239315525,-41.34082969645353],[174.79064434898731,-41.34121301603177],[174.79060658666756,-41.34141018948446],[174.79057213560347,-41.34158794992243],[174.79061367315532,-41.34191338543857],[174.79086221449469,-41.34256051034739],[174.79052316085421,-41.34264917634211]]],"type":"Polygon"}
+}

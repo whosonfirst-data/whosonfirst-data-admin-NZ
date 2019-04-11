@@ -1,0 +1,82 @@
+{
+  "id": 1125921273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.744415,-36.724025,174.744415,-36.724025",
+    "geom:latitude":-36.724025,
+    "geom:longitude":174.744415,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.724025,
+    "lbl:longitude":174.744415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"East Coast Bays",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Auckland Region",
+    "qs_pg:photos":114,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1967,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1135522,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348457,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Auckland Region",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2348457,
+        "qs_pg:id":1135522
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296489,
+    "wof:geomhash":"2079e5eed5cd58183c5acb45475a2fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1125921273,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1125921273,
+    "wof:lastmodified":1509400819,
+    "wof:name":"East Coast Bays",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.744415,
+    -36.724025,
+    174.744415,
+    -36.724025
+],
+  "geometry": {"coordinates":[174.744415,-36.724025],"type":"Point"}
+}

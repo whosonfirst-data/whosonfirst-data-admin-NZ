@@ -1,0 +1,62 @@
+{
+  "id": 1209040707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.17637,-37.76559,176.17637,-37.76559",
+    "geom:latitude":-37.76559,
+    "geom:longitude":176.17637,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Ohauiti",
+    "gn:country_code":"NZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6245062,
+    "gn:latitude":-37.76559,
+    "gn:longitude":176.17637,
+    "gn:modification_date":"2015-03-07",
+    "gn:name":"Ohauiti",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6245062
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f597d701ab157e8a8cb56b053ea9ed4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209040707
+        }
+    ],
+    "wof:id":1209040707,
+    "wof:lastmodified":1536299555,
+    "wof:name":"Ohauiti",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.17637,
+    -37.76559,
+    176.17637,
+    -37.76559
+],
+  "geometry": {"coordinates":[176.17636999999999,-37.76559],"type":"Point"}
+}

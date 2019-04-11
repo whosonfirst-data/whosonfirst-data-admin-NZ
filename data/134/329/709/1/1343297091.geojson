@@ -1,0 +1,68 @@
+{
+  "id": 1343297091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.21667,-35.51667,174.21667,-35.51667",
+    "geom:latitude":-35.51667,
+    "geom:longitude":174.21667,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Waiotu",
+    "gn:country_code":"NZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180069,
+    "gn:latitude":-35.51667,
+    "gn:longitude":174.21667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Waiotu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180069
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"dc8736d8ae4214284ece4d2a52a6ca2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1343297091,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1343297091,
+    "wof:lastmodified":1536981303,
+    "wof:name":"Waiotu",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.21667,
+    -35.51667,
+    174.21667,
+    -35.51667
+],
+  "geometry": {"coordinates":[174.21666999999999,-35.51667],"type":"Point"}
+}

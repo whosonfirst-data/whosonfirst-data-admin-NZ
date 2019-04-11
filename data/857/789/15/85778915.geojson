@@ -1,0 +1,102 @@
+{
+  "id": 85778915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9621695.200625,
+    "geom:bbox":"175.559257,-40.233738,175.559257,-40.233738",
+    "geom:latitude":-40.233738,
+    "geom:longitude":175.559257,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-40.233738,
+    "lbl:longitude":175.559257,
+    "mps:latitude":-40.229729,
+    "mps:longitude":175.570278,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Feilding South"
+    ],
+    "name:unk_x_variant":[
+        "Feilding South"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1708,
+    "qs:local_sum":1762,
+    "qs:localhoods":3,
+    "qs:name":"Feilding South",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Manawatu Wanganui",
+    "qs:name_adm2":"Manawatu District",
+    "qs:name_local":"Feilding",
+    "qs:photo_max":1116,
+    "qs:photo_sum":1708,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021764,
+    "qs:woe_adm2":55875874,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348519,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079303,
+        85687251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726642,
+        "qs:id":1087595
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"eb7dccb3d8db917e2eccdb9fd1baa856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":-1,
+            "neighbourhood_id":85778915,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":85778915,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859863,
+    "wof:name":"Feilding South",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.559257,
+    -40.233738,
+    175.559257,
+    -40.233738
+],
+  "geometry": {"coordinates":[175.559257,-40.233738],"type":"Point"}
+}

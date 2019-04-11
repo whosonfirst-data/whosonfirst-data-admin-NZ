@@ -1,0 +1,87 @@
+{
+  "id": 101917299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":46404.448557,
+    "geom:bbox":"171.192417948,-42.4715201634,171.196591623,-42.4692995147",
+    "geom:latitude":-42.470244,
+    "geom:longitude":171.194648,
+    "gn:population":9419,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.470149,
+    "lbl:longitude":171.195021,
+    "mps:latitude":-42.470149,
+    "mps:longitude":171.195021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Greymouth"
+    ],
+    "name:eng_x_variant":[
+        "GMN"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Greymouth",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1579,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd62c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206895,
+        "gp:id":2348669,
+        "wd:id":"Q934790",
+        "wk:page":"Greymouth"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"030a5c6028440388c6dcf49e60678626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":101917299,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101917299,
+    "wof:lastmodified":1527715915,
+    "wof:name":"Greymouth",
+    "wof:parent_id":102079361,
+    "wof:placetype":"locality",
+    "wof:population":9419,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915333
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.19241794755254,
+    -42.47152016337439,
+    171.196591622553,
+    -42.46929951473417
+],
+  "geometry": {"coordinates":[[[171.196591622553,-42.46981779254462],[171.1958341606952,-42.47123464107059],[171.19550114489167,-42.47152016337439],[171.19454589765772,-42.47082697141774],[171.194318718483,-42.47094400412917],[171.19418288122617,-42.47101477129797],[171.19329620615363,-42.47059907686558],[171.19241794755254,-42.47018711110023],[171.19247472442078,-42.46936417042464],[171.19382293486993,-42.46996730055123],[171.19398300388815,-42.469899620992],[171.19431234252576,-42.46978241525829],[171.19419125583866,-42.46959680958707],[171.19418308667281,-42.46958497455813],[171.1940247482282,-42.46942578674956],[171.19404997559619,-42.46939467538454],[171.19424980374473,-42.46938165145944],[171.19425588173962,-42.46938174823611],[171.19497215404857,-42.46929951473417],[171.19626795716749,-42.46973971323687],[171.196591622553,-42.46981779254462]]],"type":"Polygon"}
+}

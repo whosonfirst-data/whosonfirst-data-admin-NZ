@@ -1,0 +1,68 @@
+{
+  "id": 1259520161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.56667,-45.43333,170.56667,-45.43333",
+    "geom:latitude":-45.43333,
+    "geom:longitude":170.56667,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Stoneburn",
+    "gn:country_code":"NZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182305,
+    "gn:latitude":-45.43333,
+    "gn:longitude":170.56667,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Stoneburn",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182305,
+        "wk:page":"Stoneburn"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5420dc482cbab63af4531c6517ec2a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1259520161,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1259520161,
+    "wof:lastmodified":1537570168,
+    "wof:name":"Stoneburn",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.56667,
+    -45.43333,
+    170.56667,
+    -45.43333
+],
+  "geometry": {"coordinates":[170.56666999999999,-45.43333],"type":"Point"}
+}

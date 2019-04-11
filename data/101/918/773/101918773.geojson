@@ -1,0 +1,78 @@
+{
+  "id": 101918773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4180.58969,
+    "geom:bbox":"175.763882253,-38.9628000553,175.765095808,-38.9621773216",
+    "geom:latitude":-38.962492,
+    "geom:longitude":175.764512,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.962496,
+    "lbl:longitude":175.764503,
+    "mps:latitude":-38.962496,
+    "mps:longitude":175.764503,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tokaanu"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tokaanu",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":196,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181026,
+        "wd:id":"Q7813449",
+        "wk:page":"Tokaanu"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"88332312c9befa3b1c8f7a261956e7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":101918773,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918773,
+    "wof:lastmodified":1527715679,
+    "wof:name":"Tokaanu",
+    "wof:parent_id":102079281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101918373
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.76388225305377,
+    -38.96280005529275,
+    175.76509580840425,
+    -38.96217732158577
+],
+  "geometry": {"coordinates":[[[175.76509580840425,-38.96258726544907],[175.76507865054495,-38.96259128892805],[175.7642048947942,-38.96280005529275],[175.76416953595586,-38.96278198678724],[175.76395632014174,-38.96247349121551],[175.76394161568186,-38.96245221565989],[175.76388225305377,-38.96241129502096],[175.76486583628471,-38.96217732158577],[175.76509580840425,-38.96258726544907]]],"type":"Polygon"}
+}

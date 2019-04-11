@@ -1,0 +1,112 @@
+{
+  "id": 85781271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3684078.534255,
+    "geom:bbox":"174.802252,-36.816281,174.802252,-36.816281",
+    "geom:latitude":-36.816281,
+    "geom:longitude":174.802252,
+    "gn:latitude":-36.8182,
+    "gn:longitude":174.80019,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.816281,
+    "lbl:longitude":174.802252,
+    "mps:latitude":-36.808769,
+    "mps:longitude":174.813775,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:unk_x_variant":[
+        "Vauxhall"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Vauxhall",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Vauxhall",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":244,
+    "qs:photo_sum":815,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":252,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914729,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232159,
+        "gp:id":28644222,
+        "qs:id":1086327,
+        "qs_pg:id":1086327,
+        "wd:id":"Q7917451",
+        "wk:page":"Vauxhall, Auckland"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"de6242eda111742d88d7ba431a29bd12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914729,
+            "neighbourhood_id":85781271,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781271,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860176,
+    "wof:name":"Vauxhall",
+    "wof:parent_id":101914729,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.802252,
+    -36.816281,
+    174.802252,
+    -36.816281
+],
+  "geometry": {"coordinates":[174.80225200000001,-36.816281],"type":"Point"}
+}

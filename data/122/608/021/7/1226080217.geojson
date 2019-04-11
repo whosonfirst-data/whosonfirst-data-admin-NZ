@@ -1,0 +1,68 @@
+{
+  "id": 1226080217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.98333,-38.36667,174.98333,-38.36667",
+    "geom:latitude":-38.36667,
+    "geom:longitude":174.98333,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Mairoa",
+    "gn:country_code":"NZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187988,
+    "gn:latitude":-38.36667,
+    "gn:longitude":174.98333,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Mairoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187988
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c6d6c734f2dc48586753173386bb6703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079279,
+            "locality_id":1226080217,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1226080217,
+    "wof:lastmodified":1536675444,
+    "wof:name":"Mairoa",
+    "wof:parent_id":102079279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.98333,
+    -38.36667,
+    174.98333,
+    -38.36667
+],
+  "geometry": {"coordinates":[174.98333,-38.36667],"type":"Point"}
+}

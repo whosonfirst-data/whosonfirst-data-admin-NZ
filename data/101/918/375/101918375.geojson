@@ -1,0 +1,84 @@
+{
+  "id": 101918375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26458.817719,
+    "geom:bbox":"176.867588333,-39.6651851631,176.871275272,-39.6623800244",
+    "geom:latitude":-39.663774,
+    "geom:longitude":176.869458,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.663781,
+    "lbl:longitude":176.869466,
+    "mps:latitude":-39.663781,
+    "mps:longitude":176.869466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Havelock North"
+    ],
+    "name:eng_x_variant":[
+        "Havelock North Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Havelock North",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1026,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ddd48-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2190169,
+        "gp:id":2348726,
+        "qs:id":461520,
+        "wd:id":"Q847452",
+        "wk:page":"Havelock North"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"399b675d950395ddfd3f4990903c2599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101918375,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918375,
+    "wof:lastmodified":1527715679,
+    "wof:name":"Havelock North",
+    "wof:parent_id":102079329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914661
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.86758833302167,
+    -39.66518516305018,
+    176.87127527188787,
+    -39.66238002438554
+],
+  "geometry": {"coordinates":[[[176.87069423234456,-39.66518516305018],[176.86947940920916,-39.66424151899287],[176.86854406790314,-39.66351746266089],[176.86758833302167,-39.66278142414799],[176.86759146092254,-39.66277935560362],[176.86819529196319,-39.66238002438554],[176.87126278315355,-39.66467649126505],[176.87127527188787,-39.66468584045305],[176.87116511050124,-39.66476366661583],[176.87069423234456,-39.66518516305018]]],"type":"Polygon"}
+}

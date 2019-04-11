@@ -1,0 +1,82 @@
+{
+  "id": 1125832495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.181616,-42.535059,171.181616,-42.535059",
+    "geom:latitude":-42.535059,
+    "geom:longitude":171.181616,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.535059,
+    "lbl:longitude":171.181616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Shantytown",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"West Coast",
+    "qs_pg:photos":260,
+    "qs_pg:photos_1k":53,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":260,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091336,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644478,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"West Coast",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644478,
+        "qs_pg:id":1091336
+    },
+    "wof:country":"NZ",
+    "wof:created":1497292560,
+    "wof:geomhash":"20eca152997de72a718a7e9f85b11b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":1125832495,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1125832495,
+    "wof:lastmodified":1509394789,
+    "wof:name":"Shantytown",
+    "wof:parent_id":102079361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.181616,
+    -42.535059,
+    171.181616,
+    -42.535059
+],
+  "geometry": {"coordinates":[171.18161599999999,-42.535059],"type":"Point"}
+}

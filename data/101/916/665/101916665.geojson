@@ -1,0 +1,95 @@
+{
+  "id": 101916665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":37480.057573,
+    "geom:bbox":"174.632286163,-37.0434533977,174.638308078,-37.0407888906",
+    "geom:latitude":-37.042033,
+    "geom:longitude":174.635306,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.042382,
+    "lbl:longitude":174.636584,
+    "mps:latitude":-37.042395,
+    "mps:longitude":174.636615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Big Bay"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Big Bay",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Big Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Waikato",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1286873,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28645489,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28645489,
+        "qs_pg:id":1286873
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a1e336d13b26904c65671e342b60800c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101916665,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101916665,
+    "wof:lastmodified":1534379390,
+    "wof:name":"Big Bay",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125948449
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.63228616268935,
+    -37.04345339773069,
+    174.6383080779258,
+    -37.04078889057069
+],
+  "geometry": {"coordinates":[[[174.63228616268935,-37.04147688734347],[174.63293608514007,-37.04084461524101],[174.63299089064776,-37.04078889057069],[174.63329010806399,-37.04080324455393],[174.63394695371531,-37.04124288201507],[174.63567773901536,-37.04186893862597],[174.63655300983942,-37.04203484325245],[174.63669458091405,-37.04207776729555],[174.63830807792581,-37.04270612417239],[174.63810950007641,-37.04345339773069],[174.6378937293257,-37.04337058782209],[174.63725970646939,-37.04306303688828],[174.63643800912459,-37.04264650927976],[174.63643575945432,-37.04264536885147],[174.63643313702013,-37.04264414343228],[174.63643032740538,-37.04264283046191],[174.63572987010659,-37.04232807729697],[174.63572771899021,-37.04232720580623],[174.63572537853824,-37.04232615674954],[174.63572266543511,-37.04232502260802],[174.63514443815183,-37.04209355897736],[174.63513201203929,-37.04208913445404],[174.63511885791345,-37.04208535071914],[174.63427187981861,-37.04185082848688],[174.63380275556875,-37.04157036426187],[174.63330013808618,-37.04211509341153],[174.63245241514235,-37.0415814760191],[174.63228616268935,-37.04147688734347]]],"type":"Polygon"}
+}

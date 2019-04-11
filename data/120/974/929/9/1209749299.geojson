@@ -1,0 +1,68 @@
+{
+  "id": 1209749299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.43333,-40.41667,175.43333,-40.41667",
+    "geom:latitude":-40.41667,
+    "geom:longitude":175.43333,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Rangiotu",
+    "gn:country_code":"NZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183734,
+    "gn:latitude":-40.41667,
+    "gn:longitude":175.43333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Rangiotu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183734
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"644b275aea2f5a68956997fd6db63c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":1209749299,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1209749299,
+    "wof:lastmodified":1536393532,
+    "wof:name":"Rangiotu",
+    "wof:parent_id":102079303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.43333,
+    -40.41667,
+    175.43333,
+    -40.41667
+],
+  "geometry": {"coordinates":[175.43333000000001,-40.41667],"type":"Point"}
+}

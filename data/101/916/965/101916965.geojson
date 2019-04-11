@@ -1,0 +1,113 @@
+{
+  "id": 101916965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":142871.730069,
+    "geom:bbox":"169.751812054,-46.2406931197,169.758162108,-46.2360803203",
+    "geom:latitude":-46.238332,
+    "geom:longitude":169.754916,
+    "gn:population":4441,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.23829,
+    "lbl:longitude":169.754917,
+    "mps:latitude":-46.23829,
+    "mps:longitude":169.754917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:cat_x_preferred":[
+        "Balclutha"
+    ],
+    "name:deu_x_preferred":[
+        "Balclutha"
+    ],
+    "name:eng_x_preferred":[
+        "Balclutha"
+    ],
+    "name:eus_x_preferred":[
+        "Balclutha"
+    ],
+    "name:fra_x_preferred":[
+        "Balclutha"
+    ],
+    "name:gla_x_preferred":[
+        "Baile Chluaidh"
+    ],
+    "name:msa_x_preferred":[
+        "Balclutha"
+    ],
+    "name:nld_x_preferred":[
+        "Balclutha"
+    ],
+    "name:pol_x_preferred":[
+        "Balclutha"
+    ],
+    "name:spa_x_preferred":[
+        "Balclutha"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Balclutha",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-46.233333,
+    "wd:longitude":169.75,
+    "wd:wordcount":716,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df5e4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2208248,
+        "gp:id":2348123,
+        "wd:id":"Q804717",
+        "wk:page":"Balclutha, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9629d1a96f5f266a499601c1ab646d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101916965,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101916965,
+    "wof:lastmodified":1527715554,
+    "wof:name":"Balclutha",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:population":4441,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914847
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.75181205364504,
+    -46.24069311969179,
+    169.75816210774556,
+    -46.23608032025111
+],
+  "geometry": {"coordinates":[[[169.75797777923168,-46.23965759798524],[169.75816210774556,-46.23984084094052],[169.75492364267836,-46.24069311969179],[169.75394165995431,-46.23983556023946],[169.75331959099353,-46.23924612510887],[169.75315569365696,-46.2390229139773],[169.75312916533684,-46.23898708389518],[169.75311267786373,-46.23898033518551],[169.7526305362048,-46.23816421035486],[169.75246942733105,-46.23789155717575],[169.75246360765993,-46.23787969570341],[169.75193419180707,-46.23730446556043],[169.75192562959839,-46.23729523055631],[169.75181205364504,-46.23680059090834],[169.75420350183055,-46.23608032025111],[169.75476242128522,-46.23647717990134],[169.75608763281232,-46.23642122366881],[169.75621380989494,-46.23671543343748],[169.75673802888352,-46.23793781273931],[169.75678293030222,-46.23799304524394],[169.75693875226577,-46.23810619676595],[169.75731901052055,-46.23865846048324],[169.7576759873111,-46.2393019226452],[169.75774664678644,-46.23942987471781],[169.75797777923168,-46.23965759798524]]],"type":"Polygon"}
+}

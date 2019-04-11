@@ -1,0 +1,68 @@
+{
+  "id": 1309834831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.53952,-34.97389,173.53952,-34.97389",
+    "geom:latitude":-34.97389,
+    "geom:longitude":173.53952,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Hihi",
+    "gn:country_code":"NZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6228727,
+    "gn:latitude":-34.97389,
+    "gn:longitude":173.53952,
+    "gn:modification_date":"2017-06-05",
+    "gn:name":"Hihi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6228727
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"68f7a4e5ddce3094ae88ddced2140c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1309834831,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1309834831,
+    "wof:lastmodified":1536888993,
+    "wof:name":"Hihi",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.53951999999995,
+    -34.97389,
+    173.53951999999995,
+    -34.97389
+],
+  "geometry": {"coordinates":[173.53951999999995,-34.97389],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276801687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.9,-43.46667,171.9,-43.46667",
+    "geom:latitude":-43.46667,
+    "geom:longitude":171.9,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"South Malvern",
+    "gn:country_code":"NZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182498,
+    "gn:latitude":-43.46667,
+    "gn:longitude":171.9,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"South Malvern",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182498
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"78462564b3f835a33c4652ff75ef1193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":1276801687,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1276801687,
+    "wof:lastmodified":1536647994,
+    "wof:name":"South Malvern",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.9,
+    -43.46667,
+    171.9,
+    -43.46667
+],
+  "geometry": {"coordinates":[171.90000000000001,-43.46667],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1125848091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.56667,-39.93333,175.56667,-39.93333",
+    "geom:latitude":-39.93333,
+    "geom:longitude":175.56667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":520,
+    "gn:population":520,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.93333,
+    "lbl:longitude":175.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u043d\u0442\u0435\u0440\u0432\u0438\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Hunterville"
+    ],
+    "name:eng_x_preferred":[
+        "Hunterville"
+    ],
+    "name:may_x_preferred":[
+        "Hunterville"
+    ],
+    "name:unk_x_variant":[
+        "Hunterville Town District"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2189630,
+    "qs_pg:gn_pop":520,
+    "qs_pg:name":"Hunterville",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Manawatu Wanganui",
+    "qs_pg:photos":62,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":62,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1250651,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348865,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Manawatu Wanganui",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189630,
+        "gp:id":2348865,
+        "qs_pg:id":1250651,
+        "wd:id":"Q5944849"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497293258,
+    "wof:geomhash":"9bec158c9aa708c055154826bd2df280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":1125848091,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1125848091,
+    "wof:lastmodified":1514494202,
+    "wof:name":"Hunterville",
+    "wof:parent_id":102079301,
+    "wof:placetype":"locality",
+    "wof:population":520,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.56667,
+    -39.93333,
+    175.56667,
+    -39.93333
+],
+  "geometry": {"coordinates":[175.56666999999999,-39.93333],"type":"Point"}
+}

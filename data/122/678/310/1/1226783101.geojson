@@ -1,0 +1,69 @@
+{
+  "id": 1226783101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.56667,-38.76667,177.56667,-38.76667",
+    "geom:latitude":-38.76667,
+    "geom:longitude":177.56667,
+    "gn:admin1_code":"F1",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Tiniroto",
+    "gn:country_code":"NZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181120,
+    "gn:latitude":-38.76667,
+    "gn:longitude":177.56667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Tiniroto",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181120,
+        "wk:page":"Tiniroto"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5686e8e67e48f59fdf9587ec77a11541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":1226783101,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1226783101,
+    "wof:lastmodified":1537570167,
+    "wof:name":"Tiniroto",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.56667,
+    -38.76667,
+    177.56667,
+    -38.76667
+],
+  "geometry": {"coordinates":[177.56666999999999,-38.76667],"type":"Point"}
+}

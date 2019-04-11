@@ -1,0 +1,82 @@
+{
+  "id": 1125929749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.731692,-45.029376,168.731692,-45.029376",
+    "geom:latitude":-45.029376,
+    "geom:longitude":168.731692,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.029376,
+    "lbl:longitude":168.731692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kawarau Falls",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Otago",
+    "qs_pg:photos":158,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":158,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":219775,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644792,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Otago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644792,
+        "qs_pg:id":219775
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296763,
+    "wof:geomhash":"b200c6bc60d7814c65adbbeec2514e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":1125929749,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1125929749,
+    "wof:lastmodified":1509401333,
+    "wof:name":"Kawarau Falls",
+    "wof:parent_id":102079385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.731692,
+    -45.029376,
+    168.731692,
+    -45.029376
+],
+  "geometry": {"coordinates":[168.73169200000001,-45.029376],"type":"Point"}
+}

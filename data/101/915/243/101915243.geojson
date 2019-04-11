@@ -1,0 +1,82 @@
+{
+  "id": 101915243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":96069.945393,
+    "geom:bbox":"174.794010212,-36.9614132615,174.798253214,-36.9570513822",
+    "geom:latitude":-36.959344,
+    "geom:longitude":174.796287,
+    "gn:population":55266,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.959383,
+    "lbl:longitude":174.796323,
+    "mps:latitude":-36.959383,
+    "mps:longitude":174.796323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Mangere"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mangere",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":539,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187454,
+        "wd:id":"Q742714",
+        "wk:page":"M\u0101ngere"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"21eac45ef075a0c7fa22a384e27d4272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915243,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101915243,
+    "wof:lastmodified":1527643130,
+    "wof:name":"Mangere",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:population":55266,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914267
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.79401021164108,
+    -36.96141326149829,
+    174.79825321383777,
+    -36.95705138217006
+],
+  "geometry": {"coordinates":[[[174.7965053929031,-36.95705138217006],[174.79721360099066,-36.95847834430408],[174.79748406834767,-36.95876369593628],[174.79781839836571,-36.9597994517453],[174.79745894481817,-36.9598615769223],[174.79762509857062,-36.96025565330651],[174.79800049661449,-36.96020590213224],[174.7981574261901,-36.96055415922748],[174.79825321383777,-36.9609449750569],[174.79757929752793,-36.96125787554979],[174.79692944759725,-36.96136161350834],[174.79642850125663,-36.96141326149829],[174.79545878504152,-36.96026041334699],[174.79492224732769,-36.95974262090549],[174.79401021164108,-36.95875686089411],[174.79502999983615,-36.95815489133747],[174.79559932768021,-36.9576205546694],[174.79533925419599,-36.95734747713787],[174.79569593992241,-36.95723890140604],[174.7965053929031,-36.95705138217006]]],"type":"Polygon"}
+}

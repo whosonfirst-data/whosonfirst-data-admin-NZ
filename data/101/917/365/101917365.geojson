@@ -1,0 +1,84 @@
+{
+  "id": 101917365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":32560.05695,
+    "geom:bbox":"175.1544572,-37.7960217033,175.157044179,-37.7925677535",
+    "geom:latitude":-37.794326,
+    "geom:longitude":175.155759,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.794346,
+    "lbl:longitude":175.155753,
+    "mps:latitude":-37.794346,
+    "mps:longitude":175.155753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Whatawhata"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Whatawhata",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":532,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de7ca-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179191,
+        "gp:id":2351395,
+        "qs:id":271423,
+        "qs_pg:id":271423,
+        "wd:id":"Q16903179",
+        "wk:page":"Whatawhata"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"67fa69ef524df1d218574404e1255487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101917365,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101917365,
+    "wof:lastmodified":1527715904,
+    "wof:name":"Whatawhata",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914539
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.15445719988833,
+    -37.79602170330538,
+    175.15704417880096,
+    -37.79256775353994
+],
+  "geometry": {"coordinates":[[[175.15704417880096,-37.79288789904869],[175.15631704945039,-37.79423791440195],[175.15631594069518,-37.7942388343333],[175.15549842168102,-37.79586191959957],[175.15549522455353,-37.79586828543685],[175.15543977003375,-37.79602170330538],[175.15445719988833,-37.79580110675411],[175.15504903520363,-37.79466556722691],[175.15548977662635,-37.79389621836415],[175.15549302938527,-37.79389164797324],[175.15570139924327,-37.79343148815121],[175.15613973345305,-37.79262162138448],[175.15617554137248,-37.79256775353994],[175.15704417880096,-37.79288789904869]]],"type":"Polygon"}
+}

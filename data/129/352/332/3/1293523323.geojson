@@ -1,0 +1,68 @@
+{
+  "id": 1293523323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.52835,-39.96587,175.52835,-39.96587",
+    "geom:latitude":-39.96587,
+    "geom:longitude":175.52835,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Silverhope",
+    "gn:country_code":"NZ",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182719,
+    "gn:latitude":-39.96587,
+    "gn:longitude":175.52835,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Silverhope",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182719
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3f84f5b7c3e2123bfd6a2653b539baac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":1293523323,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1293523323,
+    "wof:lastmodified":1536735518,
+    "wof:name":"Silverhope",
+    "wof:parent_id":102079301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.52835,
+    -39.96587,
+    175.52835,
+    -39.96587
+],
+  "geometry": {"coordinates":[175.52834999999999,-39.96587],"type":"Point"}
+}

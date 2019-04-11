@@ -1,0 +1,68 @@
+{
+  "id": 1293032155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.83987,-37.787,175.83987,-37.787",
+    "geom:latitude":-37.787,
+    "geom:longitude":175.83987,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Okauia",
+    "gn:country_code":"NZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185756,
+    "gn:latitude":-37.787,
+    "gn:longitude":175.83987,
+    "gn:modification_date":"2015-03-18",
+    "gn:name":"Okauia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185756
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e1be0b1994849cdf66b5e2d01bf95573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":1293032155,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1293032155,
+    "wof:lastmodified":1536946975,
+    "wof:name":"Okauia",
+    "wof:parent_id":102079267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.83987,
+    -37.787,
+    175.83987,
+    -37.787
+],
+  "geometry": {"coordinates":[175.83986999999999,-37.787],"type":"Point"}
+}

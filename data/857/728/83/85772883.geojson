@@ -1,0 +1,103 @@
+{
+  "id": 85772883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1585210.861805,
+    "geom:bbox":"174.718861,-36.815368,174.718861,-36.815368",
+    "geom:latitude":-36.815368,
+    "geom:longitude":174.718861,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.815368,
+    "lbl:longitude":174.718861,
+    "mps:latitude":-36.825451,
+    "mps:longitude":174.721133,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:note":"???",
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Chelsea"
+    ],
+    "name:unk_x_variant":[
+        "Chelsea"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Chelsea",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":117,
+    "qs:photo_sum":228,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2348319
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9d05fa63a96b033836bf4f1575d878a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772883,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85772883,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859593,
+    "wof:name":"Chelsea",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.718861,
+    -36.815368,
+    174.718861,
+    -36.815368
+],
+  "geometry": {"coordinates":[174.718861,-36.815368],"type":"Point"}
+}

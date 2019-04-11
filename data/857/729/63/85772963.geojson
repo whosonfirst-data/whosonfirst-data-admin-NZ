@@ -1,0 +1,113 @@
+{
+  "id": 85772963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8245824.40785,
+    "geom:bbox":"174.648326,-36.799605,174.648326,-36.799605",
+    "geom:latitude":-36.799605,
+    "geom:longitude":174.648326,
+    "gn:latitude":-36.8,
+    "gn:longitude":174.66667,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.799605,
+    "lbl:longitude":174.648326,
+    "mps:latitude":-36.796236,
+    "mps:longitude":174.657452,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Hobsonville"
+    ],
+    "name:unk_x_variant":[
+        "Hobsonville"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":7302484,
+    "qs:gn_nam_loc":"waitakere",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Hobsonville",
+    "qs:local_max":282,
+    "qs:local_sum":2234,
+    "qs:localhoods":18,
+    "qs:name":"Hobsonville",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Waitakere",
+    "qs:photo_max":25,
+    "qs:photo_sum":157,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":28644854,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1215,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189900,
+        "gp:id":2348802,
+        "qs:id":1171291,
+        "qs_pg:id":1171291,
+        "wd:id":"Q12858484"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8356bc196492eacb38aca1006e7e6a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772963,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85772963,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859612,
+    "wof:name":"Hobsonville",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.648326,
+    -36.799605,
+    174.648326,
+    -36.799605
+],
+  "geometry": {"coordinates":[174.648326,-36.799605],"type":"Point"}
+}

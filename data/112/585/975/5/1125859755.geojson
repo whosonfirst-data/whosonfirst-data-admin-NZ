@@ -1,0 +1,105 @@
+{
+  "id": 1125859755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.18333,-43.66667,172.18333,-43.66667",
+    "geom:latitude":-43.66667,
+    "geom:longitude":172.18333,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":438,
+    "gn:population":438,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.66667,
+    "lbl:longitude":172.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u043d\u0441\u0430\u043d\u0434\u0435\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Dunsandel"
+    ],
+    "name:eng_x_preferred":[
+        "Dunsandel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0441\u0430\u043d\u0434\u0435\u043b"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2191553,
+    "qs_pg:gn_pop":438,
+    "qs_pg:name":"Dunsandel",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":278254,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348448,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191553,
+        "gp:id":2348448,
+        "qs_pg:id":278254,
+        "wd:id":"Q5315666"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497293777,
+    "wof:geomhash":"66e313013845bfa61be5699120d47422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":1125859755,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125859755,
+    "wof:lastmodified":1514494126,
+    "wof:name":"Dunsandel",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:population":438,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.18333,
+    -43.66667,
+    172.18333,
+    -43.66667
+],
+  "geometry": {"coordinates":[172.18333000000001,-43.66667],"type":"Point"}
+}

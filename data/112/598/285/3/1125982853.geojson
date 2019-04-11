@@ -1,0 +1,86 @@
+{
+  "id": 1125982853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.620282,-36.8663765,174.620282,-36.8663765",
+    "geom:latitude":-36.866377,
+    "geom:longitude":174.620282,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.866377,
+    "lbl:longitude":174.620282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Lincoln"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lincoln",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Auckland Region",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":166,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":236909,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":22726426,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Auckland Region",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726426,
+        "qs_pg:id":236909,
+        "wd:id":"Q6550361"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497298642,
+    "wof:geomhash":"d1d958fec94c5bec5633e8c02758eec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1125982853,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1125982853,
+    "wof:lastmodified":1514494215,
+    "wof:name":"Lincoln",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.620282,
+    -36.8663765,
+    174.620282,
+    -36.8663765
+],
+  "geometry": {"coordinates":[174.620282,-36.8663765],"type":"Point"}
+}

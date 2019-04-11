@@ -1,0 +1,89 @@
+{
+  "id": 101914593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24810.107369,
+    "geom:bbox":"178.038885035,-38.6606794034,178.041643807,-38.6593019115",
+    "geom:latitude":-38.659963,
+    "geom:longitude":178.040216,
+    "gn:population":34274,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.659944,
+    "lbl:longitude":178.040208,
+    "mps:latitude":-38.659944,
+    "mps:longitude":178.040208,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "East Cape"
+    ],
+    "name:eng_x_variant":[
+        "E Cape"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gisborne",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-38.6625,
+    "wd:longitude":178.017778,
+    "wd:wordcount":2874,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020b0ca8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206854,
+        "gp:id":2348455,
+        "wd:id":"Q233467",
+        "wk:page":"Gisborne, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0eb71f152c6b247b81200c9fcb2f1e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101914593,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":101914593,
+    "wof:lastmodified":1527688577,
+    "wof:name":"Gisborne",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:population":34274,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914591
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.03888503527074,
+    -38.66067940335557,
+    178.04164380715304,
+    -38.65930191149121
+],
+  "geometry": {"coordinates":[[[178.04147713503187,-38.65988922137854],[178.04107018990027,-38.66060353324379],[178.04078040318066,-38.66054137046437],[178.04057701940866,-38.66046459043267],[178.04039464510763,-38.66047259193686],[178.04021349030822,-38.66049768041785],[178.03987552633109,-38.66067940335557],[178.03888503527074,-38.66024651952544],[178.03935955862636,-38.65930191149121],[178.04079767306177,-38.65944541074699],[178.04164380715304,-38.65959682982534],[178.04147713503187,-38.65988922137854]]],"type":"Polygon"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 101917501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":33135.292165,
+    "geom:bbox":"172.757020577,-43.0547368813,172.760185263,-43.0523217217",
+    "geom:latitude":-43.053321,
+    "geom:longitude":172.758747,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.053396,
+    "lbl:longitude":172.758986,
+    "mps:latitude":-43.053396,
+    "mps:longitude":172.758986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waipara"
+    ],
+    "name:eng_x_variant":[
+        "Waipera"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waipara",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":239,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd7bc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2180027,
+        "gp:id":2351181,
+        "wd:id":"Q985544",
+        "wk:page":"Waipara"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e1b8362530f92d1483a3ede340f71a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":101917501,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101917501,
+    "wof:lastmodified":1527715910,
+    "wof:name":"Waipara",
+    "wof:parent_id":102079365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914475
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.75702057719323,
+    -43.05473688130481,
+    172.76018526339595,
+    -43.05232172167928
+],
+  "geometry": {"coordinates":[[[172.75906364798473,-43.05473688130481],[172.7583065521857,-43.0539655141542],[172.75830544257101,-43.05396443139093],[172.75830423212804,-43.05396325845476],[172.75830271895549,-43.05396181472923],[172.75702057719323,-43.05274610292546],[172.75759096097187,-43.05240429171315],[172.75844396202888,-43.05282834399321],[172.75912079171098,-43.05232172167928],[172.76018526339595,-43.05304565128127],[172.75961799391845,-43.05388850817509],[172.75961697574036,-43.05388994656632],[172.75935935946563,-43.05428500434946],[172.75906364798473,-43.05473688130481]]],"type":"Polygon"}
+}

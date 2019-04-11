@@ -1,0 +1,84 @@
+{
+  "id": 101918587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16060.235231,
+    "geom:bbox":"173.143806174,-35.1719331789,173.146374996,-35.1699826124",
+    "geom:latitude":-35.171037,
+    "geom:longitude":173.144965,
+    "gn:population":1093,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.171401,
+    "lbl:longitude":173.144498,
+    "mps:latitude":-35.171401,
+    "mps:longitude":173.144498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ahipara"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ahipara",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":401,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194098,
+        "gp:id":2347973,
+        "qs:id":1034350,
+        "wd:id":"Q400269",
+        "wk:page":"Ahipara"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d3546a196f6207c6b97cdd8ac8d56f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101918587,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918587,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Ahipara",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:population":1093,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916865
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.14380617435964,
+    -35.17193317891882,
+    173.1463749956986,
+    -35.16998261237699
+],
+  "geometry": {"coordinates":[[[173.14637499569861,-35.17034428073082],[173.14610999813669,-35.17045875622187],[173.14610561756737,-35.1704605739581],[173.14482049634779,-35.17110399624928],[173.14489225082778,-35.1713966271185],[173.14506626868166,-35.17151497452195],[173.14517081825144,-35.17178225787012],[173.14479076483414,-35.17193317891882],[173.14380617435964,-35.17190867337719],[173.14421016448586,-35.17171711924085],[173.14408785356682,-35.17141024544105],[173.14401089375951,-35.17117170269355],[173.14409276689258,-35.1710867073493],[173.14452182649609,-35.17086262243983],[173.14498441071302,-35.17054289459569],[173.14533035651502,-35.17037677192064],[173.14539252925007,-35.17030265843944],[173.14594509898501,-35.16998261237699],[173.14637499569861,-35.17034428073082]]],"type":"Polygon"}
+}

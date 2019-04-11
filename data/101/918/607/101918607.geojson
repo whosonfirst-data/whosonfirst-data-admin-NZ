@@ -1,0 +1,80 @@
+{
+  "id": 101918607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5856.440844,
+    "geom:bbox":"171.933458784,-41.5270315987,171.935584068,-41.5261389462",
+    "geom:latitude":-41.526564,
+    "geom:longitude":171.934596,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.526577,
+    "lbl:longitude":171.934643,
+    "mps:latitude":-41.526577,
+    "mps:longitude":171.934643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Mokihinui"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mokihinui",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":344,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180188,
+        "gp:id":2351134,
+        "qs:id":1168835,
+        "wd:id":"Q16895266",
+        "wk:page":"M\u014dkihinui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"bbee9b3922c24213e12c642ce0546136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101918607,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101918607,
+    "wof:lastmodified":1527715678,
+    "wof:name":"Mokihinui",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914845
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.93345878371161,
+    -41.52703159866732,
+    171.93558406794645,
+    -41.52613894616482
+],
+  "geometry": {"coordinates":[[[171.93345878371161,-41.5263163581693],[171.93383674633057,-41.52613894616482],[171.93521900120854,-41.52659221761208],[171.93558406794645,-41.52675771119743],[171.93541177530759,-41.52703159866732],[171.93345878371161,-41.5263163581693]]],"type":"Polygon"}
+}

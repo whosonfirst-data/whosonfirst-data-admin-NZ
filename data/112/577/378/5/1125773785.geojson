@@ -1,0 +1,101 @@
+{
+  "id": 1125773785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.82019,-36.9082,174.82019,-36.9082",
+    "geom:latitude":-36.9082,
+    "geom:longitude":174.82019,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.9082,
+    "lbl:longitude":174.82019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0648\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Mount Wellington"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Wellington"
+    ],
+    "name:ger_x_preferred":[
+        "Mount Wellington"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6232215,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mount Wellington",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Auckland Region",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":459,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1077017,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":22726466,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Auckland Region",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232215,
+        "gp:id":22726466,
+        "qs_pg:id":1077017,
+        "wd:id":"Q1461374"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497290167,
+    "wof:geomhash":"732a100650b1601360514f346aa2e3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1125773785,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1125773785,
+    "wof:lastmodified":1514494296,
+    "wof:name":"Mount Wellington",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.82019,
+    -36.9082,
+    174.82019,
+    -36.9082
+],
+  "geometry": {"coordinates":[174.82019,-36.9082],"type":"Point"}
+}

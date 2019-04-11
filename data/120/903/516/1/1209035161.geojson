@@ -1,0 +1,61 @@
+{
+  "id": 1209035161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.9227,-40.46817,175.9227,-40.46817",
+    "geom:latitude":-40.46817,
+    "geom:longitude":175.9227,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Ngaturi",
+    "gn:country_code":"NZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2186134,
+    "gn:latitude":-40.46817,
+    "gn:longitude":175.9227,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Ngaturi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186134
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b1dcc4f781b3a2b7138bee65e31277dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209035161
+        }
+    ],
+    "wof:id":1209035161,
+    "wof:lastmodified":1536299724,
+    "wof:name":"Ngaturi",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.9227,
+    -40.46817,
+    175.9227,
+    -40.46817
+],
+  "geometry": {"coordinates":[175.92269999999999,-40.46817],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226683257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.78333,-41.26667,174.78333,-41.26667",
+    "geom:latitude":-41.26667,
+    "geom:longitude":174.78333,
+    "gn:admin1_code":"G2",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Kaiwharawhara",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189162,
+    "gn:latitude":-41.26667,
+    "gn:longitude":174.78333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kaiwharawhara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaiwarawara",
+        "Kaiwarra",
+        "Kaiwhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189162
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"045d36df121ecb85498f5ac1dec2d7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":1226683257,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1226683257,
+    "wof:lastmodified":1537676145,
+    "wof:name":"Kaiwharawhara",
+    "wof:parent_id":102079339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.78333,
+    -41.26667,
+    174.78333,
+    -41.26667
+],
+  "geometry": {"coordinates":[174.78333000000001,-41.26667],"type":"Point"}
+}

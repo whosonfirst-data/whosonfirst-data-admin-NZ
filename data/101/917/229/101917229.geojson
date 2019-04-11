@@ -1,0 +1,79 @@
+{
+  "id": 101917229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":40210.987221,
+    "geom:bbox":"175.380124644,-40.0580615265,175.381791028,-40.0539345785",
+    "geom:latitude":-40.056136,
+    "geom:longitude":175.381113,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.056754,
+    "lbl:longitude":175.380948,
+    "mps:latitude":-40.056754,
+    "mps:longitude":175.380948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Marton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1442,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6224624,
+        "gp:id":2349430,
+        "wd:id":"Q442075",
+        "wk:page":"Marton, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9b92c3a4f9d97f4d4ec9c81869752830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":101917229,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101917229,
+    "wof:lastmodified":1527715905,
+    "wof:name":"Marton",
+    "wof:parent_id":102079301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915195
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.38012464396846,
+    -40.05806152652616,
+    175.3817910281037,
+    -40.05393457854983
+],
+  "geometry": {"coordinates":[[[175.38154767040714,-40.0576064083773],[175.38145697089297,-40.05806152652616],[175.38068525466804,-40.05791788144906],[175.38072659631936,-40.05743955004107],[175.38012464396846,-40.05735482042645],[175.38019921159281,-40.0561404419983],[175.38084373617338,-40.05603893846077],[175.38097036223974,-40.05393457854983],[175.38168886033841,-40.05395326766978],[175.38177117193459,-40.05492650928889],[175.38179102810369,-40.05495763411203],[175.38177040171158,-40.05525460257847],[175.38163928706848,-40.05714406242218],[175.38154767040714,-40.0576064083773]]],"type":"Polygon"}
+}

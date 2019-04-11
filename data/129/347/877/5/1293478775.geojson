@@ -1,0 +1,67 @@
+{
+  "id": 1293478775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.58333,-43.81667,-176.58333,-43.81667",
+    "geom:latitude":-43.81667,
+    "geom:longitude":-176.58333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rakautahi",
+    "gn:country_code":"NZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032879,
+    "gn:latitude":-43.81667,
+    "gn:longitude":-176.58333,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Rakautahi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chatham",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687215,
+        136253053,
+        1108564567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032879
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e1490031c144ef26c46788b5f4f461a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1108564567,
+            "empire_id":136253053,
+            "locality_id":1293478775,
+            "region_id":85687215
+        }
+    ],
+    "wof:id":1293478775,
+    "wof:lastmodified":1536799739,
+    "wof:name":"Rakautahi",
+    "wof:parent_id":1108564567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.58333000000005,
+    -43.81667,
+    -176.58333000000005,
+    -43.81667
+],
+  "geometry": {"coordinates":[-176.58333000000005,-43.81667],"type":"Point"}
+}

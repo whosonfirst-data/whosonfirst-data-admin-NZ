@@ -1,0 +1,82 @@
+{
+  "id": 1125919421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.721375,-36.805393,175.721375,-36.805393",
+    "geom:latitude":-36.805393,
+    "geom:longitude":175.721375,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.805393,
+    "lbl:longitude":175.721375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mercury Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Waikato",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":393129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28645542,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Waikato",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28645542,
+        "qs_pg:id":393129
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296428,
+    "wof:geomhash":"a6601ff99cdfaa3cb265ef2efcd3cac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1125919421,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1125919421,
+    "wof:lastmodified":1509400722,
+    "wof:name":"Mercury Bay",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.721375,
+    -36.805393,
+    175.721375,
+    -36.805393
+],
+  "geometry": {"coordinates":[175.72137499999999,-36.805393],"type":"Point"}
+}

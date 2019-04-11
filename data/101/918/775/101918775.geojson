@@ -1,0 +1,83 @@
+{
+  "id": 101918775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3742.21522,
+    "geom:bbox":"176.894893094,-39.6742939362,176.895717323,-39.6734119584",
+    "geom:latitude":-39.673849,
+    "geom:longitude":176.895376,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.673849,
+    "lbl:longitude":176.895402,
+    "mps:latitude":-39.673849,
+    "mps:longitude":176.895402,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Havelock North"
+    ],
+    "name:eng_x_variant":[
+        "Havelock North Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Havelock North",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1026,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ddd48-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2190169,
+        "gp:id":2348726,
+        "wd:id":"Q847452",
+        "wk:page":"Havelock North"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b9eae0f69c33a0fedb3bed8702310e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101918775,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918775,
+    "wof:lastmodified":1527715678,
+    "wof:name":"Havelock North",
+    "wof:parent_id":102079329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914661
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.89489309369972,
+    -39.6742939362222,
+    176.89571732315272,
+    -39.67341195843132
+],
+  "geometry": {"coordinates":[[[176.89519567800602,-39.6742939362222],[176.89519583059223,-39.67428611117022],[176.89519816437928,-39.67416638175812],[176.89519679257009,-39.6741474670444],[176.89519841482323,-39.67414088072375],[176.89516872983523,-39.67376054528513],[176.89515021370366,-39.67366186970614],[176.89512554399258,-39.67363224304228],[176.89511377691863,-39.67361811156166],[176.89489309369972,-39.67349060098062],[176.89500571212031,-39.67347400229534],[176.89542665838812,-39.67341195843132],[176.89558240089062,-39.673628465942],[176.89571732315272,-39.67411612995082],[176.8954755846456,-39.67427665601249],[176.89519567800602,-39.6742939362222]]],"type":"Polygon"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 85773029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17081020.591285,
+    "geom:bbox":"174.03244,-39.060099,174.03244,-39.060099",
+    "geom:latitude":-39.060099,
+    "geom:longitude":174.03244,
+    "gn:latitude":-39.06428,
+    "gn:longitude":174.03563,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.060099,
+    "lbl:longitude":174.03244,
+    "mps:latitude":-39.053734,
+    "mps:longitude":174.029941,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Moturoa"
+    ],
+    "name:unk_x_variant":[
+        "Moturoa"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2186239,
+    "qs:gn_namadm1":"F9",
+    "qs:gn_name":"Moturoa",
+    "qs:local_max":1301,
+    "qs:local_sum":2817,
+    "qs:localhoods":8,
+    "qs:name":"Moturoa",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Taranaki",
+    "qs:name_adm2":"New Plymouth District",
+    "qs:name_local":"New Plymouth",
+    "qs:photo_max":47,
+    "qs:photo_sum":437,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":39,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021763,
+    "qs:woe_adm2":55875870,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349680,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":220,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079311,
+        85687195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186498,
+        "gp:id":2349615,
+        "qs:id":466713,
+        "qs_pg:id":466713,
+        "wd:id":"Q6918771",
+        "wk:page":"Moturoa"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fbd08c980e902ba55d698a77c3f10c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":-1,
+            "neighbourhood_id":85773029,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":85773029,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859618,
+    "wof:name":"Moturoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.03244,
+    -39.060099,
+    174.03244,
+    -39.060099
+],
+  "geometry": {"coordinates":[174.03244000000001,-39.060099],"type":"Point"}
+}

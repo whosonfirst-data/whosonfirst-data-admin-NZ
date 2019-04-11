@@ -1,0 +1,77 @@
+{
+  "id": 1125376697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.5647,-40.22647,175.5647,-40.22647",
+    "geom:latitude":-40.22647,
+    "geom:longitude":175.5647,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.22647,
+    "lbl:longitude":175.5647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Feilding Borough"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":2191170,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Feilding",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":373047,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191170,
+        "qs_pg:id":373047
+    },
+    "wof:country":"NZ",
+    "wof:created":1497047790,
+    "wof:geomhash":"93238f8ae9a42c397538b7df61beef81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "localadmin_id":1125376697,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1125376697,
+    "wof:lastmodified":1509389477,
+    "wof:name":"Feilding",
+    "wof:parent_id":102079303,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.5647,
+    -40.22647,
+    175.5647,
+    -40.22647
+],
+  "geometry": {"coordinates":[175.56469999999999,-40.22647],"type":"Point"}
+}

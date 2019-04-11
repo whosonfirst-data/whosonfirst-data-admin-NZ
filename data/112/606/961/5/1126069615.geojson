@@ -1,0 +1,99 @@
+{
+  "id": 1126069615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.66991,-36.87495,174.66991,-36.87495",
+    "geom:latitude":-36.87495,
+    "geom:longitude":174.66991,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":4551,
+    "gn:population":4551,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.87495,
+    "lbl:longitude":174.66991,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Rosebank Peninsula"
+    ],
+    "name:eng_x_variant":[
+        "Rosebank"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":8298608,
+    "qs_pg:gn_pop":4551,
+    "qs_pg:name":"Rosebank",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Auckland Region",
+    "qs_pg:photos":96,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":96,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":985672,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644748,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Auckland Region",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8298608,
+        "gp:id":28644748,
+        "qs_pg:id":985672
+    },
+    "wof:country":"NZ",
+    "wof:created":1497309647,
+    "wof:geomhash":"5156ea8396a569adec7a5cca1c4ce707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":1126069615,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1126069615,
+    "wof:lastmodified":1509410604,
+    "wof:name":"Rosebank",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4551,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.66991,
+    -36.87495,
+    174.66991,
+    -36.87495
+],
+  "geometry": {"coordinates":[174.66990999999999,-36.87495],"type":"Point"}
+}

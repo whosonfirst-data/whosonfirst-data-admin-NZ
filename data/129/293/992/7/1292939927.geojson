@@ -1,0 +1,68 @@
+{
+  "id": 1292939927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.05,-38.43333,178.05,-38.43333",
+    "geom:latitude":-38.43333,
+    "geom:longitude":178.05,
+    "gn:admin1_code":"F1",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Ahititi",
+    "gn:country_code":"NZ",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2194094,
+    "gn:latitude":-38.43333,
+    "gn:longitude":178.05,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Ahititi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194094
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2a444cac13f73a1b4a659721fb719505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":1292939927,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1292939927,
+    "wof:lastmodified":1537076378,
+    "wof:name":"Ahititi",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.05,
+    -38.43333,
+    178.05,
+    -38.43333
+],
+  "geometry": {"coordinates":[178.05000000000001,-38.43333],"type":"Point"}
+}

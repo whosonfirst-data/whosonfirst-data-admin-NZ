@@ -1,0 +1,107 @@
+{
+  "id": 85778293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5502669.126798,
+    "geom:bbox":"174.664638,-36.948158,174.664638,-36.948158",
+    "geom:latitude":-36.948158,
+    "geom:longitude":174.664638,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.948158,
+    "lbl:longitude":174.664638,
+    "mps:latitude":-36.953716,
+    "mps:longitude":174.663725,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "French Bay"
+    ],
+    "name:unk_x_variant":[
+        "French Bay"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":7302484,
+    "qs:gn_nam_loc":"waitakere",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":282,
+    "qs:local_sum":2234,
+    "qs:localhoods":18,
+    "qs:name":"French Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Waitakere",
+    "qs:photo_max":107,
+    "qs:photo_sum":136,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":28644854,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726373,
+        "qs:id":236908,
+        "qs_pg:id":236908
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1317ed53eda245d23dccfb6f06a1e7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85778293,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778293,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859771,
+    "wof:name":"French Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.664638,
+    -36.948158,
+    174.664638,
+    -36.948158
+],
+  "geometry": {"coordinates":[174.664638,-36.948158],"type":"Point"}
+}

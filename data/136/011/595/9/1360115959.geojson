@@ -1,0 +1,68 @@
+{
+  "id": 1360115959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.5,-36.73333,175.5,-36.73333",
+    "geom:latitude":-36.73333,
+    "geom:longitude":175.5,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Driving Creek",
+    "gn:country_code":"NZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2191617,
+    "gn:latitude":-36.73333,
+    "gn:longitude":175.5,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Driving Creek",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191617
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ee96364d20ba5aedba73baf257e9c2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1360115959,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1360115959,
+    "wof:lastmodified":1536901249,
+    "wof:name":"Driving Creek",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.5,
+    -36.73333,
+    175.5,
+    -36.73333
+],
+  "geometry": {"coordinates":[175.5,-36.73333],"type":"Point"}
+}

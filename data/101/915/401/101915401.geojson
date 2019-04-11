@@ -1,0 +1,83 @@
+{
+  "id": 101915401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":87151.745431,
+    "geom:bbox":"175.817697106,-38.9833202955,175.821180391,-38.9758156616",
+    "geom:latitude":-38.979565,
+    "geom:longitude":175.819453,
+    "gn:population":3401,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.979582,
+    "lbl:longitude":175.81948,
+    "mps:latitude":-38.979582,
+    "mps:longitude":175.81948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Turangi"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Turangi",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1770,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180737,
+        "gp:id":2350995,
+        "wd:id":"Q1026386",
+        "wk:page":"Turangi"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"129050c6ee91b0e59001db47c126a229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":101915401,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101915401,
+    "wof:lastmodified":1527643130,
+    "wof:name":"Turangi",
+    "wof:parent_id":102079281,
+    "wof:placetype":"locality",
+    "wof:population":3401,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914657
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.81769710646702,
+    -38.98332029552979,
+    175.8211803914746,
+    -38.97581566163895
+],
+  "geometry": {"coordinates":[[[175.82086978485225,-38.97723013104969],[175.81967851371786,-38.9808437058924],[175.81903199305609,-38.98280589016174],[175.81886237826808,-38.98332029552979],[175.81809705893525,-38.98310310926637],[175.8182769892299,-38.98258664648253],[175.81769710646702,-38.98247032325656],[175.81904382439399,-38.97906925440319],[175.81901375236706,-38.97901140883522],[175.81924257147361,-38.9783630264274],[175.81943530029616,-38.9775091159175],[175.82011349530183,-38.97581566163895],[175.8211803914746,-38.97628666412893],[175.82086978485225,-38.97723013104969]]],"type":"Polygon"}
+}

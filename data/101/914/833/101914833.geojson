@@ -1,0 +1,72 @@
+{
+  "id": 101914833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":46043.057483,
+    "geom:bbox":"174.792370477,-37.123189496,174.797216637,-37.120728018",
+    "geom:latitude":-37.121908,
+    "geom:longitude":174.794381,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.122034,
+    "lbl:longitude":174.793806,
+    "mps:latitude":-37.122035,
+    "mps:longitude":174.793808,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Kingseat"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kingseat",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2349062
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2269db4a1c9d41fa3743c68407644ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914833,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101914833,
+    "wof:lastmodified":1487208193,
+    "wof:name":"Kingseat",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.7923704766673,
+    -37.12318949596434,
+    174.79721663687235,
+    -37.1207280179982
+],
+  "geometry": {"coordinates":[[[174.79721663687235,-37.12150644871821],[174.79543735804293,-37.12236623123502],[174.7954366242937,-37.12236660278176],[174.79543625747425,-37.12236678850922],[174.79543616464937,-37.12236678991543],[174.79443936045777,-37.12285767766962],[174.79443844340014,-37.12285814211599],[174.79443789305219,-37.12285842074947],[174.79443761681557,-37.12285851506222],[174.79378284482942,-37.12318949596434],[174.79237047666729,-37.1213853751463],[174.79366831907902,-37.1207280179982],[174.79478547360262,-37.1220527831336],[174.79689075251227,-37.12104208691805],[174.79721663687235,-37.12150644871821]]],"type":"Polygon"}
+}

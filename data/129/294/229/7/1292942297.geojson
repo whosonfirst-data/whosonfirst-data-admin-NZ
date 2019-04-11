@@ -1,0 +1,69 @@
+{
+  "id": 1292942297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.36667,-39.26667,174.36667,-39.26667",
+    "geom:latitude":-39.26667,
+    "geom:longitude":174.36667,
+    "gn:admin1_code":"F9",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Te Popo",
+    "gn:country_code":"NZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181384,
+    "gn:latitude":-39.26667,
+    "gn:longitude":174.36667,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Te Popo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181384,
+        "wk:page":"Te_Popo"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e897ecd9a52743a10b82d1569a13b41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079293,
+            "locality_id":1292942297,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1292942297,
+    "wof:lastmodified":1537570168,
+    "wof:name":"Te Popo",
+    "wof:parent_id":102079293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.36667,
+    -39.26667,
+    174.36667,
+    -39.26667
+],
+  "geometry": {"coordinates":[174.36667,-39.26667],"type":"Point"}
+}

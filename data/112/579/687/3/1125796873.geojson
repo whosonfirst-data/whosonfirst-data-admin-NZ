@@ -1,0 +1,82 @@
+{
+  "id": 1125796873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.8495735,-41.065698,174.8495735,-41.065698",
+    "geom:latitude":-41.065698,
+    "geom:longitude":174.849573,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.065698,
+    "lbl:longitude":174.849573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hongoeka Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":226,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":226,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187563,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":22726404,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726404,
+        "qs_pg:id":1187563
+    },
+    "wof:country":"NZ",
+    "wof:created":1497291089,
+    "wof:geomhash":"90d9468f15c68270a365a59644705b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":1125796873,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1125796873,
+    "wof:lastmodified":1509392646,
+    "wof:name":"Hongoeka Bay",
+    "wof:parent_id":102079317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.84957349999996,
+    -41.065698,
+    174.84957349999996,
+    -41.065698
+],
+  "geometry": {"coordinates":[174.84957349999996,-41.065698],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1125865397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.651947,-43.624834,172.651947,-43.624834",
+    "geom:latitude":-43.624834,
+    "geom:longitude":172.651947,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.624834,
+    "lbl:longitude":172.651947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Governors Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Governors Bay"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Governors Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":198,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":198,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1109352,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348640,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2348640,
+        "qs_pg:id":1109352,
+        "wd:id":"Q5589764"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497294015,
+    "wof:geomhash":"92f9287fce2cec292f950120da40df74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":1125865397,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125865397,
+    "wof:lastmodified":1514494134,
+    "wof:name":"Governors Bay",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.651947,
+    -43.624834,
+    172.651947,
+    -43.624834
+],
+  "geometry": {"coordinates":[172.65194700000001,-43.624834],"type":"Point"}
+}

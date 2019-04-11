@@ -1,0 +1,68 @@
+{
+  "id": 1293327557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.93333,-37.1,174.93333,-37.1",
+    "geom:latitude":-37.1,
+    "geom:longitude":174.93333,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Runciman",
+    "gn:country_code":"NZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183085,
+    "gn:latitude":-37.1,
+    "gn:longitude":174.93333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Runciman",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183085
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a5b0bf3ad458706a522e67961204b730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1293327557,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1293327557,
+    "wof:lastmodified":1537016910,
+    "wof:name":"Runciman",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.93333,
+    -37.1,
+    174.93333,
+    -37.1
+],
+  "geometry": {"coordinates":[174.93333000000001,-37.1],"type":"Point"}
+}

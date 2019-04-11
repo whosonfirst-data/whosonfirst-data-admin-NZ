@@ -1,0 +1,89 @@
+{
+  "id": 101917081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":49775.22841,
+    "geom:bbox":"171.187159349,-44.5329899722,171.191223201,-44.5290283545",
+    "geom:latitude":-44.530946,
+    "geom:longitude":171.189276,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.530967,
+    "lbl:longitude":171.189273,
+    "mps:latitude":-44.530929,
+    "mps:longitude":171.189298,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Saint Andrews"
+    ],
+    "name:eng_x_preferred":[
+        "St Andrews"
+    ],
+    "name:eng_x_variant":[
+        "Saint Andrews",
+        "St. Andrews"
+    ],
+    "name:may_x_preferred":[
+        "Saint Andrews"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Saint Andrews",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d1ec6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2183039,
+        "gp:id":2350504,
+        "wd:id":"Q7400943"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"42f902349163446403391739dcc55750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079379,
+            "locality_id":101917081,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101917081,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1514494427,
+    "wof:name":"Saint Andrews",
+    "wof:parent_id":102079379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.1871593491891,
+    -44.53298997217631,
+    171.191223200879,
+    -44.52902835453745
+],
+  "geometry": {"coordinates":[[[171.1871593491891,-44.53298997217631],[171.18745695583394,-44.53256311076453],[171.18745738758287,-44.5325625776433],[171.18745760897815,-44.5325621311186],[171.18745782479249,-44.532561864467],[171.18844907573396,-44.53110147215305],[171.18857446159254,-44.53091669573502],[171.18857511457591,-44.53091571598983],[171.18857565832568,-44.53091491456344],[171.18857609563182,-44.5309142014742],[171.18979009800043,-44.52902835453745],[171.19122320087899,-44.52914656447986],[171.19094696066699,-44.52959537631552],[171.19050068400199,-44.53032042620091],[171.18980479765438,-44.53133053159389],[171.18906626413468,-44.53240323138607],[171.18884407771804,-44.532540208894],[171.18841221698844,-44.53276197678354],[171.18811895874018,-44.53284472082456],[171.1871593491891,-44.53298997217631]]],"type":"Polygon"}
+}

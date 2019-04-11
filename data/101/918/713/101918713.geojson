@@ -1,0 +1,91 @@
+{
+  "id": 101918713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4325.145691,
+    "geom:bbox":"175.393894371,-40.083992132,175.394663933,-40.0831089274",
+    "geom:latitude":-40.083555,
+    "geom:longitude":175.394278,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.083575,
+    "lbl:longitude":175.394269,
+    "mps:latitude":-40.083575,
+    "mps:longitude":175.394269,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Marton"
+    ],
+    "name:eng_x_preferred":[
+        "Marton"
+    ],
+    "name:msa_x_preferred":[
+        "Marton"
+    ],
+    "name:nno_x_preferred":[
+        "Marton p\u00e5 New Zealand"
+    ],
+    "name:pol_x_preferred":[
+        "Marton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1442,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6224624,
+        "gp:id":2349430,
+        "wd:id":"Q442075",
+        "wk:page":"Marton, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"81b3385f34442a640fc4f8122ad43147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":101918713,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918713,
+    "wof:lastmodified":1527715672,
+    "wof:name":"Marton",
+    "wof:parent_id":102079301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915195
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.39389437148225,
+    -40.08399213202126,
+    175.39466393345026,
+    -40.08310892744431
+],
+  "geometry": {"coordinates":[[[175.39411003288313,-40.08310892744431],[175.39466393345026,-40.08321450464744],[175.3944474498569,-40.08399213202126],[175.39389437148225,-40.08390996413529],[175.39411003288313,-40.08310892744431]]],"type":"Polygon"}
+}

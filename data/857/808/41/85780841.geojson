@@ -1,0 +1,113 @@
+{
+  "id": 85780841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14643367.669499,
+    "geom:bbox":"175.582342,-40.382751,175.582342,-40.382751",
+    "geom:latitude":-40.382751,
+    "geom:longitude":175.582342,
+    "gn:latitude":-40.37624,
+    "gn:longitude":175.58384,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.382751,
+    "lbl:longitude":175.582342,
+    "mps:latitude":-40.38572,
+    "mps:longitude":175.579746,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Awapuni"
+    ],
+    "name:unk_x_variant":[
+        "Awapuni"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2185018,
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Awapuni",
+    "qs:local_max":729,
+    "qs:local_sum":2351,
+    "qs:localhoods":11,
+    "qs:name":"Awapuni",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Manawatu Wanganui",
+    "qs:name_adm2":"Palmerston North City",
+    "qs:name_local":"Palmerston North",
+    "qs:photo_max":28,
+    "qs:photo_sum":88,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021764,
+    "qs:woe_adm2":55875856,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350025,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":401,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85687251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6225521,
+        "gp:id":28643781,
+        "qs:id":483823,
+        "qs_pg:id":483823,
+        "wd:id":"Q4829810",
+        "wk:page":"Awapuni, Manawatu-Wanganui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"54ad46289ec6d34dafa2e53e8eea2d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85780841,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":85780841,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860094,
+    "wof:name":"Awapuni",
+    "wof:parent_id":101914259,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.582342,
+    -40.382751,
+    175.582342,
+    -40.382751
+],
+  "geometry": {"coordinates":[175.58234200000001,-40.382751],"type":"Point"}
+}

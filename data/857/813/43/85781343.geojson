@@ -1,0 +1,107 @@
+{
+  "id": 85781343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6495980.151485,
+    "geom:bbox":"176.286429,-37.697496,176.286429,-37.697496",
+    "geom:latitude":-37.697496,
+    "geom:longitude":176.286429,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-37.697496,
+    "lbl:longitude":176.286429,
+    "mps:latitude":-37.702657,
+    "mps:longitude":176.284166,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Papamoa Domain"
+    ],
+    "name:unk_x_variant":[
+        "Papamoa Domain"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2208032,
+    "qs:gn_nam_loc":"Tauranga, Tauranga City, Bay of Plenty, NZ",
+    "qs:gn_namadm1":"E8",
+    "qs:local_max":2147,
+    "qs:local_sum":7947,
+    "qs:localhoods":21,
+    "qs:name":"Papamoa Domain",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Tauranga City",
+    "qs:name_local":"Tauranga",
+    "qs:photo_max":163,
+    "qs:photo_sum":497,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875891,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350751,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079285,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644263,
+        "qs:id":1286551,
+        "qs_pg:id":1286551
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8cc0b3285e52c2cf408fef96a5096560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":-1,
+            "neighbourhood_id":85781343,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":85781343,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860192,
+    "wof:name":"Papamoa Domain",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.286429,
+    -37.697496,
+    176.286429,
+    -37.697496
+],
+  "geometry": {"coordinates":[176.286429,-37.697496],"type":"Point"}
+}

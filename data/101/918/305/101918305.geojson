@@ -1,0 +1,103 @@
+{
+  "id": 101918305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13232.05916,
+    "geom:bbox":"175.385187993,-37.8043308362,175.387531246,-37.8035395723",
+    "geom:latitude":-37.803955,
+    "geom:longitude":175.38633,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.80395,
+    "lbl:longitude":175.386327,
+    "mps:latitude":-37.80395,
+    "mps:longitude":175.386327,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Matangi"
+    ],
+    "name:fra_x_preferred":[
+        "Matangi"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0924\u0902\u0917\u0940"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u093e\u0924\u0919\u094d\u0917\u0940"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2e\u0b3e\u0b24\u0b19\u0b4d\u0b17\u0b40"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2e\u0a3e\u0a24\u0a70\u0a17\u0a40"
+    ],
+    "name:pol_x_preferred":[
+        "Matangi"
+    ],
+    "name:slv_x_preferred":[
+        "Matangi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bbf"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Matangi",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2922,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c4654-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2187195,
+        "gp:id":2349459,
+        "wd:id":"Q17634885"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"76bc4c964fbf16f680cd76021b769b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101918305,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918305,
+    "wof:lastmodified":1527715675,
+    "wof:name":"Matangi",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916425
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.385187992779,
+    -37.80433083615458,
+    175.38753124581893,
+    -37.80353957229543
+],
+  "geometry": {"coordinates":[[[175.387513255747,-37.80380114906301],[175.38753124581893,-37.80432809299995],[175.38732229247111,-37.80433078726491],[175.38732001906934,-37.80433083615458],[175.38557661716783,-37.80417988627887],[175.38518872652892,-37.80416069275402],[175.38518799277901,-37.80387032529509],[175.38520150842925,-37.80354210705489],[175.38521279731307,-37.80353957229543],[175.38651253853547,-37.80367391498696],[175.38654365548174,-37.80368676814329],[175.38657016445299,-37.80369792352982],[175.38748017261807,-37.80379735295166],[175.387513255747,-37.80380114906301]]],"type":"Polygon"}
+}

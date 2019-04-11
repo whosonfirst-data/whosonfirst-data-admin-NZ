@@ -1,0 +1,111 @@
+{
+  "id": 85772869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5092869.258082,
+    "geom:bbox":"172.634781,-43.581457,172.634781,-43.581457",
+    "geom:latitude":-43.581457,
+    "geom:longitude":172.634781,
+    "gn:latitude":-43.58333,
+    "gn:longitude":172.63333,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.581457,
+    "lbl:longitude":172.634781,
+    "mps:latitude":-43.591765,
+    "mps:longitude":172.621852,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Cashmere Hills"
+    ],
+    "name:unk_x_variant":[
+        "Cashmere",
+        "Cashmere Hills"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Cashmere Hills",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Cashmere Hills",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":94,
+    "qs:photo_sum":220,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079401,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192548,
+        "gp:id":2348292,
+        "qs:id":1171197,
+        "qs_pg:id":1171197
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"08c1a8b1f0f6664bbb01fd17d904554a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":-1,
+            "neighbourhood_id":85772869,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85772869,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859591,
+    "wof:name":"Cashmere Hills",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.634781,
+    -43.581457,
+    172.634781,
+    -43.581457
+],
+  "geometry": {"coordinates":[172.634781,-43.581457],"type":"Point"}
+}

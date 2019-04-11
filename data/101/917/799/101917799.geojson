@@ -1,0 +1,83 @@
+{
+  "id": 101917799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19393.544971,
+    "geom:bbox":"174.351781562,-36.109302807,174.354327433,-36.107568175",
+    "geom:latitude":-36.10843,
+    "geom:longitude":174.353083,
+    "gn:population":790,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.108408,
+    "lbl:longitude":174.35309,
+    "mps:latitude":-36.108408,
+    "mps:longitude":174.35309,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Maungaturoto"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Maungaturoto",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":423,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187060,
+        "gp:id":2349492,
+        "wd:id":"Q3300200",
+        "wk:page":"Maungaturoto"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6849d91f240449541c65c9b55511f797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101917799,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101917799,
+    "wof:lastmodified":1527715904,
+    "wof:name":"Maungaturoto",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:population":790,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915357
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.35178156218146,
+    -36.10930280697268,
+    174.35432743349733,
+    -36.10756817500562
+],
+  "geometry": {"coordinates":[[[174.35432743349733,-36.10872801223022],[174.35366034010426,-36.10930280697268],[174.35182908164657,-36.10820581797834],[174.35178156218146,-36.10816228344757],[174.35192210101613,-36.1080811200166],[174.35200205689375,-36.10802508916009],[174.35268373032838,-36.10756817500562],[174.35432743349733,-36.10872801223022]]],"type":"Polygon"}
+}

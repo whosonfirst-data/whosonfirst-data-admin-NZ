@@ -1,0 +1,124 @@
+{
+  "id": 85781481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":925971.746651,
+    "geom:bbox":"170.502176,-45.869997,170.502176,-45.869997",
+    "geom:latitude":-45.869997,
+    "geom:longitude":170.502176,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-45.869997,
+    "lbl:longitude":170.502176,
+    "mps:latitude":-45.869467,
+    "mps:longitude":170.499428,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Littlebourne"
+    ],
+    "name:cym_x_preferred":[
+        "Littlebourne"
+    ],
+    "name:eng_x_preferred":[
+        "Littlebourne"
+    ],
+    "name:nld_x_preferred":[
+        "Littlebourne"
+    ],
+    "name:pol_x_preferred":[
+        "Littlebourne"
+    ],
+    "name:swe_x_preferred":[
+        "Littlebourne"
+    ],
+    "name:unk_x_variant":[
+        "Littlebourne"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2191562,
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Littlebourne",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":67,
+    "qs:photo_sum":394,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":51.2728,
+    "wd:longitude":1.1666,
+    "wd:wordcount":256,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644431,
+        "qs:id":1286603,
+        "qs_pg:id":1286603
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6da57cb3133966ffc162673d398434ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85781481,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85781481,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860216,
+    "wof:name":"Littlebourne",
+    "wof:parent_id":101914269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.502176,
+    -45.869997,
+    170.502176,
+    -45.869997
+],
+  "geometry": {"coordinates":[170.50217599999999,-45.869997],"type":"Point"}
+}

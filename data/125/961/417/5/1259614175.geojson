@@ -1,0 +1,68 @@
+{
+  "id": 1259614175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.97204,-37.76746,174.97204,-37.76746",
+    "geom:latitude":-37.76746,
+    "geom:longitude":174.97204,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Ohautira",
+    "gn:country_code":"NZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185851,
+    "gn:latitude":-37.76746,
+    "gn:longitude":174.97204,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Ohautira",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185851
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c93ad4670e781ace18acc40966d2728c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":1259614175,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1259614175,
+    "wof:lastmodified":1536670655,
+    "wof:name":"Ohautira",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.97204,
+    -37.76746,
+    174.97204,
+    -37.76746
+],
+  "geometry": {"coordinates":[174.97203999999999,-37.76746],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101918597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9929.360332,
+    "geom:bbox":"171.624786179,-41.7477354589,171.627538378,-41.7469025455",
+    "geom:latitude":-41.747243,
+    "geom:longitude":171.625877,
+    "gn:population":3629,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.747232,
+    "lbl:longitude":171.625875,
+    "mps:latitude":-41.747232,
+    "mps:longitude":171.625875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Westport"
+    ],
+    "name:eng_x_preferred":[
+        "Westport"
+    ],
+    "name:fra_x_preferred":[
+        "Westport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a8\u30b9\u30c8\u30dd\u30fc\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d4\u10e1\u10e2\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8\ud3ec\ud2b8"
+    ],
+    "name:msa_x_preferred":[
+        "Westport"
+    ],
+    "name:nld_x_preferred":[
+        "Westport"
+    ],
+    "name:pol_x_preferred":[
+        "Westport"
+    ],
+    "name:spa_x_preferred":[
+        "Westport"
+    ],
+    "name:swe_x_preferred":[
+        "Westport"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Westport",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1387,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de072-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206900,
+        "gp:id":2351332,
+        "wd:id":"Q1349217",
+        "wk:page":"Westport, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"780a60d527980faad18951619c7d1de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101918597,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101918597,
+    "wof:lastmodified":1527715674,
+    "wof:name":"Westport",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:population":3629,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.62478617851662,
+    -41.74773545888559,
+    171.62753837823482,
+    -41.74690254548752
+],
+  "geometry": {"coordinates":[[[171.62478617851662,-41.74705722591824],[171.62542224403032,-41.74705324745001],[171.6256631527063,-41.74703186369228],[171.6265063081139,-41.74690254548752],[171.62753837823482,-41.74721037445808],[171.62700681463392,-41.74727415420514],[171.62543822256816,-41.74753692223375],[171.62499388141617,-41.74768098136786],[171.62488329755541,-41.74773545888559],[171.62478617851662,-41.74705722591824]]],"type":"Polygon"}
+}

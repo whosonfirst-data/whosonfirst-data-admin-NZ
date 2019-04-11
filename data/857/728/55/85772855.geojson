@@ -1,0 +1,118 @@
+{
+  "id": 85772855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1930872.558698,
+    "geom:bbox":"174.742304,-36.714101,174.742304,-36.714101",
+    "geom:latitude":-36.714101,
+    "geom:longitude":174.742304,
+    "gn:latitude":-36.70819,
+    "gn:longitude":174.75019,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.714101,
+    "lbl:longitude":174.742304,
+    "mps:latitude":-36.716033,
+    "mps:longitude":174.745799,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Browns Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Browns Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Browns Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Browns Bay"
+    ],
+    "name:unk_x_variant":[
+        "Browns Bay"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Browns Bay",
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Browns Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":65,
+    "qs:photo_sum":273,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":24,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6231794,
+        "gp:id":2348237,
+        "qs:id":1075613,
+        "qs_pg:id":1075613
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d8c3e940b426f15003c21a2710909293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85772855,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85772855,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859587,
+    "wof:name":"Browns Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.742304,
+    -36.714101,
+    174.742304,
+    -36.714101
+],
+  "geometry": {"coordinates":[174.74230399999999,-36.714101],"type":"Point"}
+}

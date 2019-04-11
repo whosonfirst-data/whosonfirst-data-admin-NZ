@@ -1,0 +1,93 @@
+{
+  "id": 1126014163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.25,-35.23333,174.25,-35.23333",
+    "geom:latitude":-35.23333,
+    "geom:longitude":174.25,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.23333,
+    "lbl:longitude":174.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rawhiti"
+    ],
+    "name:eng_x_preferred":[
+        "Rawhiti"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2183599,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rawhiti",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Northland",
+    "qs_pg:photos":330,
+    "qs_pg:photos_1k":67,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":330,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":247166,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350379,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Northland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183599,
+        "gp:id":2350379,
+        "qs_pg:id":247166,
+        "wd:id":"Q7296991"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497300451,
+    "wof:geomhash":"dc731aa93d28a4f769ce8f4b14a70b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1126014163,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1126014163,
+    "wof:lastmodified":1514494413,
+    "wof:name":"Rawhiti",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.25,
+    -35.23333,
+    174.25,
+    -35.23333
+],
+  "geometry": {"coordinates":[174.25,-35.23333],"type":"Point"}
+}

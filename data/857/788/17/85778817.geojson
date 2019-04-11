@@ -1,0 +1,110 @@
+{
+  "id": 85778817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11956123.688819,
+    "geom:bbox":"176.17375,-37.63054,176.17375,-37.63054",
+    "geom:latitude":-37.63054,
+    "geom:longitude":176.17375,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-37.63054,
+    "lbl:longitude":176.17375,
+    "mps:latitude":-37.626991,
+    "mps:longitude":176.165988,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Mount Maunganui South"
+    ],
+    "name:eng_x_variant":[
+        "Mt Maunganui South",
+        "Mt. Maunganui South"
+    ],
+    "name:unk_x_variant":[
+        "Mount Maunganui South"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2208032,
+    "qs:gn_nam_loc":"Tauranga, Tauranga City, Bay of Plenty, NZ",
+    "qs:gn_namadm1":"E8",
+    "qs:gn_name":"Mount Maunganui",
+    "qs:local_max":2147,
+    "qs:local_sum":7947,
+    "qs:localhoods":21,
+    "qs:name":"Mount Maunganui South",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Tauranga City",
+    "qs:name_local":"Tauranga",
+    "qs:photo_max":292,
+    "qs:photo_sum":1803,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":42,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875891,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350751,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079285,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726611,
+        "qs:id":366884
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a245fbaa5fd9d86ca5e79bf450e5525e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":-1,
+            "neighbourhood_id":85778817,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":85778817,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859835,
+    "wof:name":"Mount Maunganui South",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.17375,
+    -37.63054,
+    176.17375,
+    -37.63054
+],
+  "geometry": {"coordinates":[176.17375000000001,-37.63054],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242711667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.365,-41.18611,173.365,-41.18611",
+    "geom:latitude":-41.18611,
+    "geom:longitude":173.365,
+    "gn:admin1_code":"F5",
+    "gn:admin2_code":"52.0",
+    "gn:asciiname":"Glenduan",
+    "gn:country_code":"NZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2207486,
+    "gn:latitude":-41.18611,
+    "gn:longitude":173.365,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Glenduan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687157,
+        102079351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2207486
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6100d30daadf7a4a1935bfd559006d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":1242711667,
+            "region_id":85687157
+        }
+    ],
+    "wof:id":1242711667,
+    "wof:lastmodified":1536869565,
+    "wof:name":"Glenduan",
+    "wof:parent_id":102079351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.365,
+    -41.18611,
+    173.365,
+    -41.18611
+],
+  "geometry": {"coordinates":[173.36500000000001,-41.18611],"type":"Point"}
+}

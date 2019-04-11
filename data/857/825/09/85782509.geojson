@@ -1,0 +1,107 @@
+{
+  "id": 85782509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5756965.66577,
+    "geom:bbox":"175.882713,-38.219609,175.882713,-38.219609",
+    "geom:latitude":-38.219609,
+    "geom:longitude":175.882713,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-38.219609,
+    "lbl:longitude":175.882713,
+    "mps:latitude":-38.211607,
+    "mps:longitude":175.877439,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Tokoroa Central"
+    ],
+    "name:unk_x_variant":[
+        "Tokoroa Central"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2180995,
+    "qs:gn_nam_loc":"tokoroa",
+    "qs:gn_namadm1":"G1",
+    "qs:local_max":189,
+    "qs:local_sum":296,
+    "qs:localhoods":2,
+    "qs:name":"Tokoroa Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Waikato",
+    "qs:name_adm2":"South Waikato District",
+    "qs:name_local":"Tokoroa",
+    "qs:photo_max":92,
+    "qs:photo_sum":107,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021765,
+    "qs:woe_adm2":55875897,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350954,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079277,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676773,
+        "qs:id":984452,
+        "qs_pg:id":984452
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f2f8dbaf168416057cb2fb9170bbe5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":-1,
+            "neighbourhood_id":85782509,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":85782509,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860388,
+    "wof:name":"Tokoroa Central",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.882713,
+    -38.219609,
+    175.882713,
+    -38.219609
+],
+  "geometry": {"coordinates":[175.882713,-38.219609],"type":"Point"}
+}

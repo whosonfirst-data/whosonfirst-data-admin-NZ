@@ -1,0 +1,117 @@
+{
+  "id": 85778557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14136047.076688,
+    "geom:bbox":"174.707057,-36.604371,174.707057,-36.604371",
+    "geom:latitude":-36.604371,
+    "geom:longitude":174.707057,
+    "gn:latitude":-36.61236,
+    "gn:longitude":174.68871,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.604371,
+    "lbl:longitude":174.707057,
+    "mps:latitude":-36.601717,
+    "mps:longitude":174.702556,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Red Beach"
+    ],
+    "name:mri_x_preferred":[
+        "Red Beach"
+    ],
+    "name:unk_x_variant":[
+        "Red Beach"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2179313,
+    "qs:gn_nam_loc":"whangaparaoa",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Red Beach",
+    "qs:local_max":358,
+    "qs:local_sum":1491,
+    "qs:localhoods":9,
+    "qs:name":"Red Beach",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Whangaparaoa",
+    "qs:photo_max":55,
+    "qs:photo_sum":249,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351363,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":282,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914559,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2207667,
+        "gp:id":22726505,
+        "qs:id":905580,
+        "qs_pg:id":905580,
+        "wd:id":"Q7303732",
+        "wk:page":"Red Beach"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"68a55f0be907d7cb0ca0d5938a4ddc70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914559,
+            "neighbourhood_id":85778557,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778557,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859808,
+    "wof:name":"Red Beach",
+    "wof:parent_id":101914559,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.707057,
+    -36.604371,
+    174.707057,
+    -36.604371
+],
+  "geometry": {"coordinates":[174.70705699999999,-36.604371],"type":"Point"}
+}

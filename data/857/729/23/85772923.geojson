@@ -1,0 +1,104 @@
+{
+  "id": 85772923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9483160.90359,
+    "geom:bbox":"170.433812,-45.904126,170.433812,-45.904126",
+    "geom:latitude":-45.904126,
+    "geom:longitude":170.433812,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.904126,
+    "lbl:longitude":170.433812,
+    "mps:latitude":-45.919123,
+    "mps:longitude":170.431185,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Green Island"
+    ],
+    "name:unk_x_variant":[
+        "Green Island"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2191562,
+    "qs:id":0,
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Green Island",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":120,
+    "qs:photo_sum":167,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":366,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2348650
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5b0e59a250246cfe5ccede18ee1d4a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772923,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85772923,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859604,
+    "wof:name":"Green Island",
+    "wof:parent_id":101914269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.433812,
+    -45.904126,
+    170.433812,
+    -45.904126
+],
+  "geometry": {"coordinates":[170.43381199999999,-45.904126],"type":"Point"}
+}

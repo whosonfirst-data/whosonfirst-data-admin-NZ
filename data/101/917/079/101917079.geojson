@@ -1,0 +1,81 @@
+{
+  "id": 101917079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14357.777296,
+    "geom:bbox":"171.034761556,-44.7265668365,171.037391825,-44.7252323259",
+    "geom:latitude":-44.725966,
+    "geom:longitude":171.036072,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.725857,
+    "lbl:longitude":171.035959,
+    "mps:latitude":-44.725857,
+    "mps:longitude":171.035959,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waimate"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waimate",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":936,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df210-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6214808,
+        "gp:id":2351137,
+        "qs:id":1053627,
+        "wd:id":"Q584478",
+        "wk:page":"Waimate"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7b30c2e579ecd0ff3cc9aa7cee427ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079379,
+            "locality_id":101917079,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101917079,
+    "wof:lastmodified":1527715906,
+    "wof:name":"Waimate",
+    "wof:parent_id":102079379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914701
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.03476155564456,
+    -44.72656683652792,
+    171.03739182458662,
+    -44.7252323258508
+],
+  "geometry": {"coordinates":[[[171.03476155564456,-44.72630974809071],[171.03610190531401,-44.7252323258508],[171.03726828593889,-44.72597197218192],[171.03739182458662,-44.72605069005244],[171.03737879742343,-44.72606333678105],[171.0369497850246,-44.72640832906945],[171.03680079533606,-44.72634321386176],[171.03633178210936,-44.72608241430461],[171.03578406388681,-44.7265010543984],[171.03548536278049,-44.72633993655099],[171.03519237018898,-44.72656683652792],[171.03476155564456,-44.72630974809071]]],"type":"Polygon"}
+}

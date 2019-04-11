@@ -1,0 +1,62 @@
+{
+  "id": 1209549371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.48333,-36.85,175.48333,-36.85",
+    "geom:latitude":-36.85,
+    "geom:longitude":175.48333,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Ahimia",
+    "gn:country_code":"NZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2194100,
+    "gn:latitude":-36.85,
+    "gn:longitude":175.48333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Ahimia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194100
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f3985392c806caed0a8e294fd96b3522",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209549371
+        }
+    ],
+    "wof:id":1209549371,
+    "wof:lastmodified":1536283742,
+    "wof:name":"Ahimia",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.48333,
+    -36.85,
+    175.48333,
+    -36.85
+],
+  "geometry": {"coordinates":[175.48333,-36.85],"type":"Point"}
+}

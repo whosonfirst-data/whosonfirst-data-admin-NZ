@@ -1,0 +1,78 @@
+{
+  "id": 101915473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15162.67063,
+    "geom:bbox":"174.609530609,-36.7841153972,174.610741429,-36.7810698205",
+    "geom:latitude":-36.782671,
+    "geom:longitude":174.610115,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.783687,
+    "lbl:longitude":174.609908,
+    "mps:latitude":-36.783687,
+    "mps:longitude":174.609908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Whenuapai"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Whenuapai",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1086,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179168,
+        "gp:id":56072945,
+        "wd:id":"Q7993089"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ae7e5116d08d6fc7c2fc5f72165f3909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915473,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101915473,
+    "wof:lastmodified":1527643139,
+    "wof:name":"Whenuapai",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914869
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.60953060942597,
+    -36.78411539724277,
+    174.61074142883487,
+    -36.78106982051909
+],
+  "geometry": {"coordinates":[[[174.61021074610298,-36.78106982051909],[174.61074142883487,-36.78117105187805],[174.6102144296496,-36.78276320298518],[174.61007928694389,-36.78317146985366],[174.6103922146691,-36.78354483181188],[174.61025085830514,-36.78411539724277],[174.60953060942597,-36.78394684225755],[174.61021074610298,-36.78106982051909]]],"type":"Polygon"}
+}

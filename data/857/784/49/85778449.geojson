@@ -1,0 +1,110 @@
+{
+  "id": 85778449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000216,
+    "geom:area_square_m":2138844.656535,
+    "geom:bbox":"174.814453125,-36.879620605,174.836425781,-36.8664374886",
+    "geom:latitude":-36.873308,
+    "geom:longitude":174.826671,
+    "gn:latitude":-36.8682,
+    "gn:longitude":174.82019,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.873896,
+    "lbl:longitude":174.82621,
+    "mps:latitude":-36.872694,
+    "mps:longitude":174.827981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Meadowbank"
+    ],
+    "name:unk_x_variant":[
+        "Meadowbank"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Meadowbank",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Meadowbank",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":163,
+    "qs:photo_sum":359,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":57,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232304,
+        "gp:id":22726449,
+        "qs:id":24289,
+        "qs_pg:id":24289
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"96c1fc727201c7851cbb852120d64d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778449,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778449,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527639346,
+    "wof:name":"Meadowbank",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.81445312500017,
+    -36.87962060500001,
+    174.83642578100063,
+    -36.86643748857502
+],
+  "geometry": {"coordinates":[[[174.8309326675826,-36.8664375518],[174.83269048759945,-36.86863472729985],[174.83642578100063,-36.86863472729985],[174.83642578100046,-36.87083215559997],[174.83642578100029,-36.8752264435001],[174.83642578100006,-36.87522650670004],[174.83642573044392,-36.87522650669995],[174.83589701421397,-36.87588744808486],[174.83548745463094,-36.87844748454093],[174.83093261700031,-36.87958633562192],[174.82818603500044,-36.87889960469256],[174.82547365480053,-36.87957778410829],[174.82543945300057,-36.87962054179972],[174.82543945300006,-36.87962060500001],[174.81994628900009,-36.87962060500001],[174.81994628900026,-36.87962054179972],[174.81994628900026,-36.87663412439444],[174.81882028958853,-36.87522650670004],[174.81445312500017,-36.87522650670004],[174.81445312500034,-36.87522644349993],[174.81445312500034,-36.87083215559997],[174.81445312500034,-36.87083209242491],[174.81882021377413,-36.87083209242491],[174.81994628900009,-36.8694245014247],[174.82114112248593,-36.86793096278474],[174.82269287100013,-36.86820805330593],[174.8242446195149,-36.86793096278474],[174.82543940241828,-36.8664375518],[174.8254394530004,-36.86643748857511],[174.83093261700031,-36.86643748857502],[174.8309326675826,-36.8664375518]]],"type":"Polygon"}
+}

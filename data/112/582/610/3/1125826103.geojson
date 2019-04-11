@@ -1,0 +1,82 @@
+{
+  "id": 1125826103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.339855,-42.092299,171.339855,-42.092299",
+    "geom:latitude":-42.092299,
+    "geom:longitude":171.339855,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.092299,
+    "lbl:longitude":171.339855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Te Miko",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"West Coast",
+    "qs_pg:photos":632,
+    "qs_pg:photos_1k":128,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":632,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1088581,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644618,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"West Coast",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644618,
+        "qs_pg:id":1088581
+    },
+    "wof:country":"NZ",
+    "wof:created":1497292285,
+    "wof:geomhash":"1d8836fa264dbb2882e9b868965b4073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":1125826103,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1125826103,
+    "wof:lastmodified":1509394406,
+    "wof:name":"Te Miko",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.339855,
+    -42.092299,
+    171.339855,
+    -42.092299
+],
+  "geometry": {"coordinates":[171.339855,-42.092299],"type":"Point"}
+}

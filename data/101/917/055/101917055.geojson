@@ -1,0 +1,84 @@
+{
+  "id": 101917055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":47774.914095,
+    "geom:bbox":"170.684983981,-45.5940396257,170.68794756,-45.590318898",
+    "geom:latitude":-45.591742,
+    "geom:longitude":170.68602,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.590841,
+    "lbl:longitude":170.686611,
+    "mps:latitude":-45.590841,
+    "mps:longitude":170.686611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waikouaiti"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waikouaiti",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":845,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d2452-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6212017,
+        "gp:id":2351120,
+        "qs:id":895070,
+        "wd:id":"Q1001232",
+        "wk:page":"Waikouaiti"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"509267aa5f9842f5c13603f421262e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101917055,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101917055,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715908,
+    "wof:name":"Waikouaiti",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915373
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.68498398141298,
+    -45.59403962565334,
+    170.68794755980824,
+    -45.59031889800978
+],
+  "geometry": {"coordinates":[[[170.68794755980824,-45.59035442401114],[170.68788459971239,-45.5913693712702],[170.6857813441666,-45.59135651358457],[170.68578975532387,-45.59156635440665],[170.68576544254012,-45.59309695930558],[170.68628668734314,-45.59314396487686],[170.68619890061166,-45.59403962565334],[170.68534011294568,-45.59403452699364],[170.68499674419542,-45.59403245860404],[170.68503343784377,-45.59363535566919],[170.68504388013963,-45.59350790353808],[170.68498712104875,-45.59242652293125],[170.68498398141298,-45.59033658373953],[170.68548581788127,-45.59033101540835],[170.68657853685332,-45.59031889800978],[170.6876571378819,-45.59033979796272],[170.68782579893144,-45.59035386556318],[170.68794755980824,-45.59035442401114]]],"type":"Polygon"}
+}

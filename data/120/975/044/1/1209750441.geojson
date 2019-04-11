@@ -1,0 +1,68 @@
+{
+  "id": 1209750441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.91973,-43.89576,168.91973,-43.89576",
+    "geom:latitude":-43.89576,
+    "geom:longitude":168.91973,
+    "gn:admin1_code":"G3",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Johnston Cres",
+    "gn:country_code":"NZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9694409,
+    "gn:latitude":-43.89576,
+    "gn:longitude":168.91973,
+    "gn:modification_date":"2014-10-10",
+    "gn:name":"Johnston Cres",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9694409
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6f45837d7796ffab22e2fb378f35852d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1209750441,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1209750441,
+    "wof:lastmodified":1536393026,
+    "wof:name":"Johnston Cres",
+    "wof:parent_id":102079363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.91973000000004,
+    -43.89576,
+    168.91973000000004,
+    -43.89576
+],
+  "geometry": {"coordinates":[168.91973000000004,-43.89576],"type":"Point"}
+}

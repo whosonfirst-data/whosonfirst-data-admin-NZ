@@ -1,0 +1,83 @@
+{
+  "id": 101918021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14316.315072,
+    "geom:bbox":"170.470990359,-44.7397978533,170.472815254,-44.7380004024",
+    "geom:latitude":-44.738943,
+    "geom:longitude":170.471832,
+    "gn:population":422,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.738961,
+    "lbl:longitude":170.471815,
+    "mps:latitude":-44.738961,
+    "mps:longitude":170.471815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kurow"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kurow",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":359,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188574,
+        "gp:id":2349144,
+        "wd:id":"Q1292255",
+        "wk:page":"Kurow"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ba7238fd290e2e3c281bc339a48dca5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101918021,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918021,
+    "wof:lastmodified":1527715676,
+    "wof:name":"Kurow",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:population":422,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914511
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.47099035883798,
+    -44.73979785326932,
+    170.472815254159,
+    -44.73800040241817
+],
+  "geometry": {"coordinates":[[[170.472815254159,-44.73941202013522],[170.47269125741613,-44.73947596197898],[170.47223136945871,-44.73974421440549],[170.47213054905808,-44.73979785326932],[170.47175229475641,-44.73951594042504],[170.47167019482023,-44.73945475092082],[170.47155745874869,-44.73937307753854],[170.47111046866382,-44.73895373175579],[170.47099591643206,-44.73873696482903],[170.47099035883798,-44.73854146674863],[170.47110401005907,-44.7384460480061],[170.4716008788385,-44.73802888398112],[170.4716576746207,-44.73800040241817],[170.47182433383961,-44.73820501617231],[170.47253036553116,-44.73907181959219],[170.472815254159,-44.73941202013522]]],"type":"Polygon"}
+}

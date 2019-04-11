@@ -1,0 +1,91 @@
+{
+  "id": 101916295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":135035.164167,
+    "geom:bbox":"175.505893423,-40.4750074939,175.512670159,-40.4694740423",
+    "geom:latitude":-40.472186,
+    "geom:longitude":175.509465,
+    "gn:population":563,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.471984,
+    "lbl:longitude":175.509413,
+    "mps:latitude":-40.471981,
+    "mps:longitude":175.509417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tokomaru"
+    ],
+    "name:eng_x_preferred":[
+        "Tokomaru"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tokomaru",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dcdd0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181001,
+        "gp:id":2350951,
+        "qs:id":520385,
+        "qs_pg:id":520385,
+        "wd:id":"Q7813666"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e17db4f6c73cae88116838a7ba8268b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101916295,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101916295,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715558,
+    "wof:name":"Tokomaru",
+    "wof:parent_id":102079313,
+    "wof:placetype":"locality",
+    "wof:population":563,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.50589342297732,
+    -40.47500749389887,
+    175.512670158576,
+    -40.46947404226292
+],
+  "geometry": {"coordinates":[[[175.5084194993822,-40.47446074803443],[175.50736681360863,-40.47369349481447],[175.50589342297732,-40.47262183925866],[175.50643418348659,-40.47219022329794],[175.5074318481943,-40.47138827275935],[175.50821939100493,-40.47194325880268],[175.50982555662853,-40.47069286872873],[175.51142930408616,-40.46947404226292],[175.51155000828186,-40.46948402563843],[175.51210811333942,-40.46989712561987],[175.51265312535361,-40.47027537006871],[175.51143583283317,-40.47132271480677],[175.51267015857599,-40.47221481254339],[175.51220040476488,-40.47258814834214],[175.51183627189218,-40.47288349783144],[175.51061753593763,-40.47202979404653],[175.50892125331268,-40.473331709946],[175.51012796099559,-40.47427398918142],[175.50981878166081,-40.4745248880557],[175.50917138423961,-40.47500749389887],[175.5084194993822,-40.47446074803443]]],"type":"Polygon"}
+}

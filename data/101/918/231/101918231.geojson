@@ -1,0 +1,83 @@
+{
+  "id": 101918231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9739.725834,
+    "geom:bbox":"175.328644578,-38.8940908279,175.331180918,-38.8929133217",
+    "geom:latitude":-38.893505,
+    "geom:longitude":175.329914,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.893511,
+    "lbl:longitude":175.32993,
+    "mps:latitude":-38.893511,
+    "mps:longitude":175.32993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Manunui"
+    ],
+    "name:eng_x_variant":[
+        "Manunui Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Manunui",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":292,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c44ba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2187401,
+        "gp:id":2349389,
+        "wd:id":"Q6753166",
+        "wk:page":"Manunui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a771135ac5129d7a562f73d4b2b7262c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918231,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918231,
+    "wof:lastmodified":1527715676,
+    "wof:name":"Manunui",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916367
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.3286445777161,
+    -38.89409082786763,
+    175.33118091780952,
+    -38.89291332173246
+],
+  "geometry": {"coordinates":[[[175.32888147301421,-38.89291332173246],[175.33118091780952,-38.89374130587672],[175.33096079652736,-38.89409082786763],[175.33069508027779,-38.89400504464085],[175.32946304121006,-38.89356389413525],[175.32864457771609,-38.8932649235849],[175.32888147301421,-38.89291332173246]]],"type":"Polygon"}
+}

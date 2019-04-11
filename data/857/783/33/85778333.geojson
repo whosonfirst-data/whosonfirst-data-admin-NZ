@@ -1,0 +1,121 @@
+{
+  "id": 85778333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1146649.044321,
+    "geom:bbox":"174.728429919,-36.8674932306,174.74029541,-36.8518446403",
+    "geom:latitude":-36.859658,
+    "geom:longitude":174.734666,
+    "gn:latitude":-36.86489,
+    "gn:longitude":174.73695,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.860096,
+    "lbl:longitude":174.736236,
+    "mps:latitude":-36.859164,
+    "mps:longitude":174.734186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Grey Lynn"
+    ],
+    "name:eng_x_variant":[
+        "Greylynn"
+    ],
+    "name:fra_x_preferred":[
+        "Grey Lynn"
+    ],
+    "name:pol_x_preferred":[
+        "Grey Lynn"
+    ],
+    "name:unk_x_variant":[
+        "Grey Lynn"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Grey Lynn",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Grey Lynn",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":49,
+    "qs:photo_sum":331,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1867,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232260,
+        "gp:id":22726387,
+        "qs:id":1136952,
+        "qs_pg:id":1136952,
+        "wd:id":"Q3560789",
+        "wk:page":"Grey Lynn"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"cceb4d1dd0d9f2b08b0be869a4dd71b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778333,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778333,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527639344,
+    "wof:name":"Grey Lynn",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.728429919142,
+    -36.86749323061316,
+    174.7402954100001,
+    -36.85184464025151
+],
+  "geometry": {"coordinates":[[[174.7375488261132,-36.86643754642199],[174.73670423402592,-36.86749323061316],[174.73480224600036,-36.86670076010351],[174.73480224600019,-36.8664375518],[174.73480224600036,-36.86424014899042],[174.73205566400048,-36.86424014579787],[174.73205566400048,-36.86204268908083],[174.72930908200044,-36.86204268588321],[174.72930908200044,-36.85984516540624],[174.728429919142,-36.85874634719986],[174.72930907975598,-36.85764757591657],[174.72930908200044,-36.85544992819987],[174.72930908200044,-36.85325222340004],[174.72930908200061,-36.85298878371593],[174.73205566400048,-36.85184464025151],[174.73480224600036,-36.85298878371593],[174.73480224600019,-36.85325222340004],[174.73480224600036,-36.85544992688324],[174.73754882800023,-36.85544993008095],[174.73754882800023,-36.85764757639779],[174.7402954100001,-36.85764757858892],[174.7402954100001,-36.85984516210932],[174.7402954100001,-36.8620426852248],[174.7402954100001,-36.86424014514052],[174.7402954100001,-36.86643754265656],[174.7375488261132,-36.86643754642199]]],"type":"Polygon"}
+}

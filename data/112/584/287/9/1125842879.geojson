@@ -1,0 +1,82 @@
+{
+  "id": 1125842879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.006842,-40.874015,175.006842,-40.874015",
+    "geom:latitude":-40.874015,
+    "geom:longitude":175.006842,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.874015,
+    "lbl:longitude":175.006842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kena Kena",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":190,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":190,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":236968,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":23424706,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23424706,
+        "qs_pg:id":236968
+    },
+    "wof:country":"NZ",
+    "wof:created":1497293012,
+    "wof:geomhash":"32fe1d44b5af42207d5ccf304820bea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":1125842879,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1125842879,
+    "wof:lastmodified":1509395387,
+    "wof:name":"Kena Kena",
+    "wof:parent_id":102079315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.006842,
+    -40.874015,
+    175.006842,
+    -40.874015
+],
+  "geometry": {"coordinates":[175.00684200000001,-40.874015],"type":"Point"}
+}

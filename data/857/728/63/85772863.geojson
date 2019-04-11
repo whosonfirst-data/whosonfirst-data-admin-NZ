@@ -1,0 +1,108 @@
+{
+  "id": 85772863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5430481.840483,
+    "geom:bbox":"172.693708,-43.487692,172.693708,-43.487692",
+    "geom:latitude":-43.487692,
+    "geom:longitude":172.693708,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.487692,
+    "lbl:longitude":172.693708,
+    "mps:latitude":-43.49079,
+    "mps:longitude":172.680022,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Burwood"
+    ],
+    "name:unk_x_variant":[
+        "Burwood"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Burwood",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Burwood",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":135,
+    "qs:photo_sum":319,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079401,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6220368,
+        "gp:id":2348259,
+        "qs:id":479642,
+        "qs_pg:id":479642
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0fb46d55da2fbeb9899ca775de4a368e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":-1,
+            "neighbourhood_id":85772863,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85772863,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859589,
+    "wof:name":"Burwood",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.693708,
+    -43.487692,
+    172.693708,
+    -43.487692
+],
+  "geometry": {"coordinates":[172.69370799999999,-43.487692],"type":"Point"}
+}

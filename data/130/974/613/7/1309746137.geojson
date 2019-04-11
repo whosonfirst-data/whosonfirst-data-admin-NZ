@@ -1,0 +1,68 @@
+{
+  "id": 1309746137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.81667,-46.31667,167.81667,-46.31667",
+    "geom:latitude":-46.31667,
+    "geom:longitude":167.81667,
+    "gn:admin1_code":"F8",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Round Hill",
+    "gn:country_code":"NZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183201,
+    "gn:latitude":-46.31667,
+    "gn:longitude":167.81667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Round Hill",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183201
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e7d7bd0ac3019706b7adb597ff4f2006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1309746137,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1309746137,
+    "wof:lastmodified":1537016493,
+    "wof:name":"Round Hill",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.81667,
+    -46.31667,
+    167.81667,
+    -46.31667
+],
+  "geometry": {"coordinates":[167.81666999999999,-46.31667],"type":"Point"}
+}

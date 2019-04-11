@@ -1,0 +1,77 @@
+{
+  "id": 101916395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":49453.577166,
+    "geom:bbox":"173.000064722,-41.1395331635,173.00727968,-41.136256106",
+    "geom:latitude":-41.138547,
+    "geom:longitude":173.003914,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.139173,
+    "lbl:longitude":173.003917,
+    "mps:latitude":-41.139173,
+    "mps:longitude":173.003917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Moutere"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lower Moutere",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d923e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2188159,
+        "gp:id":2349243
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0085d1344090055a9b48afedf0821aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101916395,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":101916395,
+    "wof:lastmodified":1487269911,
+    "wof:name":"Lower Moutere",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916393
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.00006472229808,
+    -41.13953316352296,
+    173.00727967998498,
+    -41.1362561059914
+],
+  "geometry": {"coordinates":[[[173.00505642957589,-41.13953316352296],[173.00006472229808,-41.13939920657619],[173.00007056737934,-41.13921163688256],[173.00008452390526,-41.13876689051098],[173.00203661435438,-41.13879728370998],[173.00473469374032,-41.13886501013423],[173.00531196822359,-41.13730969428794],[173.00619194067681,-41.13748221129481],[173.00665770392592,-41.1362561059914],[173.00727967998498,-41.13637756347828],[173.00672318334341,-41.13789596992513],[173.00574196055516,-41.13768824980745],[173.00535596635962,-41.13870426784121],[173.0053547753964,-41.1387069692221],[173.00535179786772,-41.13871444331595],[173.00506560067706,-41.13951686472876],[173.00505642957589,-41.13953316352296]]],"type":"Polygon"}
+}

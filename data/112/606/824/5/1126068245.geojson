@@ -1,0 +1,93 @@
+{
+  "id": 1126068245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.05,-39.91667,175.05,-39.91667",
+    "geom:latitude":-39.91667,
+    "geom:longitude":175.05,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.91667,
+    "lbl:longitude":175.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2193863,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Aramoho",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Manawatu Wanganui",
+    "qs_pg:photos":72,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":72,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1175995,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348031,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Manawatu Wanganui",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85687251,
+        102191583,
+        85633345,
+        102079299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193863,
+        "gp:id":2348031,
+        "qs_pg:id":1175995
+    },
+    "wof:country":"NZ",
+    "wof:created":1497309293,
+    "wof:geomhash":"5ea94a05c0d95b5a648b9982bee0df2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":-1,
+            "neighbourhood_id":1126068245,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1126068245,
+    "wof:lastmodified":1534379391,
+    "wof:name":"Aramoho",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        85772829
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.05,
+    -39.91667,
+    175.05,
+    -39.91667
+],
+  "geometry": {"coordinates":[175.05000000000001,-39.91667],"type":"Point"}
+}

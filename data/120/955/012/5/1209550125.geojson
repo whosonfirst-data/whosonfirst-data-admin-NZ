@@ -1,0 +1,62 @@
+{
+  "id": 1209550125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.68333,-44.86667,168.68333,-44.86667",
+    "geom:latitude":-44.86667,
+    "geom:longitude":168.68333,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"70.0",
+    "gn:asciiname":"Maori Point",
+    "gn:country_code":"NZ",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187374,
+    "gn:latitude":-44.86667,
+    "gn:longitude":168.68333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Maori Point",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187374
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"80eb1dd52b9a180d4fd7f4d2898df8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209550125
+        }
+    ],
+    "wof:id":1209550125,
+    "wof:lastmodified":1536283721,
+    "wof:name":"Maori Point",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.68333,
+    -44.86667,
+    168.68333,
+    -44.86667
+],
+  "geometry": {"coordinates":[168.68333000000001,-44.86667],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 101918661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9972.215981,
+    "geom:bbox":"171.208772848,-44.3818878014,171.210550658,-44.3808486181",
+    "geom:latitude":-44.381387,
+    "geom:longitude":171.209682,
+    "gn:population":28007,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.381454,
+    "lbl:longitude":171.209782,
+    "mps:latitude":-44.381454,
+    "mps:longitude":171.209782,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Timaru"
+    ],
+    "name:eng_x_variant":[
+        "TIU",
+        "Timaru City"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Timaru",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-44.4,
+    "wd:longitude":171.25,
+    "wd:wordcount":2736,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dfc24-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181133,
+        "gp:id":2350910,
+        "wd:id":"Q1016574",
+        "wk:page":"Timaru"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0f0d39dfab597858f379cd55e17cabed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101918661,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918661,
+    "wof:lastmodified":1527715672,
+    "wof:name":"Timaru",
+    "wof:parent_id":102079373,
+    "wof:placetype":"locality",
+    "wof:population":28007,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915527
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.20877284779365,
+    -44.38188780137118,
+    171.21055065765842,
+    -44.38084861812604
+],
+  "geometry": {"coordinates":[[[171.21052511827079,-44.38188780137118],[171.20936478005191,-44.38180444434119],[171.20940068577417,-44.38147557182354],[171.20888486676466,-44.3814385888474],[171.20877284779365,-44.38084861812604],[171.20950761907693,-44.38093899044228],[171.2095238172264,-44.38104599591612],[171.21030289465665,-44.38113300737611],[171.21055065765842,-44.38176983876713],[171.21052511827079,-44.38188780137118]]],"type":"Polygon"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 101917201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":53487.068336,
+    "geom:bbox":"175.642976408,-40.3947187047,175.650598692,-40.391723505",
+    "geom:latitude":-40.393359,
+    "geom:longitude":175.647251,
+    "gn:population":75996,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.393402,
+    "lbl:longitude":175.647193,
+    "mps:latitude":-40.393402,
+    "mps:longitude":175.647193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Palmerston North"
+    ],
+    "name:eng_x_variant":[
+        "PMR",
+        "Palmerston North City"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Palmerston North",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-40.354911,
+    "wd:longitude":175.609511,
+    "wd:wordcount":6180,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dfbf2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185018,
+        "gp:id":2350025,
+        "wd:id":"Q212289",
+        "wk:page":"Palmerston North"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"05739cdad5de62b514702660d63ce50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101917201,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101917201,
+    "wof:lastmodified":1527715914,
+    "wof:name":"Palmerston North",
+    "wof:parent_id":102079307,
+    "wof:placetype":"locality",
+    "wof:population":75996,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914259
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.64297640824557,
+    -40.39471870473942,
+    175.65059869163784,
+    -40.39172350498289
+],
+  "geometry": {"coordinates":[[[175.65059869163784,-40.39423557773827],[175.65010129427816,-40.39471870473942],[175.64974629637331,-40.39459468635498],[175.64806991972918,-40.39424937887019],[175.6472346617546,-40.39392617721758],[175.64541349635294,-40.39310390966227],[175.64421809532971,-40.39261145059749],[175.64297640824557,-40.39192992410899],[175.64333361851379,-40.39172350498289],[175.6436535155166,-40.39194773129785],[175.64463163061515,-40.39242896402282],[175.64463762335012,-40.39243152961217],[175.64532975369147,-40.39274181653526],[175.6456871827491,-40.39203080941311],[175.64648799116719,-40.3922277680256],[175.64633077629006,-40.39248546829686],[175.64792561714108,-40.39324624578862],[175.64820215413206,-40.3933561243508],[175.64924085216316,-40.39361148059921],[175.6499728646906,-40.39379035468463],[175.65052710466699,-40.3940873830534],[175.65059869163784,-40.39423557773827]]],"type":"Polygon"}
+}

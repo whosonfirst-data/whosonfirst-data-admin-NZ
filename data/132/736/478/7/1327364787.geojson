@@ -1,0 +1,68 @@
+{
+  "id": 1327364787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.5,-41.7,172.5,-41.7",
+    "geom:latitude":-41.7,
+    "geom:longitude":172.5,
+    "gn:admin1_code":"TAS",
+    "gn:admin2_code":"51.0",
+    "gn:asciiname":"Owen Junction",
+    "gn:country_code":"NZ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185163,
+    "gn:latitude":-41.7,
+    "gn:longitude":172.5,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Owen Junction",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185163
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"412e73c58777890f16b804adb54c20b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1327364787,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1327364787,
+    "wof:lastmodified":1536779085,
+    "wof:name":"Owen Junction",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.5,
+    -41.7,
+    172.5,
+    -41.7
+],
+  "geometry": {"coordinates":[172.5,-41.7],"type":"Point"}
+}

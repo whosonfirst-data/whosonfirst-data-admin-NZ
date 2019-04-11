@@ -1,0 +1,73 @@
+{
+  "id": 1277013467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.93174,-36.89359,174.93174,-36.89359",
+    "geom:latitude":-36.89359,
+    "geom:longitude":174.93174,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Howick",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189715,
+    "gn:latitude":-36.89359,
+    "gn:longitude":174.93174,
+    "gn:modification_date":"2014-07-05",
+    "gn:name":"Howick",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Howick Town District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189715,
+        "wk:page":"Howick%2C_New_Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3eefe9ec4737e3be0fcc4a870500dee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1277013467,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1277013467,
+    "wof:lastmodified":1537676146,
+    "wof:name":"Howick",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.93174,
+    -36.89359,
+    174.93174,
+    -36.89359
+],
+  "geometry": {"coordinates":[174.93173999999999,-36.89359],"type":"Point"}
+}

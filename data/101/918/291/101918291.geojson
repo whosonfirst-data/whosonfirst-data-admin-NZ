@@ -1,0 +1,84 @@
+{
+  "id": 101918291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13982.457725,
+    "geom:bbox":"174.879914237,-37.8041517186,174.88197261,-37.8022905678",
+    "geom:latitude":-37.803287,
+    "geom:longitude":174.880973,
+    "gn:population":2863,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.803388,
+    "lbl:longitude":174.880941,
+    "mps:latitude":-37.803388,
+    "mps:longitude":174.880941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Raglan"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Raglan",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":3343,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020defae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2183854,
+        "gp:id":2350308,
+        "wd:id":"Q984803",
+        "wk:page":"Raglan, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ba20226053e539d180433b0c8913937a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101918291,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918291,
+    "wof:lastmodified":1527715677,
+    "wof:name":"Raglan",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:population":2863,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915335
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.879914237071,
+    -37.80415171855638,
+    174.88197261011896,
+    -37.80229056782824
+],
+  "geometry": {"coordinates":[[[174.88037480692694,-37.80415171855638],[174.87991423707101,-37.80379910721177],[174.88026153102626,-37.80353808397728],[174.88147702265897,-37.80229056782824],[174.88197261011896,-37.8026777217261],[174.88130751068559,-37.80319746897803],[174.88157574203643,-37.80349479421184],[174.88037480692694,-37.80415171855638]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260316913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.08333,-37.85,176.08333,-37.85",
+    "geom:latitude":-37.85,
+    "geom:longitude":176.08333,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Omanawa Falls",
+    "gn:country_code":"NZ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185657,
+    "gn:latitude":-37.85,
+    "gn:longitude":176.08333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Omanawa Falls",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185657
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1ce122fdfbe50ff6b7e7f7631f92e604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":1260316913,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1260316913,
+    "wof:lastmodified":1536667216,
+    "wof:name":"Omanawa Falls",
+    "wof:parent_id":102079283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.08333000000005,
+    -37.85,
+    176.08333000000005,
+    -37.85
+],
+  "geometry": {"coordinates":[176.08333000000005,-37.85],"type":"Point"}
+}

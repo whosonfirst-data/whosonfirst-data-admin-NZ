@@ -1,0 +1,108 @@
+{
+  "id": 85782367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12501625.105398,
+    "geom:bbox":"175.481788,-37.884507,175.481788,-37.884507",
+    "geom:latitude":-37.884507,
+    "geom:longitude":175.481788,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-37.884507,
+    "lbl:longitude":175.481788,
+    "mps:latitude":-37.879439,
+    "mps:longitude":175.484571,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Cambridge Central"
+    ],
+    "name:unk_x_variant":[
+        "Cambridge Central"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6240770,
+    "qs:gn_nam_loc":"Cambridge, Waipa District, Waikato, NZ",
+    "qs:gn_namadm1":"G1",
+    "qs:local_max":399,
+    "qs:local_sum":940,
+    "qs:localhoods":3,
+    "qs:name":"Cambridge Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Waikato",
+    "qs:name_adm2":"Waipa District",
+    "qs:name_local":"Cambridge",
+    "qs:photo_max":80,
+    "qs:photo_sum":285,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021765,
+    "qs:woe_adm2":55875913,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348268,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914859,
+        102079273,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676723,
+        "qs:id":1088605,
+        "qs_pg:id":1088605
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0ba6d5fea54ffa6ffae0f159ebc6f61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101914859,
+            "neighbourhood_id":85782367,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":85782367,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860350,
+    "wof:name":"Cambridge Central",
+    "wof:parent_id":101914859,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.481788,
+    -37.884507,
+    175.481788,
+    -37.884507
+],
+  "geometry": {"coordinates":[175.48178799999999,-37.884507],"type":"Point"}
+}

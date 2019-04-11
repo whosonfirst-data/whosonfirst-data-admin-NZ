@@ -1,0 +1,76 @@
+{
+  "id": 101918069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18885.263939,
+    "geom:bbox":"174.824386146,-41.1816765043,174.825862683,-41.1798043554",
+    "geom:latitude":-41.180815,
+    "geom:longitude":174.825095,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.180834,
+    "lbl:longitude":174.825045,
+    "mps:latitude":-41.180834,
+    "mps:longitude":174.825045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tawa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tawa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":119,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q414271"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"63f768cc8fce99707d75fec4695bccd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101918069,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918069,
+    "wof:lastmodified":1527715678,
+    "wof:name":"Tawa",
+    "wof:parent_id":102079339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914575
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.82438614615359,
+    -41.18167650426653,
+    174.8258626828338,
+    -41.17980435535465
+],
+  "geometry": {"coordinates":[[[174.82559221901218,-41.18167153418315],[174.82457891515983,-41.18167426818335],[174.82443780404984,-41.18167650426653],[174.82443681603411,-41.18127262301552],[174.82438614615359,-41.18082495164154],[174.82474684731073,-41.18015598015024],[174.82495454028245,-41.17980435535465],[174.82513510115379,-41.17984931257374],[174.82517568127048,-41.17987334437685],[174.82586268283379,-41.18004427320015],[174.82580380281578,-41.18021081818966],[174.82563848970685,-41.18079267366849],[174.82561450768995,-41.18138741729879],[174.82559221901218,-41.18167153418315]]],"type":"Polygon"}
+}

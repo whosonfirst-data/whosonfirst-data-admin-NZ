@@ -1,0 +1,105 @@
+{
+  "id": 85780957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6954679.252511,
+    "geom:bbox":"176.867757,-39.540761,176.867757,-39.540761",
+    "geom:latitude":-39.540761,
+    "geom:longitude":176.867757,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-39.540761,
+    "lbl:longitude":176.867757,
+    "mps:latitude":-39.541181,
+    "mps:longitude":176.877536,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Jervoistown"
+    ],
+    "name:unk_x_variant":[
+        "Jervoistown"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2186313,
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Jervoistown",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":67,
+    "qs:photo_sum":119,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079331,
+        85687189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643872,
+        "qs:id":1286449,
+        "qs_pg:id":1286449
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fc1633599eab4f106ea01d899e1423f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":-1,
+            "neighbourhood_id":85780957,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":85780957,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860115,
+    "wof:name":"Jervoistown",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.867757,
+    -39.540761,
+    176.867757,
+    -39.540761
+],
+  "geometry": {"coordinates":[176.86775700000001,-39.540761],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242909991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.96667,-36.05,173.96667,-36.05",
+    "geom:latitude":-36.05,
+    "geom:longitude":173.96667,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Tokatoka",
+    "gn:country_code":"NZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181017,
+    "gn:latitude":-36.05,
+    "gn:longitude":173.96667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Tokatoka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181017
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5400d8f6c958d60c0c67d9ee930f693e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":1242909991,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1242909991,
+    "wof:lastmodified":1537078725,
+    "wof:name":"Tokatoka",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.96667,
+    -36.05,
+    173.96667,
+    -36.05
+],
+  "geometry": {"coordinates":[173.96666999999999,-36.05],"type":"Point"}
+}

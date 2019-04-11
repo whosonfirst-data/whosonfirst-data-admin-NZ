@@ -1,0 +1,110 @@
+{
+  "id": 85781319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1242969.447859,
+    "geom:bbox":"176.150299,-37.710698,176.150299,-37.710698",
+    "geom:latitude":-37.710698,
+    "geom:longitude":176.150299,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-37.710698,
+    "lbl:longitude":176.150299,
+    "mps:latitude":-37.71187,
+    "mps:longitude":176.149611,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Tauranga South"
+    ],
+    "name:unk_x_variant":[
+        "Tauranga South"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2208032,
+    "qs:gn_nam_loc":"Tauranga, Tauranga City, Bay of Plenty, NZ",
+    "qs:gn_namadm1":"E8",
+    "qs:local_max":2147,
+    "qs:local_sum":7947,
+    "qs:localhoods":21,
+    "qs:name":"Tauranga South",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Tauranga City",
+    "qs:name_local":"Tauranga",
+    "qs:photo_max":13,
+    "qs:photo_sum":27,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875891,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350751,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":44,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914325,
+        102079285,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644257,
+        "qs:id":1258194,
+        "qs_pg:id":1258194,
+        "wd:id":"Q24189564"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4041bb7ed2fa4f61b6e55fc03f71df09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "neighbourhood_id":85781319,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":85781319,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860189,
+    "wof:name":"Tauranga South",
+    "wof:parent_id":101914325,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.150299,
+    -37.710698,
+    176.150299,
+    -37.710698
+],
+  "geometry": {"coordinates":[176.15029899999999,-37.710698],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 101918073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13068.058648,
+    "geom:bbox":"174.85532278,-41.1228658809,174.857155412,-41.1217376112",
+    "geom:latitude":-41.122315,
+    "geom:longitude":174.856261,
+    "gn:population":50914,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.122327,
+    "lbl:longitude":174.856314,
+    "mps:latitude":-41.122327,
+    "mps:longitude":174.856314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Porirua"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Porirua",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-41.133333,
+    "wd:longitude":174.85,
+    "wd:wordcount":2300,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020adf08-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2184397,
+        "gp:id":2350182,
+        "wd:id":"Q1015773",
+        "wk:page":"Porirua"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9af1afdc4005fb960eb843c77522017d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":101918073,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918073,
+    "wof:lastmodified":1527715675,
+    "wof:name":"Porirua",
+    "wof:parent_id":102079317,
+    "wof:placetype":"locality",
+    "wof:population":50914,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914925
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.85532277953064,
+    -41.12286588087797,
+    174.85715541236408,
+    -41.12173761118697
+],
+  "geometry": {"coordinates":[[[174.85589349953355,-41.12279103570975],[174.85574149219835,-41.12268091553607],[174.85547163555108,-41.12236916806738],[174.85532277953064,-41.12198036430841],[174.85604184957288,-41.12184783338056],[174.85666300451646,-41.12174713518076],[174.85667609668346,-41.12174467271773],[174.85668867500118,-41.12174140796125],[174.85670074732735,-41.12173761118697],[174.85679749195211,-41.12185249337788],[174.85708665377297,-41.12255611889438],[174.85715541236408,-41.12268162841173],[174.85655864744092,-41.12282552301594],[174.85614440480239,-41.12286588087797],[174.85589349953355,-41.12279103570975]]],"type":"Polygon"}
+}

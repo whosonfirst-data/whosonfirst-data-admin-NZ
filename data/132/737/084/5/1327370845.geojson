@@ -1,0 +1,68 @@
+{
+  "id": 1327370845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.95,-39.75,174.95,-39.75",
+    "geom:latitude":-39.75,
+    "geom:longitude":174.95,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"37.0",
+    "gn:asciiname":"Waitahinga",
+    "gn:country_code":"NZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179881,
+    "gn:latitude":-39.75,
+    "gn:longitude":174.95,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Waitahinga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179881
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e0928f8c89ead4ce5c6696ed9bee9828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":1327370845,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1327370845,
+    "wof:lastmodified":1536770101,
+    "wof:name":"Waitahinga",
+    "wof:parent_id":102079299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.95,
+    -39.75,
+    174.95,
+    -39.75
+],
+  "geometry": {"coordinates":[174.94999999999999,-39.75],"type":"Point"}
+}

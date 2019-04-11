@@ -1,0 +1,114 @@
+{
+  "id": 85780867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3860132.018611,
+    "geom:bbox":"175.0383,-41.111863,175.0383,-41.111863",
+    "geom:latitude":-41.111863,
+    "geom:longitude":175.0383,
+    "gn:latitude":-41.10827,
+    "gn:longitude":175.0402,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.111863,
+    "lbl:longitude":175.0383,
+    "mps:latitude":-41.112763,
+    "mps:longitude":175.044532,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Riverstone Terraces"
+    ],
+    "name:unk_x_variant":[
+        "Riverstone Terraces"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":6244895,
+    "qs:gn_nam_loc":"Upper Hutt, Upper Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Riverstone Terraces",
+    "qs:local_max":2176,
+    "qs:local_sum":5219,
+    "qs:localhoods":16,
+    "qs:name":"Riverstone Terraces",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Upper Hutt City",
+    "qs:name_local":"Upper Hutt",
+    "qs:photo_max":7,
+    "qs:photo_sum":23,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875896,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351024,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":43,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914809,
+        102079335,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6250954,
+        "gp:id":28643808,
+        "qs:id":1103903,
+        "qs_pg:id":1103903,
+        "wd:id":"Q7338658"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9679709c161da8d5c027650e7b738027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":101914809,
+            "neighbourhood_id":85780867,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85780867,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860100,
+    "wof:name":"Riverstone Terraces",
+    "wof:parent_id":101914809,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.0383,
+    -41.111863,
+    175.0383,
+    -41.111863
+],
+  "geometry": {"coordinates":[175.03829999999999,-41.111863],"type":"Point"}
+}

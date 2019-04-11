@@ -1,0 +1,79 @@
+{
+  "id": 101917187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":35065.789958,
+    "geom:bbox":"175.403895663,-40.5533188924,175.407163619,-40.550464556",
+    "geom:latitude":-40.5519,
+    "geom:longitude":175.405534,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.551975,
+    "lbl:longitude":175.405092,
+    "mps:latitude":-40.551975,
+    "mps:longitude":175.405092,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Shannon"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Shannon",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":612,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6225657,
+        "gp:id":2350540,
+        "wd:id":"Q2277038",
+        "wk:page":"Shannon, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"be5fed9876ecbab17f033ef067ad277f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101917187,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101917187,
+    "wof:lastmodified":1527715908,
+    "wof:name":"Shannon",
+    "wof:parent_id":102079313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915817
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.40389566270505,
+    -40.55331889243222,
+    175.40716361880342,
+    -40.55046455599657
+],
+  "geometry": {"coordinates":[[[175.40640335757328,-40.55331889243222],[175.40525706626843,-40.55274278781719],[175.40481961053359,-40.55253298546688],[175.40452916005975,-40.55227236578011],[175.40414795546923,-40.55208301025785],[175.40448167445783,-40.55190307007592],[175.40417304053128,-40.55162931463886],[175.40389566270505,-40.55133778887074],[175.40421046271882,-40.5511573429301],[175.40580023953927,-40.55112417808464],[175.40679942986287,-40.55046455599657],[175.40716361880342,-40.55077228134821],[175.40665826973424,-40.55110626941126],[175.40563310322304,-40.55176643192965],[175.4068718519342,-40.55284602980183],[175.40643837154261,-40.55314247842424],[175.40651802703746,-40.55322280123193],[175.40640335757328,-40.55331889243222]]],"type":"Polygon"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 85778273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1735056.805128,
+    "geom:bbox":"174.931165,-41.207118,174.931165,-41.207118",
+    "geom:latitude":-41.207118,
+    "geom:longitude":174.931165,
+    "gn:latitude":-41.20827,
+    "gn:longitude":174.92019,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.207118,
+    "lbl:longitude":174.931165,
+    "mps:latitude":-41.205522,
+    "mps:longitude":174.934731,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Epuni"
+    ],
+    "name:unk_x_variant":[
+        "Epuni"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Epuni",
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Epuni",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":29,
+    "qs:photo_sum":79,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":91,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079337,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244867,
+        "gp:id":22726365,
+        "qs:id":192134,
+        "qs_pg:id":192134,
+        "wd:id":"Q5384046",
+        "wk:page":"Epuni"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"85f4ad5c58f2ceadb738c000813502c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":-1,
+            "neighbourhood_id":85778273,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778273,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859768,
+    "wof:name":"Epuni",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.931165,
+    -41.207118,
+    174.931165,
+    -41.207118
+],
+  "geometry": {"coordinates":[174.93116499999999,-41.207118],"type":"Point"}
+}

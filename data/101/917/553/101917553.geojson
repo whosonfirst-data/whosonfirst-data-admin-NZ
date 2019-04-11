@@ -1,0 +1,102 @@
+{
+  "id": 101917553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":94779.689836,
+    "geom:bbox":"177.883981331,-38.6260152486,177.891945002,-38.6221597342",
+    "geom:latitude":-38.624262,
+    "geom:longitude":177.888134,
+    "gn:population":386,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.624126,
+    "lbl:longitude":177.886826,
+    "mps:latitude":-38.624037,
+    "mps:longitude":177.886851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0442\u0443\u0442\u0430\u0445\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Patutahi"
+    ],
+    "name:eng_x_preferred":[
+        "Patutahi"
+    ],
+    "name:eng_x_variant":[
+        "Patutahi Town District"
+    ],
+    "name:unk_x_variant":[
+        "Patutahi Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Patutahi",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d7042-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2184772,
+        "gp:id":2350097,
+        "qs_pg:id":260712,
+        "wd:id":"Q7148767",
+        "wk:page":"Patutahi"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"476d9bc4f6eeed3508772296366d1ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101917553,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":101917553,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715911,
+    "wof:name":"Patutahi",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:population":386,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101918415
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.88398133070476,
+    -38.62601524856545,
+    177.89194500161585,
+    -38.62215973416438
+],
+  "geometry": {"coordinates":[[[[177.8880859270061,-38.62241495693877],[177.88784606338214,-38.62311455186818],[177.88782416509306,-38.623178630961],[177.88753254774539,-38.62402774084228],[177.88749780609911,-38.62412890151271],[177.88712646063411,-38.62521188954035],[177.88579898282865,-38.62495141044793],[177.8856136219591,-38.62491500807075],[177.88398133070476,-38.62459504529174],[177.88433638257405,-38.62361668271188],[177.88602201399431,-38.62396495023289],[177.88618907026347,-38.62399942488636],[177.88623254388625,-38.62386821403673],[177.88651261184279,-38.62302149389546],[177.88653971834472,-38.62293960257195],[177.88679841744914,-38.62215973416438],[177.8880859270061,-38.62241495693877]]],[[[177.89194500161585,-38.62391679852104],[177.89158326461251,-38.62497151854673],[177.89155274447478,-38.62506050278832],[177.89122535607177,-38.62601524856545],[177.88941476484692,-38.62566037900014],[177.88974185886602,-38.62468445215269],[177.88977073950753,-38.62459833476911],[177.89011648502662,-38.62356640368843],[177.89194500161585,-38.62391679852104]]]],"type":"MultiPolygon"}
+}

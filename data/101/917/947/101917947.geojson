@@ -1,0 +1,84 @@
+{
+  "id": 101917947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20071.123586,
+    "geom:bbox":"167.690058903,-46.1403310516,167.691001018,-46.1376158362",
+    "geom:latitude":-46.138974,
+    "geom:longitude":167.690518,
+    "gn:population":696,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.138964,
+    "lbl:longitude":167.690506,
+    "mps:latitude":-46.138964,
+    "mps:longitude":167.690506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tuatapere"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tuatapere",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":411,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de964-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2180815,
+        "gp:id":2350984,
+        "wd:id":"Q1324727",
+        "wk:page":"Tuatapere"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b9dcff7682338ca42244bea5e0e4ec5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101917947,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101917947,
+    "wof:lastmodified":1527715909,
+    "wof:name":"Tuatapere",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:population":696,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914499
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.6900589029457,
+    -46.14033105158804,
+    167.69100101837918,
+    -46.13761583622676
+],
+  "geometry": {"coordinates":[[[167.69100101837918,-46.13768342053886],[167.69091190149365,-46.14033105158804],[167.69006721821009,-46.14030876202867],[167.69005890294571,-46.13979176036852],[167.69008376380859,-46.13948782730191],[167.69007220123467,-46.13889195487049],[167.69007097688271,-46.1384884389651],[167.69010073974209,-46.13798053681792],[167.69014189413787,-46.13761583622676],[167.69100101837918,-46.13768342053886]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 101918265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10177.765734,
+    "geom:bbox":"175.175195461,-38.334740006,175.176854961,-38.3330975617",
+    "geom:latitude":-38.333923,
+    "geom:longitude":175.176031,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.333924,
+    "lbl:longitude":175.176006,
+    "mps:latitude":-38.333924,
+    "mps:longitude":175.176006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Kuiti"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Kuiti",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":902,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6234244,
+        "gp:id":2350818,
+        "wd:id":"Q999418",
+        "wk:page":"Te Kuiti"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b5a060e4be69b3f89d265df4097207ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079279,
+            "locality_id":101918265,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918265,
+    "wof:lastmodified":1527715677,
+    "wof:name":"Te Kuiti",
+    "wof:parent_id":102079279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914457
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.1751954614786,
+    -38.33474000596305,
+    175.17685496111525,
+    -38.33309756174238
+],
+  "geometry": {"coordinates":[[[175.17629201570315,-38.33474000596305],[175.1759112442019,-38.33426150483567],[175.17584976431928,-38.33417862621823],[175.17584976385584,-38.33417861072812],[175.17579040197489,-38.33409861778253],[175.17578951887592,-38.33409744248601],[175.17578847152686,-38.33409608461418],[175.17578722390542,-38.33409452933696],[175.17519546147861,-38.33335846091432],[175.17569276974285,-38.33309756174238],[175.17620730799135,-38.33370402286624],[175.1766729447713,-38.334137487829],[175.17685496111525,-38.33433421119999],[175.17674946981543,-38.33444531353567],[175.17629201570315,-38.33474000596305]]],"type":"Polygon"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101917331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":33887.162961,
+    "geom:bbox":"173.253521244,-41.2913543701,173.255217325,-41.2885838796",
+    "geom:latitude":-41.289971,
+    "geom:longitude":173.254396,
+    "gn:population":59200,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.290055,
+    "lbl:longitude":173.254495,
+    "mps:latitude":-41.290055,
+    "mps:longitude":173.254495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Nelson"
+    ],
+    "name:eng_x_variant":[
+        "NSN",
+        "Nelson City"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nelson",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-41.293056,
+    "wd:longitude":173.238056,
+    "wd:wordcount":6507,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687157,
+        102079351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df9a4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186280,
+        "gp:id":2349669,
+        "wd:id":"Q206687",
+        "wk:page":"Nelson, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e245c446e1bf110b730356a6636d514e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101917331,
+            "region_id":85687157
+        }
+    ],
+    "wof:id":101917331,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715904,
+    "wof:name":"Nelson",
+    "wof:parent_id":102079351,
+    "wof:placetype":"locality",
+    "wof:population":59200,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915555
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.2535212437113,
+    -41.29135437006457,
+    173.25521732540193,
+    -41.28858387958873
+],
+  "geometry": {"coordinates":[[[173.25510795716968,-41.28861479093557],[173.25511775345333,-41.28886609486953],[173.25514095537491,-41.28940705547645],[173.25521732540193,-41.28980238201577],[173.2551040086436,-41.29039100545925],[173.25488329947353,-41.29077725341085],[173.25484044211595,-41.29099697486476],[173.25485534480174,-41.29117884020199],[173.25489926344565,-41.29129913947456],[173.253557147099,-41.29135437006457],[173.25355292386644,-41.29134267286791],[173.2535212437113,-41.29095499296849],[173.25360907389023,-41.29050447066345],[173.25382931557473,-41.29011912666988],[173.25389019362629,-41.28980274466114],[173.25383063967925,-41.28949472790742],[173.25380508241088,-41.28889668149777],[173.25379290806848,-41.28858387958873],[173.25510795716968,-41.28861479093557]]],"type":"Polygon"}
+}

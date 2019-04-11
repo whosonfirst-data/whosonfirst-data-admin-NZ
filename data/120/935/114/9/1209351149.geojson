@@ -1,0 +1,62 @@
+{
+  "id": 1209351149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.05,-46.33333,168.05,-46.33333",
+    "geom:latitude":-46.33333,
+    "geom:longitude":168.05,
+    "gn:admin1_code":"F8",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Otaitai",
+    "gn:country_code":"NZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185368,
+    "gn:latitude":-46.33333,
+    "gn:longitude":168.05,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Otaitai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185368
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b6a14200ebb8577b5ebfc085ea255a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209351149
+        }
+    ],
+    "wof:id":1209351149,
+    "wof:lastmodified":1536289737,
+    "wof:name":"Otaitai",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.05,
+    -46.33333,
+    168.05,
+    -46.33333
+],
+  "geometry": {"coordinates":[168.05000000000001,-46.33333],"type":"Point"}
+}

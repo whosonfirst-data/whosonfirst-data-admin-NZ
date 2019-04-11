@@ -1,0 +1,68 @@
+{
+  "id": 1242907619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.11667,-39.06667,175.11667,-39.06667",
+    "geom:latitude":-39.06667,
+    "geom:longitude":175.11667,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Mangaohutu",
+    "gn:country_code":"NZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187679,
+    "gn:latitude":-39.06667,
+    "gn:longitude":175.11667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Mangaohutu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187679
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6d8db7a8441f2cfd99a6e73eb8de44d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1242907619,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1242907619,
+    "wof:lastmodified":1537082214,
+    "wof:name":"Mangaohutu",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.11667,
+    -39.06667,
+    175.11667,
+    -39.06667
+],
+  "geometry": {"coordinates":[175.11667,-39.06667],"type":"Point"}
+}

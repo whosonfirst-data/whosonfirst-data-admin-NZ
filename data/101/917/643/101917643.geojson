@@ -1,0 +1,89 @@
+{
+  "id": 101917643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":33044.562579,
+    "geom:bbox":"173.277762113,-42.8136365081,173.280820513,-42.8119788254",
+    "geom:latitude":-42.812829,
+    "geom:longitude":173.279188,
+    "gn:population":425,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.81286,
+    "lbl:longitude":173.279076,
+    "mps:latitude":-42.81286,
+    "mps:longitude":173.279076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Cheviot"
+    ],
+    "name:eng_x_variant":[
+        "Mackenzie",
+        "McKenzie"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cheviot",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1065,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df044-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192380,
+        "gp:id":2348325,
+        "qs:id":914173,
+        "wd:id":"Q1070959",
+        "wk:page":"Cheviot, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fbc5c3597248f07e7072696ed72f20b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":101917643,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101917643,
+    "wof:lastmodified":1527715905,
+    "wof:name":"Cheviot",
+    "wof:parent_id":102079365,
+    "wof:placetype":"locality",
+    "wof:population":425,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914485
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.27776211252146,
+    -42.81363650808897,
+    173.28082051271684,
+    -42.81197882535973
+],
+  "geometry": {"coordinates":[[[173.27835513734982,-42.81197882535973],[173.27949621882374,-42.81215573229883],[173.28082051271684,-42.81239507172516],[173.28071355622285,-42.81296681804817],[173.28071983085698,-42.81310164909733],[173.28057058613058,-42.81310538810578],[173.2797137389083,-42.81344767298832],[173.27928522440678,-42.81360081676105],[173.2790766476474,-42.81363010601505],[173.27903105854472,-42.81363650808897],[173.27869722870318,-42.81362559596921],[173.27776211252146,-42.81348786002838],[173.27802118976282,-42.81251993217397],[173.27811997339418,-42.81213119035107],[173.27835513734982,-42.81197882535973]]],"type":"Polygon"}
+}

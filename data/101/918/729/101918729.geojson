@@ -1,0 +1,86 @@
+{
+  "id": 101918729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6606.60236,
+    "geom:bbox":"175.400394268,-39.1724603231,175.401408284,-39.1716123394",
+    "geom:latitude":-39.172024,
+    "geom:longitude":175.400894,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.172025,
+    "lbl:longitude":175.400943,
+    "mps:latitude":-39.172025,
+    "mps:longitude":175.400943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "National Park Village"
+    ],
+    "name:eng_x_preferred":[
+        "National Park"
+    ],
+    "name:nno_x_preferred":[
+        "National Park p\u00e5 New Zealand"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"National Park",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":574,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd2c6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186302,
+        "gp:id":2349665,
+        "wd:id":"Q1318354",
+        "wk:page":"National Park, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"119aa106a534e18aa2c7d5310eedf513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918729,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918729,
+    "wof:lastmodified":1527715679,
+    "wof:name":"National Park",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916365
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.40039426781345,
+    -39.17246032306524,
+    175.4014082842374,
+    -39.17161233943597
+],
+  "geometry": {"coordinates":[[[175.40052695076946,-39.17246032306524],[175.40042596955419,-39.17172432621668],[175.40039426781345,-39.17161233943597],[175.40108762434309,-39.17164001769485],[175.40109572324059,-39.17163984612819],[175.4012692080571,-39.171634369586],[175.40127433963576,-39.17164868119637],[175.40140828423739,-39.17236685530442],[175.40052695076946,-39.17246032306524]]],"type":"Polygon"}
+}

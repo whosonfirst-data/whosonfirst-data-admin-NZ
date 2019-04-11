@@ -1,0 +1,81 @@
+{
+  "id": 101918033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8474.693514,
+    "geom:bbox":"171.239240977,-44.1069336157,171.24119484,-44.1058374353",
+    "geom:latitude":-44.10639,
+    "geom:longitude":171.24022,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.10641,
+    "lbl:longitude":171.240175,
+    "mps:latitude":-44.10641,
+    "mps:longitude":171.240175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Geraldine"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Geraldine",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":650,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ddbae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6214317,
+        "gp:id":2348578,
+        "qs:id":160459,
+        "wd:id":"Q1002934",
+        "wk:page":"Geraldine, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"269abba06b8b435d0000226a1ebf8c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101918033,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918033,
+    "wof:lastmodified":1527715677,
+    "wof:name":"Geraldine",
+    "wof:parent_id":102079373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914513
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.23924097660745,
+    -44.10693361570837,
+    171.24119483955275,
+    -44.10583743527835
+],
+  "geometry": {"coordinates":[[[171.23957300002527,-44.10693361570837],[171.23924097660745,-44.10649121102655],[171.23993761694919,-44.10620868386968],[171.24053747470236,-44.10596534774869],[171.2408528356743,-44.10583743527835],[171.24119483955275,-44.10627710844263],[171.24056697399848,-44.10655458183231],[171.24013981147928,-44.10672091704075],[171.23957300002527,-44.10693361570837]]],"type":"Polygon"}
+}

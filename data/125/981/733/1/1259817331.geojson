@@ -1,0 +1,68 @@
+{
+  "id": 1259817331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.3,-36.1,174.3,-36.1",
+    "geom:latitude":-36.1,
+    "geom:longitude":174.3,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Huarau",
+    "gn:country_code":"NZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189708,
+    "gn:latitude":-36.1,
+    "gn:longitude":174.3,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Huarau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189708
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f0c00faff75d1c85bea36e39aba73904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":1259817331,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1259817331,
+    "wof:lastmodified":1536873613,
+    "wof:name":"Huarau",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.3,
+    -36.1,
+    174.3,
+    -36.1
+],
+  "geometry": {"coordinates":[174.30000000000001,-36.1],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 101914757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":239323.222,
+    "geom:bbox":"168.9513815,-46.0982878458,168.959859069,-46.0914606445",
+    "geom:latitude":-46.094497,
+    "geom:longitude":168.955118,
+    "gn:population":12108,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.094433,
+    "lbl:longitude":168.955055,
+    "mps:latitude":-46.094433,
+    "mps:longitude":168.955055,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Gore"
+    ],
+    "name:eng_x_preferred":[
+        "Gore"
+    ],
+    "name:fra_x_preferred":[
+        "Gore"
+    ],
+    "name:gla_x_preferred":[
+        "Gore"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Gore"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\uc5b4"
+    ],
+    "name:msa_x_preferred":[
+        "Gore"
+    ],
+    "name:nld_x_preferred":[
+        "Gore"
+    ],
+    "name:nno_x_preferred":[
+        "Gore p\u00e5 New Zealand"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u06af\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Gore"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Gore"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gore",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1699,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dfa6c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6201424,
+        "gp:id":2348637,
+        "wd:id":"Q597409",
+        "wk:page":"Gore, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f51a79739a47be22df238c75e893f5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079393,
+            "locality_id":101914757,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101914757,
+    "wof:lastmodified":1527688589,
+    "wof:name":"Gore",
+    "wof:parent_id":102079393,
+    "wof:placetype":"locality",
+    "wof:population":12108,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914261
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.95138149956733,
+    -46.09828784579392,
+    168.9598590688693,
+    -46.09146064448242
+],
+  "geometry": {"coordinates":[[[168.95138149956733,-46.09814915122118],[168.95152412005717,-46.09711898807696],[168.95187500620798,-46.09583470144014],[168.9518254504639,-46.09547268379001],[168.95273940219587,-46.09404367498431],[168.95290409314123,-46.0938565241356],[168.95291313474834,-46.09385683282894],[168.95311022177745,-46.09394463491297],[168.95340498262942,-46.09385921183312],[168.95348896026155,-46.09358642997131],[168.95361088059059,-46.09343655306544],[168.95364943124585,-46.09338562188337],[168.95451866670922,-46.09266311313942],[168.95459568725082,-46.09259908174707],[168.95496137420253,-46.09229717820127],[168.95478600413426,-46.09146064448242],[168.95867339777374,-46.09146983633661],[168.95879705778506,-46.09223253429263],[168.95983569562995,-46.09224722063078],[168.95985906886929,-46.09246691387942],[168.95813746281087,-46.09396842610706],[168.95668922911977,-46.09520899700513],[168.95668916579066,-46.09520989567579],[168.95550260183364,-46.09624588625223],[168.95371391589663,-46.09779549628713],[168.9530512307073,-46.09810347288452],[168.95259408055423,-46.09828784579392],[168.95138149956733,-46.09814915122118]]],"type":"Polygon"}
+}

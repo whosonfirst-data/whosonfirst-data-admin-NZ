@@ -1,0 +1,68 @@
+{
+  "id": 1293622663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.23333,-46.01667,169.23333,-46.01667",
+    "geom:latitude":-46.01667,
+    "geom:longitude":169.23333,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Pomahaka",
+    "gn:country_code":"NZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2184440,
+    "gn:latitude":-46.01667,
+    "gn:longitude":169.23333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Pomahaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184440
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"bd9b77794478fd028c0a1f52752f8a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":1293622663,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1293622663,
+    "wof:lastmodified":1537086226,
+    "wof:name":"Pomahaka",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.23333,
+    -46.01667,
+    169.23333,
+    -46.01667
+],
+  "geometry": {"coordinates":[169.23333,-46.01667],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125892203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.63333,-45.88333,170.63333,-45.88333",
+    "geom:latitude":-45.88333,
+    "geom:longitude":170.63333,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.88333,
+    "lbl:longitude":170.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pukehiki"
+    ],
+    "name:eng_x_preferred":[
+        "Pukehiki"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0443\u043a\u0435\u0445\u0438\u043a\u0438"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2184202,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pukehiki",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Otago",
+    "qs_pg:photos":633,
+    "qs_pg:photos_1k":128,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":633,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117349,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350229,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Otago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184202,
+        "gp:id":2350229,
+        "qs_pg:id":1117349,
+        "wd:id":"Q7259105"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497295373,
+    "wof:geomhash":"fbee8dfa5998ab62280928de04dcc9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":1125892203,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1125892203,
+    "wof:lastmodified":1514494407,
+    "wof:name":"Pukehiki",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.63333,
+    -45.88333,
+    170.63333,
+    -45.88333
+],
+  "geometry": {"coordinates":[170.63333,-45.88333],"type":"Point"}
+}

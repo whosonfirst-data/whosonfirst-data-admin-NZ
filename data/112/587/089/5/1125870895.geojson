@@ -1,0 +1,82 @@
+{
+  "id": 1125870895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.896786,-41.288928,174.896786,-41.288928",
+    "geom:latitude":-41.288928,
+    "geom:longitude":174.896786,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.288928,
+    "lbl:longitude":174.896786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rona Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":95,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":95,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":43500,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":22726511,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726511,
+        "qs_pg:id":43500
+    },
+    "wof:country":"NZ",
+    "wof:created":1497294292,
+    "wof:geomhash":"f085447eed1dac099ddcffc6d43f25e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":1125870895,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1125870895,
+    "wof:lastmodified":1509397308,
+    "wof:name":"Rona Bay",
+    "wof:parent_id":102079337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.896786,
+    -41.288928,
+    174.896786,
+    -41.288928
+],
+  "geometry": {"coordinates":[174.89678599999999,-41.288928],"type":"Point"}
+}

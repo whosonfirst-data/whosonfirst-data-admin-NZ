@@ -1,0 +1,68 @@
+{
+  "id": 1360215941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.66667,-37.33333,175.66667,-37.33333",
+    "geom:latitude":-37.33333,
+    "geom:longitude":175.66667,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Komata North",
+    "gn:country_code":"NZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188706,
+    "gn:latitude":-37.33333,
+    "gn:longitude":175.66667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Komata North",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188706
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fb6a25cb05767089db120fd95b7b04f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":1360215941,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1360215941,
+    "wof:lastmodified":1536757093,
+    "wof:name":"Komata North",
+    "wof:parent_id":102079263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.66666999999995,
+    -37.33333,
+    175.66666999999995,
+    -37.33333
+],
+  "geometry": {"coordinates":[175.66666999999995,-37.33333],"type":"Point"}
+}

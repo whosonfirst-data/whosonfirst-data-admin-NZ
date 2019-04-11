@@ -1,0 +1,73 @@
+{
+  "id": 101918789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11934.964428,
+    "geom:bbox":"176.867068062,-39.5407367343,176.868980359,-39.5392950229",
+    "geom:latitude":-39.540097,
+    "geom:longitude":176.867704,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.539865,
+    "lbl:longitude":176.867462,
+    "mps:latitude":-39.539865,
+    "mps:longitude":176.867462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Jervoistown"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jervoistown",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NZ",
+    "wof:geomhash":"6c8efd2929ebcd78291ca927d7c2b387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101918789,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918789,
+    "wof:lastmodified":1487270018,
+    "wof:name":"Jervoistown",
+    "wof:parent_id":102079331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917491
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.86706806166634,
+    -39.5407367342714,
+    176.86898035909866,
+    -39.53929502292591
+],
+  "geometry": {"coordinates":[[[176.86784493749801,-39.53991732601335],[176.86773466519136,-39.54029671344723],[176.86898035909866,-39.5404910523164],[176.86892232853964,-39.54073325143074],[176.86892149401496,-39.5407367342714],[176.86706806166634,-39.5405366468115],[176.86708297038774,-39.53974278559304],[176.86723486942452,-39.53929502292591],[176.86798198561132,-39.53939162688096],[176.86784493749801,-39.53991732601335]]],"type":"Polygon"}
+}

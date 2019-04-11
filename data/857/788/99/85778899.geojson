@@ -1,0 +1,114 @@
+{
+  "id": 85778899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5940172.318304,
+    "geom:bbox":"172.72587,-43.500111,172.72587,-43.500111",
+    "geom:latitude":-43.500111,
+    "geom:longitude":172.72587,
+    "gn:latitude":-43.49179,
+    "gn:longitude":172.72018,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.500111,
+    "lbl:longitude":172.72587,
+    "mps:latitude":-43.497764,
+    "mps:longitude":172.727953,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "New Brighton North"
+    ],
+    "name:eng_x_variant":[
+        "N New Brighton",
+        "North New Brighton"
+    ],
+    "name:unk_x_variant":[
+        "New Brighton North"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"New Brighton North",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"New Brighton North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":493,
+    "qs:photo_sum":1441,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":44,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079401,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6220373,
+        "gp:id":22726637,
+        "qs:id":218151,
+        "qs_pg:id":218151
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"05dfcce7a61a6acf6e0f9c58ab37fef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":-1,
+            "neighbourhood_id":85778899,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85778899,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859860,
+    "wof:name":"New Brighton North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.72587,
+    -43.500111,
+    172.72587,
+    -43.500111
+],
+  "geometry": {"coordinates":[172.72586999999999,-43.500111],"type":"Point"}
+}

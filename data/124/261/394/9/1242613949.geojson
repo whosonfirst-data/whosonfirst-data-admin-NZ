@@ -1,0 +1,68 @@
+{
+  "id": 1242613949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.21667,-38.61667,175.21667,-38.61667",
+    "geom:latitude":-38.61667,
+    "geom:longitude":175.21667,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Tangitu",
+    "gn:country_code":"NZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181931,
+    "gn:latitude":-38.61667,
+    "gn:longitude":175.21667,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Tangitu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181931
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d034c33f301c254fb0a97de153e8c3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079279,
+            "locality_id":1242613949,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1242613949,
+    "wof:lastmodified":1537010545,
+    "wof:name":"Tangitu",
+    "wof:parent_id":102079279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.21667,
+    -38.61667,
+    175.21667,
+    -38.61667
+],
+  "geometry": {"coordinates":[175.21666999999999,-38.61667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293137381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.23467,-37.99513,176.23467,-37.99513",
+    "geom:latitude":-37.99513,
+    "geom:longitude":176.23467,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Kaharoa",
+    "gn:country_code":"NZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189338,
+    "gn:latitude":-37.99513,
+    "gn:longitude":176.23467,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Kaharoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189338,
+        "wk:page":"Kaharoa"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b9f586092fb941c9842f7728be4815b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":1293137381,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1293137381,
+    "wof:lastmodified":1537570172,
+    "wof:name":"Kaharoa",
+    "wof:parent_id":102079289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.23467,
+    -37.99513,
+    176.23467,
+    -37.99513
+],
+  "geometry": {"coordinates":[176.23466999999999,-37.99513],"type":"Point"}
+}

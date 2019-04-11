@@ -1,0 +1,68 @@
+{
+  "id": 1309746209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.55149,-45.93623,169.55149,-45.93623",
+    "geom:latitude":-45.93623,
+    "geom:longitude":169.55149,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Tuapeka West",
+    "gn:country_code":"NZ",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180819,
+    "gn:latitude":-45.93623,
+    "gn:longitude":169.55149,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Tuapeka West",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180819
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9f8b7add73c8d72d781d26678cb876cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":1309746209,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1309746209,
+    "wof:lastmodified":1537016384,
+    "wof:name":"Tuapeka West",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.55149,
+    -45.93623,
+    169.55149,
+    -45.93623
+],
+  "geometry": {"coordinates":[169.55149,-45.93623],"type":"Point"}
+}

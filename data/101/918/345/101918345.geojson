@@ -1,0 +1,97 @@
+{
+  "id": 101918345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25561.273974,
+    "geom:bbox":"176.529223269,-39.9925843343,176.531286617,-39.9908151331",
+    "geom:latitude":-39.991693,
+    "geom:longitude":176.53023,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.991703,
+    "lbl:longitude":176.530237,
+    "mps:latitude":-39.991703,
+    "mps:longitude":176.530237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:cat_x_preferred":[
+        "Waipukurau"
+    ],
+    "name:deu_x_preferred":[
+        "Waipukurau"
+    ],
+    "name:eng_x_preferred":[
+        "Waipukurau"
+    ],
+    "name:fra_x_preferred":[
+        "Waipukurau"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0438\u043f\u0443\u043a\u0443\u0440\u0430\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Waipukurau"
+    ],
+    "name:pol_x_preferred":[
+        "Waipukurau"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waipukurau",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2106,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd690-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6247047,
+        "gp:id":2351197,
+        "wd:id":"Q913122"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6025e5627a15e0cb707ebe015c1c81ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101918345,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918345,
+    "wof:lastmodified":1527715678,
+    "wof:name":"Waipukurau",
+    "wof:parent_id":102079333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914309
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.52922326900622,
+    -39.99258433428791,
+    176.53128661712194,
+    -39.99081513306938
+],
+  "geometry": {"coordinates":[[[176.52922467153942,-39.99238606050507],[176.5295664618362,-39.99081513306938],[176.53128661712194,-39.99101576470533],[176.5309592040542,-39.99215262833114],[176.53083342294249,-39.99258433428791],[176.52922326900622,-39.99239250630161],[176.52922467153942,-39.99238606050507]]],"type":"Polygon"}
+}

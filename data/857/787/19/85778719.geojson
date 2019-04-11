@@ -1,0 +1,108 @@
+{
+  "id": 85778719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1970036.207674,
+    "geom:bbox":"174.918114,-41.224443,174.918114,-41.224443",
+    "geom:latitude":-41.224443,
+    "geom:longitude":174.918114,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.224443,
+    "lbl:longitude":174.918114,
+    "mps:latitude":-41.225241,
+    "mps:longitude":174.923112,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Waiwhetu"
+    ],
+    "name:unk_x_variant":[
+        "Waiwhetu"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:id":0,
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Waiwhetu",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":91,
+    "qs:photo_sum":248,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":209,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914319,
+        102079337,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726567,
+        "wd:id":"Q7960677"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2b20624b3eac8293873d30c5f6869915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914319,
+            "neighbourhood_id":85778719,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778719,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859827,
+    "wof:name":"Waiwhetu",
+    "wof:parent_id":101914319,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.918114,
+    -41.224443,
+    174.918114,
+    -41.224443
+],
+  "geometry": {"coordinates":[174.918114,-41.224443],"type":"Point"}
+}

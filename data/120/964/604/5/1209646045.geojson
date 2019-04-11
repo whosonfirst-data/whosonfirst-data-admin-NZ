@@ -1,0 +1,62 @@
+{
+  "id": 1209646045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.19451,-36.79697,175.19451,-36.79697",
+    "geom:latitude":-36.79697,
+    "geom:longitude":175.19451,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Pakatoa",
+    "gn:country_code":"NZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185068,
+    "gn:latitude":-36.79697,
+    "gn:longitude":175.19451,
+    "gn:modification_date":"2017-01-10",
+    "gn:name":"Pakatoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185068
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c19e664c71f8ee2e4d73e8aa6fa7cf88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209646045
+        }
+    ],
+    "wof:id":1209646045,
+    "wof:lastmodified":1536280733,
+    "wof:name":"Pakatoa",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.19451,
+    -36.79697,
+    175.19451,
+    -36.79697
+],
+  "geometry": {"coordinates":[175.19451000000001,-36.79697],"type":"Point"}
+}

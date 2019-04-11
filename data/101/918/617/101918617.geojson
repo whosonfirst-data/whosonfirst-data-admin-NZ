@@ -1,0 +1,81 @@
+{
+  "id": 101918617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19483.987645,
+    "geom:bbox":"175.611972344,-36.7163101443,175.613674537,-36.7144617711",
+    "geom:latitude":-36.715487,
+    "geom:longitude":175.612743,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.715542,
+    "lbl:longitude":175.612762,
+    "mps:latitude":-36.715542,
+    "mps:longitude":175.612762,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Whangapoua"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Whangapoua",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":256,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ca66c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179299,
+        "gp:id":2351365,
+        "qs:id":1206469,
+        "wd:id":"Q7990617",
+        "wk:page":"Whangapoua"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"41e411143036d008da108d36a44d744e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101918617,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918617,
+    "wof:lastmodified":1527715669,
+    "wof:name":"Whangapoua",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916911
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.61197234423506,
+    -36.71631014427431,
+    175.61367453703056,
+    -36.71446177109853
+],
+  "geometry": {"coordinates":[[[175.61246118744219,-36.71446177109853],[175.61293546250459,-36.71470798494235],[175.61300858119404,-36.7148852886762],[175.61367453703056,-36.71523774496182],[175.61334565257886,-36.71586732266185],[175.6131916752108,-36.71615756710602],[175.61311014409162,-36.71631014427431],[175.61247538597559,-36.71623803436186],[175.61207868369985,-36.71613809533085],[175.61197234423506,-36.71605353300773],[175.61203699928308,-36.71563261771759],[175.61209456261992,-36.71542787185887],[175.61234104753018,-36.71464248954982],[175.61246118744219,-36.71446177109853]]],"type":"Polygon"}
+}

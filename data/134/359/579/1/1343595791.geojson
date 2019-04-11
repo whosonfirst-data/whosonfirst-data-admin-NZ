@@ -1,0 +1,68 @@
+{
+  "id": 1343595791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.5,-42.7,171.5,-42.7",
+    "geom:latitude":-42.7,
+    "geom:longitude":171.5,
+    "gn:admin1_code":"G3",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Poerua",
+    "gn:country_code":"NZ",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2184492,
+    "gn:latitude":-42.7,
+    "gn:longitude":171.5,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Poerua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184492
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3a993b273c83d09120fcfa6a7571b3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":1343595791,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1343595791,
+    "wof:lastmodified":1537046454,
+    "wof:name":"Poerua",
+    "wof:parent_id":102079361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.5,
+    -42.7,
+    171.5,
+    -42.7
+],
+  "geometry": {"coordinates":[171.5,-42.7],"type":"Point"}
+}

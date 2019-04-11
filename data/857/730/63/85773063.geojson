@@ -1,0 +1,113 @@
+{
+  "id": 85773063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3454909.2363,
+    "geom:bbox":"170.530995,-45.849703,170.530995,-45.849703",
+    "geom:latitude":-45.849703,
+    "geom:longitude":170.530995,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.849703,
+    "lbl:longitude":170.530995,
+    "mps:latitude":-45.847753,
+    "mps:longitude":170.527224,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "North East Valley"
+    ],
+    "name:eng_x_variant":[
+        "NE Valley"
+    ],
+    "name:unk_x_variant":[
+        "North East Valley"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2191562,
+    "qs:gn_namadm1":"F7",
+    "qs:gn_name":"North East Valley",
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"North East Valley",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":284,
+    "qs:photo_sum":632,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1113,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6212269,
+        "gp:id":2349740,
+        "qs:id":385733,
+        "qs_pg:id":385733,
+        "wd:id":"Q7055244"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a0536a2e10dda7e0b1244f3aa05617d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85773063,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85773063,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859620,
+    "wof:name":"North East Valley",
+    "wof:parent_id":101914269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.530995,
+    -45.849703,
+    170.530995,
+    -45.849703
+],
+  "geometry": {"coordinates":[170.53099499999999,-45.849703],"type":"Point"}
+}

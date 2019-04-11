@@ -1,0 +1,77 @@
+{
+  "id": 101917159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":34784.323371,
+    "geom:bbox":"172.682672159,-43.5717409483,172.687144139,-43.5689548718",
+    "geom:latitude":-43.570476,
+    "geom:longitude":172.68408,
+    "geonames:id":"2190110,6220821",
+    "iso:country":"NZ",
+    "lbl:latitude":-43.570376,
+    "lbl:longitude":172.683381,
+    "mps:latitude":-43.570376,
+    "mps:longitude":172.683381,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Heathcote Valley"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Heathcote Valley",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":276,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q4497924"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fc6d2bb015a5f77bcba2e4d29ed78fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101917159,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101917159,
+    "wof:lastmodified":1527715904,
+    "wof:name":"Heathcote Valley",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916269
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.6826721590747,
+    -43.57174094832776,
+    172.68714413920384,
+    -43.56895487177881
+],
+  "geometry": {"coordinates":[[[172.68712758473339,-43.57071589063732],[172.68714413920384,-43.57103644599521],[172.68562198035147,-43.5710682245899],[172.68562386526509,-43.57070217611962],[172.68415301251653,-43.57072426428133],[172.68422279218998,-43.57109050879343],[172.68315202545804,-43.5710873958468],[172.68319220828241,-43.57174094832776],[172.68276661758995,-43.57174023003498],[172.68267215907471,-43.56921683654559],[172.68281859743271,-43.56895487177881],[172.68297577583363,-43.56910354307456],[172.68307198499662,-43.56919363312326],[172.68386390415216,-43.569875348228],[172.68407412332445,-43.57001345245833],[172.6843896563407,-43.57022933922757],[172.68534615679863,-43.57039954037662],[172.68712758473339,-43.57071589063732]]],"type":"Polygon"}
+}

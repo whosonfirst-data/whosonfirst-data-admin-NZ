@@ -1,0 +1,108 @@
+{
+  "id": 85781657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1757732.559285,
+    "geom:bbox":"168.351746,-46.447319,168.351746,-46.447319",
+    "geom:latitude":-46.447319,
+    "geom:longitude":168.351746,
+    "gn:latitude":-46.42842,
+    "gn:longitude":168.35009,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.447319,
+    "lbl:longitude":168.351746,
+    "mps:latitude":-46.450406,
+    "mps:longitude":168.352175,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kew"
+    ],
+    "name:unk_x_variant":[
+        "Kew"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2189529,
+    "qs:gn_namadm1":"F8",
+    "qs:gn_name":"Kew",
+    "qs:local_max":954,
+    "qs:local_sum":2108,
+    "qs:localhoods":12,
+    "qs:name":"Kew",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Southland",
+    "qs:name_adm2":"Invercargill City",
+    "qs:name_local":"Invercargill",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021750,
+    "qs:woe_adm2":55875899,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348887,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":5151,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6205168,
+        "gp:id":28644575,
+        "qs:id":357214,
+        "qs_pg:id":357214
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"08832143b564715bcb575c8f61735cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":85781657,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":85781657,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860247,
+    "wof:name":"Kew",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.351746,
+    -46.447319,
+    168.351746,
+    -46.447319
+],
+  "geometry": {"coordinates":[168.35174599999999,-46.447319],"type":"Point"}
+}

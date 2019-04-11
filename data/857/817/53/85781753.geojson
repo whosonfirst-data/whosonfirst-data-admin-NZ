@@ -1,0 +1,111 @@
+{
+  "id": 85781753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2337617.174407,
+    "geom:bbox":"175.056993,-41.121359,175.056993,-41.121359",
+    "geom:latitude":-41.121359,
+    "geom:longitude":175.056993,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-41.121359,
+    "lbl:longitude":175.056993,
+    "mps:latitude":-41.115781,
+    "mps:longitude":175.062583,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Elderslea"
+    ],
+    "name:unk_x_variant":[
+        "Elderslea"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6244895,
+    "qs:gn_nam_loc":"Upper Hutt, Upper Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:local_max":2176,
+    "qs:local_sum":5219,
+    "qs:localhoods":16,
+    "qs:name":"Elderslea",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Upper Hutt City",
+    "qs:name_local":"Upper Hutt",
+    "qs:photo_max":42,
+    "qs:photo_sum":61,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875896,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351024,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":26,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914809,
+        102079335,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644772,
+        "qs:id":959213,
+        "qs_pg:id":959213,
+        "wd:id":"Q5353988"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"867370c8db2249c430fc6342bbede962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":101914809,
+            "neighbourhood_id":85781753,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85781753,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860264,
+    "wof:name":"Elderslea",
+    "wof:parent_id":101914809,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.056993,
+    -41.121359,
+    175.056993,
+    -41.121359
+],
+  "geometry": {"coordinates":[175.05699300000001,-41.121359],"type":"Point"}
+}

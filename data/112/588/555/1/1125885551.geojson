@@ -1,0 +1,82 @@
+{
+  "id": 1125885551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.785963,-44.484198,168.785963,-44.484198",
+    "geom:latitude":-44.484198,
+    "geom:longitude":168.785963,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.484198,
+    "lbl:longitude":168.785963,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mount Aspiring",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Otago",
+    "qs_pg:photos":599,
+    "qs_pg:photos_1k":121,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":599,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":375175,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644823,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Otago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644823,
+        "qs_pg:id":375175
+    },
+    "wof:country":"NZ",
+    "wof:created":1497295059,
+    "wof:geomhash":"24a69264ea316a5faace72e90cfae1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":1125885551,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1125885551,
+    "wof:lastmodified":1509398470,
+    "wof:name":"Mount Aspiring",
+    "wof:parent_id":102079385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.785963,
+    -44.484198,
+    168.785963,
+    -44.484198
+],
+  "geometry": {"coordinates":[168.78596300000001,-44.484198],"type":"Point"}
+}

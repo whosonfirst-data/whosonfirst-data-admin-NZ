@@ -1,0 +1,68 @@
+{
+  "id": 1293524483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.84769,-44.27142,169.84769,-44.27142",
+    "geom:latitude":-44.27142,
+    "geom:longitude":169.84769,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Ohau",
+    "gn:country_code":"NZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9694417,
+    "gn:latitude":-44.27142,
+    "gn:longitude":169.84769,
+    "gn:modification_date":"2014-10-10",
+    "gn:name":"Ohau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9694417
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"133797bbb43a7ee58f87a787a0e31eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1293524483,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1293524483,
+    "wof:lastmodified":1536733885,
+    "wof:name":"Ohau",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.84769,
+    -44.27142,
+    169.84769,
+    -44.27142
+],
+  "geometry": {"coordinates":[169.84769,-44.27142],"type":"Point"}
+}

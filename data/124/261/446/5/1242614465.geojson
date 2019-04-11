@@ -1,0 +1,67 @@
+{
+  "id": 1242614465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.14633,-40.19084,176.14633,-40.19084",
+    "geom:latitude":-40.19084,
+    "geom:longitude":176.14633,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Raumati",
+    "gn:country_code":"NZ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183621,
+    "gn:latitude":-40.19084,
+    "gn:longitude":176.14633,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Raumati",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183621
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3e7641d513c9e970706c4f9b7c891bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":1242614465,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1242614465,
+    "wof:lastmodified":1537009780,
+    "wof:name":"Raumati",
+    "wof:parent_id":102079309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.14633,
+    -40.19084,
+    176.14633,
+    -40.19084
+],
+  "geometry": {"coordinates":[176.14633000000001,-40.19084],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 101917859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22748.533241,
+    "geom:bbox":"174.513245365,-35.6274074784,174.516415691,-35.62557545",
+    "geom:latitude":-35.62658,
+    "geom:longitude":174.51512,
+    "gn:population":1358,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.626532,
+    "lbl:longitude":174.515403,
+    "mps:latitude":-35.626532,
+    "mps:longitude":174.515403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ngunguru"
+    ],
+    "name:mri_x_preferred":[
+        "Ngunguru"
+    ],
+    "name:msa_x_preferred":[
+        "Ngunguru"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ngunguru",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":603,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186111,
+        "gp:id":55877753,
+        "wd:id":"Q7022706",
+        "wk:page":"Ngunguru"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ae72ef4cd122ba72475ed3a35af09aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101917859,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101917859,
+    "wof:lastmodified":1527715907,
+    "wof:name":"Ngunguru",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:population":1358,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915215
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.51324536503637,
+    -35.62740747838485,
+    174.51641569089992,
+    -35.62557545000125
+],
+  "geometry": {"coordinates":[[[174.51561153162029,-35.62740747838485],[174.51500434373028,-35.62679027503538],[174.51485607621689,-35.62680044188725],[174.51465179656714,-35.62681444924692],[174.51375832593246,-35.62678382289434],[174.51326040547715,-35.6268513322379],[174.51324536503637,-35.62639156174717],[174.51343264819755,-35.62641727837117],[174.51373432578214,-35.62643089032634],[174.51406991829853,-35.62643048526135],[174.51428471954662,-35.62635884044786],[174.51454052689624,-35.62624423257243],[174.51466290241743,-35.62618655880753],[174.51469711376473,-35.62618605781251],[174.51500818862451,-35.62617519325627],[174.5152905201314,-35.6260619980067],[174.51557523698688,-35.62557545000125],[174.51609980923922,-35.62614287742301],[174.51586230024202,-35.62626746634585],[174.51614731260256,-35.62665789997491],[174.51641569089992,-35.62702554245173],[174.51607152209297,-35.62724030305356],[174.51561153162029,-35.62740747838485]]],"type":"Polygon"}
+}

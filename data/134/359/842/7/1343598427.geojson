@@ -1,0 +1,67 @@
+{
+  "id": 1343598427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.78333,-44.96667,170.78333,-44.96667",
+    "geom:latitude":-44.96667,
+    "geom:longitude":170.78333,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Enfield",
+    "gn:country_code":"NZ",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2191324,
+    "gn:latitude":-44.96667,
+    "gn:longitude":170.78333,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Enfield",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191324
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"57fa3f080f1afa1b385e864fbf34fc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1343598427,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1343598427,
+    "wof:lastmodified":1537042659,
+    "wof:name":"Enfield",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.78333,
+    -44.96667,
+    170.78333,
+    -44.96667
+],
+  "geometry": {"coordinates":[170.78333000000001,-44.96667],"type":"Point"}
+}

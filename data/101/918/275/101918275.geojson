@@ -1,0 +1,81 @@
+{
+  "id": 101918275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12724.380493,
+    "geom:bbox":"175.31471035,-38.0604740024,175.316912909,-38.0592241282",
+    "geom:latitude":-38.059882,
+    "geom:longitude":175.315855,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.059775,
+    "lbl:longitude":175.31585,
+    "mps:latitude":-38.059775,
+    "mps:longitude":175.31585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tokanui"
+    ],
+    "name:msa_x_preferred":[
+        "Tokanui"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tokanui",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6240779,
+        "gp:id":2350827,
+        "wd:id":"Q7813482"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ce87474be12c98931d2f65d73111612b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101918275,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918275,
+    "wof:lastmodified":1527715670,
+    "wof:name":"Tokanui",
+    "wof:parent_id":102079273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914537
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.31471035027482,
+    -38.06047400241393,
+    175.3169129091206,
+    -38.05922412824361
+],
+  "geometry": {"coordinates":[[[175.31471035027482,-38.05999519438208],[175.31483522602349,-38.05977355936292],[175.31593450020492,-38.05926755408696],[175.31602881895816,-38.05922412824361],[175.31612292590248,-38.05934566225035],[175.31628271960864,-38.05955687093626],[175.31628508794961,-38.05955952583775],[175.31659940176087,-38.05992616578916],[175.316723311206,-38.06012099389518],[175.31691290912059,-38.06047400241393],[175.31581507387378,-38.060235433268],[175.31471035027482,-38.05999519438208]]],"type":"Polygon"}
+}

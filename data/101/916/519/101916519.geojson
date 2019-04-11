@@ -1,0 +1,79 @@
+{
+  "id": 101916519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28618.353937,
+    "geom:bbox":"176.876327655,-39.417531122,176.878591039,-39.4113142052",
+    "geom:latitude":-39.413958,
+    "geom:longitude":176.877478,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.413909,
+    "lbl:longitude":176.87748,
+    "mps:latitude":-39.413909,
+    "mps:longitude":176.87748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Bay View"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bay View",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":148,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193500,
+        "gp:id":2349663,
+        "wd:id":"Q4874148",
+        "wk:page":"Bay View, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8b2ae980c0a3f59acdb0596a31a821e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101916519,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101916519,
+    "wof:lastmodified":1527715559,
+    "wof:name":"Bay View",
+    "wof:parent_id":102079331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915291
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.87632765498248,
+    -39.41753112202362,
+    176.87859103906627,
+    -39.41131420521602
+],
+  "geometry": {"coordinates":[[[176.87788670662655,-39.41131420521602],[176.87859103906627,-39.4114585402056],[176.87691462899289,-39.41634524905081],[176.87691307742881,-39.41635007339064],[176.87691180750261,-39.41635479826343],[176.87691081945107,-39.41635942375135],[176.87671112405991,-39.41736976988329],[176.87669370227829,-39.41745787850381],[176.87667918996598,-39.41753112202362],[176.87634217535427,-39.41745214073713],[176.87633519443406,-39.41745057272696],[176.87632765498248,-39.41744929355622],[176.87634428917548,-39.41738840588041],[176.87788670662655,-39.41131420521602]]],"type":"Polygon"}
+}

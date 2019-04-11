@@ -1,0 +1,83 @@
+{
+  "id": 101918243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7182.277042,
+    "geom:bbox":"173.112498372,-41.3791772089,173.114246542,-41.3777676418",
+    "geom:latitude":-41.378467,
+    "geom:longitude":173.113375,
+    "gn:population":1677,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.378481,
+    "lbl:longitude":173.113395,
+    "mps:latitude":-41.378481,
+    "mps:longitude":173.113395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Brightwater"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Brightwater",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd4f6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192964,
+        "gp:id":2348217,
+        "wd:id":"Q915930",
+        "wk:page":"Brightwater"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b04672d1da322dd923348890b01185ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101918243,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":101918243,
+    "wof:lastmodified":1505338687,
+    "wof:name":"Brightwater",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:population":1677,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915227
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.11249837191764,
+    -41.37917720890869,
+    173.11424654165117,
+    -41.37776764183548
+],
+  "geometry": {"coordinates":[[[173.11424654165117,-41.37894499852622],[173.11387954425004,-41.37917720890869],[173.11249837191764,-41.37800330802828],[173.11290684515697,-41.37776764183548],[173.11424654165117,-41.37894499852622]]],"type":"Polygon"}
+}

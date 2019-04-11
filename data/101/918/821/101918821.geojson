@@ -1,0 +1,85 @@
+{
+  "id": 101918821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4742.515702,
+    "geom:bbox":"178.323509265,-37.8906326254,178.324589115,-37.8901050431",
+    "geom:latitude":-37.890363,
+    "geom:longitude":178.324048,
+    "gn:population":897,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.890364,
+    "lbl:longitude":178.324049,
+    "mps:latitude":-37.890364,
+    "mps:longitude":178.324049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ruatoria"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ruatoria",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1497,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df1de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2183115,
+        "gp:id":2350489,
+        "qs:id":512379,
+        "wd:id":"Q2171484",
+        "wk:page":"Ruatoria"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7b4c9aedae8d8cae6796e61aa985d9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101918821,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":101918821,
+    "wof:lastmodified":1527715670,
+    "wof:name":"Ruatoria",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:population":897,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914553
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.32350926501886,
+    -37.89063262538875,
+    178.3245891152529,
+    -37.89010504310766
+],
+  "geometry": {"coordinates":[[[178.32452934069167,-37.89063262538875],[178.32350926501886,-37.89056271938436],[178.32354768813724,-37.89010504310766],[178.32458911525291,-37.89015130261753],[178.32458388316897,-37.89016670676958],[178.32452934069167,-37.89063262538875]]],"type":"Polygon"}
+}

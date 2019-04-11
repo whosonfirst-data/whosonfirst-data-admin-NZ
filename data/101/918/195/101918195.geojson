@@ -1,0 +1,85 @@
+{
+  "id": 101918195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":39681.90017,
+    "geom:bbox":"174.294585644,-39.4301950101,174.296664364,-39.4272255094",
+    "geom:latitude":-39.429038,
+    "geom:longitude":174.295706,
+    "gn:population":2235,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.429062,
+    "lbl:longitude":174.29573,
+    "mps:latitude":-39.429062,
+    "mps:longitude":174.29573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Eltham"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Eltham",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":51.451478,
+    "wd:longitude":0.051772,
+    "wd:wordcount":5378,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de338-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206358,
+        "gp:id":2348482,
+        "wd:id":"Q2057625"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e8d921464e8a9f2fd5ae8125af37572c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101918195,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101918195,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Eltham",
+    "wof:parent_id":102079295,
+    "wof:placetype":"locality",
+    "wof:population":2235,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914909
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.29458564402887,
+    -39.4301950100984,
+    174.29666436392168,
+    -39.42722550935881
+],
+  "geometry": {"coordinates":[[[174.2956347075864,-39.42723801904862],[174.29564566855979,-39.42806296122626],[174.29660618939778,-39.42808472242545],[174.29666436392168,-39.4301950100984],[174.29613382156819,-39.43018396342602],[174.29566897364347,-39.43017584578529],[174.29458564402887,-39.43017490049702],[174.29474857472709,-39.42958740827518],[174.29479491016602,-39.42946602654573],[174.29483463046918,-39.42923054399801],[174.29526354210989,-39.42722550935881],[174.2956347075864,-39.42723801904862]]],"type":"Polygon"}
+}

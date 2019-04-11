@@ -1,0 +1,106 @@
+{
+  "id": 85778965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3306478.075858,
+    "geom:bbox":"174.730108,-36.800957,174.730108,-36.800957",
+    "geom:latitude":-36.800957,
+    "geom:longitude":174.730108,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.800957,
+    "lbl:longitude":174.730108,
+    "mps:latitude":-36.798193,
+    "mps:longitude":174.732678,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:note":"extra directiona77l",
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Northcote West"
+    ],
+    "name:unk_x_variant":[
+        "Northcote West"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Northcote West",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":80,
+    "qs:photo_sum":279,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726663,
+        "qs:id":230484,
+        "qs_pg:id":230484
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"166af0f571bad45c9f18ee02929d864d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778965,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778965,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859877,
+    "wof:name":"Northcote West",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.730108,
+    -36.800957,
+    174.730108,
+    -36.800957
+],
+  "geometry": {"coordinates":[174.730108,-36.800957],"type":"Point"}
+}

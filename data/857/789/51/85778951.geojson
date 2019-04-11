@@ -1,0 +1,109 @@
+{
+  "id": 85778951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3399892.454872,
+    "geom:bbox":"174.68797,-36.791673,174.68797,-36.791673",
+    "geom:latitude":-36.791673,
+    "geom:longitude":174.68797,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.791673,
+    "lbl:longitude":174.68797,
+    "mps:latitude":-36.791268,
+    "mps:longitude":174.689506,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Beach Haven"
+    ],
+    "name:eng_x_preferred":[
+        "Beach Haven North"
+    ],
+    "name:unk_x_variant":[
+        "Beach Haven North"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":215,
+    "qs:local_sum":308,
+    "qs:localhoods":2,
+    "qs:name":"Beach Haven North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Beach Haven",
+    "qs:photo_max":22,
+    "qs:photo_sum":93,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726328,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":29,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726656,
+        "qs:id":485013,
+        "qs_pg:id":485013
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"521659cffec3b7699da1fa1546bca3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778951,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778951,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859874,
+    "wof:name":"Beach Haven",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.68797,
+    -36.791673,
+    174.68797,
+    -36.791673
+],
+  "geometry": {"coordinates":[174.68797000000001,-36.791673],"type":"Point"}
+}

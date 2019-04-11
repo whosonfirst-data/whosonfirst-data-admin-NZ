@@ -1,0 +1,92 @@
+{
+  "id": 1108980025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.8702,-41.08827,174.8702,-41.08827",
+    "geom:latitude":-41.08827,
+    "geom:longitude":174.8702,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.08827,
+    "lbl:longitude":174.8702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Camborne"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6224722,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Camborne",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078835,
+    "qs_pg:qs_pg_placetype":"locality_gp_neighbourhood_gn",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644297,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6224722,
+        "qs_pg:id":1078835,
+        "wd:id":"Q5025216",
+        "woe:id":28644297
+    },
+    "wof:country":"NZ",
+    "wof:created":1496793260,
+    "wof:geomhash":"6a89f43500dea3fcc0e256b214625a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":1108980025,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1108980025,
+    "wof:lastmodified":1514493967,
+    "wof:name":"Camborne",
+    "wof:parent_id":102079317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.8702,
+    -41.08827,
+    174.8702,
+    -41.08827
+],
+  "geometry": {"coordinates":[174.87020000000001,-41.08827],"type":"Point"}
+}

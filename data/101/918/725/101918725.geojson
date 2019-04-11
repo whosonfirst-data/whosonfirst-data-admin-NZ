@@ -1,0 +1,80 @@
+{
+  "id": 101918725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5042.129619,
+    "geom:bbox":"175.398418195,-39.17500646,175.39986333,-39.1745247945",
+    "geom:latitude":-39.174768,
+    "geom:longitude":175.399141,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.174765,
+    "lbl:longitude":175.399164,
+    "mps:latitude":-39.174765,
+    "mps:longitude":175.399164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "National Park"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"National Park",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":574,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd2c6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186302,
+        "gp:id":2349665,
+        "wd:id":"Q1318354",
+        "wk:page":"National Park, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"caa53b9bd60ece941ca7f8d5ca4190e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918725,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918725,
+    "wof:lastmodified":1527715672,
+    "wof:name":"National Park",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916365
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.39841819484715,
+    -39.17500646002892,
+    175.39986333032334,
+    -39.17452479452462
+],
+  "geometry": {"coordinates":[[[175.39986333032334,-39.17490778190832],[175.3984796214435,-39.17500646002892],[175.39841819484715,-39.17464004448988],[175.39943274097783,-39.17454737777341],[175.39977584424042,-39.17452479452462],[175.39986333032334,-39.17490778190832]]],"type":"Polygon"}
+}

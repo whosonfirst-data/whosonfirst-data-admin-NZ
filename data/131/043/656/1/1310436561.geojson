@@ -1,0 +1,72 @@
+{
+  "id": 1310436561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.23333,-46.13333,168.23333,-46.13333",
+    "geom:latitude":-46.13333,
+    "geom:longitude":168.23333,
+    "gn:admin1_code":"F8",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Oreti Plains",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185446,
+    "gn:latitude":-46.13333,
+    "gn:longitude":168.23333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Oreti Plains",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oreti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185446
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"042193cfe0b34979d2dff5ceff99073f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1310436561,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1310436561,
+    "wof:lastmodified":1537676143,
+    "wof:name":"Oreti Plains",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.23333,
+    -46.13333,
+    168.23333,
+    -46.13333
+],
+  "geometry": {"coordinates":[168.23333,-46.13333],"type":"Point"}
+}

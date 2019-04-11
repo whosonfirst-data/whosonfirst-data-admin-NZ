@@ -1,0 +1,63 @@
+{
+  "id": 1209249093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.2,-35.93333,174.2,-35.93333",
+    "geom:latitude":-35.93333,
+    "geom:longitude":174.2,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Waiotira",
+    "gn:country_code":"NZ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180071,
+    "gn:latitude":-35.93333,
+    "gn:longitude":174.2,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Waiotira",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180071,
+        "wk:page":"Waiotira"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fa0a584ba4f806b45d0683d3d51f1af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209249093
+        }
+    ],
+    "wof:id":1209249093,
+    "wof:lastmodified":1537570167,
+    "wof:name":"Waiotira",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.2,
+    -35.93333,
+    174.2,
+    -35.93333
+],
+  "geometry": {"coordinates":[174.19999999999999,-35.93333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327269873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.43333,-35.01667,173.43333,-35.01667",
+    "geom:latitude":-35.01667,
+    "geom:longitude":173.43333,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Parapara",
+    "gn:country_code":"NZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2184914,
+    "gn:latitude":-35.01667,
+    "gn:longitude":173.43333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Parapara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184914
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"32f68c7e98f031a83c09d6bab0671c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1327269873,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1327269873,
+    "wof:lastmodified":1536915992,
+    "wof:name":"Parapara",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.43333,
+    -35.01667,
+    173.43333,
+    -35.01667
+],
+  "geometry": {"coordinates":[173.43333000000001,-35.01667],"type":"Point"}
+}

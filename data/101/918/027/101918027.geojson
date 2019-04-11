@@ -1,0 +1,84 @@
+{
+  "id": 101918027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10752.749648,
+    "geom:bbox":"171.201998268,-44.4870825686,171.204531634,-44.4859490707",
+    "geom:latitude":-44.486536,
+    "geom:longitude":171.203193,
+    "gn:population":503,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.486542,
+    "lbl:longitude":171.203206,
+    "mps:latitude":-44.486542,
+    "mps:longitude":171.203206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Pareora"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pareora",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184885,
+        "gp:id":2350069,
+        "qs:id":138933,
+        "wd:id":"Q7136835",
+        "wk:page":"Pareora"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ed2b1d28e30fa5bb7b1338e0579e7a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101918027,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918027,
+    "wof:lastmodified":1527715675,
+    "wof:name":"Pareora",
+    "wof:parent_id":102079373,
+    "wof:placetype":"locality",
+    "wof:population":503,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916143
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.20199826801985,
+    -44.48708256858885,
+    171.20453163430886,
+    -44.48594907068428
+],
+  "geometry": {"coordinates":[[[171.20430625171713,-44.48708256858885],[171.20199826801985,-44.48648279665761],[171.20205687352771,-44.48594907068428],[171.20452988882116,-44.48667510793824],[171.20453163430886,-44.48667567545492],[171.20430625171713,-44.48708256858885]]],"type":"Polygon"}
+}

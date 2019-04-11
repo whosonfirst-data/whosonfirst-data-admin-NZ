@@ -1,0 +1,79 @@
+{
+  "id": 101917489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":33320.418071,
+    "geom:bbox":"176.896006899,-39.6024373492,176.900211719,-39.6009373029",
+    "geom:latitude":-39.601647,
+    "geom:longitude":176.898095,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.601642,
+    "lbl:longitude":176.898087,
+    "mps:latitude":-39.601642,
+    "mps:longitude":176.898087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Whakatu"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Whakatu",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c91d6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179362,
+        "gp:id":2351352,
+        "wd:id":"Q20941598"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"75515cfc42b47c523c50205baa167292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101917489,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101917489,
+    "wof:lastmodified":1527715913,
+    "wof:name":"Whakatu",
+    "wof:parent_id":102079329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915031
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.89600689880749,
+    -39.60243734923245,
+    176.90021171927148,
+    -39.60093730289343
+],
+  "geometry": {"coordinates":[[[176.89974301220781,-39.60106120920857],[176.90021171927148,-39.60174831840666],[176.90020913349554,-39.60174890799069],[176.89936631351742,-39.60194108075476],[176.89896975022688,-39.60203071262909],[176.8971740225613,-39.60243734923245],[176.89707457651954,-39.60201864260775],[176.89705432758095,-39.6020187473898],[176.89696623567846,-39.60201920328675],[176.896743898756,-39.60202035344069],[176.89666548621454,-39.6020207590419],[176.89600689880749,-39.60188903777207],[176.89640096611146,-39.60137625811172],[176.89868947612683,-39.60093730289343],[176.89902506364848,-39.60126676645592],[176.89913597921725,-39.60135222051655],[176.89974301220781,-39.60106120920857]]],"type":"Polygon"}
+}

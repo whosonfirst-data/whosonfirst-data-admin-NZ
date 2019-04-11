@@ -1,0 +1,68 @@
+{
+  "id": 1243104341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.36667,-35.56667,174.36667,-35.56667",
+    "geom:latitude":-35.56667,
+    "geom:longitude":174.36667,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Marua",
+    "gn:country_code":"NZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187261,
+    "gn:latitude":-35.56667,
+    "gn:longitude":174.36667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Marua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187261
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b9c660cb3d98527a45cf2e68bf3c1cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1243104341,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1243104341,
+    "wof:lastmodified":1536801529,
+    "wof:name":"Marua",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.36667,
+    -35.56667,
+    174.36667,
+    -35.56667
+],
+  "geometry": {"coordinates":[174.36667,-35.56667],"type":"Point"}
+}

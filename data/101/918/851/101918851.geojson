@@ -1,0 +1,84 @@
+{
+  "id": 101918851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5688.617666,
+    "geom:bbox":"174.062316535,-35.3805218335,174.063660486,-35.3796759307",
+    "geom:latitude":-35.380079,
+    "geom:longitude":174.062979,
+    "gn:population":1399,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.380088,
+    "lbl:longitude":174.062958,
+    "mps:latitude":-35.380088,
+    "mps:longitude":174.062958,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kawakawa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kawakawa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":324,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188966,
+        "gp:id":2349013,
+        "qs:id":970263,
+        "wd:id":"Q1013579",
+        "wk:page":"Kawakawa, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"232f2a056d56ce3b2a45edd2e63a870d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101918851,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918851,
+    "wof:lastmodified":1527715671,
+    "wof:name":"Kawakawa",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:population":1399,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916881
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.06231653457397,
+    -35.3805218335443,
+    174.06366048566036,
+    -35.37967593073387
+],
+  "geometry": {"coordinates":[[[174.06343039907821,-35.37967593073387],[174.06366048566036,-35.38004055106961],[174.06254761406618,-35.3805218335443],[174.06231653457397,-35.38009603263689],[174.0633307984119,-35.37967701963202],[174.06343039907821,-35.37967593073387]]],"type":"Polygon"}
+}

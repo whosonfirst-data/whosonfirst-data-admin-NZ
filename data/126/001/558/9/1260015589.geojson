@@ -1,0 +1,68 @@
+{
+  "id": 1260015589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.45,-38.81667,175.45,-38.81667",
+    "geom:latitude":-38.81667,
+    "geom:longitude":175.45,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Oruaiwi",
+    "gn:country_code":"NZ",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185409,
+    "gn:latitude":-38.81667,
+    "gn:longitude":175.45,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Oruaiwi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185409
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ea68d41d76e07ce27b7bb86b4bd4d9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1260015589,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1260015589,
+    "wof:lastmodified":1537082543,
+    "wof:name":"Oruaiwi",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.45,
+    -38.81667,
+    175.45,
+    -38.81667
+],
+  "geometry": {"coordinates":[175.44999999999999,-38.81667],"type":"Point"}
+}

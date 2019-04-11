@@ -1,0 +1,68 @@
+{
+  "id": 1309940227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.9,-38.1,175.9,-38.1",
+    "geom:latitude":-38.1,
+    "geom:longitude":175.9,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Ngatira",
+    "gn:country_code":"NZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2186145,
+    "gn:latitude":-38.1,
+    "gn:longitude":175.9,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Ngatira",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186145
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c71515b60a8a17cb9b03912b8f145ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":1309940227,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1309940227,
+    "wof:lastmodified":1536737411,
+    "wof:name":"Ngatira",
+    "wof:parent_id":102079277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.9,
+    -38.1,
+    175.9,
+    -38.1
+],
+  "geometry": {"coordinates":[175.90000000000001,-38.1],"type":"Point"}
+}

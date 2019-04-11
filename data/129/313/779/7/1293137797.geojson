@@ -1,0 +1,68 @@
+{
+  "id": 1293137797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.33333,-43.85,172.33333,-43.85",
+    "geom:latitude":-43.85,
+    "geom:longitude":172.33333,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Sedgemere",
+    "gn:country_code":"NZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182868,
+    "gn:latitude":-43.85,
+    "gn:longitude":172.33333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Sedgemere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182868
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"071f30a8bbf442c0ab63fb11176f727c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":1293137797,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1293137797,
+    "wof:lastmodified":1536794379,
+    "wof:name":"Sedgemere",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.33333000000005,
+    -43.85,
+    172.33333000000005,
+    -43.85
+],
+  "geometry": {"coordinates":[172.33333000000005,-43.85],"type":"Point"}
+}

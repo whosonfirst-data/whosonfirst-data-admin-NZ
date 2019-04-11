@@ -1,0 +1,88 @@
+{
+  "id": 101917191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":58438.682528,
+    "geom:bbox":"175.416309698,-40.5476159321,175.420591105,-40.5440552054",
+    "geom:latitude":-40.545657,
+    "geom:longitude":175.418206,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.545328,
+    "lbl:longitude":175.41817,
+    "mps:latitude":-40.545328,
+    "mps:longitude":175.41817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Shannon"
+    ],
+    "name:eng_x_preferred":[
+        "Shannon"
+    ],
+    "name:msa_x_preferred":[
+        "Shannon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0646\u0646\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Shannon",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":612,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6225657,
+        "gp:id":2350540,
+        "wd:id":"Q2277038",
+        "wk:page":"Shannon, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"eee87064020e8af1c2baebc1a5d804ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101917191,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101917191,
+    "wof:lastmodified":1527715910,
+    "wof:name":"Shannon",
+    "wof:parent_id":102079313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915817
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.41630969792854,
+    -40.54761593212377,
+    175.42059110495526,
+    -40.54405520541549
+],
+  "geometry": {"coordinates":[[[175.41630969792854,-40.54492033137436],[175.41676188061314,-40.54458831522964],[175.41735213794095,-40.54415519924306],[175.41766157419457,-40.54435232373424],[175.41808193601881,-40.54405520541549],[175.4187137904249,-40.54454738020392],[175.41933955871951,-40.54503427369159],[175.41902727313376,-40.54524984572635],[175.42059110495526,-40.54643329598989],[175.42008483149067,-40.54686016038045],[175.41933244106494,-40.54623258802326],[175.41907636022646,-40.54622841167991],[175.41726478527713,-40.54761593212377],[175.41655194583876,-40.54702355066777],[175.41695675639681,-40.54688433783847],[175.41714328591232,-40.5470462007079],[175.41804108484973,-40.5463633787279],[175.41630969792854,-40.54492033137436]]],"type":"Polygon"}
+}

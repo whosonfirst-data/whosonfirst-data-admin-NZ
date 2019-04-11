@@ -1,0 +1,67 @@
+{
+  "id": 1209651997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.05,-45.73333,170.05,-45.73333",
+    "geom:latitude":-45.73333,
+    "geom:longitude":170.05,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Clarks",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2192319,
+    "gn:latitude":-45.73333,
+    "gn:longitude":170.05,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Clarks",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clarks Junction",
+        "Clarke's"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192319
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"77b77583e0e514407ae02e4f0b927a2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209651997
+        }
+    ],
+    "wof:id":1209651997,
+    "wof:lastmodified":1537676147,
+    "wof:name":"Clarks",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.05,
+    -45.73333,
+    170.05,
+    -45.73333
+],
+  "geometry": {"coordinates":[170.05000000000001,-45.73333],"type":"Point"}
+}

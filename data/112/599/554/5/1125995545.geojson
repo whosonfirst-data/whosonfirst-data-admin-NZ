@@ -1,0 +1,80 @@
+{
+  "id": 1125995545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.036266,-39.643371,177.036266,-39.643371",
+    "geom:latitude":-39.643371,
+    "geom:longitude":177.036266,
+    "gn:gn_country":"NZ",
+    "iso:country":"NZ",
+    "lbl:latitude":-39.643371,
+    "lbl:longitude":177.036266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:name":"Cape Kidnappers",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Hawke's Bay",
+    "qs_pg:photos":249,
+    "qs_pg:photos_1k":50,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":249,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900862,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":55877557,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Hawke's Bay",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55877557,
+        "qs_pg:id":900862
+    },
+    "wof:country":"NZ",
+    "wof:created":1497299307,
+    "wof:geomhash":"4b2c2e8f39d8213857ad3de9e70cbee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1125995545,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1125995545,
+    "wof:lastmodified":1509405722,
+    "wof:name":"Cape Kidnappers",
+    "wof:parent_id":85687189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.036266,
+    -39.643371,
+    177.036266,
+    -39.643371
+],
+  "geometry": {"coordinates":[177.03626600000001,-39.643371],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101917047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19504.228872,
+    "geom:bbox":"170.678137284,-45.7849874675,170.683569762,-45.782370891",
+    "geom:latitude":-45.783646,
+    "geom:longitude":170.680917,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.783653,
+    "lbl:longitude":170.680915,
+    "mps:latitude":-45.783654,
+    "mps:longitude":170.680912,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Te Ngaru"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Ngaru",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2348030
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"81e75252a76d47884665c75b6a512a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101917047,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101917047,
+    "wof:lastmodified":1487208190,
+    "wof:name":"Te Ngaru",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.67813728443105,
+    -45.78498746747465,
+    170.68356976218578,
+    -45.78237089100369
+],
+  "geometry": {"coordinates":[[[170.67834738719611,-45.78498746747465],[170.67813728443105,-45.78467983797538],[170.68195605785036,-45.78295526819586],[170.68326086449005,-45.78237089100369],[170.68356976218578,-45.78268582463484],[170.68258819100885,-45.78313934978333],[170.68092149012082,-45.78387781342924],[170.67914670909542,-45.78461477618801],[170.679143469515,-45.78461615021994],[170.67914065772541,-45.78461744293708],[170.67913806536771,-45.78461856009614],[170.67834738719611,-45.78498746747465]]],"type":"Polygon"}
+}

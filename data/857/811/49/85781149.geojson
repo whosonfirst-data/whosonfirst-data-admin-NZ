@@ -1,0 +1,109 @@
+{
+  "id": 85781149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7797645.09966,
+    "geom:bbox":"175.632298,-40.390618,175.632298,-40.390618",
+    "geom:latitude":-40.390618,
+    "geom:longitude":175.632298,
+    "gn:latitude":-40.37825,
+    "gn:longitude":175.63021,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.390618,
+    "lbl:longitude":175.632298,
+    "mps:latitude":-40.391994,
+    "mps:longitude":175.641675,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Summerhill"
+    ],
+    "name:unk_x_variant":[
+        "Summerhill"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2185018,
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Summerhill",
+    "qs:local_max":729,
+    "qs:local_sum":2351,
+    "qs:localhoods":11,
+    "qs:name":"Summerhill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Manawatu Wanganui",
+    "qs:name_adm2":"Palmerston North City",
+    "qs:name_local":"Palmerston North",
+    "qs:photo_max":29,
+    "qs:photo_sum":64,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021764,
+    "qs:woe_adm2":55875856,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350025,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079307,
+        85687251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6250450,
+        "gp:id":28644055,
+        "qs:id":985663,
+        "qs_pg:id":985663
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"24d9217260d9ffe658224169adaef5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":-1,
+            "neighbourhood_id":85781149,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":85781149,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860150,
+    "wof:name":"Summerhill",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.632298,
+    -40.390618,
+    175.632298,
+    -40.390618
+],
+  "geometry": {"coordinates":[175.63229799999999,-40.390618],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101914571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14818.106171,
+    "geom:bbox":"170.933416059,-45.0978382597,170.935908602,-45.0965583753",
+    "geom:latitude":-45.097212,
+    "geom:longitude":170.934618,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.097202,
+    "lbl:longitude":170.934602,
+    "mps:latitude":-45.097201,
+    "mps:longitude":170.934602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Waiareka Junction"
+    ],
+    "name:unk_x_variant":[
+        "Waioreka Junction"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waiareka Junction",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180456,
+        "gp:id":2351063,
+        "qs:id":45043
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"883c78eecbab4fd9775353238a5e0dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101914571,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101914571,
+    "wof:lastmodified":1512075667,
+    "wof:name":"Waiareka Junction",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.93341605890538,
+    -45.09783825973815,
+    170.9359086016513,
+    -45.09655837531684
+],
+  "geometry": {"coordinates":[[[170.9358610352121,-45.09783825973815],[170.93341605890538,-45.09728879677993],[170.93344150817424,-45.09655837531684],[170.93510326162314,-45.09697264929641],[170.93590860165131,-45.0972711393995],[170.9358610352121,-45.09783825973815]]],"type":"Polygon"}
+}

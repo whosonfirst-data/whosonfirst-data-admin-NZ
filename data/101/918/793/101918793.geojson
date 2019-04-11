@@ -1,0 +1,86 @@
+{
+  "id": 101918793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5580.20981,
+    "geom:bbox":"176.917669151,-39.5369279859,176.918322912,-39.5358508346",
+    "geom:latitude":-39.536424,
+    "geom:longitude":176.918001,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.536419,
+    "lbl:longitude":176.917992,
+    "mps:latitude":-39.536419,
+    "mps:longitude":176.917992,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Clive"
+    ],
+    "name:eng_x_preferred":[
+        "Clive"
+    ],
+    "name:msa_x_preferred":[
+        "Clive"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Clive",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":242,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cb36e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192282,
+        "gp:id":2348356,
+        "wd:id":"Q580817",
+        "wk:page":"Clive, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3acb10de734e2a7a8d2978ad999e72b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101918793,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918793,
+    "wof:lastmodified":1527715674,
+    "wof:name":"Clive",
+    "wof:parent_id":102079331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916511
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.91766915121403,
+    -39.53692798594405,
+    176.9183229116328,
+    -39.53585083464586
+],
+  "geometry": {"coordinates":[[[176.91768162777061,-39.53692798594405],[176.91768064239261,-39.53691735982982],[176.91766915121403,-39.53679343429336],[176.9177258911682,-39.53608662758683],[176.91785797389642,-39.53593965764031],[176.91808612580223,-39.53586440477055],[176.91822455445379,-39.53585387441642],[176.91826451428071,-39.53585083464586],[176.9183049640329,-39.53673430222686],[176.9183229116328,-39.53687991558864],[176.91768162777061,-39.53692798594405]]],"type":"Polygon"}
+}

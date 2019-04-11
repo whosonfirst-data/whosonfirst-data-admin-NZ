@@ -1,0 +1,109 @@
+{
+  "id": 85781057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3061946.570691,
+    "geom:bbox":"174.726454,-36.727524,174.726454,-36.727524",
+    "geom:latitude":-36.727524,
+    "geom:longitude":174.726454,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.727524,
+    "lbl:longitude":174.726454,
+    "mps:latitude":-36.724838,
+    "mps:longitude":174.732779,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Pinehill"
+    ],
+    "name:eng_x_preferred":[
+        "Pinehill"
+    ],
+    "name:unk_x_variant":[
+        "Pinehill"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Pinehill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":25,
+    "qs:photo_sum":81,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":55,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643994,
+        "qs:id":1154871,
+        "qs_pg:id":1154871
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"087a0d321af35195cdcded9845d1fb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781057,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781057,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860132,
+    "wof:name":"Pinehill",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.726454,
+    -36.727524,
+    174.726454,
+    -36.727524
+],
+  "geometry": {"coordinates":[174.72645399999999,-36.727524],"type":"Point"}
+}

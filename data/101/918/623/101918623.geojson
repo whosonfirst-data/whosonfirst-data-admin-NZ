@@ -1,0 +1,84 @@
+{
+  "id": 101918623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7477.844555,
+    "geom:bbox":"172.32473478,-41.7996002342,172.325279592,-41.7980535178",
+    "geom:latitude":-41.798826,
+    "geom:longitude":172.325009,
+    "gn:population":624,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.798836,
+    "lbl:longitude":172.325018,
+    "mps:latitude":-41.798836,
+    "mps:longitude":172.325018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Murchison"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Murchison",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":445,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df0a8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186377,
+        "gp:id":2349649,
+        "wd:id":"Q971172",
+        "wk:page":"Murchison, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"78173e02ccc0133270e50578e8cf0191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101918623,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":101918623,
+    "wof:lastmodified":1527715676,
+    "wof:name":"Murchison",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:population":624,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915077
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.3247347798678,
+    -41.79960023424049,
+    172.3252795921226,
+    -41.79805351778047
+],
+  "geometry": {"coordinates":[[[172.3252795921226,-41.79805716042691],[172.32526427841796,-41.79960023424049],[172.32473477986781,-41.79958769899095],[172.32474377112754,-41.79883078585644],[172.32475658877794,-41.79805351778047],[172.3252795921226,-41.79805716042691]]],"type":"Polygon"}
+}

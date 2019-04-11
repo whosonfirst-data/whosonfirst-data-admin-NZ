@@ -1,0 +1,79 @@
+{
+  "id": 101918209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7696.350754,
+    "geom:bbox":"174.150910934,-39.0188498422,174.153125413,-39.0180810978",
+    "geom:latitude":-39.018497,
+    "geom:longitude":174.152014,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.018505,
+    "lbl:longitude":174.152012,
+    "mps:latitude":-39.018505,
+    "mps:longitude":174.152012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Bell Block"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bell Block",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cbd1e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2193449,
+        "gp:id":2348156,
+        "wd:id":"Q17987304"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"092ab0238239c3858d29ba394a994b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101918209,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101918209,
+    "wof:lastmodified":1527715677,
+    "wof:name":"Bell Block",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915837
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.1509109338507,
+    -39.01884984223433,
+    174.15312541314663,
+    -39.01808109783251
+],
+  "geometry": {"coordinates":[[[174.15312541314663,-39.01835545712647],[174.15161052339599,-39.01884943756453],[174.1509109338507,-39.01884984223433],[174.15101878920203,-39.01864374723461],[174.15115625511845,-39.01852962750726],[174.15131379081623,-39.01846094447787],[174.15279920513737,-39.01809959523051],[174.15296191662364,-39.01808109783251],[174.15312541314663,-39.01835545712647]]],"type":"Polygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101917965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12003.600729,
+    "geom:bbox":"168.587980133,-45.8362171368,168.590416977,-45.8349097156",
+    "geom:latitude":-45.835561,
+    "geom:longitude":168.589193,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.835555,
+    "lbl:longitude":168.589175,
+    "mps:latitude":-45.835555,
+    "mps:longitude":168.589175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Balfour"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Balfour",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":453,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cd36c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2193597,
+        "gp:id":2348124,
+        "wd:id":"Q2625587",
+        "wk:page":"Balfour, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"160392d03aa7bd9540e7dbe7a49300af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101917965,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101917965,
+    "wof:lastmodified":1527715904,
+    "wof:name":"Balfour",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914431
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.58798013257083,
+    -45.8362171367717,
+    168.59041697699482,
+    -45.83490971562038
+],
+  "geometry": {"coordinates":[[[168.58840658990411,-45.83490971562038],[168.59041697699482,-45.83569065936635],[168.58996663595403,-45.8362171367717],[168.58798013257083,-45.83542716954802],[168.58798433378939,-45.8354228215847],[168.5879900272144,-45.83541582643727],[168.58813227684436,-45.83520850317247],[168.58823987552151,-45.83509990181665],[168.58840658990411,-45.83490971562038]]],"type":"Polygon"}
+}

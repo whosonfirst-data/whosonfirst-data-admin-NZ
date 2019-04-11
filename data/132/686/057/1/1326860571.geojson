@@ -1,0 +1,68 @@
+{
+  "id": 1326860571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.6,-39.03333,177.6,-39.03333",
+    "geom:latitude":-39.03333,
+    "geom:longitude":177.6,
+    "gn:admin1_code":"F2",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Whakaki",
+    "gn:country_code":"NZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179423,
+    "gn:latitude":-39.03333,
+    "gn:longitude":177.6,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Whakaki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179423
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f5938dc8647435daa9251e7af080eed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079327,
+            "locality_id":1326860571,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1326860571,
+    "wof:lastmodified":1537007300,
+    "wof:name":"Whakaki",
+    "wof:parent_id":102079327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.6,
+    -39.03333,
+    177.6,
+    -39.03333
+],
+  "geometry": {"coordinates":[177.59999999999999,-39.03333],"type":"Point"}
+}

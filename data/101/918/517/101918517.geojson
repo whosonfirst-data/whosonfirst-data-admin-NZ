@@ -1,0 +1,79 @@
+{
+  "id": 101918517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12971.074619,
+    "geom:bbox":"174.771423543,-36.6183774907,174.773827192,-36.6172632767",
+    "geom:latitude":-36.617952,
+    "geom:longitude":174.772954,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.617986,
+    "lbl:longitude":174.773412,
+    "mps:latitude":-36.617986,
+    "mps:longitude":174.773412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Whangaparaoa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Whangaparaoa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179313,
+        "gp:id":2351363,
+        "qs:id":9657,
+        "wd:id":"Q3567602",
+        "wk:page":"Whangaparaoa Peninsula"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8e971652657f0a079614c4f7a0260f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101918517,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101918517,
+    "wof:lastmodified":1487270013,
+    "wof:name":"Whangaparaoa",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914559
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.77142354345474,
+    -36.61837749067031,
+    174.77382719215592,
+    -36.61726327671215
+],
+  "geometry": {"coordinates":[[[174.77382719215592,-36.61834172244449],[174.77142354345474,-36.61837749067031],[174.7715963497385,-36.61802111285316],[174.77169641903757,-36.61770817261805],[174.77205883711312,-36.61800089613912],[174.77220606559925,-36.61832223387933],[174.77269478865648,-36.61811489731863],[174.77310305307302,-36.61778439202268],[174.77299716303941,-36.61726327671215],[174.77381545341336,-36.61732760593122],[174.7738087813365,-36.61798602592849],[174.77382719215592,-36.61834172244449]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260009741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.66667,-37.26667,175.66667,-37.26667",
+    "geom:latitude":-37.26667,
+    "geom:longitude":175.66667,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Omahu",
+    "gn:country_code":"NZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185676,
+    "gn:latitude":-37.26667,
+    "gn:longitude":175.66667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Omahu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185676
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8985373b5bda76906f15e76edb990ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1260009741,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1260009741,
+    "wof:lastmodified":1537091026,
+    "wof:name":"Omahu",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.66666999999995,
+    -37.26667,
+    175.66666999999995,
+    -37.26667
+],
+  "geometry": {"coordinates":[175.66666999999995,-37.26667],"type":"Point"}
+}

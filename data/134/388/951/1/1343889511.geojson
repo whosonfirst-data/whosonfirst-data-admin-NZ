@@ -1,0 +1,67 @@
+{
+  "id": 1343889511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.1,-44.93333,171.1,-44.93333",
+    "geom:latitude":-44.93333,
+    "geom:longitude":171.1,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Waitaki",
+    "gn:country_code":"NZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179862,
+    "gn:latitude":-44.93333,
+    "gn:longitude":171.1,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Waitaki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179862
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0d506232b2d60befaed8965f25f5bf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1343889511,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1343889511,
+    "wof:lastmodified":1536622718,
+    "wof:name":"Waitaki",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.1,
+    -44.93333,
+    171.1,
+    -44.93333
+],
+  "geometry": {"coordinates":[171.09999999999999,-44.93333],"type":"Point"}
+}

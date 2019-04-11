@@ -1,0 +1,107 @@
+{
+  "id": 85781253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10528693.810693,
+    "geom:bbox":"174.730909,-36.636406,174.730909,-36.636406",
+    "geom:latitude":-36.636406,
+    "geom:longitude":174.730909,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.636406,
+    "lbl:longitude":174.730909,
+    "mps:latitude":-36.643913,
+    "mps:longitude":174.71793,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Wade Heads"
+    ],
+    "name:unk_x_variant":[
+        "Wade Heads"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2179313,
+    "qs:gn_nam_loc":"whangaparaoa",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":358,
+    "qs:local_sum":1491,
+    "qs:localhoods":9,
+    "qs:name":"Wade Heads",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Whangaparaoa",
+    "qs:photo_max":19,
+    "qs:photo_sum":103,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351363,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644217,
+        "qs:id":1154877,
+        "qs_pg:id":1154877
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"220c4bb0d8b4d029089201843cebcb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85781253,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781253,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860172,
+    "wof:name":"Wade Heads",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.730909,
+    -36.636406,
+    174.730909,
+    -36.636406
+],
+  "geometry": {"coordinates":[174.730909,-36.636406],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126072711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.991527,-45.0766875,170.991527,-45.0766875",
+    "geom:latitude":-45.076687,
+    "geom:longitude":170.991527,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.076687,
+    "lbl:longitude":170.991527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Eveline",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1208302,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644548,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079381,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644548,
+        "qs_pg:id":1208302
+    },
+    "wof:country":"NZ",
+    "wof:created":1497310250,
+    "wof:geomhash":"fb297701625de3fa825cfab2ec6407c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":-1,
+            "neighbourhood_id":1126072711,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1126072711,
+    "wof:lastmodified":1512076332,
+    "wof:name":"Eveline",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.991527,
+    -45.0766875,
+    170.991527,
+    -45.0766875
+],
+  "geometry": {"coordinates":[170.99152699999999,-45.0766875],"type":"Point"}
+}

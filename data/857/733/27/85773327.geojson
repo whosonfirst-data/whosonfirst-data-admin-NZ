@@ -1,0 +1,111 @@
+{
+  "id": 85773327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":12037884.982719,
+    "geom:bbox":"176.877903,-39.4775,176.877903,-39.4775",
+    "geom:latitude":-39.4775,
+    "geom:longitude":176.877903,
+    "gn:latitude":-39.47688,
+    "gn:longitude":176.88151,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.4775,
+    "lbl:longitude":176.877903,
+    "mps:latitude":-39.46919,
+    "mps:longitude":176.879036,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Westshore"
+    ],
+    "name:unk_x_variant":[
+        "Westshore"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2186313,
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Westshore",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Westshore",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":50,
+    "qs:photo_sum":217,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687189,
+        102191583,
+        85633345,
+        102079331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179448,
+        "gp:id":2351333,
+        "qs:id":483279
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7f0a7c20d9dd0a529f064bf0cd9228c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":-1,
+            "neighbourhood_id":85773327,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":85773327,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379391,
+    "wof:name":"Westshore",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        1126103763
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.877903,
+    -39.4775,
+    176.877903,
+    -39.4775
+],
+  "geometry": {"coordinates":[176.877903,-39.4775],"type":"Point"}
+}

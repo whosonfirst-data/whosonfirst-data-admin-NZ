@@ -1,0 +1,79 @@
+{
+  "id": 101914597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18866.064543,
+    "geom:bbox":"171.878326723,-41.6048181731,171.881322802,-41.6019447047",
+    "geom:latitude":-41.603464,
+    "geom:longitude":171.879877,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.6035,
+    "lbl:longitude":171.87992,
+    "mps:latitude":-41.6035,
+    "mps:longitude":171.87992,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hector"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hector",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d2ba0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2190106,
+        "gp:id":2348741,
+        "wd:id":"Q16892184",
+        "wk:page":"Hector and Ngakawau"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5b46bba7621627a61268b2bfb89e875b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101914597,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101914597,
+    "wof:lastmodified":1487269818,
+    "wof:name":"Hector",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914273
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.87832672304012,
+    -41.6048181731,
+    171.88132280195867,
+    -41.60194470471983
+],
+  "geometry": {"coordinates":[[[171.88132280195867,-41.6020898055179],[171.88018422959814,-41.60360643616864],[171.87966810073399,-41.60423967497312],[171.87938998472862,-41.60450252436873],[171.87898858288273,-41.6048181731],[171.87832672304012,-41.60459643465688],[171.8788883418535,-41.60410590718529],[171.87923993418613,-41.60382577958813],[171.87987224239433,-41.60313426946435],[171.88076157571169,-41.60194470471983],[171.88132280195867,-41.6020898055179]]],"type":"Polygon"}
+}

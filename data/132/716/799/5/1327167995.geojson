@@ -1,0 +1,68 @@
+{
+  "id": 1327167995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.9,-38.28333,175.9,-38.28333",
+    "geom:latitude":-38.28333,
+    "geom:longitude":175.9,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Kinleith",
+    "gn:country_code":"NZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188827,
+    "gn:latitude":-38.28333,
+    "gn:longitude":175.9,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kinleith",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188827
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"eb4f256a3867a64a8c2e817a53865d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":1327167995,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1327167995,
+    "wof:lastmodified":1537060011,
+    "wof:name":"Kinleith",
+    "wof:parent_id":102079277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.9,
+    -38.28333,
+    175.9,
+    -38.28333
+],
+  "geometry": {"coordinates":[175.90000000000001,-38.28333],"type":"Point"}
+}

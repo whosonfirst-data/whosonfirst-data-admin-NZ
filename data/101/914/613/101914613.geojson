@@ -1,0 +1,116 @@
+{
+  "id": 101914613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":79514.550888,
+    "geom:bbox":"170.466243323,-44.7314845355,170.470044315,-44.7273505345",
+    "geom:latitude":-44.729491,
+    "geom:longitude":170.468034,
+    "gn:population":422,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.729479,
+    "lbl:longitude":170.468004,
+    "mps:latitude":-44.729479,
+    "mps:longitude":170.468004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:cym_x_preferred":[
+        "Kurow"
+    ],
+    "name:deu_x_preferred":[
+        "Kurow"
+    ],
+    "name:eng_x_preferred":[
+        "Kurow"
+    ],
+    "name:fra_x_preferred":[
+        "Kurow"
+    ],
+    "name:hbs_x_preferred":[
+        "Kurow"
+    ],
+    "name:msa_x_preferred":[
+        "Kurow"
+    ],
+    "name:nld_x_preferred":[
+        "Kurow"
+    ],
+    "name:pol_x_preferred":[
+        "Kurow"
+    ],
+    "name:ron_x_preferred":[
+        "Kurow"
+    ],
+    "name:swa_x_preferred":[
+        "Kurow"
+    ],
+    "name:war_x_preferred":[
+        "Kurow"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kurow",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":359,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188574,
+        "gp:id":2349144,
+        "qs_pg:id":9372,
+        "wd:id":"Q1292255",
+        "wk:page":"Kurow"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"91c6830b460b803ec365b88ed3a05728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101914613,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101914613,
+    "wof:lastmodified":1527688590,
+    "wof:name":"Kurow",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:population":422,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914511
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.4662433229414,
+    -44.73148453553451,
+    170.47004431489808,
+    -44.72735053451807
+],
+  "geometry": {"coordinates":[[[170.46758922550598,-44.73148453553451],[170.46694444895579,-44.72987240186388],[170.46689308239311,-44.72974433598259],[170.46624332294141,-44.72836798339402],[170.46656028132986,-44.72833975071296],[170.4662803389468,-44.72782676933264],[170.46814969801605,-44.72735053451807],[170.46871593543011,-44.72839815662873],[170.46923598754623,-44.72936029292053],[170.46996055356919,-44.73070223343075],[170.47004431489808,-44.73084090390544],[170.47001475411344,-44.73085286818669],[170.47000962978126,-44.73085455774874],[170.46918749736261,-44.73123649232323],[170.46799454465452,-44.73139879202139],[170.46797672434596,-44.73140200685928],[170.46758922550598,-44.73148453553451]]],"type":"Polygon"}
+}

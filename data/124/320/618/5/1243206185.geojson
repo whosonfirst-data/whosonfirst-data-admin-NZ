@@ -1,0 +1,68 @@
+{
+  "id": 1243206185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.1,-43.91667,172.1,-43.91667",
+    "geom:latitude":-43.91667,
+    "geom:longitude":172.1,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Kyle",
+    "gn:country_code":"NZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188564,
+    "gn:latitude":-43.91667,
+    "gn:longitude":172.1,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kyle",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188564
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6d922f682a84aaeff8e37207da62ae30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":1243206185,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1243206185,
+    "wof:lastmodified":1536655048,
+    "wof:name":"Kyle",
+    "wof:parent_id":102079371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.1,
+    -43.91667,
+    172.1,
+    -43.91667
+],
+  "geometry": {"coordinates":[172.09999999999999,-43.91667],"type":"Point"}
+}

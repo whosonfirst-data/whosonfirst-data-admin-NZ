@@ -1,0 +1,83 @@
+{
+  "id": 101917957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9193.813012,
+    "geom:bbox":"168.026649573,-45.9704001082,168.028192471,-45.9690462134",
+    "geom:latitude":-45.969674,
+    "geom:longitude":168.027435,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.969629,
+    "lbl:longitude":168.027378,
+    "mps:latitude":-45.969629,
+    "mps:longitude":168.027378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Nightcaps"
+    ],
+    "name:eng_x_variant":[
+        "Nightcaps Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nightcaps",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":385,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dca38-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186091,
+        "gp:id":2349727,
+        "wd:id":"Q7033773",
+        "wk:page":"Nightcaps"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e4e44e3a2ff1782949eff6f4a25309e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101917957,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101917957,
+    "wof:lastmodified":1527715910,
+    "wof:name":"Nightcaps",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916943
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.0266495733264,
+    -45.97040010824669,
+    168.0281924713381,
+    -45.96904621336634
+],
+  "geometry": {"coordinates":[[[168.02738862943983,-45.97040010824669],[168.02664957332641,-45.96942903244612],[168.02765974196888,-45.96904621336634],[168.02819247133809,-45.96975253840549],[168.02764726869714,-45.96996992386214],[168.02783148621168,-45.97020946224573],[168.02738862943983,-45.97040010824669]]],"type":"Polygon"}
+}

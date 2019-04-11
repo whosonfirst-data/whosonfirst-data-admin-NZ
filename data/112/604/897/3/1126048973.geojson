@@ -1,0 +1,95 @@
+{
+  "id": 1126048973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.68333,-42.26667,171.68333,-42.26667",
+    "geom:latitude":-42.26667,
+    "geom:longitude":171.68333,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.26667,
+    "lbl:longitude":171.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ikamatua"
+    ],
+    "name:eng_x_preferred":[
+        "Ikamatua"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2189562,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ikamatua",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"West Coast",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":327047,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348876,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"West Coast",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189562,
+        "gp:id":2348876,
+        "qs_pg:id":327047,
+        "wd:id":"Q5995330"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497302611,
+    "wof:geomhash":"7e39c6873daa3e1b9f5d6a4c7dc5ca8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":1126048973,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1126048973,
+    "wof:lastmodified":1514494202,
+    "wof:name":"Ikamatua",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.68333,
+    -42.26667,
+    171.68333,
+    -42.26667
+],
+  "geometry": {"coordinates":[171.68333000000001,-42.26667],"type":"Point"}
+}

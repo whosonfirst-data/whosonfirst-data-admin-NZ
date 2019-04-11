@@ -1,0 +1,123 @@
+{
+  "id": 85773039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13072185.102509,
+    "geom:bbox":"176.187349,-37.639518,176.187349,-37.639518",
+    "geom:latitude":-37.639518,
+    "geom:longitude":176.187349,
+    "gn:latitude":-37.64167,
+    "gn:longitude":176.18611,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.639518,
+    "lbl:longitude":176.187349,
+    "mps:latitude":-37.642083,
+    "mps:longitude":176.190896,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Mount Maunganui"
+    ],
+    "name:eng_x_variant":[
+        "Mt Maunganui",
+        "Mt. Maunganui"
+    ],
+    "name:msa_x_preferred":[
+        "Gunung Maunganui"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0443\u043d\u0442 \u041c\u0430\u0443\u043d\u0433\u0430\u043d\u0443\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Mount Maunganui"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2208032,
+    "qs:gn_nam_loc":"Tauranga, Tauranga City, Bay of Plenty, NZ",
+    "qs:gn_namadm1":"E8",
+    "qs:gn_name":"Mount Maunganui",
+    "qs:local_max":2147,
+    "qs:local_sum":7947,
+    "qs:localhoods":21,
+    "qs:name":"Mount Maunganui",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Tauranga City",
+    "qs:name_local":"Tauranga",
+    "qs:photo_max":311,
+    "qs:photo_sum":2147,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":65,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875891,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350751,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101915581,
+        102079285,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208041,
+        "gp:id":2349628,
+        "qs:id":687123,
+        "qs_pg:id":687123,
+        "wd:id":"Q833634",
+        "wk:page":"Mount Maunganui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"454bbd16fa5b883f99059bf0877eda13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101915581,
+            "neighbourhood_id":85773039,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":85773039,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859619,
+    "wof:name":"Mount Maunganui",
+    "wof:parent_id":101915581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.187349,
+    -37.639518,
+    176.187349,
+    -37.639518
+],
+  "geometry": {"coordinates":[176.18734900000001,-37.639518],"type":"Point"}
+}

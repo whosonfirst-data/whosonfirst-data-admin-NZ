@@ -1,0 +1,80 @@
+{
+  "id": 101918351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6415.891571,
+    "geom:bbox":"176.604668489,-39.9476794829,176.606264203,-39.945752237",
+    "geom:latitude":-39.9468,
+    "geom:longitude":176.605426,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.946821,
+    "lbl:longitude":176.6054,
+    "mps:latitude":-39.946821,
+    "mps:longitude":176.6054,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waipawa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waipawa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":254,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd1fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6251378,
+        "gp:id":2351185,
+        "wd:id":"Q1292354",
+        "wk:page":"Waipawa"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7d49958daee17e8979dc4c964ae42f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101918351,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918351,
+    "wof:lastmodified":1527715674,
+    "wof:name":"Waipawa",
+    "wof:parent_id":102079333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915399
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.60466848895265,
+    -39.94767948285767,
+    176.60626420320204,
+    -39.94575223704459
+],
+  "geometry": {"coordinates":[[[176.60622364521225,-39.94579932700501],[176.60626420320204,-39.94581338224849],[176.60504401571453,-39.94767948285767],[176.60466848895265,-39.94746497602693],[176.60608648752688,-39.94575223704459],[176.60622364521225,-39.94579932700501]]],"type":"Polygon"}
+}

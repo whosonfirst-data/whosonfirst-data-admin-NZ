@@ -1,0 +1,87 @@
+{
+  "id": 101914517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":32507.615764,
+    "geom:bbox":"171.93131761,-43.4816243108,171.935553318,-43.4804832658",
+    "geom:latitude":-43.481011,
+    "geom:longitude":171.933632,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.481064,
+    "lbl:longitude":171.933666,
+    "mps:latitude":-43.481065,
+    "mps:longitude":171.933675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Glentunnel"
+    ],
+    "name:eng_x_preferred":[
+        "Glentunnel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0435\u043d\u0442\u0430\u043d\u043d\u0435\u043b"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Glentunnel",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":298,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ce442-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2190684,
+        "gp:id":2348621,
+        "wd:id":"Q5569365",
+        "wk:page":"Glentunnel"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"77496f0d4465b4fb4a2577d5f5a41679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101914517,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101914517,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527688585,
+    "wof:name":"Glentunnel",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.93131760985992,
+    -43.48162431082398,
+    171.9355533176429,
+    -43.4804832657633
+],
+  "geometry": {"coordinates":[[[171.9355533176429,-43.48145071381094],[171.93398518467185,-43.48162431082398],[171.93197072096723,-43.48130672646383],[171.93131760985992,-43.4804832657633],[171.93553710640313,-43.4806106743319],[171.9355533176429,-43.48145071381094]]],"type":"Polygon"}
+}

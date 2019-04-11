@@ -1,0 +1,87 @@
+{
+  "id": 101918161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19727.820463,
+    "geom:bbox":"175.027684548,-39.9144499519,175.029954799,-39.9130284539",
+    "geom:latitude":-39.913732,
+    "geom:longitude":175.028724,
+    "gn:population":40268,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.913713,
+    "lbl:longitude":175.028715,
+    "mps:latitude":-39.913713,
+    "mps:longitude":175.028715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Wanganui"
+    ],
+    "name:eng_x_variant":[
+        "WAG"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wanganui",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":4464,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df846-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179670,
+        "gp:id":2351278,
+        "wd:id":"Q1015672",
+        "wk:page":"Whanganui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6643adc4f8d54655e926e90cd085c4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101918161,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918161,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Wanganui",
+    "wof:parent_id":102079299,
+    "wof:placetype":"locality",
+    "wof:population":40268,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914639
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.02768454751362,
+    -39.91444995190263,
+    175.02995479888284,
+    -39.9130284538767
+],
+  "geometry": {"coordinates":[[[175.02995479888284,-39.91389616035664],[175.02918102456815,-39.91444995190263],[175.02870810660445,-39.9142952507485],[175.02829585790343,-39.91416079620943],[175.02792525217365,-39.91410672785467],[175.02768454751362,-39.91411157392416],[175.0277712771987,-39.91330517842749],[175.02818303980627,-39.9130284538767],[175.02883376257012,-39.91315113555533],[175.02952402640278,-39.91342177846342],[175.02995479888284,-39.91389616035664]]],"type":"Polygon"}
+}

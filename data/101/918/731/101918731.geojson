@@ -1,0 +1,80 @@
+{
+  "id": 101918731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9380.177419,
+    "geom:bbox":"175.374783437,-38.9992808694,175.376727268,-38.9985392406",
+    "geom:latitude":-38.998907,
+    "geom:longitude":175.375846,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.998902,
+    "lbl:longitude":175.375918,
+    "mps:latitude":-38.998902,
+    "mps:longitude":175.375918,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Owhango"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Owhango",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":619,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de694-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185155,
+        "gp:id":2349980,
+        "wd:id":"Q1652846",
+        "wk:page":"Owhango"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a504721c97d73139b2bccaa605e5c9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918731,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918731,
+    "wof:lastmodified":1527715669,
+    "wof:name":"Owhango",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914765
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.37478343656332,
+    -38.99928086944008,
+    175.37672726817217,
+    -38.99853924060465
+],
+  "geometry": {"coordinates":[[[175.37550412095899,-38.99855882026677],[175.37672726817217,-38.99869551515093],[175.3766215799092,-38.99928086944008],[175.37487317071623,-38.99907585828233],[175.37478343656332,-38.99906533567493],[175.37478552743778,-38.99905898276703],[175.37495250694184,-38.99884367262299],[175.37532893219668,-38.99853924060465],[175.37550412095899,-38.99855882026677]]],"type":"Polygon"}
+}

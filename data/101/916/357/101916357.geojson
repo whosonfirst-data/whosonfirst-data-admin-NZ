@@ -1,0 +1,82 @@
+{
+  "id": 101916357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":82685.974241,
+    "geom:bbox":"174.146901247,-39.0230174,174.150290814,-39.0187859984",
+    "geom:latitude":-39.020865,
+    "geom:longitude":174.14863,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.020827,
+    "lbl:longitude":174.148664,
+    "mps:latitude":-39.020827,
+    "mps:longitude":174.148664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Bell Block"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bell Block",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cbd1e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2193449,
+        "gp:id":2348156,
+        "wd:id":"Q17987304"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2067644ec6a1f058c7f7e0a305ad0281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101916357,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101916357,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715561,
+    "wof:name":"Bell Block",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915837
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.14690124684734,
+    -39.02301739995511,
+    174.15029081422557,
+    -39.01878599839354
+],
+  "geometry": {"coordinates":[[[174.14979446977054,-39.02229460203018],[174.14788113687416,-39.02301739995511],[174.14761674523137,-39.02198171683997],[174.14704871802985,-39.01995295325572],[174.14690124684734,-39.01943831877434],[174.14936112170335,-39.01878599839354],[174.14941883595426,-39.01893401824024],[174.14759044345359,-39.01942426282164],[174.14773997647518,-39.01976523434897],[174.1496479009881,-39.01924757658158],[174.15022601830466,-39.02025146713722],[174.15029081422557,-39.02056230184244],[174.15024550976767,-39.02086432068442],[174.14982962996967,-39.02157111121421],[174.14949432154177,-39.02183989112286],[174.14979446977054,-39.02229460203018]]],"type":"Polygon"}
+}

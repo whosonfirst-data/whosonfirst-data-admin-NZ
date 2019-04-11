@@ -1,0 +1,68 @@
+{
+  "id": 1259619259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.51997,-36.38543,174.51997,-36.38543",
+    "geom:latitude":-36.38543,
+    "geom:longitude":174.51997,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Hoteo",
+    "gn:country_code":"NZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189750,
+    "gn:latitude":-36.38543,
+    "gn:longitude":174.51997,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Hoteo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189750
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"36a168bc9d031c68dc5066d7df989a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1259619259,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1259619259,
+    "wof:lastmodified":1536663174,
+    "wof:name":"Hoteo",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.51997,
+    -36.38543,
+    174.51997,
+    -36.38543
+],
+  "geometry": {"coordinates":[174.51997,-36.38543],"type":"Point"}
+}

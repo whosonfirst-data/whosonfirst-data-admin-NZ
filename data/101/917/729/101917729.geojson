@@ -1,0 +1,84 @@
+{
+  "id": 101917729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28545.739401,
+    "geom:bbox":"174.656597952,-36.8868293876,174.659948326,-36.8842574305",
+    "geom:latitude":-36.885567,
+    "geom:longitude":174.658392,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.885487,
+    "lbl:longitude":174.658292,
+    "mps:latitude":-36.885487,
+    "mps:longitude":174.658292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Auckland"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Auckland",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:area":559.0,
+    "wd:elevation":196.0,
+    "wd:latitude":-36.85,
+    "wd:longitude":174.783333,
+    "wd:population":1454300,
+    "wd:wordcount":9046,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q37100"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"21c287ac1dd21e35c121531a2ce0d52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101917729,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101917729,
+    "wof:lastmodified":1527715916,
+    "wof:name":"Auckland",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:population":1454300,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914257
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.65659795202293,
+    -36.8868293876021,
+    174.65994832617068,
+    -36.88425743050116
+],
+  "geometry": {"coordinates":[[[174.65806210009958,-36.88523480518029],[174.65836350598767,-36.88499005704118],[174.65823217843078,-36.88483780875945],[174.65837676116229,-36.88476784238761],[174.65938921852603,-36.88425743050116],[174.65960983896696,-36.88478513811686],[174.6591788761807,-36.88499536291062],[174.65994832617068,-36.88578168142396],[174.65931807147646,-36.88609842122414],[174.65880862949226,-36.88550608353282],[174.65866138513385,-36.88562469012552],[174.65778286313969,-36.88633883235097],[174.657133441941,-36.8868293876021],[174.65659795202293,-36.88640298963632],[174.65687370202673,-36.88617202107095],[174.65806210009958,-36.88523480518029]]],"type":"Polygon"}
+}

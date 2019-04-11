@@ -1,0 +1,114 @@
+{
+  "id": 85781393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11404148.693263,
+    "geom:bbox":"174.921777,-37.066866,174.921777,-37.066866",
+    "geom:latitude":-37.066866,
+    "geom:longitude":174.921777,
+    "gn:latitude":-37.0582,
+    "gn:longitude":174.92019,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.066866,
+    "lbl:longitude":174.921777,
+    "mps:latitude":-37.067079,
+    "mps:longitude":174.923392,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:note":"no ref",
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Pahurehure"
+    ],
+    "name:unk_x_variant":[
+        "Pahurehure"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2208329,
+    "qs:gn_nam_loc":"papakura",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Pahurehure",
+    "qs:local_max":177,
+    "qs:local_sum":375,
+    "qs:localhoods":4,
+    "qs:name":"Pahurehure",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Papakura",
+    "qs:photo_max":20,
+    "qs:photo_sum":54,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350034,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":418,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6231570,
+        "gp:id":28644310,
+        "qs:id":985668,
+        "qs_pg:id":985668,
+        "wd:id":"Q7124605",
+        "wk:page":"Pahurehure"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e2d9514d2851b2d29a214c241cf7c583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85781393,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781393,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860200,
+    "wof:name":"Pahurehure",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.921777,
+    -37.066866,
+    174.921777,
+    -37.066866
+],
+  "geometry": {"coordinates":[174.92177699999999,-37.066866],"type":"Point"}
+}

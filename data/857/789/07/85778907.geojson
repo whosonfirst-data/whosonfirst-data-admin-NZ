@@ -1,0 +1,106 @@
+{
+  "id": 85778907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3680461.603673,
+    "geom:bbox":"168.363831,-46.387865,168.363831,-46.387865",
+    "geom:latitude":-46.387865,
+    "geom:longitude":168.363831,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-46.387865,
+    "lbl:longitude":168.363831,
+    "mps:latitude":-46.38375,
+    "mps:longitude":168.360573,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Invercargill North"
+    ],
+    "name:unk_x_variant":[
+        "Invercargill North"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2189529,
+    "qs:local_max":954,
+    "qs:local_sum":2108,
+    "qs:localhoods":12,
+    "qs:name":"Invercargill North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Southland",
+    "qs:name_adm2":"Invercargill City",
+    "qs:name_local":"Invercargill",
+    "qs:photo_max":10,
+    "qs:photo_sum":20,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021750,
+    "qs:woe_adm2":55875899,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348887,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726640,
+        "qs:id":990020,
+        "qs_pg:id":990020
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d5355b18c589b2e6d3e92387b390e47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85778907,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":85778907,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859861,
+    "wof:name":"Invercargill North",
+    "wof:parent_id":101915515,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.363831,
+    -46.387865,
+    168.363831,
+    -46.387865
+],
+  "geometry": {"coordinates":[168.363831,-46.387865],"type":"Point"}
+}

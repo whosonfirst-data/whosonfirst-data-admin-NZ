@@ -1,0 +1,79 @@
+{
+  "id": 101918719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5868.688103,
+    "geom:bbox":"174.265456821,-39.2950100468,174.266715036,-39.2941628179",
+    "geom:latitude":-39.294586,
+    "geom:longitude":174.266102,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.29456,
+    "lbl:longitude":174.266121,
+    "mps:latitude":-39.29456,
+    "mps:longitude":174.266121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Midhirst"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Midhirst",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":410,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186857,
+        "gp:id":2349526,
+        "wd:id":"Q6842240",
+        "wk:page":"Midhirst"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"919d28b5125b0926d16baf78cda4000a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079293,
+            "locality_id":101918719,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101918719,
+    "wof:lastmodified":1527715678,
+    "wof:name":"Midhirst",
+    "wof:parent_id":102079293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914451
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.2654568206467,
+    -39.2950100468028,
+    174.26671503617064,
+    -39.29416281787742
+],
+  "geometry": {"coordinates":[[[174.2654568206467,-39.29470334463961],[174.26569676916142,-39.29426990322808],[174.26576740820053,-39.29416281787742],[174.26590552469051,-39.29419689151364],[174.26643611240854,-39.29431429168173],[174.26644468488797,-39.29431618838344],[174.266445786302,-39.29431900829888],[174.26647274746753,-39.29438803372079],[174.26648176337056,-39.29441111513433],[174.26671503617064,-39.29500818072563],[174.26660666052516,-39.2950100468028],[174.26561015753063,-39.29473289084149],[174.26557521103138,-39.29472427949663],[174.26554026442443,-39.29471566814238],[174.26549952175637,-39.29470712275879],[174.2654568206467,-39.29470334463961]]],"type":"Polygon"}
+}

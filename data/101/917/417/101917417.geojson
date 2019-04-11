@@ -1,0 +1,82 @@
+{
+  "id": 101917417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":32421.675389,
+    "geom:bbox":"174.923102199,-37.2248084984,174.925391274,-37.2218423996",
+    "geom:latitude":-37.223353,
+    "geom:longitude":174.924261,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.223304,
+    "lbl:longitude":174.924363,
+    "mps:latitude":-37.223304,
+    "mps:longitude":174.924363,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Buckland"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Buckland",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dc3bc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192854,
+        "gp:id":56017615,
+        "wd:id":"Q253761"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"88f3875b194d107234af7e65a98a277e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101917417,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101917417,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715912,
+    "wof:name":"Buckland",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917415
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.92310219874375,
+    -37.2248084984186,
+    174.92539127430834,
+    -37.22184239962455
+],
+  "geometry": {"coordinates":[[[174.92310219874375,-37.22197696432065],[174.92357012911162,-37.22184239962455],[174.92383746967354,-37.22244133442215],[174.92463106647014,-37.22228606473584],[174.92539127430834,-37.2240265907119],[174.92463526222232,-37.22420963896179],[174.92487571344856,-37.22472989264239],[174.9242141557952,-37.2248084984186],[174.92399208684481,-37.22421054119486],[174.92360847228895,-37.22410152536175],[174.92351742357224,-37.2238245684549],[174.92383836976404,-37.22370933096985],[174.92310219874375,-37.22197696432065]]],"type":"Polygon"}
+}

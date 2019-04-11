@@ -1,0 +1,113 @@
+{
+  "id": 85773341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6160089.737593,
+    "geom:bbox":"172.547405,-43.547045,172.547405,-43.547045",
+    "geom:latitude":-43.547045,
+    "geom:longitude":172.547405,
+    "gn:latitude":-43.55,
+    "gn:longitude":172.55,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.547045,
+    "lbl:longitude":172.547405,
+    "mps:latitude":-43.550783,
+    "mps:longitude":172.550455,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Wigram"
+    ],
+    "name:unk_x_variant":[
+        "Wigram"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Wigram",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Wigram",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":129,
+    "qs:photo_sum":341,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":147,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079401,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179089,
+        "gp:id":2351419,
+        "qs:id":1159809,
+        "qs_pg:id":1159809,
+        "wd:id":"Q7999696",
+        "wk:page":"Wigram"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6c69f95d2ad1740ed26e3a8454a0894b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":-1,
+            "neighbourhood_id":85773341,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85773341,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859663,
+    "wof:name":"Wigram",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.547405,
+    -43.547045,
+    172.547405,
+    -43.547045
+],
+  "geometry": {"coordinates":[172.547405,-43.547045],"type":"Point"}
+}

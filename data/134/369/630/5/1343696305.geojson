@@ -1,0 +1,69 @@
+{
+  "id": 1343696305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.28333,-38.15,176.28333,-38.15",
+    "geom:latitude":-38.15,
+    "geom:longitude":176.28333,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Ohinemutu",
+    "gn:country_code":"NZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185836,
+    "gn:latitude":-38.15,
+    "gn:longitude":176.28333,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Ohinemutu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185836,
+        "wk:page":"Ohinemutu"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"89d5efcd4538a93848708edacf32da80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":1343696305,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1343696305,
+    "wof:lastmodified":1537570170,
+    "wof:name":"Ohinemutu",
+    "wof:parent_id":102079289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.28333,
+    -38.15,
+    176.28333,
+    -38.15
+],
+  "geometry": {"coordinates":[176.28333000000001,-38.15],"type":"Point"}
+}

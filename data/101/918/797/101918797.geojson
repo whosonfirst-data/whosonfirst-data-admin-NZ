@@ -1,0 +1,89 @@
+{
+  "id": 101918797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":181.22393,
+    "geom:bbox":"176.915489295,-39.4856911333,176.916021558,-39.48562136",
+    "geom:latitude":-39.485662,
+    "geom:longitude":176.915675,
+    "gn:population":56787,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.485659,
+    "lbl:longitude":176.915614,
+    "mps:latitude":-39.485659,
+    "mps:longitude":176.915614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Napier"
+    ],
+    "name:eng_x_variant":[
+        "Napier City"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Napier",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-39.568044,
+    "wd:longitude":176.864375,
+    "wd:wordcount":4738,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dda14-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186313,
+        "gp:id":2349663,
+        "wd:id":"Q203380",
+        "wk:page":"Napier, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e027207ce53a55789aa3e17c36212efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101918797,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918797,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Napier",
+    "wof:parent_id":102079331,
+    "wof:placetype":"locality",
+    "wof:population":56787,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914679
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.91548929485768,
+    -39.48569113333297,
+    176.9160215580772,
+    -39.48562135995542
+],
+  "geometry": {"coordinates":[[[176.91548929485768,-39.48569113333297],[176.91549977118484,-39.48562135995542],[176.9160215580772,-39.48567120654043],[176.91602123909016,-39.4856731919858],[176.91548929485768,-39.48569113333297]]],"type":"Polygon"}
+}

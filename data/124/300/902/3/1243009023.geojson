@@ -1,0 +1,67 @@
+{
+  "id": 1243009023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.27967,-40.46945,176.27967,-40.46945",
+    "geom:latitude":-40.46945,
+    "geom:longitude":176.27967,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Waione",
+    "gn:country_code":"NZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180095,
+    "gn:latitude":-40.46945,
+    "gn:longitude":176.27967,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Waione",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180095
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fdf911e13f0fcb7522d7d451e693a850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":1243009023,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1243009023,
+    "wof:lastmodified":1536939865,
+    "wof:name":"Waione",
+    "wof:parent_id":102079309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.27966999999995,
+    -40.46945,
+    176.27966999999995,
+    -40.46945
+],
+  "geometry": {"coordinates":[176.27966999999995,-40.46945],"type":"Point"}
+}

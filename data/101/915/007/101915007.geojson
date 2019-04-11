@@ -1,0 +1,87 @@
+{
+  "id": 101915007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":45408.851588,
+    "geom:bbox":"169.750510267,-46.2361644063,169.755610884,-46.2339687626",
+    "geom:latitude":-46.235116,
+    "geom:longitude":169.753146,
+    "gn:population":4441,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.235426,
+    "lbl:longitude":169.752468,
+    "mps:latitude":-46.235426,
+    "mps:longitude":169.752468,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Balclutha"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Balclutha",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-46.233333,
+    "wd:longitude":169.75,
+    "wd:wordcount":716,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df5e4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2208248,
+        "gp:id":2348123,
+        "qs:id":980820,
+        "wd:id":"Q804717",
+        "wk:page":"Balclutha, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0625ad0141d9b186eb20a200e6adb19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101915007,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101915007,
+    "wof:lastmodified":1527643131,
+    "wof:name":"Balclutha",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:population":4441,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914847
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.75051026662618,
+    -46.23616440633828,
+    169.75561088386175,
+    -46.23396876256911
+],
+  "geometry": {"coordinates":[[[169.75054510935374,-46.23563727536693],[169.75051026662618,-46.23554179945055],[169.75124089865491,-46.23503133207647],[169.75508771121099,-46.23396876256911],[169.75561088386175,-46.23500115961512],[169.75344029508358,-46.2355788913522],[169.75255495429619,-46.23616440633828],[169.75227435090829,-46.23614780002755],[169.75192825889621,-46.23607542467559],[169.75192812564461,-46.2360753968543],[169.7517921761725,-46.23604740443951],[169.75054510935374,-46.23563727536693]]],"type":"Polygon"}
+}

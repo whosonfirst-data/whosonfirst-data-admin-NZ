@@ -1,0 +1,87 @@
+{
+  "id": 101918663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4135.886545,
+    "geom:bbox":"171.749027528,-43.882619353,171.750360774,-43.8817084356",
+    "geom:latitude":-43.882162,
+    "geom:longitude":171.749693,
+    "gn:population":30100,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.882194,
+    "lbl:longitude":171.749657,
+    "mps:latitude":-43.882194,
+    "mps:longitude":171.749657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ashburton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"ASHBURTON",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-43.905556,
+    "wd:longitude":171.745556,
+    "wd:wordcount":1429,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df814-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6217081,
+        "gp:id":2348064,
+        "qs:id":160461,
+        "wd:id":"Q724923",
+        "wk:page":"Ashburton, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"cc9480113f86e1410d914dc04b38b3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":101918663,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918663,
+    "wof:lastmodified":1527715677,
+    "wof:name":"Ashburton",
+    "wof:parent_id":102079371,
+    "wof:placetype":"locality",
+    "wof:population":30100,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914705
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.74902752805568,
+    -43.88261935302142,
+    171.75036077410707,
+    -43.88170843564455
+],
+  "geometry": {"coordinates":[[[171.75036077410707,-43.88191588770517],[171.74940165565042,-43.88261935302142],[171.74902752805568,-43.8823692975806],[171.75003322523906,-43.88170843564455],[171.75036077410707,-43.88191588770517]]],"type":"Polygon"}
+}

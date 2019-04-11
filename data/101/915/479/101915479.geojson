@@ -1,0 +1,79 @@
+{
+  "id": 101915479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20422.558156,
+    "geom:bbox":"171.881645912,-41.6091743449,171.884646092,-41.6070953864",
+    "geom:latitude":-41.608155,
+    "geom:longitude":171.883115,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.608176,
+    "lbl:longitude":171.883099,
+    "mps:latitude":-41.608176,
+    "mps:longitude":171.883099,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hector"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hector",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d2ba0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2190106,
+        "gp:id":2348741,
+        "wd:id":"Q16892184",
+        "wk:page":"Hector and Ngakawau"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b83ce39d1460a542b3706a24d7d8c8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101915479,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":101915479,
+    "wof:lastmodified":1487269860,
+    "wof:name":"Hector",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914273
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.88164591199316,
+    -41.60917434486239,
+    171.8846460917075,
+    -41.6070953864295
+],
+  "geometry": {"coordinates":[[[171.88464609170751,-41.60857087643426],[171.88421326217411,-41.60917434486239],[171.88164591199316,-41.60781199646956],[171.88219950047247,-41.6070953864295],[171.88268324037389,-41.60728383249528],[171.88263337363742,-41.6075282345198],[171.88464609170751,-41.60857087643426]]],"type":"Polygon"}
+}

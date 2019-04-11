@@ -1,0 +1,82 @@
+{
+  "id": 1125884167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.114414,-44.7007,169.114414,-44.7007",
+    "geom:latitude":-44.7007,
+    "geom:longitude":169.114414,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.7007,
+    "lbl:longitude":169.114414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"West Wanaka",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Otago",
+    "qs_pg:photos":25,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":25,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":907486,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28642768,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Otago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28642768,
+        "qs_pg:id":907486
+    },
+    "wof:country":"NZ",
+    "wof:created":1497294991,
+    "wof:geomhash":"bb429c87aa7c640bad1e27624736ee4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":1125884167,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1125884167,
+    "wof:lastmodified":1509398386,
+    "wof:name":"West Wanaka",
+    "wof:parent_id":102079385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.114414,
+    -44.7007,
+    169.114414,
+    -44.7007
+],
+  "geometry": {"coordinates":[169.11441400000001,-44.7007],"type":"Point"}
+}

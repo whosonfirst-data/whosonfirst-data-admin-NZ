@@ -1,0 +1,122 @@
+{
+  "id": 85773127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":698268.77429,
+    "geom:bbox":"174.734802246,-36.8576475786,174.745788574,-36.8488565994",
+    "geom:latitude":-36.85326,
+    "geom:longitude":174.740442,
+    "gn:latitude":-36.85,
+    "gn:longitude":174.73333,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.849991,
+    "lbl:longitude":174.740274,
+    "mps:latitude":-36.853252,
+    "mps:longitude":174.740337,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Ponsonby"
+    ],
+    "name:eng_x_preferred":[
+        "Ponsonby"
+    ],
+    "name:fra_x_preferred":[
+        "Ponsonby"
+    ],
+    "name:pol_x_preferred":[
+        "Ponsonby"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0441\u043e\u043d\u0431\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Ponsonby"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Ponsonby",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Ponsonby",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":272,
+    "qs:photo_sum":829,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":885,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184426,
+        "gp:id":2350177,
+        "qs:id":1136870,
+        "qs_pg:id":1136870
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d09abc2da79e4cdd6cba6d799152d790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773127,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85773127,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527639289,
+    "wof:name":"Ponsonby",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.73480224600019,
+    -36.85764757858892,
+    174.74578857400024,
+    -36.8488565993711
+],
+  "geometry": {"coordinates":[[[174.74304199200003,-36.8576475753222],[174.7402954100001,-36.85764757858892],[174.73754882800023,-36.85764757639779],[174.73754882800023,-36.85544993008095],[174.73480224600036,-36.85544992688324],[174.73480224600019,-36.85325222340004],[174.73480224600036,-36.85298878371593],[174.73670410056451,-36.85219652829822],[174.73700873912918,-36.85105443177473],[174.73670408234671,-36.84991223405628],[174.73754882517409,-36.84885660044509],[174.7402954100001,-36.8488565993711],[174.74304199200003,-36.84885660248097],[174.74304199200003,-36.85105443836856],[174.74578857400024,-36.85105443968733],[174.74578857400024,-36.85325221551231],[174.74578857400024,-36.85544992697108],[174.74304199200003,-36.85544993008095],[174.74304199200003,-36.8576475753222]]],"type":"Polygon"}
+}

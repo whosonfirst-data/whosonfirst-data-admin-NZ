@@ -1,0 +1,84 @@
+{
+  "id": 101918687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6160.363035,
+    "geom:bbox":"175.00809896,-40.9173801674,175.009356424,-40.9160726692",
+    "geom:latitude":-40.916721,
+    "geom:longitude":175.008722,
+    "gn:population":25263,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.91673,
+    "lbl:longitude":175.008718,
+    "mps:latitude":-40.91673,
+    "mps:longitude":175.008718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Paraparaumu"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Paraparaumu",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":474,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de432-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2184904,
+        "gp:id":2350063,
+        "wd:id":"Q1115332",
+        "wk:page":"Paraparaumu"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"343545d8cc4044cebdfa45db8c7e76cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101918687,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918687,
+    "wof:lastmodified":1527715670,
+    "wof:name":"Paraparaumu",
+    "wof:parent_id":102079315,
+    "wof:placetype":"locality",
+    "wof:population":25263,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914633
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.0080989599599,
+    -40.9173801673962,
+    175.00935642384732,
+    -40.91607266915592
+],
+  "geometry": {"coordinates":[[[175.0083707826501,-40.9173801673962],[175.00809895995991,-40.91707906801961],[175.00878843712971,-40.91627265880396],[175.00878862738134,-40.91627247533714],[175.00878928787407,-40.91627165332585],[175.00896254178431,-40.91607266915592],[175.00935642384732,-40.91629491004222],[175.0088197039307,-40.91702382299379],[175.0083707826501,-40.9173801673962]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310435785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.93333,-41.21667,173.93333,-41.21667",
+    "geom:latitude":-41.21667,
+    "geom:longitude":173.93333,
+    "gn:admin1_code":"F4",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Broughton Bay",
+    "gn:country_code":"NZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2192922,
+    "gn:latitude":-41.21667,
+    "gn:longitude":173.93333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Broughton Bay",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192922
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fd4da7dc50f48fb75e4920a319f0f5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":1310435785,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1310435785,
+    "wof:lastmodified":1537016973,
+    "wof:name":"Broughton Bay",
+    "wof:parent_id":102079353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.93333,
+    -41.21667,
+    173.93333,
+    -41.21667
+],
+  "geometry": {"coordinates":[173.93333000000001,-41.21667],"type":"Point"}
+}

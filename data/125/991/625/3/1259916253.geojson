@@ -1,0 +1,68 @@
+{
+  "id": 1259916253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.31667,-35.53333,174.31667,-35.53333",
+    "geom:latitude":-35.53333,
+    "geom:longitude":174.31667,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Otonga",
+    "gn:country_code":"NZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185252,
+    "gn:latitude":-35.53333,
+    "gn:longitude":174.31667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Otonga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185252
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"96ce8f80b27cefc458317f9b58bc1294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1259916253,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1259916253,
+    "wof:lastmodified":1536732140,
+    "wof:name":"Otonga",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.31667,
+    -35.53333,
+    174.31667,
+    -35.53333
+],
+  "geometry": {"coordinates":[174.31666999999999,-35.53333],"type":"Point"}
+}

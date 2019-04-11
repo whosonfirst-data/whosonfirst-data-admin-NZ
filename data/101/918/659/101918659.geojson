@@ -1,0 +1,108 @@
+{
+  "id": 101918659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":4852.699217,
+    "geom:bbox":"169.256657174,-44.6103354421,169.257453184,-44.6095932091",
+    "geom:latitude":-44.609957,
+    "geom:longitude":169.257045,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.609961,
+    "lbl:longitude":169.257034,
+    "mps:latitude":-44.609961,
+    "mps:longitude":169.257034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:cat_x_preferred":[
+        "Llac Hawea"
+    ],
+    "name:chv_x_preferred":[
+        "\u0425\u0430\u0432\u0435\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Lake Hawea"
+    ],
+    "name:eng_x_preferred":[
+        "Lake Hawea"
+    ],
+    "name:fra_x_preferred":[
+        "Lac Hawea"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30a6\u30a7\u30a2\u6e56"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e3\u10d4\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Hawea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0432\u0435\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Lago Hawea"
+    ],
+    "name:swe_x_preferred":[
+        "Lake H\u0101wea"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lake Hawea",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":327,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6207712,
+        "gp:id":91467283,
+        "wd:id":"Q1440634"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"05c160439b63f0833852b36229cd6bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101918659,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101918659,
+    "wof:lastmodified":1527715672,
+    "wof:name":"Lake Hawea",
+    "wof:parent_id":102079385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915309
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.2566571737701,
+    -44.61033544211951,
+    169.25745318352327,
+    -44.60959320914978
+],
+  "geometry": {"coordinates":[[[169.25665717377009,-44.61031997133124],[169.25667901833236,-44.60960334259147],[169.25675563933231,-44.60959320914978],[169.25745318352327,-44.60959397897601],[169.25738514895514,-44.61033544211951],[169.25665717377009,-44.61031997133124]]],"type":"Polygon"}
+}

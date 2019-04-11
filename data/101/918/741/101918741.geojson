@@ -1,0 +1,83 @@
+{
+  "id": 101918741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5092.08121,
+    "geom:bbox":"175.327818734,-38.888760477,175.329183869,-38.887629743",
+    "geom:latitude":-38.888173,
+    "geom:longitude":175.328515,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.88816,
+    "lbl:longitude":175.328505,
+    "mps:latitude":-38.88816,
+    "mps:longitude":175.328505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Manunui"
+    ],
+    "name:eng_x_variant":[
+        "Manunui Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Manunui",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":292,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c44ba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2187401,
+        "gp:id":2349389,
+        "wd:id":"Q6753166",
+        "wk:page":"Manunui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7891eb1c98b659fbad7f185c9b722967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918741,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918741,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Manunui",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916367
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.3278187338845,
+    -38.88876047696463,
+    175.3291838685755,
+    -38.88762974301935
+],
+  "geometry": {"coordinates":[[[175.3279594827755,-38.88767513224496],[175.32823702804015,-38.88762974301935],[175.32918386857551,-38.88855294993976],[175.32879680778612,-38.88876047696463],[175.32812998892078,-38.88800128539704],[175.32812744376685,-38.88799845244711],[175.32811858222385,-38.88798970487368],[175.32810881958099,-38.88798152398009],[175.32809822937756,-38.88797403651061],[175.32808688006696,-38.88796722407073],[175.32807484395858,-38.88796117928156],[175.32806221186425,-38.88795592591967],[175.32804906105315,-38.88795149668131],[175.32803549660525,-38.88794793217733],[175.32802144237104,-38.88794523401669],[175.32782020154568,-38.88791341760015],[175.3278187338845,-38.88791236901435],[175.3279594827755,-38.88767513224496]]],"type":"Polygon"}
+}

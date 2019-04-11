@@ -1,0 +1,94 @@
+{
+  "id": 101917043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":37226.202526,
+    "geom:bbox":"170.623895664,-45.6826529448,170.627676993,-45.6800161805",
+    "geom:latitude":-45.681291,
+    "geom:longitude":170.625812,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.681284,
+    "lbl:longitude":170.62581,
+    "mps:latitude":-45.681276,
+    "mps:longitude":170.625801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Seacliff"
+    ],
+    "name:eng_x_preferred":[
+        "Seacliff"
+    ],
+    "name:may_x_preferred":[
+        "Seacliff"
+    ],
+    "name:msa_x_preferred":[
+        "Seacliff"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Seacliff",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":406,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d238a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2182901,
+        "gp:id":2350523,
+        "qs:id":466740,
+        "qs_pg:id":466740,
+        "wd:id":"Q7440258",
+        "wk:page":"Seacliff, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3c39726c8113c4d55d829c993a972418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101917043,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101917043,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715913,
+    "wof:name":"Seacliff",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.62389566393256,
+    -45.68265294483351,
+    170.62767699280772,
+    -45.68001618048932
+],
+  "geometry": {"coordinates":[[[170.62393787192019,-45.6805388747274],[170.62444749110219,-45.68022317500485],[170.62526349327661,-45.68001618048932],[170.62598311240021,-45.68058141658378],[170.62694102208695,-45.68133383625966],[170.62767699280772,-45.68193344700843],[170.62753592037879,-45.68202428749063],[170.62753461281361,-45.68202516024449],[170.62726534760662,-45.68220521846738],[170.6272627324594,-45.68220696396852],[170.62710390764258,-45.68232443258989],[170.62688962035213,-45.68244884759925],[170.62688704321744,-45.68244969395959],[170.62656035352268,-45.68265294483351],[170.62645653383021,-45.68264907691984],[170.62389566393256,-45.68056505707828],[170.62393787192019,-45.6805388747274]]],"type":"Polygon"}
+}

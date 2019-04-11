@@ -1,0 +1,112 @@
+{
+  "id": 85781015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8209242.874641,
+    "geom:bbox":"175.608215,-40.32121,175.608215,-40.32121",
+    "geom:latitude":-40.32121,
+    "geom:longitude":175.608215,
+    "gn:latitude":-40.32825,
+    "gn:longitude":175.61021,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.32121,
+    "lbl:longitude":175.608215,
+    "mps:latitude":-40.319873,
+    "mps:longitude":175.608021,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Milson"
+    ],
+    "name:unk_x_variant":[
+        "Milson"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2185018,
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Milson",
+    "qs:local_max":729,
+    "qs:local_sum":2351,
+    "qs:localhoods":11,
+    "qs:name":"Milson",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Manawatu Wanganui",
+    "qs:name_adm2":"Palmerston North City",
+    "qs:name_local":"Palmerston North",
+    "qs:photo_max":5,
+    "qs:photo_sum":20,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021764,
+    "qs:woe_adm2":55875856,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350025,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":352,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079307,
+        85687251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6227745,
+        "gp:id":28643940,
+        "qs:id":356952,
+        "qs_pg:id":356952,
+        "wd:id":"Q6860752",
+        "wk:page":"Milson, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fae21270dad118c503bb0dfdace808cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":-1,
+            "neighbourhood_id":85781015,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":85781015,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860125,
+    "wof:name":"Milson",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.608215,
+    -40.32121,
+    175.608215,
+    -40.32121
+],
+  "geometry": {"coordinates":[175.608215,-40.32121],"type":"Point"}
+}

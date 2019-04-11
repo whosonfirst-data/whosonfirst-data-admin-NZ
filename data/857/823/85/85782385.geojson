@@ -1,0 +1,111 @@
+{
+  "id": 85782385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4175074.251011,
+    "geom:bbox":"174.809993,-36.897601,174.809993,-36.897601",
+    "geom:latitude":-36.897601,
+    "geom:longitude":174.809993,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.897601,
+    "lbl:longitude":174.809993,
+    "mps:latitude":-36.895438,
+    "mps:longitude":174.805761,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Ellerslie"
+    ],
+    "name:eng_x_preferred":[
+        "Ellerslie Central"
+    ],
+    "name:eng_x_variant":[
+        "Ellerslie Central"
+    ],
+    "name:unk_x_variant":[
+        "Ellerslie Central"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":617,
+    "qs:local_sum":887,
+    "qs:localhoods":2,
+    "qs:name":"Ellerslie Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Ellerslie",
+    "qs:photo_max":112,
+    "qs:photo_sum":617,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":32,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726363,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":171,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676727,
+        "qs:id":220377,
+        "qs_pg:id":220377
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4b658ac2647d536d970e67d2a61d2ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85782385,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85782385,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860354,
+    "wof:name":"Ellerslie",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.809993,
+    -36.897601,
+    174.809993,
+    -36.897601
+],
+  "geometry": {"coordinates":[174.80999299999999,-36.897601],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276905305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.13333,-37.88333,175.13333,-37.88333",
+    "geom:latitude":-37.88333,
+    "geom:longitude":175.13333,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Karamu",
+    "gn:country_code":"NZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189059,
+    "gn:latitude":-37.88333,
+    "gn:longitude":175.13333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Karamu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189059
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9d16132a72c0829697e3900b59c70c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":1276905305,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1276905305,
+    "wof:lastmodified":1537006583,
+    "wof:name":"Karamu",
+    "wof:parent_id":102079273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.13333,
+    -37.88333,
+    175.13333,
+    -37.88333
+],
+  "geometry": {"coordinates":[175.13333,-37.88333],"type":"Point"}
+}

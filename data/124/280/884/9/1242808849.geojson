@@ -1,0 +1,68 @@
+{
+  "id": 1242808849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.66667,-41.7,172.66667,-41.7",
+    "geom:latitude":-41.7,
+    "geom:longitude":172.66667,
+    "gn:admin1_code":"TAS",
+    "gn:admin2_code":"51.0",
+    "gn:asciiname":"Howard Junction",
+    "gn:country_code":"NZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189727,
+    "gn:latitude":-41.7,
+    "gn:longitude":172.66667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Howard Junction",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189727
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a76a2570bce0b232e43c40b8c0b6ccf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1242808849,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1242808849,
+    "wof:lastmodified":1536731013,
+    "wof:name":"Howard Junction",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.66666999999995,
+    -41.7,
+    172.66666999999995,
+    -41.7
+],
+  "geometry": {"coordinates":[172.66666999999995,-41.7],"type":"Point"}
+}

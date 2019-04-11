@@ -1,0 +1,67 @@
+{
+  "id": 1226572197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.76273,-44.87923,170.76273,-44.87923",
+    "geom:latitude":-44.87923,
+    "geom:longitude":170.76273,
+    "gn:admin1_code":"E9",
+    "gn:asciiname":"Bortons",
+    "gn:country_code":"NZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2193095,
+    "gn:latitude":-44.87923,
+    "gn:longitude":170.76273,
+    "gn:modification_date":"2015-03-07",
+    "gn:name":"Bortons",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193095
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fa7e70f9e712e5541c6b6e6b1028b53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1226572197,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1226572197,
+    "wof:lastmodified":1536960992,
+    "wof:name":"Bortons",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.76273,
+    -44.87923,
+    170.76273,
+    -44.87923
+],
+  "geometry": {"coordinates":[170.76273,-44.87923],"type":"Point"}
+}

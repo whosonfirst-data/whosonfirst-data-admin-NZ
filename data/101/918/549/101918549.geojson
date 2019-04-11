@@ -1,0 +1,89 @@
+{
+  "id": 101918549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17591.297195,
+    "geom:bbox":"174.334557376,-35.7279847689,174.336044603,-35.7260964657",
+    "geom:latitude":-35.727036,
+    "geom:longitude":174.335245,
+    "gn:population":50900,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.727026,
+    "lbl:longitude":174.335198,
+    "mps:latitude":-35.727026,
+    "mps:longitude":174.335198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Whangarei"
+    ],
+    "name:eng_x_variant":[
+        "WRE"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Whangarei",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-35.716667,
+    "wd:longitude":174.3,
+    "wd:wordcount":2680,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020adf9e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6230919,
+        "gp:id":2351368,
+        "wd:id":"Q744239",
+        "wk:page":"Whangarei"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"31bb5fec654faac526a7c7a0bc0b0121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101918549,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918549,
+    "wof:lastmodified":1527715678,
+    "wof:name":"Whangarei",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:population":50900,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914253
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.33455737627543,
+    -35.72798476888904,
+    174.33604460286955,
+    -35.72609646572115
+],
+  "geometry": {"coordinates":[[[174.33604460286955,-35.72717480858226],[174.33595257778219,-35.72732833529579],[174.33595902395766,-35.72754275768522],[174.33596812240353,-35.72789143757753],[174.33595439749365,-35.72792406432534],[174.33593017393565,-35.72798476888904],[174.33455737627543,-35.72737008428862],[174.33461718848608,-35.72620032602075],[174.33490804519741,-35.72609646572115],[174.33524924173494,-35.7262470090938],[174.33604460286955,-35.72717480858226]]],"type":"Polygon"}
+}

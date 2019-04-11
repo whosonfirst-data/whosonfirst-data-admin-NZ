@@ -1,0 +1,69 @@
+{
+  "id": 1226276287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.23333,-37.25,175.23333,-37.25",
+    "geom:latitude":-37.25,
+    "geom:longitude":175.23333,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Maramarua",
+    "gn:country_code":"NZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187348,
+    "gn:latitude":-37.25,
+    "gn:longitude":175.23333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Maramarua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187348,
+        "wk:page":"Maramarua"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fba917e70d5717fae4b2a284ff2efa02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":1226276287,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1226276287,
+    "wof:lastmodified":1537570171,
+    "wof:name":"Maramarua",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.23333,
+    -37.25,
+    175.23333,
+    -37.25
+],
+  "geometry": {"coordinates":[175.23333,-37.25],"type":"Point"}
+}

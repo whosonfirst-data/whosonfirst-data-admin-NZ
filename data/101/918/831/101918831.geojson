@@ -1,0 +1,78 @@
+{
+  "id": 101918831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2219.520385,
+    "geom:bbox":"174.329282381,-35.8024229623,174.329753331,-35.8016987381",
+    "geom:latitude":-35.802022,
+    "geom:longitude":174.329576,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.802012,
+    "lbl:longitude":174.329573,
+    "mps:latitude":-35.802012,
+    "mps:longitude":174.329573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Portland"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Portland",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":958,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184364,
+        "gp:id":2351368,
+        "wd:id":"Q182972"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"255fbefea664f60337eb7e843df57ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101918831,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918831,
+    "wof:lastmodified":1527715677,
+    "wof:name":"Portland",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917817
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.3292823809185,
+    -35.80242296232993,
+    174.32975333134144,
+    -35.80169873806975
+],
+  "geometry": {"coordinates":[[[174.3297270155426,-35.80242296232993],[174.32969492139637,-35.80242248053334],[174.32952683840182,-35.8023706003791],[174.32946633559658,-35.80227585558846],[174.32937004987789,-35.80182467267814],[174.32936393409472,-35.80179501044807],[174.3292823809185,-35.80169873806975],[174.32939309465911,-35.80170269924794],[174.32975333134144,-35.80173674676394],[174.32973733714593,-35.80232909467313],[174.3297270155426,-35.80242296232993]]],"type":"Polygon"}
+}

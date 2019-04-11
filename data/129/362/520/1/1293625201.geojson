@@ -1,0 +1,68 @@
+{
+  "id": 1293625201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.66667,-41.76667,172.66667,-41.76667",
+    "geom:latitude":-41.76667,
+    "geom:longitude":172.66667,
+    "gn:admin1_code":"TAS",
+    "gn:admin2_code":"51.0",
+    "gn:asciiname":"Howard",
+    "gn:country_code":"NZ",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189729,
+    "gn:latitude":-41.76667,
+    "gn:longitude":172.66667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Howard",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189729
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"027e139718fc8f8ad16ca374bc59249a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1293625201,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1293625201,
+    "wof:lastmodified":1537082446,
+    "wof:name":"Howard",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.66666999999995,
+    -41.76667,
+    172.66666999999995,
+    -41.76667
+],
+  "geometry": {"coordinates":[172.66666999999995,-41.76667],"type":"Point"}
+}

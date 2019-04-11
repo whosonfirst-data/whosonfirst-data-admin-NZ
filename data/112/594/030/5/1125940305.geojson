@@ -1,0 +1,105 @@
+{
+  "id": 1125940305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.41667,-43.28333,170.41667,-43.28333",
+    "geom:latitude":-43.28333,
+    "geom:longitude":170.41667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":405,
+    "gn:population":405,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.28333,
+    "lbl:longitude":170.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Whataroa"
+    ],
+    "name:eng_x_preferred":[
+        "Whataroa"
+    ],
+    "name:may_x_preferred":[
+        "Whataroa"
+    ],
+    "name:unk_x_variant":[
+        "Wataroa"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2179197,
+    "qs_pg:gn_pop":405,
+    "qs_pg:name":"Whataroa",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"West Coast",
+    "qs_pg:photos":176,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":176,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":229395,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2351392,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"West Coast",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179197,
+        "gp:id":2351392,
+        "qs_pg:id":229395,
+        "wd:id":"Q7991656"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497297097,
+    "wof:geomhash":"1e28989ddd583c9ac0d51d98b8fa63b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1125940305,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1125940305,
+    "wof:lastmodified":1514494745,
+    "wof:name":"Whataroa",
+    "wof:parent_id":102079363,
+    "wof:placetype":"locality",
+    "wof:population":405,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.41667,
+    -43.28333,
+    170.41667,
+    -43.28333
+],
+  "geometry": {"coordinates":[170.41667000000001,-43.28333],"type":"Point"}
+}

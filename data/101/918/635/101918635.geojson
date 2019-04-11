@@ -1,0 +1,85 @@
+{
+  "id": 101918635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5887.194786,
+    "geom:bbox":"167.966903632,-45.9304579196,167.968059277,-45.9293968098",
+    "geom:latitude":-45.929922,
+    "geom:longitude":167.967476,
+    "gn:population":408,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.929845,
+    "lbl:longitude":167.967439,
+    "mps:latitude":-45.929845,
+    "mps:longitude":167.967439,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ohai"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ohai",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1307,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dcccc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185880,
+        "gp:id":2349774,
+        "qs:id":1312631,
+        "wd:id":"Q7080604",
+        "wk:page":"Ohai"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"775eb378e058e56324f71407dbae060c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101918635,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101918635,
+    "wof:lastmodified":1527715671,
+    "wof:name":"Ohai",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915719
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.96690363161449,
+    -45.93045791956462,
+    167.96805927657167,
+    -45.92939680979071
+],
+  "geometry": {"coordinates":[[[167.96754685060077,-45.92939680979071],[167.96773700240377,-45.92954455236193],[167.96805927657167,-45.92980177210955],[167.96776527175973,-45.92994241878191],[167.96786078936131,-45.9300312572908],[167.96798258297989,-45.93014464231801],[167.96740466616177,-45.93045791956462],[167.96734489995825,-45.930403079696],[167.96726459211922,-45.93033202443674],[167.96695881446192,-45.93007820504594],[167.96713891934687,-45.92998407000348],[167.96702664716733,-45.92988009167878],[167.96690363161449,-45.92976880889312],[167.96754685060077,-45.92939680979071]]],"type":"Polygon"}
+}

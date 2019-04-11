@@ -1,0 +1,93 @@
+{
+  "id": 101918523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12076.282636,
+    "geom:bbox":"174.36654796,-36.1036960834,174.367661413,-36.1017457426",
+    "geom:latitude":-36.102716,
+    "geom:longitude":174.36711,
+    "gn:population":790,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.102721,
+    "lbl:longitude":174.367115,
+    "mps:latitude":-36.102721,
+    "mps:longitude":174.367115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Maungaturoto"
+    ],
+    "name:fra_x_preferred":[
+        "Maungaturoto"
+    ],
+    "name:msa_x_preferred":[
+        "Maungaturoto"
+    ],
+    "name:nno_x_preferred":[
+        "Maungaturoto"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Maungaturoto",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":423,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187060,
+        "gp:id":2349492,
+        "qs:id":9388,
+        "wd:id":"Q3300200",
+        "wk:page":"Maungaturoto"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"858ee8036bbe528c4eaf688890ac3b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101918523,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918523,
+    "wof:lastmodified":1527715679,
+    "wof:name":"Maungaturoto",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:population":790,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915357
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.36654795985316,
+    -36.10369608338767,
+    174.36766141343895,
+    -36.10174574255609
+],
+  "geometry": {"coordinates":[[[174.36766141343895,-36.10369608338767],[174.36749992783669,-36.10367390081821],[174.3670516396829,-36.10369339045564],[174.36654795985316,-36.101796650415],[174.36718995214929,-36.10174574255609],[174.36730162647896,-36.10221561064134],[174.36730277321698,-36.10221739793872],[174.36731476874124,-36.10226139954465],[174.36766141343895,-36.10369608338767]]],"type":"Polygon"}
+}

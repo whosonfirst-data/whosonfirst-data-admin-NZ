@@ -1,0 +1,62 @@
+{
+  "id": 1209345641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.31667,-45.8,170.31667,-45.8",
+    "geom:latitude":-45.8,
+    "geom:longitude":170.31667,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Taioma",
+    "gn:country_code":"NZ",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182018,
+    "gn:latitude":-45.8,
+    "gn:longitude":170.31667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Taioma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182018
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"40780101149601d4032f2a7f17673b89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209345641
+        }
+    ],
+    "wof:id":1209345641,
+    "wof:lastmodified":1536289922,
+    "wof:name":"Taioma",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.31667,
+    -45.8,
+    170.31667,
+    -45.8
+],
+  "geometry": {"coordinates":[170.31666999999999,-45.8],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 101915223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":137716.810136,
+    "geom:bbox":"172.014533629,-43.3914669584,172.022433501,-43.3847702714",
+    "geom:latitude":-43.388191,
+    "geom:longitude":172.018118,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.388231,
+    "lbl:longitude":172.018179,
+    "mps:latitude":-43.388228,
+    "mps:longitude":172.018175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sheffield"
+    ],
+    "name:eng_x_preferred":[
+        "Sheffield"
+    ],
+    "name:may_x_preferred":[
+        "Sheffield"
+    ],
+    "name:msa_x_preferred":[
+        "Sheffield"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sheffield",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":254,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ddab4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2182786,
+        "gp:id":2350542,
+        "qs:id":319896,
+        "qs_pg:id":319896,
+        "wd:id":"Q7492566",
+        "wk:page":"Sheffield, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"205873d31aacefcce660559894c1640d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101915223,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101915223,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527643139,
+    "wof:name":"Sheffield",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.01453362892104,
+    -43.39146695839526,
+    172.02243350050028,
+    -43.38477027140499
+],
+  "geometry": {"coordinates":[[[172.0214432842551,-43.39146695839526],[172.02033631665842,-43.39088101629268],[172.01870227802326,-43.38994343527559],[172.01702149423036,-43.38880012311448],[172.01717091340169,-43.38850289669713],[172.01601034670614,-43.38777941089413],[172.01512415669367,-43.38697683181709],[172.01453362892104,-43.38652111531595],[172.01558762225037,-43.38477027140499],[172.01602260809608,-43.38527271866241],[172.0199768790724,-43.3882097442732],[172.01938327109647,-43.38889332391803],[172.02243350050028,-43.39057574331492],[172.02202502127082,-43.3909539455419],[172.0214432842551,-43.39146695839526]]],"type":"Polygon"}
+}

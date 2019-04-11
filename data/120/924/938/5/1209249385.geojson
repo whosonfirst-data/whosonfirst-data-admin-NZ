@@ -1,0 +1,62 @@
+{
+  "id": 1209249385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.1,-35.53333,174.1,-35.53333",
+    "geom:latitude":-35.53333,
+    "geom:longitude":174.1,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Marlow",
+    "gn:country_code":"NZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187300,
+    "gn:latitude":-35.53333,
+    "gn:longitude":174.1,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Marlow",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187300
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"69c6d58f4253a89b00af798636d5e0bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209249385
+        }
+    ],
+    "wof:id":1209249385,
+    "wof:lastmodified":1536293054,
+    "wof:name":"Marlow",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.1,
+    -35.53333,
+    174.1,
+    -35.53333
+],
+  "geometry": {"coordinates":[174.09999999999999,-35.53333],"type":"Point"}
+}

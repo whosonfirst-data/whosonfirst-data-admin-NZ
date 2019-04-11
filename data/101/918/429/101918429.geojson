@@ -1,0 +1,81 @@
+{
+  "id": 101918429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11366.739192,
+    "geom:bbox":"175.840540493,-37.8685405732,175.841420371,-37.8669476168",
+    "geom:latitude":-37.867768,
+    "geom:longitude":175.84101,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.867741,
+    "lbl:longitude":175.841013,
+    "mps:latitude":-37.867741,
+    "mps:longitude":175.841013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Poi"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Poi",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":243,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d5eae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181385,
+        "gp:id":2350841,
+        "qs:id":408714,
+        "wd:id":"Q7690910",
+        "wk:page":"Te Poi"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"dc5cce47de5dce4c67b5a3d5ddb3e271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101918429,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918429,
+    "wof:lastmodified":1527715676,
+    "wof:name":"Te Poi",
+    "wof:parent_id":102079267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917573
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.84054049291618,
+    -37.86854057315246,
+    175.84142037066775,
+    -37.86694761676458
+],
+  "geometry": {"coordinates":[[[175.84054049291618,-37.86854057315246],[175.84075031202534,-37.86694761676458],[175.84142037066775,-37.86695316818687],[175.84135399433447,-37.86815482082896],[175.84135417603585,-37.86815932395758],[175.84136893008025,-37.86852498121925],[175.84123263411024,-37.8685293383702],[175.841224681364,-37.86852953998793],[175.84054049291618,-37.86854057315246]]],"type":"Polygon"}
+}

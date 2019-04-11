@@ -1,0 +1,104 @@
+{
+  "id": 85778609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6257977.166189,
+    "geom:bbox":"170.550427,-45.88404,170.550427,-45.88404",
+    "geom:latitude":-45.88404,
+    "geom:longitude":170.550427,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.88404,
+    "lbl:longitude":170.550427,
+    "mps:latitude":-45.885016,
+    "mps:longitude":170.558431,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Shiel Hill"
+    ],
+    "name:unk_x_variant":[
+        "Shiel Hill"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2191562,
+    "qs:id":0,
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Shiel Hill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":13,
+    "qs:photo_sum":65,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":714,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726524,
+        "wd:id":"Q7496147"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"986c5eeffe89b6b0f0c5ed02c6e72a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":-1,
+            "neighbourhood_id":85778609,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85778609,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859812,
+    "wof:name":"Shiel Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.550427,
+    -45.88404,
+    170.550427,
+    -45.88404
+],
+  "geometry": {"coordinates":[170.55042700000001,-45.88404],"type":"Point"}
+}

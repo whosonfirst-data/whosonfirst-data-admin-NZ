@@ -1,0 +1,118 @@
+{
+  "id": 85773245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":34328841.13447,
+    "geom:bbox":"171.706949,-43.923805,171.706949,-43.923805",
+    "geom:latitude":-43.923805,
+    "geom:longitude":171.706949,
+    "gn:latitude":-43.91667,
+    "gn:longitude":171.71667,
+    "gn:population":2703,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.923805,
+    "lbl:longitude":171.706949,
+    "mps:latitude":-43.923805,
+    "mps:longitude":171.706949,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Tinwald"
+    ],
+    "name:eng_x_variant":[
+        "Tinwald Town District"
+    ],
+    "name:unk_x_variant":[
+        "Tinwald Town District",
+        "Tinwald"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6217081,
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Tinwald",
+    "qs:local_max":451,
+    "qs:local_sum":867,
+    "qs:localhoods":3,
+    "qs:name":"Tinwald",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Ashburton District",
+    "qs:name_local":"Ashburton",
+    "qs:photo_max":190,
+    "qs:photo_sum":451,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875862,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348064,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        85633345,
+        102079371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181108,
+        "gp:id":2350918,
+        "qs:id":1159805,
+        "wd:id":"Q7808554",
+        "wk:page":"Tinwald, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"38ab6d81031d77cfc362d69a5fd9adaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":-1,
+            "neighbourhood_id":85773245,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85773245,
+    "wof:lastmodified":1534379391,
+    "wof:name":"Tinwald",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":2703,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        1126061621
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.706949,
+    -43.923805,
+    171.706949,
+    -43.923805
+],
+  "geometry": {"coordinates":[171.70694900000001,-43.923805],"type":"Point"}
+}

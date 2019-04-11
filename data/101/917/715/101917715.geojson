@@ -1,0 +1,77 @@
+{
+  "id": 101917715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18524.428768,
+    "geom:bbox":"174.585754918,-36.8653576345,174.589132619,-36.8631022118",
+    "geom:latitude":-36.864336,
+    "geom:longitude":174.587541,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.864337,
+    "lbl:longitude":174.587698,
+    "mps:latitude":-36.864337,
+    "mps:longitude":174.587698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Swanson"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Swanson",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1139,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182136,
+        "wd:id":"Q7653729"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1a77ad4b8536c19830d56a1a8c1d0d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101917715,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101917715,
+    "wof:lastmodified":1527715909,
+    "wof:name":"Swanson",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914331
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.58575491768303,
+    -36.86535763448627,
+    174.58913261922234,
+    -36.86310221176457
+],
+  "geometry": {"coordinates":[[[174.58873247308321,-36.86310221176457],[174.58913261922234,-36.86375841915256],[174.58893540050676,-36.86386072718373],[174.58873506893266,-36.86396460847072],[174.5887298557482,-36.86396747186269],[174.58872491990286,-36.86397033154647],[174.58872044457127,-36.86397309484643],[174.5881227941388,-36.86436156292482],[174.58728468276527,-36.86482389302849],[174.58628341469043,-36.86534120465635],[174.58583021135937,-36.86535734699208],[174.58578840631617,-36.86535763448627],[174.58575491768303,-36.86486522472192],[174.58639354895294,-36.86478478626572],[174.58735198791084,-36.86433932939832],[174.58824120572157,-36.86366949452865],[174.58812453930631,-36.86347171223852],[174.58873247308321,-36.86310221176457]]],"type":"Polygon"}
+}

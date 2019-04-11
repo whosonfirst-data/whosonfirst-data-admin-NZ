@@ -1,0 +1,73 @@
+{
+  "id": 1259419501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.36667,-38.21667,176.36667,-38.21667",
+    "geom:latitude":-38.21667,
+    "geom:longitude":176.36667,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Buried Village",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2192817,
+    "gn:latitude":-38.21667,
+    "gn:longitude":176.36667,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Buried Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Te Wairoa",
+        "Maina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192817
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2ab8c2e7e77c77fca88874159ff07f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":1259419501,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1259419501,
+    "wof:lastmodified":1537676147,
+    "wof:name":"Buried Village",
+    "wof:parent_id":102079289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.36667,
+    -38.21667,
+    176.36667,
+    -38.21667
+],
+  "geometry": {"coordinates":[176.36667,-38.21667],"type":"Point"}
+}

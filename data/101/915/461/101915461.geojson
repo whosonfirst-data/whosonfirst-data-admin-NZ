@@ -1,0 +1,81 @@
+{
+  "id": 101915461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26934.811399,
+    "geom:bbox":"176.204135,-38.0885616899,176.207659424,-38.0871373979",
+    "geom:latitude":-38.087958,
+    "geom:longitude":176.206139,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.087895,
+    "lbl:longitude":176.206296,
+    "mps:latitude":-38.087895,
+    "mps:longitude":176.206296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ngongotaha"
+    ],
+    "name:msa_x_preferred":[
+        "Ngongotaha"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ngongotaha",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":457,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186116,
+        "wd:id":"Q7022541",
+        "wk:page":"Ngongotaha"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a442d70ef4503f7fee89a5721472405a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101915461,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":101915461,
+    "wof:lastmodified":1527643141,
+    "wof:name":"Ngongotaha",
+    "wof:parent_id":102079289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914951
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.2041349997609,
+    -38.08856168990548,
+    176.20765942407058,
+    -38.08713739790303
+],
+  "geometry": {"coordinates":[[[176.20765942407058,-38.08856168990548],[176.2041349997609,-38.08825160720159],[176.20417146719262,-38.08799984199641],[176.20497793236333,-38.08777137508213],[176.20605242457518,-38.0874172242266],[176.20607833884199,-38.08741012112369],[176.20704697116429,-38.08713739790303],[176.20765942407058,-38.08856168990548]]],"type":"Polygon"}
+}

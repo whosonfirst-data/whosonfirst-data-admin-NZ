@@ -1,0 +1,101 @@
+{
+  "id": 85781263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1934092.041731,
+    "geom:bbox":"174.742545,-36.706675,174.742545,-36.706675",
+    "geom:latitude":-36.706675,
+    "geom:longitude":174.742545,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.706675,
+    "lbl:longitude":174.742545,
+    "mps:latitude":-36.70506,
+    "mps:longitude":174.747026,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Waiake"
+    ],
+    "name:unk_x_variant":[
+        "Waiake"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Waiake",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":6,
+    "qs:photo_sum":21,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644220
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"39c7657c576086e9ec47feeeb47fdbbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85781263,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781263,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860174,
+    "wof:name":"Waiake",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.742545,
+    -36.706675,
+    174.742545,
+    -36.706675
+],
+  "geometry": {"coordinates":[174.74254500000001,-36.706675],"type":"Point"}
+}

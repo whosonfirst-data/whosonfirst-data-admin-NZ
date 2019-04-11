@@ -1,0 +1,109 @@
+{
+  "id": 85781855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4871479.117898,
+    "geom:bbox":"177.983616,-38.664066,177.983616,-38.664066",
+    "geom:latitude":-38.664066,
+    "geom:longitude":177.983616,
+    "gn:latitude":-38.64824,
+    "gn:longitude":177.99021,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.664066,
+    "lbl:longitude":177.983616,
+    "mps:latitude":-38.660624,
+    "mps:longitude":177.980471,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Elgin"
+    ],
+    "name:unk_x_variant":[
+        "Elgin"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2206854,
+    "qs:gn_namadm1":"F1",
+    "qs:gn_name":"Elgin",
+    "qs:local_max":317,
+    "qs:local_sum":1233,
+    "qs:localhoods":9,
+    "qs:name":"Elgin",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Gisborne",
+    "qs:name_adm2":"Gisborne District",
+    "qs:name_local":"Gisborne",
+    "qs:photo_max":13,
+    "qs:photo_sum":28,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021761,
+    "qs:woe_adm2":55875882,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348582,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079325,
+        85687237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6240059,
+        "gp:id":28644839,
+        "qs:id":908927,
+        "qs_pg:id":908927
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ff2d6011a0d47a73d7dff732b289f3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":-1,
+            "neighbourhood_id":85781855,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":85781855,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860281,
+    "wof:name":"Elgin",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.983616,
+    -38.664066,
+    177.983616,
+    -38.664066
+],
+  "geometry": {"coordinates":[177.98361600000001,-38.664066],"type":"Point"}
+}

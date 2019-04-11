@@ -1,0 +1,112 @@
+{
+  "id": 85781417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7349738.617594,
+    "geom:bbox":"174.780265,-36.797011,174.780265,-36.797011",
+    "geom:latitude":-36.797011,
+    "geom:longitude":174.780265,
+    "gn:latitude":-36.7882,
+    "gn:longitude":174.77019,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.797011,
+    "lbl:longitude":174.780265,
+    "mps:latitude":-36.796089,
+    "mps:longitude":174.782412,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Hauraki"
+    ],
+    "name:unk_x_variant":[
+        "Hauraki"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Hauraki",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Hauraki",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":142,
+    "qs:photo_sum":451,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":117,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101915597,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232153,
+        "gp:id":28644342,
+        "qs:id":1086332,
+        "qs_pg:id":1086332,
+        "wd:id":"Q5682778",
+        "wk:page":"Hauraki"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"6189dc22dc65999a31ef27955568f723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915597,
+            "neighbourhood_id":85781417,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781417,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860204,
+    "wof:name":"Hauraki",
+    "wof:parent_id":101915597,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.780265,
+    -36.797011,
+    174.780265,
+    -36.797011
+],
+  "geometry": {"coordinates":[174.78026500000001,-36.797011],"type":"Point"}
+}

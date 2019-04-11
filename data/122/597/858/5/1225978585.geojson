@@ -1,0 +1,68 @@
+{
+  "id": 1225978585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.33836,-40.57785,175.33836,-40.57785",
+    "geom:latitude":-40.57785,
+    "geom:longitude":175.33836,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Koputaroa",
+    "gn:country_code":"NZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188689,
+    "gn:latitude":-40.57785,
+    "gn:longitude":175.33836,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Koputaroa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188689
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e2a4cafe30615b39d128359713a58706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":1225978585,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1225978585,
+    "wof:lastmodified":1536821084,
+    "wof:name":"Koputaroa",
+    "wof:parent_id":102079313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.33836000000005,
+    -40.57785,
+    175.33836000000005,
+    -40.57785
+],
+  "geometry": {"coordinates":[175.33836000000005,-40.57785],"type":"Point"}
+}

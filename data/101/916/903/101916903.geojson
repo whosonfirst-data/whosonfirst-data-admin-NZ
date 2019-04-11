@@ -1,0 +1,113 @@
+{
+  "id": 101916903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":89118.575957,
+    "geom:bbox":"175.674833478,-36.8398819692,175.681621683,-36.832996729",
+    "geom:latitude":-36.836031,
+    "geom:longitude":175.677915,
+    "gn:population":3367,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.835856,
+    "lbl:longitude":175.677962,
+    "mps:latitude":-36.835856,
+    "mps:longitude":175.677962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Whitianga"
+    ],
+    "name:eng_x_preferred":[
+        "Whitianga"
+    ],
+    "name:fra_x_preferred":[
+        "Whitianga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30c6\u30a3\u30a2\u30f3\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\ud718\ud2f0\uc559\uac00"
+    ],
+    "name:mri_x_preferred":[
+        "Whitianga"
+    ],
+    "name:msa_x_preferred":[
+        "Whitianga"
+    ],
+    "name:nno_x_preferred":[
+        "Whitianga"
+    ],
+    "name:pol_x_preferred":[
+        "Whitianga"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u8482\u6602\u683c"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Whitianga",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-36.833056,
+    "wd:longitude":175.699722,
+    "wd:wordcount":1220,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df710-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179103,
+        "gp:id":2351416,
+        "wd:id":"Q1375183",
+        "wk:page":"Whitianga"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d6b0fffa039b469a4fddd6e5323692c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101916903,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101916903,
+    "wof:lastmodified":1527715561,
+    "wof:name":"Whitianga",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:population":3367,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914279
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.6748334778053,
+    -36.83988196923428,
+    175.68162168333697,
+    -36.8329967289887
+],
+  "geometry": {"coordinates":[[[175.68124218230238,-36.83988196923428],[175.67975222524089,-36.83876761236757],[175.6779849522257,-36.83735894038449],[175.67861538892939,-36.83691514679982],[175.6780412118205,-36.83646571386418],[175.6780397700584,-36.83646458707406],[175.67802930076238,-36.83645723532533],[175.67801811476895,-36.83645058247134],[175.67800600268208,-36.8364445716807],[175.67652452913924,-36.83577773643596],[175.67620456599823,-36.83540896933954],[175.67490810434518,-36.83370031245131],[175.67483347780529,-36.83358487423411],[175.6748712214623,-36.8335631093127],[175.67590406562033,-36.8329967289887],[175.67695445606677,-36.83439295320631],[175.67756188907572,-36.83511672525135],[175.67856868200641,-36.83552957680561],[175.67975389297098,-36.83605161802679],[175.67979426363237,-36.83722109536498],[175.67936824974967,-36.83749468147475],[175.67936214876286,-36.83749967809538],[175.67918572110591,-36.83764419539227],[175.67918593462318,-36.83764436054133],[175.67912680519458,-36.83769290217575],[175.68003246550168,-36.83840177136387],[175.68086538596398,-36.83905451280852],[175.68086718347669,-36.83905590973124],[175.68086928088999,-36.83905746985051],[175.6808716786266,-36.83905920847697],[175.68162168333697,-36.83958977154141],[175.68124218230238,-36.83988196923428]]],"type":"Polygon"}
+}

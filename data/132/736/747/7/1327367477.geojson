@@ -1,0 +1,68 @@
+{
+  "id": 1327367477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.53946,-39.20063,175.53946,-39.20063",
+    "geom:latitude":-39.20063,
+    "geom:longitude":175.53946,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Whakapapa Village",
+    "gn:country_code":"NZ",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6225087,
+    "gn:latitude":-39.20063,
+    "gn:longitude":175.53946,
+    "gn:modification_date":"2015-03-18",
+    "gn:name":"Whakapapa Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6225087
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"517da318bb3776065e7bd755d245b6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1327367477,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1327367477,
+    "wof:lastmodified":1536775277,
+    "wof:name":"Whakapapa Village",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.53946000000005,
+    -39.20063,
+    175.53946000000005,
+    -39.20063
+],
+  "geometry": {"coordinates":[175.53946000000005,-39.20063],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 101918771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2858.092654,
+    "geom:bbox":"176.791121748,-39.6941539578,176.791992864,-39.6934897467",
+    "geom:latitude":-39.693841,
+    "geom:longitude":176.791572,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.693859,
+    "lbl:longitude":176.79157,
+    "mps:latitude":-39.693859,
+    "mps:longitude":176.79157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Pakipaki"
+    ],
+    "name:eng_x_variant":[
+        "Allerton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pakipaki",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c58b0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185045,
+        "gp:id":2350017
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"75990f3fdf98299ceda955b5bbc47e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101918771,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101918771,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1487270018,
+    "wof:name":"Pakipaki",
+    "wof:parent_id":102079329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101918359
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.79112174838986,
+    -39.69415395776629,
+    176.79199286438305,
+    -39.69348974667087
+],
+  "geometry": {"coordinates":[[[176.79112174838986,-39.69404711599246],[176.79135754981286,-39.69374693480338],[176.79165395272395,-39.69348974667087],[176.79199286438305,-39.69365063749284],[176.79171144905573,-39.69404933779211],[176.79149083636045,-39.69415395776629],[176.79125060929513,-39.69408441818649],[176.79112174838986,-39.69404711599246]]],"type":"Polygon"}
+}

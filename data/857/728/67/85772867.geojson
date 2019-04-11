@@ -1,0 +1,112 @@
+{
+  "id": 85772867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5860350.133217,
+    "geom:bbox":"174.758859,-36.746647,174.758859,-36.746647",
+    "geom:latitude":-36.746647,
+    "geom:longitude":174.758859,
+    "gn:latitude":-36.74645,
+    "gn:longitude":174.75978,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.746647,
+    "lbl:longitude":174.758859,
+    "mps:latitude":-36.743654,
+    "mps:longitude":174.767438,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Campbells Bay"
+    ],
+    "name:unk_x_variant":[
+        "Campbells Bay"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Campbells Bay",
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Campbells Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":23,
+    "qs:photo_sum":82,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":179,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192676,
+        "gp:id":2348271,
+        "qs:id":466692,
+        "qs_pg:id":466692,
+        "wd:id":"Q5028204",
+        "wk:page":"Campbells Bay"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3738c6b676ee0740c2e25301ab23dae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772867,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85772867,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859590,
+    "wof:name":"Campbells Bay",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.758859,
+    -36.746647,
+    174.758859,
+    -36.746647
+],
+  "geometry": {"coordinates":[174.758859,-36.746647],"type":"Point"}
+}

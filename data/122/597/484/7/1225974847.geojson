@@ -1,0 +1,68 @@
+{
+  "id": 1225974847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.66667,-37.21667,174.66667,-37.21667",
+    "geom:latitude":-37.21667,
+    "geom:longitude":174.66667,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Waipipi",
+    "gn:country_code":"NZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180002,
+    "gn:latitude":-37.21667,
+    "gn:longitude":174.66667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Waipipi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180002
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ecce9a94ba3b91879762692745ff7655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1225974847,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1225974847,
+    "wof:lastmodified":1536826552,
+    "wof:name":"Waipipi",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.66666999999995,
+    -37.21667,
+    174.66666999999995,
+    -37.21667
+],
+  "geometry": {"coordinates":[174.66666999999995,-37.21667],"type":"Point"}
+}

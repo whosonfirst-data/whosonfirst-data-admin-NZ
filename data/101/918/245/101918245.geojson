@@ -1,0 +1,80 @@
+{
+  "id": 101918245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7655.325881,
+    "geom:bbox":"173.130670342,-41.3692897476,173.132578224,-41.3679967106",
+    "geom:latitude":-41.368645,
+    "geom:longitude":173.131626,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.368639,
+    "lbl:longitude":173.131641,
+    "mps:latitude":-41.368639,
+    "mps:longitude":173.131641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hope"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hope",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":211,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ddbe0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2189819,
+        "gp:id":2348822,
+        "wd:id":"Q3610579",
+        "wk:page":"Hope, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4946a0d3a3c09a20ea0d40d2adbe7dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101918245,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":101918245,
+    "wof:lastmodified":1527715670,
+    "wof:name":"Hope",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916381
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.13067034216652,
+    -41.36928974762717,
+    173.13257822382087,
+    -41.36799671059807
+],
+  "geometry": {"coordinates":[[[173.13214857092436,-41.36858750213948],[173.13101650461095,-41.36928659045382],[173.13101137070885,-41.36928974762717],[173.13067034216652,-41.36897639758871],[173.13179751188324,-41.36828037959304],[173.13209905217039,-41.36807492569538],[173.13223181966828,-41.36799671059807],[173.13257822382087,-41.3683070786031],[173.13244557537845,-41.3683852038823],[173.13216253791066,-41.36857803202309],[173.13214857092436,-41.36858750213948]]],"type":"Polygon"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85780813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5958682.279359,
+    "geom:bbox":"175.119496,-41.087809,175.119496,-41.087809",
+    "geom:latitude":-41.087809,
+    "geom:longitude":175.119496,
+    "gn:latitude":-41.05,
+    "gn:longitude":175.45,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.087809,
+    "lbl:longitude":175.119496,
+    "mps:latitude":-41.075949,
+    "mps:longitude":175.108301,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Akatarawa"
+    ],
+    "name:unk_x_variant":[
+        "Akatarawa"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6244895,
+    "qs:gn_nam_loc":"Upper Hutt, Upper Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Matarawa",
+    "qs:local_max":2176,
+    "qs:local_sum":5219,
+    "qs:localhoods":16,
+    "qs:name":"Akatarawa",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Upper Hutt City",
+    "qs:name_local":"Upper Hutt",
+    "qs:photo_max":33,
+    "qs:photo_sum":75,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875896,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351024,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079335,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187182,
+        "gp:id":28643768,
+        "qs:id":25842,
+        "qs_pg:id":25842
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"37b503062569c341d5b9338fd59c019b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":-1,
+            "neighbourhood_id":85780813,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85780813,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860089,
+    "wof:name":"Akatarawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.119496,
+    -41.087809,
+    175.119496,
+    -41.087809
+],
+  "geometry": {"coordinates":[175.119496,-41.087809],"type":"Point"}
+}

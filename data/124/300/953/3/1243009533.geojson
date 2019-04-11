@@ -1,0 +1,68 @@
+{
+  "id": 1243009533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.96514,-39.51649,175.96514,-39.51649",
+    "geom:latitude":-39.51649,
+    "geom:longitude":175.96514,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Erehwon",
+    "gn:country_code":"NZ",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2191309,
+    "gn:latitude":-39.51649,
+    "gn:longitude":175.96514,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Erehwon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191309
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a1658e260f1f365d57ec85a00d377238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":1243009533,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1243009533,
+    "wof:lastmodified":1536939137,
+    "wof:name":"Erehwon",
+    "wof:parent_id":102079301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.96514,
+    -39.51649000000001,
+    175.96514,
+    -39.51649000000001
+],
+  "geometry": {"coordinates":[175.96513999999999,-39.51649000000001],"type":"Point"}
+}

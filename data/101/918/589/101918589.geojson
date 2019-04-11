@@ -1,0 +1,81 @@
+{
+  "id": 101918589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6615.400216,
+    "geom:bbox":"173.272063658,-35.1223467018,173.274077282,-35.1217390438",
+    "geom:latitude":-35.122039,
+    "geom:longitude":173.273073,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.122039,
+    "lbl:longitude":173.273081,
+    "mps:latitude":-35.122039,
+    "mps:longitude":173.273081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kaitaia"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kaitaia",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-35.1125,
+    "wd:longitude":173.262778,
+    "wd:wordcount":1147,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6228827,
+        "gp:id":2348946,
+        "wd:id":"Q257417",
+        "wk:page":"Kaitaia"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fd15d5393f940f8c7746defe4bc8507a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101918589,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918589,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Kaitaia",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915171
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.27206365802874,
+    -35.12234670177478,
+    173.27407728163718,
+    -35.12173904382431
+],
+  "geometry": {"coordinates":[[[173.27206365802874,-35.12205868490254],[173.27219752666312,-35.12173904382431],[173.27306927901401,-35.12186126159501],[173.27316260893707,-35.12187525757898],[173.27407728163718,-35.12201800168503],[173.27393360860108,-35.12234670177478],[173.27206365802874,-35.12205868490254]]],"type":"Polygon"}
+}

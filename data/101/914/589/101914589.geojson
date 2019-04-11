@@ -1,0 +1,76 @@
+{
+  "id": 101914589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6835.206907,
+    "geom:bbox":"177.413009766,-39.0249398569,177.4149743,-39.0245347326",
+    "geom:latitude":-39.024745,
+    "geom:longitude":177.413961,
+    "geonames:id":"2206808,6247603",
+    "iso:country":"NZ",
+    "lbl:latitude":-39.024746,
+    "lbl:longitude":177.413948,
+    "mps:latitude":-39.024746,
+    "mps:longitude":177.413948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Wairoa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wairoa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515172
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8e5e8fdb38c4234ee647e6a1bc2c2d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079327,
+            "locality_id":101914589,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101914589,
+    "wof:lastmodified":1487269816,
+    "wof:name":"Wairoa",
+    "wof:parent_id":102079327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914545
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.41300976553546,
+    -39.02493985693992,
+    177.41497430031168,
+    -39.02453473261198
+],
+  "geometry": {"coordinates":[[[177.41497430031168,-39.02492026764577],[177.41304447298037,-39.02493985693992],[177.41300976553546,-39.02453473261198],[177.41494039583853,-39.02458754068582],[177.41497430031168,-39.02492026764577]]],"type":"Polygon"}
+}

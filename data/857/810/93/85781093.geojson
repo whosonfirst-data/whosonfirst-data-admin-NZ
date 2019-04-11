@@ -1,0 +1,114 @@
+{
+  "id": 85781093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7817201.148687,
+    "geom:bbox":"174.967475,-37.070518,174.967475,-37.070518",
+    "geom:latitude":-37.070518,
+    "geom:longitude":174.967475,
+    "gn:latitude":-37.0582,
+    "gn:longitude":174.97019,
+    "gn:population":2556,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.070518,
+    "lbl:longitude":174.967475,
+    "mps:latitude":-37.068328,
+    "mps:longitude":174.97628,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Red Hill"
+    ],
+    "name:unk_x_variant":[
+        "Red Hill"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2208329,
+    "qs:gn_nam_loc":"papakura",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Red Hill",
+    "qs:local_max":177,
+    "qs:local_sum":375,
+    "qs:localhoods":4,
+    "qs:name":"Red Hill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Papakura",
+    "qs:photo_max":9,
+    "qs:photo_sum":14,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350034,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6231571,
+        "gp:id":28644024,
+        "qs:id":1024393,
+        "qs_pg:id":1024393
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a249585402b6c5a83c2d710610c9b9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85781093,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781093,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860140,
+    "wof:name":"Red Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":2556,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.967475,
+    -37.070518,
+    174.967475,
+    -37.070518
+],
+  "geometry": {"coordinates":[174.96747500000001,-37.070518],"type":"Point"}
+}

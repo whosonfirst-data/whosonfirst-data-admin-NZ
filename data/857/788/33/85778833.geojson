@@ -1,0 +1,105 @@
+{
+  "id": 85778833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4132437.911507,
+    "geom:bbox":"174.817057,-36.892348,174.817057,-36.892348",
+    "geom:latitude":-36.892348,
+    "geom:longitude":174.817057,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.892348,
+    "lbl:longitude":174.817057,
+    "mps:latitude":-36.882417,
+    "mps:longitude":174.813952,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:note":"extra directional",
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Ellerslie North"
+    ],
+    "name:unk_x_variant":[
+        "Ellerslie North"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":617,
+    "qs:local_sum":887,
+    "qs:localhoods":2,
+    "qs:name":"Ellerslie North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Ellerslie",
+    "qs:photo_max":57,
+    "qs:photo_sum":270,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726363,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726617,
+        "qs:id":237767,
+        "qs_pg:id":237767
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"47cbcfe273a5a3bec7f871753094d6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85778833,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778833,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859842,
+    "wof:name":"Ellerslie North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.817057,
+    -36.892348,
+    174.817057,
+    -36.892348
+],
+  "geometry": {"coordinates":[174.81705700000001,-36.892348],"type":"Point"}
+}

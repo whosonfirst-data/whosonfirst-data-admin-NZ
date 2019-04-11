@@ -1,0 +1,81 @@
+{
+  "id": 101917265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":33298.317399,
+    "geom:bbox":"174.245921553,-39.0000319608,174.250357837,-38.9971644613",
+    "geom:latitude":-38.998773,
+    "geom:longitude":174.248001,
+    "gn:population":6318,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.998929,
+    "lbl:longitude":174.247807,
+    "mps:latitude":-38.998929,
+    "mps:longitude":174.247807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waitara"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waitara",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208091,
+        "wd:id":"Q727199",
+        "wk:page":"Waitara, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"39678a36c4424a1c8bcd2c33aa32078d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101917265,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101917265,
+    "wof:lastmodified":1505338684,
+    "wof:name":"Waitara",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:population":6318,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914453
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.24592155335012,
+    -39.00003196083645,
+    174.25035783744946,
+    -38.99716446129892
+],
+  "geometry": {"coordinates":[[[174.24592155335012,-38.99755050889171],[174.24667905583581,-38.99716446129892],[174.2469146515036,-38.99726089997736],[174.24773187356297,-38.99822309449141],[174.24868623793267,-38.99939350754168],[174.2490810063743,-38.99920580413912],[174.24974428214026,-38.99888930752186],[174.25035783744946,-38.99959501044469],[174.24968705323693,-38.99994664321748],[174.24958567665144,-38.99982270895469],[174.24948044059803,-38.99969404321946],[174.24931581384911,-38.99949280232452],[174.2482149176117,-39.00003196083645],[174.24628526982019,-38.99771940838085],[174.24592155335012,-38.99755050889171]]],"type":"Polygon"}
+}

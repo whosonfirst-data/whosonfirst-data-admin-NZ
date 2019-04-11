@@ -1,0 +1,107 @@
+{
+  "id": 85778983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7317361.478872,
+    "geom:bbox":"172.665677,-43.356229,172.665677,-43.356229",
+    "geom:latitude":-43.356229,
+    "geom:longitude":172.665677,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-43.356229,
+    "lbl:longitude":172.665677,
+    "mps:latitude":-43.354445,
+    "mps:longitude":172.667062,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kaiapoi North"
+    ],
+    "name:unk_x_variant":[
+        "Kaiapoi North"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6220587,
+    "qs:gn_nam_loc":"Kaiapoi, Waimakariri District, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:local_max":266,
+    "qs:local_sum":321,
+    "qs:localhoods":2,
+    "qs:name":"Kaiapoi North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Waimakariri District",
+    "qs:name_local":"Kaiapoi",
+    "qs:photo_max":27,
+    "qs:photo_sum":55,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875842,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348915,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079367,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726670,
+        "qs:id":1184341,
+        "qs_pg:id":1184341
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b81fdb92e5820454e55fa83c1ac6b1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":-1,
+            "neighbourhood_id":85778983,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85778983,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859881,
+    "wof:name":"Kaiapoi North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.665677,
+    -43.356229,
+    172.665677,
+    -43.356229
+],
+  "geometry": {"coordinates":[172.66567699999999,-43.356229],"type":"Point"}
+}

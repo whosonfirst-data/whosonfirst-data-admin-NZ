@@ -1,0 +1,114 @@
+{
+  "id": 85778369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4579367.958212,
+    "geom:bbox":"172.606625,-43.562944,172.606625,-43.562944",
+    "geom:latitude":-43.562944,
+    "geom:longitude":172.606625,
+    "gn:latitude":-43.56444,
+    "gn:longitude":172.60766,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.562944,
+    "lbl:longitude":172.606625,
+    "mps:latitude":-43.561901,
+    "mps:longitude":172.60271,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Hoon Hay"
+    ],
+    "name:unk_x_variant":[
+        "Hoon Hay"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Hoon Hay",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Hoon Hay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":216,
+    "qs:photo_sum":478,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":187,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6220937,
+        "gp:id":22726405,
+        "qs:id":1191506,
+        "qs_pg:id":1191506,
+        "wd:id":"Q5898247",
+        "wk:page":"Hoon Hay"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"540c927e3a2f93a15a2a06ad4111ccc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778369,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85778369,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859781,
+    "wof:name":"Hoon Hay",
+    "wof:parent_id":101914521,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.606625,
+    -43.562944,
+    172.606625,
+    -43.562944
+],
+  "geometry": {"coordinates":[172.60662500000001,-43.562944],"type":"Point"}
+}

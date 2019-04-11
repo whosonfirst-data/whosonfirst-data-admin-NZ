@@ -1,0 +1,68 @@
+{
+  "id": 1326664011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.33333,-46.05,168.33333,-46.05",
+    "geom:latitude":-46.05,
+    "geom:longitude":168.33333,
+    "gn:admin1_code":"F8",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Centre Bush",
+    "gn:country_code":"NZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2192449,
+    "gn:latitude":-46.05,
+    "gn:longitude":168.33333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Centre Bush",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192449
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"633bde88bb07544d9e3eddb1bf91e015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1326664011,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1326664011,
+    "wof:lastmodified":1536794353,
+    "wof:name":"Centre Bush",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.33333000000005,
+    -46.05,
+    168.33333000000005,
+    -46.05
+],
+  "geometry": {"coordinates":[168.33333000000005,-46.05],"type":"Point"}
+}

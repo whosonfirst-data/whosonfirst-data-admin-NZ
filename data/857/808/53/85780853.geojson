@@ -1,0 +1,118 @@
+{
+  "id": 85780853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8998109.515309,
+    "geom:bbox":"174.86375,-41.14074,174.86375,-41.14074",
+    "geom:latitude":-41.14074,
+    "geom:longitude":174.86375,
+    "gn:latitude":-41.12827,
+    "gn:longitude":174.8602,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.14074,
+    "lbl:longitude":174.86375,
+    "mps:latitude":-41.135941,
+    "mps:longitude":174.870341,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Cannons Creek"
+    ],
+    "name:eng_x_preferred":[
+        "Cannons Creek"
+    ],
+    "name:swe_x_preferred":[
+        "Cannons Creek"
+    ],
+    "name:unk_x_variant":[
+        "Cannons Creek"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2184397,
+    "qs:gn_nam_loc":"Porirua, Porirua City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Cannons Creek",
+    "qs:local_max":1459,
+    "qs:local_sum":4025,
+    "qs:localhoods":7,
+    "qs:name":"Cannons Creek",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Porirua City",
+    "qs:name_local":"Porirua",
+    "qs:photo_max":25,
+    "qs:photo_sum":79,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875866,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350182,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914925,
+        102079317,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244921,
+        "gp:id":28643798,
+        "qs:id":43632,
+        "qs_pg:id":43632
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ebb3e408b62273cf9bcef4f25debe0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":101914925,
+            "neighbourhood_id":85780853,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85780853,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860096,
+    "wof:name":"Cannons Creek",
+    "wof:parent_id":101914925,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.86375,
+    -41.14074,
+    174.86375,
+    -41.14074
+],
+  "geometry": {"coordinates":[174.86375000000001,-41.14074],"type":"Point"}
+}

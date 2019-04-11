@@ -1,0 +1,67 @@
+{
+  "id": 1327367647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.8,-45.0,170.8,-45.0",
+    "geom:latitude":-45.0,
+    "geom:longitude":170.8,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Windsor",
+    "gn:country_code":"NZ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179027,
+    "gn:latitude":-45.0,
+    "gn:longitude":170.8,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Windsor",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179027
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0718e40d64d69203c1f233dfb1859d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1327367647,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1327367647,
+    "wof:lastmodified":1536775025,
+    "wof:name":"Windsor",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.8,
+    -45.0,
+    170.8,
+    -45.0
+],
+  "geometry": {"coordinates":[170.80000000000001,-45.0],"type":"Point"}
+}

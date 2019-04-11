@@ -1,0 +1,84 @@
+{
+  "id": 101917945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16538.887004,
+    "geom:bbox":"168.345488186,-46.3364744942,168.347071441,-46.3352256897",
+    "geom:latitude":-46.335849,
+    "geom:longitude":168.346286,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.335845,
+    "lbl:longitude":168.346292,
+    "mps:latitude":-46.335845,
+    "mps:longitude":168.34627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Makarewa"
+    ],
+    "name:eng_x_preferred":[
+        "Makarewa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Makarewa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cf0ea-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2187931,
+        "gp:id":2349307,
+        "wd:id":"Q6738774",
+        "wk:page":"Makarewa"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"963c99c84d0b5bb3fae6823fa5668ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101917945,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101917945,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715916,
+    "wof:name":"Makarewa",
+    "wof:parent_id":102079397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.34548818583102,
+    -46.33647449419961,
+    168.3470714411814,
+    -46.33522568974862
+],
+  "geometry": {"coordinates":[[[168.34707144118141,-46.33522568974862],[168.34707085083073,-46.33647449419961],[168.34648521121255,-46.33645938391133],[168.34616442075585,-46.33645799833947],[168.34548818583102,-46.33646550946997],[168.34550599594789,-46.3352388369803],[168.34707144118141,-46.33522568974862]]],"type":"Polygon"}
+}

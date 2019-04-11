@@ -1,0 +1,69 @@
+{
+  "id": 1293137605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.16105,-37.83948,176.16105,-37.83948",
+    "geom:latitude":-37.83948,
+    "geom:longitude":176.16105,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Oropi",
+    "gn:country_code":"NZ",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185423,
+    "gn:latitude":-37.83948,
+    "gn:longitude":176.16105,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Oropi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185423,
+        "wk:page":"Oropi"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3ae26cde8cb269a18938395033012485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":1293137605,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1293137605,
+    "wof:lastmodified":1537570170,
+    "wof:name":"Oropi",
+    "wof:parent_id":102079283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.16105,
+    -37.83948,
+    176.16105,
+    -37.83948
+],
+  "geometry": {"coordinates":[176.16104999999999,-37.83948],"type":"Point"}
+}

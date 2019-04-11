@@ -1,0 +1,82 @@
+{
+  "id": 1125910415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.394561,-38.200215,176.394561,-38.200215",
+    "geom:latitude":-38.200215,
+    "geom:longitude":176.394561,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.200215,
+    "lbl:longitude":176.394561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lake Tarawera",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Bay of Plenty",
+    "qs_pg:photos":213,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":213,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1062089,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644814,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Bay of Plenty",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644814,
+        "qs_pg:id":1062089
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296120,
+    "wof:geomhash":"0ebe602cb1184485666f9cd1788d7bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":1125910415,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1125910415,
+    "wof:lastmodified":1509400105,
+    "wof:name":"Lake Tarawera",
+    "wof:parent_id":102079289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.394561,
+    -38.200215,
+    176.394561,
+    -38.200215
+],
+  "geometry": {"coordinates":[176.39456100000001,-38.200215],"type":"Point"}
+}

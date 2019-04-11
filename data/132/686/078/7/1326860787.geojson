@@ -1,0 +1,67 @@
+{
+  "id": 1326860787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.65289,-40.61503,175.65289,-40.61503",
+    "geom:latitude":-40.61503,
+    "geom:longitude":175.65289,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Nireaha",
+    "gn:country_code":"NZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2186072,
+    "gn:latitude":-40.61503,
+    "gn:longitude":175.65289,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Nireaha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186072
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c7a565f6b8112c0f22976e16a860655a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":1326860787,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1326860787,
+    "wof:lastmodified":1537006963,
+    "wof:name":"Nireaha",
+    "wof:parent_id":102079309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.65289,
+    -40.61503,
+    175.65289,
+    -40.61503
+],
+  "geometry": {"coordinates":[175.65289000000001,-40.61503],"type":"Point"}
+}

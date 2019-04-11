@@ -1,0 +1,79 @@
+{
+  "id": 101914609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5212.552207,
+    "geom:bbox":"173.808185159,-35.4156571542,173.809427266,-35.4149621401",
+    "geom:latitude":-35.415253,
+    "geom:longitude":173.808779,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.415273,
+    "lbl:longitude":173.808695,
+    "mps:latitude":-35.415273,
+    "mps:longitude":173.808695,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kaikohe"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kaikohe",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1632,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6229575,
+        "gp:id":2348923,
+        "wd:id":"Q999327",
+        "wk:page":"Kaikohe"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3d97079091fcf939cf81b6437928fad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101914609,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101914609,
+    "wof:lastmodified":1527688594,
+    "wof:name":"Kaikohe",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914251
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.8081851593008,
+    -35.41565715423177,
+    173.80942726581566,
+    -35.41496214013121
+],
+  "geometry": {"coordinates":[[[173.80942726581566,-35.41529711985837],[173.80896933355132,-35.41538498162784],[173.80875535650614,-35.4155220589818],[173.80835749537258,-35.41565715423177],[173.80818515930079,-35.41519453132081],[173.80866272402864,-35.41500916404382],[173.80898687920666,-35.41496214013121],[173.80933817807752,-35.41496985174894],[173.80942726581566,-35.41529711985837]]],"type":"Polygon"}
+}

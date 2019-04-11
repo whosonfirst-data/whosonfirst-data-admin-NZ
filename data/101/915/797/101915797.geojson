@@ -1,0 +1,117 @@
+{
+  "id": 101915797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":447215.007812,
+    "geom:bbox":"172.106241545,-43.4896688566,172.128143135,-43.481763851",
+    "geom:latitude":-43.486333,
+    "geom:longitude":172.113882,
+    "gn:population":1593,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.487047,
+    "lbl:longitude":172.113718,
+    "mps:latitude":-43.487047,
+    "mps:longitude":172.113718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Darfield"
+    ],
+    "name:eng_x_preferred":[
+        "Darfield"
+    ],
+    "name:eng_x_variant":[
+        "Horndon"
+    ],
+    "name:msa_x_preferred":[
+        "Darfield"
+    ],
+    "name:nld_x_preferred":[
+        "Darfield"
+    ],
+    "name:nno_x_preferred":[
+        "Darfield p\u00e5 New Zealand"
+    ],
+    "name:nor_x_preferred":[
+        "Darfield"
+    ],
+    "name:pol_x_preferred":[
+        "Darfield"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u0444\u0438\u043b\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "Darfield"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Darfield",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":327,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd3ca-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2191913,
+        "gp:id":2348413,
+        "qs_pg:id":9324,
+        "wd:id":"Q1165830",
+        "wk:page":"Darfield, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8b77bde995bb0764c3e984a0a188c97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101915797,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101915797,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527643125,
+    "wof:name":"Darfield",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:population":1593,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915779
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.10624154526505,
+    -43.48966885658083,
+    172.1281431346154,
+    -43.48176385099244
+],
+  "geometry": {"coordinates":[[[172.12571332529248,-43.48828425965212],[172.11949548306703,-43.48768164689839],[172.11909459894196,-43.48966885658083],[172.11841157329161,-43.48962131104349],[172.11854888612285,-43.48893283198617],[172.11474484340931,-43.48857682905921],[172.11207012158843,-43.48835635530988],[172.11166134388904,-43.48832529078123],[172.11035926271012,-43.48783182453086],[172.10664969612907,-43.48635286470486],[172.10816138546883,-43.48434293357245],[172.10797301102986,-43.48426195587547],[172.10772141460163,-43.48407523688219],[172.10747498046098,-43.48389234725347],[172.10692744962074,-43.48333271464102],[172.10624154526505,-43.48259112771875],[172.10793469151244,-43.48176385099244],[172.10883657925376,-43.48206034603928],[172.1103832303512,-43.48257534923516],[172.11010614000526,-43.48302437145814],[172.11158500501267,-43.48351341808459],[172.11063837858396,-43.48472028120219],[172.11257194271585,-43.48548147476643],[172.11468936471587,-43.4857060776955],[172.11903686116278,-43.48634176508724],[172.11884152279501,-43.48684598475992],[172.12396808180981,-43.48737596887113],[172.12814313461541,-43.48780740996724],[172.12810311217126,-43.48811774148449],[172.12805241162863,-43.48851086577502],[172.12571332529248,-43.48828425965212]]],"type":"Polygon"}
+}

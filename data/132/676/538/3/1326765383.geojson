@@ -1,0 +1,68 @@
+{
+  "id": 1326765383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.03333,-43.71667,173.03333,-43.71667",
+    "geom:latitude":-43.71667,
+    "geom:longitude":173.03333,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"60.0",
+    "gn:asciiname":"Chorlton",
+    "gn:country_code":"NZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2192365,
+    "gn:latitude":-43.71667,
+    "gn:longitude":173.03333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Chorlton",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192365
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ed09e9e0bf6595bfa52ce4b0429706fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":1326765383,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1326765383,
+    "wof:lastmodified":1536647518,
+    "wof:name":"Chorlton",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.03333,
+    -43.71667,
+    173.03333,
+    -43.71667
+],
+  "geometry": {"coordinates":[173.03333000000001,-43.71667],"type":"Point"}
+}

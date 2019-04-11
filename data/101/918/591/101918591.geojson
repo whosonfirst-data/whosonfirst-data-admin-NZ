@@ -1,0 +1,84 @@
+{
+  "id": 101918591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15806.058752,
+    "geom:bbox":"173.253831822,-35.0386306901,173.254771662,-35.0360428603",
+    "geom:latitude":-35.037357,
+    "geom:longitude":173.254217,
+    "gn:population":388,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.037371,
+    "lbl:longitude":173.254174,
+    "mps:latitude":-35.037371,
+    "mps:longitude":173.254174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Awanui"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Awanui",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1745,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193678,
+        "gp:id":2348103,
+        "qs:id":1034348,
+        "wd:id":"Q791606",
+        "wk:page":"Awanui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8f1e46e70f6e9002f607a52bd0022605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101918591,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918591,
+    "wof:lastmodified":1527715675,
+    "wof:name":"Awanui",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:population":388,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917873
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.2538318223767,
+    -35.0386306900818,
+    173.25477166152947,
+    -35.03604286031417
+],
+  "geometry": {"coordinates":[[[173.25400694535168,-35.03823116570558],[173.25387545817279,-35.03786673948198],[173.2538318223767,-35.03621493003613],[173.25431523767702,-35.03607490614959],[173.25442898808197,-35.03604286031417],[173.25445934293481,-35.03616079094715],[173.25447509472917,-35.03622380934925],[173.25448089472593,-35.03728095706006],[173.25448092415525,-35.03728546324146],[173.25453663969827,-35.03793141768794],[173.25453894296552,-35.03794853140223],[173.25477166152947,-35.03851529516027],[173.25415109760496,-35.0386306900818],[173.25400694535168,-35.03823116570558]]],"type":"Polygon"}
+}

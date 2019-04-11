@@ -1,0 +1,68 @@
+{
+  "id": 1276908623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.01293,-40.22011,176.01293,-40.22011",
+    "geom:latitude":-40.22011,
+    "geom:longitude":176.01293,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Te Rehunga",
+    "gn:country_code":"NZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181344,
+    "gn:latitude":-40.22011,
+    "gn:longitude":176.01293,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Te Rehunga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181344,
+        "wk:page":"Te_Rehunga"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f3ca79adaf221140eaa38404a8bde858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":1276908623,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1276908623,
+    "wof:lastmodified":1537570167,
+    "wof:name":"Te Rehunga",
+    "wof:parent_id":102079309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.01293,
+    -40.22011,
+    176.01293,
+    -40.22011
+],
+  "geometry": {"coordinates":[176.01293000000001,-40.22011],"type":"Point"}
+}

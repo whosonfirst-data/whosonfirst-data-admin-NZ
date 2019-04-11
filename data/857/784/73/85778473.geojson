@@ -1,0 +1,128 @@
+{
+  "id": 85778473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":1025643.031277,
+    "geom:bbox":"174.781494141,-41.303533725,174.798779278,-41.291221807",
+    "geom:latitude":-41.298001,
+    "geom:longitude":174.789285,
+    "gn:latitude":-41.29696,
+    "gn:longitude":174.7936,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.297193,
+    "lbl:longitude":174.786965,
+    "mps:latitude":-41.298591,
+    "mps:longitude":174.788694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Mount Victoria"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Victoria"
+    ],
+    "name:eng_x_variant":[
+        "Mt Victoria",
+        "Mt. Victoria",
+        "Mtvictoria"
+    ],
+    "name:nno_x_preferred":[
+        "Mount Victoria i Wellington"
+    ],
+    "name:tur_x_preferred":[
+        "Victoria Da\u011f\u0131"
+    ],
+    "name:unk_x_variant":[
+        "Mount Victoria"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Mount Victoria",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Mount Victoria",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":1069,
+    "qs:photo_sum":2731,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":711,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244819,
+        "gp:id":22726465,
+        "qs:id":1115339,
+        "qs_pg:id":1115339,
+        "wd:id":"Q834009",
+        "wk:page":"Mount Victoria, Wellington"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"21bd0ab3b33b73e1d326ec9477c28881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85778473,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778473,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527639346,
+    "wof:name":"Mount Victoria",
+    "wof:parent_id":101914285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.78149414100017,
+    -41.30353372496621,
+    174.79877927806655,
+    -41.29122180701999
+],
+  "geometry": {"coordinates":[[[174.78561401376066,-41.29122180701999],[174.78561401400009,-41.29225364220005],[174.78698730500014,-41.29225364220005],[174.78779807546636,-41.29225364220005],[174.78779809318371,-41.2922536258748],[174.78973388700052,-41.29225363598093],[174.78973388700035,-41.29360235448253],[174.79110717800057,-41.29421162110564],[174.7911071780004,-41.2943172632],[174.7911071780004,-41.29534904665299],[174.7924804690004,-41.29534904665299],[174.79248046900022,-41.29638081650823],[174.79345092490928,-41.29638081770407],[174.7938537600001,-41.2963808189],[174.7938537600001,-41.29689669698203],[174.79454040516697,-41.29689669691658],[174.7952270510001,-41.29689669685129],[174.7952270510001,-41.2963808189],[174.79660034200032,-41.2963808189],[174.79797363299997,-41.2963808189],[174.7979736330002,-41.29709572072894],[174.79797363452445,-41.29844430271307],[174.79877927806655,-41.29951665330672],[174.7985311001064,-41.30050771809998],[174.79797363299997,-41.30050772270945],[174.79522705100027,-41.30050772570669],[174.7924804690004,-41.30050772819048],[174.7924804690004,-41.30257108477705],[174.78973388700035,-41.30257108559329],[174.78698730212597,-41.30257108615479],[174.78648083968704,-41.30324525533243],[174.78496389666446,-41.30353372496621],[174.78424072528657,-41.30257108441974],[174.78424072300004,-41.30050772819048],[174.78149414100017,-41.3005077248917],[174.78149414100017,-41.29915921740807],[174.78149414100017,-41.29844430930007],[174.78203124011344,-41.29844430168171],[174.78424072300004,-41.29844429866404],[174.78424072300004,-41.2963808086967],[174.78424072300004,-41.29503215871132],[174.78424072300004,-41.2943172632],[174.78424072300004,-41.29225364220005],[174.78424072300004,-41.29122180720003],[174.78561401376066,-41.29122180701999]]],"type":"Polygon"}
+}

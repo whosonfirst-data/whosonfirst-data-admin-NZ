@@ -1,0 +1,86 @@
+{
+  "id": 101916941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18575.732279,
+    "geom:bbox":"168.002848831,-46.1540367221,168.006640523,-46.1518755951",
+    "geom:latitude":-46.153085,
+    "geom:longitude":168.004624,
+    "gn:population":745,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.153167,
+    "lbl:longitude":168.004619,
+    "mps:latitude":-46.153167,
+    "mps:longitude":168.004619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Otautau"
+    ],
+    "name:eng_x_variant":[
+        "Otautau Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Otautau",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":384,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de702-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185296,
+        "gp:id":2349947,
+        "wd:id":"Q15264642"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"bcd74357656dc7cafe5bb8ac61cac978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916941,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101916941,
+    "wof:lastmodified":1527715559,
+    "wof:name":"Otautau",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:population":745,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916017
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.002848831075,
+    -46.15403672207679,
+    168.0066405231661,
+    -46.15187559507795
+],
+  "geometry": {"coordinates":[[[168.00654891500568,-46.15387921977275],[168.00649085449416,-46.1538847618938],[168.00597892752617,-46.15403672207679],[168.00494771666735,-46.1536198195428],[168.00370022088958,-46.15307025521087],[168.002848831075,-46.15213094018846],[168.00341974142606,-46.15187559507795],[168.00359709404523,-46.15210314489693],[168.00381409783392,-46.152373066027],[168.00420472721061,-46.1526413057708],[168.00464936479636,-46.15287627775366],[168.00649475559879,-46.15366965908338],[168.00664052316611,-46.15374065663078],[168.00654891500568,-46.15387921977275]]],"type":"Polygon"}
+}

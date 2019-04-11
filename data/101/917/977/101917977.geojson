@@ -1,0 +1,89 @@
+{
+  "id": 101917977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26840.452698,
+    "geom:bbox":"169.844705285,-46.2912417414,169.847626842,-46.2894516884",
+    "geom:latitude":-46.290333,
+    "geom:longitude":169.846115,
+    "gn:population":851,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.290337,
+    "lbl:longitude":169.846125,
+    "mps:latitude":-46.290337,
+    "mps:longitude":169.846125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bos_x_preferred":[
+        "Kaitangata"
+    ],
+    "name:deu_x_preferred":[
+        "Kaitangata"
+    ],
+    "name:eng_x_preferred":[
+        "Kaitangata"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kaitangata",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020def7c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2208245,
+        "gp:id":2348947,
+        "wd:id":"Q1173433"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"819377d085734cff0cdd595add312302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101917977,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101917977,
+    "wof:lastmodified":1527715908,
+    "wof:name":"Kaitangata",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:population":851,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914303
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.84470528456234,
+    -46.29124174140103,
+    169.8476268418262,
+    -46.28945168843106
+],
+  "geometry": {"coordinates":[[[169.84470528456234,-46.29071814905664],[169.84529393035623,-46.28945168843106],[169.84762684182621,-46.28993872523935],[169.84747594398982,-46.29030025616301],[169.84710528334068,-46.29023921766638],[169.84692011742035,-46.29065746295256],[169.8472936399944,-46.29073748169925],[169.84695573476918,-46.29124174140103],[169.84470528456234,-46.29071814905664]]],"type":"Polygon"}
+}

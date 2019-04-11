@@ -1,0 +1,98 @@
+{
+  "id": 1125811011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.33333,-38.01667,178.33333,-38.01667",
+    "geom:latitude":-38.01667,
+    "geom:longitude":178.33333,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.01667,
+    "lbl:longitude":178.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Waipiro Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Waipiro Bay"
+    ],
+    "name:mao_x_preferred":[
+        "Waipiro Bay"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2180000,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Waipiro Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Gisborne",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":466767,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2351189,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Gisborne",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180000,
+        "gp:id":2351189,
+        "qs_pg:id":466767,
+        "wd:id":"Q7960290"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497291656,
+    "wof:geomhash":"f911193ca09cce3de1307f176835ac3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":1125811011,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1125811011,
+    "wof:lastmodified":1514494542,
+    "wof:name":"Waipiro Bay",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.33333,
+    -38.01667,
+    178.33333,
+    -38.01667
+],
+  "geometry": {"coordinates":[178.33332999999999,-38.01667],"type":"Point"}
+}

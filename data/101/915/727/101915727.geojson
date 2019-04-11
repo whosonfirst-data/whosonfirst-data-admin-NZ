@@ -1,0 +1,80 @@
+{
+  "id": 101915727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":84522.913074,
+    "geom:bbox":"168.870410089,-46.1881930918,168.880447151,-46.179028689",
+    "geom:latitude":-46.183605,
+    "geom:longitude":168.875325,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.185126,
+    "lbl:longitude":168.873313,
+    "mps:latitude":-46.185126,
+    "mps:longitude":168.873313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Mataura"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mataura",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2883,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ddce4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6206745,
+        "gp:id":2349473,
+        "wd:id":"Q1576018",
+        "wk:page":"Mataura"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fa59b1816ef6e5d2205d5c2eb75a04da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079393,
+            "locality_id":101915727,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101915727,
+    "wof:lastmodified":1527643144,
+    "wof:name":"Mataura",
+    "wof:parent_id":102079393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914503
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.87041008880936,
+    -46.18819309177092,
+    168.88044715069825,
+    -46.17902868898431
+],
+  "geometry": {"coordinates":[[[168.87097155749575,-46.18819309177092],[168.87089277006027,-46.18815251530105],[168.87041008880936,-46.18788528700628],[168.87148543532294,-46.18687682411571],[168.87291067281944,-46.1855481106213],[168.87221552219981,-46.18515188653078],[168.87324258828551,-46.18418226817261],[168.873921629526,-46.18455000027945],[168.8743966549205,-46.1841133926799],[168.8760223467828,-46.18259252826447],[168.87683603317069,-46.1818109479362],[168.87793074408225,-46.18080040228012],[168.87967544315129,-46.17902868898431],[168.88044715069825,-46.17940590721262],[168.87831766737298,-46.18142460999601],[168.87791992881165,-46.18177923780215],[168.8779185704926,-46.18178009145114],[168.87097155749575,-46.18819309177092]]],"type":"Polygon"}
+}

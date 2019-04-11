@@ -1,0 +1,86 @@
+{
+  "id": 101918813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4404.510429,
+    "geom:bbox":"175.763483589,-37.8841743855,175.764494975,-37.883341527",
+    "geom:latitude":-37.883766,
+    "geom:longitude":175.76399,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.883746,
+    "lbl:longitude":175.763954,
+    "mps:latitude":-37.883746,
+    "mps:longitude":175.763954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hinuera"
+    ],
+    "name:msa_x_preferred":[
+        "Hinuera"
+    ],
+    "name:nld_x_preferred":[
+        "Hinuera"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hinuera",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c2f3e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2189921,
+        "gp:id":2348797,
+        "qs:id":987859,
+        "wd:id":"Q2195474"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"490b56cc0a41d5951bd04196e28f5aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101918813,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918813,
+    "wof:lastmodified":1527715676,
+    "wof:name":"Hinuera",
+    "wof:parent_id":102079267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914549
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.76348358882015,
+    -37.88417438547653,
+    175.76449497503918,
+    -37.88334152700467
+],
+  "geometry": {"coordinates":[[[175.7641057574742,-37.88350524669453],[175.76449497503918,-37.88371290709879],[175.76420713253421,-37.88417438547653],[175.76386009374673,-37.88402698710243],[175.76348358882015,-37.88382441998493],[175.76379902964601,-37.88334152700467],[175.7641057574742,-37.88350524669453]]],"type":"Polygon"}
+}

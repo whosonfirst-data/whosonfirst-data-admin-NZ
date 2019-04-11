@@ -1,0 +1,114 @@
+{
+  "id": 85782073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7122311.849436,
+    "geom:bbox":"172.716947,-43.480251,172.716947,-43.480251",
+    "geom:latitude":-43.480251,
+    "geom:longitude":172.716947,
+    "gn:latitude":-43.47833,
+    "gn:longitude":172.72013,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.480251,
+    "lbl:longitude":172.716947,
+    "mps:latitude":-43.473609,
+    "mps:longitude":172.717947,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Waimairi Beach"
+    ],
+    "name:eng_x_variant":[
+        "Waimari Beach"
+    ],
+    "name:unk_x_variant":[
+        "Waimairi Beach"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Waimairi Beach",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Waimairi Beach",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":24,
+    "qs:photo_sum":145,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6220375,
+        "gp:id":28645607,
+        "qs:id":32077,
+        "qs_pg:id":32077
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"92979ed4cd1e5455bb7b41ce25e75f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85782073,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85782073,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860311,
+    "wof:name":"Waimairi Beach",
+    "wof:parent_id":101914521,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.716947,
+    -43.480251,
+    172.716947,
+    -43.480251
+],
+  "geometry": {"coordinates":[172.716947,-43.480251],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 101917151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":72955.847717,
+    "geom:bbox":"172.289424065,-43.768379345,172.293454039,-43.7644471032",
+    "geom:latitude":-43.766576,
+    "geom:longitude":172.291674,
+    "gn:population":1272,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.767165,
+    "lbl:longitude":172.29171,
+    "mps:latitude":-43.767165,
+    "mps:longitude":172.29171,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Leeston"
+    ],
+    "name:eng_x_variant":[
+        "Leeston Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Leeston",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":758,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd8c0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2188444,
+        "gp:id":2349184,
+        "wd:id":"Q985373",
+        "wk:page":"Leeston"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2f339ba17b5ad6591404ea82c33702a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101917151,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101917151,
+    "wof:lastmodified":1527715905,
+    "wof:name":"Leeston",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:population":1272,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914813
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.28942406494173,
+    -43.76837934502005,
+    172.2934540392284,
+    -43.76444710321202
+],
+  "geometry": {"coordinates":[[[172.28980932278114,-43.76723362890162],[172.28942406494173,-43.76657295687519],[172.29142246304056,-43.76606917600331],[172.29084229072404,-43.76496387111067],[172.29183051721222,-43.76468691019794],[172.2927258800654,-43.76445714367101],[172.29272540090543,-43.76444710321202],[172.29296921554467,-43.76495857027607],[172.29328377689922,-43.76489676295402],[172.29344715145743,-43.76529797855925],[172.29345403922841,-43.76531489327483],[172.29310920393328,-43.76539532790365],[172.29223644682156,-43.76560035029073],[172.29330247400515,-43.76766126237322],[172.292859062047,-43.76800436602669],[172.29153355598973,-43.76837934502005],[172.29030638851546,-43.76756392561767],[172.28980932278114,-43.76723362890162]]],"type":"Polygon"}
+}

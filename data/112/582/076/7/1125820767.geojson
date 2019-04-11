@@ -1,0 +1,89 @@
+{
+  "id": 1125820767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.038101,-41.124018,175.038101,-41.124018",
+    "geom:latitude":-41.124018,
+    "geom:longitude":175.038101,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.124018,
+    "lbl:longitude":175.038101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Moonshine"
+    ],
+    "name:eng_x_preferred":[
+        "Moonshine"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Moonshine",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":23,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":133739,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643942,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643942,
+        "qs_pg:id":133739,
+        "wd:id":"Q6907951"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497292054,
+    "wof:geomhash":"33b6aa128d473e17a88258bd2a29536b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":1125820767,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1125820767,
+    "wof:lastmodified":1514494294,
+    "wof:name":"Moonshine",
+    "wof:parent_id":102079335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.038101,
+    -41.124018,
+    175.038101,
+    -41.124018
+],
+  "geometry": {"coordinates":[175.03810100000001,-41.124018],"type":"Point"}
+}

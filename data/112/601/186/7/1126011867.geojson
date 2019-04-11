@@ -1,0 +1,78 @@
+{
+  "id": 1126011867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.95,-37.2,174.95,-37.2",
+    "geom:latitude":-37.2,
+    "geom:longitude":174.95,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":21438,
+    "gn:population":21438,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.2,
+    "lbl:longitude":174.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2184155,
+    "qs_pg:gn_pop":21438,
+    "qs_pg:name":"Pukekohe East",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":573103,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184155,
+        "qs_pg:id":573103
+    },
+    "wof:country":"NZ",
+    "wof:created":1497300321,
+    "wof:geomhash":"40ce55d64b9b90074ac5c4248397da3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":1126011867,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1126011867,
+    "wof:lastmodified":1509406726,
+    "wof:name":"Pukekohe East",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:population":21438,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.95,
+    -37.2,
+    174.95,
+    -37.2
+],
+  "geometry": {"coordinates":[174.94999999999999,-37.2],"type":"Point"}
+}

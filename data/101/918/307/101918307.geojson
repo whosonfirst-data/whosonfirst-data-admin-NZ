@@ -1,0 +1,80 @@
+{
+  "id": 101918307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6033.036746,
+    "geom:bbox":"175.150209099,-37.741304744,175.151292432,-37.7402322107",
+    "geom:latitude":-37.740812,
+    "geom:longitude":175.150766,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.740787,
+    "lbl:longitude":175.150726,
+    "mps:latitude":-37.740787,
+    "mps:longitude":175.150726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Kowhai"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Kowhai",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c8006-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181485,
+        "gp:id":2350816,
+        "qs:id":892245,
+        "wd:id":"Q7690853"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b9d01396fb9f6410fd7123c25e0cd7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101918307,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918307,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Te Kowhai",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914861
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.15020909892488,
+    -37.74130474404506,
+    175.15129243162687,
+    -37.74023221074174
+],
+  "geometry": {"coordinates":[[[175.15033324971816,-37.74023221074174],[175.15065080568576,-37.74044415038953],[175.1506635325108,-37.74045201796459],[175.1511169034338,-37.74065138200999],[175.15112724728664,-37.74065568737383],[175.15121546153316,-37.74068192303894],[175.15129243162687,-37.74096884874933],[175.15117009739424,-37.74119747663309],[175.15066150697734,-37.74130474404506],[175.15020909892488,-37.74036531426377],[175.15033324971816,-37.74023221074174]]],"type":"Polygon"}
+}

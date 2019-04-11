@@ -1,0 +1,84 @@
+{
+  "id": 101918175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15793.431898,
+    "geom:bbox":"173.855367205,-39.44886952,173.857226073,-39.4464869497",
+    "geom:latitude":-39.447715,
+    "geom:longitude":173.856317,
+    "gn:population":1495,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.447662,
+    "lbl:longitude":173.856211,
+    "mps:latitude":-39.447662,
+    "mps:longitude":173.856211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Opunake"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Opunake",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":513,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020deaae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206357,
+        "gp:id":2349890,
+        "wd:id":"Q995218",
+        "wk:page":"Opunake"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"33f36f4b960291de6afece7cee09c845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101918175,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101918175,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Opunake",
+    "wof:parent_id":102079295,
+    "wof:placetype":"locality",
+    "wof:population":1495,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915197
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.85536720532158,
+    -39.44886951998571,
+    173.8572260732007,
+    -39.44648694966885
+],
+  "geometry": {"coordinates":[[[173.85666391819862,-39.44648694966885],[173.85693517618827,-39.44658285140428],[173.85701472754428,-39.44662547465929],[173.85722607320071,-39.44670669103678],[173.85616780128876,-39.44825491471641],[173.85687722263856,-39.44855541658006],[173.85670398936577,-39.44879769623334],[173.85664165424038,-39.44886951998571],[173.85536720532158,-39.44833300858851],[173.85666391819862,-39.44648694966885]]],"type":"Polygon"}
+}

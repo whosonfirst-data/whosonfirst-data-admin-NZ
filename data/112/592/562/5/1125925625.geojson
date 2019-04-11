@@ -1,0 +1,82 @@
+{
+  "id": 1125925625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.814536,-46.447497,169.814536,-46.447497",
+    "geom:latitude":-46.447497,
+    "geom:longitude":169.814536,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.447497,
+    "lbl:longitude":169.814536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kaimataitai",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Otago",
+    "qs_pg:photos":741,
+    "qs_pg:photos_1k":150,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":741,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":984232,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643021,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Otago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643021,
+        "qs_pg:id":984232
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296630,
+    "wof:geomhash":"d0f1523c083aeb2fa1080d8ee0becaf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":1125925625,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1125925625,
+    "wof:lastmodified":1509401069,
+    "wof:name":"Kaimataitai",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.814536,
+    -46.447497,
+    169.814536,
+    -46.447497
+],
+  "geometry": {"coordinates":[169.814536,-46.447497],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327168519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.48934,-36.30143,175.48934,-36.30143",
+    "geom:latitude":-36.30143,
+    "geom:longitude":175.48934,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Tryphena",
+    "gn:country_code":"NZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2180841,
+    "gn:latitude":-36.30143,
+    "gn:longitude":175.48934,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Tryphena",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180841
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3f3638a2a9be06f2580fc71a17c62205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1327168519,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1327168519,
+    "wof:lastmodified":1537059294,
+    "wof:name":"Tryphena",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.48934,
+    -36.30143,
+    175.48934,
+    -36.30143
+],
+  "geometry": {"coordinates":[175.48934,-36.30143],"type":"Point"}
+}

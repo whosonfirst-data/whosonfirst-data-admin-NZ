@@ -1,0 +1,68 @@
+{
+  "id": 1243394083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.91667,-42.76667,170.91667,-42.76667",
+    "geom:latitude":-42.76667,
+    "geom:longitude":170.91667,
+    "gn:admin1_code":"G3",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Tainui",
+    "gn:country_code":"NZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182020,
+    "gn:latitude":-42.76667,
+    "gn:longitude":170.91667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Tainui",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182020
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"cf1903eb21d277eb7015af7d2f355403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1243394083,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1243394083,
+    "wof:lastmodified":1536880462,
+    "wof:name":"Tainui",
+    "wof:parent_id":102079363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.91666999999995,
+    -42.76667,
+    170.91666999999995,
+    -42.76667
+],
+  "geometry": {"coordinates":[170.91666999999995,-42.76667],"type":"Point"}
+}

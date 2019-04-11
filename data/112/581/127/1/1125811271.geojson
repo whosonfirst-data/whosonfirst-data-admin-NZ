@@ -1,0 +1,100 @@
+{
+  "id": 1125811271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.40056,-38.96861,177.40056,-38.96861",
+    "geom:latitude":-38.96861,
+    "geom:longitude":177.40056,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":302,
+    "gn:population":302,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.96861,
+    "lbl:longitude":177.40056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Frasertown"
+    ],
+    "name:eng_x_preferred":[
+        "Frasertown"
+    ],
+    "name:unk_x_variant":[
+        "Te Kapu"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2190917,
+    "qs_pg:gn_pop":302,
+    "qs_pg:name":"Frasertown",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Hawke's Bay",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":195047,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348564,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Hawke's Bay",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190917,
+        "gp:id":2348564,
+        "qs_pg:id":195047,
+        "wd:id":"Q5493746"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497291666,
+    "wof:geomhash":"c3d5eb241e98b9b7da1a1351ac2e319c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079327,
+            "locality_id":1125811271,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1125811271,
+    "wof:lastmodified":1514494129,
+    "wof:name":"Frasertown",
+    "wof:parent_id":102079327,
+    "wof:placetype":"locality",
+    "wof:population":302,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.40056,
+    -38.96861,
+    177.40056,
+    -38.96861
+],
+  "geometry": {"coordinates":[177.40056000000001,-38.96861],"type":"Point"}
+}

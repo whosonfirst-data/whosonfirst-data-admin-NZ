@@ -1,0 +1,98 @@
+{
+  "id": 101914853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22842.608381,
+    "geom:bbox":"174.01976309,-39.0931747535,174.022304351,-39.0874981511",
+    "geom:latitude":-39.089632,
+    "geom:longitude":174.020965,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.088971,
+    "lbl:longitude":174.021259,
+    "mps:latitude":-39.092153,
+    "mps:longitude":174.020074,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Omata"
+    ],
+    "name:eng_x_preferred":[
+        "Omata"
+    ],
+    "name:mao_x_preferred":[
+        "Omata"
+    ],
+    "name:may_x_preferred":[
+        "Omata"
+    ],
+    "name:mri_x_preferred":[
+        "Omata"
+    ],
+    "name:msa_x_preferred":[
+        "Omata"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Omata",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":255,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d2e5c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185639,
+        "gp:id":2349837,
+        "wd:id":"Q7089902",
+        "wk:page":"Omata"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"21889a26b4356a34c9d05ef84a45d962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101914853,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101914853,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527688593,
+    "wof:name":"Omata",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101918197
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.01976308981452,
+    -39.09317475351949,
+    174.0223043508908,
+    -39.08749815105894
+],
+  "geometry": {"coordinates":[[[[174.02035669757436,-39.09137261898249],[174.02033562992895,-39.09206965549456],[174.02028372972336,-39.09317475351949],[174.02025272825051,-39.09313092953796],[174.01994753596941,-39.09244733093567],[174.01976308981452,-39.09214542296757],[174.01991901600269,-39.0919108161409],[174.02022408259788,-39.09151923182043],[174.02035669757436,-39.09137261898249]]],[[[174.02103037378942,-39.08760413714126],[174.02108615527007,-39.08749815105894],[174.02230435089081,-39.08808056180084],[174.02054510385753,-39.09036164943849],[174.02003916276306,-39.09009908192895],[174.02157469771342,-39.08809555805721],[174.02091782878091,-39.08777737994667],[174.02103037378942,-39.08760413714126]]]],"type":"MultiPolygon"}
+}

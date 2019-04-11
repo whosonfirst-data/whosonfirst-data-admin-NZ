@@ -1,0 +1,89 @@
+{
+  "id": 101916937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26677.110416,
+    "geom:bbox":"168.393205357,-46.3948179761,168.398056929,-46.3932224471",
+    "geom:latitude":-46.393988,
+    "geom:longitude":168.395284,
+    "gn:population":47287,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.394,
+    "lbl:longitude":168.394901,
+    "mps:latitude":-46.394,
+    "mps:longitude":168.394901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waihopai"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Invercargill",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-46.416667,
+    "wd:longitude":168.266667,
+    "wd:wordcount":3975,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0211ad38-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2189529,
+        "gp:id":28644491,
+        "wd:id":"Q31805",
+        "wk:page":"Invercargill"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"232be3faef18eded65679e4140ce8082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101916937,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101916937,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715555,
+    "wof:name":"Invercargill",
+    "wof:parent_id":102079397,
+    "wof:placetype":"locality",
+    "wof:population":47287,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915515
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.39320535732395,
+    -46.39481797606155,
+    168.39805692923778,
+    -46.39322244706905
+],
+  "geometry": {"coordinates":[[[168.39320535732395,-46.3944746008235],[168.39337333412777,-46.39390701585189],[168.39387397363828,-46.39379425281611],[168.39523855288994,-46.3934839257041],[168.3953953334634,-46.39381213601582],[168.39685260123406,-46.39347352849248],[168.39688589458655,-46.39346542218162],[168.39783633228734,-46.39322244706905],[168.39805692923778,-46.39368445871249],[168.39581896377493,-46.39421530824802],[168.3958168871697,-46.39421576444069],[168.39581502435982,-46.39421622925941],[168.39581338290566,-46.39421661299786],[168.39333922426221,-46.39481797606155],[168.39320535732395,-46.3944746008235]]],"type":"Polygon"}
+}

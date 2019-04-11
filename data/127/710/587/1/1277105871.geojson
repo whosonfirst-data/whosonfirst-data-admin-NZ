@@ -1,0 +1,68 @@
+{
+  "id": 1277105871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.80361,-36.81639,174.80361,-36.81639",
+    "geom:latitude":-36.81639,
+    "geom:longitude":174.80361,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Narrow Neck",
+    "gn:country_code":"NZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2207738,
+    "gn:latitude":-36.81639,
+    "gn:longitude":174.80361,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Narrow Neck",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2207738
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4e12288e8ce280f62e7410b4c5b6d5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1277105871,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1277105871,
+    "wof:lastmodified":1536734537,
+    "wof:name":"Narrow Neck",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.80361000000005,
+    -36.81639000000001,
+    174.80361000000005,
+    -36.81639000000001
+],
+  "geometry": {"coordinates":[174.80361000000005,-36.81639000000001],"type":"Point"}
+}

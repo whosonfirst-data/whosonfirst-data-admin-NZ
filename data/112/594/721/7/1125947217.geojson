@@ -1,0 +1,82 @@
+{
+  "id": 1125947217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.1165175,-37.984764,177.1165175,-37.984764",
+    "geom:latitude":-37.984764,
+    "geom:longitude":177.116517,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.984764,
+    "lbl:longitude":177.116517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Port Ohope",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Bay of Plenty",
+    "qs_pg:photos":106,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":106,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1286562,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644266,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Bay of Plenty",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644266,
+        "qs_pg:id":1286562
+    },
+    "wof:country":"NZ",
+    "wof:created":1497297329,
+    "wof:geomhash":"488d0db0b4f8a3bc921278b340285411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
+            "locality_id":1125947217,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1125947217,
+    "wof:lastmodified":1509402458,
+    "wof:name":"Port Ohope",
+    "wof:parent_id":102079291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.1165175,
+    -37.984764,
+    177.1165175,
+    -37.984764
+],
+  "geometry": {"coordinates":[177.11651749999999,-37.984764],"type":"Point"}
+}

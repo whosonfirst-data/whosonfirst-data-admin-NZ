@@ -1,0 +1,81 @@
+{
+  "id": 101918227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13025.133799,
+    "geom:bbox":"175.373425468,-38.9989884643,175.374484049,-38.9971814865",
+    "geom:latitude":-38.998076,
+    "geom:longitude":175.373949,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.998055,
+    "lbl:longitude":175.373955,
+    "mps:latitude":-38.998055,
+    "mps:longitude":175.373955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Owhango"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Owhango",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":619,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de694-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185155,
+        "gp:id":2349980,
+        "qs:id":195074,
+        "wd:id":"Q1652846",
+        "wk:page":"Owhango"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"bd81bc469436c9aa43ceba0729812e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918227,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918227,
+    "wof:lastmodified":1527715669,
+    "wof:name":"Owhango",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914765
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.3734254681002,
+    -38.99898846430255,
+    175.37448404880118,
+    -38.99718148646913
+],
+  "geometry": {"coordinates":[[[175.37367550640357,-38.99718148646913],[175.37448404880118,-38.99728347513979],[175.37427583982904,-38.99848024789918],[175.3741951917616,-38.99898846430255],[175.37343494991171,-38.99888095257447],[175.37342546810021,-38.99887394137837],[175.37352553539961,-38.99829231375018],[175.37352547334234,-38.99829051252559],[175.37367550640357,-38.99718148646913]]],"type":"Polygon"}
+}

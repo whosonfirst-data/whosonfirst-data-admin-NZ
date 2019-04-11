@@ -1,0 +1,90 @@
+{
+  "id": 101917235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":32355.852577,
+    "geom:bbox":"174.148317037,-39.4287712008,174.152806198,-39.4273211986",
+    "geom:latitude":-39.428037,
+    "geom:longitude":174.150665,
+    "gn:population":357,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.427883,
+    "lbl:longitude":174.151441,
+    "mps:latitude":-39.427883,
+    "mps:longitude":174.151441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kaponga"
+    ],
+    "name:eng_x_variant":[
+        "Kaponga Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kaponga",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":544,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dcefc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2189081,
+        "gp:id":2348977,
+        "wd:id":"Q1314736",
+        "wk:page":"Kaponga"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"40f317f401433fcbc6dc4db133b16584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101917235,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101917235,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715907,
+    "wof:name":"Kaponga",
+    "wof:parent_id":102079295,
+    "wof:placetype":"locality",
+    "wof:population":357,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917231
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.14831703682498,
+    -39.428771200825,
+    174.15280619845848,
+    -39.42732119860764
+],
+  "geometry": {"coordinates":[[[174.14837988002614,-39.428771200825],[174.14835745113771,-39.42861557126332],[174.14831703682498,-39.42817549328996],[174.14982839131258,-39.42798636724196],[174.14981143914881,-39.427579265444],[174.15003298166425,-39.42755952695514],[174.15091688892059,-39.42748018949379],[174.15268784221334,-39.42732119860764],[174.15280619845848,-39.42805418793958],[174.15244346819856,-39.42810480715553],[174.15193199039206,-39.42815154990262],[174.15177663889969,-39.42816938295935],[174.15182017780378,-39.42847071725807],[174.15122950835422,-39.42857414279838],[174.15110859991594,-39.42836639337328],[174.15101792139524,-39.42795742404029],[174.15040175689794,-39.4279870562966],[174.15054610073383,-39.42855329781815],[174.14837988002614,-39.428771200825]]],"type":"Polygon"}
+}

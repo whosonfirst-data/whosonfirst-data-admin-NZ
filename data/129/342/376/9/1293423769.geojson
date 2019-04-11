@@ -1,0 +1,68 @@
+{
+  "id": 1293423769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.91667,-43.75,171.91667,-43.75",
+    "geom:latitude":-43.75,
+    "geom:longitude":171.91667,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Somerton",
+    "gn:country_code":"NZ",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182572,
+    "gn:latitude":-43.75,
+    "gn:longitude":171.91667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Somerton",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182572
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4d507f4d4cbd7e262fa3bfd6d1629999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":1293423769,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1293423769,
+    "wof:lastmodified":1536878146,
+    "wof:name":"Somerton",
+    "wof:parent_id":102079371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.91666999999995,
+    -43.75,
+    171.91666999999995,
+    -43.75
+],
+  "geometry": {"coordinates":[171.91666999999995,-43.75],"type":"Point"}
+}

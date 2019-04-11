@@ -1,0 +1,108 @@
+{
+  "id": 85773271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3067891.459729,
+    "geom:bbox":"175.218201,-37.359241,175.218201,-37.359241",
+    "geom:latitude":-37.359241,
+    "geom:longitude":175.218201,
+    "gn:latitude":-37.36667,
+    "gn:longitude":175.23333,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.359241,
+    "lbl:longitude":175.218201,
+    "mps:latitude":-37.359242,
+    "mps:longitude":175.218201,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Waerenga"
+    ],
+    "name:unk_x_variant":[
+        "Waerenga"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2180480,
+    "qs:gn_nam_loc":"Waerenga, Waikato, Waikato District, NZ",
+    "qs:gn_namadm1":"G1",
+    "qs:gn_name":"Waerenga",
+    "qs:local_max":1,
+    "qs:local_sum":1,
+    "qs:localhoods":1,
+    "qs:name":"Waerenga",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Waikato",
+    "qs:name_adm2":"Waikato District",
+    "qs:name_local":"Waerenga",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Town",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021765,
+    "qs:woe_adm2":55875915,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351055,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079265,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2180480,
+        "gp:id":2351055,
+        "qs:id":1154492
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"90427afd2db865d49b7079e6ab5d8610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":-1,
+            "neighbourhood_id":85773271,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":85773271,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859660,
+    "wof:name":"Waerenga",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.218201,
+    -37.359241,
+    175.218201,
+    -37.359241
+],
+  "geometry": {"coordinates":[175.21820099999999,-37.359241],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259614085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.86667,-43.96667,170.86667,-43.96667",
+    "geom:latitude":-43.96667,
+    "geom:longitude":170.86667,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Sherwood Downs",
+    "gn:country_code":"NZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182763,
+    "gn:latitude":-43.96667,
+    "gn:longitude":170.86667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Sherwood Downs",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182763
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"47e84aac78d14acce3dc65663ab1d686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079375,
+            "locality_id":1259614085,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1259614085,
+    "wof:lastmodified":1536670789,
+    "wof:name":"Sherwood Downs",
+    "wof:parent_id":102079375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.86667,
+    -43.96667,
+    170.86667,
+    -43.96667
+],
+  "geometry": {"coordinates":[170.86667,-43.96667],"type":"Point"}
+}

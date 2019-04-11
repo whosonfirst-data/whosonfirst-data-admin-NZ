@@ -1,0 +1,113 @@
+{
+  "id": 85778565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5427646.558901,
+    "geom:bbox":"174.823821,-41.17657,174.823821,-41.17657",
+    "geom:latitude":-41.17657,
+    "geom:longitude":174.823821,
+    "gn:latitude":-41.16827,
+    "gn:longitude":174.81019,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.17657,
+    "lbl:longitude":174.823821,
+    "mps:latitude":-41.177549,
+    "mps:longitude":174.817042,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Redwood"
+    ],
+    "name:unk_x_variant":[
+        "Redwood"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Redwood",
+    "qs:local_max":308,
+    "qs:local_sum":752,
+    "qs:localhoods":5,
+    "qs:name":"Redwood",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Tawa",
+    "qs:photo_max":44,
+    "qs:photo_sum":185,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":252,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914575,
+        102079339,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244947,
+        "gp:id":22726507,
+        "qs:id":985500,
+        "qs_pg:id":985500,
+        "wd:id":"Q7306477",
+        "wk:page":"Redwood, Wellington"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2ed8517351c6915019e5157ecc4f25f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914575,
+            "neighbourhood_id":85778565,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778565,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859810,
+    "wof:name":"Redwood",
+    "wof:parent_id":101914575,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.823821,
+    -41.17657,
+    174.823821,
+    -41.17657
+],
+  "geometry": {"coordinates":[174.82382100000001,-41.17657],"type":"Point"}
+}

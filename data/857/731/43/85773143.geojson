@@ -1,0 +1,109 @@
+{
+  "id": 85773143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3124970.399743,
+    "geom:bbox":"176.84126,-39.522604,176.84126,-39.522604",
+    "geom:latitude":-39.522604,
+    "geom:longitude":176.84126,
+    "gn:latitude":-39.52333,
+    "gn:longitude":176.84417,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.522604,
+    "lbl:longitude":176.84126,
+    "mps:latitude":-39.520022,
+    "mps:longitude":176.83754,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Puk-kura"
+    ],
+    "name:unk_x_variant":[
+        "Puk-kura"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2186313,
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Puk-kura",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Puk-kura",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":71,
+    "qs:photo_sum":140,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079331,
+        85687189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2206823,
+        "gp:id":2350220,
+        "qs:id":1312784,
+        "qs_pg:id":1312784
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e85df469bc2399c7fa67df74522fc983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":-1,
+            "neighbourhood_id":85773143,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":85773143,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859632,
+    "wof:name":"Puk-kura",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.84126,
+    -39.522604,
+    176.84126,
+    -39.522604
+],
+  "geometry": {"coordinates":[176.84126000000001,-39.522604],"type":"Point"}
+}

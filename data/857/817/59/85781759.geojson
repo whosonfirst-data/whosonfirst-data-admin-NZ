@@ -1,0 +1,116 @@
+{
+  "id": 85781759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5193869.540982,
+    "geom:bbox":"175.099348,-41.09707,175.099348,-41.09707",
+    "geom:latitude":-41.09707,
+    "geom:longitude":175.099348,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-41.09707,
+    "lbl:longitude":175.099348,
+    "mps:latitude":-41.109412,
+    "mps:longitude":175.096805,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Emerald Hill"
+    ],
+    "name:deu_x_preferred":[
+        "Emerald Hill"
+    ],
+    "name:eng_x_preferred":[
+        "Emerald Hill"
+    ],
+    "name:swe_x_preferred":[
+        "Emerald Hill"
+    ],
+    "name:unk_x_variant":[
+        "Emerald Hill"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6244895,
+    "qs:gn_nam_loc":"Upper Hutt, Upper Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:local_max":2176,
+    "qs:local_sum":5219,
+    "qs:localhoods":16,
+    "qs:name":"Emerald Hill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Upper Hutt City",
+    "qs:name_local":"Upper Hutt",
+    "qs:photo_max":137,
+    "qs:photo_sum":391,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875896,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351024,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":81,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079335,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644774,
+        "qs:id":242004
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"991015a078ae1a34a78ccb0cfbb9f70a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":-1,
+            "neighbourhood_id":85781759,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85781759,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860266,
+    "wof:name":"Emerald Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.099348,
+    -41.09707,
+    175.099348,
+    -41.09707
+],
+  "geometry": {"coordinates":[175.09934799999999,-41.09707],"type":"Point"}
+}

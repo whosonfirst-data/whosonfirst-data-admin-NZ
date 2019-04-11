@@ -1,0 +1,81 @@
+{
+  "id": 101915493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5933.636522,
+    "geom:bbox":"169.369068078,-46.2039147338,169.370835595,-46.2033800509",
+    "geom:latitude":-46.203627,
+    "geom:longitude":169.369904,
+    "gn:population":343,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.203633,
+    "lbl:longitude":169.369923,
+    "mps:latitude":-46.203633,
+    "mps:longitude":169.369923,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Clinton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Clinton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de504-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192285,
+        "gp:id":2348355
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e322b151cfa0d752c43ceffaf982d554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101915493,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101915493,
+    "wof:lastmodified":1505338674,
+    "wof:name":"Clinton",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:population":343,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914563
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.36906807796146,
+    -46.20391473378028,
+    169.3708355949935,
+    -46.20338005088816
+],
+  "geometry": {"coordinates":[[[169.36906807796146,-46.20376399865273],[169.36908713886814,-46.20338005088816],[169.37043919429362,-46.20343201360231],[169.37083559499351,-46.20354223494665],[169.3704995077548,-46.20391473378028],[169.36906807796146,-46.20376399865273]]],"type":"Polygon"}
+}

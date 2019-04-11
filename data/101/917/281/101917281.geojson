@@ -1,0 +1,79 @@
+{
+  "id": 101917281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16791.52812,
+    "geom:bbox":"175.413936389,-39.4032525089,175.418735716,-39.4004253251",
+    "geom:latitude":-39.401778,
+    "geom:longitude":175.41631,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.401129,
+    "lbl:longitude":175.415319,
+    "mps:latitude":-39.401129,
+    "mps:longitude":175.415319,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ohakune"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ohakune",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1424,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6225082,
+        "gp:id":2349776,
+        "wd:id":"Q2016369",
+        "wk:page":"Ohakune"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1b7b86454e4fe1afa521458e08c15295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101917281,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101917281,
+    "wof:lastmodified":1527715907,
+    "wof:name":"Ohakune",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914531
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.41393638850036,
+    -39.40325250886766,
+    175.41873571626192,
+    -39.40042532514182
+],
+  "geometry": {"coordinates":[[[175.41726802920886,-39.4021507958653],[175.41873571626192,-39.40298837807818],[175.41856266800826,-39.40325250886766],[175.41851486914274,-39.40321477253651],[175.41850416766081,-39.40320779023116],[175.4169601740621,-39.40234577121298],[175.41619342575143,-39.40191767647698],[175.41425230279739,-39.40079631374481],[175.41393638850036,-39.40056689834726],[175.41393748582016,-39.40056507256237],[175.41419508069174,-39.40042532514182],[175.41437823323298,-39.4005133626894],[175.41454076462736,-39.4005766033829],[175.41513302684226,-39.4009344326286],[175.41533520577005,-39.40083731503677],[175.41565145837251,-39.40110907683667],[175.41558577038779,-39.40118977878401],[175.41726802920886,-39.4021507958653]]],"type":"Polygon"}
+}

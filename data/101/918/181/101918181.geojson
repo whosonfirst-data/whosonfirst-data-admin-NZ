@@ -1,0 +1,93 @@
+{
+  "id": 101918181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25369.836362,
+    "geom:bbox":"174.481678278,-39.7588810563,174.483997202,-39.7574373862",
+    "geom:latitude":-39.758158,
+    "geom:longitude":174.482737,
+    "gn:population":1286,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.758185,
+    "lbl:longitude":174.482558,
+    "mps:latitude":-39.758185,
+    "mps:longitude":174.482558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Patea"
+    ],
+    "name:eng_x_preferred":[
+        "Patea"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c6\u30a2"
+    ],
+    "name:msa_x_preferred":[
+        "Patea"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Patea",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":939,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dd852-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206361,
+        "gp:id":2350088,
+        "wd:id":"Q2056659",
+        "wk:page":"Patea"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9f66b95d05b0fb6fce977b200caa8457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101918181,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101918181,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Patea",
+    "wof:parent_id":102079295,
+    "wof:placetype":"locality",
+    "wof:population":1286,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914937
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.48167827783075,
+    -39.7588810562513,
+    174.48399720227906,
+    -39.75743738615656
+],
+  "geometry": {"coordinates":[[[174.48167827783075,-39.75749283783515],[174.48292285365997,-39.75750443970887],[174.48301220156156,-39.75750570324907],[174.48315834490575,-39.75743738615656],[174.48315413539825,-39.75767078653342],[174.48397906183934,-39.75770769798142],[174.48399720227906,-39.75853090178897],[174.48313495189461,-39.75854853610126],[174.48312826810655,-39.7588810562513],[174.48214672856184,-39.75886037222261],[174.48175837274397,-39.7588521827651],[174.48167827783075,-39.75749283783515]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293818905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.1,-44.45,171.1,-44.45",
+    "geom:latitude":-44.45,
+    "geom:longitude":171.1,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"66.0",
+    "gn:asciiname":"Southburn",
+    "gn:country_code":"NZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182523,
+    "gn:latitude":-44.45,
+    "gn:longitude":171.1,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Southburn",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182523
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3e6a3c3c580bf3d144cd54159125bd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079379,
+            "locality_id":1293818905,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1293818905,
+    "wof:lastmodified":1536806145,
+    "wof:name":"Southburn",
+    "wof:parent_id":102079379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.1,
+    -44.45,
+    171.1,
+    -44.45
+],
+  "geometry": {"coordinates":[171.09999999999999,-44.45],"type":"Point"}
+}

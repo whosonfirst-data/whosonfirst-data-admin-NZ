@@ -1,0 +1,95 @@
+{
+  "id": 1125997717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.7,-36.88333,174.7,-36.88333",
+    "geom:latitude":-36.88333,
+    "geom:longitude":174.7,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.88333,
+    "lbl:longitude":174.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Avondale"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0648\u0646\u0688\u06cc\u0644\u060c \u0622\u06a9\u0644\u06cc\u0646\u0688"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2193703,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Avondale",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Auckland Region",
+    "qs_pg:photos":112,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":15,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3363,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":288260,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348086,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Auckland Region",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193703,
+        "gp:id":2348086,
+        "qs_pg:id":288260,
+        "wd:id":"Q4829275"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497299454,
+    "wof:geomhash":"46a4250f86636c7f06abd791836b2007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1125997717,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1125997717,
+    "wof:lastmodified":1514493927,
+    "wof:name":"Avondale",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.7,
+    -36.88333,
+    174.7,
+    -36.88333
+],
+  "geometry": {"coordinates":[174.69999999999999,-36.88333],"type":"Point"}
+}

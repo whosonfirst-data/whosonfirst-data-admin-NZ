@@ -1,0 +1,80 @@
+{
+  "id": 101917461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":53352.074093,
+    "geom:bbox":"176.447224604,-39.8206396012,176.451434993,-39.8186326292",
+    "geom:latitude":-39.819613,
+    "geom:longitude":176.449405,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.819548,
+    "lbl:longitude":176.449566,
+    "mps:latitude":-39.819548,
+    "mps:longitude":176.449566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tikokino"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tikokino",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dec7a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181146,
+        "gp:id":2350908,
+        "wd:id":"Q7801963",
+        "wk:page":"Tikokino"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"69dae713bb5ce879f805fb0284f2a81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101917461,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101917461,
+    "wof:lastmodified":1527715914,
+    "wof:name":"Tikokino",
+    "wof:parent_id":102079333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917459
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.44722460371298,
+    -39.82063960120431,
+    176.451434992811,
+    -39.81863262915454
+],
+  "geometry": {"coordinates":[[[176.44785585627517,-39.81870977540432],[176.44812040591373,-39.81875934212386],[176.44909082899073,-39.81894115730907],[176.44918757649552,-39.8187037239011],[176.45143499281099,-39.81919685460158],[176.45116696702834,-39.81995406486985],[176.45141229722532,-39.82000230166054],[176.45136014397539,-39.82013164789241],[176.45117557405064,-39.82063960120431],[176.44840652652542,-39.82007087334532],[176.44828930067078,-39.820526148191],[176.44752761220494,-39.8203954795753],[176.4477997630398,-39.8194887908906],[176.44785536521107,-39.81930354586494],[176.44767705504157,-39.81926850508837],[176.44722460371298,-39.81917748883558],[176.4473185439235,-39.81894227384399],[176.44744411447971,-39.81863262915454],[176.44785585627517,-39.81870977540432]]],"type":"Polygon"}
+}

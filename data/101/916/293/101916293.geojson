@@ -1,0 +1,85 @@
+{
+  "id": 101916293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":93476.140233,
+    "geom:bbox":"175.273240129,-40.4681406793,175.277569141,-40.4635410454",
+    "geom:latitude":-40.465481,
+    "geom:longitude":175.275481,
+    "gn:population":4780,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.465353,
+    "lbl:longitude":175.274967,
+    "mps:latitude":-40.465353,
+    "mps:longitude":175.274967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Foxton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Foxton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1214,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de996-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206369,
+        "gp:id":2348556,
+        "qs:id":278259,
+        "wd:id":"Q985095",
+        "wk:page":"Foxton, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ba944ed38c3e1abd66c669fa86da12b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101916293,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101916293,
+    "wof:lastmodified":1527715558,
+    "wof:name":"Foxton",
+    "wof:parent_id":102079313,
+    "wof:placetype":"locality",
+    "wof:population":4780,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914367
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.27324012880928,
+    -40.46814067927237,
+    175.27756914061536,
+    -40.46354104538952
+],
+  "geometry": {"coordinates":[[[175.27372065714061,-40.46538572024836],[175.27389512235223,-40.46496423752741],[175.2744783374425,-40.46355085119342],[175.27456426677071,-40.46354554943694],[175.27547592482543,-40.46354104538952],[175.27637996051646,-40.46379885892249],[175.27739266826768,-40.46371305872095],[175.27658648113996,-40.46533268111275],[175.27608194827971,-40.46534265832804],[175.27607829639712,-40.46554814495541],[175.27598114324977,-40.46581404154991],[175.27573936245119,-40.46619811781641],[175.27566350391194,-40.46632665008531],[175.27583167202906,-40.4663809856532],[175.27756914061536,-40.46693403528718],[175.2775214428716,-40.4670232712378],[175.27687160236604,-40.46814067927237],[175.2750341772703,-40.46679676725673],[175.27396900216525,-40.46634482061622],[175.27324012880928,-40.4661745242156],[175.27360656525639,-40.46553482707989],[175.27372065714061,-40.46538572024836]]],"type":"Polygon"}
+}

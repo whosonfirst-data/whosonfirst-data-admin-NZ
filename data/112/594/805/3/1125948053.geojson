@@ -1,0 +1,89 @@
+{
+  "id": 1125948053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.597038,-41.795762,172.597038,-41.795762",
+    "geom:latitude":-41.795762,
+    "geom:longitude":172.597038,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.795762,
+    "lbl:longitude":172.597038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rotoroa"
+    ],
+    "name:eng_x_preferred":[
+        "Rotoroa"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rotoroa",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Tasman",
+    "qs_pg:photos":143,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":143,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230260,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644617,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Tasman",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644617,
+        "qs_pg:id":230260,
+        "wd:id":"Q7370595"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497297356,
+    "wof:geomhash":"2382c49ddb6f61b2493acee68213f909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1125948053,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1125948053,
+    "wof:lastmodified":1514494415,
+    "wof:name":"Rotoroa",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.597038,
+    -41.795762,
+    172.597038,
+    -41.795762
+],
+  "geometry": {"coordinates":[172.597038,-41.795762],"type":"Point"}
+}

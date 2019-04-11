@@ -1,0 +1,68 @@
+{
+  "id": 1242907507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.41834,-40.12742,175.41834,-40.12742",
+    "geom:latitude":-40.12742,
+    "geom:longitude":175.41834,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Greatford",
+    "gn:country_code":"NZ",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2190501,
+    "gn:latitude":-40.12742,
+    "gn:longitude":175.41834,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Greatford",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190501
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b7523cab8689775cd34102ae0b6e2934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":1242907507,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1242907507,
+    "wof:lastmodified":1537082383,
+    "wof:name":"Greatford",
+    "wof:parent_id":102079301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.41834,
+    -40.12742,
+    175.41834,
+    -40.12742
+],
+  "geometry": {"coordinates":[175.41834,-40.12742],"type":"Point"}
+}

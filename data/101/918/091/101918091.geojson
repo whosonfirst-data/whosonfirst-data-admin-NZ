@@ -1,0 +1,83 @@
+{
+  "id": 101918091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15164.039979,
+    "geom:bbox":"175.033082997,-41.1408819932,175.035747235,-41.1394967201",
+    "geom:latitude":-41.140149,
+    "geom:longitude":175.034367,
+    "gn:population":38400,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.140109,
+    "lbl:longitude":175.034282,
+    "mps:latitude":-41.140109,
+    "mps:longitude":175.034282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Upper Hutt"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Upper Hutt",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020adf3a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6244895,
+        "gp:id":2351024,
+        "wd:id":"Q166002",
+        "wk:page":"Upper Hutt"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"38b7146343740a8821fb1fe46110d80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":101918091,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918091,
+    "wof:lastmodified":1505338687,
+    "wof:name":"Upper Hutt",
+    "wof:parent_id":102079335,
+    "wof:placetype":"locality",
+    "wof:population":38400,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914809
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.03308299676948,
+    -41.14088199316183,
+    175.03574723513697,
+    -41.13949672012495
+],
+  "geometry": {"coordinates":[[[175.03308299676948,-41.1401939773051],[175.03507961161083,-41.13949672012495],[175.03563945602198,-41.14007298689311],[175.03574723513697,-41.14020012903351],[175.03543643762805,-41.14043057843094],[175.03480277771556,-41.14018692431276],[175.03338887506348,-41.14088199316183],[175.03308299676948,-41.1401939773051]]],"type":"Polygon"}
+}

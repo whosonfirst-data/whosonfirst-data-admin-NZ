@@ -1,0 +1,105 @@
+{
+  "id": 85782481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14439209.700285,
+    "geom:bbox":"177.2858,-38.008263,177.2858,-38.008263",
+    "geom:latitude":-38.008263,
+    "geom:longitude":177.2858,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-38.008263,
+    "lbl:longitude":177.2858,
+    "mps:latitude":-38.010905,
+    "mps:longitude":177.284958,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Opotiki Central"
+    ],
+    "name:unk_x_variant":[
+        "Opotiki Central"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6237304,
+    "qs:gn_nam_loc":"opotiki",
+    "qs:gn_namadm1":"F1",
+    "qs:local_max":71,
+    "qs:local_sum":71,
+    "qs:localhoods":1,
+    "qs:name":"Opotiki Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Opotiki District",
+    "qs:name_local":"Opotiki",
+    "qs:photo_max":21,
+    "qs:photo_sum":71,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875861,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349883,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079321,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676756,
+        "qs:id":980528
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f9f2ad55c2920c7ea46e293a1ae86e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079321,
+            "locality_id":-1,
+            "neighbourhood_id":85782481,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":85782481,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860375,
+    "wof:name":"Opotiki Central",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.2858,
+    -38.008263,
+    177.2858,
+    -38.008263
+],
+  "geometry": {"coordinates":[177.28579999999999,-38.008263],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85781661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12409525.518642,
+    "geom:bbox":"168.327913,-46.592996,168.327913,-46.592996",
+    "geom:latitude":-46.592996,
+    "geom:longitude":168.327913,
+    "gn:latitude":-46.59722,
+    "gn:longitude":168.32917,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.592996,
+    "lbl:longitude":168.327913,
+    "mps:latitude":-46.595038,
+    "mps:longitude":168.31877,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "West End"
+    ],
+    "name:eng_x_variant":[
+        "W End"
+    ],
+    "name:unk_x_variant":[
+        "West End"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2206939,
+    "qs:gn_nam_loc":"Bluff, Invercargill City, Southland, NZ",
+    "qs:gn_namadm1":"F8",
+    "qs:gn_name":"West End",
+    "qs:local_max":579,
+    "qs:local_sum":831,
+    "qs:localhoods":3,
+    "qs:name":"West End",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Southland",
+    "qs:name_adm2":"Invercargill City",
+    "qs:name_local":"Bluff",
+    "qs:photo_max":27,
+    "qs:photo_sum":123,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021750,
+    "qs:woe_adm2":55875899,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348202,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208084,
+        "gp:id":28644576,
+        "qs:id":357212,
+        "qs_pg:id":357212
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"98aae7053329fce3e59f486cfbd8bd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":85781661,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":85781661,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860248,
+    "wof:name":"West End",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.327913,
+    -46.592996,
+    168.327913,
+    -46.592996
+],
+  "geometry": {"coordinates":[168.327913,-46.592996],"type":"Point"}
+}

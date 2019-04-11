@@ -1,0 +1,109 @@
+{
+  "id": 85781267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1881705.595582,
+    "geom:bbox":"174.797852,-36.81408,174.797852,-36.81408",
+    "geom:latitude":-36.81408,
+    "geom:longitude":174.797852,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.81408,
+    "lbl:longitude":174.797852,
+    "mps:latitude":-36.814292,
+    "mps:longitude":174.791747,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Narrow Neck"
+    ],
+    "name:eng_x_preferred":[
+        "Narrow Neck"
+    ],
+    "name:swe_x_preferred":[
+        "Narrow Neck"
+    ],
+    "name:unk_x_variant":[
+        "Narrow Neck"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Narrow Neck",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":80,
+    "qs:photo_sum":291,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":35,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101915597,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644221
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d2e52fafd7b2f39d3cb7a046743c56bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915597,
+            "neighbourhood_id":85781267,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85781267,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860175,
+    "wof:name":"Narrow Neck",
+    "wof:parent_id":101915597,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.797852,
+    -36.81408,
+    174.797852,
+    -36.81408
+],
+  "geometry": {"coordinates":[174.79785200000001,-36.81408],"type":"Point"}
+}

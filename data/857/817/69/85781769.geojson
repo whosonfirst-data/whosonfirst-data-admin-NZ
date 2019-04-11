@@ -1,0 +1,110 @@
+{
+  "id": 85781769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2026567.749312,
+    "geom:bbox":"173.92078,-41.525541,173.92078,-41.525541",
+    "geom:latitude":-41.525541,
+    "geom:longitude":173.92078,
+    "gn:latitude":-41.52828,
+    "gn:longitude":173.93018,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.525541,
+    "lbl:longitude":173.92078,
+    "mps:latitude":-41.521655,
+    "mps:longitude":173.919468,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Burleigh"
+    ],
+    "name:unk_x_variant":[
+        "Burleigh"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":6243926,
+    "qs:gn_nam_loc":"Blenheim, Marlborough District, Marlborough, NZ",
+    "qs:gn_namadm1":"F4",
+    "qs:gn_name":"Burleigh",
+    "qs:local_max":470,
+    "qs:local_sum":1969,
+    "qs:localhoods":15,
+    "qs:name":"Burleigh",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Marlborough",
+    "qs:name_adm2":"Marlborough District",
+    "qs:name_local":"Blenheim",
+    "qs:photo_max":11,
+    "qs:photo_sum":16,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021759,
+    "qs:woe_adm2":55875875,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348195,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079353,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6243997,
+        "gp:id":28644777,
+        "qs:id":1182375,
+        "qs_pg:id":1182375
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"59f7ffb1bb3e56750ca9b361975fddaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":-1,
+            "neighbourhood_id":85781769,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":85781769,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860268,
+    "wof:name":"Burleigh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.92078,
+    -41.525541,
+    173.92078,
+    -41.525541
+],
+  "geometry": {"coordinates":[173.92078000000001,-41.525541],"type":"Point"}
+}

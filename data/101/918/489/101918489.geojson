@@ -1,0 +1,83 @@
+{
+  "id": 101918489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6258.77316,
+    "geom:bbox":"174.699752043,-36.7877646517,174.700681173,-36.7862115132",
+    "geom:latitude":-36.78712,
+    "geom:longitude":174.700189,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.787186,
+    "lbl:longitude":174.700236,
+    "mps:latitude":-36.787184,
+    "mps:longitude":174.700234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Glenfield"
+    ],
+    "name:eng_x_preferred":[
+        "Glenfield"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Glenfield",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190724,
+        "gp:id":2348603,
+        "qs:id":1059311,
+        "qs_pg:id":1059311,
+        "wd:id":"Q5568502"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"52a76be6584ec71e37a49c28c14ebcd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101918489,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101918489,
+    "wof:lastmodified":1527715676,
+    "wof:name":"Glenfield",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.69975204346554,
+    -36.78776465173971,
+    174.70068117282537,
+    -36.78621151320437
+],
+  "geometry": {"coordinates":[[[174.70012457807746,-36.78621151320437],[174.70068117282537,-36.78735444979252],[174.69975563631979,-36.78776465173971],[174.69975204346554,-36.78771495800392],[174.70001253917596,-36.78678662500062],[174.70001339527622,-36.78678354876174],[174.7000140705122,-36.78678065538084],[174.70001465343495,-36.78677776322951],[174.70012457807746,-36.78621151320437]]],"type":"Polygon"}
+}

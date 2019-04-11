@@ -1,0 +1,72 @@
+{
+  "id": 1243490633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.71667,-46.23333,169.71667,-46.23333",
+    "geom:latitude":-46.23333,
+    "geom:longitude":169.71667,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Barnego",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2193556,
+    "gn:latitude":-46.23333,
+    "gn:longitude":169.71667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Barnego",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barnego Flat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193556
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"060689b8dad4f0b3c783bc5ea98836ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":1243490633,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1243490633,
+    "wof:lastmodified":1537676147,
+    "wof:name":"Barnego",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.71667,
+    -46.23333,
+    169.71667,
+    -46.23333
+],
+  "geometry": {"coordinates":[169.71666999999999,-46.23333],"type":"Point"}
+}

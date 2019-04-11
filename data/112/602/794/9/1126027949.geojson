@@ -1,0 +1,101 @@
+{
+  "id": 1126027949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.45,-39.66667,174.45,-39.66667",
+    "geom:latitude":-39.66667,
+    "geom:longitude":174.45,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.66667,
+    "lbl:longitude":174.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Alton"
+    ],
+    "name:eng_x_preferred":[
+        "Alton"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062a\u0648\u0646\u060c \u0646\u06cc\u0648 \u0632\u0644\u0646\u062f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0679\u0646\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2193971,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Alton",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Taranaki",
+    "qs_pg:photos":107,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":107,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":319520,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348006,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Taranaki",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193971,
+        "gp:id":2348006,
+        "qs_pg:id":319520,
+        "wd:id":"Q4736853"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497301258,
+    "wof:geomhash":"113d15962f345d7119c8724d9298606b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":1126027949,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1126027949,
+    "wof:lastmodified":1514493735,
+    "wof:name":"Alton",
+    "wof:parent_id":102079295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.45,
+    -39.66667,
+    174.45,
+    -39.66667
+],
+  "geometry": {"coordinates":[174.44999999999999,-39.66667],"type":"Point"}
+}

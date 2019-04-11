@@ -1,0 +1,104 @@
+{
+  "id": 85781353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16749854.511854,
+    "geom:bbox":"178.106769,-38.661772,178.106769,-38.661772",
+    "geom:latitude":-38.661772,
+    "geom:longitude":178.106769,
+    "gn:latitude":-38.66824,
+    "gn:longitude":178.08021,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.661772,
+    "lbl:longitude":178.106769,
+    "mps:latitude":-38.661772,
+    "mps:longitude":178.106769,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Okitu"
+    ],
+    "name:unk_x_variant":[
+        "Okitu"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2206854,
+    "qs:gn_namadm1":"F1",
+    "qs:gn_name":"Okitu",
+    "qs:local_max":317,
+    "qs:local_sum":1233,
+    "qs:localhoods":9,
+    "qs:name":"Okitu",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Gisborne",
+    "qs:name_adm2":"Gisborne District",
+    "qs:name_local":"Gisborne",
+    "qs:photo_max":59,
+    "qs:photo_sum":160,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021761,
+    "qs:woe_adm2":55875882,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348582,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6240065,
+        "gp:id":28644277,
+        "qs:id":230146,
+        "qs_pg:id":230146
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"337231d80f7d8ff8d1b4640a0ecb50af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":85781353,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":85781353,
+    "wof:lastmodified":1531860193,
+    "wof:name":"Okitu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.106769,
+    -38.661772,
+    178.106769,
+    -38.661772
+],
+  "geometry": {"coordinates":[178.10676900000001,-38.661772],"type":"Point"}
+}

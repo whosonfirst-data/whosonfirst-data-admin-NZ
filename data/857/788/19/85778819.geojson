@@ -1,0 +1,106 @@
+{
+  "id": 85778819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11452880.022499,
+    "geom:bbox":"176.268293,-37.690268,176.268293,-37.690268",
+    "geom:latitude":-37.690268,
+    "geom:longitude":176.268293,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-37.690268,
+    "lbl:longitude":176.268293,
+    "mps:latitude":-37.689536,
+    "mps:longitude":176.260701,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Papamoa Beach West"
+    ],
+    "name:unk_x_variant":[
+        "Papamoa Beach West"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2208032,
+    "qs:gn_nam_loc":"Tauranga, Tauranga City, Bay of Plenty, NZ",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Papamoa Beach",
+    "qs:local_max":2147,
+    "qs:local_sum":7947,
+    "qs:localhoods":21,
+    "qs:name":"Papamoa Beach West",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Tauranga City",
+    "qs:name_local":"Tauranga",
+    "qs:photo_max":48,
+    "qs:photo_sum":119,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875891,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350751,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079285,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726613,
+        "qs:id":1262854
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5ba7a9279b595557d622319f7f03da39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":-1,
+            "neighbourhood_id":85778819,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":85778819,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859836,
+    "wof:name":"Papamoa Beach West",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.268293,
+    -37.690268,
+    176.268293,
+    -37.690268
+],
+  "geometry": {"coordinates":[176.268293,-37.690268],"type":"Point"}
+}

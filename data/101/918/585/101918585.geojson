@@ -1,0 +1,77 @@
+{
+  "id": 101918585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18055.257124,
+    "geom:bbox":"174.499275497,-35.5674252456,174.500617952,-35.5652574815",
+    "geom:latitude":-35.56649,
+    "geom:longitude":174.50004,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.566633,
+    "lbl:longitude":174.500041,
+    "mps:latitude":-35.566633,
+    "mps:longitude":174.500041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Matapouri"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Matapouri",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187187,
+        "gp:id":2349464,
+        "qs:id":494052
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1824745bcac8f56d2b6da462a9d3cf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101918585,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918585,
+    "wof:lastmodified":1487270015,
+    "wof:name":"Matapouri",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916863
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.49927549681615,
+    -35.5674252455854,
+    174.50061795220824,
+    -35.56525748145048
+],
+  "geometry": {"coordinates":[[[174.49927549681615,-35.56688459258059],[174.49930328607175,-35.56684363294974],[174.49988334901516,-35.56602400869698],[174.50008016321348,-35.56538661496307],[174.50012184436642,-35.56525748145048],[174.50016671585627,-35.56527100885573],[174.50018194613935,-35.56527560035609],[174.50061795220824,-35.56532284449248],[174.50055793219448,-35.56586357901212],[174.50049286119585,-35.56726019351913],[174.49992111462586,-35.56730335206472],[174.4997301072404,-35.56739716069904],[174.4993130678811,-35.5674252455854],[174.49931085928725,-35.56739346372242],[174.49927549681615,-35.56688459258059]]],"type":"Polygon"}
+}

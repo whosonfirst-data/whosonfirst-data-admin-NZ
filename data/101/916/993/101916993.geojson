@@ -1,0 +1,90 @@
+{
+  "id": 101916993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":38803.321088,
+    "geom:bbox":"169.311551322,-45.5506942328,169.313508117,-45.5462041938",
+    "geom:latitude":-45.548343,
+    "geom:longitude":169.312679,
+    "gn:population":600,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.548278,
+    "lbl:longitude":169.312688,
+    "mps:latitude":-45.548278,
+    "mps:longitude":169.312688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Roxburgh"
+    ],
+    "name:eng_x_preferred":[
+        "Roxburgh"
+    ],
+    "name:msa_x_preferred":[
+        "Roxburgh"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Roxburgh",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":461,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dccfe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6208093,
+        "gp:id":2350472,
+        "wd:id":"Q2170720",
+        "wk:page":"Roxburgh, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fec8c3d7e46dc0fd1d8c7f2c2939938f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079383,
+            "locality_id":101916993,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101916993,
+    "wof:lastmodified":1527715562,
+    "wof:name":"Roxburgh",
+    "wof:parent_id":102079383,
+    "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915299
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.31155132224333,
+    -45.55069423276036,
+    169.3135081168834,
+    -45.54620419384253
+],
+  "geometry": {"coordinates":[[[169.31350811688341,-45.55069423276036],[169.31274942809,-45.55054884248842],[169.31241739315232,-45.55002410802326],[169.31240903732677,-45.54928794340589],[169.31218918945328,-45.54841003424522],[169.31202792654759,-45.54790146318295],[169.31239478190199,-45.54777695908938],[169.31243021572817,-45.54764295982733],[169.31193509046116,-45.54762742878824],[169.31155132224333,-45.54715060835782],[169.31177643851157,-45.54665415804173],[169.31288055167857,-45.54620419384253],[169.3129521960044,-45.5462064407931],[169.31295420682474,-45.5462353274811],[169.31295403553352,-45.54623802425735],[169.31300805056648,-45.54667927834711],[169.31350811688341,-45.55069423276036]]],"type":"Polygon"}
+}

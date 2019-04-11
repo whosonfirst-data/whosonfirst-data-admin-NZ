@@ -1,0 +1,77 @@
+{
+  "id": 101918581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":41082.21644,
+    "geom:bbox":"174.342111305,-35.3922943698,174.345662515,-35.3901656587",
+    "geom:latitude":-35.391299,
+    "geom:longitude":174.343545,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.391316,
+    "lbl:longitude":174.343064,
+    "mps:latitude":-35.391316,
+    "mps:longitude":174.343064,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Oakura"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Oakura",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1606,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644848,
+        "wd:id":"Q2160225"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5d046ba999fc29407b2248a883aad893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101918581,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918581,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Oakura",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915063
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.34211130452437,
+    -35.39229436976064,
+    174.34566251544922,
+    -35.39016565868919
+],
+  "geometry": {"coordinates":[[[174.34226026939373,-35.39067643728946],[174.34248484993796,-35.39050368445046],[174.34324256961068,-35.39016565868919],[174.34356999998803,-35.39081063867995],[174.34443984007515,-35.39055602523439],[174.34566251544922,-35.3921595011649],[174.34548356477717,-35.39229436976064],[174.34463182261823,-35.39167800770804],[174.34397079381571,-35.39190191472054],[174.34359388364308,-35.39201948383764],[174.34285634057773,-35.39208131794052],[174.34214660950727,-35.39192576980319],[174.34211130452437,-35.39095691906908],[174.34226026939373,-35.39067643728946]]],"type":"Polygon"}
+}

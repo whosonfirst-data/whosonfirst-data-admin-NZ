@@ -1,0 +1,116 @@
+{
+  "id": 85773255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4462475.659047,
+    "geom:bbox":"174.655964,-36.93701,174.655964,-36.93701",
+    "geom:latitude":-36.93701,
+    "geom:longitude":174.655964,
+    "gn:latitude":-36.93754,
+    "gn:longitude":174.65584,
+    "gn:population":3330,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.93701,
+    "lbl:longitude":174.655964,
+    "mps:latitude":-36.943894,
+    "mps:longitude":174.645712,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Titirangi"
+    ],
+    "name:unk_x_variant":[
+        "Titirangi"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7302484,
+    "qs:gn_nam_loc":"waitakere",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Titirangi",
+    "qs:local_max":282,
+    "qs:local_sum":2234,
+    "qs:localhoods":18,
+    "qs:name":"Titirangi",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Waitakere",
+    "qs:photo_max":113,
+    "qs:photo_sum":279,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":28644854,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232280,
+        "gp:id":2350933,
+        "qs:id":241962,
+        "qs_pg:id":241962,
+        "wd:id":"Q6517338",
+        "wk:page":"Titirangi"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"04259fbc40f9582d2d209193c65cbd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85773255,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85773255,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859657,
+    "wof:name":"Titirangi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":3330,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.655964,
+    -36.93701,
+    174.655964,
+    -36.93701
+],
+  "geometry": {"coordinates":[174.65596400000001,-36.93701],"type":"Point"}
+}

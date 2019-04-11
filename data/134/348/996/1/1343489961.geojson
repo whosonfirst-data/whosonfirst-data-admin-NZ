@@ -1,0 +1,68 @@
+{
+  "id": 1343489961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.22909,-39.32367,174.22909,-39.32367",
+    "geom:latitude":-39.32367,
+    "geom:longitude":174.22909,
+    "gn:admin1_code":"F9",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Pembroke",
+    "gn:country_code":"NZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10126014,
+    "gn:latitude":-39.32367,
+    "gn:longitude":174.22909,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Pembroke",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10126014
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"eb27df68d6e88a1ea59895ab2335d522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079293,
+            "locality_id":1343489961,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1343489961,
+    "wof:lastmodified":1536704013,
+    "wof:name":"Pembroke",
+    "wof:parent_id":102079293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.22909,
+    -39.32367,
+    174.22909,
+    -39.32367
+],
+  "geometry": {"coordinates":[174.22909000000001,-39.32367],"type":"Point"}
+}

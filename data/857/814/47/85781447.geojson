@@ -1,0 +1,112 @@
+{
+  "id": 85781447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":57570.162069,
+    "geom:bbox":"170.490632,-45.894082,170.490632,-45.894082",
+    "geom:latitude":-45.894082,
+    "geom:longitude":170.490632,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-45.894082,
+    "lbl:longitude":170.490632,
+    "mps:latitude":-45.894068,
+    "mps:longitude":170.491167,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Clyde Hill"
+    ],
+    "name:eng_x_preferred":[
+        "Clyde Hill"
+    ],
+    "name:swe_x_preferred":[
+        "Clyde Hill"
+    ],
+    "name:unk_x_variant":[
+        "Clyde Hill"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2191562,
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Clyde Hill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":38,
+    "qs:photo_sum":76,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":15,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644368,
+        "qs:id":180267,
+        "qs_pg:id":180267
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c44890aafa32d443b1ab2d4c0846a9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":-1,
+            "neighbourhood_id":85781447,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85781447,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860209,
+    "wof:name":"Clyde Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.490632,
+    -45.894082,
+    170.490632,
+    -45.894082
+],
+  "geometry": {"coordinates":[170.49063200000001,-45.894082],"type":"Point"}
+}

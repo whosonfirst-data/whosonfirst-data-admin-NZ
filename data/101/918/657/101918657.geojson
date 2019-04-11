@@ -1,0 +1,84 @@
+{
+  "id": 101918657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2663.282009,
+    "geom:bbox":"167.609222329,-45.56887346,167.610703729,-45.5686318037",
+    "geom:latitude":-45.568763,
+    "geom:longitude":167.609956,
+    "gn:population":248,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.568766,
+    "lbl:longitude":167.609985,
+    "mps:latitude":-45.568766,
+    "mps:longitude":167.609985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Manapouri"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Manapouri",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":436,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de00e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2187816,
+        "gp:id":2349328,
+        "wd:id":"Q1888660",
+        "wk:page":"Manapouri"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c828af67efff19574b46842c0492a000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101918657,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":101918657,
+    "wof:lastmodified":1527715672,
+    "wof:name":"Manapouri",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914877
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.60922232883541,
+    -45.56887346004337,
+    167.61070372907724,
+    -45.56863180369331
+],
+  "geometry": {"coordinates":[[[167.61070372907724,-45.56866160828309],[167.61069635050771,-45.56886551962235],[167.60952497062166,-45.56887346004337],[167.60933310724994,-45.56886033985104],[167.6092226718809,-45.56883686177108],[167.60922361476369,-45.56879598230467],[167.60922232883541,-45.56863180369331],[167.60932666181179,-45.56864204137161],[167.60953136326489,-45.5686632471792],[167.61070372907724,-45.56866160828309]]],"type":"Polygon"}
+}

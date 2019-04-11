@@ -1,0 +1,86 @@
+{
+  "id": 101917327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":67575.208812,
+    "geom:bbox":"174.813035419,-38.0716454828,174.818219886,-38.0679639738",
+    "geom:latitude":-38.069721,
+    "geom:longitude":174.815459,
+    "gn:population":543,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.070172,
+    "lbl:longitude":174.814811,
+    "mps:latitude":-38.070172,
+    "mps:longitude":174.814811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kawhia"
+    ],
+    "name:eng_x_variant":[
+        "Kawhia Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kawhia",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":661,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de496-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2188937,
+        "gp:id":2349019,
+        "wd:id":"Q838734"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"08a9d47ab904b582f352ceee6adb5ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079275,
+            "locality_id":101917327,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101917327,
+    "wof:lastmodified":1527715915,
+    "wof:name":"Kawhia",
+    "wof:parent_id":102079275,
+    "wof:placetype":"locality",
+    "wof:population":543,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916401
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.81303541852847,
+    -38.07164548275163,
+    174.81821988625768,
+    -38.06796397381065
+],
+  "geometry": {"coordinates":[[[174.81303541852847,-38.07024044206577],[174.81379857875424,-38.06974211263385],[174.81406235436694,-38.06954310333423],[174.81473473428639,-38.06923371317833],[174.81547473759386,-38.06889526547729],[174.8158375177814,-38.06869011136882],[174.81587219785126,-38.06866520642775],[174.81658778268394,-38.06796397381065],[174.81715011626733,-38.06840710458128],[174.81777723454758,-38.06806688125635],[174.81821988625768,-38.0683380457436],[174.81783624000002,-38.06865982582645],[174.81677783249853,-38.06950376334013],[174.81638023759217,-38.06981585505645],[174.81586348438071,-38.0704074969039],[174.81517627911407,-38.07119301442066],[174.81517188765383,-38.0711993955877],[174.81487161400221,-38.07152789966347],[174.81479149638324,-38.07164548275163],[174.81335210316857,-38.07049761997903],[174.81303541852847,-38.07024044206577]]],"type":"Polygon"}
+}

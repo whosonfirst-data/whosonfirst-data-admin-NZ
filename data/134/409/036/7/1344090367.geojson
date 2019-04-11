@@ -1,0 +1,69 @@
+{
+  "id": 1344090367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.26667,-39.26667,174.26667,-39.26667",
+    "geom:latitude":-39.26667,
+    "geom:longitude":174.26667,
+    "gn:admin1_code":"F9",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Waipuku",
+    "gn:country_code":"NZ",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179981,
+    "gn:latitude":-39.26667,
+    "gn:longitude":174.26667,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Waipuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179981,
+        "wk:page":"Waipuku"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ef59e712cac850a7feb393add3ee2c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079293,
+            "locality_id":1344090367,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1344090367,
+    "wof:lastmodified":1537570167,
+    "wof:name":"Waipuku",
+    "wof:parent_id":102079293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.26667,
+    -39.26667,
+    174.26667,
+    -39.26667
+],
+  "geometry": {"coordinates":[174.26667,-39.26667],"type":"Point"}
+}

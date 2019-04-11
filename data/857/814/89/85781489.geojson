@@ -1,0 +1,127 @@
+{
+  "id": 85781489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2053105.066294,
+    "geom:bbox":"171.208191,-44.372952,171.208191,-44.372952",
+    "geom:latitude":-44.372952,
+    "geom:longitude":171.208191,
+    "gn:latitude":-44.37728,
+    "gn:longitude":171.22561,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.372952,
+    "lbl:longitude":171.208191,
+    "mps:latitude":-44.369913,
+    "mps:longitude":171.208192,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u0634\u0648\u064a\u0644"
+    ],
+    "name:cor_x_preferred":[
+        "Marchwiail"
+    ],
+    "name:cym_x_preferred":[
+        "Marchwiail"
+    ],
+    "name:eng_x_preferred":[
+        "Marchwiel"
+    ],
+    "name:gla_x_preferred":[
+        "Marchwiail"
+    ],
+    "name:gle_x_preferred":[
+        "Marchwiail"
+    ],
+    "name:unk_x_variant":[
+        "Marchwiel"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2181133,
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Marchwiel",
+    "qs:local_max":409,
+    "qs:local_sum":775,
+    "qs:localhoods":6,
+    "qs:name":"Marchwiel",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Timaru District",
+    "qs:name_local":"Timaru",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875872,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350910,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":53.0231,
+    "wd:longitude":-2.96,
+    "wd:wordcount":319,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079373,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6214600,
+        "gp:id":28644436,
+        "qs:id":1198061,
+        "qs_pg:id":1198061
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f77cf27975df113bf7a597a2f962c8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":-1,
+            "neighbourhood_id":85781489,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":85781489,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860217,
+    "wof:name":"Marchwiel",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.208191,
+    -44.372952,
+    171.208191,
+    -44.372952
+],
+  "geometry": {"coordinates":[171.208191,-44.372952],"type":"Point"}
+}

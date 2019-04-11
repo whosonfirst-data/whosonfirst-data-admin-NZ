@@ -1,0 +1,87 @@
+{
+  "id": 101918269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26101.571597,
+    "geom:bbox":"175.20886119,-38.198278825,175.210982423,-38.1963241412",
+    "geom:latitude":-38.197324,
+    "geom:longitude":175.209997,
+    "gn:population":2673,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.197354,
+    "lbl:longitude":175.21,
+    "mps:latitude":-38.197354,
+    "mps:longitude":175.21,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Otorohanga"
+    ],
+    "name:eng_x_variant":[
+        "Otorohanga Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Otorohanga",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":509,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df378-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2185245,
+        "gp:id":2349964,
+        "wd:id":"Q1936464",
+        "wk:page":"Otorohanga"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8651de0f7b6e2d79b9ffee7ddf7fc78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079275,
+            "locality_id":101918269,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918269,
+    "wof:lastmodified":1527715671,
+    "wof:name":"Otorohanga",
+    "wof:parent_id":102079275,
+    "wof:placetype":"locality",
+    "wof:population":2673,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914943
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.20886119034427,
+    -38.19827882503614,
+    175.21098242305973,
+    -38.19632414115225
+],
+  "geometry": {"coordinates":[[[175.2091888547713,-38.19633154595601],[175.20956207666609,-38.19632414115225],[175.2099773883329,-38.19664483352497],[175.20996825391964,-38.19679322774941],[175.21097258881679,-38.1969019757639],[175.21098242305973,-38.19721041050186],[175.21096460678461,-38.1981001041077],[175.21096001269223,-38.19827882503614],[175.21044336482424,-38.19825620162554],[175.20906547619737,-38.19756155882166],[175.20886119034427,-38.19745926028112],[175.20899765149707,-38.19701038149451],[175.2090788739103,-38.19660037166335],[175.2091888547713,-38.19633154595601]]],"type":"Polygon"}
+}

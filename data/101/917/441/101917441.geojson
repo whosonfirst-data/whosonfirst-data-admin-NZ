@@ -1,0 +1,89 @@
+{
+  "id": 101917441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":38304.522283,
+    "geom:bbox":"175.138068054,-37.406701917,175.141305974,-37.4041871706",
+    "geom:latitude":-37.405385,
+    "geom:longitude":175.139932,
+    "gn:population":1174,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.40531,
+    "lbl:longitude":175.139948,
+    "mps:latitude":-37.40531,
+    "mps:longitude":175.139948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Te Kauwhata"
+    ],
+    "name:eng_x_variant":[
+        "Te Kaiwhata",
+        "Te Kauwhata Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Te Kauwhata",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":392,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ded4c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181511,
+        "gp:id":2350805,
+        "qs:id":1034294,
+        "wd:id":"Q1526617",
+        "wk:page":"Te Kauwhata"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4d1025aea0550242da2f472d0a04dbb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101917441,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101917441,
+    "wof:lastmodified":1527715906,
+    "wof:name":"Te Kauwhata",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:population":1174,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914643
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.13806805449968,
+    -37.40670191703292,
+    175.141305973804,
+    -37.4041871705895
+],
+  "geometry": {"coordinates":[[[175.14030637619319,-37.40670191703292],[175.14014754874557,-37.40657071912847],[175.13930787319026,-37.4058659754844],[175.13806805449968,-37.40482381410145],[175.13835653263251,-37.40459152614228],[175.13888534674982,-37.40493731697493],[175.13999117141034,-37.4041871705895],[175.14036506011527,-37.40448787084721],[175.14084818926631,-37.40487777100734],[175.1412792137869,-37.40522629555693],[175.14100207819018,-37.40544991644415],[175.14076082590827,-37.40569517347112],[175.14092649398501,-37.40581221609357],[175.14109537661227,-37.40591115449422],[175.14130597380401,-37.40601829922948],[175.14082322404866,-37.40634840460393],[175.14081988761575,-37.40635028180163],[175.14030637619319,-37.40670191703292]]],"type":"Polygon"}
+}

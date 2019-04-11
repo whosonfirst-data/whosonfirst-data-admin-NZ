@@ -1,0 +1,95 @@
+{
+  "id": 1125770469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.96667,-43.48333,171.96667,-43.48333",
+    "geom:latitude":-43.48333,
+    "geom:longitude":171.96667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.48333,
+    "lbl:longitude":171.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Coalgate"
+    ],
+    "name:eng_x_preferred":[
+        "Coalgate"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2192235,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Coalgate",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":88,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":88,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":979733,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348364,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192235,
+        "gp:id":2348364,
+        "qs_pg:id":979733,
+        "wd:id":"Q5137879"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497290044,
+    "wof:geomhash":"c6473e59900b993edfee47636b7379a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":1125770469,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125770469,
+    "wof:lastmodified":1514494102,
+    "wof:name":"Coalgate",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.96667,
+    -43.48333,
+    171.96667,
+    -43.48333
+],
+  "geometry": {"coordinates":[171.96666999999999,-43.48333],"type":"Point"}
+}

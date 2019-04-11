@@ -1,0 +1,106 @@
+{
+  "id": 85773079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":19512872.387021,
+    "geom:bbox":"173.380793,-35.532756,173.380793,-35.532756",
+    "geom:latitude":-35.532756,
+    "geom:longitude":173.380793,
+    "gn:latitude":-35.53333,
+    "gn:longitude":173.38333,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.532756,
+    "lbl:longitude":173.380793,
+    "mps:latitude":-35.536313,
+    "mps:longitude":173.384064,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Omapere"
+    ],
+    "name:unk_x_variant":[
+        "Omapere"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"F6",
+    "qs:gn_name":"Omapere",
+    "qs:local_max":371,
+    "qs:local_sum":635,
+    "qs:localhoods":6,
+    "qs:name":"Omapere",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Northland",
+    "qs:name_adm2":"Far North District",
+    "qs:name_local":"Hokianga Harbour",
+    "qs:photo_max":55,
+    "qs:photo_sum":371,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021755,
+    "qs:woe_adm2":55875844,
+    "qs:woe_lau":0,
+    "qs:woe_local":28645523,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185651,
+        "gp:id":2349834,
+        "qs:id":319860,
+        "qs_pg:id":319860
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"dd634956848898383a4fde297b8f0982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":85773079,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":85773079,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859622,
+    "wof:name":"Omapere",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.380793,
+    -35.532756,
+    173.380793,
+    -35.532756
+],
+  "geometry": {"coordinates":[173.38079300000001,-35.532756],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126088935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.655033,-36.847487,174.655033,-36.847487",
+    "geom:latitude":-36.847487,
+    "geom:longitude":174.655033,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.847487,
+    "lbl:longitude":174.655033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Harbour View",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Auckland Region",
+    "qs_pg:photos":115,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":115,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":893746,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28645518,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Auckland Region",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28645518,
+        "qs_pg:id":893746
+    },
+    "wof:country":"NZ",
+    "wof:created":1497313300,
+    "wof:geomhash":"a36ba8df5d70618297668a704756d4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":1126088935,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1126088935,
+    "wof:lastmodified":1509411545,
+    "wof:name":"Harbour View",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.655033,
+    -36.847487,
+    174.655033,
+    -36.847487
+],
+  "geometry": {"coordinates":[174.655033,-36.847487],"type":"Point"}
+}

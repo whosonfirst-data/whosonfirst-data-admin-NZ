@@ -1,0 +1,68 @@
+{
+  "id": 1276693495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.86352,-40.41513,175.86352,-40.41513",
+    "geom:latitude":-40.41513,
+    "geom:longitude":175.86352,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Mangatainoka",
+    "gn:country_code":"NZ",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187552,
+    "gn:latitude":-40.41513,
+    "gn:longitude":175.86352,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Mangatainoka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187552,
+        "wk:page":"Mangatainoka"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"59ed7b239266d69ca79a53408b410d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":1276693495,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1276693495,
+    "wof:lastmodified":1537570171,
+    "wof:name":"Mangatainoka",
+    "wof:parent_id":102079309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.86352,
+    -40.41513,
+    175.86352,
+    -40.41513
+],
+  "geometry": {"coordinates":[175.86351999999999,-40.41513],"type":"Point"}
+}

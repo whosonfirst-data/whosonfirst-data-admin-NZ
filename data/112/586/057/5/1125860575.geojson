@@ -1,0 +1,92 @@
+{
+  "id": 1125860575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.707352,-43.826229,172.707352,-43.826229",
+    "geom:latitude":-43.826229,
+    "geom:longitude":172.707352,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.826229,
+    "lbl:longitude":172.707352,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Birdling's Flat"
+    ],
+    "name:eng_x_preferred":[
+        "Birdling's Flat"
+    ],
+    "name:ger_x_preferred":[
+        "Birdling\u2019s Flat"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Birdlings Flat",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":313,
+    "qs_pg:photos_1k":63,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":313,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1286313,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28642822,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28642822,
+        "qs_pg:id":1286313,
+        "wd:id":"Q865085"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497293810,
+    "wof:geomhash":"33a7fd49d2ace598b6efe7f821f7d496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":1125860575,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1125860575,
+    "wof:lastmodified":1514493963,
+    "wof:name":"Birdlings Flat",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.707352,
+    -43.826229,
+    172.707352,
+    -43.826229
+],
+  "geometry": {"coordinates":[172.70735199999999,-43.826229],"type":"Point"}
+}

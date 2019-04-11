@@ -1,0 +1,62 @@
+{
+  "id": 1209652439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.25,-38.83333,175.25,-38.83333",
+    "geom:latitude":-38.83333,
+    "geom:longitude":175.25,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Taringamotu",
+    "gn:country_code":"NZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181832,
+    "gn:latitude":-38.83333,
+    "gn:longitude":175.25,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Taringamotu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181832
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d98ee302fb67de67fc3b0049fd1b6808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209652439
+        }
+    ],
+    "wof:id":1209652439,
+    "wof:lastmodified":1536280537,
+    "wof:name":"Taringamotu",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.25,
+    -38.83333,
+    175.25,
+    -38.83333
+],
+  "geometry": {"coordinates":[175.25,-38.83333],"type":"Point"}
+}

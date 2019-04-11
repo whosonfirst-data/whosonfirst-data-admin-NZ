@@ -1,0 +1,76 @@
+{
+  "id": 101915263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":60813.787355,
+    "geom:bbox":"173.175018877,-41.3361696687,173.17926382,-41.3323147989",
+    "geom:latitude":-41.334564,
+    "geom:longitude":173.177133,
+    "geonames:id":"2183472,6242630",
+    "iso:country":"NZ",
+    "lbl:latitude":-41.334674,
+    "lbl:longitude":173.177161,
+    "mps:latitude":-41.334674,
+    "mps:longitude":173.177161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Richmond"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Richmond",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2350407
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"76437310d0ad826e033e3e7fdc05e453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101915263,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":101915263,
+    "wof:lastmodified":1487269850,
+    "wof:name":"Richmond",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914855
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.17501887732396,
+    -41.33616966866283,
+    173.17926381985453,
+    -41.33231479888719
+],
+  "geometry": {"coordinates":[[[173.1774210944416,-41.33342851574695],[173.1764393009355,-41.33251294178643],[173.17676910665963,-41.33231479888719],[173.17687866861067,-41.33241035543615],[173.17926381985453,-41.33457060349436],[173.17642675845337,-41.33616966866283],[173.17501887732396,-41.33492163168477],[173.1774210944416,-41.33342851574695]]],"type":"Polygon"}
+}

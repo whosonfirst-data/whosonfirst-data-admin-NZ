@@ -1,0 +1,114 @@
+{
+  "id": 85778669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11341142.93399,
+    "geom:bbox":"174.646503,-36.866425,174.646503,-36.866425",
+    "geom:latitude":-36.866425,
+    "geom:longitude":174.646503,
+    "gn:latitude":-36.86472,
+    "gn:longitude":174.64768,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.866425,
+    "lbl:longitude":174.646503,
+    "mps:latitude":-36.86301,
+    "mps:longitude":174.656463,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Te Atatu South"
+    ],
+    "name:unk_x_variant":[
+        "Te Atatu South"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2181602,
+    "qs:gn_nam_loc":"te atatu",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Te Atatu South",
+    "qs:local_max":613,
+    "qs:local_sum":833,
+    "qs:localhoods":3,
+    "qs:name":"Te Atatu South",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Te Atatu",
+    "qs:photo_max":250,
+    "qs:photo_sum":613,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350784,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1321,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232330,
+        "gp:id":22726549,
+        "qs:id":24312,
+        "qs_pg:id":24312,
+        "wd:id":"Q7690782",
+        "wk:page":"Te Atatu South"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ad4f748d037e171afe14bea0868822c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778669,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778669,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859822,
+    "wof:name":"Te Atatu South",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.646503,
+    -36.866425,
+    174.646503,
+    -36.866425
+],
+  "geometry": {"coordinates":[174.646503,-36.866425],"type":"Point"}
+}

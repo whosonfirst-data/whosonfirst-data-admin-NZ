@@ -1,0 +1,82 @@
+{
+  "id": 1125921493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.166351,-44.757948,168.166351,-44.757948",
+    "geom:latitude":-44.757948,
+    "geom:longitude":168.166351,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.757948,
+    "lbl:longitude":168.166351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hollyford",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Southland",
+    "qs_pg:photos":1865,
+    "qs_pg:photos_1k":378,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1865,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1135564,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348813,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Southland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2348813,
+        "qs_pg:id":1135564
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296496,
+    "wof:geomhash":"bb798778de63fa5757d5798cbcb414ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1125921493,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1125921493,
+    "wof:lastmodified":1509400834,
+    "wof:name":"Hollyford",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.166351,
+    -44.757948,
+    168.166351,
+    -44.757948
+],
+  "geometry": {"coordinates":[168.16635099999999,-44.757948],"type":"Point"}
+}

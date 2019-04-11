@@ -1,0 +1,95 @@
+{
+  "id": 1125968855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.23333,-43.25,170.23333,-43.25",
+    "geom:latitude":-43.25,
+    "geom:longitude":170.23333,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.25,
+    "lbl:longitude":170.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "The Forks"
+    ],
+    "name:eng_x_preferred":[
+        "The Forks"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2190992,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"The Forks",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"West Coast",
+    "qs_pg:photos":155,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":155,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233056,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348549,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"West Coast",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190992,
+        "gp:id":2348549,
+        "qs_pg:id":233056,
+        "wd:id":"Q7734852"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497298083,
+    "wof:geomhash":"22d68caace01c76aa2eda463afa70521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1125968855,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1125968855,
+    "wof:lastmodified":1514494496,
+    "wof:name":"The Forks",
+    "wof:parent_id":102079363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.23333,
+    -43.25,
+    170.23333,
+    -43.25
+],
+  "geometry": {"coordinates":[170.23333,-43.25],"type":"Point"}
+}

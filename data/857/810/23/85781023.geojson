@@ -1,0 +1,110 @@
+{
+  "id": 85781023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9887998.838009,
+    "geom:bbox":"174.302148,-39.576056,174.302148,-39.576056",
+    "geom:latitude":-39.576056,
+    "geom:longitude":174.302148,
+    "gn:latitude":-39.57825,
+    "gn:longitude":174.28021,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.576056,
+    "lbl:longitude":174.302148,
+    "mps:latitude":-39.569705,
+    "mps:longitude":174.311465,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Nolantown"
+    ],
+    "name:unk_x_variant":[
+        "Nolantown"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2206359,
+    "qs:gn_nam_loc":"Hawera, South Taranaki District, Taranaki, NZ",
+    "qs:gn_namadm1":"F9",
+    "qs:gn_name":"Nolantown",
+    "qs:local_max":38,
+    "qs:local_sum":55,
+    "qs:localhoods":2,
+    "qs:name":"Nolantown",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Taranaki",
+    "qs:name_adm2":"South Taranaki District",
+    "qs:name_local":"Hawera",
+    "qs:photo_max":27,
+    "qs:photo_sum":38,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021763,
+    "qs:woe_adm2":55875877,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348731,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079295,
+        85687195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6223990,
+        "gp:id":28643956,
+        "qs:id":985653,
+        "qs_pg:id":985653
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1ab2fd6ef9be5cfea89e55eb762248a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":-1,
+            "neighbourhood_id":85781023,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":85781023,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860126,
+    "wof:name":"Nolantown",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.302148,
+    -39.576056,
+    174.302148,
+    -39.576056
+],
+  "geometry": {"coordinates":[174.30214799999999,-39.576056],"type":"Point"}
+}

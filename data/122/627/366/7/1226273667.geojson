@@ -1,0 +1,68 @@
+{
+  "id": 1226273667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.87667,-39.41306,176.87667,-39.41306",
+    "geom:latitude":-39.41306,
+    "geom:longitude":176.87667,
+    "gn:admin1_code":"F2",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Petane",
+    "gn:country_code":"NZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2206831,
+    "gn:latitude":-39.41306,
+    "gn:longitude":176.87667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Petane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2206831
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ae122c003d3c8fa9aaf163207a7bbb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":1226273667,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1226273667,
+    "wof:lastmodified":1536893170,
+    "wof:name":"Petane",
+    "wof:parent_id":102079331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.87667,
+    -39.41306,
+    176.87667,
+    -39.41306
+],
+  "geometry": {"coordinates":[176.87666999999999,-39.41306],"type":"Point"}
+}

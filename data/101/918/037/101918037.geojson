@@ -1,0 +1,81 @@
+{
+  "id": 101918037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13185.68919,
+    "geom:bbox":"171.924163885,-43.3366779667,171.926498974,-43.3353358227",
+    "geom:latitude":-43.33608,
+    "geom:longitude":171.925367,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.33613,
+    "lbl:longitude":171.925392,
+    "mps:latitude":-43.33613,
+    "mps:longitude":171.925392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Springfield"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Springfield",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":315,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df6de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2182438,
+        "gp:id":2350588,
+        "qs:id":494082,
+        "wd:id":"Q994854",
+        "wk:page":"Springfield, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a479b54ad1dea5923373d26371a26961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101918037,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918037,
+    "wof:lastmodified":1527715672,
+    "wof:name":"Springfield",
+    "wof:parent_id":102079369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916165
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.92416388515454,
+    -43.33667796674666,
+    171.926498973558,
+    -43.33533582271278
+],
+  "geometry": {"coordinates":[[[171.92649897355801,-43.33553589957651],[171.9256007455005,-43.33667796674666],[171.92416388515454,-43.33640161087813],[171.92427164864384,-43.33600712310027],[171.92484060994857,-43.33609795787255],[171.92512777915522,-43.33557711117201],[171.9258424580386,-43.33570135677793],[171.92618677697703,-43.33533582271278],[171.92649897355801,-43.33553589957651]]],"type":"Polygon"}
+}

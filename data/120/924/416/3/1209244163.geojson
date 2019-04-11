@@ -1,0 +1,62 @@
+{
+  "id": 1209244163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.31667,-43.56667,172.31667,-43.56667",
+    "geom:latitude":-43.56667,
+    "geom:longitude":172.31667,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Sandy Knolls",
+    "gn:country_code":"NZ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2182972,
+    "gn:latitude":-43.56667,
+    "gn:longitude":172.31667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Sandy Knolls",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182972
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4b93968aa0e951fa72314979d624c4ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209244163
+        }
+    ],
+    "wof:id":1209244163,
+    "wof:lastmodified":1536293222,
+    "wof:name":"Sandy Knolls",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.31667,
+    -43.56667,
+    172.31667,
+    -43.56667
+],
+  "geometry": {"coordinates":[172.31666999999999,-43.56667],"type":"Point"}
+}

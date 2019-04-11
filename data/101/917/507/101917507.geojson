@@ -1,0 +1,78 @@
+{
+  "id": 101917507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":36705.02085,
+    "geom:bbox":"177.870445633,-39.0741953298,177.873646518,-39.0721575713",
+    "geom:latitude":-39.0733,
+    "geom:longitude":177.872031,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.073325,
+    "lbl:longitude":177.872142,
+    "mps:latitude":-39.073325,
+    "mps:longitude":177.872142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Mahia Beach"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mahia Beach",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":405,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188019,
+        "gp:id":28645561,
+        "wd:id":"Q838712"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"371addb688d97bd9b5da7222a29cac54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079327,
+            "locality_id":101917507,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101917507,
+    "wof:lastmodified":1527715911,
+    "wof:name":"Mahia Beach",
+    "wof:parent_id":102079327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914981
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.8704456328769,
+    -39.07419532976973,
+    177.8736465181993,
+    -39.0721575712743
+],
+  "geometry": {"coordinates":[[[177.87044563287691,-39.07350388648138],[177.87055511748434,-39.0733810998408],[177.87078910671178,-39.07323501017049],[177.87136555177227,-39.07288863483782],[177.87103246419761,-39.07247518227705],[177.87218714169163,-39.0721575712743],[177.87347892377969,-39.07341079949431],[177.87364651819931,-39.07360755643562],[177.87340784743796,-39.07371957490539],[177.87340335771003,-39.07372156875834],[177.87282472527124,-39.07403647738381],[177.87238558661593,-39.0741777171555],[177.87196908573083,-39.07419532976973],[177.87155422301933,-39.07415334139219],[177.87105936611221,-39.07392622123835],[177.87064773382735,-39.07368114935665],[177.87044563287691,-39.07350388648138]]],"type":"Polygon"}
+}

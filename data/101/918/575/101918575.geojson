@@ -1,0 +1,79 @@
+{
+  "id": 101918575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9881.856021,
+    "geom:bbox":"174.277637432,-35.5939696252,174.279927655,-35.5929307076",
+    "geom:latitude":-35.593511,
+    "geom:longitude":174.278699,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.593519,
+    "lbl:longitude":174.27871,
+    "mps:latitude":-35.593519,
+    "mps:longitude":174.27871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hikurangi"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hikurangi",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":662,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189978,
+        "gp:id":2348775,
+        "wd:id":"Q11682493",
+        "wk:page":"Hikurangi"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"55431829381729744338facbba5417fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101918575,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918575,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Hikurangi",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915359
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.27763743208328,
+    -35.59396962517855,
+    174.27992765458148,
+    -35.59293070762072
+],
+  "geometry": {"coordinates":[[[174.27992765458148,-35.59380022402615],[174.27971790712323,-35.59396962517855],[174.27915811925175,-35.59395239066254],[174.27816564566609,-35.59358011928106],[174.27763743208328,-35.5933659947726],[174.2778272032252,-35.5930742740387],[174.27784546114134,-35.59304790504962],[174.27784615343168,-35.59302626522508],[174.27791127610863,-35.59302724255363],[174.27798999452702,-35.59293070762072],[174.27992765458148,-35.59380022402615]]],"type":"Polygon"}
+}

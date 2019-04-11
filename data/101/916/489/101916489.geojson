@@ -1,0 +1,80 @@
+{
+  "id": 101916489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":60262.401329,
+    "geom:bbox":"176.990651288,-39.8209346053,176.9963912,-39.8176412097",
+    "geom:latitude":-39.818957,
+    "geom:longitude":176.99393,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.818928,
+    "lbl:longitude":176.993964,
+    "mps:latitude":-39.818928,
+    "mps:longitude":176.993964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waimarama"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waimarama",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":277,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cb4fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2180190,
+        "gp:id":2351132,
+        "qs:id":914392,
+        "wd:id":"Q2285922"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8522b25d60a03a500b57097ce9610548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101916489,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":101916489,
+    "wof:lastmodified":1527715564,
+    "wof:name":"Waimarama",
+    "wof:parent_id":102079329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914975
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.99065128810108,
+    -39.82093460526845,
+    176.99639120043736,
+    -39.81764120971213
+],
+  "geometry": {"coordinates":[[[176.99065128810108,-39.81767142745932],[176.99399177709793,-39.81764120971213],[176.99556547596757,-39.81959211420045],[176.99597704726585,-39.82001498683584],[176.99639120043736,-39.82057841461933],[176.99579115071612,-39.82093460526845],[176.9947538577795,-39.82012852845236],[176.994312983718,-39.81978589884697],[176.99373059117912,-39.82006387365023],[176.99296545236237,-39.81876785383251],[176.992351000827,-39.81881614929213],[176.99225639122949,-39.81801348850862],[176.99065592245259,-39.81797236507915],[176.99065128810108,-39.81767142745932]]],"type":"Polygon"}
+}

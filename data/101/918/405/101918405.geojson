@@ -1,0 +1,80 @@
+{
+  "id": 101918405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18348.024083,
+    "geom:bbox":"176.196719132,-38.0896472192,176.200102278,-38.0884517128",
+    "geom:latitude":-38.089015,
+    "geom:longitude":176.198226,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.089091,
+    "lbl:longitude":176.197514,
+    "mps:latitude":-38.089091,
+    "mps:longitude":176.197514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ngongotaha"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ngongotaha",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":457,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186116,
+        "gp:id":2349722,
+        "qs:id":222864,
+        "wd:id":"Q7022541",
+        "wk:page":"Ngongotaha"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"92a8aa951eb4e56bdbb8c26d84b6f095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101918405,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":101918405,
+    "wof:lastmodified":1527715677,
+    "wof:name":"Ngongotaha",
+    "wof:parent_id":102079289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914951
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.19671913246117,
+    -38.08964721923185,
+    176.2001022781422,
+    -38.08845171278602
+],
+  "geometry": {"coordinates":[[[176.19671913246117,-38.08884434520837],[176.1977888635648,-38.0885650715898],[176.19794913926597,-38.08896406365442],[176.19987638387337,-38.08845171278602],[176.2001022781422,-38.08888079991492],[176.19979126613512,-38.08896539120871],[176.19711160937777,-38.08964721923185],[176.19671913246117,-38.08884434520837]]],"type":"Polygon"}
+}

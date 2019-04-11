@@ -1,0 +1,68 @@
+{
+  "id": 1259618331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.9,-46.16667,169.9,-46.16667",
+    "geom:latitude":-46.16667,
+    "geom:longitude":169.9,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Moneymore",
+    "gn:country_code":"NZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2186650,
+    "gn:latitude":-46.16667,
+    "gn:longitude":169.9,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Moneymore",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186650
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0a1c327a7568b9d01438fba34368c944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":1259618331,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1259618331,
+    "wof:lastmodified":1536664554,
+    "wof:name":"Moneymore",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.9,
+    -46.16667,
+    169.9,
+    -46.16667
+],
+  "geometry": {"coordinates":[169.90000000000001,-46.16667],"type":"Point"}
+}

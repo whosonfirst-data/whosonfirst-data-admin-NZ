@@ -1,0 +1,132 @@
+{
+  "id": 85772929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10189021.167568,
+    "geom:bbox":"174.673526,-36.773332,174.673526,-36.773332",
+    "geom:latitude":-36.773332,
+    "geom:longitude":174.673526,
+    "gn:latitude":-36.7682,
+    "gn:longitude":174.66019,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.773332,
+    "lbl:longitude":174.673526,
+    "mps:latitude":-36.774095,
+    "mps:longitude":174.666477,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Greenhithe"
+    ],
+    "name:ces_x_preferred":[
+        "Greenhithe"
+    ],
+    "name:cym_x_preferred":[
+        "Greenhithe"
+    ],
+    "name:eng_x_preferred":[
+        "Greenhithe"
+    ],
+    "name:fra_x_preferred":[
+        "Greenhithe"
+    ],
+    "name:nld_x_preferred":[
+        "Greenhithe"
+    ],
+    "name:pol_x_preferred":[
+        "Greenhithe"
+    ],
+    "name:swe_x_preferred":[
+        "Greenhithe"
+    ],
+    "name:unk_x_variant":[
+        "Greenhithe"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Greenhithe",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Greenhithe",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":83,
+    "qs:photo_sum":247,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:latitude":51.4504,
+    "wd:longitude":0.2823,
+    "wd:wordcount":1169,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6231822,
+        "gp:id":2348655,
+        "qs:id":319660,
+        "qs_pg:id":319660
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0ac3fe04a059a99ac040df566027e17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85772929,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85772929,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859606,
+    "wof:name":"Greenhithe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.673526,
+    -36.773332,
+    174.673526,
+    -36.773332
+],
+  "geometry": {"coordinates":[174.67352600000001,-36.773332],"type":"Point"}
+}

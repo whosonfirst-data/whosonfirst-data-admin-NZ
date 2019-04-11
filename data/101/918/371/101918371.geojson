@@ -1,0 +1,81 @@
+{
+  "id": 101918371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9355.356008,
+    "geom:bbox":"175.743753614,-38.9470457138,175.744779639,-38.9453165126",
+    "geom:latitude":-38.94622,
+    "geom:longitude":175.74427,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.946298,
+    "lbl:longitude":175.744247,
+    "mps:latitude":-38.946249,
+    "mps:longitude":175.744258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Waihi Village"
+    ],
+    "name:eng_x_preferred":[
+        "Waihi Village"
+    ],
+    "name:mao_x_preferred":[
+        "Waihi Village"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waihi Village",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":214,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56072892,
+        "wd:id":"Q7959955"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2609b186e5df8bf0e2583b08c208f76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":101918371,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918371,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Waihi Village",
+    "wof:parent_id":102079281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.74375361354325,
+    -38.94704571383581,
+    175.74477963894094,
+    -38.94531651261774
+],
+  "geometry": {"coordinates":[[[175.74375361354325,-38.94692146720678],[175.7441241328882,-38.94561089531911],[175.7442359988716,-38.94549191051567],[175.74447779156657,-38.9453310236582],[175.74477963894094,-38.94531651261774],[175.74468766818094,-38.94552966329456],[175.74468456572205,-38.94553875231275],[175.74461847892042,-38.9458224870882],[175.7446175042152,-38.94582701762413],[175.74450660906459,-38.94664005323536],[175.74439341088816,-38.94704571383581],[175.74375361354325,-38.94692146720678]]],"type":"Polygon"}
+}

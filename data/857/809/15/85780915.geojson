@@ -1,0 +1,105 @@
+{
+  "id": 85780915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2264495.301638,
+    "geom:bbox":"174.701843,-36.697052,174.701843,-36.697052",
+    "geom:latitude":-36.697052,
+    "geom:longitude":174.701843,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.697052,
+    "lbl:longitude":174.701843,
+    "mps:latitude":-36.696998,
+    "mps:longitude":174.701996,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:note":"???",
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Glenvar"
+    ],
+    "name:unk_x_variant":[
+        "Glenvar"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Glenvar",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643840,
+        "qs:id":22605,
+        "qs_pg:id":22605
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5ce20c0ee434929af7e9f81d42d61902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85780915,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85780915,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860109,
+    "wof:name":"Glenvar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.701843,
+    -36.697052,
+    174.701843,
+    -36.697052
+],
+  "geometry": {"coordinates":[174.701843,-36.697052],"type":"Point"}
+}

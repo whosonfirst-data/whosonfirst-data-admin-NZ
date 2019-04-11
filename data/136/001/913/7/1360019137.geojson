@@ -1,0 +1,68 @@
+{
+  "id": 1360019137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.5,-35.05,173.5,-35.05",
+    "geom:latitude":-35.05,
+    "geom:longitude":173.5,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Komiti",
+    "gn:country_code":"NZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188704,
+    "gn:latitude":-35.05,
+    "gn:longitude":173.5,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Komiti",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188704
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4d819c80627fc16a47b32f0712a367c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1360019137,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1360019137,
+    "wof:lastmodified":1537039165,
+    "wof:name":"Komiti",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.5,
+    -35.05,
+    173.5,
+    -35.05
+],
+  "geometry": {"coordinates":[173.5,-35.05],"type":"Point"}
+}

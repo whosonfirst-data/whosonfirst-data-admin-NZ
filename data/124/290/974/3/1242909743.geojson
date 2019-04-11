@@ -1,0 +1,68 @@
+{
+  "id": 1242909743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.26667,-39.91667,176.26667,-39.91667",
+    "geom:latitude":-39.91667,
+    "geom:longitude":176.26667,
+    "gn:admin1_code":"F2",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Makaretu",
+    "gn:country_code":"NZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187938,
+    "gn:latitude":-39.91667,
+    "gn:longitude":176.26667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Makaretu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187938
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d8dd6a7b69d7dc0ec6e680bbc7aba0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":1242909743,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1242909743,
+    "wof:lastmodified":1537079090,
+    "wof:name":"Makaretu",
+    "wof:parent_id":102079333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.26667,
+    -39.91667,
+    176.26667,
+    -39.91667
+],
+  "geometry": {"coordinates":[176.26667,-39.91667],"type":"Point"}
+}

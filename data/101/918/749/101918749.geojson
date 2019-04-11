@@ -1,0 +1,78 @@
+{
+  "id": 101918749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3759.300758,
+    "geom:bbox":"175.264521332,-38.8664521625,175.265277253,-38.8655189009",
+    "geom:latitude":-38.865962,
+    "geom:longitude":175.264853,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.865939,
+    "lbl:longitude":175.264847,
+    "mps:latitude":-38.865939,
+    "mps:longitude":175.264847,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Taumarunui"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Taumarunui",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":3107,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6234582,
+        "wd:id":"Q305195",
+        "wk:page":"Taumarunui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d5ee865b966b303478f019eee6a327c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918749,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918749,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Taumarunui",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914323
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.26452133222693,
+    -38.86645216246063,
+    175.2652772529525,
+    -38.86551890094104
+],
+  "geometry": {"coordinates":[[[175.2647321500495,-38.86551890094104],[175.2649226531079,-38.86560399698507],[175.2649293874924,-38.86560685837728],[175.26493655968059,-38.86560957387105],[175.26494414133631,-38.86561211851769],[175.2652772529525,-38.86571660806327],[175.26518487898645,-38.86586680431878],[175.26518380297736,-38.8658685812583],[175.26518287992874,-38.86587016664918],[175.26518208904056,-38.8658715696348],[175.26485997069901,-38.86645216246063],[175.26468520587051,-38.86636088483569],[175.26452133222693,-38.86618031632101],[175.26464264674581,-38.86573264711416],[175.2647321500495,-38.86551890094104]]],"type":"Polygon"}
+}

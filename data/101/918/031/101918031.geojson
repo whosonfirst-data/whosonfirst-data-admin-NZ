@@ -1,0 +1,81 @@
+{
+  "id": 101918031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13191.112543,
+    "geom:bbox":"171.299062696,-44.2488334012,171.30094311,-44.2468674221",
+    "geom:latitude":-44.247824,
+    "geom:longitude":171.300011,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.247858,
+    "lbl:longitude":171.300024,
+    "mps:latitude":-44.247858,
+    "mps:longitude":171.300024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Temuka"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Temuka",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":565,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de892-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6217261,
+        "gp:id":2350880,
+        "qs:id":980891,
+        "wd:id":"Q1002886",
+        "wk:page":"Temuka"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7ede476e3728413c33ca7313bfb4d348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101918031,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101918031,
+    "wof:lastmodified":1527715671,
+    "wof:name":"Temuka",
+    "wof:parent_id":102079373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914401
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.2990626959937,
+    -44.24883340118333,
+    171.30094311039116,
+    -44.24686742210015
+],
+  "geometry": {"coordinates":[[[171.29994257177637,-44.24879201534841],[171.30006198329997,-44.24854040985211],[171.29976801699937,-44.24845547316617],[171.29966876501288,-44.24828702372736],[171.2994900669415,-44.24809434814067],[171.29906269599371,-44.24791525114004],[171.29917617560741,-44.2475183692021],[171.29945157692708,-44.24747323398337],[171.29978514501019,-44.24738791874207],[171.3001977723417,-44.24733663359671],[171.30048888609022,-44.247143930499],[171.30094311039116,-44.24686742210015],[171.30059146737179,-44.24774187488909],[171.30015289799454,-44.24883340118333],[171.29994257177637,-44.24879201534841]]],"type":"Polygon"}
+}

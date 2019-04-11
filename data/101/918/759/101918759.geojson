@@ -1,0 +1,82 @@
+{
+  "id": 101918759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4863.607975,
+    "geom:bbox":"175.471274994,-37.8921487966,175.47208884,-37.8913411348",
+    "geom:latitude":-37.891713,
+    "geom:longitude":175.471721,
+    "gn:population":15192,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.89172,
+    "lbl:longitude":175.471761,
+    "mps:latitude":-37.89172,
+    "mps:longitude":175.471761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Cambridge"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cambridge",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df9d6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6240770,
+        "gp:id":2348268,
+        "wd:id":"Q350"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"656b35ccb88fbfb2c822a9dd7d81a0ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101918759,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918759,
+    "wof:lastmodified":1505338689,
+    "wof:name":"Cambridge",
+    "wof:parent_id":102079273,
+    "wof:placetype":"locality",
+    "wof:population":15192,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914859
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.4712749940462,
+    -37.89214879657721,
+    175.4720888402205,
+    -37.8913411347835
+],
+  "geometry": {"coordinates":[[[175.47130937897381,-37.89136114291045],[175.4713184718043,-37.89136094126788],[175.47180711804191,-37.89134739894403],[175.47200823416648,-37.8913411347835],[175.47208884022049,-37.892141636072],[175.47176603988868,-37.89214879657721],[175.47172875940868,-37.89205947863088],[175.47147983980102,-37.89206499965199],[175.47146708182316,-37.89170380169654],[175.47127499404621,-37.89170806174037],[175.47130937897381,-37.89136114291045]]],"type":"Polygon"}
+}

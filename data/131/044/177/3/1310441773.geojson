@@ -1,0 +1,72 @@
+{
+  "id": 1310441773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.21667,-38.78333,175.21667,-38.78333",
+    "geom:latitude":-38.78333,
+    "geom:longitude":175.21667,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Okahukura",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185796,
+    "gn:latitude":-38.78333,
+    "gn:longitude":175.21667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Okahukura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okahukua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185796
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"195aeff96859f60ed866ce0abc7b6fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1310441773,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1310441773,
+    "wof:lastmodified":1537676143,
+    "wof:name":"Okahukura",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.21667,
+    -38.78333,
+    175.21667,
+    -38.78333
+],
+  "geometry": {"coordinates":[175.21666999999999,-38.78333],"type":"Point"}
+}

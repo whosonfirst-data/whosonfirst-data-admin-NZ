@@ -1,0 +1,83 @@
+{
+  "id": 101917397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28818.609866,
+    "geom:bbox":"175.190918809,-37.6141720187,175.194846881,-37.6116420796",
+    "geom:latitude":-37.612828,
+    "geom:longitude":175.193061,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.612722,
+    "lbl:longitude":175.193525,
+    "mps:latitude":-37.612722,
+    "mps:longitude":175.193525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Taupiri"
+    ],
+    "name:msa_x_preferred":[
+        "Taupiri"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Taupiri",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":439,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df076-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181747,
+        "gp:id":2350749,
+        "wd:id":"Q7688825",
+        "wk:page":"Taupiri"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3e29373e52e5e1cec2f6fec7748286c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101917397,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101917397,
+    "wof:lastmodified":1527715905,
+    "wof:name":"Taupiri",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916437
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.19091880881808,
+    -37.61417201874618,
+    175.1948468814796,
+    -37.61164207956899
+],
+  "geometry": {"coordinates":[[[175.19091880881808,-37.61312608235135],[175.19106890838347,-37.61301191164223],[175.19107008429907,-37.61301100547087],[175.19107100435869,-37.61301029023601],[175.19107166867556,-37.61300976593552],[175.19197407271108,-37.61229143322936],[175.19197465165689,-37.61229097260164],[175.19197497531704,-37.61229071831193],[175.19197504312865,-37.61229065505059],[175.19277664391032,-37.61164207956899],[175.19343151361309,-37.61208061994501],[175.19397803603513,-37.61268125687519],[175.19484688147961,-37.61391675440237],[175.19427220785306,-37.61417201874618],[175.19298234873585,-37.61259978941727],[175.19272882905958,-37.61242658090382],[175.19140679591248,-37.61339504300145],[175.19091880881808,-37.61312608235135]]],"type":"Polygon"}
+}

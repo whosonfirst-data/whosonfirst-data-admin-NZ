@@ -1,0 +1,68 @@
+{
+  "id": 1226473867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.08333,-37.8,176.08333,-37.8",
+    "geom:latitude":-37.8,
+    "geom:longitude":176.08333,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Omanawa",
+    "gn:country_code":"NZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2185658,
+    "gn:latitude":-37.8,
+    "gn:longitude":176.08333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Omanawa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2185658
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"526ea4f46c59dc270eae14300d5e9d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":1226473867,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1226473867,
+    "wof:lastmodified":1536601830,
+    "wof:name":"Omanawa",
+    "wof:parent_id":102079283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.08333000000005,
+    -37.8,
+    176.08333000000005,
+    -37.8
+],
+  "geometry": {"coordinates":[176.08333000000005,-37.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343795839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.86769,-44.53359,169.86769,-44.53359",
+    "geom:latitude":-44.53359,
+    "geom:longitude":169.86769,
+    "gn:admin1_code":"E9",
+    "gn:asciiname":"Berwen",
+    "gn:country_code":"NZ",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2193375,
+    "gn:latitude":-44.53359,
+    "gn:longitude":169.86769,
+    "gn:modification_date":"2015-03-17",
+    "gn:name":"Berwen",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193375
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"baa7286c71df7ee4c617cde4369b9a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1343795839,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1343795839,
+    "wof:lastmodified":1536760163,
+    "wof:name":"Berwen",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.86768999999995,
+    -44.53359,
+    169.86768999999995,
+    -44.53359
+],
+  "geometry": {"coordinates":[169.86768999999995,-44.53359],"type":"Point"}
+}

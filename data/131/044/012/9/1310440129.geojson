@@ -1,0 +1,68 @@
+{
+  "id": 1310440129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.85417,-43.97333,168.85417,-43.97333",
+    "geom:latitude":-43.97333,
+    "geom:longitude":168.85417,
+    "gn:admin1_code":"G3",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Carters Mill",
+    "gn:country_code":"NZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2208347,
+    "gn:latitude":-43.97333,
+    "gn:longitude":168.85417,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Carters Mill",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208347
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"efc1c54541fa9860c6ba760d5bf160a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1310440129,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1310440129,
+    "wof:lastmodified":1537010588,
+    "wof:name":"Carters Mill",
+    "wof:parent_id":102079363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.85416999999995,
+    -43.97333,
+    168.85416999999995,
+    -43.97333
+],
+  "geometry": {"coordinates":[168.85416999999995,-43.97333],"type":"Point"}
+}

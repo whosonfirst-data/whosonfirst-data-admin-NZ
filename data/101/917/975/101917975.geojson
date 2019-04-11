@@ -1,0 +1,87 @@
+{
+  "id": 101917975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11660.119717,
+    "geom:bbox":"169.490331998,-46.216701742,169.493032227,-46.2154109547",
+    "geom:latitude":-46.215995,
+    "geom:longitude":169.491661,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.216086,
+    "lbl:longitude":169.491655,
+    "mps:latitude":-46.216086,
+    "mps:longitude":169.491655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Waiwera South"
+    ],
+    "name:eng_x_preferred":[
+        "Waiwera South"
+    ],
+    "name:unk_x_variant":[
+        "Waiwera"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waiwera South",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":251,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d0ac6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179742,
+        "gp:id":2351257,
+        "wd:id":"Q16902841",
+        "wk:page":"Waiwera South"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"863dd71005d343b861ba6520242b60e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101917975,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101917975,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715916,
+    "wof:name":"Waiwera South",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.49033199751483,
+    -46.21670174202207,
+    169.49303222728378,
+    -46.2154109546701
+],
+  "geometry": {"coordinates":[[[169.49303222728378,-46.21558164486295],[169.49280001718611,-46.2160502674713],[169.49224364224838,-46.21594208325613],[169.49210369799385,-46.2162801466599],[169.49208098798084,-46.21633350704084],[169.49102419697871,-46.21622052464395],[169.49089952278345,-46.21660585917319],[169.49033199751483,-46.21670174202207],[169.49038141534601,-46.21659333829591],[169.49038276493206,-46.21659247745698],[169.4907442287936,-46.21577017521857],[169.49179214584186,-46.2159009090834],[169.49197248096036,-46.2154109546701],[169.49303222728378,-46.21558164486295]]],"type":"Polygon"}
+}

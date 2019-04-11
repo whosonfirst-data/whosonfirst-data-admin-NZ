@@ -1,0 +1,113 @@
+{
+  "id": 85773157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14296000.635817,
+    "geom:bbox":"173.506248,-35.397767,173.506248,-35.397767",
+    "geom:latitude":-35.397767,
+    "geom:longitude":173.506248,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.397767,
+    "lbl:longitude":173.506248,
+    "mps:latitude":-35.398128,
+    "mps:longitude":173.507026,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Rawene"
+    ],
+    "name:eng_x_preferred":[
+        "Rawene"
+    ],
+    "name:eng_x_variant":[
+        "Rawene Town District"
+    ],
+    "name:mri_x_preferred":[
+        "Rawene"
+    ],
+    "name:msa_x_preferred":[
+        "Rawene"
+    ],
+    "name:unk_x_variant":[
+        "Rawene"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":371,
+    "qs:local_sum":635,
+    "qs:localhoods":6,
+    "qs:name":"Rawene",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Northland",
+    "qs:name_adm2":"Far North District",
+    "qs:name_local":"Hokianga Harbour",
+    "qs:photo_max":30,
+    "qs:photo_sum":112,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021755,
+    "qs:woe_adm2":55875844,
+    "qs:woe_lau":0,
+    "qs:woe_local":28645523,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1057,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2350378,
+        "wd:id":"Q7296972"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fb8ccacb5e4adadb548743143838f24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":85773157,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":85773157,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859637,
+    "wof:name":"Rawene",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.506248,
+    -35.397767,
+    173.506248,
+    -35.397767
+],
+  "geometry": {"coordinates":[173.506248,-35.397767],"type":"Point"}
+}

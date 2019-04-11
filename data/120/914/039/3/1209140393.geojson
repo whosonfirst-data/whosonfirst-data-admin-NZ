@@ -1,0 +1,62 @@
+{
+  "id": 1209140393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.71667,-46.33333,168.71667,-46.33333",
+    "geom:latitude":-46.33333,
+    "geom:longitude":168.71667,
+    "gn:admin1_code":"F8",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Kamahi",
+    "gn:country_code":"NZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189110,
+    "gn:latitude":-46.33333,
+    "gn:longitude":168.71667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kamahi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189110
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2462d122448b856fdadc016096f41bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209140393
+        }
+    ],
+    "wof:id":1209140393,
+    "wof:lastmodified":1536296523,
+    "wof:name":"Kamahi",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.71667,
+    -46.33333,
+    168.71667,
+    -46.33333
+],
+  "geometry": {"coordinates":[168.71666999999999,-46.33333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101914799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":58550.96546,
+    "geom:bbox":"169.971553267,-46.1112958783,169.975899796,-46.1082040968",
+    "geom:latitude":-46.109754,
+    "geom:longitude":169.973741,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.109751,
+    "lbl:longitude":169.973742,
+    "mps:latitude":-46.109749,
+    "mps:longitude":169.973738,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Helensbrook"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Helensbrook",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ce76c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6210224,
+        "gp:id":28644412
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ecb564f00e226fbcf611c2508a61ee48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101914799,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101914799,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1487208191,
+    "wof:name":"Helensbrook",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.97155326738587,
+    -46.11129587833864,
+    169.97589979606772,
+    -46.10820409681978
+],
+  "geometry": {"coordinates":[[[169.9736420981103,-46.10820409681978],[169.97589979606772,-46.10945929128982],[169.97532545753535,-46.11002363037311],[169.97383790417587,-46.11129587833864],[169.97155326738587,-46.11003546342118],[169.9736420981103,-46.10820409681978]]],"type":"Polygon"}
+}

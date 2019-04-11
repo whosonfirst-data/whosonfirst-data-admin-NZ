@@ -1,0 +1,102 @@
+{
+  "id": 85778503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1612114.492678,
+    "geom:bbox":"174.745727,-36.80014,174.745727,-36.80014",
+    "geom:latitude":-36.80014,
+    "geom:longitude":174.745727,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.80014,
+    "lbl:longitude":174.745727,
+    "mps:latitude":-36.804887,
+    "mps:longitude":174.749338,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Northcote"
+    ],
+    "name:unk_x_variant":[
+        "Northcote"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Northcote",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":41,
+    "qs:photo_sum":170,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":108,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726476
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"48100f6f766c22ca7ec21a654ee8fc35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85778503,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778503,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859803,
+    "wof:name":"Northcote",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.745727,
+    -36.80014,
+    174.745727,
+    -36.80014
+],
+  "geometry": {"coordinates":[174.74572699999999,-36.80014],"type":"Point"}
+}

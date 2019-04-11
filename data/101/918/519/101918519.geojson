@@ -1,0 +1,83 @@
+{
+  "id": 101918519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11586.872355,
+    "geom:bbox":"174.442689333,-36.16543477,174.443584557,-36.1629615035",
+    "geom:latitude":-36.164217,
+    "geom:longitude":174.442997,
+    "gn:population":565,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.164182,
+    "lbl:longitude":174.44293,
+    "mps:latitude":-36.164182,
+    "mps:longitude":174.44293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kaiwaka"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kaiwaka",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":530,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189167,
+        "gp:id":2348958,
+        "qs:id":1354761,
+        "wd:id":"Q1015707"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f4d5591b3ea44ac4109f2216de603942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101918519,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918519,
+    "wof:lastmodified":1527715672,
+    "wof:name":"Kaiwaka",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:population":565,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916805
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.44268933347956,
+    -36.16543477004537,
+    174.4435845572147,
+    -36.16296150354877
+],
+  "geometry": {"coordinates":[[[174.44274141689698,-36.16297776507356],[174.4431335306584,-36.16296689147818],[174.44313908629124,-36.16296681405014],[174.44319676955612,-36.16296150354877],[174.44320826288845,-36.16297936858694],[174.4431797869436,-36.16373322287222],[174.44317443487603,-36.16384775813253],[174.44315039059543,-36.164181561292],[174.44315040967089,-36.16418246227368],[174.44314001436538,-36.16437367537036],[174.44314007159181,-36.1643763783153],[174.44313992821574,-36.16452689157435],[174.44314029110114,-36.16454401049026],[174.44321665798964,-36.16479079359979],[174.44322378339552,-36.164812324606],[174.44358455721471,-36.16526243294132],[174.44311805077805,-36.16543477004537],[174.44268933347956,-36.16487294918231],[174.44274141689698,-36.16297776507356]]],"type":"Polygon"}
+}

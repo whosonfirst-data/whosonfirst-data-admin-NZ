@@ -1,0 +1,69 @@
+{
+  "id": 1293034565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.36011,-43.2583,170.36011,-43.2583",
+    "geom:latitude":-43.2583,
+    "geom:longitude":170.36011,
+    "gn:admin1_code":"G3",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Whataroa",
+    "gn:country_code":"NZ",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6210826,
+    "gn:latitude":-43.2583,
+    "gn:longitude":170.36011,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Whataroa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6210826,
+        "wk:page":"Whataroa"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9838d2b06244aa1c0a47e99eea5334b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1293034565,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1293034565,
+    "wof:lastmodified":1537570174,
+    "wof:name":"Whataroa",
+    "wof:parent_id":102079363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.36011000000005,
+    -43.2583,
+    170.36011000000005,
+    -43.2583
+],
+  "geometry": {"coordinates":[170.36011000000005,-43.2583],"type":"Point"}
+}

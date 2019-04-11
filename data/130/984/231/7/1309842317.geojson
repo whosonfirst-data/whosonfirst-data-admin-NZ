@@ -1,0 +1,68 @@
+{
+  "id": 1309842317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.71667,-40.73333,175.71667,-40.73333",
+    "geom:latitude":-40.73333,
+    "geom:longitude":175.71667,
+    "gn:admin1_code":"G2",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Mangamahoe",
+    "gn:country_code":"NZ",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187737,
+    "gn:latitude":-40.73333,
+    "gn:longitude":175.71667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Mangamahoe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187737
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"571e225c501420aaa99b8f8c6337c00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
+            "locality_id":1309842317,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1309842317,
+    "wof:lastmodified":1536877546,
+    "wof:name":"Mangamahoe",
+    "wof:parent_id":102079343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.71667,
+    -40.73333,
+    175.71667,
+    -40.73333
+],
+  "geometry": {"coordinates":[175.71666999999999,-40.73333],"type":"Point"}
+}

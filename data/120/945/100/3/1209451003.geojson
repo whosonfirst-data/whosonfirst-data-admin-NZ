@@ -1,0 +1,63 @@
+{
+  "id": 1209451003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.23333,-44.35,171.23333,-44.35",
+    "geom:latitude":-44.35,
+    "geom:longitude":171.23333,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"64.0",
+    "gn:asciiname":"Washdyke",
+    "gn:country_code":"NZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179624,
+    "gn:latitude":-44.35,
+    "gn:longitude":171.23333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Washdyke",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179624,
+        "wk:page":"Washdyke"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ebf11baf807619b8904be4d6fa762e16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209451003
+        }
+    ],
+    "wof:id":1209451003,
+    "wof:lastmodified":1537570166,
+    "wof:name":"Washdyke",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.23333,
+    -44.35,
+    171.23333,
+    -44.35
+],
+  "geometry": {"coordinates":[171.23333,-44.35],"type":"Point"}
+}

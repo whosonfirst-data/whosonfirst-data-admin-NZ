@@ -1,0 +1,79 @@
+{
+  "id": 101918473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14890.958783,
+    "geom:bbox":"174.909814935,-37.0148631673,174.911511443,-37.0132314289",
+    "geom:latitude":-37.013903,
+    "geom:longitude":174.910665,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.013963,
+    "lbl:longitude":174.910602,
+    "mps:latitude":-37.013963,
+    "mps:longitude":174.910602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Manurewa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Manurewa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6232064,
+        "gp:id":22726439,
+        "qs:id":1182486,
+        "wd:id":"Q6753177",
+        "wk:page":"Manurewa"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e6706adef2a488558996eacb7b74cb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101918473,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101918473,
+    "wof:lastmodified":1487270004,
+    "wof:name":"Manurewa",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914625
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.9098149351161,
+    -37.01486316734105,
+    174.9115114427496,
+    -37.01323142886879
+],
+  "geometry": {"coordinates":[[[174.91134901878479,-37.01323142886879],[174.9115114427496,-37.0134407550753],[174.9113569505414,-37.0138328876539],[174.91109948776221,-37.01404357152914],[174.91109207094485,-37.01426545625797],[174.91109159822363,-37.01427988172363],[174.91105634606214,-37.01438209566697],[174.91083373484017,-37.01462637005435],[174.91048785791668,-37.01486316734105],[174.90981493511609,-37.01347177156746],[174.91040620966965,-37.01327914473715],[174.9105190561859,-37.01347395158617],[174.91134901878479,-37.01323142886879]]],"type":"Polygon"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 85781751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8925932.775078,
+    "geom:bbox":"174.828105,-41.131631,174.828105,-41.131631",
+    "geom:latitude":-41.131631,
+    "geom:longitude":174.828105,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.131631,
+    "lbl:longitude":174.828105,
+    "mps:latitude":-41.139053,
+    "mps:longitude":174.816991,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Elsdon"
+    ],
+    "name:eng_x_preferred":[
+        "Elsdon"
+    ],
+    "name:unk_x_variant":[
+        "Elsdon"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2184397,
+    "qs:gn_nam_loc":"Porirua, Porirua City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:id":0,
+    "qs:local_max":1459,
+    "qs:local_sum":4025,
+    "qs:localhoods":7,
+    "qs:name":"Elsdon",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Porirua City",
+    "qs:name_local":"Porirua",
+    "qs:photo_max":174,
+    "qs:photo_sum":297,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875866,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350182,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":122,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914925,
+        102079317,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644769
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"f7eef1d2985f5666cf4d85e9a2ddecc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":101914925,
+            "neighbourhood_id":85781751,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85781751,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860264,
+    "wof:name":"Elsdon",
+    "wof:parent_id":101914925,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.828105,
+    -41.131631,
+    174.828105,
+    -41.131631
+],
+  "geometry": {"coordinates":[174.82810499999999,-41.131631],"type":"Point"}
+}

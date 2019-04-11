@@ -1,0 +1,101 @@
+{
+  "id": 1125880201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.35,-42.43333,171.35,-42.43333",
+    "geom:latitude":-42.43333,
+    "geom:longitude":171.35,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.43333,
+    "lbl:longitude":171.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Stillwater"
+    ],
+    "name:eng_x_preferred":[
+        "Stillwater"
+    ],
+    "name:ger_x_preferred":[
+        "Stillwater"
+    ],
+    "name:unk_x_variant":[
+        "Stillwater Junction"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2182323,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stillwater",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"West Coast",
+    "qs_pg:photos":90,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":90,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1206452,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350614,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"West Coast",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2182323,
+        "gp:id":2350614,
+        "qs_pg:id":1206452,
+        "wd:id":"Q1650995"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497294764,
+    "wof:geomhash":"382cfb664296f6c1e0b5cb88af36ff5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":1125880201,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1125880201,
+    "wof:lastmodified":1514494455,
+    "wof:name":"Stillwater",
+    "wof:parent_id":102079361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.35,
+    -42.43333,
+    171.35,
+    -42.43333
+],
+  "geometry": {"coordinates":[171.34999999999999,-42.43333],"type":"Point"}
+}

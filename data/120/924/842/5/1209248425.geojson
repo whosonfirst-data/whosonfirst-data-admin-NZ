@@ -1,0 +1,66 @@
+{
+  "id": 1209248425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.55785,-40.49194,176.55785,-40.49194",
+    "geom:latitude":-40.49194,
+    "geom:longitude":176.55785,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Herbertville",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2190045,
+    "gn:latitude":-40.49194,
+    "gn:longitude":176.55785,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Herbertville",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wainuio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190045,
+        "wk:page":"Herbertville"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"332aab68c5b0e6e79310b153cca29aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209248425
+        }
+    ],
+    "wof:id":1209248425,
+    "wof:lastmodified":1537676146,
+    "wof:name":"Herbertville",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.55785,
+    -40.49194,
+    176.55785,
+    -40.49194
+],
+  "geometry": {"coordinates":[176.55785,-40.49194],"type":"Point"}
+}

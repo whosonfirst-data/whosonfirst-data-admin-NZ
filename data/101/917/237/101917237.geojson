@@ -1,0 +1,80 @@
+{
+  "id": 101917237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24452.172803,
+    "geom:bbox":"174.294709929,-39.3455024298,174.298111092,-39.3432233826",
+    "geom:latitude":-39.343996,
+    "geom:longitude":174.296561,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.343577,
+    "lbl:longitude":174.295834,
+    "mps:latitude":-39.343577,
+    "mps:longitude":174.295834,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Stratford"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Stratford",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":3008,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c6a94-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6223846,
+        "gp:id":2350625,
+        "wd:id":"Q1972491",
+        "wk:page":"Stratford, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c45c846a49e0bd1bbfd08ba096b5669f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079293,
+            "locality_id":101917237,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101917237,
+    "wof:lastmodified":1527715914,
+    "wof:name":"Stratford",
+    "wof:parent_id":102079293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914293
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.29470992935111,
+    -39.3455024298227,
+    174.2981110924819,
+    -39.34322338257922
+],
+  "geometry": {"coordinates":[[[174.29599488906442,-39.34393051829977],[174.29471707050942,-39.34390721076192],[174.29470992935111,-39.34325210059355],[174.29475457357279,-39.34324269228133],[174.2959887041898,-39.34322338257922],[174.29737968092397,-39.34344302396075],[174.29794820247847,-39.34493463367989],[174.29811109248189,-39.34535383482632],[174.29753376544969,-39.3455024298227],[174.29748833415428,-39.34538709815055],[174.29684471894632,-39.34376983875679],[174.29619576888612,-39.34369180403268],[174.29599488906442,-39.34393051829977]]],"type":"Polygon"}
+}

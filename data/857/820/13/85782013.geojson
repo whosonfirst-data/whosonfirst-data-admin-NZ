@@ -1,0 +1,110 @@
+{
+  "id": 85782013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2052088.639758,
+    "geom:bbox":"176.290466,-38.12289,176.290466,-38.12289",
+    "geom:latitude":-38.12289,
+    "geom:longitude":176.290466,
+    "gn:latitude":-38.12065,
+    "gn:longitude":176.30104,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.12289,
+    "lbl:longitude":176.290466,
+    "mps:latitude":-38.120495,
+    "mps:longitude":176.290374,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Holdens Bay"
+    ],
+    "name:unk_x_variant":[
+        "Holdens Bay"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":6241325,
+    "qs:gn_nam_loc":"Rotorua, Rotorua District, NZ",
+    "qs:gn_namadm1":"E8",
+    "qs:gn_name":"Holdens Bay",
+    "qs:local_max":5438,
+    "qs:local_sum":12891,
+    "qs:localhoods":17,
+    "qs:name":"Holdens Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Rotorua District",
+    "qs:name_local":"Rotorua",
+    "qs:photo_max":4,
+    "qs:photo_sum":5,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875881,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350462,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079289,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6241220,
+        "gp:id":28645524,
+        "qs:id":887344,
+        "qs_pg:id":887344
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"537fa0b27129566d906a1b612e090ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":-1,
+            "neighbourhood_id":85782013,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":85782013,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860302,
+    "wof:name":"Holdens Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.290466,
+    -38.12289,
+    176.290466,
+    -38.12289
+],
+  "geometry": {"coordinates":[176.29046600000001,-38.12289],"type":"Point"}
+}

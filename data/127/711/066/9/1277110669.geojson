@@ -1,0 +1,68 @@
+{
+  "id": 1277110669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.16667,-45.45,170.16667,-45.45",
+    "geom:latitude":-45.45,
+    "geom:longitude":170.16667,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Ngapuna",
+    "gn:country_code":"NZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2186180,
+    "gn:latitude":-45.45,
+    "gn:longitude":170.16667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Ngapuna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186180
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b8bb9b326585bffc81090701bad353dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":1277110669,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1277110669,
+    "wof:lastmodified":1536727769,
+    "wof:name":"Ngapuna",
+    "wof:parent_id":102079387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.16666999999995,
+    -45.45,
+    170.16666999999995,
+    -45.45
+],
+  "geometry": {"coordinates":[170.16666999999995,-45.45],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 101917445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18405.97465,
+    "geom:bbox":"175.565786678,-37.5304085447,175.568344137,-37.5277896094",
+    "geom:latitude":-37.528987,
+    "geom:longitude":175.56703,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.528565,
+    "lbl:longitude":175.566719,
+    "mps:latitude":-37.528559,
+    "mps:longitude":175.566713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Springdale"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Springdale",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":355,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644051
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3f735d7916a346e3dca94ff9d9b04a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101917445,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101917445,
+    "wof:lastmodified":1527715913,
+    "wof:name":"Springdale",
+    "wof:parent_id":102079267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.56578667784598,
+    -37.53040854469043,
+    175.56834413747674,
+    -37.52778960939203
+],
+  "geometry": {"coordinates":[[[175.56795235559429,-37.53040854469043],[175.56754393799488,-37.52996760021174],[175.56630194493431,-37.52870022723388],[175.56629961724144,-37.52869847802668],[175.56578667784598,-37.5281750223344],[175.56649379924605,-37.52778960939203],[175.56731258240941,-37.52856742573429],[175.56708149047415,-37.52873350479923],[175.56834413747674,-37.53012299570965],[175.56795235559429,-37.53040854469043]]],"type":"Polygon"}
+}

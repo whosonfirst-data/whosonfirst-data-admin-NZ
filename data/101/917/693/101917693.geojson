@@ -1,0 +1,81 @@
+{
+  "id": 101917693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13666.646562,
+    "geom:bbox":"174.943636227,-37.0927827678,174.944624607,-37.0897708659",
+    "geom:latitude":-37.09139,
+    "geom:longitude":174.944077,
+    "gn:population":28010,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.091628,
+    "lbl:longitude":174.944107,
+    "mps:latitude":-37.091628,
+    "mps:longitude":174.944107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Papakura"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Papakura",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208329,
+        "wd:id":"Q1014616",
+        "wk:page":"Papakura District"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a6cd33053171336144307add66b6c043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101917693,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101917693,
+    "wof:lastmodified":1505338685,
+    "wof:name":"Papakura",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:population":28010,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915043
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.94363622688215,
+    -37.09278276778199,
+    174.94462460677997,
+    -37.0897708659205
+],
+  "geometry": {"coordinates":[[[174.94393621767861,-37.0897708659205],[174.94393846331371,-37.08977524459004],[174.94410735407374,-37.09038351302917],[174.94415670439551,-37.0906919622098],[174.94415757046607,-37.09069681396161],[174.9443955136816,-37.09164006075615],[174.94444636371722,-37.09194902590691],[174.9444474660306,-37.09195585615931],[174.9445413315245,-37.09227447830767],[174.9446031750098,-37.09257794642269],[174.94462460677997,-37.09275583301083],[174.94457691652627,-37.09276652739005],[174.94446410056648,-37.09276999997829],[174.94429548714569,-37.09278276778199],[174.94426296953955,-37.09236347733734],[174.94383460072953,-37.09240555514087],[174.94382402517485,-37.09121465075417],[174.94363790631914,-37.0903931931114],[174.94378528948681,-37.09023957156374],[174.94363622688215,-37.08985174777727],[174.94393621767861,-37.0897708659205]]],"type":"Polygon"}
+}

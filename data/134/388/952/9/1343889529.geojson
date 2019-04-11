@@ -1,0 +1,68 @@
+{
+  "id": 1343889529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.61667,-35.73333,173.61667,-35.73333",
+    "geom:latitude":-35.73333,
+    "geom:longitude":173.61667,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Aranga",
+    "gn:country_code":"NZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2193862,
+    "gn:latitude":-35.73333,
+    "gn:longitude":173.61667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Aranga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193862
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"027db35d66c75283c388a7351a969a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":1343889529,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1343889529,
+    "wof:lastmodified":1536622692,
+    "wof:name":"Aranga",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.61667,
+    -35.73333,
+    173.61667,
+    -35.73333
+],
+  "geometry": {"coordinates":[173.61667,-35.73333],"type":"Point"}
+}

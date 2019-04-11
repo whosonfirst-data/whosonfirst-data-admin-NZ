@@ -1,0 +1,68 @@
+{
+  "id": 1344187565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.70641,-39.57027,175.70641,-39.57027",
+    "geom:latitude":-39.57027,
+    "geom:longitude":175.70641,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Hihitahi",
+    "gn:country_code":"NZ",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189987,
+    "gn:latitude":-39.57027,
+    "gn:longitude":175.70641,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Hihitahi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189987
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0f247ebdd04f3432805054306337eb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1344187565,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1344187565,
+    "wof:lastmodified":1536692496,
+    "wof:name":"Hihitahi",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.70641,
+    -39.57027,
+    175.70641,
+    -39.57027
+],
+  "geometry": {"coordinates":[175.70641000000001,-39.57027],"type":"Point"}
+}

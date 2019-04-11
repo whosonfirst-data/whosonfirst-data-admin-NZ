@@ -1,0 +1,81 @@
+{
+  "id": 101917263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17856.737356,
+    "geom:bbox":"174.236879465,-38.9982667454,174.239228034,-38.9959493615",
+    "geom:latitude":-38.997104,
+    "geom:longitude":174.238052,
+    "gn:population":6318,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.997094,
+    "lbl:longitude":174.238048,
+    "mps:latitude":-38.997094,
+    "mps:longitude":174.238048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waitara"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waitara",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2208091,
+        "wd:id":"Q727199",
+        "wk:page":"Waitara, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c6e074663d2310b90bdf8ecbb5cd17b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101917263,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101917263,
+    "wof:lastmodified":1505338684,
+    "wof:name":"Waitara",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:population":6318,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914453
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.23687946502397,
+    -38.99826674542623,
+    174.2392280338895,
+    -38.99594936147169
+],
+  "geometry": {"coordinates":[[[174.23756467529185,-38.99594936147169],[174.23774985075218,-38.99617567341183],[174.23784954621675,-38.99629753377444],[174.2390904148227,-38.99781427897741],[174.2392280338895,-38.99798247131854],[174.23858044464913,-38.99826674542623],[174.23778342683013,-38.99734141184451],[174.23687946502397,-38.99625059695976],[174.23756467529185,-38.99594936147169]]],"type":"Polygon"}
+}

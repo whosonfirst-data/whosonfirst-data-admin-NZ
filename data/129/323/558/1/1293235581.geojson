@@ -1,0 +1,72 @@
+{
+  "id": 1293235581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.4,-40.33333,175.4,-40.33333",
+    "geom:latitude":-40.33333,
+    "geom:longitude":175.4,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Glen Oroua",
+    "gn:cc2":"NZ",
+    "gn:country_code":"NZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2190697,
+    "gn:latitude":-40.33333,
+    "gn:longitude":175.4,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Glen Oroua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glenorve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190697
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"144c3dd3880de07183c486a154f95808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":1293235581,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1293235581,
+    "wof:lastmodified":1537676146,
+    "wof:name":"Glen Oroua",
+    "wof:parent_id":102079303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.4,
+    -40.33333,
+    175.4,
+    -40.33333
+],
+  "geometry": {"coordinates":[175.40000000000001,-40.33333],"type":"Point"}
+}

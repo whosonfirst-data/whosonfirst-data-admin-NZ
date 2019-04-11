@@ -1,0 +1,116 @@
+{
+  "id": 85778403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":8290952.484653,
+    "geom:bbox":"175.084409,-41.125282,175.084409,-41.125282",
+    "geom:latitude":-41.125282,
+    "geom:longitude":175.084409,
+    "gn:latitude":-41.11827,
+    "gn:longitude":175.0702,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.125282,
+    "lbl:longitude":175.084409,
+    "mps:latitude":-41.135288,
+    "mps:longitude":175.088376,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Kingsley Heights"
+    ],
+    "name:unk_x_variant":[
+        "Kingsley Heights"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":6244895,
+    "qs:gn_nam_loc":"Upper Hutt, Upper Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Kingsley Heights",
+    "qs:local_max":2176,
+    "qs:local_sum":5219,
+    "qs:localhoods":16,
+    "qs:name":"Kingsley Heights",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Upper Hutt City",
+    "qs:name_local":"Upper Hutt",
+    "qs:photo_max":35,
+    "qs:photo_sum":143,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875896,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351024,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":52,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        102079335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6244892,
+        "gp:id":22726420,
+        "qs:id":353058,
+        "wd:id":"Q6413312",
+        "wk:page":"Kingsley Heights"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ab831098d77126484fe793947760dcd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":-1,
+            "neighbourhood_id":85778403,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85778403,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379391,
+    "wof:name":"Kingsley Heights",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        1126072491
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.084409,
+    -41.125282,
+    175.084409,
+    -41.125282
+],
+  "geometry": {"coordinates":[175.08440899999999,-41.125282],"type":"Point"}
+}

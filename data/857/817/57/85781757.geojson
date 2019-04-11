@@ -1,0 +1,111 @@
+{
+  "id": 85781757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1981324.33905,
+    "geom:bbox":"175.071708,-41.117822,175.071708,-41.117822",
+    "geom:latitude":-41.117822,
+    "geom:longitude":175.071708,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-41.117822,
+    "lbl:longitude":175.071708,
+    "mps:latitude":-41.106731,
+    "mps:longitude":175.07062,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Ebdentown"
+    ],
+    "name:unk_x_variant":[
+        "Ebdentown"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6244895,
+    "qs:gn_nam_loc":"Upper Hutt, Upper Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:local_max":2176,
+    "qs:local_sum":5219,
+    "qs:localhoods":16,
+    "qs:name":"Ebdentown",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Upper Hutt City",
+    "qs:name_local":"Upper Hutt",
+    "qs:photo_max":90,
+    "qs:photo_sum":103,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875896,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351024,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":26,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914809,
+        102079335,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644773,
+        "qs:id":210259,
+        "qs_pg:id":210259,
+        "wd:id":"Q5331581"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0335de7a4a51b8f0a53190e993ae4719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":101914809,
+            "neighbourhood_id":85781757,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85781757,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860265,
+    "wof:name":"Ebdentown",
+    "wof:parent_id":101914809,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.071708,
+    -41.117822,
+    175.071708,
+    -41.117822
+],
+  "geometry": {"coordinates":[175.071708,-41.117822],"type":"Point"}
+}

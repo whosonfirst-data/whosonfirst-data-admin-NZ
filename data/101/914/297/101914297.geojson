@@ -1,0 +1,75 @@
+{
+  "id": 101914297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18369.921122,
+    "geom:bbox":"178.129379736,-38.6502932304,178.134539716,-38.6491489551",
+    "geom:latitude":-38.649599,
+    "geom:longitude":178.131945,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.649407,
+    "lbl:longitude":178.131971,
+    "mps:latitude":-38.649407,
+    "mps:longitude":178.131958,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Makorori"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Makorori",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643132,
+        "qs_pg:id":230225
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d72f7879df498e3bbc82336aec1cff5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101914297,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":101914297,
+    "wof:lastmodified":1497292833,
+    "wof:name":"Makorori",
+    "wof:parent_id":102079325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.12937973613123,
+    -38.65029323039418,
+    178.1345397156615,
+    -38.64914895508834
+],
+  "geometry": {"coordinates":[[[178.1345397156615,-38.64997723875069],[178.13429231491196,-38.65029323039418],[178.13378686188409,-38.65007880971252],[178.13377884830135,-38.65007619050122],[178.13325164013045,-38.64990433009732],[178.13324507457057,-38.64990263855906],[178.13270997456902,-38.64976622319983],[178.13269858608916,-38.64976465682993],[178.13189939910006,-38.64965122051827],[178.13188820377673,-38.64965072802325],[178.13106917665482,-38.64961891735555],[178.13106000259057,-38.64961932703849],[178.13047057344431,-38.64964564508998],[178.13046043923029,-38.64964708999081],[178.12937973613123,-38.6497982744795],[178.12943245879032,-38.64937081364808],[178.1302795323021,-38.64937540061972],[178.13199683390118,-38.64914895508834],[178.1345397156615,-38.64997723875069]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101918215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17587.432853,
+    "geom:bbox":"175.2800227,-39.4325003408,175.282495424,-39.43114661",
+    "geom:latitude":-39.431685,
+    "geom:longitude":175.281418,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.431657,
+    "lbl:longitude":175.281835,
+    "mps:latitude":-39.431657,
+    "mps:longitude":175.281835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Raetihi"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Raetihi",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":933,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6225059,
+        "gp:id":2350307,
+        "wd:id":"Q175993"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ea64d229b9b06688b594a19b7a912a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101918215,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918215,
+    "wof:lastmodified":1527715675,
+    "wof:name":"Raetihi",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914607
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.2800226997326,
+    -39.43250034077953,
+    175.28249542351432,
+    -39.43114661000977
+],
+  "geometry": {"coordinates":[[[175.28249542351432,-39.43248111989875],[175.28246877351461,-39.43248345748545],[175.28162798414567,-39.43250034077953],[175.28161077098099,-39.43240245793604],[175.28159287765851,-39.4323190076281],[175.28144863514433,-39.43175776573038],[175.28011354004599,-39.43172688519892],[175.2800226997326,-39.43116366904149],[175.28105063237047,-39.43118359378017],[175.28105760016513,-39.43118345391869],[175.28208480005765,-39.43114661000977],[175.28208602146177,-39.43114838789359],[175.28249542351432,-39.43248111989875]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310535365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.621,-39.8694,175.621,-39.8694",
+    "geom:latitude":-39.8694,
+    "geom:longitude":175.621,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Poukiore",
+    "gn:country_code":"NZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2184325,
+    "gn:latitude":-39.8694,
+    "gn:longitude":175.621,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Poukiore",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184325
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a20232205a7f69068a35bc125bd7370e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":1310535365,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1310535365,
+    "wof:lastmodified":1536872858,
+    "wof:name":"Poukiore",
+    "wof:parent_id":102079301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.62099999999995,
+    -39.8694,
+    175.62099999999995,
+    -39.8694
+],
+  "geometry": {"coordinates":[175.62099999999995,-39.8694],"type":"Point"}
+}

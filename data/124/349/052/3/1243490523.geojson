@@ -1,0 +1,68 @@
+{
+  "id": 1243490523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.81667,-43.95,171.81667,-43.95",
+    "geom:latitude":-43.95,
+    "geom:longitude":171.81667,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Elgin",
+    "gn:country_code":"NZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2191390,
+    "gn:latitude":-43.95,
+    "gn:longitude":171.81667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Elgin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191390
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e9db099285b1feb9ccd77a74474ca58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":1243490523,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1243490523,
+    "wof:lastmodified":1536741691,
+    "wof:name":"Elgin",
+    "wof:parent_id":102079371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.81667,
+    -43.95,
+    171.81667,
+    -43.95
+],
+  "geometry": {"coordinates":[171.81666999999999,-43.95],"type":"Point"}
+}

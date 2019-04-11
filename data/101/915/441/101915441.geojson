@@ -1,0 +1,101 @@
+{
+  "id": 101915441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":95678.255029,
+    "geom:bbox":"169.182794418,-45.0473686747,169.18725227,-45.0434463596",
+    "geom:latitude":-45.045418,
+    "geom:longitude":169.184906,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.045443,
+    "lbl:longitude":169.18508,
+    "mps:latitude":-45.045443,
+    "mps:longitude":169.18508,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ces_x_preferred":[
+        "Cromwell"
+    ],
+    "name:deu_x_preferred":[
+        "Cromwell"
+    ],
+    "name:eng_x_preferred":[
+        "Cromwell"
+    ],
+    "name:fra_x_preferred":[
+        "Cromwell"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10dd\u10db\u10d5\u10d4\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Cromwell"
+    ],
+    "name:nld_x_preferred":[
+        "Cromwell"
+    ],
+    "name:pol_x_preferred":[
+        "Cromwell"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cromwell",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1085,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df580-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6207775,
+        "gp:id":2348397,
+        "wd:id":"Q973355",
+        "wk:page":"Cromwell, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"354746961e349afdf8c5d4e66738bde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079383,
+            "locality_id":101915441,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101915441,
+    "wof:lastmodified":1527643130,
+    "wof:name":"Cromwell",
+    "wof:parent_id":102079383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915179
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.1827944177581,
+    -45.04736867474531,
+    169.18725226955405,
+    -45.04344635959254
+],
+  "geometry": {"coordinates":[[[169.18414196813998,-45.047355107009],[169.18391262017815,-45.04736867474531],[169.18279441775809,-45.04649057093683],[169.18308186380787,-45.04590270950881],[169.18365237683443,-45.04531962649356],[169.1835047842178,-45.0452445166776],[169.18318464939534,-45.04508717207345],[169.18290002562185,-45.04502828732117],[169.18369209878409,-45.04373716536949],[169.18436541445382,-45.043998993913],[169.18442328576978,-45.04402150015779],[169.18461095125977,-45.04414477098866],[169.18496148192727,-45.04344635959254],[169.18538867417928,-45.04363783608832],[169.1863586178012,-45.04429484223073],[169.18689147565064,-45.04442491658423],[169.18725226955405,-45.04440701756171],[169.1871951332601,-45.04479612526974],[169.18691372993862,-45.04554545970582],[169.1866980756848,-45.04592937313915],[169.18612039217479,-45.04666178378479],[169.18584121306444,-45.04673371542014],[169.18521097176225,-45.04681034601668],[169.18415755777698,-45.04735418466777],[169.18414196813998,-45.047355107009]]],"type":"Polygon"}
+}

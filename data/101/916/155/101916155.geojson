@@ -1,0 +1,87 @@
+{
+  "id": 101916155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":152052.878487,
+    "geom:bbox":"171.714485048,-43.92125667,171.7256101,-43.914561546",
+    "geom:latitude":-43.918005,
+    "geom:longitude":171.71979,
+    "gn:population":2703,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.918066,
+    "lbl:longitude":171.719873,
+    "mps:latitude":-43.918066,
+    "mps:longitude":171.719873,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tinwald"
+    ],
+    "name:eng_x_variant":[
+        "Tinwald Town District"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tinwald",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":298,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0211e848-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2181108,
+        "gp:id":2350918,
+        "wd:id":"Q7808554",
+        "wk:page":"Tinwald, New Zealand"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"19891a714efc50712c7a71778839c612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":101916155,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101916155,
+    "wof:lastmodified":1527715562,
+    "wof:name":"Tinwald",
+    "wof:parent_id":102079371,
+    "wof:placetype":"locality",
+    "wof:population":2703,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914653
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.7144850479934,
+    -43.92125667004971,
+    171.72561009954546,
+    -43.91456154601166
+],
+  "geometry": {"coordinates":[[[171.72391198272655,-43.91499802313996],[171.72466445004395,-43.91456154601166],[171.72534369650126,-43.91527165209847],[171.72561009954546,-43.91551171356926],[171.72483339204732,-43.91595582135584],[171.72470910583027,-43.91605091922817],[171.72408311047937,-43.91655954203117],[171.7175661730713,-43.9200542134287],[171.71534290152653,-43.92124478293743],[171.71479158237494,-43.92125667004971],[171.71448504799341,-43.92114392983112],[171.7157747764883,-43.91896276293329],[171.71591997174906,-43.91874008456459],[171.71633980853468,-43.91807058348714],[171.71670303314457,-43.91818133666576],[171.7171609137427,-43.91831693124275],[171.71779728584886,-43.91851138967423],[171.72258435841451,-43.91575586883489],[171.72391198272655,-43.91499802313996]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125922241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.692672,-37.879905,175.692672,-37.879905",
+    "geom:latitude":-37.879905,
+    "geom:longitude":175.692672,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.879905,
+    "lbl:longitude":175.692672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Piarere",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Waikato",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1135716,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2350120,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Waikato",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2350120,
+        "qs_pg:id":1135716
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296521,
+    "wof:geomhash":"1b37a1d49959a382bc180e4c2d127596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":1125922241,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1125922241,
+    "wof:lastmodified":1509400879,
+    "wof:name":"Piarere",
+    "wof:parent_id":102079267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.692672,
+    -37.879905,
+    175.692672,
+    -37.879905
+],
+  "geometry": {"coordinates":[175.69267199999999,-37.879905],"type":"Point"}
+}

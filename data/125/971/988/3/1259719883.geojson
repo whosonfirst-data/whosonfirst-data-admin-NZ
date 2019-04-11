@@ -1,0 +1,68 @@
+{
+  "id": 1259719883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.56035,-37.05038,174.56035,-37.05038",
+    "geom:latitude":-37.05038,
+    "geom:longitude":174.56035,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Manukau Heads",
+    "gn:country_code":"NZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9485436,
+    "gn:latitude":-37.05038,
+    "gn:longitude":174.56035,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Manukau Heads",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9485436
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0980add7abe53e6ef51cf53dc354a8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1259719883,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1259719883,
+    "wof:lastmodified":1537013873,
+    "wof:name":"Manukau Heads",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.56035,
+    -37.05038,
+    174.56035,
+    -37.05038
+],
+  "geometry": {"coordinates":[174.56035,-37.05038],"type":"Point"}
+}

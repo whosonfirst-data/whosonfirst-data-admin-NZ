@@ -1,0 +1,82 @@
+{
+  "id": 1125935825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.637526,-38.082419,175.637526,-38.082419",
+    "geom:latitude":-38.082419,
+    "geom:longitude":175.637526,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.082419,
+    "lbl:longitude":175.637526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pohara Marae",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Waikato",
+    "qs_pg:photos":97,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":97,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985781,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28643401,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Waikato",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643401,
+        "qs_pg:id":985781
+    },
+    "wof:country":"NZ",
+    "wof:created":1497296965,
+    "wof:geomhash":"7a71bb070ebad5db47bb69434429c2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":1125935825,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1125935825,
+    "wof:lastmodified":1509401699,
+    "wof:name":"Pohara Marae",
+    "wof:parent_id":102079277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.637526,
+    -38.082419,
+    175.637526,
+    -38.082419
+],
+  "geometry": {"coordinates":[175.63752600000001,-38.082419],"type":"Point"}
+}

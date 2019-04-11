@@ -1,0 +1,89 @@
+{
+  "id": 101918689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2464.269288,
+    "geom:bbox":"175.654765657,-40.9558857903,175.655665421,-40.9552590216",
+    "geom:latitude":-40.955576,
+    "geom:longitude":175.65522,
+    "gn:population":20698,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.955499,
+    "lbl:longitude":175.655346,
+    "mps:latitude":-40.955499,
+    "mps:longitude":175.655346,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Masterton"
+    ],
+    "name:eng_x_variant":[
+        "MRO"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Masterton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-40.966667,
+    "wd:longitude":175.65,
+    "wd:wordcount":2258,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df878-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2206890,
+        "gp:id":2349441,
+        "wd:id":"Q1223916",
+        "wk:page":"Masterton"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3a9477d800ef104479ce09d3fb315a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
+            "locality_id":101918689,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":101918689,
+    "wof:lastmodified":1527715670,
+    "wof:name":"Masterton",
+    "wof:parent_id":102079343,
+    "wof:placetype":"locality",
+    "wof:population":20698,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915543
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.65476565722207,
+    -40.95588579025936,
+    175.65566542109016,
+    -40.95525902159297
+],
+  "geometry": {"coordinates":[[[175.65506673092582,-40.95588579025936],[175.65476565722207,-40.95563931143436],[175.65479170572181,-40.95562306925738],[175.65481357975904,-40.95560941511989],[175.6553801482776,-40.95525902159297],[175.65566542109016,-40.95552342806483],[175.65506673092582,-40.95588579025936]]],"type":"Polygon"}
+}

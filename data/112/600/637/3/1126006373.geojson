@@ -1,0 +1,102 @@
+{
+  "id": 1126006373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.21667,-40.71667,175.21667,-40.71667",
+    "geom:latitude":-40.71667,
+    "geom:longitude":175.21667,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1000,
+    "gn:population":1000,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.71667,
+    "lbl:longitude":175.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Manakau"
+    ],
+    "name:eng_x_preferred":[
+        "Manakau"
+    ],
+    "name:may_x_preferred":[
+        "Manakau"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2187821,
+    "qs_pg:gn_pop":1000,
+    "qs_pg:name":"Manakau",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Manawatu Wanganui",
+    "qs_pg:photos":365,
+    "qs_pg:photos_1k":74,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":365,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":923936,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2349327,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Manawatu Wanganui",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187821,
+        "gp:id":2349327,
+        "qs_pg:id":923936,
+        "wd:id":"Q6746798"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497299986,
+    "wof:geomhash":"302edd31362cb96426f23cbd5c55dfcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":1126006373,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1126006373,
+    "wof:lastmodified":1514494231,
+    "wof:name":"Manakau",
+    "wof:parent_id":102079313,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.21667,
+    -40.71667,
+    175.21667,
+    -40.71667
+],
+  "geometry": {"coordinates":[175.21666999999999,-40.71667],"type":"Point"}
+}

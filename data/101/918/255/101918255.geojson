@@ -1,0 +1,79 @@
+{
+  "id": 101918255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21160.847592,
+    "geom:bbox":"173.226629353,-41.3273830626,173.229436522,-41.3249514221",
+    "geom:latitude":-41.326093,
+    "geom:longitude":173.228069,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.325977,
+    "lbl:longitude":173.228067,
+    "mps:latitude":-41.325977,
+    "mps:longitude":173.228067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Stoke"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Stoke",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":309,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687157,
+        102079351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0211e8ac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2182311,
+        "gp:id":2350617,
+        "wd:id":"Q354760"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"7259778611cde747d117c0a9895d2483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101918255,
+            "region_id":85687157
+        }
+    ],
+    "wof:id":101918255,
+    "wof:lastmodified":1527715678,
+    "wof:name":"Stoke",
+    "wof:parent_id":102079351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915661
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.2266293528471,
+    -41.32738306261142,
+    173.2294365224358,
+    -41.32495142213784
+],
+  "geometry": {"coordinates":[[[173.2282164094639,-41.32684885452821],[173.22837572721318,-41.32673274451059],[173.22662935284711,-41.32545159169428],[173.22673366604297,-41.32538979841236],[173.22744687115707,-41.32495142213784],[173.22841194278507,-41.32572360187246],[173.22853769144857,-41.32599250983041],[173.22896290502189,-41.32625795399995],[173.22876729808311,-41.32645076589374],[173.2294365224358,-41.32698236453652],[173.22888827042127,-41.32738306261142],[173.2282164094639,-41.32684885452821]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276151717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.26667,-38.11667,177.26667,-38.11667",
+    "geom:latitude":-38.11667,
+    "geom:longitude":177.26667,
+    "gn:admin1_code":"E8",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Matahanea",
+    "gn:country_code":"NZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2187233,
+    "gn:latitude":-38.11667,
+    "gn:longitude":177.26667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Matahanea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2187233
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8d8a2ddc6d9c98daf66fcb016c89e20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079321,
+            "locality_id":1276151717,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1276151717,
+    "wof:lastmodified":1537021224,
+    "wof:name":"Matahanea",
+    "wof:parent_id":102079321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.26667,
+    -38.11667,
+    177.26667,
+    -38.11667
+],
+  "geometry": {"coordinates":[177.26667,-38.11667],"type":"Point"}
+}

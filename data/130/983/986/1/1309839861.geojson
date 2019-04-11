@@ -1,0 +1,68 @@
+{
+  "id": 1309839861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.05,-38.08333,175.05,-38.08333",
+    "geom:latitude":-38.08333,
+    "geom:longitude":175.05,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Te Rauamoa",
+    "gn:country_code":"NZ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181346,
+    "gn:latitude":-38.08333,
+    "gn:longitude":175.05,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Te Rauamoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181346
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1c40f4694f0dbeb92ac74ca97fe93754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079275,
+            "locality_id":1309839861,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1309839861,
+    "wof:lastmodified":1536881359,
+    "wof:name":"Te Rauamoa",
+    "wof:parent_id":102079275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.05,
+    -38.08333,
+    175.05,
+    -38.08333
+],
+  "geometry": {"coordinates":[175.05000000000001,-38.08333],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209250693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.01667,-44.66667,169.01667,-44.66667",
+    "geom:latitude":-44.66667,
+    "geom:longitude":169.01667,
+    "gn:admin1_code":"F7",
+    "gn:admin2_code":"70.0",
+    "gn:asciiname":"Glendhu",
+    "gn:country_code":"NZ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2190731,
+    "gn:latitude":-44.66667,
+    "gn:longitude":169.01667,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Glendhu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190731
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"101906f7d88ea51465a9047419ed38f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633345,
+            "locality_id":1209250693
+        }
+    ],
+    "wof:id":1209250693,
+    "wof:lastmodified":1536293014,
+    "wof:name":"Glendhu",
+    "wof:parent_id":85633345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.01667,
+    -44.66667,
+    169.01667,
+    -44.66667
+],
+  "geometry": {"coordinates":[169.01667,-44.66667],"type":"Point"}
+}

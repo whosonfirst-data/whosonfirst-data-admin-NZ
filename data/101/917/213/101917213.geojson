@@ -1,0 +1,83 @@
+{
+  "id": 101917213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":68947.392999,
+    "geom:bbox":"175.629519536,-40.2828772899,175.634174852,-40.2790830123",
+    "geom:latitude":-40.280789,
+    "geom:longitude":175.631803,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.280158,
+    "lbl:longitude":175.632039,
+    "mps:latitude":-40.280158,
+    "mps:longitude":175.632039,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Bunnythorpe"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bunnythorpe",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":847,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020dde7e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192822,
+        "gp:id":2348251,
+        "qs_pg:id":246585,
+        "wd:id":"Q4997892",
+        "wk:page":"Bunnythorpe"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"bac2880991dea8ef15b45b5b15249beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101917213,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101917213,
+    "wof:lastmodified":1527715913,
+    "wof:name":"Bunnythorpe",
+    "wof:parent_id":102079307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916313
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.62951953556507,
+    -40.28287728985462,
+    175.63417485185778,
+    -40.27908301226046
+],
+  "geometry": {"coordinates":[[[175.63220477059392,-40.27908301226046],[175.63298604733706,-40.27981318657146],[175.63417485185778,-40.28084146535717],[175.63412752587641,-40.28087268499462],[175.63329136740404,-40.28142433959651],[175.63273403340315,-40.28098025077419],[175.63219748224984,-40.2812502226603],[175.63192112572284,-40.28104208949214],[175.63135866449954,-40.2813718493422],[175.63225534079754,-40.28210066911197],[175.63258835852764,-40.2824160831066],[175.63260057658121,-40.28242769763621],[175.63269312461131,-40.28248387957733],[175.63268853677735,-40.28248993151743],[175.63206619142935,-40.28287728985462],[175.6301654714305,-40.28130603767104],[175.63011853288154,-40.28126385941063],[175.62951953556507,-40.28072816873591],[175.63134298671099,-40.27961091071534],[175.63220477059392,-40.27908301226046]]],"type":"Polygon"}
+}

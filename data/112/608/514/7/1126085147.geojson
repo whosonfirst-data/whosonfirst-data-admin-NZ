@@ -1,0 +1,99 @@
+{
+  "id": 1126085147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.1002,-39.04824,174.1002,-39.04824",
+    "geom:latitude":-39.04824,
+    "geom:longitude":174.1002,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.04824,
+    "lbl:longitude":174.1002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Fitzroy"
+    ],
+    "name:unk_x_variant":[
+        "Fitzroy"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6222907,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fitzroy",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Taranaki",
+    "qs_pg:photos":287,
+    "qs_pg:photos_1k":58,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":287,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":275827,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348535,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Taranaki",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85687195,
+        102191583,
+        85633345,
+        101914745,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6222907,
+        "gp:id":2348535,
+        "qs:id":275827,
+        "qs_pg:id":275827
+    },
+    "wof:country":"NZ",
+    "wof:created":1497312633,
+    "wof:geomhash":"d1cc0479450241c19076060197ed5493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101914745,
+            "neighbourhood_id":1126085147,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1126085147,
+    "wof:lastmodified":1534379391,
+    "wof:name":"Fitzroy",
+    "wof:parent_id":101914745,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85772911
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.1002,
+    -39.04824,
+    174.1002,
+    -39.04824
+],
+  "geometry": {"coordinates":[174.1002,-39.04824],"type":"Point"}
+}

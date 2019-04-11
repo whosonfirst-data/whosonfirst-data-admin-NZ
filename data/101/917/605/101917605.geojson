@@ -1,0 +1,77 @@
+{
+  "id": 101917605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":104799.003777,
+    "geom:bbox":"176.269299163,-37.6984151755,176.273785935,-37.6950111427",
+    "geom:latitude":-37.696851,
+    "geom:longitude":176.271488,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.696758,
+    "lbl:longitude":176.271489,
+    "mps:latitude":-37.696758,
+    "mps:longitude":176.271489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Papamoa Beach"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Papamoa Beach",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":886,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6245117,
+        "wd:id":"Q2050563"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c8b74c75e5748263f618e18608d88fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101917605,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":101917605,
+    "wof:lastmodified":1527715907,
+    "wof:name":"Papamoa Beach",
+    "wof:parent_id":102079285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915579
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.26929916278738,
+    -37.69841517550917,
+    176.2737859348875,
+    -37.69501114274447
+],
+  "geometry": {"coordinates":[[[176.2731161941245,-37.6982368594613],[176.27234039102387,-37.69841517550917],[176.27060815129997,-37.69821145498308],[176.26986419763617,-37.69796257969938],[176.26931528931593,-37.6976916369793],[176.26929916278738,-37.69711828275471],[176.26975098426476,-37.69640024869336],[176.27009294425443,-37.69553777277319],[176.27052550397309,-37.69507433832314],[176.27100747230554,-37.69501114274447],[176.27238382300692,-37.69555308382991],[176.27277329816218,-37.69572208998905],[176.27326720325502,-37.69614217534416],[176.27378593488751,-37.69665170674738],[176.27351477673943,-37.697036629503],[176.27334457863648,-37.69782033740061],[176.2731161941245,-37.6982368594613]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293426139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.62922,-45.38459,170.62922,-45.38459",
+    "geom:latitude":-45.38459,
+    "geom:longitude":170.62922,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Dunback",
+    "gn:country_code":"NZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2191574,
+    "gn:latitude":-45.38459,
+    "gn:longitude":170.62922,
+    "gn:modification_date":"2015-03-05",
+    "gn:name":"Dunback",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2191574,
+        "wk:page":"Dunback"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0205043368db318378e8d556822f27e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1293426139,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1293426139,
+    "wof:lastmodified":1537570173,
+    "wof:name":"Dunback",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.62922,
+    -45.38459,
+    170.62922,
+    -45.38459
+],
+  "geometry": {"coordinates":[170.62922,-45.38459],"type":"Point"}
+}

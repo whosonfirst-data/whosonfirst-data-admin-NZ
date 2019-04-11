@@ -1,0 +1,78 @@
+{
+  "id": 101918145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8647.894834,
+    "geom:bbox":"175.203138617,-40.5542520115,175.204983945,-40.553193617",
+    "geom:latitude":-40.553672,
+    "geom:longitude":175.20415,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.553689,
+    "lbl:longitude":175.204187,
+    "mps:latitude":-40.553689,
+    "mps:longitude":175.204187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waitarere"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waitarere",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020cb936-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179832,
+        "gp:id":2351231,
+        "qs:id":1171460
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"edb5502f772bf3c9f55956cca9faa757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101918145,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101918145,
+    "wof:lastmodified":1487269997,
+    "wof:name":"Waitarere",
+    "wof:parent_id":102079313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915191
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.20313861667208,
+    -40.55425201147305,
+    175.20498394498017,
+    -40.55319361698777
+],
+  "geometry": {"coordinates":[[[175.20345501556761,-40.55319361698777],[175.20498394498017,-40.55360579897267],[175.20478196799132,-40.55425201147305],[175.20313861667208,-40.55352129321169],[175.20345501556761,-40.55319361698777]]],"type":"Polygon"}
+}

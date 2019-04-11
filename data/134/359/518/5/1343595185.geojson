@@ -1,0 +1,68 @@
+{
+  "id": 1343595185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.93333,-41.85,171.93333,-41.85",
+    "geom:latitude":-41.85,
+    "geom:longitude":171.93333,
+    "gn:admin1_code":"G3",
+    "gn:admin2_code":"55.0",
+    "gn:asciiname":"Inangahua Camp",
+    "gn:country_code":"NZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189551,
+    "gn:latitude":-41.85,
+    "gn:longitude":171.93333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Inangahua Camp",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189551
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ca6fad5e80962afc8d0ae8a349e43377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":1343595185,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1343595185,
+    "wof:lastmodified":1537047299,
+    "wof:name":"Inangahua Camp",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.93333,
+    -41.85,
+    171.93333,
+    -41.85
+],
+  "geometry": {"coordinates":[171.93333000000001,-41.85],"type":"Point"}
+}

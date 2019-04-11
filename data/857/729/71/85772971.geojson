@@ -1,0 +1,108 @@
+{
+  "id": 85772971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5909149.497027,
+    "geom:bbox":"174.926063,-36.898355,174.926063,-36.898355",
+    "geom:latitude":-36.898355,
+    "geom:longitude":174.926063,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.898355,
+    "lbl:longitude":174.926063,
+    "mps:latitude":-36.895017,
+    "mps:longitude":174.934954,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Howick"
+    ],
+    "name:eng_x_variant":[
+        "Howick Town District"
+    ],
+    "name:unk_x_variant":[
+        "Howick"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:id":0,
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Howick",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":127,
+    "qs:photo_sum":381,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2348845
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"43a28bb3fab6352c39c99b71ec6129b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85772971,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859613,
+    "wof:name":"Howick",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.926063,
+    -36.898355,
+    174.926063,
+    -36.898355
+],
+  "geometry": {"coordinates":[174.926063,-36.898355],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 101914797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":39309.138595,
+    "geom:bbox":"169.371889044,-46.2039813385,169.375732481,-46.2011122307",
+    "geom:latitude":-46.202749,
+    "geom:longitude":169.373893,
+    "gn:population":343,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.202983,
+    "lbl:longitude":169.374023,
+    "mps:latitude":-46.202983,
+    "mps:longitude":169.374023,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Clinton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Clinton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020de504-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2192285,
+        "gp:id":2348355
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"98213641bb57ea448a96847ef28d7547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101914797,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":101914797,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1505338670,
+    "wof:name":"Clinton",
+    "wof:parent_id":102079389,
+    "wof:placetype":"locality",
+    "wof:population":343,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914563
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.37188904391965,
+    -46.2039813385243,
+    169.3757324814843,
+    -46.20111223065673
+],
+  "geometry": {"coordinates":[[[169.37360676800026,-46.2039813385243],[169.37333309167354,-46.20354976707362],[169.37307944125138,-46.20315032238092],[169.37307917694227,-46.20311339255085],[169.37308422993036,-46.20229316172086],[169.37202648633189,-46.20191428403486],[169.37188904391965,-46.20111223065673],[169.37226884694695,-46.20130028909265],[169.37227514900795,-46.20130318237108],[169.3733504659732,-46.20175283419984],[169.3752516588888,-46.20263912134821],[169.37530579119911,-46.20266508083726],[169.37543798377396,-46.20283119384162],[169.37573248148431,-46.20357047345893],[169.37360676800026,-46.2039813385243]]],"type":"Polygon"}
+}

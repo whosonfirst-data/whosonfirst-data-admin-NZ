@@ -1,0 +1,107 @@
+{
+  "id": 85773259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8760049.27032,
+    "geom:bbox":"174.751322,-36.698636,174.751322,-36.698636",
+    "geom:latitude":-36.698636,
+    "geom:longitude":174.751322,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.698636,
+    "lbl:longitude":174.751322,
+    "mps:latitude":-36.693736,
+    "mps:longitude":174.760517,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Torbay"
+    ],
+    "name:unk_x_variant":[
+        "Torbay"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Torbay",
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Torbay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":426,
+    "qs:photo_sum":750,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6231860,
+        "gp:id":2350963,
+        "qs:id":1164894,
+        "qs_pg:id":1164894
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"9d7cc42098ef6a8dc62d30aa50e28eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773259,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85773259,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859658,
+    "wof:name":"Torbay",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.751322,
+    -36.698636,
+    174.751322,
+    -36.698636
+],
+  "geometry": {"coordinates":[174.75132199999999,-36.698636],"type":"Point"}
+}

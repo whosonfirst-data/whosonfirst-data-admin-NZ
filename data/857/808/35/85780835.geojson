@@ -1,0 +1,113 @@
+{
+  "id": 85780835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":691684.404113,
+    "geom:bbox":"174.758447217,-41.2995166533,174.76776123,-41.2901899466",
+    "geom:latitude":-41.294381,
+    "geom:longitude":174.763349,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-41.295332,
+    "lbl:longitude":174.76668,
+    "mps:latitude":-41.294491,
+    "mps:longitude":174.763415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Aro Valley"
+    ],
+    "name:swe_x_preferred":[
+        "Aro Valley"
+    ],
+    "name:unk_x_variant":[
+        "Aro Valley"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Aro Valley",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":139,
+    "qs:photo_sum":436,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1060,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643777,
+        "qs:id":1088579,
+        "qs_pg:id":1088579,
+        "wd:id":"Q4795463"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1fc9917e1ea87b8be75107be0861f8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85780835,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":85780835,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269530,
+    "wof:name":"Aro Valley",
+    "wof:parent_id":101914285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.7584472174837,
+    -41.29951665330672,
+    174.76776123000053,
+    -41.29018994659205
+],
+  "geometry": {"coordinates":[[[174.75952148247586,-41.29018994659205],[174.76226806600039,-41.29018994719335],[174.76501464800026,-41.29018994719335],[174.76776123000053,-41.29018994864436],[174.76776123000036,-41.29225363403734],[174.76776123000036,-41.29431725503729],[174.76776123000036,-41.29638081073729],[174.76776123000036,-41.29844429986779],[174.76501464608378,-41.29844430386974],[174.76420900293425,-41.29951665330672],[174.76179214273321,-41.29844430930007],[174.7609863512792,-41.29808678525468],[174.75964334003106,-41.29844430929997],[174.75952148400035,-41.29847674868653],[174.75948086532372,-41.29844430930007],[174.75948078358982,-41.29844424402481],[174.75844725728922,-41.29431725889091],[174.75844721748371,-41.29431719789988],[174.75896404959468,-41.2922536258748],[174.75871576535297,-41.29126226210897],[174.75952148247586,-41.29018994659205]]],"type":"Polygon"}
+}

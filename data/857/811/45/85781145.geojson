@@ -1,0 +1,121 @@
+{
+  "id": 85781145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3693287.458592,
+    "geom:bbox":"175.025943,-39.925885,175.025943,-39.925885",
+    "geom:latitude":-39.925885,
+    "geom:longitude":175.025943,
+    "gn:latitude":-39.92346,
+    "gn:longitude":175.02508,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.925885,
+    "lbl:longitude":175.025943,
+    "mps:latitude":-39.926243,
+    "mps:longitude":175.014813,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Springvale"
+    ],
+    "name:eng_x_preferred":[
+        "Springvale"
+    ],
+    "name:pol_x_preferred":[
+        "Springvale"
+    ],
+    "name:spa_x_preferred":[
+        "Springvale"
+    ],
+    "name:unk_x_variant":[
+        "Springvale"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179670,
+    "qs:gn_nam_loc":"wanganui",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Springvale",
+    "qs:local_max":844,
+    "qs:local_sum":1349,
+    "qs:localhoods":9,
+    "qs:name":"Springvale",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Manawatu Wanganui",
+    "qs:name_adm2":"Wanganui District",
+    "qs:name_local":"Wanganui",
+    "qs:photo_max":16,
+    "qs:photo_sum":26,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021764,
+    "qs:woe_adm2":55875908,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351278,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":92,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85687251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6224554,
+        "gp:id":28644053,
+        "qs:id":985662,
+        "qs_pg:id":985662
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d191cf7ba088fcd05ddbdba592e8392d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85781145,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":85781145,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860149,
+    "wof:name":"Springvale",
+    "wof:parent_id":101914639,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.025943,
+    -39.925885,
+    175.025943,
+    -39.925885
+],
+  "geometry": {"coordinates":[175.02594300000001,-39.925885],"type":"Point"}
+}

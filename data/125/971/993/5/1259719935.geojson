@@ -1,0 +1,75 @@
+{
+  "id": 1259719935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.01678,-43.46485,170.01678,-43.46485",
+    "geom:latitude":-43.46485,
+    "geom:longitude":170.01678,
+    "gn:admin1_code":"G3",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Fox Glacier",
+    "gn:country_code":"NZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179565,
+    "gn:latitude":-43.46485,
+    "gn:longitude":170.01678,
+    "gn:modification_date":"2015-03-07",
+    "gn:name":"Fox Glacier",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fox Glacier"
+    ],
+    "name:und_x_variant":[
+        "Te Weheka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179565,
+        "wk:page":"Fox_Glacier"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3f4a688a274fe9f98548eb502a8ce77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1259719935,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1259719935,
+    "wof:lastmodified":1537676140,
+    "wof:name":"Fox Glacier",
+    "wof:parent_id":102079363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.01678,
+    -43.46485,
+    170.01678,
+    -43.46485
+],
+  "geometry": {"coordinates":[170.01678000000001,-43.46485],"type":"Point"}
+}

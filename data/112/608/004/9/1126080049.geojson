@@ -1,0 +1,93 @@
+{
+  "id": 1126080049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.02021,-38.64824,178.02021,-38.64824",
+    "geom:latitude":-38.64824,
+    "geom:longitude":178.02021,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.64824,
+    "lbl:longitude":178.02021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6240060,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Whataupoko",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Gisborne",
+    "qs_pg:photos":45,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1287592,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644281,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Gisborne",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85687237,
+        102191583,
+        85633345,
+        102079325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6240060,
+        "gp:id":28644281,
+        "qs_pg:id":1287592
+    },
+    "wof:country":"NZ",
+    "wof:created":1497311797,
+    "wof:geomhash":"9e52785c104f6f428edca520f771aff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":-1,
+            "neighbourhood_id":1126080049,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1126080049,
+    "wof:lastmodified":1534379391,
+    "wof:name":"Whataupoko",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        85781357
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.02021,
+    -38.64824,
+    178.02021,
+    -38.64824
+],
+  "geometry": {"coordinates":[178.02020999999999,-38.64824],"type":"Point"}
+}

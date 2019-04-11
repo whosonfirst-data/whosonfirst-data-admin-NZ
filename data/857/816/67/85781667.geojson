@@ -1,0 +1,104 @@
+{
+  "id": 85781667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11810285.055383,
+    "geom:bbox":"171.183961,-42.475651,171.183961,-42.475651",
+    "geom:latitude":-42.475651,
+    "geom:longitude":171.183961,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.475651,
+    "lbl:longitude":171.183961,
+    "mps:latitude":-42.49287,
+    "mps:longitude":171.177902,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Karoro"
+    ],
+    "name:unk_x_variant":[
+        "Karoro"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2206895,
+    "qs:gn_nam_loc":"Greymouth, Grey District, West Coast, NZ",
+    "qs:gn_namadm1":"G3",
+    "qs:id":0,
+    "qs:local_max":664,
+    "qs:local_sum":1109,
+    "qs:localhoods":4,
+    "qs:name":"Karoro",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"West Coast",
+    "qs:name_adm2":"Grey District",
+    "qs:name_local":"Greymouth",
+    "qs:photo_max":36,
+    "qs:photo_sum":106,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021752,
+    "qs:woe_adm2":55875922,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348669,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079361,
+        85687165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644583
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3f19fc78cdd2042bdc75d997ee1675ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":-1,
+            "neighbourhood_id":85781667,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":85781667,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860249,
+    "wof:name":"Karoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.183961,
+    -42.475651,
+    171.183961,
+    -42.475651
+],
+  "geometry": {"coordinates":[171.18396100000001,-42.475651],"type":"Point"}
+}

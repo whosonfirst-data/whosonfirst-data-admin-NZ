@@ -1,0 +1,84 @@
+{
+  "id": 101918257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13195.031263,
+    "geom:bbox":"172.992825189,-41.1292856917,172.994494659,-41.1281070605",
+    "geom:latitude":-41.128802,
+    "geom:longitude":172.993758,
+    "gn:population":7485,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.128947,
+    "lbl:longitude":172.993745,
+    "mps:latitude":-41.128947,
+    "mps:longitude":172.993745,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Motueka"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Motueka",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1592,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020ddeb0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2184361,
+        "gp:id":2349605,
+        "wd:id":"Q489458",
+        "wk:page":"Motueka"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3d1e217b744410909b6a61ad4d628c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101918257,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":101918257,
+    "wof:lastmodified":1527715671,
+    "wof:name":"Motueka",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:population":7485,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914769
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.99282518924682,
+    -41.12928569173732,
+    172.99449465936917,
+    -41.12810706047527
+],
+  "geometry": {"coordinates":[[[172.99449465936917,-41.12810706047527],[172.99442343251945,-41.12910802782665],[172.99441471559118,-41.12928569173732],[172.99282518924682,-41.12927609806915],[172.99288615419965,-41.12856742661272],[172.99378647727679,-41.12861352174107],[172.99382310872312,-41.12810736539901],[172.99449465936917,-41.12810706047527]]],"type":"Polygon"}
+}

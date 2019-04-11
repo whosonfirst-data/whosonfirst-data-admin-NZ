@@ -1,0 +1,68 @@
+{
+  "id": 1277111593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.7,-42.25,171.7,-42.25",
+    "geom:latitude":-42.25,
+    "geom:longitude":171.7,
+    "gn:admin1_code":"G3",
+    "gn:admin2_code":"55.0",
+    "gn:asciiname":"Hukarere",
+    "gn:country_code":"NZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2189672,
+    "gn:latitude":-42.25,
+    "gn:longitude":171.7,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Hukarere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2189672
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d7c4e8256fa76846d72775425356591e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":1277111593,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1277111593,
+    "wof:lastmodified":1536726403,
+    "wof:name":"Hukarere",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.7,
+    -42.25,
+    171.7,
+    -42.25
+],
+  "geometry": {"coordinates":[171.69999999999999,-42.25],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 101918755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7924.739947,
+    "geom:bbox":"175.026664921,-37.6145194519,175.028512215,-37.6134613304",
+    "geom:latitude":-37.613943,
+    "geom:longitude":175.027475,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.613994,
+    "lbl:longitude":175.02745,
+    "mps:latitude":-37.613994,
+    "mps:longitude":175.02745,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Glen Afton"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Glen Afton",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c2c0a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2190747,
+        "gp:id":2348587,
+        "wd:id":"Q5567558",
+        "wk:page":"Glen Afton"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"2a7d44ca0e7177354e53de5bbf955e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101918755,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918755,
+    "wof:lastmodified":1487270017,
+    "wof:name":"Glen Afton",
+    "wof:parent_id":102079265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917363
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.0266649210244,
+    -37.61451945188227,
+    175.02851221536386,
+    -37.61346133035769
+],
+  "geometry": {"coordinates":[[[175.02808788333715,-37.61382336161019],[175.02750855325561,-37.61431651852587],[175.0272601527744,-37.61426882989325],[175.02715982839257,-37.61451945188227],[175.0269104807426,-37.61443933193756],[175.02666492102441,-37.61390667091077],[175.02713165059671,-37.61382594360268],[175.02783064312706,-37.61351198344585],[175.02807874047178,-37.61348684559024],[175.02851221536386,-37.61346133035769],[175.02831783630032,-37.6136276107005],[175.02808788333715,-37.61382336161019]]],"type":"Polygon"}
+}

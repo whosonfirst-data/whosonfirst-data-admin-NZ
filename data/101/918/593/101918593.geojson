@@ -1,0 +1,82 @@
+{
+  "id": 101918593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6420.918086,
+    "geom:bbox":"173.254413807,-35.0405150062,173.255361924,-35.039365694",
+    "geom:latitude":-35.039933,
+    "geom:longitude":173.254907,
+    "gn:population":388,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.039929,
+    "lbl:longitude":173.254905,
+    "mps:latitude":-35.039929,
+    "mps:longitude":173.254905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Awanui"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Awanui",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1745,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193678,
+        "wd:id":"Q791606",
+        "wk:page":"Awanui"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"5dce6abbb4f7d647edb3d2b6ef95cc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101918593,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":101918593,
+    "wof:lastmodified":1527715668,
+    "wof:name":"Awanui",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:population":388,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101917873
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.25441380749214,
+    -35.04051500623721,
+    173.25536192371555,
+    -35.03936569396724
+],
+  "geometry": {"coordinates":[[[173.25452507245083,-35.03985384597831],[173.25441380749214,-35.03959567673707],[173.25506321689195,-35.03936569396724],[173.25536192371555,-35.04030348198303],[173.25481101136384,-35.04051500623721],[173.25452507245083,-35.03985384597831]]],"type":"Polygon"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1125835923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.4944,-40.14332,175.4944,-40.14332",
+    "geom:latitude":-40.14332,
+    "geom:longitude":175.4944,
+    "gn:gn_country":"NZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":446,
+    "gn:population":446,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.14332,
+    "lbl:longitude":175.4944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Halcombe"
+    ],
+    "name:eng_x_preferred":[
+        "Halcombe"
+    ],
+    "name:ger_x_preferred":[
+        "Halcombe"
+    ],
+    "name:may_x_preferred":[
+        "Halcombe"
+    ],
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":"NZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2190358,
+    "qs_pg:gn_pop":446,
+    "qs_pg:name":"Halcombe",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Manawatu Wanganui",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1059307,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":2348688,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Manawatu Wanganui",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2190358,
+        "gp:id":2348688,
+        "qs_pg:id":1059307,
+        "wd:id":"Q5641165"
+    },
+    "wof:country":"NZ",
+    "wof:created":1497292717,
+    "wof:geomhash":"7f56f66850f18ca0841c14da2be524a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":1125835923,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1125835923,
+    "wof:lastmodified":1514494136,
+    "wof:name":"Halcombe",
+    "wof:parent_id":102079303,
+    "wof:placetype":"locality",
+    "wof:population":446,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.4944,
+    -40.14332,
+    175.4944,
+    -40.14332
+],
+  "geometry": {"coordinates":[175.49440000000001,-40.14332],"type":"Point"}
+}

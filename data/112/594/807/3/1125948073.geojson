@@ -1,0 +1,82 @@
+{
+  "id": 1125948073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.632033,-40.726998,175.632033,-40.726998",
+    "geom:latitude":-40.726998,
+    "geom:longitude":175.632033,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.726998,
+    "lbl:longitude":175.632033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mount Bruce",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":174,
+    "qs_pg:photos_1k":35,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":174,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230261,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644645,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644645,
+        "qs_pg:id":230261
+    },
+    "wof:country":"NZ",
+    "wof:created":1497297357,
+    "wof:geomhash":"9a0cba9d1b6f16e1cf620acc6ee29741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":1125948073,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1125948073,
+    "wof:lastmodified":1509402508,
+    "wof:name":"Mount Bruce",
+    "wof:parent_id":102079309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.632033,
+    -40.726998,
+    175.632033,
+    -40.726998
+],
+  "geometry": {"coordinates":[175.63203300000001,-40.726998],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310036065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.24094,-44.45477,171.24094,-44.45477",
+    "geom:latitude":-44.45477,
+    "geom:longitude":171.24094,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"64.0",
+    "gn:asciiname":"Normanby",
+    "gn:country_code":"NZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2186048,
+    "gn:latitude":-44.45477,
+    "gn:longitude":171.24094,
+    "gn:modification_date":"2015-03-06",
+    "gn:name":"Normanby",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2186048
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"1cc11de430eed482231aaa48033d4ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":1310036065,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1310036065,
+    "wof:lastmodified":1537093531,
+    "wof:name":"Normanby",
+    "wof:parent_id":102079373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.24094,
+    -44.45477,
+    171.24094,
+    -44.45477
+],
+  "geometry": {"coordinates":[171.24093999999999,-44.45477],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276473481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.28333,-37.78333,175.28333,-37.78333",
+    "geom:latitude":-37.78333,
+    "geom:longitude":175.28333,
+    "gn:admin1_code":"G1",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Claudelands",
+    "gn:country_code":"NZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2192313,
+    "gn:latitude":-37.78333,
+    "gn:longitude":175.28333,
+    "gn:modification_date":"2013-06-22",
+    "gn:name":"Claudelands",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2192313,
+        "wk:page":"Claudelands"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"ba7a965cd13a4c4272804c162355de31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "locality_id":1276473481,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1276473481,
+    "wof:lastmodified":1537570173,
+    "wof:name":"Claudelands",
+    "wof:parent_id":102079271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.28333,
+    -37.78333,
+    175.28333,
+    -37.78333
+],
+  "geometry": {"coordinates":[175.28333000000001,-37.78333],"type":"Point"}
+}

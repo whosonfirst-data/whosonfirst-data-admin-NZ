@@ -1,0 +1,68 @@
+{
+  "id": 1259915981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.2,-39.3,175.2,-39.3",
+    "geom:latitude":-39.3,
+    "geom:longitude":175.2,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Te Ranga",
+    "gn:country_code":"NZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2181351,
+    "gn:latitude":-39.3,
+    "gn:longitude":175.2,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Te Ranga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2181351
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"99336f3ad010d7cfcc61cd861cc0d28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1259915981,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1259915981,
+    "wof:lastmodified":1536732538,
+    "wof:name":"Te Ranga",
+    "wof:parent_id":102079297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.2,
+    -39.3,
+    175.2,
+    -39.3
+],
+  "geometry": {"coordinates":[175.19999999999999,-39.3],"type":"Point"}
+}

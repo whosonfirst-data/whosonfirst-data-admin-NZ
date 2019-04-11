@@ -1,0 +1,73 @@
+{
+  "id": 101918625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25496.867074,
+    "geom:bbox":"172.329948167,-41.7999324914,172.332317049,-41.7977671674",
+    "geom:latitude":-41.799072,
+    "geom:longitude":172.331516,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.799389,
+    "lbl:longitude":172.331768,
+    "mps:latitude":-41.799389,
+    "mps:longitude":172.331757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "fgukfyukfyukfyuik"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"fgukfyukfyukfyuik",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2349649
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"4b4f8f5096c7a9d11826a35ef2813059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101918625,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":101918625,
+    "wof:lastmodified":1512501683,
+    "wof:name":"fgukfyukfyukfyuik",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.32994816677336,
+    -41.79993249138153,
+    172.3323170493741,
+    -41.79776716738999
+],
+  "geometry": {"coordinates":[[[172.32998429555286,-41.79911287771642],[172.33145629447836,-41.7989552630879],[172.33160983569732,-41.79777819647928],[172.33231102939629,-41.79776716738999],[172.33231125619551,-41.79783664680129],[172.33231135435634,-41.79786146746129],[172.33231140118767,-41.79788355665558],[172.33231148081319,-41.79790633633046],[172.33231153461833,-41.79792776526808],[172.3323170493741,-41.79993249138153],[172.33164122439987,-41.79992425303873],[172.33084955948988,-41.79990526879844],[172.33083668410833,-41.79962956045842],[172.32994816677336,-41.79951194491223],[172.32996889142473,-41.79928289514725],[172.32998429555286,-41.79911287771642]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243292415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.7,-43.51667,172.7,-43.51667",
+    "geom:latitude":-43.51667,
+    "geom:longitude":172.7,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"60.0",
+    "gn:asciiname":"Aranui",
+    "gn:country_code":"NZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2193860,
+    "gn:latitude":-43.51667,
+    "gn:longitude":172.7,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Aranui",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193860
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"a199fa93d3f34375821ad45d432b9ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":1243292415,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1243292415,
+    "wof:lastmodified":1537026504,
+    "wof:name":"Aranui",
+    "wof:parent_id":102079401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.7,
+    -43.51667,
+    172.7,
+    -43.51667
+],
+  "geometry": {"coordinates":[172.69999999999999,-43.51667],"type":"Point"}
+}

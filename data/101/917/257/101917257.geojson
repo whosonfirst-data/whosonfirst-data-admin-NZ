@@ -1,0 +1,89 @@
+{
+  "id": 101917257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19207.581604,
+    "geom:bbox":"174.124947012,-39.0440655339,174.128399043,-39.0416775046",
+    "geom:latitude":-39.042697,
+    "geom:longitude":174.126435,
+    "gn:population":49168,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.04254,
+    "lbl:longitude":174.126409,
+    "mps:latitude":-39.04254,
+    "mps:longitude":174.126409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "New Plymouth"
+    ],
+    "name:eng_x_variant":[
+        "New Plymouth City"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"NEW PLYMOUTH",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-39.066667,
+    "wd:longitude":174.083333,
+    "wd:wordcount":3463,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020df7d8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2186239,
+        "gp:id":2349680,
+        "wd:id":"Q212984",
+        "wk:page":"New Plymouth"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"14e72d99408f5ba28d44d9402c8b4264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101917257,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":101917257,
+    "wof:lastmodified":1527715907,
+    "wof:name":"New Plymouth",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:population":49168,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914745
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.12494701235264,
+    -39.04406553387057,
+    174.12839904347126,
+    -39.04167750457406
+],
+  "geometry": {"coordinates":[[[174.12839904347126,-39.04209482598137],[174.12553946036419,-39.04308070112997],[174.1260006220763,-39.04391379916115],[174.12551326151006,-39.04406553387057],[174.12494701235264,-39.04283755456974],[174.12619205087478,-39.04237451984325],[174.1281841511524,-39.04167750457406],[174.12839904347126,-39.04209482598137]]],"type":"Polygon"}
+}

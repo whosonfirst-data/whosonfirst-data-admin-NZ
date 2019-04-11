@@ -1,0 +1,68 @@
+{
+  "id": 1293917671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.73333,-40.11667,175.73333,-40.11667",
+    "geom:latitude":-40.11667,
+    "geom:longitude":175.73333,
+    "gn:admin1_code":"F3",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Kiwitea",
+    "gn:country_code":"NZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2188778,
+    "gn:latitude":-40.11667,
+    "gn:longitude":175.73333,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Kiwitea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2188778
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"cbe5faea3636bfcbc086e29688c53528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":1293917671,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1293917671,
+    "wof:lastmodified":1536664130,
+    "wof:name":"Kiwitea",
+    "wof:parent_id":102079303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.73333,
+    -40.11667,
+    175.73333,
+    -40.11667
+],
+  "geometry": {"coordinates":[175.73333,-40.11667],"type":"Point"}
+}

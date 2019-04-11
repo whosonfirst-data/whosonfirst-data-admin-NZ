@@ -1,0 +1,105 @@
+{
+  "id": 85778837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":652624.521267,
+    "geom:bbox":"174.771915,-36.894971,174.771915,-36.894971",
+    "geom:latitude":-36.894971,
+    "geom:longitude":174.771915,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.894971,
+    "lbl:longitude":174.771915,
+    "mps:latitude":-36.895197,
+    "mps:longitude":174.770181,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Epsom South"
+    ],
+    "name:unk_x_variant":[
+        "Epsom South"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1201,
+    "qs:local_sum":1958,
+    "qs:localhoods":3,
+    "qs:name":"Epsom South",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Epsom",
+    "qs:photo_max":19,
+    "qs:photo_sum":32,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726364,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726618,
+        "qs:id":1329473,
+        "qs_pg:id":1329473
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"8c13f82e58501e1947d2b48687ecf3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778837,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85778837,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859843,
+    "wof:name":"Epsom South",
+    "wof:parent_id":101914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.771915,
+    -36.894971,
+    174.771915,
+    -36.894971
+],
+  "geometry": {"coordinates":[174.77191500000001,-36.894971],"type":"Point"}
+}

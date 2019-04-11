@@ -1,0 +1,68 @@
+{
+  "id": 1293235049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.35,-36.1,174.35,-36.1",
+    "geom:latitude":-36.1,
+    "geom:longitude":174.35,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Rowsells",
+    "gn:country_code":"NZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2183170,
+    "gn:latitude":-36.1,
+    "gn:longitude":174.35,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Rowsells",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2183170
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b467db28bf7c5e62cf34e7109c15d744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":1293235049,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1293235049,
+    "wof:lastmodified":1536654019,
+    "wof:name":"Rowsells",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.35,
+    -36.1,
+    174.35,
+    -36.1
+],
+  "geometry": {"coordinates":[174.34999999999999,-36.1],"type":"Point"}
+}

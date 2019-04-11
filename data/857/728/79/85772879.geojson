@@ -1,0 +1,111 @@
+{
+  "id": 85772879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4453075.832339,
+    "geom:bbox":"170.48534,-45.896831,170.48534,-45.896831",
+    "geom:latitude":-45.896831,
+    "geom:longitude":170.48534,
+    "gn:latitude":-45.88838,
+    "gn:longitude":170.4701,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.896831,
+    "lbl:longitude":170.48534,
+    "mps:latitude":-45.899788,
+    "mps:longitude":170.479163,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Caversham"
+    ],
+    "name:unk_x_variant":[
+        "Caversham"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2191562,
+    "qs:gn_namadm1":"F7",
+    "qs:gn_name":"Caversham",
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Caversham",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":69,
+    "qs:photo_sum":227,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":202,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6212210,
+        "gp:id":2348302,
+        "qs:id":1354725,
+        "qs_pg:id":1354725
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"b3ec6758e2b95a7813698176cdb1e630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":85772879,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859592,
+    "wof:name":"Caversham",
+    "wof:parent_id":101914269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.48534,
+    -45.896831,
+    170.48534,
+    -45.896831
+],
+  "geometry": {"coordinates":[170.48534000000001,-45.896831],"type":"Point"}
+}

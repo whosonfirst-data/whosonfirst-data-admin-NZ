@@ -1,0 +1,68 @@
+{
+  "id": 1309835077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.7754,-41.32153,174.7754,-41.32153",
+    "geom:latitude":-41.32153,
+    "geom:longitude":174.7754,
+    "gn:admin1_code":"G2",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Berhampore",
+    "gn:country_code":"NZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2193383,
+    "gn:latitude":-41.32153,
+    "gn:longitude":174.7754,
+    "gn:modification_date":"2017-09-12",
+    "gn:name":"Berhampore",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2193383
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"d12d378adf38dccf4164babc7d3de991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":1309835077,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1309835077,
+    "wof:lastmodified":1536888618,
+    "wof:name":"Berhampore",
+    "wof:parent_id":102079339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.7754,
+    -41.32153,
+    174.7754,
+    -41.32153
+],
+  "geometry": {"coordinates":[174.77539999999999,-41.32153],"type":"Point"}
+}

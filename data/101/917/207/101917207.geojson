@@ -1,0 +1,80 @@
+{
+  "id": 101917207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27070.813868,
+    "geom:bbox":"175.559416833,-40.2294141664,175.562944396,-40.2275914017",
+    "geom:latitude":-40.228605,
+    "geom:longitude":175.561435,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.228699,
+    "lbl:longitude":175.561482,
+    "mps:latitude":-40.228699,
+    "mps:longitude":175.561482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Feilding"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Feilding",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1131,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020d7af6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6224615,
+        "gp:id":2348519,
+        "wd:id":"Q992577",
+        "wk:page":"Feilding"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"0df499f274363954b9f827891e5fc6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":101917207,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":101917207,
+    "wof:lastmodified":1527715913,
+    "wof:name":"Feilding",
+    "wof:parent_id":102079303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914717
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.55941683296308,
+    -40.22941416636982,
+    175.5629443957003,
+    -40.22759140172821
+],
+  "geometry": {"coordinates":[[[175.5629443957003,-40.22827964000555],[175.56291957291887,-40.2282977637856],[175.56253581142752,-40.22851031427282],[175.56251174721243,-40.22852364542337],[175.56175962175928,-40.22934576681106],[175.56168638859143,-40.22941416636982],[175.56160293965698,-40.22939295769311],[175.55944417291599,-40.22901409340997],[175.55941683296308,-40.22900614173552],[175.56239880643997,-40.22759140172821],[175.56241054122867,-40.22760015087408],[175.5629443957003,-40.22827964000555]]],"type":"Polygon"}
+}

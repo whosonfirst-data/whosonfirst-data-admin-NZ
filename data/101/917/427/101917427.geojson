@@ -1,0 +1,75 @@
+{
+  "id": 101917427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":64768.071051,
+    "geom:bbox":"174.8291266,-37.1884816349,174.833413933,-37.1847950076",
+    "geom:latitude":-37.187103,
+    "geom:longitude":174.831264,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.187182,
+    "lbl:longitude":174.831299,
+    "mps:latitude":-37.187182,
+    "mps:longitude":174.831299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Patumahoe"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Patumahoe",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2184778
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"c43e8d1680e49f3e49bbe767c5b30f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101917427,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":101917427,
+    "wof:lastmodified":1487269950,
+    "wof:name":"Patumahoe",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101916455
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.82912659983185,
+    -37.18848163490167,
+    174.83341393263674,
+    -37.18479500755639
+],
+  "geometry": {"coordinates":[[[174.83104421313035,-37.18481504194921],[174.83116271794111,-37.18479500755639],[174.83184035225764,-37.18519191938925],[174.83154614505227,-37.18601350206973],[174.83161428670738,-37.18604651013927],[174.83229432141974,-37.18654601795572],[174.83248688674038,-37.18782603308431],[174.83321882233079,-37.18775117861055],[174.83341393263674,-37.18777969717153],[174.83315069596762,-37.18826442138642],[174.83045840724739,-37.18834462778855],[174.83025763193092,-37.18848163490167],[174.82912659983185,-37.18812433732273],[174.82923011111799,-37.18788304447673],[174.82977575572164,-37.18799860833902],[174.83028939725293,-37.18695007487214],[174.83047007415504,-37.186273165336],[174.83104421313035,-37.18481504194921]]],"type":"Polygon"}
+}

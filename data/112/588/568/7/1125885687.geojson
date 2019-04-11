@@ -1,0 +1,82 @@
+{
+  "id": 1125885687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.544,-37.056684,174.544,-37.056684",
+    "geom:latitude":-37.056684,
+    "geom:longitude":174.544,
+    "gn:gn_country":null,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.056684,
+    "lbl:longitude":174.544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Wattle Bay",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Waikato",
+    "qs_pg:photos":150,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":150,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":375234,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28645613,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Waikato",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28645613,
+        "qs_pg:id":375234
+    },
+    "wof:country":"NZ",
+    "wof:created":1497295065,
+    "wof:geomhash":"0319ee4979202286424c33efe5a20f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1125885687,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1125885687,
+    "wof:lastmodified":1509398482,
+    "wof:name":"Wattle Bay",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.544,
+    -37.056684,
+    174.544,
+    -37.056684
+],
+  "geometry": {"coordinates":[174.54400000000001,-37.056684],"type":"Point"}
+}

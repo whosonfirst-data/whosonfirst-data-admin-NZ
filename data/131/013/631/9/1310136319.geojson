@@ -1,0 +1,67 @@
+{
+  "id": 1310136319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.5,-35.81667,174.5,-35.81667",
+    "geom:latitude":-35.81667,
+    "geom:longitude":174.5,
+    "gn:admin1_code":"F6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Whangarei Heads",
+    "gn:country_code":"NZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2179287,
+    "gn:latitude":-35.81667,
+    "gn:longitude":174.5,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Whangarei Heads",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Auckland",
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2179287,
+        "wk:page":"Whangarei_Heads"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e8405419388d8d66c4ffc3a38911167d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1310136319,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1310136319,
+    "wof:lastmodified":1537570166,
+    "wof:name":"Whangarei Heads",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.5,
+    -35.81667,
+    174.5,
+    -35.81667
+],
+  "geometry": {"coordinates":[174.5,-35.81667],"type":"Point"}
+}

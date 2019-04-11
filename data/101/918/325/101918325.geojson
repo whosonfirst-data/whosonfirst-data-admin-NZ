@@ -1,0 +1,85 @@
+{
+  "id": 101918325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4881.157978,
+    "geom:bbox":"175.630560376,-37.5999690001,175.631952846,-37.5989560149",
+    "geom:latitude":-37.599456,
+    "geom:longitude":175.631243,
+    "gn:population":386,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.599466,
+    "lbl:longitude":175.631221,
+    "mps:latitude":-37.599466,
+    "mps:longitude":175.631221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Waitoa"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Waitoa",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":148,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"020c8e48-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2179794,
+        "gp:id":2351242,
+        "qs:id":40915,
+        "wd:id":"Q7960627",
+        "wk:page":"Waitoa"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"cdc74c4bf4e9559a5d63835a2214da67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101918325,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":101918325,
+    "wof:lastmodified":1527715673,
+    "wof:name":"Waitoa",
+    "wof:parent_id":102079267,
+    "wof:placetype":"locality",
+    "wof:population":386,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101915267
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.6305603757657,
+    -37.59996900005588,
+    175.63195284629842,
+    -37.59895601490719
+],
+  "geometry": {"coordinates":[[[175.63172113871926,-37.59895601490719],[175.63195284629842,-37.59923434720208],[175.63073618107947,-37.59996900005588],[175.6305603757657,-37.59971767570013],[175.63064844731448,-37.59962328796655],[175.63076993585113,-37.59953433736583],[175.63111737251054,-37.5993176883504],[175.63172113871926,-37.59895601490719]]],"type":"Polygon"}
+}

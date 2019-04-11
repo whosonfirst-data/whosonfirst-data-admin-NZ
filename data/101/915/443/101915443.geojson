@@ -1,0 +1,84 @@
+{
+  "id": 101915443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-02-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":36705.72157,
+    "geom:bbox":"170.954723436,-45.0978375566,170.961715449,-45.0962065305",
+    "geom:latitude":-45.097039,
+    "geom:longitude":170.958337,
+    "gn:population":13000,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.096969,
+    "lbl:longitude":170.958105,
+    "mps:latitude":-45.096969,
+    "mps:longitude":170.958105,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Oamaru"
+    ],
+    "qs:a0":"New Zealand",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"New Zealand",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Oamaru",
+    "qs:pop":0,
+    "qs:source":"LUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-45.089444,
+    "wd:longitude":170.966111,
+    "wd:wordcount":3681,
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6215045,
+        "wd:id":"Q4782",
+        "wk:page":"Oamaru"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"e2d4b845bf96618d6bd651f09e89d6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101915443,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":101915443,
+    "wof:lastmodified":1527643138,
+    "wof:name":"Oamaru",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:population":13000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[
+        101914699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.95472343580622,
+    -45.09783755662007,
+    170.9617154487904,
+    -45.09620653052336
+],
+  "geometry": {"coordinates":[[[170.95472343580622,-45.09679642364041],[170.95490972597912,-45.09648327004902],[170.95598048383187,-45.09658657169839],[170.956228669947,-45.09620653052336],[170.95679209267846,-45.09626667179217],[170.95691269785107,-45.09646200132877],[170.95775527849091,-45.09655639326589],[170.95857568326548,-45.09666749743303],[170.95853537725563,-45.09689713001926],[170.96041311645928,-45.09706274298089],[170.96171544879039,-45.09715441353373],[170.96160518453613,-45.09783755662007],[170.96052241832481,-45.09767973671175],[170.96052191333428,-45.09767963794229],[170.9574832058118,-45.09724663974144],[170.95532367062273,-45.09690950296962],[170.95472343580622,-45.09679642364041]]],"type":"Polygon"}
+}

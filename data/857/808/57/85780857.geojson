@@ -1,0 +1,110 @@
+{
+  "id": 85780857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":922198.053063,
+    "geom:bbox":"174.894104,-36.974033,174.894104,-36.974033",
+    "geom:latitude":-36.974033,
+    "geom:longitude":174.894104,
+    "gn:id":"",
+    "iso:country":"NZ",
+    "lbl:latitude":-36.974033,
+    "lbl:longitude":174.894104,
+    "mps:latitude":-36.974032,
+    "mps:longitude":174.892664,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:note":"no ref",
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Chapel Downs"
+    ],
+    "name:unk_x_variant":[
+        "Chapel Downs"
+    ],
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Chapel Downs",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":4,
+    "qs:photo_sum":4,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":77,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28643800,
+        "qs:id":1127289,
+        "qs_pg:id":1127289,
+        "wd:id":"Q5072995"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"3c38acd8316d878a9eb624feb6ca415d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85780857,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":85780857,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860098,
+    "wof:name":"Chapel Downs",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.894104,
+    -36.974033,
+    174.894104,
+    -36.974033
+],
+  "geometry": {"coordinates":[174.894104,-36.974033],"type":"Point"}
+}
