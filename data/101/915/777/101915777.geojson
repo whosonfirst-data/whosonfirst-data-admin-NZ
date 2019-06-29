@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
-    "geom:area_square_m":49156.487248,
+    "geom:area_square_m":49156.48725,
     "geom:bbox":"174.822040189,-41.3418451715,174.830003641,-41.331251482",
     "geom:latitude":-41.335987,
     "geom:longitude":174.824876,
@@ -17,9 +17,6 @@
     "mps:longitude":174.824946,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:chi_x_preferred":[
-        "\u5a01\u9748\u9813"
-    ],
     "name:chi_x_variant":[
         "\u60e0\u7075\u987f"
     ],
@@ -34,6 +31,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6f0\ub9c1\ud134"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a01\u9748\u9813"
     ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":101915777,
-    "wof:lastmodified":1505338679,
+    "wof:lastmodified":1561775468,
     "wof:name":"Wellington",
     "wof:parent_id":102079339,
     "wof:placetype":"locality",

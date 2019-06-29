@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001081,
-    "geom:area_square_m":10072416.010632,
+    "geom:area_square_m":10072416.010489,
     "geom:bbox":"175.00612588,-41.1761257348,175.111676329,-41.0999437556",
     "geom:latitude":-41.128275,
     "geom:longitude":175.053208,
@@ -24,17 +24,14 @@
     "name:ben_x_preferred":[
         "\u0986\u09aa\u09be\u09b0 \u09b9\u09be\u099f"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u4f2f\u4ea8\u7279"
-    ],
     "name:dan_x_preferred":[
         "Upper Hutt"
     ],
     "name:deu_x_preferred":[
         "Upper Hutt"
     ],
-    "name:dut_x_preferred":[
-        "Upper Hutt"
+    "name:ell_x_preferred":[
+        "\u0386\u03c0\u03b5\u03c1 \u03a7\u03b1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Upper Hutt"
@@ -45,20 +42,8 @@
     "name:fra_x_preferred":[
         "Upper Hutt"
     ],
-    "name:fre_x_preferred":[
-        "Upper Hutt"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10de\u10d4\u10e0-\u10f0\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Upper Hutt"
-    ],
     "name:gla_x_preferred":[
         "Upper Hutt"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c0\u03b5\u03c1 \u03a7\u03b1\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aaa\u0ab0 \u0ab9\u0a9f"
@@ -98,9 +83,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0905\u092a\u094d\u092a\u0930 \u0939\u091f"
-    ],
-    "name:may_x_preferred":[
-        "Hutt Atas"
     ],
     "name:msa_x_preferred":[
         "Hutt Atas"
@@ -158,6 +140,9 @@
     ],
     "name:vol_x_preferred":[
         "Upper Hutt"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u4f2f\u4ea8\u7279"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"New Zealand",
@@ -294,7 +279,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514494508,
+    "wof:lastmodified":1561775490,
     "wof:name":"Upper Hutt",
     "wof:parent_id":102079335,
     "wof:placetype":"locality",

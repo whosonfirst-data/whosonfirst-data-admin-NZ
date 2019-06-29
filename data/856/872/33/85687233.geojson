@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Wellington eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b2\u09bf\u0982\u099f\u09a8 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -51,9 +48,6 @@
     "name:ces_x_preferred":[
         "Wellington"
     ],
-    "name:chi_x_preferred":[
-        "\u60e0\u7075\u987f\u5927\u533a"
-    ],
     "name:cor_x_preferred":[
         "Wellington"
     ],
@@ -63,11 +57,11 @@
     "name:deu_x_preferred":[
         "Wellington"
     ],
-    "name:dut_x_preferred":[
-        "Wellington"
-    ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03ad\u03bb\u03bb\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u0393\u03bf\u03c5\u03ad\u03bb\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Wellington Region"
@@ -84,19 +78,13 @@
     "name:eus_x_preferred":[
         "Wellington"
     ],
+    "name:eus_x_variant":[
+        "Wellington eskualdea"
+    ],
     "name:fin_x_preferred":[
         "Wellington"
     ],
     "name:fra_x_preferred":[
-        "Wellington"
-    ],
-    "name:fre_x_preferred":[
-        "Wellington"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10da\u10d8\u10dc\u10d2\u10e2\u10dd\u10dc\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Wellington"
     ],
     "name:gla_x_preferred":[
@@ -104,9 +92,6 @@
     ],
     "name:glg_x_preferred":[
         "Wellington"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u0393\u03bf\u03c5\u03ad\u03bb\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab2\u0abf\u0a82\u0a97\u0acd\u0a9f\u0aa8"
@@ -141,6 +126,9 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0cc6\u0cb2\u0ccd\u0cb2\u0cbf\u0c82\u0c97\u0ccd\u0c9f\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10da\u10d8\u10dc\u10d2\u10e2\u10dd\u10dc\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc6f0\ub9c1\ud134"
     ],
@@ -156,14 +144,14 @@
     "name:mar_x_preferred":[
         "\u0935\u0947\u0932\u093f\u0902\u0917\u094d\u091f\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Wellington"
-    ],
     "name:mri_x_preferred":[
         "Whanganui-a-Tara"
     ],
     "name:mri_x_variant":[
         "Te Whanga-nui-a-Tara"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Wellington"
     ],
     "name:nld_x_preferred":[
         "Wellington"
@@ -242,6 +230,9 @@
     ],
     "name:zho_x_preferred":[
         "\u60e0\u7075\u987f"
+    ],
+    "name:zho_x_variant":[
+        "\u60e0\u7075\u987f\u5927\u533a"
     ],
     "ne:abbrev":"WGN",
     "ne:adm0_a3":"NZL",
@@ -359,7 +350,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1553550914,
+    "wof:lastmodified":1561775440,
     "wof:name":"Wellington Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

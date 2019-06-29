@@ -23,14 +23,17 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u0999\u09cd\u0997\u09be\u09a8\u09be\u0987"
     ],
-    "name:chi_x_preferred":[
-        "\u65fa\u52a0\u52aa\u4f0a"
+    "name:cym_x_preferred":[
+        "Whanganui"
     ],
     "name:dan_x_preferred":[
         "Whanganui"
     ],
-    "name:dut_x_preferred":[
-        "Whanganui"
+    "name:deu_x_preferred":[
+        "Wanganui"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03b1\u03bd\u03bf\u03cd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Wanganui"
@@ -45,13 +48,7 @@
     "name:fin_x_preferred":[
         "Whanganui"
     ],
-    "name:fre_x_preferred":[
-        "Wanganui"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10dd\u10dc\u10d2\u10d0\u10dc\u10e3\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Wanganui"
     ],
     "name:gla_x_preferred":[
@@ -59,9 +56,6 @@
     ],
     "name:gle_x_preferred":[
         "Whanganui"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03b1\u03bd\u03bf\u03cd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0acd\u0ab9\u0abe\u0aa8\u0acd\u0a97\u0abe\u0a82\u0a88"
@@ -84,6 +78,9 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0ccd\u0caf\u0cbe\u0c82\u0c97\u0ca8\u0ccd\u0caf\u0cc1"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10dd\u10dc\u10d2\u10d0\u10dc\u10e3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc655\uac70\ub204\uc774"
     ],
@@ -93,16 +90,19 @@
     "name:lit_x_preferred":[
         "Vanganujis"
     ],
-    "name:mac_x_preferred":[
-        "\u0424\u0430\u043d\u0433\u0430\u043d\u0443\u0438"
-    ],
-    "name:mao_x_preferred":[
-        "Whanganui"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u093e\u0902\u0917\u093e\u0928\u0941\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0424\u0430\u043d\u0433\u0430\u043d\u0443\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "Whanganui"
+    ],
+    "name:msa_x_preferred":[
+        "Whanganui"
+    ],
+    "name:nld_x_preferred":[
         "Whanganui"
     ],
     "name:nno_x_preferred":[
@@ -117,7 +117,7 @@
     "name:por_x_preferred":[
         "Whanganui"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Wanganui"
     ],
     "name:rus_x_preferred":[
@@ -159,8 +159,8 @@
     "name:vie_x_preferred":[
         "Whanganui"
     ],
-    "name:wel_x_preferred":[
-        "Whanganui"
+    "name:zho_x_preferred":[
+        "\u65fa\u52a0\u52aa\u4f0a"
     ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
@@ -206,7 +206,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1535390502,
+    "wof:lastmodified":1561775491,
     "wof:name":"Wanganui",
     "wof:parent_id":102079299,
     "wof:placetype":"locality",

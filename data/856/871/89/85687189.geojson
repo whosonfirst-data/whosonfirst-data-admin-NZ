@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0647\u0627\u0648\u0643\u0633 \u0628\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Hawke's Bay eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0995\u09c7\u09b8 \u09ac\u09c7 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -39,38 +36,32 @@
     "name:cat_x_preferred":[
         "Hawke's Bay"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u514b\u6e7e\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hawke's Bay"
     ],
     "name:dan_x_preferred":[
         "Hawke's Bay Region"
     ],
-    "name:dut_x_preferred":[
-        "Hawke's Bay"
+    "name:deu_x_preferred":[
+        "Hawke\u2019s Bay"
+    ],
+    "name:ell_x_preferred":[
+        "X\u03bf\u03ba\u2019\u03c2 \u039c\u03c0\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Hawke's Bay Region"
     ],
+    "name:eus_x_preferred":[
+        "Hawke's Bay eskualdea"
+    ],
     "name:fin_x_preferred":[
         "Hawke's Bayn maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hawke's Bay"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10dd\u10d9\u10e1-\u10d1\u10d4\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Hawke\u2019s Bay"
     ],
     "name:gla_x_preferred":[
         "Hawke's Bay Region"
-    ],
-    "name:gre_x_preferred":[
-        "X\u03bf\u03ba\u2019\u03c2 \u039c\u03c0\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac9\u0a95\u0acd\u0ab8 \u0aac\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -96,6 +87,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cbe\u0c95\u0ccd\u0cb8\u0ccd \u0cac\u0cc7 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10d9\u10e1-\u10d1\u10d4\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud638\ud06c\uc2a4\ubca0\uc774 \uc9c0\ubc29"
     ],
@@ -105,20 +99,23 @@
     "name:lit_x_preferred":[
         "Houkis B\u0117jaus regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u043e\u043a\u043e\u0432 \u0417\u0430\u043b\u0438\u0432"
-    ],
-    "name:mao_x_preferred":[
-        "Heretaunga"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0949\u0915\u0938 \u092c\u0947 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u043a\u043e\u0432 \u0417\u0430\u043b\u0438\u0432"
+    ],
+    "name:mri_x_preferred":[
+        "Heretaunga"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Hawke's Bay"
     ],
     "name:nan_x_preferred":[
         "Hawke's Bay T\u014da-khu"
+    ],
+    "name:nld_x_preferred":[
+        "Hawke's Bay"
     ],
     "name:nno_x_preferred":[
         "Hawke's Bay"
@@ -167,6 +164,9 @@
     ],
     "name:zea_x_preferred":[
         "Hawke's Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u514b\u6e7e\u5927\u533a"
     ],
     "qs:a0":"New Zealand",
     "qs:a1":"Hawke's Bay Region",
@@ -222,7 +222,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1553550980,
+    "wof:lastmodified":1561775450,
     "wof:name":"Hawke's Bay Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062a\u0627\u0631\u0627\u0646\u0627\u0643\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Taranaki eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09be\u09a8\u09be\u0995\u09bf \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -39,17 +36,20 @@
     "name:cat_x_preferred":[
         "Taranaki"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u7eb3\u57fa\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Taranaki Region"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Taranaki"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03b1\u03bd\u03ac\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Taranaki Region"
+    ],
+    "name:eus_x_preferred":[
+        "Taranaki eskualdea"
     ],
     "name:fin_x_preferred":[
         "Taranakin alue"
@@ -57,20 +57,8 @@
     "name:fra_x_preferred":[
         "Taranaki"
     ],
-    "name:fre_x_preferred":[
-        "Taranaki"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e0\u10d0\u10dc\u10d0\u10d9\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Taranaki"
-    ],
     "name:gla_x_preferred":[
         "Taranaki Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c1\u03b1\u03bd\u03ac\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab0\u0abe\u0aa8\u0abe\u0a95\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -96,6 +84,9 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cb0\u0ca3\u0c95\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e0\u10d0\u10dc\u10d0\u10d9\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ub77c\ub098\ud0a4 \uc9c0\ubc29"
     ],
@@ -105,20 +96,23 @@
     "name:lit_x_preferred":[
         "Taranakio regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u0440\u0430\u043d\u0430\u043a\u0438"
-    ],
-    "name:mao_x_preferred":[
-        "Taranaki"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0930\u093e\u0928\u093e\u0915\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043d\u0430\u043a\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "Taranaki"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Taranaki"
     ],
     "name:nan_x_preferred":[
         "Taranaki T\u014da-khu"
+    ],
+    "name:nld_x_preferred":[
+        "Taranaki"
     ],
     "name:nno_x_preferred":[
         "Taranaki"
@@ -167,6 +161,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Taranaki"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u7eb3\u57fa\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NZL",
@@ -283,7 +280,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1553550980,
+    "wof:lastmodified":1561775449,
     "wof:name":"Taranaki Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

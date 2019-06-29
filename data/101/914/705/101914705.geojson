@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000589,
-    "geom:area_square_m":5246081.826431,
+    "geom:area_square_m":5246081.826422,
     "geom:bbox":"171.73277347,-43.9168223155,171.770019124,-43.8792517259",
     "geom:latitude":-43.897898,
     "geom:longitude":171.752168,
@@ -18,13 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
-    "name:chi_x_preferred":[
-        "\u827e\u58eb\u4f2f\u9813"
-    ],
     "name:dan_x_preferred":[
         "Ashburton"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ashburton"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +30,7 @@
     "name:fao_x_preferred":[
         "Ashburton"
     ],
-    "name:fre_x_preferred":[
-        "Ashburton"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ashburton"
     ],
     "name:gla_x_preferred":[
@@ -54,10 +48,13 @@
     "name:kor_x_preferred":[
         "\uc560\uc288\ubc84\ud134"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0415\u0448\u0431\u0435\u0440\u0442\u043e\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ashburton"
+    ],
+    "name:nld_x_preferred":[
         "Ashburton"
     ],
     "name:nno_x_preferred":[
@@ -77,6 +74,9 @@
     ],
     "name:swe_x_preferred":[
         "Ashburton"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u58eb\u4f2f\u9813"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"New Zealand",
@@ -216,7 +216,7 @@
         }
     ],
     "wof:id":101914705,
-    "wof:lastmodified":1553815585,
+    "wof:lastmodified":1561775485,
     "wof:name":"Ashburton",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",
