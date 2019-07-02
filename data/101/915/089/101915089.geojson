@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":567010.106916,
+    "geom:area_square_m":567010.106922,
     "geom:bbox":"174.117646945,-35.2673539307,174.135883065,-35.256258295",
     "geom:latitude":-35.261922,
     "geom:longitude":174.126856,
@@ -17,28 +17,25 @@
     "mps:longitude":174.129856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7f85\u7d20"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Russell"
     ],
     "name:eng_x_preferred":[
         "Russell"
     ],
-    "name:fre_x_preferred":[
-        "Russell"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Russell"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30c3\u30bb\u30eb"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0420\u0430\u0441\u0435\u043b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Russell"
+    ],
+    "name:nld_x_preferred":[
         "Russell"
     ],
     "name:nno_x_preferred":[
@@ -52,6 +49,9 @@
     ],
     "name:unk_x_variant":[
         "Kororareka"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u7d20"
     ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":101915089,
-    "wof:lastmodified":1527643138,
+    "wof:lastmodified":1561775470,
     "wof:name":"Russell",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

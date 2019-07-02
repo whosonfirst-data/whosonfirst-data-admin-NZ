@@ -27,12 +27,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0648\u0627\u064a\u0643\u0627\u062a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0561\u056f\u056b\u0569\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Waikato eskualdea"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u0412\u0430\u0439\u043a\u0430\u0442\u0430"
     ],
@@ -45,17 +39,23 @@
     "name:cat_x_preferred":[
         "Waikato"
     ],
-    "name:chi_x_preferred":[
-        "\u61f7\u5361\u6258"
-    ],
     "name:dan_x_preferred":[
         "Waikato Region"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Waikato"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b1\u03ca\u03ba\u03ac\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Waikato Region"
+    ],
+    "name:eus_x_preferred":[
+        "Waikato eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u06a9\u0627\u062a\u0648"
     ],
     "name:fin_x_preferred":[
         "Waikaton maakunta"
@@ -63,20 +63,8 @@
     "name:fra_x_preferred":[
         "Waikato"
     ],
-    "name:fre_x_preferred":[
-        "Waikato"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d0\u10d8\u10d9\u10d0\u10e2\u10dd\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Waikato"
-    ],
     "name:gla_x_preferred":[
         "Waikato Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b1\u03ca\u03ba\u03ac\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0a87\u0a95\u0abe\u0a9f\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -93,6 +81,9 @@
     "name:hun_x_preferred":[
         "Waikato"
     ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0561\u056f\u056b\u0569\u0578"
+    ],
     "name:ind_x_preferred":[
         "Waikato"
     ],
@@ -105,6 +96,9 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0cc8\u0c95\u0cbe\u0c9f\u0cca \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10d8\u10d9\u10d0\u10e2\u10dd\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc640\uc774\uce74\ud1a0 \uc9c0\ubc29"
     ],
@@ -114,20 +108,23 @@
     "name:lit_x_preferred":[
         "Vaikato regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0430\u0438\u043a\u0430\u0442\u043e"
-    ],
-    "name:mao_x_preferred":[
-        "Waikato"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u093e\u0907\u0915\u093e\u091f\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0438\u043a\u0430\u0442\u043e"
+    ],
+    "name:mri_x_preferred":[
+        "Waikato"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Waikato"
     ],
     "name:nan_x_preferred":[
         "Waikato T\u014da-khu"
+    ],
+    "name:nld_x_preferred":[
+        "Waikato"
     ],
     "name:nno_x_preferred":[
         "Waikato"
@@ -137,9 +134,6 @@
     ],
     "name:oci_x_preferred":[
         "Waikato"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u06cc\u06a9\u0627\u062a\u0648"
     ],
     "name:pol_x_preferred":[
         "Waikato"
@@ -185,6 +179,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Waikato"
+    ],
+    "name:zho_x_preferred":[
+        "\u61f7\u5361\u6258"
     ],
     "ne:abbrev":"WKO",
     "ne:adm0_a3":"NZL",
@@ -301,7 +298,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1553550960,
+    "wof:lastmodified":1561775441,
     "wof:name":"Waikato Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

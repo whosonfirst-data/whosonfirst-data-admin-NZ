@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
-    "geom:area_square_m":49775.22841,
+    "geom:area_square_m":49775.228408,
     "geom:bbox":"171.187159349,-44.5329899722,171.191223201,-44.5290283545",
     "geom:latitude":-44.530946,
     "geom:longitude":171.189276,
@@ -16,9 +16,6 @@
     "mps:longitude":171.189298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Saint Andrews"
-    ],
     "name:eng_x_preferred":[
         "St Andrews"
     ],
@@ -26,7 +23,10 @@
         "Saint Andrews",
         "St. Andrews"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Saint Andrews"
+    ],
+    "name:nld_x_preferred":[
         "Saint Andrews"
     ],
     "qs:a0":"New Zealand",
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514494427,
+    "wof:lastmodified":1561775511,
     "wof:name":"Saint Andrews",
     "wof:parent_id":102079379,
     "wof:placetype":"locality",

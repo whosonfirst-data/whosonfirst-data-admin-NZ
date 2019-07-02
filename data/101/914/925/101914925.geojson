@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000824,
-    "geom:area_square_m":7671970.315157,
+    "geom:area_square_m":7671970.315163,
     "geom:bbox":"174.824327846,-41.1525489746,174.898425686,-41.0988871224",
     "geom:latitude":-41.12617,
     "geom:longitude":174.868258,
@@ -27,14 +27,14 @@
     "name:cat_x_preferred":[
         "Porirua"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u91cc\u9b6f\u963f"
-    ],
     "name:dan_x_preferred":[
         "Porirua"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Porirua"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03af\u03c1\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Porirua"
@@ -42,20 +42,11 @@
     "name:fin_x_preferred":[
         "Porirua"
     ],
-    "name:fre_x_preferred":[
-        "Porirua"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e0\u10d8\u10e0\u10e3\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Porirua"
     ],
     "name:gla_x_preferred":[
         "Porirua"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c1\u03af\u03c1\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0ac1\u0ab0\u0ac1\u0a86"
@@ -93,13 +84,16 @@
     "name:lit_x_preferred":[
         "Porirua"
     ],
-    "name:mao_x_preferred":[
-        "Porirua"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0930\u0941\u0930\u0942\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
+        "Porirua"
+    ],
+    "name:msa_x_preferred":[
+        "Porirua"
+    ],
+    "name:nld_x_preferred":[
         "Porirua"
     ],
     "name:nno_x_preferred":[
@@ -294,7 +288,7 @@
         }
     ],
     "wof:id":101914925,
-    "wof:lastmodified":1527688587,
+    "wof:lastmodified":1561775484,
     "wof:name":"Porirua",
     "wof:parent_id":102079317,
     "wof:placetype":"locality",

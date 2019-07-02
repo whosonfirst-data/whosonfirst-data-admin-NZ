@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
-    "geom:area_square_m":221779.752278,
+    "geom:area_square_m":221779.752277,
     "geom:bbox":"168.118706905,-46.9032167822,168.130139199,-46.8952107835",
     "geom:latitude":-46.899165,
     "geom:longitude":168.124336,
@@ -20,7 +20,10 @@
     "name:cat_x_preferred":[
         "Oban"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
+        "Oban"
+    ],
+    "name:deu_x_preferred":[
         "Oban"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +33,7 @@
         "Oban",
         "Half Moon Bay"
     ],
-    "name:fre_x_preferred":[
-        "Oban"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oban"
     ],
     "name:hun_x_preferred":[
@@ -42,10 +42,13 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30d0\u30f3"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u0431\u0430\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Oban"
+    ],
+    "name:nld_x_preferred":[
         "Oban"
     ],
     "name:nno_x_preferred":[
@@ -62,9 +65,6 @@
     ],
     "name:unk_x_variant":[
         "Halfmoon Bay"
-    ],
-    "name:wel_x_preferred":[
-        "Oban"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"New Zealand",
@@ -196,7 +196,7 @@
         }
     ],
     "wof:id":101916921,
-    "wof:lastmodified":1553815586,
+    "wof:lastmodified":1561775504,
     "wof:name":"Halfmoon Bay (Oban)",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

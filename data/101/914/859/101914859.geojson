@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
-    "geom:area_square_m":4363786.980483,
+    "geom:area_square_m":4363786.980476,
     "geom:bbox":"175.451280366,-37.9170356447,175.487944224,-37.8798445227",
     "geom:latitude":-37.896662,
     "geom:longitude":175.471036,
@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "Cambridge"
     ],
-    "name:baq_x_preferred":[
-        "Cambridge"
-    ],
     "name:bar_x_preferred":[
         "Cambridge"
     ],
@@ -38,16 +35,19 @@
     "name:cat_x_preferred":[
         "Cambridge"
     ],
+    "name:ces_x_preferred":[
+        "Cambridge"
+    ],
     "name:cos_x_preferred":[
         "Cambridge"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Cambridge"
     ],
     "name:dan_x_preferred":[
         "Cambridge"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cambridge"
     ],
     "name:eng_x_preferred":[
@@ -59,19 +59,22 @@
     "name:est_x_preferred":[
         "Cambridge"
     ],
+    "name:eus_x_preferred":[
+        "Cambridge"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0645\u0628\u0631\u06cc\u062c\u060c \u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f"
+    ],
     "name:fin_x_preferred":[
         "Cambridge"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cambridge"
     ],
     "name:frp_x_preferred":[
         "Cambridge"
     ],
     "name:fur_x_preferred":[
-        "Cambridge"
-    ],
-    "name:ger_x_preferred":[
         "Cambridge"
     ],
     "name:gla_x_preferred":[
@@ -92,9 +95,6 @@
     "name:hun_x_preferred":[
         "Cambridge"
     ],
-    "name:ice_x_preferred":[
-        "Cambridge"
-    ],
     "name:ido_x_preferred":[
         "Cambridge"
     ],
@@ -105,6 +105,9 @@
         "Cambridge"
     ],
     "name:ind_x_preferred":[
+        "Cambridge"
+    ],
+    "name:isl_x_preferred":[
         "Cambridge"
     ],
     "name:ita_x_preferred":[
@@ -122,19 +125,22 @@
     "name:ltz_x_preferred":[
         "Cambridge"
     ],
-    "name:may_x_preferred":[
-        "Cambridge"
-    ],
     "name:min_x_preferred":[
         "Cambridge"
     ],
     "name:mlg_x_preferred":[
         "Cambridge"
     ],
+    "name:msa_x_preferred":[
+        "Cambridge"
+    ],
     "name:nap_x_preferred":[
         "Cambridge"
     ],
     "name:nds_x_preferred":[
+        "Cambridge"
+    ],
+    "name:nld_x_preferred":[
         "Cambridge"
     ],
     "name:nno_x_preferred":[
@@ -152,9 +158,6 @@
     "name:pcd_x_preferred":[
         "Cambridge"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0645\u0628\u0631\u06cc\u062c\u060c \u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f"
-    ],
     "name:pms_x_preferred":[
         "Cambridge"
     ],
@@ -167,7 +170,7 @@
     "name:roh_x_preferred":[
         "Cambridge"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cambridge"
     ],
     "name:rus_x_preferred":[
@@ -179,7 +182,7 @@
     "name:sco_x_preferred":[
         "Cambridge"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cambridge"
     ],
     "name:slv_x_preferred":[
@@ -210,9 +213,6 @@
         "Cambridge"
     ],
     "name:vol_x_preferred":[
-        "Cambridge"
-    ],
-    "name:wel_x_preferred":[
         "Cambridge"
     ],
     "name:wln_x_preferred":[
@@ -266,7 +266,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815585,
+    "wof:lastmodified":1561775480,
     "wof:name":"Cambridge",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",

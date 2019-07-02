@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000595,
-    "geom:area_square_m":5192306.842319,
+    "geom:area_square_m":5192306.842329,
     "geom:bbox":"170.938599537,-45.1150046713,170.997329651,-45.0628422948",
     "geom:latitude":-45.091134,
     "geom:longitude":170.96993,
@@ -20,13 +20,10 @@
     "name:cat_x_preferred":[
         "Oamaru"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u9a6c\u9c81"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Oamaru"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oamaru"
     ],
     "name:eng_x_preferred":[
@@ -35,13 +32,7 @@
     "name:epo_x_preferred":[
         "Oamaru"
     ],
-    "name:fre_x_preferred":[
-        "Oamaru"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d0\u10db\u10d0\u10e0\u10e3"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oamaru"
     ],
     "name:gla_x_preferred":[
@@ -59,7 +50,10 @@
     "name:kat_x_preferred":[
         "\u10dd\u10d0\u10db\u10d0\u10e0\u10e3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Oamaru"
+    ],
+    "name:nld_x_preferred":[
         "Oamaru"
     ],
     "name:nob_x_preferred":[
@@ -82,6 +76,9 @@
     ],
     "name:unk_x_variant":[
         "Te Oha-a-Maru"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u9a6c\u9c81"
     ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
@@ -124,7 +121,7 @@
         }
     ],
     "wof:id":101914699,
-    "wof:lastmodified":1527688592,
+    "wof:lastmodified":1561775490,
     "wof:name":"Oamaru",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

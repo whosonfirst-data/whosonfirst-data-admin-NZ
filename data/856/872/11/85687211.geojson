@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.393621,
-    "geom:area_square_m":54922446460.61515,
+    "geom:area_square_m":54922446460.597336,
     "geom:bbox":"166.138653275,-47.7240455039,169.342055445,-44.1270576645",
     "geom:latitude":-45.99093,
     "geom:longitude":167.746888,
@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0633\u0648\u062b\u0644\u0627\u0646\u062f"
     ],
-    "name:baq_x_preferred":[
-        "Southland eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0989\u09a5\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -39,17 +36,14 @@
     "name:cat_x_preferred":[
         "Southland"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u5730\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Southland Region"
     ],
     "name:deu_x_preferred":[
         "Southland"
     ],
-    "name:dut_x_preferred":[
-        "Southland"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bf\u03c5\u03b8\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Southland Region"
@@ -69,20 +63,8 @@
     "name:fra_x_preferred":[
         "Southland"
     ],
-    "name:fre_x_preferred":[
-        "Southland"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e3\u10d7\u10da\u10d0\u10dc\u10d3\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Southland"
-    ],
     "name:gla_x_preferred":[
         "Southland Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bf\u03c5\u03b8\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -111,6 +93,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e3\u10d7\u10da\u10d4\u10dc\u10d3\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10e3\u10d7\u10da\u10d0\u10dc\u10d3\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\uc6b0\uc2a4\ub79c\ub4dc \uc9c0\ubc29"
     ],
@@ -120,17 +105,8 @@
     "name:lit_x_preferred":[
         "Soutlando regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0443\u0442\u043b\u0435\u043d\u0434"
-    ],
-    "name:mao_x_preferred":[
-        "Murihiku"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0909\u0925\u0932\u0901\u0921 \u092a\u094d\u0930\u0926\u0947\u0936"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Southland"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0443\u0442\u043b\u0435\u043d\u0434"
@@ -152,9 +128,6 @@
     ],
     "name:nor_x_preferred":[
         "Southland"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0631\u0632\u0645\u06cc\u0646 \u062c\u0646\u0648\u0628\u06cc\u060c \u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f"
     ],
     "name:pol_x_preferred":[
         "Southland"
@@ -314,7 +287,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1553814894,
+    "wof:lastmodified":1561775441,
     "wof:name":"Southland Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

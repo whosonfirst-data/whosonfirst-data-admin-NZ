@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000058,
-    "geom:area_square_m":514647.813606,
+    "geom:area_square_m":514647.8136,
     "geom:bbox":"172.477694685,-43.6443943299,172.494816165,-43.6374865877",
     "geom:latitude":-43.641082,
     "geom:longitude":172.485418,
@@ -17,19 +17,13 @@
     "mps:longitude":172.482545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6797\u80af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lincoln"
     ],
     "name:eng_x_preferred":[
         "Lincoln"
     ],
-    "name:fre_x_preferred":[
-        "Lincoln"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lincoln"
     ],
     "name:jpn_x_preferred":[
@@ -38,7 +32,10 @@
     "name:kor_x_preferred":[
         "\ub9c1\ucee8"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Lincoln"
+    ],
+    "name:nld_x_preferred":[
         "Lincoln"
     ],
     "name:nob_x_preferred":[
@@ -55,6 +52,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0646\u06a9\u0646\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u80af"
     ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":101916247,
-    "wof:lastmodified":1527715564,
+    "wof:lastmodified":1561775502,
     "wof:name":"Lincoln",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",
