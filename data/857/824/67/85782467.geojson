@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1604304.807286,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.283345,-41.273856,173.283345,-41.273856",
     "geom:latitude":-41.273856,
     "geom:longitude":173.283345,
@@ -26,6 +26,9 @@
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Nelson Central"
+    ],
+    "name:eng_x_variant":[
+        "Nelson Central School"
     ],
     "name:unk_x_variant":[
         "Nelson Central"
@@ -62,10 +65,10 @@
     "wd:wordcount":374,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860372,
+    "wof:lastmodified":1563282123,
     "wof:name":"Nelson Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

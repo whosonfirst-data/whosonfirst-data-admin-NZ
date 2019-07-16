@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1246614.641907,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.763564,-36.878716,174.763564,-36.878716",
     "geom:latitude":-36.878716,
     "geom:longitude":174.763564,
@@ -25,14 +25,36 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:arg_x_preferred":[
+        "Mount Eden"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Eden"
+    ],
     "name:eng_x_preferred":[
         "Mount Eden Central"
     ],
     "name:eng_x_variant":[
-        "Mt Eden Central"
+        "Mt Eden Central",
+        "Mount Eden"
+    ],
+    "name:fra_x_preferred":[
+        "mont \u00c9den"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a6\u30f3\u30c8\u30fb\u30a4\u30fc\u30c7\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Mount Eden"
+    ],
+    "name:nno_x_preferred":[
+        "Mount Eden"
     ],
     "name:unk_x_variant":[
         "Mount Eden Central"
+    ],
+    "name:war_x_preferred":[
+        "Bukid Eden"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -65,10 +87,10 @@
     "wd:wordcount":3230,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860370,
+    "wof:lastmodified":1563282127,
     "wof:name":"Mount Eden",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3454909.2363,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.530995,-45.849703,170.530995,-45.849703",
     "geom:latitude":-45.849703,
     "geom:longitude":170.530995,
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "North East Valley"
+    ],
     "name:eng_x_preferred":[
         "North East Valley"
     ],
@@ -64,11 +67,11 @@
     "wd:wordcount":1113,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
         101914269,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859620,
+    "wof:lastmodified":1563282044,
     "wof:name":"North East Valley",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

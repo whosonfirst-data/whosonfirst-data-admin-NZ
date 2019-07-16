@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Haast"
+    ],
     "name:deu_x_preferred":[
         "Haast"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0627\u0633\u0679\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u06c1\u0627\u0633\u0679"
     ],
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125856013,
-    "wof:lastmodified":1561775525,
+    "wof:lastmodified":1563282826,
     "wof:name":"Haast",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",

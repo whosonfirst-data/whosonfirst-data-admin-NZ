@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4462475.659047,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.655964,-36.93701,174.655964,-36.93701",
     "geom:latitude":-36.93701,
     "geom:longitude":174.655964,
@@ -27,7 +27,19 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Titirangi"
+    ],
     "name:eng_x_preferred":[
+        "Titirangi"
+    ],
+    "name:fra_x_preferred":[
+        "Titirangi"
+    ],
+    "name:mri_x_preferred":[
+        "South Titirangi"
+    ],
+    "name:nob_x_preferred":[
         "Titirangi"
     ],
     "name:unk_x_variant":[
@@ -65,10 +77,10 @@
     "src:population":"geonames",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859657,
+    "wof:lastmodified":1563282118,
     "wof:name":"Titirangi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

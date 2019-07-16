@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":577843.622647,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.61453,-43.554065,172.61453,-43.554065",
     "geom:latitude":-43.554065,
     "geom:longitude":172.61453,
@@ -23,6 +23,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:bul_x_preferred":[
+        "\u0421\u043f\u0440\u0435\u0439\u0434\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Spreydon"
+    ],
     "name:eng_x_preferred":[
         "Spreydon"
     ],
@@ -62,11 +68,11 @@
     "wd:wordcount":257,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859642,
+    "wof:lastmodified":1563282052,
     "wof:name":"Spreydon",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

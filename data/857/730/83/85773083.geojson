@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14943949.885126,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.362831,-35.764584,174.362831,-35.764584",
     "geom:latitude":-35.764584,
     "geom:longitude":174.362831,
@@ -28,6 +28,9 @@
     ],
     "name:eng_x_variant":[
         "Onerahi Town District"
+    ],
+    "name:nld_x_preferred":[
+        "Onerahi"
     ],
     "name:nno_x_preferred":[
         "Onerahi"
@@ -67,11 +70,11 @@
     "wd:wordcount":522,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
         101914253,
-        102079257,
-        85687149
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859623,
+    "wof:lastmodified":1563282045,
     "wof:name":"Onerahi",
     "wof:parent_id":101914253,
     "wof:placetype":"neighbourhood",

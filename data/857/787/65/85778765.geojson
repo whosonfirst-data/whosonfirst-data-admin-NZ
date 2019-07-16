@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":321123.891889,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.666969,-43.518764,172.666969,-43.518764",
     "geom:latitude":-43.518764,
     "geom:longitude":172.666969,
@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:bul_x_preferred":[
+        "\u0410\u0432\u043e\u043d\u0441\u0438\u0434\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Avonside"
+    ],
     "name:eng_x_preferred":[
         "Avonside"
     ],
@@ -67,11 +73,11 @@
     "wd:wordcount":714,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859833,
+    "wof:lastmodified":1563282189,
     "wof:name":"Avonside",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

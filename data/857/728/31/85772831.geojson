@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":629366.897697,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.706384,-43.511759,172.706384,-43.511759",
     "geom:latitude":-43.511759,
     "geom:longitude":172.706384,
@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0443\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Aranui"
+    ],
     "name:eng_x_preferred":[
         "Aranui"
     ],
@@ -64,11 +70,11 @@
     "wd:wordcount":429,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859583,
+    "wof:lastmodified":1563282182,
     "wof:name":"Aranui",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

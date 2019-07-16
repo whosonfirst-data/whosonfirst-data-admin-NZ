@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14195823.834306,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.841622,-39.538751,176.841622,-39.538751",
     "geom:latitude":-39.538751,
     "geom:longitude":176.841622,
@@ -26,6 +26,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0434\u0430\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Taradale"
+    ],
     "name:eng_x_preferred":[
         "Taradale"
     ],
@@ -33,6 +39,9 @@
         "Taradale Town District"
     ],
     "name:msa_x_preferred":[
+        "Taradale"
+    ],
+    "name:nld_x_preferred":[
         "Taradale"
     ],
     "name:unk_x_variant":[
@@ -71,11 +80,11 @@
     "wd:wordcount":4111,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
         101914679,
-        102079331,
-        85687189
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859650,
+    "wof:lastmodified":1563282119,
     "wof:name":"Taradale",
     "wof:parent_id":101914679,
     "wof:placetype":"neighbourhood",

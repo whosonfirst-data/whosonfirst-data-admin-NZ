@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1855695.900488,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.909335,-36.922027,174.909335,-36.922027",
     "geom:latitude":-36.922027,
     "geom:longitude":174.909335,
@@ -27,6 +27,9 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Golflands"
+    ],
+    "name:eng_x_variant":[
+        "Golfland"
     ],
     "name:unk_x_variant":[
         "Golflands"
@@ -62,11 +65,11 @@
     "wd:wordcount":242,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860261,
+    "wof:lastmodified":1563282086,
     "wof:name":"Golflands",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

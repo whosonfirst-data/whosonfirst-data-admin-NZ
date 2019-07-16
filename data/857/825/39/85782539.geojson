@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13904406.092938,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.784454,-36.61744,174.784454,-36.61744",
     "geom:latitude":-36.61744,
     "geom:longitude":174.784454,
@@ -26,6 +26,9 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
+        "Gulf Harbour"
+    ],
+    "name:nld_x_preferred":[
         "Gulf Harbour"
     ],
     "name:unk_x_variant":[
@@ -62,10 +65,10 @@
     "wd:wordcount":453,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860394,
+    "wof:lastmodified":1563282153,
     "wof:name":"Gulf Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

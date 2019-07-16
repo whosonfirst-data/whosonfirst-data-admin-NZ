@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3205622.775501,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.621107,-43.521015,172.621107,-43.521015",
     "geom:latitude":-43.521015,
     "geom:longitude":172.621107,
@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0440\u0438\u0432\u0430\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Merivale"
+    ],
     "name:eng_x_preferred":[
         "Merivale"
     ],
@@ -67,11 +73,11 @@
     "wd:wordcount":406,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859794,
+    "wof:lastmodified":1563282111,
     "wof:name":"Merivale",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

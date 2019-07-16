@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2440432.594995,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.772268,-36.786134,174.772268,-36.786134",
     "geom:latitude":-36.786134,
     "geom:longitude":174.772268,
@@ -26,7 +26,37 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ces_x_preferred":[
+        "Takapuna"
+    ],
+    "name:dan_x_preferred":[
+        "Takapuna"
+    ],
+    "name:deu_x_preferred":[
+        "Takapuna"
+    ],
     "name:eng_x_preferred":[
+        "Takapuna"
+    ],
+    "name:fra_x_preferred":[
+        "Takapuna"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e7\u05e4\u05d5\u05e0\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Takapuna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30ab\u30d7\u30ca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043a\u0430\u043f\u0443\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Takapuna"
+    ],
+    "name:tgl_x_preferred":[
         "Takapuna"
     ],
     "name:unk_x_variant":[
@@ -61,10 +91,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859648,
+    "wof:lastmodified":1563282117,
     "wof:name":"Takapuna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

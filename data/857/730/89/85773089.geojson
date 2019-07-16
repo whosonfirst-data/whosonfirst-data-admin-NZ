@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7486435.67779,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.391301,-35.505801,173.391301,-35.505801",
     "geom:latitude":-35.505801,
     "geom:longitude":173.391301,
@@ -25,7 +25,28 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u043e\u043d\u043e\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Opononi"
+    ],
+    "name:deu_x_preferred":[
+        "Opononi"
+    ],
     "name:eng_x_preferred":[
+        "Opononi"
+    ],
+    "name:fra_x_preferred":[
+        "Opononi"
+    ],
+    "name:mri_x_preferred":[
+        "Opononi"
+    ],
+    "name:msa_x_preferred":[
+        "Opononi"
+    ],
+    "name:nld_x_preferred":[
         "Opononi"
     ],
     "name:unk_x_variant":[
@@ -62,10 +83,10 @@
     "wd:wordcount":468,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        102079255,
-        85687149
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859625,
+    "wof:lastmodified":1563282042,
     "wof:name":"Opononi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

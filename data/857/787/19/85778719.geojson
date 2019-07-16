@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1970036.207674,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.918114,-41.224443,174.918114,-41.224443",
     "geom:latitude":-41.224443,
     "geom:longitude":174.918114,
@@ -26,6 +26,9 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Waiwhetu"
+    ],
+    "name:eng_x_variant":[
+        "Waiwhet\u016b"
     ],
     "name:unk_x_variant":[
         "Waiwhetu"
@@ -62,11 +65,11 @@
     "wd:wordcount":209,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914319,
-        102079337,
-        85687233
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859827,
+    "wof:lastmodified":1563282188,
     "wof:name":"Waiwhetu",
     "wof:parent_id":101914319,
     "wof:placetype":"neighbourhood",

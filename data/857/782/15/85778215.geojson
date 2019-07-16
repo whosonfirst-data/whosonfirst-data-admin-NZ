@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6309443.576608,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.569812,-43.497991,172.569812,-43.497991",
     "geom:latitude":-43.497991,
     "geom:longitude":172.569812,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Burnside"
+    ],
     "name:eng_x_preferred":[
         "Burnside"
     ],
@@ -67,11 +70,11 @@
     "wd:wordcount":291,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859758,
+    "wof:lastmodified":1563282096,
     "wof:name":"Burnside",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

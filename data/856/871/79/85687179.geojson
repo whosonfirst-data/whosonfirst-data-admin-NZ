@@ -24,6 +24,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:afr_x_preferred":[
+        "Canterbury streek"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0631\u0628\u064a\u0631\u064a - \u0646\u064a\u0648\u0632\u0644\u0646\u062f\u0627"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:epo_x_preferred":[
         "Kanterburio"
+    ],
+    "name:epo_x_variant":[
+        "Canterbury Region"
     ],
     "name:est_x_preferred":[
         "Canterbury piirkond"
@@ -165,6 +171,9 @@
     "name:spa_x_preferred":[
         "Regi\u00f3n de Canterbury"
     ],
+    "name:spa_x_variant":[
+        "Canterbury"
+    ],
     "name:swe_x_preferred":[
         "Canterbury"
     ],
@@ -173,6 +182,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c30\u0c4d\u0c2c\u0c30\u0c40 \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tgk_x_preferred":[
+        "\u043d\u043e\u04b3\u0438\u044f\u0438 \u041a\u0435\u043d\u0442\u0435\u0440\u0431\u0435\u0440\u04e3"
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e04\u0e19\u0e40\u0e17\u0e2d\u0e40\u0e1a\u0e2d\u0e23\u0e35\u0e48"
@@ -183,8 +195,14 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043d\u0442\u0435\u0440\u0431\u0435\u0440\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043d\u0442\u0435\u0440\u0431\u0435\u0440\u0456"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0646\u0679\u0631\u0628\u0631\u06cc\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u06cc\u0646\u0679\u0631\u0628\u0631\u06cc"
     ],
     "name:vie_x_preferred":[
         "Canterbury"
@@ -312,7 +330,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1561775454,
+    "wof:lastmodified":1563282236,
     "wof:name":"Canterbury Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",
