@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001072,
-    "geom:area_square_m":10612105.264183,
+    "geom:area_square_m":10612105.264189,
     "geom:bbox":"174.850158691,-36.8627033802,174.882131348,-36.8190731821",
     "geom:latitude":-36.839983,
     "geom:longitude":174.8661,
@@ -26,8 +26,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Saint Heliers"
+    ],
     "name:eng_x_preferred":[
         "St Heliers"
+    ],
+    "name:eng_x_variant":[
+        "Saint Heliers"
     ],
     "name:unk_x_variant":[
         "St Heliers"
@@ -93,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639289,
+    "wof:lastmodified":1563282051,
     "wof:name":"St Heliers",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

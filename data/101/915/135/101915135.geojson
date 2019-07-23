@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
-    "geom:area_square_m":3385374.871252,
+    "geom:area_square_m":3385374.871259,
     "geom:bbox":"175.760325985,-37.8297191159,175.791652933,-37.8006884723",
     "geom:latitude":-37.812022,
     "geom:longitude":175.773389,
@@ -19,6 +19,12 @@
     "mz:is_current":-1,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0645\u0627\u0637\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "Matamata"
+    ],
+    "name:ceb_x_preferred":[
+        "Matamata"
     ],
     "name:deu_x_preferred":[
         "Matamata"
@@ -35,8 +41,14 @@
     "name:gla_x_preferred":[
         "Matamata"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05de\u05d8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Matamata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30bf\u30de\u30bf"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0442\u0430\u043c\u0430\u0442\u0430"
@@ -50,6 +62,9 @@
     "name:nno_x_preferred":[
         "Matamata"
     ],
+    "name:nob_x_preferred":[
+        "Matamata"
+    ],
     "name:nor_x_preferred":[
         "Matamata"
     ],
@@ -61,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Matamata"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5854\u99ac\u5854"
     ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":101915135,
-    "wof:lastmodified":1527643125,
+    "wof:lastmodified":1563282365,
     "wof:name":"Matamata",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

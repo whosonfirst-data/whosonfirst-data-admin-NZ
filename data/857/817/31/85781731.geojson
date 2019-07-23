@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3033447.434754,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.918719,-36.910504,174.918719,-36.910504",
     "geom:latitude":-36.910504,
     "geom:longitude":174.918719,
@@ -31,6 +31,12 @@
     ],
     "name:eng_x_preferred":[
         "Botany Downs South"
+    ],
+    "name:eng_x_variant":[
+        "Botany Downs"
+    ],
+    "name:fra_x_preferred":[
+        "Botany Downs"
     ],
     "name:unk_x_variant":[
         "Botany Downs South"
@@ -67,11 +73,11 @@
     "wd:wordcount":289,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860262,
+    "wof:lastmodified":1563282083,
     "wof:name":"Botany Downs",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

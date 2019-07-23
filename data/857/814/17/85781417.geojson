@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7349738.617594,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.780265,-36.797011,174.780265,-36.797011",
     "geom:latitude":-36.797011,
     "geom:longitude":174.780265,
@@ -31,6 +31,9 @@
     ],
     "name:unk_x_variant":[
         "Hauraki"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u62c9\u57fa"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -62,11 +65,11 @@
     "wd:wordcount":117,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101915597,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860204,
+    "wof:lastmodified":1563282142,
     "wof:name":"Hauraki",
     "wof:parent_id":101915597,
     "wof:placetype":"neighbourhood",

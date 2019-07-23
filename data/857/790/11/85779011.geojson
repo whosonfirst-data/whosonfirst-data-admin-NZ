@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5903088.46511,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.683636,-36.908656,174.683636,-36.908656",
     "geom:latitude":-36.908656,
     "geom:longitude":174.683636,
@@ -25,8 +25,14 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:cym_x_preferred":[
+        "New Lynn"
+    ],
     "name:eng_x_preferred":[
         "New Lynn North"
+    ],
+    "name:eng_x_variant":[
+        "New Lynn"
     ],
     "name:unk_x_variant":[
         "New Lynn North"
@@ -62,10 +68,10 @@
     "wd:wordcount":1293,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859892,
+    "wof:lastmodified":1563282039,
     "wof:name":"New Lynn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

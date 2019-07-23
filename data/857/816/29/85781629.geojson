@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6660005.858653,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.976767,-45.112919,170.976767,-45.112919",
     "geom:latitude":-45.112919,
     "geom:longitude":170.976767,
@@ -24,11 +24,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Cape Wanbrow"
+    ],
     "name:deu_x_preferred":[
         "Cape Wanbrow"
     ],
     "name:eng_x_preferred":[
         "Cape Wanbrow"
+    ],
+    "name:ita_x_preferred":[
+        "capo Wanbrow"
     ],
     "name:unk_x_variant":[
         "Cape Wanbrow"
@@ -61,10 +67,10 @@
     "wd:wordcount":132,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        102079381,
-        85687201
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860243,
+    "wof:lastmodified":1563282064,
     "wof:name":"Cape Wanbrow",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

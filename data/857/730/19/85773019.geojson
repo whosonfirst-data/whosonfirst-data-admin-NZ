@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":355764.846348,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.755859,-36.738884,174.755859,-36.738884",
     "geom:latitude":-36.738884,
     "geom:longitude":174.755859,
@@ -26,11 +26,17 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Mairangi Bay"
+    ],
     "name:eng_x_preferred":[
         "Mairangi Bay"
     ],
     "name:unk_x_variant":[
         "Mairangi Bay"
+    ],
+    "name:zho_x_preferred":[
+        "Mairangi\u7063"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -62,11 +68,11 @@
     "wd:wordcount":275,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859616,
+    "wof:lastmodified":1563282042,
     "wof:name":"Mairangi Bay",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

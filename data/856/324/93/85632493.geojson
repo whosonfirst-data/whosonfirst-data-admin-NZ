@@ -35,6 +35,9 @@
     "name:amh_x_preferred":[
         "\u1292\u12a1\u12ed"
     ],
+    "name:amh_x_variant":[
+        "\u1292\u12cc"
+    ],
     "name:ara_x_preferred":[
         "\u0646\u064a\u064a\u0648\u064a"
     ],
@@ -92,8 +95,14 @@
     "name:cat_x_preferred":[
         "Niue"
     ],
+    "name:cdo_x_preferred":[
+        "Niue"
+    ],
     "name:ces_x_preferred":[
         "Niue"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u06cc\u0648\u06ce"
     ],
     "name:cor_x_preferred":[
         "Niue"
@@ -189,6 +198,9 @@
     "name:guj_x_preferred":[
         "\u0aa8\u0ac0\u0aaf\u0ac1"
     ],
+    "name:guj_x_variant":[
+        "\u0aa8\u0abf\u0aaf\u0ac1"
+    ],
     "name:hak_x_preferred":[
         "Niue"
     ],
@@ -283,6 +295,9 @@
     "name:lav_x_preferred":[
         "Niue"
     ],
+    "name:lfn_x_preferred":[
+        "Niue"
+    ],
     "name:lij_x_preferred":[
         "Niue"
     ],
@@ -303,6 +318,9 @@
     ],
     "name:lug_x_preferred":[
         "Niyuwe"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7d10\u57c3"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d3f\u0d2f\u0d41\u0d35\u0d46"
@@ -333,6 +351,9 @@
     ],
     "name:msa_x_preferred":[
         "Niue"
+    ],
+    "name:mya_x_preferred":[
+        "\u1014\u103b\u1030\u1038\u1021\u1031\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:nan_x_preferred":[
         "Niue"
@@ -375,6 +396,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a28\u0a3f\u0a0a\u0a0f"
+    ],
+    "name:pih_x_preferred":[
+        "Niue"
     ],
     "name:pms_x_preferred":[
         "Niue"
@@ -439,6 +463,9 @@
     "name:spa_x_variant":[
         "Isla Niue"
     ],
+    "name:sqi_x_preferred":[
+        "Niue"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0438\u0458\u0443\u0435"
     ],
@@ -463,14 +490,23 @@
     "name:tam_x_variant":[
         "\u0ba8\u0bbf\u0baf\u0bc2"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0443\u044d"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3f\u0c2f\u0c41"
+    ],
+    "name:tel_x_variant":[
+        "\u0c28\u0c3f\u0c2f\u0c41\u0c35\u0c47"
     ],
     "name:tgl_x_preferred":[
         "Niue"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e35\u0e2d\u0e39\u0e40\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e35\u0e27\u0e40\u0e27"
     ],
     "name:tir_x_preferred":[
         "\u1292\u12a1\u12ed"
@@ -530,6 +566,9 @@
         "\u7d10\u57c3"
     ],
     "name:zea_x_preferred":[
+        "Niue"
+    ],
+    "name:zha_x_preferred":[
         "Niue"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -719,7 +758,7 @@
         }
     ],
     "wof:id":85632493,
-    "wof:lastmodified":1561775444,
+    "wof:lastmodified":1563282214,
     "wof:name":"Niue",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",

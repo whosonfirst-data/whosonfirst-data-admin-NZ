@@ -24,11 +24,21 @@
     "mps:longitude":175.134294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Whanganui District"
+    ],
+    "name:deu_x_preferred":[
+        "Whanganui District"
+    ],
     "name:eng_x_preferred":[
         "Wanganui District"
     ],
     "name:eng_x_variant":[
-        "Wanganui"
+        "Wanganui",
+        "Whanganui District"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e0\u05d2\u05e0\u05d0\u05d5\u05d9"
     ],
     "name:ita_x_preferred":[
         "Distretto di Wanganui"
@@ -85,7 +95,7 @@
         }
     ],
     "wof:id":102079299,
-    "wof:lastmodified":1536614401,
+    "wof:lastmodified":1563281999,
     "wof:name":"Whanganui District",
     "wof:parent_id":85687251,
     "wof:placetype":"county",

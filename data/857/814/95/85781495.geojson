@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7203554.612151,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.950723,-41.504401,173.950723,-41.504401",
     "geom:latitude":-41.504401,
     "geom:longitude":173.950723,
@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
+        "Mayfield"
+    ],
+    "name:nld_x_preferred":[
         "Mayfield"
     ],
     "name:unk_x_variant":[
@@ -64,10 +67,10 @@
     "wd:wordcount":139,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687185,
         102191583,
         85633345,
-        102079353,
-        85687185
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860218,
+    "wof:lastmodified":1563282140,
     "wof:name":"Mayfield",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

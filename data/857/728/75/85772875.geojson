@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11429554.811797,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.979354,-39.936747,174.979354,-39.936747",
     "geom:latitude":-39.936747,
     "geom:longitude":174.979354,
@@ -27,6 +27,9 @@
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Castlecliff"
+    ],
+    "name:eng_x_variant":[
+        "Castlecliff Branch"
     ],
     "name:unk_x_variant":[
         "Castlecliff"
@@ -64,11 +67,11 @@
     "wd:wordcount":1134,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
         101914639,
-        102079299,
-        85687251
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859591,
+    "wof:lastmodified":1563282182,
     "wof:name":"Castlecliff",
     "wof:parent_id":101914639,
     "wof:placetype":"neighbourhood",

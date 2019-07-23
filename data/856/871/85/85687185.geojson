@@ -24,13 +24,40 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0645\u0627\u0631\u0644\u0628\u0648\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09cd\u09b2\u09ac\u09cb\u09b0\u09cb \u0985\u099e\u09cd\u099a\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Marlborough"
+    ],
+    "name:ceb_x_preferred":[
+        "Marlborough"
+    ],
+    "name:cym_x_preferred":[
+        "Marlborough"
+    ],
+    "name:dan_x_preferred":[
+        "Marlborough Region"
+    ],
+    "name:deu_x_preferred":[
+        "Marlborough"
+    ],
+    "name:ell_x_preferred":[
+        "M\u03ac\u03c1\u03bb\u03bc\u03c0\u03bf\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Marlborough Region"
     ],
     "name:eng_x_variant":[
+        "Marlborough"
+    ],
+    "name:fin_x_preferred":[
         "Marlborough"
     ],
     "name:fra_x_preferred":[
@@ -39,14 +66,38 @@
     "name:gla_x_preferred":[
         "Marlborough Region"
     ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0ab0\u0acd\u0ab2\u0aac\u0acb\u0ab0\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0932\u092c\u094b\u0930\u094b \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Wilayah Marlborough"
+    ],
+    "name:ita_x_preferred":[
+        "Marlborough"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30fc\u30eb\u30dc\u30ed\u5730\u65b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0cb0\u0ccd\u0cb2\u0ccd\u0cac\u0cb0\u0ccb \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e0\u10da\u10d1\u10dd\u10e0\u10dd\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub9d0\ubc84\ub7ec \uc9c0\ubc29"
+    ],
+    "name:lav_x_preferred":[
+        "M\u0101rlboro re\u0123ions"
+    ],
+    "name:lit_x_preferred":[
+        "Mariburo regionas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0932\u092c\u094b\u0930\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e"
@@ -60,20 +111,59 @@
     "name:nan_x_preferred":[
         "Marlborough T\u014da-khu"
     ],
+    "name:nld_x_preferred":[
+        "Marlborough"
+    ],
     "name:nno_x_preferred":[
         "Marlborough p\u00e5 New Zealand"
+    ],
+    "name:nob_x_preferred":[
+        "Marlborough"
+    ],
+    "name:oci_x_preferred":[
+        "Marlborough"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0645\u0627\u0631\u0644\u0628\u0631\u0627"
     ],
+    "name:pol_x_preferred":[
+        "Marlborough"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0dbd\u0dca\u0db6\u0dbb\u0ddd \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Marlborough"
+    ],
+    "name:swe_x_preferred":[
+        "Marlborough"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bcd\u0bb2\u0bcd\u0baa\u0bcb\u0bb0\u0bbe\u0b95\u0bb9\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c32\u0c4d\u200c\u0c2c\u0c4a\u0c30\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e42\u0e1a\u0e40\u0e23\u0e32\u0e17\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Marlborough B\u00f6lgesi"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043b\u044c\u0431\u043e\u0440\u043e\u0443"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u0644\u0628\u0648\u0631\u0648 \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Khu v\u1ef1c Marlborough"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u5c14\u5821"
@@ -192,7 +282,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1553551074,
+    "wof:lastmodified":1563282239,
     "wof:name":"Marlborough Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

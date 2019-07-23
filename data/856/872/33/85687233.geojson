@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0648\u064a\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b2\u09bf\u0982\u099f\u09a8 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -45,6 +48,9 @@
     "name:cat_x_preferred":[
         "Wellington"
     ],
+    "name:ceb_x_preferred":[
+        "Wellington"
+    ],
     "name:ces_x_preferred":[
         "Wellington"
     ],
@@ -53,6 +59,9 @@
     ],
     "name:dan_x_preferred":[
         "Wellington"
+    ],
+    "name:dan_x_variant":[
+        "Wellington Region"
     ],
     "name:deu_x_preferred":[
         "Wellington"
@@ -72,6 +81,9 @@
     "name:epo_x_preferred":[
         "Velingtono"
     ],
+    "name:epo_x_variant":[
+        "Regiono Velingtono"
+    ],
     "name:est_x_preferred":[
         "Wellington"
     ],
@@ -83,6 +95,9 @@
     ],
     "name:fin_x_preferred":[
         "Wellington"
+    ],
+    "name:fin_x_variant":[
+        "Wellingtonin hallintoalue"
     ],
     "name:fra_x_preferred":[
         "Wellington"
@@ -96,11 +111,17 @@
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab2\u0abf\u0a82\u0a97\u0acd\u0a9f\u0aa8"
     ],
+    "name:guj_x_variant":[
+        "\u0ab5\u0ac7\u0ab2\u0abf\u0a82\u0a97\u0acd\u0a9f\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
     "name:heb_x_preferred":[
         "\u05d5\u05dc\u05d9\u05e0\u05d2\u05d8\u05d5\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0935\u0947\u0932\u093f\u0902\u0917\u094d\u091f\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0935\u0947\u0932\u093f\u0902\u0917\u094d\u091f\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
     "name:hrv_x_preferred":[
         "Wellington"
@@ -114,6 +135,9 @@
     "name:ind_x_preferred":[
         "Wellington"
     ],
+    "name:ind_x_variant":[
+        "Wilayah Wellington"
+    ],
     "name:isl_x_preferred":[
         "Wellington"
     ],
@@ -122,6 +146,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a7\u30ea\u30f3\u30c8\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a6\u30a7\u30ea\u30f3\u30c8\u30f3\u5730\u65b9"
     ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cc6\u0cb2\u0ccd\u0cb2\u0cbf\u0c82\u0c97\u0ccd\u0c9f\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
@@ -132,6 +159,9 @@
     "name:kor_x_preferred":[
         "\uc6f0\ub9c1\ud134"
     ],
+    "name:kor_x_variant":[
+        "\uc6f0\ub9c1\ud134 \uc9c0\ubc29"
+    ],
     "name:lat_x_preferred":[
         "Wellington"
     ],
@@ -141,8 +171,14 @@
     "name:lit_x_preferred":[
         "Velingtonas"
     ],
+    "name:lit_x_variant":[
+        "Velingtono regionas"
+    ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0932\u093f\u0902\u0917\u094d\u091f\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043d\u0433\u0442\u043e\u043d"
     ],
     "name:mri_x_preferred":[
         "Whanganui-a-Tara"
@@ -156,8 +192,14 @@
     "name:nld_x_preferred":[
         "Wellington"
     ],
+    "name:nld_x_variant":[
+        "Wellington regio"
+    ],
     "name:nno_x_preferred":[
         "Wellington"
+    ],
+    "name:nno_x_variant":[
+        "Regionen Wellington"
     ],
     "name:nob_x_preferred":[
         "Wellington"
@@ -204,6 +246,12 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bc6\u0bb2\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0bc6\u0bb2\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043b\u043b\u0438\u04a3\u0442\u043e\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d\u0c1f\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
@@ -227,6 +275,9 @@
     ],
     "name:vie_x_preferred":[
         "Wellington"
+    ],
+    "name:vie_x_variant":[
+        "Khu v\u1ef1c Wellington"
     ],
     "name:zho_x_preferred":[
         "\u60e0\u7075\u987f"
@@ -350,7 +401,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1561775440,
+    "wof:lastmodified":1563282204,
     "wof:name":"Wellington Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

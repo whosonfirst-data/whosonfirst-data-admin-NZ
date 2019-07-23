@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1375163.237024,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.646222,-36.905574,174.646222,-36.905574",
     "geom:latitude":-36.905574,
     "geom:longitude":174.646222,
@@ -27,6 +27,9 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Glen Eden West"
+    ],
+    "name:eng_x_variant":[
+        "Glen Eden"
     ],
     "name:unk_x_variant":[
         "Glen Eden West"
@@ -62,10 +65,10 @@
     "wd:wordcount":516,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859884,
+    "wof:lastmodified":1563282194,
     "wof:name":"Glen Eden West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

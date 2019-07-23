@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1274880.277639,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.623901,-43.557894,172.623901,-43.557894",
     "geom:latitude":-43.557894,
     "geom:longitude":172.623901,
@@ -28,8 +28,23 @@
     "name:eng_x_preferred":[
         "Somerfield"
     ],
+    "name:fra_x_preferred":[
+        "Somerfield"
+    ],
+    "name:lat_x_preferred":[
+        "Somerfield"
+    ],
+    "name:pol_x_preferred":[
+        "Somerfield"
+    ],
+    "name:swe_x_preferred":[
+        "Somerfield"
+    ],
     "name:unk_x_variant":[
         "Somerfield"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u9ed8\u8cbb\u723e\u8d85\u5e02"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -64,11 +79,11 @@
     "wd:wordcount":3653,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859815,
+    "wof:lastmodified":1563282177,
     "wof:name":"Somerfield",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

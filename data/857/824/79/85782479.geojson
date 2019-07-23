@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6325936.036389,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.782703,-36.921341,174.782703,-36.921341",
     "geom:latitude":-36.921341,
     "geom:longitude":174.782703,
@@ -25,17 +25,23 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:cym_x_preferred":[
+        "Onehunga"
+    ],
     "name:eng_x_preferred":[
         "Onehunga Central"
     ],
     "name:eng_x_variant":[
-        "Onehunga Central"
+        "Onehunga"
     ],
     "name:fra_x_preferred":[
         "Onehunga"
     ],
     "name:mri_x_preferred":[
         "\u014cnehunga"
+    ],
+    "name:nld_x_preferred":[
+        "Onehunga"
     ],
     "name:unk_x_variant":[
         "Onehunga Central"
@@ -68,11 +74,11 @@
     "wd:wordcount":2911,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860374,
+    "wof:lastmodified":1563282128,
     "wof:name":"Onehunga",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

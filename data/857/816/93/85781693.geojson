@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1852653.997819,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.639119,-43.516727,172.639119,-43.516727",
     "geom:latitude":-43.516727,
     "geom:longitude":172.639119,
@@ -26,6 +26,9 @@
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Edgeware"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c3\u30b8\u30a6\u30a7\u30a2"
     ],
     "name:unk_x_variant":[
         "Edgeware"
@@ -62,11 +65,11 @@
     "wd:wordcount":127,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860256,
+    "wof:lastmodified":1563282063,
     "wof:name":"Edgeware",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

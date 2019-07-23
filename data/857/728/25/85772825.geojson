@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5938493.738984,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.701475,-36.723353,174.701475,-36.723353",
     "geom:latitude":-36.723353,
     "geom:longitude":174.701475,
@@ -35,10 +35,19 @@
     "name:eng_x_preferred":[
         "Albany"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30d0\u30cb\u30fc"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0431\u0430\u043d\u0438"
+    ],
     "name:mri_x_preferred":[
         "Albany Village"
     ],
     "name:msa_x_preferred":[
+        "Albany"
+    ],
+    "name:nld_x_preferred":[
         "Albany"
     ],
     "name:unk_x_variant":[
@@ -46,6 +55,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0646\u06cc\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0646\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u9c81\u514b\u6797\u533a"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -77,10 +92,10 @@
     "wd:wordcount":2255,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859581,
+    "wof:lastmodified":1563282186,
     "wof:name":"Albany",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

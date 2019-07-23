@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1813956.256982,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.603643,-43.519424,172.603643,-43.519424",
     "geom:latitude":-43.519424,
     "geom:longitude":172.603643,
@@ -23,6 +23,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:bul_x_preferred":[
+        "\u0424\u0435\u043d\u0434\u0430\u043b\u0442\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Fendalton"
+    ],
     "name:eng_x_preferred":[
         "Fendalton"
     ],
@@ -62,11 +68,11 @@
     "wd:wordcount":325,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859601,
+    "wof:lastmodified":1563282197,
     "wof:name":"Fendalton",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

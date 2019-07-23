@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12487987.607141,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.252345,-38.165183,176.252345,-38.165183",
     "geom:latitude":-38.165183,
     "geom:longitude":176.252345,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:arg_x_preferred":[
+        "Whakarewarewa"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u0430\u043a\u0430\u0440\u0435\u0443\u0430\u0440\u0435\u0443\u0430"
     ],
@@ -37,11 +40,17 @@
     "name:fra_x_preferred":[
         "Whakarewarewa"
     ],
+    "name:ind_x_preferred":[
+        "Whakarewarewa"
+    ],
     "name:kor_x_preferred":[
         "\uc640\uce74\ub808\uc640\ub808\uc640"
     ],
     "name:mri_x_preferred":[
         "Te Whakarewarewatanga O Te Ope Taua A Wahiao"
+    ],
+    "name:nld_x_preferred":[
+        "Whakarewarewa"
     ],
     "name:unk_x_variant":[
         "Whaka",
@@ -83,10 +92,10 @@
     "wd:wordcount":872,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860169,
+    "wof:lastmodified":1563282131,
     "wof:name":"Whakarewarewa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

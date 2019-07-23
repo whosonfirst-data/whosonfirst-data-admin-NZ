@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2143075.930496,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.756775,-36.797202,174.756775,-36.797202",
     "geom:latitude":-36.797202,
     "geom:longitude":174.756775,
@@ -28,8 +28,17 @@
     "mz:note":"???",
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Pakuranga"
+    ],
     "name:eng_x_preferred":[
         "Akoranga"
+    ],
+    "name:eng_x_variant":[
+        "Pakuranga"
+    ],
+    "name:fra_x_preferred":[
+        "Pakuranga"
     ],
     "name:unk_x_variant":[
         "Akoranga"
@@ -64,10 +73,10 @@
     "src:population":"geonames",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860178,
+    "wof:lastmodified":1563282133,
     "wof:name":"Akoranga",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

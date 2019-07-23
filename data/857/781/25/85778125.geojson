@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1972812.218361,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.534167,-45.898269,170.534167,-45.898269",
     "geom:latitude":-45.898269,
     "geom:longitude":170.534167,
@@ -33,6 +33,9 @@
     ],
     "name:unk_x_variant":[
         "Andersons Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u9054\u81e3\u7063"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -66,11 +69,11 @@
     "wd:wordcount":1496,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
         101914269,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859746,
+    "wof:lastmodified":1563282174,
     "wof:name":"Andersons Bay",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

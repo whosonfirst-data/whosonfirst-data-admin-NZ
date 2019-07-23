@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6160089.737593,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.547405,-43.547045,172.547405,-43.547045",
     "geom:latitude":-43.547045,
     "geom:longitude":172.547405,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Wigram"
+    ],
     "name:eng_x_preferred":[
         "Wigram"
     ],
@@ -64,10 +67,10 @@
     "wd:wordcount":147,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859663,
+    "wof:lastmodified":1563282114,
     "wof:name":"Wigram",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

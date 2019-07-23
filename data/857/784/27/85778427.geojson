@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6163803.084603,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.646484,-43.496966,172.646484,-43.496966",
     "geom:latitude":-43.496966,
     "geom:longitude":172.646484,
@@ -25,7 +25,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0438\u0440\u0435\u0445\u0430\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Mairehau"
+    ],
     "name:eng_x_preferred":[
+        "Mairehau"
+    ],
+    "name:fra_x_preferred":[
         "Mairehau"
     ],
     "name:unk_x_variant":[
@@ -64,11 +73,11 @@
     "wd:wordcount":128,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859787,
+    "wof:lastmodified":1563282106,
     "wof:name":"Mairehau",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

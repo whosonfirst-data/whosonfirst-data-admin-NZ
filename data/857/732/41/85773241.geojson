@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5733286.480861,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.6313,-40.348767,175.6313,-40.348767",
     "geom:latitude":-40.348767,
     "geom:longitude":175.6313,
@@ -25,7 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Terrace End"
+    ],
     "name:eng_x_preferred":[
+        "Terrace End"
+    ],
+    "name:nld_x_preferred":[
         "Terrace End"
     ],
     "name:unk_x_variant":[
@@ -63,11 +69,11 @@
     "wd:wordcount":138,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
         101914259,
-        102079307,
-        85687251
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859654,
+    "wof:lastmodified":1563282119,
     "wof:name":"Terrace End",
     "wof:parent_id":101914259,
     "wof:placetype":"neighbourhood",

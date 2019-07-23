@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3931366.426351,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.294724,-41.26812,173.294724,-41.26812",
     "geom:latitude":-41.26812,
     "geom:longitude":173.294724,
@@ -24,7 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ast_x_preferred":[
+        "The Wood"
+    ],
+    "name:deu_x_preferred":[
+        "Jein"
+    ],
     "name:eng_x_preferred":[
+        "The Wood"
+    ],
+    "name:fra_x_preferred":[
         "The Wood"
     ],
     "name:spa_x_preferred":[
@@ -32,6 +41,9 @@
     ],
     "name:unk_x_variant":[
         "The Wood"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f20\u80c6\u4e09\u5144\u5f1f"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -65,11 +77,11 @@
     "wd:wordcount":1161,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
         101915555,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860231,
+    "wof:lastmodified":1563282136,
     "wof:name":"The Wood",
     "wof:parent_id":101915555,
     "wof:placetype":"neighbourhood",

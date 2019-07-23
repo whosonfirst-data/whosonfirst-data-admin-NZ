@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6821819.646645,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.670721,-43.584633,172.670721,-43.584633",
     "geom:latitude":-43.584633,
     "geom:longitude":172.670721,
@@ -26,6 +26,9 @@
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Murray Aynsley"
+    ],
+    "name:eng_x_variant":[
+        "Murray Aynsley Hill"
     ],
     "name:unk_x_variant":[
         "Murray Aynsley"
@@ -62,10 +65,10 @@
     "wd:wordcount":180,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860219,
+    "wof:lastmodified":1563282143,
     "wof:name":"Murray Aynsley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

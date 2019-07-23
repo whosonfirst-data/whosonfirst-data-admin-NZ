@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3834185.49324,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.945686,-37.068013,174.945686,-37.068013",
     "geom:latitude":-37.068013,
     "geom:longitude":174.945686,
@@ -25,10 +25,22 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:cym_x_preferred":[
+        "Papakura"
+    ],
+    "name:deu_x_preferred":[
+        "Papakura"
+    ],
     "name:eng_x_preferred":[
         "Papakura Central"
     ],
+    "name:eng_x_variant":[
+        "Papakura"
+    ],
     "name:msa_x_preferred":[
+        "Papakura"
+    ],
+    "name:nld_x_preferred":[
         "Papakura"
     ],
     "name:unk_x_variant":[
@@ -65,11 +77,11 @@
     "wd:wordcount":1028,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101915043,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860378,
+    "wof:lastmodified":1563282124,
     "wof:name":"Papakura",
     "wof:parent_id":101915043,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4579367.958212,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.606625,-43.562944,172.606625,-43.562944",
     "geom:latitude":-43.562944,
     "geom:longitude":172.606625,
@@ -25,7 +25,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Hoon Hay"
+    ],
     "name:eng_x_preferred":[
+        "Hoon Hay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0646 \u0647\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Hoon Hay"
     ],
     "name:unk_x_variant":[
@@ -64,11 +73,11 @@
     "wd:wordcount":187,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859781,
+    "wof:lastmodified":1563282098,
     "wof:name":"Hoon Hay",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

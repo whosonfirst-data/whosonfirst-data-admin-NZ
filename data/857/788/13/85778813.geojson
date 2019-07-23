@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14042676.743774,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.900749,-36.851293,174.900749,-36.851293",
     "geom:latitude":-36.851293,
     "geom:longitude":174.900749,
@@ -28,6 +28,9 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Bucklands Beach North"
+    ],
+    "name:eng_x_variant":[
+        "Bucklands Beach"
     ],
     "name:unk_x_variant":[
         "Bucklands Beach North"
@@ -62,10 +65,10 @@
     "wd:wordcount":6039,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859835,
+    "wof:lastmodified":1563282169,
     "wof:name":"Bucklands Beach North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

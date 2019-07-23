@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
-    "geom:area_square_m":3887604.422035,
+    "geom:area_square_m":3887604.422027,
     "geom:bbox":"174.692872133,-36.8664375518,174.718322754,-36.8378659284",
     "geom:latitude":-36.851921,
     "geom:longitude":174.705215,
@@ -29,6 +29,15 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Point Chevalier North"
+    ],
+    "name:eng_x_variant":[
+        "Point Chevalier"
+    ],
+    "name:fra_x_preferred":[
+        "Point Chevalier"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30a4\u30f3\u30c8\u30fb\u30b7\u30e5\u30d0\u30ea\u30a8"
     ],
     "name:unk_x_variant":[
         "Point Chevalier North"
@@ -92,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639401,
+    "wof:lastmodified":1563282168,
     "wof:name":"Point Chevalier North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

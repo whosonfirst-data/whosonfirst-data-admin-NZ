@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5381161.403155,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.301975,-37.802638,175.301975,-37.802638",
     "geom:latitude":-37.802638,
     "geom:longitude":175.301975,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Hamilton East"
+    ],
     "name:eng_x_preferred":[
         "Hamilton East"
     ],
@@ -67,11 +70,11 @@
     "wd:wordcount":1670,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
         101914271,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860280,
+    "wof:lastmodified":1563282056,
     "wof:name":"Hamilton East",
     "wof:parent_id":101914271,
     "wof:placetype":"neighbourhood",
