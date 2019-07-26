@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8011705.576433,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.616662,-36.830399,174.616662,-36.830399",
     "geom:latitude":-36.830399,
     "geom:longitude":174.616662,
@@ -37,10 +37,16 @@
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e1\u05d9"
     ],
+    "name:ita_x_preferred":[
+        "Massey"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30c3\u30bb\u30a4"
     ],
     "name:nld_x_preferred":[
+        "Massey"
+    ],
+    "name:pol_x_preferred":[
         "Massey"
     ],
     "name:por_x_preferred":[
@@ -83,10 +89,10 @@
     "wd:wordcount":110,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859888,
+    "wof:lastmodified":1564120515,
     "wof:name":"Massey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

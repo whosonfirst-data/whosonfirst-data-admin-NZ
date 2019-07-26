@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2355942.226937,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.239911,-41.297944,173.239911,-41.297944",
     "geom:latitude":-41.297944,
     "geom:longitude":173.239911,
@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
+        "Annesbrook"
+    ],
+    "name:sco_x_preferred":[
         "Annesbrook"
     ],
     "name:unk_x_variant":[
@@ -63,10 +66,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860279,
+    "wof:lastmodified":1564120416,
     "wof:name":"Annesbrook",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

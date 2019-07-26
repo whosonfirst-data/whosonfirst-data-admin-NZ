@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:pol_x_preferred":[
+        "Hillmorton"
+    ],
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
     "qs_pg:gn_fcode":"PPLX",
@@ -45,10 +48,10 @@
     "woe:name_adm1":"Canterbury",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1126094331,
-    "wof:lastmodified":1509411809,
+    "wof:lastmodified":1564120956,
     "wof:name":"Hillmorton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

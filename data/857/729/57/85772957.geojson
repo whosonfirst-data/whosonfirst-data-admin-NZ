@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11408119.396553,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.023146,-41.142524,175.023146,-41.142524",
     "geom:latitude":-41.142524,
     "geom:longitude":175.023146,
@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Heretaunga"
+    ],
     "name:eng_x_preferred":[
         "Heretaunga"
     ],
@@ -65,11 +68,11 @@
     "wd:wordcount":65,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914809,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859611,
+    "wof:lastmodified":1564120516,
     "wof:name":"Heretaunga",
     "wof:parent_id":101914809,
     "wof:placetype":"neighbourhood",

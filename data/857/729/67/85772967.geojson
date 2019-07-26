@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3499942.668759,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.525368,-43.542427,172.525368,-43.542427",
     "geom:latitude":-43.542427,
     "geom:longitude":172.525368,
@@ -23,6 +23,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Hornby"
+    ],
+    "name:ces_x_preferred":[
+        "Hornby"
+    ],
     "name:deu_x_preferred":[
         "Hornby"
     ],
@@ -39,6 +45,12 @@
         "\u30db\u30fc\u30f3\u30d3\u30fc"
     ],
     "name:pol_x_preferred":[
+        "Hornby"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u043d\u0431\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Hornby"
     ],
     "name:unk_x_variant":[
@@ -77,10 +89,10 @@
     "wd:wordcount":184,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859613,
+    "wof:lastmodified":1564120517,
     "wof:name":"Hornby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

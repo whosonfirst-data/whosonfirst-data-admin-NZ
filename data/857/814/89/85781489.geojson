@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2053105.066294,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.208191,-44.372952,171.208191,-44.372952",
     "geom:latitude":-44.372952,
     "geom:longitude":171.208191,
@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0634\u0648\u064a\u0644"
     ],
+    "name:bre_x_preferred":[
+        "Marchwiail"
+    ],
+    "name:ceb_x_preferred":[
+        "Marchwiel"
+    ],
     "name:cor_x_preferred":[
         "Marchwiail"
     ],
@@ -37,11 +43,23 @@
     "name:eng_x_preferred":[
         "Marchwiel"
     ],
+    "name:eus_x_preferred":[
+        "Marchwiel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0686\u0648\u06cc\u0644"
+    ],
     "name:gla_x_preferred":[
         "Marchwiail"
     ],
     "name:gle_x_preferred":[
         "Marchwiail"
+    ],
+    "name:spa_x_preferred":[
+        "Marchwiel"
+    ],
+    "name:swe_x_preferred":[
+        "Marchwiel"
     ],
     "name:unk_x_variant":[
         "Marchwiel"
@@ -80,10 +98,10 @@
     "wd:wordcount":319,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079373,
-        85687179
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860217,
+    "wof:lastmodified":1564120476,
     "wof:name":"Marchwiel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

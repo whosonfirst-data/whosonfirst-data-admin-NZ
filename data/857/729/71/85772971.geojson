@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5909149.497027,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.926063,-36.898355,174.926063,-36.898355",
     "geom:latitude":-36.898355,
     "geom:longitude":174.926063,
@@ -24,11 +24,38 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Howick"
+    ],
+    "name:deu_x_preferred":[
+        "Howick"
+    ],
     "name:eng_x_preferred":[
         "Howick"
     ],
     "name:eng_x_variant":[
         "Howick Town District"
+    ],
+    "name:ita_x_preferred":[
+        "Howick"
+    ],
+    "name:mlg_x_preferred":[
+        "Howick"
+    ],
+    "name:nld_x_preferred":[
+        "Howick"
+    ],
+    "name:pol_x_preferred":[
+        "Howick"
+    ],
+    "name:ron_x_preferred":[
+        "Howick"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0443\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Howick"
     ],
     "name:unk_x_variant":[
         "Howick"
@@ -63,11 +90,11 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859613,
+    "wof:lastmodified":1564120518,
     "wof:name":"Howick",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

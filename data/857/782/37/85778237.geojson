@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":59771.21168,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.807014,-36.823349,174.807014,-36.823349",
     "geom:latitude":-36.823349,
     "geom:longitude":174.807014,
@@ -24,11 +24,143 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0644\u062a\u0646\u0647\u0627\u0645"
+    ],
+    "name:azb_x_preferred":[
+        "\u0686\u0644\u062a\u0646\u0647\u0627\u0645"
+    ],
+    "name:bre_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u043b\u0442\u043d\u044a\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:ces_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:cym_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:dan_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:deu_x_preferred":[
+        "Cheltenham"
+    ],
     "name:eng_x_preferred":[
         "Cheltenham"
     ],
+    "name:epo_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0644\u062a\u0646\u0647\u0627\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:fra_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:gle_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05dc\u05d8\u05e0\u05d4\u05d0\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:ind_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:ita_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30eb\u30c8\u30ca\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\uccbc\ud2b8\ub118"
+    ],
+    "name:lat_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:lit_x_preferred":[
+        "\u010celtnamas"
+    ],
+    "name:mlg_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:nld_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:nno_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:nor_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:pol_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:por_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:que_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:ron_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043b\u0442\u043d\u0435\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:slk_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:spa_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043b\u0442\u043d\u0430\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:szl_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0435\u043b\u0442\u043d\u0435\u043c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0a\u0e25\u0e15\u0e4c\u0e19\u0e31\u0e21"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043b\u0442\u043d\u0435\u043c"
+    ],
     "name:unk_x_variant":[
         "Cheltenham"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0644\u0679\u06cc\u0646\u06c1\u06cc\u0645"
+    ],
+    "name:vec_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:vol_x_preferred":[
+        "Cheltenham"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u723e\u6ed5\u7d0d\u59c6"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -57,11 +189,11 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914729,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +215,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859760,
+    "wof:lastmodified":1564120444,
     "wof:name":"Cheltenham",
     "wof:parent_id":101914729,
     "wof:placetype":"neighbourhood",

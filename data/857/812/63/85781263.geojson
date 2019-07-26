@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1934092.041731,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.742545,-36.706675,174.742545,-36.706675",
     "geom:latitude":-36.706675,
     "geom:longitude":174.742545,
@@ -25,6 +25,9 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
+        "Waiake"
+    ],
+    "name:mri_x_preferred":[
         "Waiake"
     ],
     "name:unk_x_variant":[
@@ -57,10 +60,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860174,
+    "wof:lastmodified":1564120468,
     "wof:name":"Waiake",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

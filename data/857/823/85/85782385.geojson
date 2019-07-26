@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4175074.251011,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.809993,-36.897601,174.809993,-36.897601",
     "geom:latitude":-36.897601,
     "geom:longitude":174.809993,
@@ -25,6 +25,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Ellerslie"
+    ],
     "name:deu_x_preferred":[
         "Ellerslie"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_variant":[
         "Ellerslie Central"
+    ],
+    "name:swe_x_preferred":[
+        "Ellerslie"
     ],
     "name:unk_x_variant":[
         "Ellerslie Central"
@@ -65,10 +71,10 @@
     "wd:wordcount":171,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860354,
+    "wof:lastmodified":1564120460,
     "wof:name":"Ellerslie",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

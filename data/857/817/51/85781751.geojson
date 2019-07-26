@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8925932.775078,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.828105,-41.131631,174.828105,-41.131631",
     "geom:latitude":-41.131631,
     "geom:longitude":174.828105,
@@ -24,10 +24,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Elsdon"
+    ],
     "name:deu_x_preferred":[
         "Elsdon"
     ],
     "name:eng_x_preferred":[
+        "Elsdon"
+    ],
+    "name:swe_x_preferred":[
         "Elsdon"
     ],
     "name:unk_x_variant":[
@@ -65,11 +71,11 @@
     "wd:wordcount":122,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914925,
-        102079317,
-        85687233
+        102079317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860264,
+    "wof:lastmodified":1564120435,
     "wof:name":"Elsdon",
     "wof:parent_id":101914925,
     "wof:placetype":"neighbourhood",

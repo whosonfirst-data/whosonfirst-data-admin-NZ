@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14513180.472281,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.719031,-36.675715,174.719031,-36.675715",
     "geom:latitude":-36.675715,
     "geom:longitude":174.719031,
@@ -25,10 +25,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Okura"
+    ],
     "name:deu_x_preferred":[
         "Okura"
     ],
     "name:eng_x_preferred":[
+        "Okura"
+    ],
+    "name:swe_x_preferred":[
         "Okura"
     ],
     "name:ukr_x_preferred":[
@@ -64,11 +70,11 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101916777,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860173,
+    "wof:lastmodified":1564120465,
     "wof:name":"Okura",
     "wof:parent_id":101916777,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3733854.32952,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.685093,-43.568164,172.685093,-43.568164",
     "geom:latitude":-43.568164,
     "geom:longitude":172.685093,
@@ -23,10 +23,64 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:bel_x_preferred":[
+        "\u0425\u0456\u043b\u0441\u0431\u0430\u0440\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0438\u043b\u0441\u0431\u044a\u0440\u043e\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:ceb_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:dan_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:deu_x_preferred":[
+        "Hillsborough"
+    ],
     "name:eng_x_preferred":[
         "Hillsborough"
     ],
+    "name:fin_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:fra_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:ita_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:nld_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:nor_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:pol_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:por_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:ron_x_preferred":[
+        "Hillsborough"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043b\u0441\u0431\u043e\u0440\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0438\u043b\u0441\u0431\u043e\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Hillsborough"
+    ],
     "name:unk_x_variant":[
+        "Hillsborough"
+    ],
+    "name:vol_x_preferred":[
         "Hillsborough"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,10 +114,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859780,
+    "wof:lastmodified":1564120448,
     "wof:name":"Hillsborough",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

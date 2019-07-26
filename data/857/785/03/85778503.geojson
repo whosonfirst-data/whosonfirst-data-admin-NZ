@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1612114.492678,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.745727,-36.80014,174.745727,-36.80014",
     "geom:latitude":-36.80014,
     "geom:longitude":174.745727,
@@ -24,7 +24,13 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Northcote"
+    ],
     "name:eng_x_preferred":[
+        "Northcote"
+    ],
+    "name:nor_x_preferred":[
         "Northcote"
     ],
     "name:unk_x_variant":[
@@ -58,10 +64,10 @@
     "wd:wordcount":108,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859803,
+    "wof:lastmodified":1564120438,
     "wof:name":"Northcote",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

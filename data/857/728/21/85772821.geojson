@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3860831.690924,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.615181,-43.541378,172.615181,-43.541378",
     "geom:latitude":-43.541378,
     "geom:longitude":172.615181,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Addington"
+    ],
     "name:deu_x_preferred":[
         "Addington"
     ],
@@ -50,6 +53,9 @@
         "Addington"
     ],
     "name:spa_x_preferred":[
+        "Addington"
+    ],
+    "name:swe_x_preferred":[
         "Addington"
     ],
     "name:unk_x_variant":[
@@ -88,10 +94,10 @@
     "wd:wordcount":154,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859579,
+    "wof:lastmodified":1564120505,
     "wof:name":"Addington",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

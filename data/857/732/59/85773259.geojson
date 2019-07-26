@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8760049.27032,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.751322,-36.698636,174.751322,-36.698636",
     "geom:latitude":-36.698636,
     "geom:longitude":174.751322,
@@ -24,11 +24,77 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:bre_x_preferred":[
+        "Torbay"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u0440\u0431\u0435\u0439"
+    ],
+    "name:ces_x_preferred":[
+        "Torbay"
+    ],
+    "name:deu_x_preferred":[
+        "Torbay"
+    ],
     "name:eng_x_preferred":[
         "Torbay"
     ],
+    "name:epo_x_preferred":[
+        "Torbay"
+    ],
+    "name:est_x_preferred":[
+        "Torbay"
+    ],
+    "name:fra_x_preferred":[
+        "Torbay"
+    ],
+    "name:ita_x_preferred":[
+        "Torbay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30fc\u30d9\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\ubca0\uc774"
+    ],
+    "name:lat_x_preferred":[
+        "Torbay"
+    ],
+    "name:ltz_x_preferred":[
+        "Torbay"
+    ],
+    "name:nld_x_preferred":[
+        "Torbay"
+    ],
+    "name:nno_x_preferred":[
+        "Torbay"
+    ],
+    "name:nor_x_preferred":[
+        "Torbay"
+    ],
+    "name:pol_x_preferred":[
+        "Torbay"
+    ],
+    "name:ron_x_preferred":[
+        "Torbay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u0431\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Torbay"
+    ],
+    "name:swe_x_preferred":[
+        "Torbay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0440\u0431\u0435\u0439"
+    ],
     "name:unk_x_variant":[
         "Torbay"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0648\u0631\u0628\u06d2"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -59,11 +125,11 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859658,
+    "wof:lastmodified":1564120457,
     "wof:name":"Torbay",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

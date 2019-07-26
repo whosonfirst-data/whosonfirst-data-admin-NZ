@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3283686.757944,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.506523,-45.906372,170.506523,-45.906372",
     "geom:latitude":-45.906372,
     "geom:longitude":170.506523,
@@ -28,6 +28,9 @@
     "name:bre_x_preferred":[
         "Saint Kilda"
     ],
+    "name:ceb_x_preferred":[
+        "St Kilda"
+    ],
     "name:deu_x_preferred":[
         "St. Kilda"
     ],
@@ -44,8 +47,17 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8 \ud0ac\ub2e4"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud0ac\ub2e4"
+    ],
     "name:nor_x_preferred":[
         "St. Kilda"
+    ],
+    "name:pol_x_preferred":[
+        "St Kilda"
+    ],
+    "name:swe_x_preferred":[
+        "St Kilda"
     ],
     "name:unk_x_variant":[
         "St Kilda"
@@ -85,11 +97,11 @@
     "wd:wordcount":165,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
         101914269,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859643,
+    "wof:lastmodified":1564120415,
     "wof:name":"St Kilda",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

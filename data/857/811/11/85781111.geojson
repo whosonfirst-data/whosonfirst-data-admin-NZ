@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5391232.916896,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.630232,-40.336689,175.630232,-40.336689",
     "geom:latitude":-40.336689,
     "geom:longitude":175.630232,
@@ -25,10 +25,34 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Roslyn"
+    ],
     "name:eng_x_preferred":[
         "Roslyn"
     ],
+    "name:fra_x_preferred":[
+        "Roslyn"
+    ],
+    "name:ita_x_preferred":[
+        "Roslyn"
+    ],
+    "name:nld_x_preferred":[
+        "Roslyn"
+    ],
+    "name:pol_x_preferred":[
+        "Roslyn"
+    ],
+    "name:por_x_preferred":[
+        "Roslyn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0437\u043b\u0438\u043d"
+    ],
     "name:unk_x_variant":[
+        "Roslyn"
+    ],
+    "name:vol_x_preferred":[
         "Roslyn"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -63,10 +87,10 @@
     "wd:wordcount":182,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        102079307,
-        85687251
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860144,
+    "wof:lastmodified":1564120425,
     "wof:name":"Roslyn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

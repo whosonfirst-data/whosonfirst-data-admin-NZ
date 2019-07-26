@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9892569.88645,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.941803,-37.01743,174.941803,-37.01743",
     "geom:latitude":-37.01743,
     "geom:longitude":174.941803,
@@ -37,6 +37,12 @@
     "name:eng_x_preferred":[
         "Alfriston"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u06cc\u0633\u062a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Alfriston"
+    ],
     "name:hbs_x_preferred":[
         "Alfriston"
     ],
@@ -47,6 +53,9 @@
         "Alfriston"
     ],
     "name:pol_x_preferred":[
+        "Alfriston"
+    ],
+    "name:spa_x_preferred":[
         "Alfriston"
     ],
     "name:swe_x_preferred":[
@@ -91,10 +100,10 @@
     "wd:wordcount":1143,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860092,
+    "wof:lastmodified":1564120492,
     "wof:name":"Alfriston",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

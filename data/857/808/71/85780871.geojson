@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7653541.858643,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.914717,-36.939445,174.914717,-36.939445",
     "geom:latitude":-36.939445,
     "geom:longitude":174.914717,
@@ -25,6 +25,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Dannemora"
+    ],
     "name:deu_x_preferred":[
         "Dannemora"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:swe_x_preferred":[
         "Dannemora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043d\u043d\u0435\u043c\u043e\u0440\u0430"
     ],
     "name:unk_x_variant":[
         "Dannemora"
@@ -71,11 +77,11 @@
     "wd:wordcount":60,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101915169,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860100,
+    "wof:lastmodified":1564120494,
     "wof:name":"Dannemora",
     "wof:parent_id":101915169,
     "wof:placetype":"neighbourhood",

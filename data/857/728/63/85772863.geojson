@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5430481.840483,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.693708,-43.487692,172.693708,-43.487692",
     "geom:latitude":-43.487692,
     "geom:longitude":172.693708,
@@ -23,7 +23,25 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Burwood"
+    ],
+    "name:deu_x_preferred":[
+        "Burwood"
+    ],
     "name:eng_x_preferred":[
+        "Burwood"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30a6\u30c3\u30c9"
+    ],
+    "name:nor_x_preferred":[
+        "Burwood"
+    ],
+    "name:pol_x_preferred":[
+        "Burwood"
+    ],
+    "name:swe_x_preferred":[
         "Burwood"
     ],
     "name:unk_x_variant":[
@@ -61,10 +79,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859589,
+    "wof:lastmodified":1564120506,
     "wof:name":"Burwood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

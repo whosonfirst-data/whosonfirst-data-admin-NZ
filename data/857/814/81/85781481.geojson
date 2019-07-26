@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":925971.746651,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.502176,-45.869997,170.502176,-45.869997",
     "geom:latitude":-45.869997,
     "geom:longitude":170.502176,
@@ -33,10 +33,22 @@
     "name:eng_x_preferred":[
         "Littlebourne"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u062a\u0644\u0628\u0648\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Littlebourne"
+    ],
+    "name:ita_x_preferred":[
+        "Littlebourne"
+    ],
     "name:nld_x_preferred":[
         "Littlebourne"
     ],
     "name:pol_x_preferred":[
+        "Littlebourne"
+    ],
+    "name:spa_x_preferred":[
         "Littlebourne"
     ],
     "name:swe_x_preferred":[
@@ -77,11 +89,11 @@
     "wd:wordcount":256,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
         101914269,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860216,
+    "wof:lastmodified":1564120476,
     "wof:name":"Littlebourne",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

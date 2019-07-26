@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11822848.133959,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.893837,-36.947003,174.893837,-36.947003",
     "geom:latitude":-36.947003,
     "geom:longitude":174.893837,
@@ -24,6 +24,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "East Tamaki"
+    ],
     "name:eng_x_preferred":[
         "East Tamaki"
     ],
@@ -63,10 +66,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859596,
+    "wof:lastmodified":1564120504,
     "wof:name":"East Tamaki",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
