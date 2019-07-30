@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1337663.560396,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.906259,-41.221185,174.906259,-41.221185",
     "geom:latitude":-41.221185,
     "geom:longitude":174.906259,
@@ -26,6 +26,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Woburn"
+    ],
     "name:deu_x_preferred":[
         "Woburn"
     ],
@@ -80,11 +83,11 @@
     "wd:wordcount":59,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914319,
-        102079337,
-        85687233
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859830,
+    "wof:lastmodified":1564120511,
     "wof:name":"Woburn",
     "wof:parent_id":101914319,
     "wof:placetype":"neighbourhood",

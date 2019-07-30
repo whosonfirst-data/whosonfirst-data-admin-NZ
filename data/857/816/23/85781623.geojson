@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17478339.912184,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.324057,-41.22269,173.324057,-41.22269",
     "geom:latitude":-41.22269,
     "geom:longitude":173.324057,
@@ -26,6 +26,12 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
+        "Marybank"
+    ],
+    "name:eus_x_preferred":[
+        "Marybank"
+    ],
+    "name:swe_x_preferred":[
         "Marybank"
     ],
     "name:unk_x_variant":[
@@ -64,10 +70,10 @@
     "wd:wordcount":79,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860242,
+    "wof:lastmodified":1564120423,
     "wof:name":"Marybank",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

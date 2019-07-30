@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5288380.098473,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.266986,-37.790312,175.266986,-37.790312",
     "geom:latitude":-37.790312,
     "geom:longitude":175.266986,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Frankton"
+    ],
     "name:ces_x_preferred":[
         "Frankton"
     ],
@@ -33,6 +36,9 @@
     "name:eng_x_preferred":[
         "Frankton"
     ],
+    "name:fra_x_preferred":[
+        "Frankton"
+    ],
     "name:ita_x_preferred":[
         "Frankton"
     ],
@@ -40,6 +46,9 @@
         "Frankton"
     ],
     "name:pol_x_preferred":[
+        "Frankton"
+    ],
+    "name:swe_x_preferred":[
         "Frankton"
     ],
     "name:unk_x_variant":[
@@ -77,10 +86,10 @@
     "wd:wordcount":43,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859603,
+    "wof:lastmodified":1564120518,
     "wof:name":"Frankton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

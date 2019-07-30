@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2560373.207983,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.829529,-39.628959,176.829529,-39.628959",
     "geom:latitude":-39.628959,
     "geom:longitude":176.829529,
@@ -25,7 +25,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "St Leonards"
+    ],
+    "name:deu_x_preferred":[
+        "St Leonards"
+    ],
     "name:eng_x_preferred":[
+        "St Leonards"
+    ],
+    "name:mlg_x_preferred":[
+        "St Leonards"
+    ],
+    "name:pol_x_preferred":[
+        "St Leonards"
+    ],
+    "name:swe_x_preferred":[
         "St Leonards"
     ],
     "name:unk_x_variant":[
@@ -63,11 +78,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
         101914313,
-        102079329,
-        85687189
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860258,
+    "wof:lastmodified":1564120436,
     "wof:name":"St Leonards",
     "wof:parent_id":101914313,
     "wof:placetype":"neighbourhood",

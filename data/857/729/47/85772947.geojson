@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17142663.358689,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.558357,-43.479863,172.558357,-43.479863",
     "geom:latitude":-43.479863,
     "geom:longitude":172.558357,
@@ -37,6 +37,9 @@
     ],
     "name:epo_x_preferred":[
         "Harewood"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0631\u0648\u0648\u062f"
     ],
     "name:gle_x_preferred":[
         "Harewood"
@@ -97,10 +100,10 @@
     "wd:wordcount":468,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859609,
+    "wof:lastmodified":1564120519,
     "wof:name":"Harewood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

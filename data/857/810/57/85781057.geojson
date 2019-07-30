@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3061946.570691,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.726454,-36.727524,174.726454,-36.727524",
     "geom:latitude":-36.727524,
     "geom:longitude":174.726454,
@@ -29,6 +29,9 @@
         "Pinehill"
     ],
     "name:eng_x_preferred":[
+        "Pinehill"
+    ],
+    "name:nds_x_preferred":[
         "Pinehill"
     ],
     "name:unk_x_variant":[
@@ -62,11 +65,11 @@
     "wd:wordcount":55,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860132,
+    "wof:lastmodified":1564120428,
     "wof:name":"Pinehill",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

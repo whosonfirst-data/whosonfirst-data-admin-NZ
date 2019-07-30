@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2055730.887303,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.306091,-37.820633,175.306091,-37.820633",
     "geom:latitude":-37.820633,
     "geom:longitude":175.306091,
@@ -51,8 +51,14 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a3\u30c3\u30c4\u30ed\u30a4"
     ],
+    "name:kor_x_preferred":[
+        "\ud53c\uce20\ub85c\uc774"
+    ],
     "name:lit_x_preferred":[
         "Ficrojus"
+    ],
+    "name:mlg_x_preferred":[
+        "Fitzroy"
     ],
     "name:nld_x_preferred":[
         "Fitzroy"
@@ -77,6 +83,9 @@
     ],
     "name:unk_x_variant":[
         "Fitzroy"
+    ],
+    "name:zho_x_preferred":[
+        "\u6590\u8332\u6d1b\u4f0a"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -110,10 +119,10 @@
     "wd:wordcount":558,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860104,
+    "wof:lastmodified":1564120490,
     "wof:name":"Fitzroy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

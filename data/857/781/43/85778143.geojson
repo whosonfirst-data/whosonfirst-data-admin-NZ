@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":2127213.084444,
+    "geom:area_square_m":2127213.084446,
     "geom:bbox":"174.732055664,-36.8942090718,174.75402832,-36.8782129153",
     "geom:latitude":-36.884971,
     "geom:longitude":174.744128,
@@ -26,7 +26,31 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Balmoral"
+    ],
+    "name:deu_x_preferred":[
+        "Balmoral"
+    ],
     "name:eng_x_preferred":[
+        "Balmoral"
+    ],
+    "name:fra_x_preferred":[
+        "Balmoral"
+    ],
+    "name:ita_x_preferred":[
+        "Balmoral"
+    ],
+    "name:mlg_x_preferred":[
+        "Balmoral"
+    ],
+    "name:nds_x_preferred":[
+        "Balmoral"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043c\u043e\u0440\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
         "Balmoral"
     ],
     "name:unk_x_variant":[
@@ -61,10 +85,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1512076116,
+    "wof:lastmodified":1564120498,
     "wof:name":"Balmoral",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

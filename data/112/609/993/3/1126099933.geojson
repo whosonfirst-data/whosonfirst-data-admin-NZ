@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Highfield"
+    ],
+    "name:pol_x_preferred":[
+        "Highfield"
+    ],
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
     "qs_pg:gn_fcode":"PPLX",
@@ -45,10 +51,10 @@
     "woe:name_adm1":"Canterbury",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079373,
-        85687179
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1126099933,
-    "wof:lastmodified":1509412067,
+    "wof:lastmodified":1564120954,
     "wof:name":"Highfield",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

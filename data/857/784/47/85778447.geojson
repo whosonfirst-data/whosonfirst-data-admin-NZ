@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8155300.298142,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.134583,-41.109916,175.134583,-41.109916",
     "geom:latitude":-41.109916,
     "geom:longitude":175.134583,
@@ -27,6 +27,9 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Maymorn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u0645\u0648\u0631\u0646"
     ],
     "name:unk_x_variant":[
         "Maymorn"
@@ -63,10 +66,10 @@
     "wd:wordcount":694,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859794,
+    "wof:lastmodified":1564120455,
     "wof:name":"Maymorn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

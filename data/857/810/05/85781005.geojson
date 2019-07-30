@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2232080.239405,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.896061,-41.209039,174.896061,-41.209039",
     "geom:latitude":-41.209039,
     "geom:longitude":174.896061,
@@ -31,8 +31,14 @@
     "name:eng_x_preferred":[
         "Melling"
     ],
+    "name:nds_x_preferred":[
+        "Melling"
+    ],
     "name:pol_x_preferred":[
         "Melling"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u043b\u0438\u043d\u0433"
     ],
     "name:unk_x_variant":[
         "Melling"
@@ -69,11 +75,11 @@
     "wd:wordcount":176,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914319,
-        102079337,
-        85687233
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860124,
+    "wof:lastmodified":1564120429,
     "wof:name":"Melling",
     "wof:parent_id":101914319,
     "wof:placetype":"neighbourhood",

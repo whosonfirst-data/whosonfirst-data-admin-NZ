@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2488179.433578,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.528317,-45.884545,170.528317,-45.884545",
     "geom:latitude":-45.884545,
     "geom:longitude":170.528317,
@@ -25,11 +25,68 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:afr_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0643\u0633\u0647\u0648\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u06a9\u0633\u0648\u0644"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u043a\u0441\u0445\u043e\u043b"
+    ],
     "name:eng_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06a9\u0633\u0648\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:gle_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05e7\u05e1\u05d4\u05d5\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a9\u30af\u30bd\u30fc\u30eb"
+    ],
+    "name:nno_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:nor_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:pol_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:sco_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:spa_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:swe_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:tur_x_preferred":[
         "Vauxhall"
     ],
     "name:unk_x_variant":[
         "Vauxhall"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u06a9\u0633\u06c1\u0648\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u514b\u65af\u970d\u723e"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -63,11 +120,11 @@
     "wd:wordcount":2979,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
         101914269,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859825,
+    "wof:lastmodified":1564120510,
     "wof:name":"Vauxhall",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

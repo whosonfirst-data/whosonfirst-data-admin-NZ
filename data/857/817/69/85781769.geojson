@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2026567.749312,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.92078,-41.525541,173.92078,-41.525541",
     "geom:latitude":-41.525541,
     "geom:longitude":173.92078,
@@ -25,8 +25,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Burleigh"
+    ],
     "name:eng_x_preferred":[
         "Burleigh"
+    ],
+    "name:fra_x_preferred":[
+        "Burleigh"
+    ],
+    "name:pol_x_preferred":[
+        "Burleigh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043b\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u043b\u0438"
     ],
     "name:unk_x_variant":[
         "Burleigh"
@@ -63,10 +78,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687185,
         102191583,
         85633345,
-        102079353,
-        85687185
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860268,
+    "wof:lastmodified":1564120435,
     "wof:name":"Burleigh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10168042.872961,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.132106,-41.094885,175.132106,-41.094885",
     "geom:latitude":-41.094885,
     "geom:longitude":175.132106,
@@ -27,6 +27,9 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Te Marua"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc \u0645\u0627\u0631\u0648\u0627"
     ],
     "name:unk_x_variant":[
         "Te Marua"
@@ -62,10 +65,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859822,
+    "wof:lastmodified":1564120503,
     "wof:name":"Te Marua",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

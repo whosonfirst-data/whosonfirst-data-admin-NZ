@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3172058.603351,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.273621,-41.29638,173.273621,-41.29638",
     "geom:latitude":-41.29638,
     "geom:longitude":173.273621,
@@ -25,7 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Bishopdale"
+    ],
     "name:eng_x_preferred":[
+        "Bishopdale"
+    ],
+    "name:swe_x_preferred":[
         "Bishopdale"
     ],
     "name:unk_x_variant":[
@@ -64,10 +70,10 @@
     "wd:wordcount":16,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860208,
+    "wof:lastmodified":1564120477,
     "wof:name":"Bishopdale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

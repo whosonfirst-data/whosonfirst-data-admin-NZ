@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3414758.281928,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.940041,-36.912492,174.940041,-36.912492",
     "geom:latitude":-36.912492,
     "geom:longitude":174.940041,
@@ -26,10 +26,70 @@
     "mz:note":"n o ref",
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:cat_x_preferred":[
+        "Somerville"
+    ],
+    "name:ceb_x_preferred":[
+        "Somerville"
+    ],
+    "name:deu_x_preferred":[
+        "Somerville"
+    ],
     "name:eng_x_preferred":[
         "Somerville"
     ],
+    "name:epo_x_preferred":[
+        "Somerville"
+    ],
+    "name:est_x_preferred":[
+        "Somerville"
+    ],
+    "name:fin_x_preferred":[
+        "Somerville"
+    ],
+    "name:fra_x_preferred":[
+        "Somerville"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05de\u05e8\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Somerville"
+    ],
+    "name:kor_x_preferred":[
+        "\uc11c\uba38\ube4c"
+    ],
+    "name:mlg_x_preferred":[
+        "Somerville"
+    ],
+    "name:nld_x_preferred":[
+        "Somerville"
+    ],
+    "name:pol_x_preferred":[
+        "Somerville"
+    ],
+    "name:por_x_preferred":[
+        "Somerville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0435\u0440\u0432\u0438\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Somerville"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043c\u0435\u0440\u0432\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Somerville"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043c\u0435\u0440\u0432\u0456\u043b\u043b\u044c"
+    ],
     "name:unk_x_variant":[
+        "Somerville"
+    ],
+    "name:vol_x_preferred":[
         "Somerville"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -62,11 +122,11 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860185,
+    "wof:lastmodified":1564120468,
     "wof:name":"Somerville",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",
