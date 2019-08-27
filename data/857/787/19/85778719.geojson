@@ -10,8 +10,10 @@
     "geom:latitude":-41.224443,
     "geom:longitude":174.918114,
     "iso:country":"NZ",
+    "lbl:bbox":"174.913114,-41.229443,174.923114,-41.219443",
     "lbl:latitude":-41.224443,
     "lbl:longitude":174.918114,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.225241,
     "mps:longitude":174.923112,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "Waiwhet\u016b"
-    ],
-    "name:unk_x_variant":[
-        "Waiwhetu"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -61,9 +60,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":209,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282188,
+    "wof:lastmodified":1566672266,
     "wof:name":"Waiwhetu",
     "wof:parent_id":101914319,
     "wof:placetype":"neighbourhood",

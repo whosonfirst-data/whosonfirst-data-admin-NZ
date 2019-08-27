@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.19065,
     "lbl:longitude":173.879277,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-39.190828,
     "mps:longitude":173.879333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Okato"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -59,7 +62,6 @@
         "fct:id":"020ddf46-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2185763,
         "gp:id":2349808,
-        "qs:id":1354825,
         "qs_pg:id":1354825,
         "wd:id":"Q2159749",
         "wk:page":"Okato"
@@ -79,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282519,
+    "wof:lastmodified":1566672462,
     "wof:name":"Okato",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

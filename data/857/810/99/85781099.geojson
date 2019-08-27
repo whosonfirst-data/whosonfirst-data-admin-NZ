@@ -11,8 +11,10 @@
     "geom:longitude":178.002388,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"177.997388,-38.647453,178.007388,-38.637453",
     "lbl:latitude":-38.642453,
     "lbl:longitude":178.002388,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.638782,
     "mps:longitude":178.001356,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0432\u0435\u0440\u0434\u0435\u0439\u043b"
     ],
-    "name:unk_x_variant":[
-        "Riverdale"
-    ],
     "name:vol_x_preferred":[
         "Riverdale"
     ],
@@ -101,8 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687237,
         102191583,
@@ -113,7 +111,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644030,
-        "qs:id":32843,
         "qs_pg:id":32843
     },
     "wof:country":"NZ",
@@ -132,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120431,
+    "wof:lastmodified":1566672219,
     "wof:name":"Riverdale",
     "wof:parent_id":101914591,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.384804,
     "lbl:longitude":175.544119,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.3848,
     "mps:longitude":175.544126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Longburn"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":379,
     "wof:belongsto":[
         102191583,
@@ -65,7 +68,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775508,
+    "wof:lastmodified":1566672512,
     "wof:name":"Longburn",
     "wof:parent_id":102079307,
     "wof:placetype":"locality",

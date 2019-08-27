@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2245619.371167,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.611385,-40.35547,175.611385,-40.35547",
     "geom:latitude":-40.35547,
     "geom:longitude":175.611385,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.606385,-40.36047,175.616385,-40.35047",
     "lbl:latitude":-40.35547,
     "lbl:longitude":175.611385,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.355554,
     "mps:longitude":175.612094,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Palmerston North Central"
-    ],
-    "name:unk_x_variant":[
         "Palmerston North Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -56,19 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":574,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        102079307,
-        85687251
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676759,
-        "qs:id":220380,
         "qs_pg:id":220380,
         "wd:id":"Q7128322"
     },
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860376,
+    "wof:lastmodified":1566672240,
     "wof:name":"Palmerston North Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

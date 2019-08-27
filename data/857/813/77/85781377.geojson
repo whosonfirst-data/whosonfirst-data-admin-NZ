@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13034401.376158,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.847337,-41.20342,174.847337,-41.20342",
     "geom:latitude":-41.20342,
     "geom:longitude":174.847337,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.842337,-41.20842,174.852337,-41.19842",
     "lbl:latitude":-41.20342,
     "lbl:longitude":174.847337,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.165927,
     "mps:longitude":174.877544,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Horokiwi"
-    ],
-    "name:unk_x_variant":[
         "Horokiwi"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":122,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        102079339,
-        85687233
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644295,
-        "qs:id":889534,
         "qs_pg:id":889534,
         "wd:id":"Q17051458"
     },
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860197,
+    "wof:lastmodified":1566672249,
     "wof:name":"Horokiwi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

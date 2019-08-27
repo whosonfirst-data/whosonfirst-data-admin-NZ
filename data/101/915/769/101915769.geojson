@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.185897,
     "lbl:longitude":171.279803,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-44.185896,
     "mps:longitude":171.279805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Winchester"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191583,
@@ -58,7 +61,6 @@
         "fct:id":"020d0e40-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2179037,
         "gp:id":2351425,
-        "qs:id":877736,
         "qs_pg:id":877736,
         "wd:id":"Q8023767",
         "wk:page":"Winchester, New Zealand"
@@ -78,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282393,
+    "wof:lastmodified":1566672400,
     "wof:name":"Winchester",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

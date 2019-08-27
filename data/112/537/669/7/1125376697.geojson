@@ -9,14 +9,18 @@
     "geom:bbox":"175.5647,-40.22647,175.5647,-40.22647",
     "geom:latitude":-40.22647,
     "geom:longitude":175.5647,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"ADMD",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"ADMD",
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"175.4647,-40.32647,175.6647,-40.12647",
     "lbl:latitude":-40.22647,
     "lbl:longitude":175.5647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Feilding"
@@ -36,7 +40,7 @@
     "name:por_x_preferred":[
         "Feilding"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Feilding Borough"
     ],
     "qs_pg:aaroncc":"NZ",
@@ -51,7 +55,7 @@
     "qs_pg:qs_id":373047,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1125376697,
-    "wof:lastmodified":1564120863,
+    "wof:lastmodified":1566672587,
     "wof:name":"Feilding",
     "wof:parent_id":102079303,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.292255,
     "lbl:longitude":175.423586,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-40.292255,
     "mps:longitude":175.423586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rongotea"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":415,
     "wof:belongsto":[
@@ -54,7 +57,6 @@
         "fct:id":"020c67f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2183299,
         "gp:id":2350438,
-        "qs:id":1315439,
         "qs_pg:id":1315439,
         "wd:id":"Q7365668",
         "wk:page":"Rongotea"
@@ -74,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282413,
+    "wof:lastmodified":1566672412,
     "wof:name":"Rongotea",
     "wof:parent_id":102079303,
     "wof:placetype":"locality",

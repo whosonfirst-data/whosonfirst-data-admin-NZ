@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5958682.279359,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.119496,-41.087809,175.119496,-41.087809",
     "geom:latitude":-41.087809,
     "geom:longitude":175.119496,
     "gn:latitude":-41.05,
     "gn:longitude":175.45,
     "iso:country":"NZ",
+    "lbl:bbox":"175.114496,-41.092809,175.124496,-41.082809",
     "lbl:latitude":-41.087809,
     "lbl:longitude":175.119496,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.075949,
     "mps:longitude":175.108301,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Akatarawa"
-    ],
-    "name:unk_x_variant":[
         "Akatarawa"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,19 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2187182,
         "gp:id":28643768,
-        "qs:id":25842,
         "qs_pg:id":25842
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860089,
+    "wof:lastmodified":1566672256,
     "wof:name":"Akatarawa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

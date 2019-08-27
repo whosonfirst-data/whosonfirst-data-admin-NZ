@@ -12,8 +12,10 @@
     "gn:latitude":-36.6275,
     "gn:longitude":174.73139,
     "iso:country":"NZ",
+    "lbl:bbox":"174.728536,-36.630675,174.738536,-36.620675",
     "lbl:latitude":-36.625675,
     "lbl:longitude":174.733536,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.621712,
     "mps:longitude":174.730994,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Stanmore Bay"
     ],
     "name:mri_x_preferred":[
-        "Stanmore Bay"
-    ],
-    "name:unk_x_variant":[
         "Stanmore Bay"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -63,9 +62,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":277,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -76,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2207668,
         "gp:id":28645585,
-        "qs:id":1115409,
         "qs_pg:id":1115409,
         "wd:id":"Q7600101",
         "wk:page":"Stanmore Bay"
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282060,
+    "wof:lastmodified":1566672211,
     "wof:name":"Stanmore Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

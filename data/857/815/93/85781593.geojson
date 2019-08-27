@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4208485.358167,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.26516,-41.267188,173.26516,-41.267188",
     "geom:latitude":-41.267188,
     "geom:longitude":173.26516,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"173.26016,-41.272188,173.27016,-41.262188",
     "lbl:latitude":-41.267188,
     "lbl:longitude":173.26516,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.25471,
     "mps:longitude":173.249075,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Stepneyville"
-    ],
-    "name:unk_x_variant":[
         "Stepneyville"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644523,
-        "qs:id":1286630,
         "qs_pg:id":1286630
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860241,
+    "wof:lastmodified":1566672243,
     "wof:name":"Stepneyville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

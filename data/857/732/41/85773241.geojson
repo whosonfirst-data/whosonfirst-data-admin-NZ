@@ -12,8 +12,10 @@
     "gn:latitude":-40.34825,
     "gn:longitude":175.63021,
     "iso:country":"NZ",
+    "lbl:bbox":"175.6263,-40.353767,175.6363,-40.343767",
     "lbl:latitude":-40.348767,
     "lbl:longitude":175.6313,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.341508,
     "mps:longitude":175.647367,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Terrace End"
     ],
     "name:nld_x_preferred":[
-        "Terrace End"
-    ],
-    "name:unk_x_variant":[
         "Terrace End"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -65,9 +64,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":138,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687251,
         102191583,
@@ -79,7 +77,6 @@
     "wof:concordances":{
         "gn:id":6227744,
         "gp:id":2350882,
-        "qs:id":9592,
         "qs_pg:id":9592,
         "wd:id":"Q7703175",
         "wk:page":"Terrace End"
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282119,
+    "wof:lastmodified":1566672235,
     "wof:name":"Terrace End",
     "wof:parent_id":101914259,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":175.306091,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.301091,-37.825633,175.311091,-37.815633",
     "lbl:latitude":-37.820633,
     "lbl:longitude":175.306091,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.821886,
     "mps:longitude":175.308275,
     "mz:hierarchy_label":0,
@@ -81,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0446\u0440\u043e\u0439"
     ],
-    "name:unk_x_variant":[
-        "Fitzroy"
-    ],
     "name:zho_x_preferred":[
         "\u6590\u8332\u6d1b\u4f0a"
     ],
@@ -115,9 +114,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":558,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687229,
         102191583,
@@ -127,7 +125,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643828,
-        "qs:id":22604,
         "qs_pg:id":22604
     },
     "wof:country":"NZ",
@@ -146,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120490,
+    "wof:lastmodified":1566672254,
     "wof:name":"Fitzroy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":600285.751875,
+    "geom:area_square_m":600285.751877,
     "geom:bbox":"174.795345043,-41.2344849898,174.807066463,-41.2261832892",
     "geom:latitude":-41.230021,
     "geom:longitude":174.801467,
@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.227338,
     "lbl:longitude":174.797174,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.229578,
     "mps:longitude":174.801578,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Raroa"
-    ],
-    "name:unk_x_variant":[
         "Raroa"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,8 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687233,
         102191583,
@@ -73,7 +70,6 @@
     "wof:concordances":{
         "gn:id":6244931,
         "gp:id":22726504,
-        "qs:id":985499,
         "qs_pg:id":985499
     },
     "wof:country":"NZ",
@@ -92,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497309578,
+    "wof:lastmodified":1566672225,
     "wof:name":"Raroa",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

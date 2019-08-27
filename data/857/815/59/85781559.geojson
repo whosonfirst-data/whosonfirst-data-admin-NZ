@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5290291.374907,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.97418,-41.547253,173.97418,-41.547253",
     "geom:latitude":-41.547253,
     "geom:longitude":173.97418,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"173.96918,-41.552253,173.97918,-41.542253",
     "lbl:latitude":-41.547253,
     "lbl:longitude":173.97418,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.541987,
     "mps:longitude":173.979582,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Wither Rise"
-    ],
-    "name:unk_x_variant":[
         "Wither Rise"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687185,
         102191583,
         85633345,
-        102079353,
-        85687185
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644512,
-        "qs:id":1286617,
         "qs_pg:id":1286617
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860234,
+    "wof:lastmodified":1566672242,
     "wof:name":"Wither Rise",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

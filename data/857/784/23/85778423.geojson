@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.325862,
     "lbl:longitude":174.796469,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.330922,
     "mps:longitude":174.794782,
     "mz:hierarchy_label":1,
@@ -74,9 +75,6 @@
     "name:tah_x_preferred":[
         "Lyall Bay"
     ],
-    "name:unk_x_variant":[
-        "Lyall Bay"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2179537,
@@ -105,9 +103,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":421,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -119,7 +116,6 @@
     "wof:concordances":{
         "gn:id":6244783,
         "gp:id":22726428,
-        "qs:id":1077008,
         "qs_pg:id":1077008,
         "wd:id":"Q15243176",
         "wk:page":"Lyall Bay"
@@ -140,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282112,
+    "wof:lastmodified":1566672233,
     "wof:name":"Lyall Bay",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

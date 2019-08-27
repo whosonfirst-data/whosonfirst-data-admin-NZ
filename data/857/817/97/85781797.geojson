@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23988772.952286,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.061265,-38.653957,176.061265,-38.653957",
     "geom:latitude":-38.653957,
     "geom:longitude":176.061265,
     "gn:latitude":-38.68129,
     "gn:longitude":176.06586,
     "iso:country":"NZ",
+    "lbl:bbox":"176.056265,-38.658957,176.066265,-38.648957",
     "lbl:latitude":-38.653957,
     "lbl:longitude":176.061265,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.648985,
     "mps:longitude":176.060799,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Nukuhau"
-    ],
-    "name:unk_x_variant":[
         "Nukuhau"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,19 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079281,
-        85687229
+        102079281
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6236552,
         "gp:id":28644801,
-        "qs:id":1086346,
         "qs_pg:id":1086346
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860273,
+    "wof:lastmodified":1566672223,
     "wof:name":"Nukuhau",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

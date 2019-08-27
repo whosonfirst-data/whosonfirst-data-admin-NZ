@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5797195.696506,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.621124,-36.863198,174.621124,-36.863198",
     "geom:latitude":-36.863198,
     "geom:longitude":174.621124,
@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.863198,
     "lbl:longitude":174.621124,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.824676,
     "mps:longitude":174.575501,
     "mz:hierarchy_label":0,
@@ -28,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Massey West"
-    ],
-    "name:unk_x_variant":[
         "Massey West"
     ],
     "qs:gn_fcode":"PPLX",
@@ -59,20 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232327,
         "gp:id":22726676,
-        "qs:id":270880,
         "qs_pg:id":270880
     },
     "wof:country":"NZ",
@@ -91,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859889,
+    "wof:lastmodified":1566672203,
     "wof:name":"Massey West",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

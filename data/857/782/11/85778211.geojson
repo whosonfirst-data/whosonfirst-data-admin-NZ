@@ -12,8 +12,10 @@
     "gn:latitude":-43.49833,
     "gn:longitude":172.59013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.589351,-43.50617,172.599351,-43.49617",
     "lbl:latitude":-43.50117,
     "lbl:longitude":172.594351,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.505286,
     "mps:longitude":172.593166,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Bryndwr"
     ],
     "name:eng_x_preferred":[
-        "Bryndwr"
-    ],
-    "name:unk_x_variant":[
         "Bryndwr"
     ],
     "name:urd_x_preferred":[
@@ -66,9 +65,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1906,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6220354,
         "gp:id":22726342,
-        "qs:id":1182477,
         "qs_pg:id":1182477,
         "wd:id":"Q4980947",
         "wk:page":"Bryndwr"
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282093,
+    "wof:lastmodified":1566672227,
     "wof:name":"Bryndwr",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

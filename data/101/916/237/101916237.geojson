@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.807392,
     "lbl:longitude":172.96949,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-43.810553,
     "mps:longitude":172.963167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Akaroa"
     ],
@@ -83,7 +86,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-43.804142,
     "wd:longitude":172.968189,
@@ -102,7 +105,7 @@
         "gn:id":6222028,
         "gp:id":2347984,
         "nyt:id":"N26998237731910313351",
-        "qs:id":1315419,
+        "qs_pg:id":1315419,
         "wd:id":"Q416098"
     },
     "wof:country":"NZ",
@@ -120,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775504,
+    "wof:lastmodified":1566672488,
     "wof:name":"Akaroa",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2830877.280358,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.236267,-37.672952,176.236267,-37.672952",
     "geom:latitude":-37.672952,
     "geom:longitude":176.236267,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.231267,-37.677952,176.241267,-37.667952",
     "lbl:latitude":-37.672952,
     "lbl:longitude":176.236267,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.672433,
     "mps:longitude":176.239433,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Arataki"
-    ],
-    "name:unk_x_variant":[
         "Arataki"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
         101915581,
-        102079285,
-        85687175
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644262,
-        "qs:id":225582,
         "qs_pg:id":225582
     },
     "wof:country":"NZ",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860191,
+    "wof:lastmodified":1566672248,
     "wof:name":"Arataki",
     "wof:parent_id":101915581,
     "wof:placetype":"neighbourhood",

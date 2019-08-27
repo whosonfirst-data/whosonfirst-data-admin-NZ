@@ -10,8 +10,10 @@
     "geom:latitude":-36.80014,
     "geom:longitude":174.745727,
     "iso:country":"NZ",
+    "lbl:bbox":"174.740727,-36.80514,174.750727,-36.79514",
     "lbl:latitude":-36.80014,
     "lbl:longitude":174.745727,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.804887,
     "mps:longitude":174.749338,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Northcote"
     ],
     "name:nor_x_preferred":[
-        "Northcote"
-    ],
-    "name:unk_x_variant":[
         "Northcote"
     ],
     "qs:gn_id":0,
@@ -60,9 +59,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":108,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120438,
+    "wof:lastmodified":1566672224,
     "wof:name":"Northcote",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

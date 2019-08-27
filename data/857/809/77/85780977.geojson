@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1522912.124102,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.825954,-41.159443,174.825954,-41.159443",
     "geom:latitude":-41.159443,
     "geom:longitude":174.825954,
     "gn:latitude":-41.14827,
     "gn:longitude":174.82019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.820954,-41.164443,174.830954,-41.154443",
     "lbl:latitude":-41.159443,
     "lbl:longitude":174.825954,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.161447,
     "mps:longitude":174.810492,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Lindenvale"
-    ],
-    "name:unk_x_variant":[
         "Lindenvale"
     ],
     "qs:gn_fcode":"PPLX",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914575,
-        102079339,
-        85687233
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244950,
         "gp:id":28643896,
-        "qs:id":1071853,
         "qs_pg:id":1071853
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860118,
+    "wof:lastmodified":1566672253,
     "wof:name":"Lindenvale",
     "wof:parent_id":101914575,
     "wof:placetype":"neighbourhood",

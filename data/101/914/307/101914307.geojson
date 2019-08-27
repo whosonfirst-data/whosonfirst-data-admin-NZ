@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.205226,
     "lbl:longitude":176.105022,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.205226,
     "mps:longitude":176.105021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Dannevirke"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1200,
     "wof:belongsto":[
         102191583,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":6246205,
         "gp:id":2348412,
-        "qs:id":9325,
         "qs_pg:id":9325,
         "wd:id":"Q921465",
         "wk:page":"Dannevirke"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101914307,
-    "wof:lastmodified":1561775474,
+    "wof:lastmodified":1566672416,
     "wof:name":"Dannevirke",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",

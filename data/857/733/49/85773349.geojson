@@ -10,8 +10,10 @@
     "geom:latitude":-37.00143,
     "geom:longitude":174.883206,
     "iso:country":"NZ",
+    "lbl:bbox":"174.878206,-37.00643,174.888206,-36.99643",
     "lbl:latitude":-37.00143,
     "lbl:longitude":174.883206,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.006286,
     "mps:longitude":174.869074,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Wiri"
     ],
     "name:sco_x_preferred":[
-        "Wiri"
-    ],
-    "name:unk_x_variant":[
         "Wiri"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,9 +60,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":325,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282115,
+    "wof:lastmodified":1566672234,
     "wof:name":"Wiri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

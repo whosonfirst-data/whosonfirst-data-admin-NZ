@@ -12,8 +12,10 @@
     "gn:latitude":-36.7882,
     "gn:longitude":174.77019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.775265,-36.802011,174.785265,-36.792011",
     "lbl:latitude":-36.797011,
     "lbl:longitude":174.780265,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.796089,
     "mps:longitude":174.782412,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Hauraki"
-    ],
-    "name:unk_x_variant":[
         "Hauraki"
     ],
     "name:zho_x_preferred":[
@@ -61,9 +60,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":117,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -75,7 +73,6 @@
     "wof:concordances":{
         "gn:id":6232153,
         "gp:id":28644342,
-        "qs:id":1086332,
         "qs_pg:id":1086332,
         "wd:id":"Q5682778",
         "wk:page":"Hauraki"
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282142,
+    "wof:lastmodified":1566672245,
     "wof:name":"Hauraki",
     "wof:parent_id":101915597,
     "wof:placetype":"neighbourhood",

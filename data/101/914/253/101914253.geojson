@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.704699,
     "lbl:longitude":174.322321,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-35.726969,
     "mps:longitude":174.310464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Whangarei"
     ],
@@ -191,7 +194,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.716667,
     "wd:longitude":174.3,
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":101914253,
-    "wof:lastmodified":1563282498,
+    "wof:lastmodified":1566672451,
     "wof:name":"Whangarei",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

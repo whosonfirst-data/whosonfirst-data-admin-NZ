@@ -9,21 +9,21 @@
     "geom:bbox":"174.0902,-39.04824,174.0902,-39.04824",
     "geom:latitude":-39.04824,
     "geom:longitude":174.0902,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":-39.05395,
     "gn:longitude":174.09429,
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"174.0852,-39.05324,174.0952,-39.04324",
     "lbl:latitude":-39.04824,
     "lbl:longitude":174.0902,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
-        "Strandon"
-    ],
-    "name:unk_x_variant":[
         "Strandon"
     ],
     "qs_pg:aaroncc":"NZ",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424916,
     "qs_pg:woe_id":28644304,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Taranaki",
@@ -61,7 +61,6 @@
     "wof:concordances":{
         "gn:id":6222904,
         "gp:id":28644304,
-        "qs:id":1182376,
         "qs_pg:id":1182376
     },
     "wof:country":"NZ",
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":1126068605,
-    "wof:lastmodified":1534379391,
+    "wof:lastmodified":1566672620,
     "wof:name":"Strandon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

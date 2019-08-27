@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7619833.373819,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.855692,-39.648403,176.855692,-39.648403",
     "geom:latitude":-39.648403,
     "geom:longitude":176.855692,
     "gn:latitude":-39.63824,
     "gn:longitude":176.85021,
     "iso:country":"NZ",
+    "lbl:bbox":"176.850692,-39.653403,176.860692,-39.643403",
     "lbl:latitude":-39.648403,
     "lbl:longitude":176.855692,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.652675,
     "mps:longitude":176.861384,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Parkvale"
-    ],
-    "name:unk_x_variant":[
         "Parkvale"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
         101914313,
-        102079329,
-        85687189
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6246622,
         "gp:id":28643989,
-        "qs:id":985657,
         "qs_pg:id":985657
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860131,
+    "wof:lastmodified":1566672220,
     "wof:name":"Parkvale",
     "wof:parent_id":101914313,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":-46.42842,
     "gn:longitude":168.35009,
     "iso:country":"NZ",
+    "lbl:bbox":"168.336247,-46.426023,168.346247,-46.416023",
     "lbl:latitude":-46.421023,
     "lbl:longitude":168.341247,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.423014,
     "mps:longitude":168.341263,
     "mz:hierarchy_label":0,
@@ -76,9 +78,6 @@
     "name:swe_x_preferred":[
         "Appleby"
     ],
-    "name:unk_x_variant":[
-        "Appleby"
-    ],
     "name:vol_x_preferred":[
         "Appleby"
     ],
@@ -109,9 +108,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":124,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687211,
         102191583,
@@ -122,7 +120,7 @@
     "wof:concordances":{
         "gn:id":6205169,
         "gp:id":28644835,
-        "qs:id":357251
+        "qs_pg:id":357251
     },
     "wof:country":"NZ",
     "wof:geomhash":"28a00829d24bbdbe47f2e7814ca09b98",
@@ -140,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120417,
+    "wof:lastmodified":1566672210,
     "wof:name":"Appleby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

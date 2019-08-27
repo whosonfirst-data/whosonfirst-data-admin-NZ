@@ -11,8 +11,10 @@
     "geom:longitude":176.226671,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.221671,-38.158708,176.231671,-38.148708",
     "lbl:latitude":-38.153708,
     "lbl:longitude":176.226671,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.152145,
     "mps:longitude":176.226161,
     "mz:hierarchy_label":0,
@@ -57,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043b\u043b\u043a\u0440\u0435\u0441\u0442"
     ],
-    "name:unk_x_variant":[
-        "Hillcrest"
-    ],
     "name:vol_x_preferred":[
         "Hillcrest"
     ],
@@ -92,8 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687175,
         102191583,
@@ -103,7 +101,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644732,
-        "qs:id":512628,
         "qs_pg:id":512628
     },
     "wof:country":"NZ",
@@ -122,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120437,
+    "wof:lastmodified":1566672223,
     "wof:name":"Hillcrest",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

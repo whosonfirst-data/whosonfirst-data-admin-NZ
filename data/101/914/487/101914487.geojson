@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.61592,
     "lbl:longitude":174.489919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.615919,
     "mps:longitude":174.489905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0443\u043a\u0430\u043f\u0430\u043a\u0430\u043f\u0430"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":632,
     "wof:belongsto":[
         102191583,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2188993,
         "gp:id":2349006,
-        "qs:id":1171614,
         "qs_pg:id":1171614,
         "wd:id":"Q6378712",
         "wk:page":"Kaukapakapa"
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101914487,
-    "wof:lastmodified":1563282491,
+    "wof:lastmodified":1566672449,
     "wof:name":"Kaukapakapa",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

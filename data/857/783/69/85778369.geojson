@@ -12,8 +12,10 @@
     "gn:latitude":-43.56444,
     "gn:longitude":172.60766,
     "iso:country":"NZ",
+    "lbl:bbox":"172.601625,-43.567944,172.611625,-43.557944",
     "lbl:latitude":-43.562944,
     "lbl:longitude":172.606625,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.561901,
     "mps:longitude":172.60271,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "\u0647\u0648\u0646 \u0647\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Hoon Hay"
-    ],
-    "name:unk_x_variant":[
         "Hoon Hay"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -69,9 +68,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":187,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":6220937,
         "gp:id":22726405,
-        "qs:id":1191506,
         "qs_pg:id":1191506,
         "wd:id":"Q5898247",
         "wk:page":"Hoon Hay"
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282098,
+    "wof:lastmodified":1566672229,
     "wof:name":"Hoon Hay",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

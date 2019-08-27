@@ -12,8 +12,10 @@
     "gn:latitude":-41.24235,
     "gn:longitude":174.90479,
     "iso:country":"NZ",
+    "lbl:bbox":"174.893623,-41.252994,174.903623,-41.242994",
     "lbl:latitude":-41.247994,
     "lbl:longitude":174.898623,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.25407,
     "mps:longitude":174.895592,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Seaview"
     ],
     "name:pol_x_preferred":[
-        "Seaview"
-    ],
-    "name:unk_x_variant":[
         "Seaview"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -67,9 +66,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":184,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85633345,
@@ -79,7 +77,6 @@
     "wof:concordances":{
         "gn:id":6244857,
         "gp:id":22726522,
-        "qs:id":56270,
         "qs_pg:id":56270
     },
     "wof:country":"NZ",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120503,
+    "wof:lastmodified":1566672262,
     "wof:name":"Seaview",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

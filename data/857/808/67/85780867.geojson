@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3860132.018611,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.0383,-41.111863,175.0383,-41.111863",
     "geom:latitude":-41.111863,
     "geom:longitude":175.0383,
     "gn:latitude":-41.10827,
     "gn:longitude":175.0402,
     "iso:country":"NZ",
+    "lbl:bbox":"175.0333,-41.116863,175.0433,-41.106863",
     "lbl:latitude":-41.111863,
     "lbl:longitude":175.0383,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.112763,
     "mps:longitude":175.044532,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Riverstone Terraces"
-    ],
-    "name:unk_x_variant":[
         "Riverstone Terraces"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,21 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":43,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914809,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6250954,
         "gp:id":28643808,
-        "qs:id":1103903,
         "qs_pg:id":1103903,
         "wd:id":"Q7338658"
     },
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860100,
+    "wof:lastmodified":1566672254,
     "wof:name":"Riverstone Terraces",
     "wof:parent_id":101914809,
     "wof:placetype":"neighbourhood",

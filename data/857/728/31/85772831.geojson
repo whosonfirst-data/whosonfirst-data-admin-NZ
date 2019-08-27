@@ -12,8 +12,10 @@
     "gn:latitude":-43.50833,
     "gn:longitude":172.70013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.701384,-43.516759,172.711384,-43.506759",
     "lbl:latitude":-43.511759,
     "lbl:longitude":172.706384,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.513878,
     "mps:longitude":172.706543,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Aranui"
     ],
     "name:eng_x_preferred":[
-        "Aranui"
-    ],
-    "name:unk_x_variant":[
         "Aranui"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -66,9 +65,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":429,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6220371,
         "gp:id":2348033,
-        "qs:id":1175996,
         "qs_pg:id":1175996,
         "wd:id":"Q4784158",
         "wk:page":"Aranui"
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282182,
+    "wof:lastmodified":1566672264,
     "wof:name":"Aranui",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5427646.558901,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.823821,-41.17657,174.823821,-41.17657",
     "geom:latitude":-41.17657,
     "geom:longitude":174.823821,
     "gn:latitude":-41.16827,
     "gn:longitude":174.81019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.818821,-41.18157,174.828821,-41.17157",
     "lbl:latitude":-41.17657,
     "lbl:longitude":174.823821,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.177549,
     "mps:longitude":174.817042,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Redwood"
-    ],
-    "name:unk_x_variant":[
         "Redwood"
     ],
     "qs:gn_fcode":"PPLX",
@@ -59,21 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":252,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914575,
-        102079339,
-        85687233
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244947,
         "gp:id":22726507,
-        "qs:id":985500,
         "qs_pg:id":985500,
         "wd:id":"Q7306477",
         "wk:page":"Redwood, Wellington"
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859810,
+    "wof:lastmodified":1566672225,
     "wof:name":"Redwood",
     "wof:parent_id":101914575,
     "wof:placetype":"neighbourhood",

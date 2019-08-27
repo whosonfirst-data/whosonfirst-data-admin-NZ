@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.101325,
     "lbl:longitude":168.936285,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-46.114526,
     "mps:longitude":168.938354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Gore"
     ],
@@ -83,7 +86,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1699,
     "wof:belongsto":[
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282448,
+    "wof:lastmodified":1566672429,
     "wof:name":"Gore",
     "wof:parent_id":102079393,
     "wof:placetype":"locality",

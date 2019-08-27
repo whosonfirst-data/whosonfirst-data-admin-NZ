@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2110573.326928,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.833191,-39.556999,176.833191,-39.556999",
     "geom:latitude":-39.556999,
     "geom:longitude":176.833191,
     "gn:latitude":-39.54028,
     "gn:longitude":176.84778,
     "iso:country":"NZ",
+    "lbl:bbox":"176.828191,-39.561999,176.838191,-39.551999",
     "lbl:latitude":-39.556999,
     "lbl:longitude":176.833191,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.559855,
     "mps:longitude":176.832632,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Tamihunu"
-    ],
-    "name:unk_x_variant":[
         "Tamihunu"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
-        102079329,
-        85687189
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2206822,
         "gp:id":2350694,
-        "qs:id":466757,
         "qs_pg:id":466757
     },
     "wof:country":"NZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859649,
+    "wof:lastmodified":1566672235,
     "wof:name":"Tamihunu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

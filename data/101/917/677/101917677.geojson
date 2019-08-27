@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
-    "geom:area_square_m":45907.092856,
+    "geom:area_square_m":76159.404978,
     "geom:bbox":"174.662396949,-36.9539505857,174.667561466,-36.9461067752",
     "geom:latitude":-36.950122,
     "geom:longitude":174.664538,
     "iso:country":"NZ",
     "lbl:latitude":-36.95225,
     "lbl:longitude":174.66395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.952251,
     "mps:longitude":174.663953,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "French Bay"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NZ",
-    "wof:geomhash":"19a98c87034997621cc143fd76bb349a",
+    "wof:geomhash":"443390158c80fca2cbed891b2252b38b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":101917677,
-    "wof:lastmodified":1487269959,
+    "wof:lastmodified":1566672527,
     "wof:name":"French Bay",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

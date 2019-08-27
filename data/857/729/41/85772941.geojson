@@ -10,8 +10,10 @@
     "geom:latitude":-43.58035,
     "geom:longitude":172.571245,
     "iso:country":"NZ",
+    "lbl:bbox":"172.566245,-43.58535,172.576245,-43.57535",
     "lbl:latitude":-43.58035,
     "lbl:longitude":172.571245,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.578612,
     "mps:longitude":172.579217,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043b\u0441\u0432\u0435\u043b\u043b"
-    ],
-    "name:unk_x_variant":[
-        "Halswell"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -63,9 +62,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":440,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282200,
+    "wof:lastmodified":1566672271,
     "wof:name":"Halswell",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

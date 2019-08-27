@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":265248.735087,
+    "geom:area_square_m":265248.735088,
     "geom:bbox":"175.750143349,-38.9105359136,175.760164488,-38.9037604118",
     "geom:latitude":-38.906843,
     "geom:longitude":175.75362,
     "iso:country":"NZ",
     "lbl:latitude":-38.905952,
     "lbl:longitude":175.753198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.905951,
     "mps:longitude":175.753201,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Omori"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gp:id":28643306
     },
     "wof:country":"NZ",
-    "wof:geomhash":"42040d65f49c1a7b883f2234b224394f",
+    "wof:geomhash":"7cbf2ab77c4c1d8a3b838e47123b8cc6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101916499,
-    "wof:lastmodified":1487208201,
+    "wof:lastmodified":1566672469,
     "wof:name":"Omori",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

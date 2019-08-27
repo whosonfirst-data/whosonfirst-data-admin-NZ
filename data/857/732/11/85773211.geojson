@@ -12,8 +12,10 @@
     "gn:latitude":-41.17827,
     "gn:longitude":174.9502,
     "iso:country":"NZ",
+    "lbl:bbox":"174.954281,-41.183829,174.964281,-41.173829",
     "lbl:latitude":-41.178829,
     "lbl:longitude":174.959281,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.182414,
     "mps:longitude":174.961194,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:swe_x_preferred":[
         "Taita"
     ],
-    "name:unk_x_variant":[
-        "Taita"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2188164,
@@ -79,9 +78,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":120,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -92,7 +90,6 @@
     "wof:concordances":{
         "gn:id":6244874,
         "gp:id":2350678,
-        "qs:id":1315441,
         "qs_pg:id":1315441
     },
     "wof:country":"NZ",
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120457,
+    "wof:lastmodified":1566672234,
     "wof:name":"Taita",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

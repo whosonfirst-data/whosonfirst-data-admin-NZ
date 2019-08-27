@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8998109.515309,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.86375,-41.14074,174.86375,-41.14074",
     "geom:latitude":-41.14074,
     "geom:longitude":174.86375,
     "gn:latitude":-41.12827,
     "gn:longitude":174.8602,
     "iso:country":"NZ",
+    "lbl:bbox":"174.85875,-41.14574,174.86875,-41.13574",
     "lbl:latitude":-41.14074,
     "lbl:longitude":174.86375,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.135941,
     "mps:longitude":174.870341,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Cannons Creek"
     ],
     "name:swe_x_preferred":[
-        "Cannons Creek"
-    ],
-    "name:unk_x_variant":[
         "Cannons Creek"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -67,20 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914925,
-        102079317,
-        85687233
+        102079317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244921,
         "gp:id":28643798,
-        "qs:id":43632,
         "qs_pg:id":43632
     },
     "wof:country":"NZ",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860096,
+    "wof:lastmodified":1566672255,
     "wof:name":"Cannons Creek",
     "wof:parent_id":101914925,
     "wof:placetype":"neighbourhood",

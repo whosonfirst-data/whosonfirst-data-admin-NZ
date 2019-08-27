@@ -12,8 +12,10 @@
     "gn:latitude":-36.785,
     "gn:longitude":174.7525,
     "iso:country":"NZ",
+    "lbl:bbox":"174.749213,-36.7882,174.759213,-36.7782",
     "lbl:latitude":-36.7832,
     "lbl:longitude":174.754213,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.777737,
     "mps:longitude":174.752148,
     "mz:hierarchy_label":0,
@@ -65,9 +67,6 @@
     "name:swe_x_preferred":[
         "Westlake"
     ],
-    "name:unk_x_variant":[
-        "Westlake"
-    ],
     "name:vol_x_preferred":[
         "Westlake"
     ],
@@ -97,9 +96,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":215,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -110,7 +108,6 @@
     "wof:concordances":{
         "gn:id":2207746,
         "gp:id":28644710,
-        "qs:id":230155,
         "qs_pg:id":230155
     },
     "wof:country":"NZ",
@@ -129,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120423,
+    "wof:lastmodified":1566672214,
     "wof:name":"Westlake",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

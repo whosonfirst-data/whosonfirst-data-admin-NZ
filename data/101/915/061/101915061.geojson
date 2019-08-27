@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.99835,
     "lbl:longitude":175.85336,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-37.00142,
     "mps:longitude":175.842099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tairua"
     ],
@@ -53,7 +56,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":430,
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         "fct:id":"020d64f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2182010,
         "gp:id":2350677,
-        "qs:id":9562,
+        "qs_pg:id":9562,
         "wd:id":"Q2388791",
         "wk:page":"Tairua"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101915061,
-    "wof:lastmodified":1563282407,
+    "wof:lastmodified":1566672408,
     "wof:name":"Tairua",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

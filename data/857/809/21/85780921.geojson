@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11439904.874185,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.017624,-39.948173,175.017624,-39.948173",
     "geom:latitude":-39.948173,
     "geom:longitude":175.017624,
     "gn:latitude":-39.93883,
     "gn:longitude":175.04572,
     "iso:country":"NZ",
+    "lbl:bbox":"175.012624,-39.953173,175.022624,-39.943173",
     "lbl:latitude":-39.948173,
     "lbl:longitude":175.017624,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.949861,
     "mps:longitude":175.014335,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Gonville"
-    ],
-    "name:unk_x_variant":[
         "Gonville"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,19 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        102079299,
-        85687251
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6224556,
         "gp:id":28643843,
-        "qs:id":260172,
         "qs_pg:id":260172
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860109,
+    "wof:lastmodified":1566672252,
     "wof:name":"Gonville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

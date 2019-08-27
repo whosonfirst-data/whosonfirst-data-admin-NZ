@@ -12,6 +12,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.907226,
     "lbl:longitude":174.714911,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.907077,
     "mps:longitude":174.715192,
     "mz:hierarchy_label":1,
@@ -51,9 +52,6 @@
     "name:swe_x_preferred":[
         "New Windsor"
     ],
-    "name:unk_x_variant":[
-        "New Windsor"
-    ],
     "name:vol_x_preferred":[
         "New Windsor"
     ],
@@ -80,9 +78,8 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":35,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -110,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120431,
+    "wof:lastmodified":1566672218,
     "wof:name":"New Windsor",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4678722.728334,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.830048,-39.67186,176.830048,-39.67186",
     "geom:latitude":-39.67186,
     "geom:longitude":176.830048,
     "gn:latitude":-39.64824,
     "gn:longitude":176.84021,
     "iso:country":"NZ",
+    "lbl:bbox":"176.825048,-39.67686,176.835048,-39.66686",
     "lbl:latitude":-39.67186,
     "lbl:longitude":176.830048,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.671861,
     "mps:longitude":176.830112,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Akina"
-    ],
-    "name:unk_x_variant":[
         "Akina"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":94,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
-        102079329,
-        85687189
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6246563,
         "gp:id":28643769,
-        "qs:id":1128160,
         "qs_pg:id":1128160
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860090,
+    "wof:lastmodified":1566672255,
     "wof:name":"Akina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

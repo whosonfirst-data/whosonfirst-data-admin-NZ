@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":677462.92447,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.258578,-41.274547,173.258578,-41.274547",
     "geom:latitude":-41.274547,
     "geom:longitude":173.258578,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"173.253578,-41.279547,173.263578,-41.269547",
     "lbl:latitude":-41.274547,
     "lbl:longitude":173.258578,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.272645,
     "mps:longitude":173.256615,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Britannia Heights"
-    ],
-    "name:unk_x_variant":[
         "Britannia Heights"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,22 +57,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":45.3611,
     "wd:longitude":-75.7917,
     "wd:wordcount":271,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
         101915555,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644518,
-        "qs:id":1286626,
         "qs_pg:id":1286626
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860237,
+    "wof:lastmodified":1566672244,
     "wof:name":"Britannia Heights",
     "wof:parent_id":101915555,
     "wof:placetype":"neighbourhood",

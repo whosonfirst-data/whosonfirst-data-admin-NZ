@@ -10,8 +10,10 @@
     "geom:latitude":-43.552104,
     "geom:longitude":172.682774,
     "iso:country":"NZ",
+    "lbl:bbox":"172.677774,-43.557104,172.687774,-43.547104",
     "lbl:latitude":-43.552104,
     "lbl:longitude":172.682774,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.551635,
     "mps:longitude":172.684007,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
         "Woolston"
     ],
     "name:swe_x_preferred":[
-        "Woolston"
-    ],
-    "name:unk_x_variant":[
         "Woolston"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -73,9 +72,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":200,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -86,7 +84,6 @@
     "wof:concordances":{
         "gn:id":6220862,
         "gp:id":2351456,
-        "qs:id":191662,
         "qs_pg:id":191662
     },
     "wof:country":"NZ",
@@ -105,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120456,
+    "wof:lastmodified":1566672234,
     "wof:name":"Woolston",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

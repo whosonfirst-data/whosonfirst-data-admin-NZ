@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":337301.027555,
+    "geom:area_square_m":337301.027556,
     "geom:bbox":"175.57766071,-40.4177187382,175.596088689,-40.4079190546",
     "geom:latitude":-40.412763,
     "geom:longitude":175.590397,
     "iso:country":"NZ",
     "lbl:latitude":-40.412349,
     "lbl:longitude":175.589363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.408939,
     "mps:longitude":175.578944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Linton"
     ],
@@ -31,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191583,
@@ -61,7 +64,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527688591,
+    "wof:lastmodified":1566672445,
     "wof:name":"Linton",
     "wof:parent_id":102079307,
     "wof:placetype":"locality",

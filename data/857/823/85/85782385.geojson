@@ -11,8 +11,10 @@
     "geom:longitude":174.809993,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.804993,-36.902601,174.814993,-36.892601",
     "lbl:latitude":-36.897601,
     "lbl:longitude":174.809993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.895438,
     "mps:longitude":174.805761,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     "name:swe_x_preferred":[
         "Ellerslie"
     ],
-    "name:unk_x_variant":[
-        "Ellerslie Central"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":617,
@@ -67,9 +66,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":171,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -79,7 +77,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676727,
-        "qs:id":220377,
         "qs_pg:id":220377
     },
     "wof:country":"NZ",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120460,
+    "wof:lastmodified":1566672237,
     "wof:name":"Ellerslie",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

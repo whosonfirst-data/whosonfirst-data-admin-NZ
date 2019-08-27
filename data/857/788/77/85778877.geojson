@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.857588,
     "lbl:longitude":174.711064,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.850426,
     "mps:longitude":174.70184,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30a4\u30f3\u30c8\u30fb\u30b7\u30e5\u30d0\u30ea\u30a8"
-    ],
-    "name:unk_x_variant":[
-        "Point Chevalier North"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -68,9 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1791,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85687243,
@@ -81,7 +78,6 @@
     "wof:concordances":{
         "gn:id":2184472,
         "gp:id":22726631,
-        "qs:id":56297,
         "qs_pg:id":56297,
         "wd:id":"Q7207981",
         "wk:page":"Point Chevalier"
@@ -101,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282168,
+    "wof:lastmodified":1566672258,
     "wof:name":"Point Chevalier North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

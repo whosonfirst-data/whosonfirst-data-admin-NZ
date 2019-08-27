@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.17165,
     "lbl:longitude":176.348918,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.17165,
     "mps:longitude":176.348923,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lake Okareka"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":974,
     "wof:belongsto":[
         102191583,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101915101,
-    "wof:lastmodified":1563282396,
+    "wof:lastmodified":1566672402,
     "wof:name":"Lake Okareka",
     "wof:parent_id":102079289,
     "wof:placetype":"locality",

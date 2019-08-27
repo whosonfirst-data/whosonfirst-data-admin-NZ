@@ -10,8 +10,10 @@
     "geom:latitude":-43.511819,
     "geom:longitude":172.731838,
     "iso:country":"NZ",
+    "lbl:bbox":"172.726838,-43.516819,172.736838,-43.506819",
     "lbl:latitude":-43.511819,
     "lbl:longitude":172.731838,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.516709,
     "mps:longitude":172.736682,
     "mz:hierarchy_label":0,
@@ -68,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u044c\u044e-\u0411\u0440\u0430\u0439\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "New Brighton"
-    ],
     "name:vol_x_preferred":[
         "New Brighton"
     ],
@@ -103,9 +102,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":204,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -117,7 +115,6 @@
     "wof:concordances":{
         "gn:id":6220372,
         "gp:id":2349677,
-        "qs:id":1083892,
         "qs_pg:id":1083892
     },
     "wof:country":"NZ",
@@ -136,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120411,
+    "wof:lastmodified":1566672206,
     "wof:name":"New Brighton",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

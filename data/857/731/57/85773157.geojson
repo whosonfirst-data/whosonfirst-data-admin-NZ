@@ -10,8 +10,10 @@
     "geom:latitude":-35.397767,
     "geom:longitude":173.506248,
     "iso:country":"NZ",
+    "lbl:bbox":"173.501248,-35.402767,173.511248,-35.392767",
     "lbl:latitude":-35.397767,
     "lbl:longitude":173.506248,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.398128,
     "mps:longitude":173.507026,
     "mz:hierarchy_label":0,
@@ -44,9 +46,6 @@
     "name:nld_x_preferred":[
         "Rawene"
     ],
-    "name:unk_x_variant":[
-        "Rawene"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:id":0,
@@ -72,9 +71,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1057,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85633345,
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282048,
+    "wof:lastmodified":1566672206,
     "wof:name":"Rawene",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

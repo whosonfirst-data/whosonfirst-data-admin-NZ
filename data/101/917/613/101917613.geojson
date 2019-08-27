@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
-    "geom:area_square_m":119494.71701,
+    "geom:area_square_m":119494.717011,
     "geom:bbox":"175.706131237,-37.4127054961,175.712937475,-37.4092840022",
     "geom:latitude":-37.41104,
     "geom:longitude":175.709265,
     "iso:country":"NZ",
     "lbl:latitude":-37.410792,
     "lbl:longitude":175.709261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.410792,
     "mps:longitude":175.709259,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mackaytown"
     ],
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -44,7 +48,6 @@
         "fct:id":"020d6246-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2188072,
         "gp:id":2349265,
-        "qs:id":490332,
         "qs_pg:id":490332
     },
     "wof:country":"NZ",
@@ -62,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497302444,
+    "wof:lastmodified":1566672524,
     "wof:name":"Mackaytown",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12910706.63567,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.639116,-36.96739,174.639116,-36.96739",
     "geom:latitude":-36.96739,
     "geom:longitude":174.639116,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.634116,-36.97239,174.644116,-36.96239",
     "lbl:latitude":-36.96739,
     "lbl:longitude":174.639116,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.968644,
     "mps:longitude":174.625446,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Laingholm Central"
     ],
     "name:mri_x_preferred":[
-        "Laingholm"
-    ],
-    "name:unk_x_variant":[
         "Laingholm"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -64,19 +63,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101917669,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726423,
-        "qs:id":985272,
         "qs_pg:id":985272
     },
     "wof:country":"NZ",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859786,
+    "wof:lastmodified":1566672233,
     "wof:name":"Laingholm",
     "wof:parent_id":101917669,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":-45.88333,
     "gn:longitude":170.38333,
     "iso:country":"NZ",
+    "lbl:bbox":"170.381789,-45.878757,170.391789,-45.868757",
     "lbl:latitude":-45.873757,
     "lbl:longitude":170.386789,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.875172,
     "mps:longitude":170.385982,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Wingatui"
     ],
     "name:nld_x_preferred":[
-        "Wingatui"
-    ],
-    "name:unk_x_variant":[
         "Wingatui"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -63,8 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687201,
         102191583,
@@ -75,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2179017,
         "gp:id":2351433,
-        "qs:id":1159811,
         "qs_pg:id":1159811,
         "wd:id":"Q8025157",
         "wk:page":"Wingatui"
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282113,
+    "wof:lastmodified":1566672233,
     "wof:name":"Wingatui",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":-38.00822,
     "gn:longitude":175.3302,
     "iso:country":"NZ",
+    "lbl:bbox":"175.319829,-38.014155,175.329829,-38.004155",
     "lbl:latitude":-38.009155,
     "lbl:longitude":175.324829,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.989911,
     "mps:longitude":175.327857,
     "mz:hierarchy_label":0,
@@ -58,9 +60,6 @@
     "name:pol_x_preferred":[
         "Te Awamutu"
     ],
-    "name:unk_x_variant":[
-        "Te Awamutu East"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":6240801,
@@ -90,8 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687229,
         102191583,
@@ -102,7 +100,6 @@
     "wof:concordances":{
         "gn:id":6240801,
         "gp:id":55876708,
-        "qs:id":160470,
         "qs_pg:id":160470,
         "wd:id":"Q992759",
         "wk:page":"Te Awamutu"
@@ -123,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282079,
+    "wof:lastmodified":1566672220,
     "wof:name":"Te Awamutu East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

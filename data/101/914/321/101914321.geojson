@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.107638,
     "lbl:longitude":174.904835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.107637,
     "mps:longitude":174.904838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitby"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":650,
     "wof:belongsto":[
         102191583,
@@ -69,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775493,
+    "wof:lastmodified":1566672459,
     "wof:name":"Whitby",
     "wof:parent_id":102079317,
     "wof:placetype":"locality",

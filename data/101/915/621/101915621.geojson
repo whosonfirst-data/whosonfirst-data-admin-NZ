@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000317,
-    "geom:area_square_m":2948202.247851,
+    "geom:area_square_m":2948202.247887,
     "geom:bbox":"174.972432096,-41.1946842547,174.997722151,-41.154974855",
     "geom:latitude":-41.175615,
     "geom:longitude":174.983805,
     "iso:country":"NZ",
     "lbl:latitude":-41.172291,
     "lbl:longitude":174.981458,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.172287,
     "mps:longitude":174.981458,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stokes Valley"
     ],
@@ -31,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4081,
     "wof:belongsto":[
         102191583,
@@ -62,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527643129,
+    "wof:lastmodified":1566672386,
     "wof:name":"Stokes Valley",
     "wof:parent_id":102079337,
     "wof:placetype":"locality",

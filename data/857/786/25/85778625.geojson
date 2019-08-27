@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1498398.073317,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.506715,-45.899546,170.506715,-45.899546",
     "geom:latitude":-45.899546,
     "geom:longitude":170.506715,
     "gn:latitude":-45.88838,
     "gn:longitude":170.4901,
     "iso:country":"NZ",
+    "lbl:bbox":"170.501715,-45.904546,170.511715,-45.894546",
     "lbl:latitude":-45.899546,
     "lbl:longitude":170.506715,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.896631,
     "mps:longitude":170.506528,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "S Dunedin"
-    ],
-    "name:unk_x_variant":[
-        "South Dunedin"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -62,21 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2341,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
         101914269,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6212198,
         "gp:id":22726529,
-        "qs:id":213943,
         "qs_pg:id":213943,
         "wd:id":"Q7567086",
         "wk:page":"South Dunedin"
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859815,
+    "wof:lastmodified":1566672263,
     "wof:name":"South Dunedin",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

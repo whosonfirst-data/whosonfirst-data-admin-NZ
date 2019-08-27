@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.868197,
     "lbl:longitude":177.170692,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hawke's Bay Region",
     "meso:gadm_admin":"Wairoa",
     "meso:gadm_hasc2":"NZ.HB.WW",
@@ -24,6 +26,7 @@
     "mps:longitude":177.170692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Wairoa"
     ],
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"4,124.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102079327,
-    "wof:lastmodified":1563282000,
+    "wof:lastmodified":1566672176,
     "wof:name":"Wairoa District",
     "wof:parent_id":85687189,
     "wof:placetype":"county",

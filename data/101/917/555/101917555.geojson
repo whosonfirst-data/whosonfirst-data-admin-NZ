@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.03618,
     "lbl:longitude":176.79604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.03522,
     "mps:longitude":176.792053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Te Teko"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":448,
     "wof:belongsto":[
         102191583,
@@ -46,7 +49,7 @@
     "wof:concordances":{
         "gn:id":6236685,
         "gp:id":2350863,
-        "qs:id":1210337,
+        "qs_pg:id":1210337,
         "wd:id":"Q7690990",
         "wk:page":"Te Teko"
     },
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101917555,
-    "wof:lastmodified":1561775510,
+    "wof:lastmodified":1566672522,
     "wof:name":"Te Teko",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

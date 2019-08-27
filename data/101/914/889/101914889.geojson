@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.678638,
     "lbl:longitude":172.68176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.678682,
     "mps:longitude":172.681729,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Collingwood"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":308,
     "wof:belongsto":[
         102191583,
@@ -70,7 +73,6 @@
         "fct:id":"020deb44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2192194,
         "gp:id":2348369,
-        "qs:id":901878,
         "qs_pg:id":901878,
         "wd:id":"Q1109703",
         "wk:page":"Collingwood, New Zealand"
@@ -90,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282432,
+    "wof:lastmodified":1566672422,
     "wof:name":"Collingwood",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

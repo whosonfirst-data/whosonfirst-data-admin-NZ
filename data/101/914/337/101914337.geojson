@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.676512,
     "lbl:longitude":169.133045,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-44.673512,
     "mps:longitude":169.132691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Wanaka"
     ],
@@ -101,7 +104,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1874,
     "wof:belongsto":[
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101914337,
-    "wof:lastmodified":1563282425,
+    "wof:lastmodified":1566672419,
     "wof:name":"Wanaka",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":-43.479863,
     "geom:longitude":172.558357,
     "iso:country":"NZ",
+    "lbl:bbox":"172.553357,-43.484863,172.563357,-43.474863",
     "lbl:latitude":-43.479863,
     "lbl:longitude":172.558357,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.476594,
     "mps:longitude":172.553947,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:swe_x_preferred":[
         "Harewood"
     ],
-    "name:unk_x_variant":[
-        "Harewood"
-    ],
     "name:zho_x_preferred":[
         "\u54c8\u4f0d\u5fb7"
     ],
@@ -94,11 +93,10 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":53.9,
     "wd:longitude":-1.51,
     "wd:wordcount":468,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -109,7 +107,6 @@
     "wof:concordances":{
         "gn:id":6220398,
         "gp:id":2348708,
-        "qs:id":9337,
         "qs_pg:id":9337
     },
     "wof:country":"NZ",
@@ -128,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120519,
+    "wof:lastmodified":1566672272,
     "wof:name":"Harewood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

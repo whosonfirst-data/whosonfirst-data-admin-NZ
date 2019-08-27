@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10515941.294527,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.292243,-40.609982,175.292243,-40.609982",
     "geom:latitude":-40.609982,
     "geom:longitude":175.292243,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.287243,-40.614982,175.297243,-40.604982",
     "lbl:latitude":-40.609982,
     "lbl:longitude":175.292243,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.615725,
     "mps:longitude":175.291416,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Levin North"
-    ],
-    "name:unk_x_variant":[
         "Levin North"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,18 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        102079313,
-        85687251
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55876291,
-        "qs:id":899630
+        "qs_pg:id":899630
     },
     "wof:country":"NZ",
     "wof:geomhash":"3c23054803cd909cd6708fff80f47edd",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860423,
+    "wof:lastmodified":1566672220,
     "wof:name":"Levin North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

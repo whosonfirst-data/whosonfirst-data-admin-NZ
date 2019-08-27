@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000491,
-    "geom:area_square_m":4854439.490883,
+    "geom:area_square_m":4854439.490904,
     "geom:bbox":"174.86114502,-36.879620605,174.893115495,-36.8434979895",
     "geom:latitude":-36.862358,
     "geom:longitude":174.87705,
@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.855197,
     "lbl:longitude":174.873253,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.860633,
     "mps:longitude":174.877292,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Glendowie"
-    ],
-    "name:unk_x_variant":[
         "Glendowie"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,9 +56,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":343,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -71,7 +68,6 @@
     "wof:concordances":{
         "gn:id":6232065,
         "gp:id":22726376,
-        "qs:id":24260,
         "qs_pg:id":24260
     },
     "wof:country":"NZ",
@@ -90,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639344,
+    "wof:lastmodified":1566672229,
     "wof:name":"Glendowie",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

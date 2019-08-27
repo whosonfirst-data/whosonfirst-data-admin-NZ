@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.82704,
     "lbl:longitude":174.435246,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-36.82704,
     "mps:longitude":174.43525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Muriwai"
     ],
@@ -44,9 +47,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u0440\u0438\u0432\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Muriwai"
-    ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -73,10 +73,12 @@
     "wof:concordances":{
         "gn:id":2186363,
         "gp:id":2349654,
-        "qs:id":138941,
-        "qs_pg:id":1135658,
+        "qs_pg:id":138941,
         "wd:id":"Q495500",
         "wk:page":"Muriwai"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1135658
     },
     "wof:country":"NZ",
     "wof:geomhash":"ae9766baa11ddf8546cab07e890865a7",
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101915113,
-    "wof:lastmodified":1563282416,
+    "wof:lastmodified":1566672414,
     "wof:name":"Muriwai Beach",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

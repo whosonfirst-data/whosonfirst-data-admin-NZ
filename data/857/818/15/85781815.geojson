@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5477163.780215,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.295485,-38.133993,176.295485,-38.133993",
     "geom:latitude":-38.133993,
     "geom:longitude":176.295485,
     "iso:country":"NZ",
+    "lbl:bbox":"176.290485,-38.138993,176.300485,-38.128993",
     "lbl:latitude":-38.133993,
     "lbl:longitude":176.295485,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.13615,
     "mps:longitude":176.301162,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Owhata"
-    ],
-    "name:unk_x_variant":[
         "Owhata"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,13 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860275,
+    "wof:lastmodified":1566672210,
     "wof:name":"Owhata",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

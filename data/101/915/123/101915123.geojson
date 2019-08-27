@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.282229,
     "lbl:longitude":174.088611,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-35.291495,
     "mps:longitude":174.09785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0438\u0445\u0438\u0430"
     ],
@@ -77,7 +80,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":659,
     "wof:belongsto":[
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":2185081,
         "gp:id":2350008,
-        "qs:id":241800,
+        "qs_pg:id":241800,
         "wd:id":"Q152017",
         "wk:page":"Paihia"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101915123,
-    "wof:lastmodified":1563282412,
+    "wof:lastmodified":1566672412,
     "wof:name":"Paihia",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

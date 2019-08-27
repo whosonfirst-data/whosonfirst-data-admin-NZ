@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":69485.407953,
+    "geom:area_square_m":679697.910331,
     "geom:bbox":"176.023544539,-37.6459749969,176.053341991,-37.6265833428",
     "geom:latitude":-37.634448,
     "geom:longitude":176.043932,
     "iso:country":"NZ",
     "lbl:latitude":-37.631918,
     "lbl:longitude":176.047232,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.643706,
     "mps:longitude":176.034837,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Omokoroa Beach"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,10 +46,10 @@
         "fct:id":"020ca860-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2185611,
         "gp:id":2349845,
-        "qs:id":211660
+        "qs_pg:id":211660
     },
     "wof:country":"NZ",
-    "wof:geomhash":"80f6d5921ab27b2535c6dee9cd11831e",
+    "wof:geomhash":"524d468a393d0b840b682dce895dd0cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101915041,
-    "wof:lastmodified":1487269952,
+    "wof:lastmodified":1566672386,
     "wof:name":"Omokoroa Beach",
     "wof:parent_id":102079283,
     "wof:placetype":"locality",

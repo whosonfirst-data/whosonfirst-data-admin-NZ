@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16661671.066873,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.074847,-38.687427,176.074847,-38.687427",
     "geom:latitude":-38.687427,
     "geom:longitude":176.074847,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.069847,-38.692427,176.079847,-38.682427",
     "lbl:latitude":-38.687427,
     "lbl:longitude":176.074847,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.68391,
     "mps:longitude":176.076147,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Taupo Central"
-    ],
-    "name:unk_x_variant":[
         "Taupo Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079281,
-        85687229
+        102079281
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676768,
-        "qs:id":890699,
         "qs_pg:id":890699
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860385,
+    "wof:lastmodified":1566672239,
     "wof:name":"Taupo Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.121974,
     "lbl:longitude":174.575125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.127242,
     "mps:longitude":174.573617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mangawhai"
     ],
@@ -40,7 +43,7 @@
     "name:nno_x_preferred":[
         "Mangawhai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mangawai"
     ],
     "qs:a0":"New Zealand",
@@ -55,7 +58,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":550,
     "wof:belongsto":[
         102191583,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101915431,
-    "wof:lastmodified":1561775466,
+    "wof:lastmodified":1566672391,
     "wof:name":"Mangawhai",
     "wof:parent_id":102079259,
     "wof:placetype":"locality",

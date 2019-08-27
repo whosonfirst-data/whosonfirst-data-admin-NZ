@@ -12,8 +12,10 @@
     "gn:latitude":-40.37825,
     "gn:longitude":175.63021,
     "iso:country":"NZ",
+    "lbl:bbox":"175.627298,-40.395618,175.637298,-40.385618",
     "lbl:latitude":-40.390618,
     "lbl:longitude":175.632298,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.391994,
     "mps:longitude":175.641675,
     "mz:hierarchy_label":0,
@@ -64,9 +66,6 @@
     "name:swe_x_preferred":[
         "Summerhill"
     ],
-    "name:unk_x_variant":[
-        "Summerhill"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2185018,
@@ -95,8 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687251,
         102191583,
@@ -107,7 +105,6 @@
     "wof:concordances":{
         "gn:id":6250450,
         "gp:id":28644055,
-        "qs:id":985663,
         "qs_pg:id":985663
     },
     "wof:country":"NZ",
@@ -126,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120428,
+    "wof:lastmodified":1566672217,
     "wof:name":"Summerhill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

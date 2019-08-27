@@ -12,8 +12,10 @@
     "gn:latitude":-45.89838,
     "gn:longitude":170.5101,
     "iso:country":"NZ",
+    "lbl:bbox":"170.51668,-45.912148,170.52668,-45.902148",
     "lbl:latitude":-45.907148,
     "lbl:longitude":170.52168,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.908294,
     "mps:longitude":170.521334,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Tainui"
     ],
     "name:spa_x_preferred":[
-        "Tainui"
-    ],
-    "name:unk_x_variant":[
         "Tainui"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -68,9 +67,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2090,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687201,
         102191583,
@@ -81,7 +79,6 @@
     "wof:concordances":{
         "gn:id":6212209,
         "gp:id":22726542,
-        "qs:id":1330231,
         "qs_pg:id":1330231,
         "wd:id":"Q1480041"
     },
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282180,
+    "wof:lastmodified":1566672263,
     "wof:name":"Tainui",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

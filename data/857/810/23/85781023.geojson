@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9887998.838009,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.302148,-39.576056,174.302148,-39.576056",
     "geom:latitude":-39.576056,
     "geom:longitude":174.302148,
     "gn:latitude":-39.57825,
     "gn:longitude":174.28021,
     "iso:country":"NZ",
+    "lbl:bbox":"174.297148,-39.581056,174.307148,-39.571056",
     "lbl:latitude":-39.576056,
     "lbl:longitude":174.302148,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.569705,
     "mps:longitude":174.311465,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Nolantown"
-    ],
-    "name:unk_x_variant":[
         "Nolantown"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,19 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687195,
         102191583,
         85633345,
-        102079295,
-        85687195
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6223990,
         "gp:id":28643956,
-        "qs:id":985653,
         "qs_pg:id":985653
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860126,
+    "wof:lastmodified":1566672219,
     "wof:name":"Nolantown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

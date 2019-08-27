@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4587641.896483,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.062089,-39.936409,175.062089,-39.936409",
     "geom:latitude":-39.936409,
     "geom:longitude":175.062089,
     "gn:latitude":-39.93547,
     "gn:longitude":175.06529,
     "iso:country":"NZ",
+    "lbl:bbox":"175.057089,-39.941409,175.067089,-39.931409",
     "lbl:latitude":-39.936409,
     "lbl:longitude":175.062089,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.934185,
     "mps:longitude":175.070405,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Durie Hill"
-    ],
-    "name:unk_x_variant":[
         "Durie Hill"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
         101914639,
-        102079299,
-        85687251
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6224559,
         "gp:id":28643814,
-        "qs:id":1119000,
         "qs_pg:id":1119000
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860101,
+    "wof:lastmodified":1566672255,
     "wof:name":"Durie Hill",
     "wof:parent_id":101914639,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.406304,
     "lbl:longitude":168.368637,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-46.421281,
     "mps:longitude":168.373404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Invercargill"
     ],
@@ -212,7 +215,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-46.416667,
     "wd:longitude":168.266667,
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":101915515,
-    "wof:lastmodified":1563282419,
+    "wof:lastmodified":1566672415,
     "wof:name":"Invercargill",
     "wof:parent_id":102079397,
     "wof:placetype":"locality",

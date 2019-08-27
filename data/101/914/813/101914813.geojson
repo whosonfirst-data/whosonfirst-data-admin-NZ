@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.758747,
     "lbl:longitude":172.29948,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-43.766527,
     "mps:longitude":172.297502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0441\u0442\u043e\u043d"
     ],
@@ -47,9 +50,6 @@
     "name:nld_x_preferred":[
         "Leeston"
     ],
-    "name:unk_x_variant":[
-        "Leeston Town District"
-    ],
     "name:zho_x_preferred":[
         "\u5229\u65af\u9813"
     ],
@@ -65,7 +65,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":758,
     "wof:belongsto":[
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282491,
+    "wof:lastmodified":1566672449,
     "wof:name":"Leeston",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

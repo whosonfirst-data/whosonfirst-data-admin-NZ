@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":547286.278073,
+    "geom:area_square_m":547286.278074,
     "geom:bbox":"174.817321686,-41.2998741124,174.82651372,-41.2901696409",
     "geom:latitude":-41.295498,
     "geom:longitude":174.822534,
@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.29402,
     "lbl:longitude":174.821993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.29549,
     "mps:longitude":174.822534,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Shelly Bay"
-    ],
-    "name:unk_x_variant":[
         "Shelly Bay"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,9 +56,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":313,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -70,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726523,
-        "qs:id":221372,
         "qs_pg:id":221372,
         "wd:id":"Q7493882"
     },
@@ -90,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269544,
+    "wof:lastmodified":1566672262,
     "wof:name":"Shelly Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.295332,
     "lbl:longitude":174.76668,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.294491,
     "mps:longitude":174.763415,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Aro Valley"
     ],
     "name:swe_x_preferred":[
-        "Aro Valley"
-    ],
-    "name:unk_x_variant":[
         "Aro Valley"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -64,9 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1060,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -77,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643777,
-        "qs:id":1088579,
         "qs_pg:id":1088579,
         "wd:id":"Q4795463"
     },
@@ -97,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282160,
+    "wof:lastmodified":1566672254,
     "wof:name":"Aro Valley",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

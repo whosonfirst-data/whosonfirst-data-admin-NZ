@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.905451,
     "lbl:longitude":174.672404,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-36.858762,
     "mps:longitude":174.787817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Auckland"
     ],
@@ -386,7 +389,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":559.0,
     "wd:elevation":196.0,
@@ -417,7 +420,7 @@
         }
     ],
     "wof:id":101914257,
-    "wof:lastmodified":1563282440,
+    "wof:lastmodified":1566672426,
     "wof:name":"Auckland",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

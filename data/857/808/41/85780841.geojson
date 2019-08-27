@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14643367.669499,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.582342,-40.382751,175.582342,-40.382751",
     "geom:latitude":-40.382751,
     "geom:longitude":175.582342,
     "gn:latitude":-40.37624,
     "gn:longitude":175.58384,
     "iso:country":"NZ",
+    "lbl:bbox":"175.577342,-40.387751,175.587342,-40.377751",
     "lbl:latitude":-40.382751,
     "lbl:longitude":175.582342,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.38572,
     "mps:longitude":175.579746,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Awapuni"
-    ],
-    "name:unk_x_variant":[
         "Awapuni"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,21 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":401,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
         101914259,
-        102079307,
-        85687251
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6225521,
         "gp:id":28643781,
-        "qs:id":483823,
         "qs_pg:id":483823,
         "wd:id":"Q4829810",
         "wk:page":"Awapuni, Manawatu-Wanganui"
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860094,
+    "wof:lastmodified":1566672256,
     "wof:name":"Awapuni",
     "wof:parent_id":101914259,
     "wof:placetype":"neighbourhood",

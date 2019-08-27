@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.264624,
     "lbl:longitude":174.942741,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.257401,
     "mps:longitude":174.945204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tuakau"
     ],
@@ -40,9 +43,6 @@
     "name:swe_x_preferred":[
         "Tuakau"
     ],
-    "name:unk_x_variant":[
-        "Tuakau Town District"
-    ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -55,7 +55,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":606,
     "wof:belongsto":[
         102191583,
@@ -68,7 +68,7 @@
         "fct:id":"020dd0d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2180831,
         "gp:id":2350980,
-        "qs:id":245606,
+        "qs_pg:id":245606,
         "wd:id":"Q6979900",
         "wk:page":"Tuakau"
     },
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101915029,
-    "wof:lastmodified":1561775471,
+    "wof:lastmodified":1566672405,
     "wof:name":"Tuakau",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

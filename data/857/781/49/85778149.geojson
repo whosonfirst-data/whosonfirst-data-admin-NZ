@@ -10,8 +10,10 @@
     "geom:latitude":-36.814091,
     "geom:longitude":174.776128,
     "iso:country":"NZ",
+    "lbl:bbox":"174.771128,-36.819091,174.781128,-36.809091",
     "lbl:latitude":-36.814091,
     "lbl:longitude":174.776128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.814467,
     "mps:longitude":174.769762,
     "mz:hierarchy_label":0,
@@ -78,9 +80,6 @@
     "name:swe_x_preferred":[
         "Bayswater"
     ],
-    "name:unk_x_variant":[
-        "Bayswater"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0632\u0648\u0627\u0679\u0631"
     ],
@@ -113,8 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -126,7 +124,6 @@
     "wof:concordances":{
         "gn:id":6232155,
         "gp:id":22726327,
-        "qs:id":56202,
         "qs_pg:id":56202
     },
     "wof:country":"NZ",
@@ -145,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120501,
+    "wof:lastmodified":1566672261,
     "wof:name":"Bayswater",
     "wof:parent_id":101915597,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2019569.003826,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.611691,-43.572915,172.611691,-43.572915",
     "geom:latitude":-43.572915,
     "geom:longitude":172.611691,
     "gn:latitude":-43.57833,
     "gn:longitude":172.61013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.606691,-43.577915,172.616691,-43.567915",
     "lbl:latitude":-43.572915,
     "lbl:longitude":172.611691,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.574923,
     "mps:longitude":172.615853,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Cracroft"
-    ],
-    "name:unk_x_variant":[
         "Cracroft"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,21 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":105,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6248838,
         "gp:id":56017625,
-        "qs:id":911966,
         "qs_pg:id":911966
     },
     "wof:country":"NZ",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860591,
+    "wof:lastmodified":1566672217,
     "wof:name":"Cracroft",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

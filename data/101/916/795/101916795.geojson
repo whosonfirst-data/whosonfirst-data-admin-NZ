@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.348292,
     "lbl:longitude":174.714246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.348301,
     "mps:longitude":174.71426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0430\u043a\u0430\u043d\u0430"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":455,
     "wof:belongsto":[
         102191583,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2187216,
         "gp:id":2349451,
-        "qs:id":483156,
         "qs_pg:id":483156,
         "wd:id":"Q6786009",
         "wk:page":"Matakana"
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101916795,
-    "wof:lastmodified":1563282547,
+    "wof:lastmodified":1566672480,
     "wof:name":"Matakana",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

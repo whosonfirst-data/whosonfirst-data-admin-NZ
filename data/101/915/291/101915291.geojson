@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.43534,
     "lbl:longitude":176.872156,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.435341,
     "mps:longitude":176.872161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bay View"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191583,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":2193500,
         "gp:id":2348141,
-        "qs:id":138962,
         "qs_pg:id":138962,
         "wd:id":"Q4874148",
         "wk:page":"Bay View, New Zealand"
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101915291,
-    "wof:lastmodified":1563282408,
+    "wof:lastmodified":1566672409,
     "wof:name":"Bay View",
     "wof:parent_id":102079331,
     "wof:placetype":"locality",

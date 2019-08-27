@@ -11,8 +11,10 @@
     "geom:longitude":173.209462,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"173.204462,-41.336186,173.214462,-41.326186",
     "lbl:latitude":-41.331186,
     "lbl:longitude":173.209462,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.333307,
     "mps:longitude":173.208729,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:tur_x_preferred":[
         "Saxton"
     ],
-    "name:unk_x_variant":[
-        "Saxton"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
     "qs:gn_local":2186280,
@@ -78,9 +77,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":80,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687157,
         102191583,
@@ -90,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644776,
-        "qs:id":375158
+        "qs_pg:id":375158
     },
     "wof:country":"NZ",
     "wof:geomhash":"d156dd7491cb98021249649c428dcd11",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120437,
+    "wof:lastmodified":1566672222,
     "wof:name":"Saxton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1837764.474392,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.233097,-38.122133,176.233097,-38.122133",
     "geom:latitude":-38.122133,
     "geom:longitude":176.233097,
     "iso:country":"NZ",
+    "lbl:bbox":"176.228097,-38.127133,176.238097,-38.117133",
     "lbl:latitude":-38.122133,
     "lbl:longitude":176.233097,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.126994,
     "mps:longitude":176.226869,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Koutu"
-    ],
-    "name:unk_x_variant":[
         "Koutu"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,20 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
         101914629,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6241290,
         "gp:id":2349131,
-        "qs:id":1168809,
         "qs_pg:id":1168809
     },
     "wof:country":"NZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859615,
+    "wof:lastmodified":1566672205,
     "wof:name":"Koutu",
     "wof:parent_id":101914629,
     "wof:placetype":"neighbourhood",

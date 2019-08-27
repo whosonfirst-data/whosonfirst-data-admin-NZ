@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.662056,
     "lbl:longitude":174.43578,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-36.662056,
     "mps:longitude":174.435779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Parakai"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":475,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2184927,
         "gp:id":2350055,
-        "qs:id":235676,
         "qs_pg:id":235676,
         "wd:id":"Q6981761"
     },
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101916661,
-    "wof:lastmodified":1563282534,
+    "wof:lastmodified":1566672470,
     "wof:name":"Parakai",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

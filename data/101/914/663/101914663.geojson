@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.935326,
     "lbl:longitude":173.869868,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-35.935325,
     "mps:longitude":173.869869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0430\u0440\u0433\u0430\u0432\u0438\u043b\u0435"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.933333,
     "wd:longitude":173.883333,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101914663,
-    "wof:lastmodified":1563282495,
+    "wof:lastmodified":1566672451,
     "wof:name":"Dargaville",
     "wof:parent_id":102079259,
     "wof:placetype":"locality",

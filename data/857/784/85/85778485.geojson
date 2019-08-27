@@ -12,6 +12,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.868318,
     "lbl:longitude":174.776811,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.866437,
     "mps:longitude":174.777298,
     "mz:hierarchy_label":1,
@@ -78,9 +79,6 @@
     "name:swe_x_preferred":[
         "Newmarket"
     ],
-    "name:unk_x_variant":[
-        "Newmarket"
-    ],
     "name:zho_x_preferred":[
         "\u7ebd\u9a6c\u514b\u7279"
     ],
@@ -107,8 +105,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -135,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120455,
+    "wof:lastmodified":1566672233,
     "wof:name":"Newmarket",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

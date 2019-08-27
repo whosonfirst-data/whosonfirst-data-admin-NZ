@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
-    "geom:area_square_m":51721.727133,
+    "geom:area_square_m":79409.064707,
     "geom:bbox":"176.232172082,-38.0393071989,176.245665026,-38.0346302919",
     "geom:latitude":-38.03646,
     "geom:longitude":176.239219,
     "iso:country":"NZ",
     "lbl:latitude":-38.035637,
     "lbl:longitude":176.240684,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.035642,
     "mps:longitude":176.240667,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hamurana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hamurana Springs"
     ],
     "qs:a0":"New Zealand",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":2190311,
         "gp:id":2348700,
-        "qs:id":1171279,
         "qs_pg:id":1171279
     },
     "wof:country":"NZ",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101916563,
-    "wof:lastmodified":1497292721,
+    "wof:lastmodified":1566672477,
     "wof:name":"Hamurana",
     "wof:parent_id":102079289,
     "wof:placetype":"locality",

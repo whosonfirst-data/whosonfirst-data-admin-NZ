@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":922198.053063,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.894104,-36.974033,174.894104,-36.974033",
     "geom:latitude":-36.974033,
     "geom:longitude":174.894104,
@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.974033,
     "lbl:longitude":174.894104,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.974032,
     "mps:longitude":174.892664,
     "mz:hierarchy_label":0,
@@ -27,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Chapel Downs"
-    ],
-    "name:unk_x_variant":[
         "Chapel Downs"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":77,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643800,
-        "qs:id":1127289,
         "qs_pg:id":1127289,
         "wd:id":"Q5072995"
     },
@@ -91,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860098,
+    "wof:lastmodified":1566672254,
     "wof:name":"Chapel Downs",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,18 @@
     "geom:bbox":"169.41667,-44.83333,169.41667,-44.83333",
     "geom:latitude":-44.83333,
     "geom:longitude":169.41667,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"169.39667,-44.85333,169.43667,-44.81333",
     "lbl:latitude":-44.83333,
     "lbl:longitude":169.41667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "Tarras"
@@ -33,7 +37,7 @@
     "name:nld_x_preferred":[
         "Tarras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Terras"
     ],
     "qs_pg:aaroncc":"NZ",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424916,
     "qs_pg:woe_id":2350730,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Otago",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1125776435,
-    "wof:lastmodified":1563282847,
+    "wof:lastmodified":1566672649,
     "wof:name":"Tarras",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

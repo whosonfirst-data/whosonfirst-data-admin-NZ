@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.302206,
     "lbl:longitude":174.097313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.302206,
     "mps:longitude":174.097307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Te Haumi"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191583,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101916887,
-    "wof:lastmodified":1561775496,
+    "wof:lastmodified":1566672465,
     "wof:name":"Te Haumi",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

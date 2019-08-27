@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.20628,
     "lbl:longitude":174.813472,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.199567,
     "mps:longitude":174.818778,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
         "Glenside"
     ],
     "name:eng_x_preferred":[
-        "Glenside"
-    ],
-    "name:unk_x_variant":[
         "Glenside"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -63,9 +61,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":83,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -76,7 +73,6 @@
     "wof:concordances":{
         "gn:id":6244946,
         "gp:id":22726378,
-        "qs:id":997020,
         "qs_pg:id":997020
     },
     "wof:country":"NZ",
@@ -95,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120449,
+    "wof:lastmodified":1566672231,
     "wof:name":"Glenside",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

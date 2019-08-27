@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000427,
-    "geom:area_square_m":4222082.657261,
+    "geom:area_square_m":4222082.657254,
     "geom:bbox":"174.835487455,-36.8887599032,174.86114502,-36.864239997",
     "geom:latitude":-36.87688,
     "geom:longitude":174.847455,
@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.876134,
     "lbl:longitude":174.843629,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.877297,
     "mps:longitude":174.847211,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "Stjohns"
-    ],
-    "name:unk_x_variant":[
-        "St Johns"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -61,9 +59,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":425,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -75,7 +72,6 @@
     "wof:concordances":{
         "gn:id":6232303,
         "gp:id":28644038,
-        "qs:id":464980,
         "qs_pg:id":464980
     },
     "wof:country":"NZ",
@@ -94,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639295,
+    "wof:lastmodified":1566672215,
     "wof:name":"St Johns",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

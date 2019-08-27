@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6478271.401472,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.619231,-40.381157,175.619231,-40.381157",
     "geom:latitude":-40.381157,
     "geom:longitude":175.619231,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.614231,-40.386157,175.624231,-40.376157",
     "lbl:latitude":-40.381157,
     "lbl:longitude":175.619231,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.380184,
     "mps:longitude":175.618714,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Fitzherbert"
-    ],
-    "name:unk_x_variant":[
         "Fitzherbert"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -56,20 +55,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":183,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
         101914259,
-        102079307,
-        85687251
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643827,
-        "qs:id":236191,
         "qs_pg:id":236191,
         "wd:id":"Q5455633"
     },
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860103,
+    "wof:lastmodified":1566672255,
     "wof:name":"Fitzherbert",
     "wof:parent_id":101914259,
     "wof:placetype":"neighbourhood",

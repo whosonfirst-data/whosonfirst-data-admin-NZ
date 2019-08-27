@@ -10,8 +10,10 @@
     "geom:latitude":-43.542427,
     "geom:longitude":172.525368,
     "iso:country":"NZ",
+    "lbl:bbox":"172.520368,-43.547427,172.530368,-43.537427",
     "lbl:latitude":-43.542427,
     "lbl:longitude":172.525368,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.54239,
     "mps:longitude":172.528577,
     "mz:hierarchy_label":0,
@@ -53,9 +55,6 @@
     "name:swe_x_preferred":[
         "Hornby"
     ],
-    "name:unk_x_variant":[
-        "Hornby"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2192362,
@@ -85,9 +84,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":184,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -98,7 +96,6 @@
     "wof:concordances":{
         "gn:id":6220946,
         "gp:id":2348826,
-        "qs:id":892142,
         "qs_pg:id":892142
     },
     "wof:country":"NZ",
@@ -117,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120517,
+    "wof:lastmodified":1566672270,
     "wof:name":"Hornby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

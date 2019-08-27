@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6815013.287236,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.232483,-39.003771,174.232483,-39.003771",
     "geom:latitude":-39.003771,
     "geom:longitude":174.232483,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.227483,-39.008771,174.237483,-38.998771",
     "lbl:latitude":-39.003771,
     "lbl:longitude":174.232483,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.002122,
     "mps:longitude":174.235277,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Waitara Central"
-    ],
-    "name:unk_x_variant":[
         "Waitara Central"
     ],
     "qs:gn_id":0,
@@ -55,18 +54,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687195,
         102191583,
         85633345,
-        102079311,
-        85687195
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676777,
-        "qs:id":393141,
         "qs_pg:id":393141
     },
     "wof:country":"NZ",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860390,
+    "wof:lastmodified":1566672250,
     "wof:name":"Waitara Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":176.087662,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.082662,-38.706631,176.092662,-38.696631",
     "lbl:latitude":-38.701631,
     "lbl:longitude":176.087662,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.702658,
     "mps:longitude":176.095564,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043b\u043b\u0442\u043e\u043f"
     ],
-    "name:unk_x_variant":[
-        "Hilltop"
-    ],
     "name:vol_x_preferred":[
         "Hilltop"
     ],
@@ -88,8 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687229,
         102191583,
@@ -100,7 +98,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644796,
-        "qs:id":1080156,
         "qs_pg:id":1080156
     },
     "wof:country":"NZ",
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120436,
+    "wof:lastmodified":1566672222,
     "wof:name":"Hilltop",
     "wof:parent_id":101914385,
     "wof:placetype":"neighbourhood",

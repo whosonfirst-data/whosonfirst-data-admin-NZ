@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2007279.896428,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.922703,-41.201823,174.922703,-41.201823",
     "geom:latitude":-41.201823,
     "geom:longitude":174.922703,
     "gn:latitude":-41.19827,
     "gn:longitude":174.91019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.917703,-41.206823,174.927703,-41.196823",
     "lbl:latitude":-41.201823,
     "lbl:longitude":174.922703,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.197215,
     "mps:longitude":174.920344,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Boulcott"
-    ],
-    "name:unk_x_variant":[
         "Boulcott"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,21 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":258,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914319,
-        102079337,
-        85687233
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244956,
         "gp:id":22726336,
-        "qs:id":1315989,
         "qs_pg:id":1315989,
         "wd:id":"Q4949518",
         "wk:page":"Boulcott"
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859755,
+    "wof:lastmodified":1566672260,
     "wof:name":"Boulcott",
     "wof:parent_id":101914319,
     "wof:placetype":"neighbourhood",

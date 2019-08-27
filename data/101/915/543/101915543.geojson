@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.949915,
     "lbl:longitude":175.641029,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-40.949915,
     "mps:longitude":175.641028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Masterton"
     ],
@@ -265,7 +268,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-40.966667,
     "wd:longitude":175.65,
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":101915543,
-    "wof:lastmodified":1563282386,
+    "wof:lastmodified":1566672395,
     "wof:name":"Masterton",
     "wof:parent_id":102079343,
     "wof:placetype":"locality",

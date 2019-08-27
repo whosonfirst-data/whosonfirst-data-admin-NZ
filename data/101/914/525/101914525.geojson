@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":28013.604666,
+    "geom:area_square_m":353189.428853,
     "geom:bbox":"172.701167978,-43.2918752223,172.720758453,-43.2804115901",
     "geom:latitude":-43.285265,
     "geom:longitude":172.711766,
     "iso:country":"NZ",
     "lbl:latitude":-43.281799,
     "lbl:longitude":172.706088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-43.285814,
     "mps:longitude":172.718943,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waikuku Beach"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -44,7 +48,7 @@
         "gp:id":2351125
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f426a651b1af1d4645c4b714276edaab",
+    "wof:geomhash":"227a3fa198ebb6ed6adb91f94d468ed3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +62,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1487269945,
+    "wof:lastmodified":1566672457,
     "wof:name":"Waikuku Beach",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

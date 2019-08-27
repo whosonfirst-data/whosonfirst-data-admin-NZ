@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.731399,
     "lbl:longitude":176.122407,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bay of Plenty Region",
     "meso:gadm_admin":"Western Bay of Plenty",
     "meso:gadm_hasc2":"NZ.BP.WB",
@@ -24,6 +26,7 @@
     "mps:longitude":176.122407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tauranga City"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191583,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102079285,
-    "wof:lastmodified":1536614399,
+    "wof:lastmodified":1566672149,
     "wof:name":"Tauranga City",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

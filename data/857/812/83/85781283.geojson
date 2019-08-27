@@ -11,8 +11,10 @@
     "geom:longitude":174.705434,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.700434,-36.779093,174.710434,-36.769093",
     "lbl:latitude":-36.774093,
     "lbl:longitude":174.705434,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.77675,
     "mps:longitude":174.702971,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439-\u0412'\u044e"
     ],
-    "name:unk_x_variant":[
-        "Bay View"
-    ],
     "name:vol_x_preferred":[
         "Bay View"
     ],
@@ -91,9 +90,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":71,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -104,7 +102,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644227,
-        "qs:id":1286541,
         "qs_pg:id":1286541
     },
     "wof:country":"NZ",
@@ -123,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120468,
+    "wof:lastmodified":1566672242,
     "wof:name":"Bay View",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

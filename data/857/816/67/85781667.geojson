@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11810285.055383,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.183961,-42.475651,171.183961,-42.475651",
     "geom:latitude":-42.475651,
     "geom:longitude":171.183961,
     "iso:country":"NZ",
+    "lbl:bbox":"171.178961,-42.480651,171.188961,-42.470651",
     "lbl:latitude":-42.475651,
     "lbl:longitude":171.183961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-42.49287,
     "mps:longitude":171.177902,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Karoro"
-    ],
-    "name:unk_x_variant":[
         "Karoro"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,13 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687165,
         102191583,
         85633345,
-        102079361,
-        85687165
+        102079361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860249,
+    "wof:lastmodified":1566672213,
     "wof:name":"Karoro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

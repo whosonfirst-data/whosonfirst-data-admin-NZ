@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20646762.67279,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.081107,-39.891073,175.081107,-39.891073",
     "geom:latitude":-39.891073,
     "geom:longitude":175.081107,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
     "gn:latitude":-39.9019,
     "gn:longitude":175.06474,
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"175.076107,-39.896073,175.086107,-39.886073",
     "lbl:latitude":-39.891073,
     "lbl:longitude":175.081107,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.870993,
     "mps:longitude":175.106219,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Aramoho"
-    ],
-    "name:unk_x_variant":[
         "Aramoho"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -82,8 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687251,
         102191583,
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2193863,
         "gp:id":2348031,
-        "qs:id":1175995,
         "qs_pg:id":1175995
     },
     "wof:country":"NZ",
@@ -113,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379391,
+    "wof:lastmodified":1566672264,
     "wof:name":"Aramoho",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

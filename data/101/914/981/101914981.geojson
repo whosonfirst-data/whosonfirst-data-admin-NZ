@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000027,
-    "geom:area_square_m":255419.002157,
+    "geom:area_square_m":255419.002158,
     "geom:bbox":"177.86756115,-39.0942838261,177.876465515,-39.0721575713",
     "geom:latitude":-39.085264,
     "geom:longitude":177.872892,
     "iso:country":"NZ",
     "lbl:latitude":-39.08773,
     "lbl:longitude":177.87407,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.087729,
     "mps:longitude":177.874071,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mahia Beach"
     ],
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101914981,
-    "wof:lastmodified":1507750789,
+    "wof:lastmodified":1566672460,
     "wof:name":"Mahia Beach",
     "wof:parent_id":102079327,
     "wof:placetype":"locality",

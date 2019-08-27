@@ -9,14 +9,17 @@
     "geom:bbox":"174.706920257,-37.1661279616,174.71852247,-37.1602243884",
     "geom:latitude":-37.163135,
     "geom:longitude":174.713259,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"NZ",
     "lbl:latitude":-37.163391,
     "lbl:longitude":174.71365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.163391,
     "mps:longitude":174.71365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Glenbrook"
     ],
@@ -61,7 +64,7 @@
     "qs_pg:woe_id":28645509,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191583,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101915871,
-    "wof:lastmodified":1563282402,
+    "wof:lastmodified":1566672405,
     "wof:name":"Glenbrook Beach",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

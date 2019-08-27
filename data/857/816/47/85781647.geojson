@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1433425.918683,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.516003,-45.895113,170.516003,-45.895113",
     "geom:latitude":-45.895113,
     "geom:longitude":170.516003,
     "iso:country":"NZ",
+    "lbl:bbox":"170.511003,-45.900113,170.521003,-45.890113",
     "lbl:latitude":-45.895113,
     "lbl:longitude":170.516003,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.89508,
     "mps:longitude":170.51787,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Sunshine"
-    ],
-    "name:unk_x_variant":[
         "Sunshine"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -55,14 +54,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
         101914269,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860246,
+    "wof:lastmodified":1566672214,
     "wof:name":"Sunshine",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000224,
-    "geom:area_square_m":1567060.069153,
+    "geom:area_square_m":2092728.25047,
     "geom:bbox":"175.007692331,-40.8766870492,175.041054683,-40.8501401031",
     "geom:latitude":-40.865395,
     "geom:longitude":175.023553,
     "iso:country":"NZ",
     "lbl:latitude":-40.871938,
     "lbl:longitude":175.020908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.871938,
     "mps:longitude":175.020906,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waikanae Beach"
     ],
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -43,7 +47,6 @@
     "wof:concordances":{
         "gn:id":6224755,
         "gp:id":22726562,
-        "qs:id":56285,
         "qs_pg:id":56285
     },
     "wof:country":"NZ",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101914635,
-    "wof:lastmodified":1497296022,
+    "wof:lastmodified":1566672431,
     "wof:name":"Waikanae Beach",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

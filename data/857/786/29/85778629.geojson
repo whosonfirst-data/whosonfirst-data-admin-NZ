@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15672476.487038,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.752833,-43.564177,172.752833,-43.564177",
     "geom:latitude":-43.564177,
     "geom:longitude":172.752833,
     "gn:latitude":-43.54833,
     "gn:longitude":172.74013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.747833,-43.569177,172.757833,-43.559177",
     "lbl:latitude":-43.564177,
     "lbl:longitude":172.752833,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.561534,
     "mps:longitude":172.746646,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Southshore"
-    ],
-    "name:unk_x_variant":[
         "Southshore"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":215,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220972,
         "gp:id":22726531,
-        "qs:id":1316003
+        "qs_pg:id":1316003
     },
     "wof:country":"NZ",
     "wof:geomhash":"326aa285ade7f9067750679e27d01837",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859816,
+    "wof:lastmodified":1566672262,
     "wof:name":"Southshore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

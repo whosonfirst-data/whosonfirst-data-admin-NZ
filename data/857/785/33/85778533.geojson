@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.340542,
     "lbl:longitude":174.759887,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.350974,
     "mps:longitude":174.744001,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
         "Owhiro Bay"
     ],
     "name:eng_x_preferred":[
-        "Owhiro Bay"
-    ],
-    "name:unk_x_variant":[
         "Owhiro Bay"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -63,9 +61,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":87,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -77,7 +74,6 @@
     "wof:concordances":{
         "gn:id":6244793,
         "gp:id":22726489,
-        "qs:id":56257,
         "qs_pg:id":56257,
         "wd:id":"Q7114791"
     },
@@ -97,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282088,
+    "wof:lastmodified":1566672224,
     "wof:name":"Owhiro Bay",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.873896,
     "lbl:longitude":174.82621,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.872694,
     "mps:longitude":174.827981,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Meadowbank"
     ],
     "name:sco_x_preferred":[
-        "Meadowbank"
-    ],
-    "name:unk_x_variant":[
         "Meadowbank"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -64,9 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":57,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -78,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6232304,
         "gp:id":22726449,
-        "qs:id":24289,
         "qs_pg:id":24289
     },
     "wof:country":"NZ",
@@ -97,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120455,
+    "wof:lastmodified":1566672233,
     "wof:name":"Meadowbank",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

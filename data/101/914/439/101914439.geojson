@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.737423,
     "lbl:longitude":175.119427,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.750758,
     "mps:longitude":175.109341,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Otaki"
     ],
@@ -64,7 +67,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":482,
     "wof:belongsto":[
         102191583,
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282446,
+    "wof:lastmodified":1566672429,
     "wof:name":"Otaki Beach",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

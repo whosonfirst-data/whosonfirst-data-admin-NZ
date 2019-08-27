@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.529748,
     "lbl:longitude":176.848864,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-39.483158,
     "mps:longitude":176.906509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Napier"
     ],
@@ -284,7 +287,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-39.568044,
     "wd:longitude":176.864375,
@@ -318,7 +321,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282492,
+    "wof:lastmodified":1566672449,
     "wof:name":"Napier",
     "wof:parent_id":102079331,
     "wof:placetype":"locality",

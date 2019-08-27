@@ -11,8 +11,10 @@
     "geom:longitude":172.603804,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"172.598804,-43.4627,172.608804,-43.4527",
     "lbl:latitude":-43.4577,
     "lbl:longitude":172.603804,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.45619,
     "mps:longitude":172.617755,
     "mz:hierarchy_label":0,
@@ -204,9 +206,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0456\u043a\u0441"
     ],
-    "name:unk_x_variant":[
-        "Styx"
-    ],
     "name:vie_x_preferred":[
         "S\u00f4ng Styx"
     ],
@@ -241,9 +240,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":761,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -253,7 +251,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644076,
-        "qs:id":1286501,
         "qs_pg:id":1286501,
         "wd:id":"Q542758"
     },
@@ -273,7 +270,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282071,
+    "wof:lastmodified":1566672216,
     "wof:name":"Styx",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

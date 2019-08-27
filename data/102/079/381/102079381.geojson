@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.050583,
     "lbl:longitude":170.637862,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Canterbury Region",
     "meso:gadm_admin":"Waitaki",
     "meso:gadm_hasc2":"NZ.OT.WI",
@@ -24,6 +26,7 @@
     "mps:longitude":170.637862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ces_x_preferred":[
         "Waitaki District"
     ],
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"7,212.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102079381,
-    "wof:lastmodified":1563282010,
+    "wof:lastmodified":1566672187,
     "wof:name":"Waitaki District",
     "wof:parent_id":85687201,
     "wof:placetype":"county",

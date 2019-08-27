@@ -11,8 +11,10 @@
     "geom:longitude":175.255594,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.250594,-37.730721,175.260594,-37.720721",
     "lbl:latitude":-37.725721,
     "lbl:longitude":175.255594,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.721286,
     "mps:longitude":175.249287,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:swe_x_preferred":[
         "Flagstaff"
     ],
-    "name:unk_x_variant":[
-        "Flagstaff"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
     "qs:gn_local":2190324,
@@ -94,9 +93,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":224,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687229,
         102191583,
@@ -106,7 +104,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643829,
-        "qs:id":1154867,
         "qs_pg:id":1154867
     },
     "wof:country":"NZ",
@@ -125,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120494,
+    "wof:lastmodified":1566672255,
     "wof:name":"Flagstaff",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":174.906212,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.901212,-36.870471,174.911212,-36.860471",
     "lbl:latitude":-36.865471,
     "lbl:longitude":174.906212,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.864925,
     "mps:longitude":174.90822,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "Bucklands Beach"
-    ],
-    "name:unk_x_variant":[
-        "Bucklands Beach Central"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -58,9 +57,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":6039,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676722,
-        "qs:id":375343,
         "qs_pg:id":375343,
         "wd:id":"Q4983300"
     },
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282121,
+    "wof:lastmodified":1566672236,
     "wof:name":"Bucklands Beach",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

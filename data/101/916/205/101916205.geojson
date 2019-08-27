@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.093484,
     "lbl:longitude":175.131218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.093484,
     "mps:longitude":175.131218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Te Marua"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":279,
     "wof:belongsto":[
         102191583,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101916205,
-    "wof:lastmodified":1563282534,
+    "wof:lastmodified":1566672471,
     "wof:name":"Te Marua",
     "wof:parent_id":102079335,
     "wof:placetype":"locality",

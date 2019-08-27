@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":27789778.757585,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.695305,-45.026363,168.695305,-45.026363",
     "geom:latitude":-45.026363,
     "geom:longitude":168.695305,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"168.690305,-45.031363,168.700305,-45.021363",
     "lbl:latitude":-45.026363,
     "lbl:longitude":168.695305,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.022632,
     "mps:longitude":168.700749,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Wakatipu Heights"
-    ],
-    "name:unk_x_variant":[
         "Wakatipu Heights"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,18 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        102079385,
-        85687201
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644789,
-        "qs:id":1088585
+        "qs_pg:id":1088585
     },
     "wof:country":"NZ",
     "wof:geomhash":"b0b074610fe54175c5d244108507f7c7",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860271,
+    "wof:lastmodified":1566672223,
     "wof:name":"Wakatipu Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5860350.133217,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.758859,-36.746647,174.758859,-36.746647",
     "geom:latitude":-36.746647,
     "geom:longitude":174.758859,
     "gn:latitude":-36.74645,
     "gn:longitude":174.75978,
     "iso:country":"NZ",
+    "lbl:bbox":"174.753859,-36.751647,174.763859,-36.741647",
     "lbl:latitude":-36.746647,
     "lbl:longitude":174.758859,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.743654,
     "mps:longitude":174.767438,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Campbells Bay"
-    ],
-    "name:unk_x_variant":[
         "Campbells Bay"
     ],
     "qs:gn_fcode":"PPL",
@@ -58,21 +57,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":179,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2192676,
         "gp:id":2348271,
-        "qs:id":466692,
         "qs_pg:id":466692,
         "wd:id":"Q5028204",
         "wk:page":"Campbells Bay"
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859590,
+    "wof:lastmodified":1566672263,
     "wof:name":"Campbells Bay",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

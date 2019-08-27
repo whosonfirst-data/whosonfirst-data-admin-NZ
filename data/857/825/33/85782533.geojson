@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3858297.562997,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.323503,-35.724864,174.323503,-35.724864",
     "geom:latitude":-35.724864,
     "geom:longitude":174.323503,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.318503,-35.729864,174.328503,-35.719864",
     "lbl:latitude":-35.724864,
     "lbl:longitude":174.323503,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.730315,
     "mps:longitude":174.324842,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Whangarei Central"
-    ],
-    "name:unk_x_variant":[
         "Whangarei Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        102079257,
-        85687149
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676781,
-        "qs:id":225064,
         "qs_pg:id":225064
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860392,
+    "wof:lastmodified":1566672249,
     "wof:name":"Whangarei Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

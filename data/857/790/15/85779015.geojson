@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4561552.37558,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.668961,-36.94659,174.668961,-36.94659",
     "geom:latitude":-36.94659,
     "geom:longitude":174.668961,
@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.94659,
     "lbl:longitude":174.668961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.925635,
     "mps:longitude":174.662376,
     "mz:hierarchy_label":0,
@@ -28,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Titirangi North"
-    ],
-    "name:unk_x_variant":[
         "Titirangi North"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,8 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -72,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2181063,
         "gp:id":22726681,
-        "qs:id":997022,
         "qs_pg:id":997022
     },
     "wof:country":"NZ",
@@ -90,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859893,
+    "wof:lastmodified":1566672203,
     "wof:name":"Titirangi North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

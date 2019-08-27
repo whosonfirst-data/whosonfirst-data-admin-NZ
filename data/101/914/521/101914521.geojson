@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.517364,
     "lbl:longitude":172.610876,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-43.55732,
     "mps:longitude":172.677542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Christchurch"
     ],
@@ -355,7 +358,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":608.0,
     "wd:elevation":920.0,
@@ -392,7 +395,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282460,
+    "wof:lastmodified":1566672434,
     "wof:megacity":0,
     "wof:name":"Christchurch",
     "wof:parent_id":102079401,

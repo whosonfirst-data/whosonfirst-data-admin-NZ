@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.09293,
     "lbl:longitude":176.081492,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-38.092926,
     "mps:longitude":176.081499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043c\u0430\u043a\u0443"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":302,
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101914481,
-    "wof:lastmodified":1563282482,
+    "wof:lastmodified":1566672445,
     "wof:name":"Mamaku",
     "wof:parent_id":102079289,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2337617.174407,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.056993,-41.121359,175.056993,-41.121359",
     "geom:latitude":-41.121359,
     "geom:longitude":175.056993,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.051993,-41.126359,175.061993,-41.116359",
     "lbl:latitude":-41.121359,
     "lbl:longitude":175.056993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.115781,
     "mps:longitude":175.062583,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Elderslea"
-    ],
-    "name:unk_x_variant":[
         "Elderslea"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":26,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914809,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644772,
-        "qs:id":959213,
         "qs_pg:id":959213,
         "wd:id":"Q5353988"
     },
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860264,
+    "wof:lastmodified":1566672222,
     "wof:name":"Elderslea",
     "wof:parent_id":101914809,
     "wof:placetype":"neighbourhood",

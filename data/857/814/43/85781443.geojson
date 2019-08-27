@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13909121.890409,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.650234,-45.025029,168.650234,-45.025029",
     "geom:latitude":-45.025029,
     "geom:longitude":168.650234,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"168.645234,-45.030029,168.655234,-45.020029",
     "lbl:latitude":-45.025029,
     "lbl:longitude":168.650234,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.015679,
     "mps:longitude":168.654657,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Boydtown"
-    ],
-    "name:unk_x_variant":[
         "Boydtown"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,18 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        102079385,
-        85687201
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644358,
-        "qs:id":1091335
+        "qs_pg:id":1091335
     },
     "wof:country":"NZ",
     "wof:geomhash":"ee575e267b7b75ce50722a0a0570a36d",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860209,
+    "wof:lastmodified":1566672245,
     "wof:name":"Boydtown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

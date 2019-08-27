@@ -9,14 +9,17 @@
     "geom:bbox":"175.081567248,-40.7962586502,175.089621345,-40.7898419968",
     "geom:latitude":-40.792457,
     "geom:longitude":175.085114,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"NZ",
     "lbl:latitude":-40.791857,
     "lbl:longitude":175.085507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.791855,
     "mps:longitude":175.085512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Te Horo"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":558,
     "wof:belongsto":[
         102191583,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101916223,
-    "wof:lastmodified":1563282551,
+    "wof:lastmodified":1566672482,
     "wof:name":"Te Horo Beach",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

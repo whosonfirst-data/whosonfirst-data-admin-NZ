@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000819,
-    "geom:area_square_m":8096301.223422,
+    "geom:area_square_m":8096301.223399,
     "geom:bbox":"174.713925258,-36.9445254669,174.755788574,-36.9169193258",
     "geom:latitude":-36.932881,
     "geom:longitude":174.737866,
@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.933395,
     "lbl:longitude":174.738882,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.931774,
     "mps:longitude":174.741654,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Waikowhai"
-    ],
-    "name:unk_x_variant":[
         "Waikowhai"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,9 +56,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":171,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -71,7 +68,6 @@
     "wof:concordances":{
         "gn:id":6232204,
         "gp:id":22726563,
-        "qs:id":56287,
         "qs_pg:id":56287
     },
     "wof:country":"NZ",
@@ -90,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639415,
+    "wof:lastmodified":1566672266,
     "wof:name":"Waikowhai",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

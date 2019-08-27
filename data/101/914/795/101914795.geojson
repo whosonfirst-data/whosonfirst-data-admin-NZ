@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
-    "geom:area_square_m":119341.948053,
+    "geom:area_square_m":493953.490279,
     "geom:bbox":"173.366095719,-34.8957289988,173.392800036,-34.8685760718",
     "geom:latitude":-34.878797,
     "geom:longitude":173.376834,
     "iso:country":"NZ",
     "lbl:latitude":-34.869943,
     "lbl:longitude":173.376622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.874011,
     "mps:longitude":173.387371,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tokerau Beach"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gp:id":55877894
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c7c1ab3feaa302b650a5b024ba371a0d",
+    "wof:geomhash":"50f4a3c056ecb112ca0e2488e7fe5aac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101914795,
-    "wof:lastmodified":1487269984,
+    "wof:lastmodified":1566672443,
     "wof:name":"Tokerau Beach",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

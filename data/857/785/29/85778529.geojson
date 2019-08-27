@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":2920211.827609,
+    "geom:area_square_m":2920211.827613,
     "geom:bbox":"174.69909668,-36.9059798852,174.728319157,-36.8870003177",
     "geom:latitude":-36.896216,
     "geom:longitude":174.712691,
@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.894917,
     "lbl:longitude":174.715269,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.897194,
     "mps:longitude":174.712694,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
         "Owairaka"
     ],
     "name:nno_x_preferred":[
-        "Owairaka"
-    ],
-    "name:unk_x_variant":[
         "Owairaka"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,9 +59,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":201,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -75,7 +72,6 @@
     "wof:concordances":{
         "gn:id":6232258,
         "gp:id":22726488,
-        "qs:id":56256,
         "qs_pg:id":56256,
         "wd:id":"Q7114263",
         "wk:page":"Owairaka"
@@ -96,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639335,
+    "wof:lastmodified":1566672224,
     "wof:name":"Owairaka",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

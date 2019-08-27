@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.911699,
     "lbl:longitude":174.81371,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.911861,
     "mps:longitude":174.813277,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Penrose"
     ],
     "name:eng_x_preferred":[
-        "Penrose"
-    ],
-    "name:unk_x_variant":[
         "Penrose"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -64,9 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":556,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -77,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2184692,
         "gp:id":2350111,
-        "qs:id":1287514,
         "qs_pg:id":1287514,
         "wd:id":"Q2069212",
         "wk:page":"Penrose, New Zealand"
@@ -98,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282050,
+    "wof:lastmodified":1566672207,
     "wof:name":"Penrose",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

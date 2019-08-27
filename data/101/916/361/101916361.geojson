@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.990357,
     "lbl:longitude":174.391368,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-38.996983,
     "mps:longitude":174.39137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Urenui"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":407,
     "wof:belongsto":[
@@ -69,7 +72,6 @@
         "fct:id":"020de5cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2180559,
         "gp:id":2351036,
-        "qs:id":9612,
         "qs_pg:id":9612,
         "wd:id":"Q1316191",
         "wk:page":"Urenui"
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282540,
+    "wof:lastmodified":1566672475,
     "wof:name":"Urenui",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

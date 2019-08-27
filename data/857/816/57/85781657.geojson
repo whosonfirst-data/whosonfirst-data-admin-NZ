@@ -12,8 +12,10 @@
     "gn:latitude":-46.42842,
     "gn:longitude":168.35009,
     "iso:country":"NZ",
+    "lbl:bbox":"168.346746,-46.452319,168.356746,-46.442319",
     "lbl:latitude":-46.447319,
     "lbl:longitude":168.351746,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.450406,
     "mps:longitude":168.352175,
     "mz:hierarchy_label":0,
@@ -85,9 +87,6 @@
     "name:spa_x_preferred":[
         "Kew"
     ],
-    "name:unk_x_variant":[
-        "Kew"
-    ],
     "name:zho_x_preferred":[
         "\u90b1"
     ],
@@ -119,9 +118,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":5151,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85633345,
@@ -131,7 +129,6 @@
     "wof:concordances":{
         "gn:id":6205168,
         "gp:id":28644575,
-        "qs:id":357214,
         "qs_pg:id":357214
     },
     "wof:country":"NZ",
@@ -149,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120421,
+    "wof:lastmodified":1566672213,
     "wof:name":"Kew",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

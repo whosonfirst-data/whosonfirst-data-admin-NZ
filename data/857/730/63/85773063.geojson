@@ -10,8 +10,10 @@
     "geom:latitude":-45.849703,
     "geom:longitude":170.530995,
     "iso:country":"NZ",
+    "lbl:bbox":"170.525995,-45.854703,170.535995,-45.844703",
     "lbl:latitude":-45.849703,
     "lbl:longitude":170.530995,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.847753,
     "mps:longitude":170.527224,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:eng_x_variant":[
         "NE Valley"
-    ],
-    "name:unk_x_variant":[
-        "North East Valley"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -63,9 +62,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1113,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687201,
         102191583,
@@ -77,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6212269,
         "gp:id":2349740,
-        "qs:id":385733,
         "qs_pg:id":385733,
         "wd:id":"Q7055244"
     },
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282044,
+    "wof:lastmodified":1566672205,
     "wof:name":"North East Valley",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

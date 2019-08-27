@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4446122.420002,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.55829,-40.237605,175.55829,-40.237605",
     "geom:latitude":-40.237605,
     "geom:longitude":175.55829,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.55329,-40.242605,175.56329,-40.232605",
     "lbl:latitude":-40.237605,
     "lbl:longitude":175.55829,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.219576,
     "mps:longitude":175.553411,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Feilding West"
-    ],
-    "name:unk_x_variant":[
         "Feilding West"
     ],
     "qs:gn_id":0,
@@ -54,18 +53,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        102079303,
-        85687251
+        102079303
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726643,
-        "qs:id":1087601
+        "qs_pg:id":1087601
     },
     "wof:country":"NZ",
     "wof:geomhash":"675b3bec1776168971b3fa0b233cdba0",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859864,
+    "wof:lastmodified":1566672268,
     "wof:name":"Feilding West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

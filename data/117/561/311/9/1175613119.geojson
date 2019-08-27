@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.77079,
     "lbl:longitude":174.473586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.770791,
     "mps:longitude":174.473583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Parua Bay"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":583,
     "wof:belongsto":[
         102191583,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1175613119,
-    "wof:lastmodified":1563282342,
+    "wof:lastmodified":1566672365,
     "wof:name":"Parua Bay",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

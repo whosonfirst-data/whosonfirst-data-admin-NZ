@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.095471,
     "lbl:longitude":176.687252,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bay of Plenty Region",
     "meso:gadm_admin":"Whakatane",
     "meso:gadm_hasc2":"NZ.BP.WH",
@@ -24,6 +26,7 @@
     "mps:longitude":176.687252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kawerau"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1224,
     "wof:belongsto":[
         102191583,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":102079319,
-    "wof:lastmodified":1563282007,
+    "wof:lastmodified":1566672184,
     "wof:name":"Kawerau District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

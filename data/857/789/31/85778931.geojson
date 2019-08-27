@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4537506.708644,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.781589,-36.985351,174.781589,-36.985351",
     "geom:latitude":-36.985351,
     "geom:longitude":174.781589,
     "iso:country":"NZ",
+    "lbl:bbox":"174.776589,-36.990351,174.786589,-36.980351",
     "lbl:latitude":-36.985351,
     "lbl:longitude":174.781589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.962704,
     "mps:longitude":174.754475,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Mangere South"
-    ],
-    "name:unk_x_variant":[
         "Mangere South"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,13 +57,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859867,
+    "wof:lastmodified":1566672269,
     "wof:name":"M\u0101ngere South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

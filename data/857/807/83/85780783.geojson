@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2384793.842624,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.037582,-41.125119,175.037582,-41.125119",
     "geom:latitude":-41.125119,
     "geom:longitude":175.037582,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.032582,-41.130119,175.042582,-41.120119",
     "lbl:latitude":-41.125119,
     "lbl:longitude":175.037582,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.124883,
     "mps:longitude":175.04172,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Craigs Flat"
-    ],
-    "name:unk_x_variant":[
         "Craigs Flat"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914809,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28642758,
-        "qs:id":230208,
         "qs_pg:id":230208
     },
     "wof:country":"NZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860084,
+    "wof:lastmodified":1566672251,
     "wof:name":"Craigs Flat",
     "wof:parent_id":101914809,
     "wof:placetype":"neighbourhood",

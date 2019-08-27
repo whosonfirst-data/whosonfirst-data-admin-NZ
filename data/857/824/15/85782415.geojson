@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6465945.934431,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.278549,-39.598094,174.278549,-39.598094",
     "geom:latitude":-39.598094,
     "geom:longitude":174.278549,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.273549,-39.603094,174.283549,-39.593094",
     "lbl:latitude":-39.598094,
     "lbl:longitude":174.278549,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.600968,
     "mps:longitude":174.28175,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Hawera Central"
-    ],
-    "name:unk_x_variant":[
         "Hawera Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687195,
         102191583,
         85633345,
         101914721,
-        102079295,
-        85687195
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676735,
-        "qs:id":773960,
         "qs_pg:id":773960
     },
     "wof:country":"NZ",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860359,
+    "wof:lastmodified":1566672239,
     "wof:name":"Hawera Central",
     "wof:parent_id":101914721,
     "wof:placetype":"neighbourhood",

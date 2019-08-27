@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24848203.99191,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.129208,-38.674019,176.129208,-38.674019",
     "geom:latitude":-38.674019,
     "geom:longitude":176.129208,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.124208,-38.679019,176.134208,-38.669019",
     "lbl:latitude":-38.674019,
     "lbl:longitude":176.129208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.669073,
     "mps:longitude":176.138517,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Tauhara"
-    ],
-    "name:unk_x_variant":[
         "Tauhara"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079281,
-        85687229
+        102079281
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644096,
-        "qs:id":1197225,
         "qs_pg:id":1197225
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860155,
+    "wof:lastmodified":1566672216,
     "wof:name":"Tauhara",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

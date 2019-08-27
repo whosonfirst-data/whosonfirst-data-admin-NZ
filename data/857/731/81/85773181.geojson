@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.323839,
     "lbl:longitude":174.833359,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.324014,
     "mps:longitude":174.849605,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Seatoun"
-    ],
-    "name:unk_x_variant":[
         "Seatoun"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,9 +58,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":316,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -74,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2182885,
         "gp:id":2350526,
-        "qs:id":466743,
         "qs_pg:id":466743,
         "wd:id":"Q7442032",
         "wk:page":"Seatoun"
@@ -95,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639289,
+    "wof:lastmodified":1566672207,
     "wof:name":"Seatoun",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

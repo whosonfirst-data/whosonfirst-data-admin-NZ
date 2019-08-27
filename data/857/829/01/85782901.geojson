@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6079331.376508,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.971277,-37.96179,176.971277,-37.96179",
     "geom:latitude":-37.96179,
     "geom:longitude":176.971277,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.966277,-37.96679,176.976277,-37.95679",
     "lbl:latitude":-37.96179,
     "lbl:longitude":176.971277,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.959989,
     "mps:longitude":176.96807,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Whakatane West"
-    ],
-    "name:unk_x_variant":[
         "Whakatane West"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079291,
-        85687175
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55876887,
-        "qs:id":1339557,
         "qs_pg:id":1339557
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860430,
+    "wof:lastmodified":1566672212,
     "wof:name":"Whakatane West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

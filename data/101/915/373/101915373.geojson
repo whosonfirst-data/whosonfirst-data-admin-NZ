@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.598988,
     "lbl:longitude":170.667896,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-45.599489,
     "mps:longitude":170.666828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Waikouaiti"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":845,
     "wof:belongsto":[
         102191583,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101915373,
-    "wof:lastmodified":1561775473,
+    "wof:lastmodified":1566672413,
     "wof:name":"Waikouaiti",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

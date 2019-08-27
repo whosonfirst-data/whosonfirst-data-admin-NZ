@@ -9,14 +9,16 @@
     "geom:bbox":"168.635352,-45.041656,168.635352,-45.041656",
     "geom:latitude":-45.041656,
     "geom:longitude":168.635352,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":-45.03981,
     "gn:longitude":168.62949,
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"168.630352,-45.046656,168.640352,-45.036656",
     "lbl:latitude":-45.041656,
     "lbl:longitude":168.635352,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.037314,
     "mps:longitude":168.626897,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Fernhill"
     ],
     "name:eng_x_preferred":[
-        "Fernhill"
-    ],
-    "name:unk_x_variant":[
         "Fernhill"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -91,8 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687201,
         102191583,
@@ -103,7 +101,6 @@
     "wof:concordances":{
         "gn:id":6204695,
         "gp:id":28644390,
-        "qs:id":239296,
         "qs_pg:id":239296
     },
     "wof:country":"NZ",
@@ -122,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120474,
+    "wof:lastmodified":1566672244,
     "wof:name":"Fernhill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

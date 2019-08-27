@@ -11,8 +11,10 @@
     "geom:longitude":172.602539,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"172.597539,-43.590035,172.607539,-43.580035",
     "lbl:latitude":-43.585035,
     "lbl:longitude":172.602539,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.586193,
     "mps:longitude":172.601524,
     "mz:hierarchy_label":0,
@@ -105,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0442\u043c\u043e\u0440\u043b\u0435\u043d\u0434"
     ],
-    "name:unk_x_variant":[
-        "Westmorland"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0633\u0679\u0645\u0631\u0644\u06cc\u0646\u0688"
     ],
@@ -142,8 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687179,
         102191583,
@@ -153,7 +151,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726575,
-        "qs:id":534296,
         "qs_pg:id":534296
     },
     "wof:country":"NZ",
@@ -172,7 +169,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120511,
+    "wof:lastmodified":1566672267,
     "wof:name":"Westmorland",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

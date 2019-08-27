@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12987061.262074,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.786615,-36.942634,174.786615,-36.942634",
     "geom:latitude":-36.942634,
     "geom:longitude":174.786615,
     "gn:latitude":-36.9382,
     "gn:longitude":174.77019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.781615,-36.947634,174.791615,-36.937634",
     "lbl:latitude":-36.942634,
     "lbl:longitude":174.786615,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.949948,
     "mps:longitude":174.781644,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Mangere Bridge"
-    ],
-    "name:unk_x_variant":[
         "Mangere Bridge"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":194,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6231891,
         "gp:id":22726435,
-        "qs:id":56241,
         "qs_pg:id":56241,
         "wd:id":"Q6748975",
         "wk:page":"Mangere Bridge, New Zealand"
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859789,
+    "wof:lastmodified":1566672231,
     "wof:name":"M\u0101ngere Bridge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10585652.5986,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.531921,-35.84874,174.531921,-35.84874",
     "geom:latitude":-35.84874,
     "geom:longitude":174.531921,
     "gn:latitude":-35.84139,
     "gn:longitude":174.53694,
     "iso:country":"NZ",
+    "lbl:bbox":"174.526921,-35.85374,174.536921,-35.84374",
     "lbl:latitude":-35.84874,
     "lbl:longitude":174.531921,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.846883,
     "mps:longitude":174.533181,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "Urquharts Bay"
-    ],
-    "name:unk_x_variant":[
-        "Urqharts Bay"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -61,19 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        102079257,
-        85687149
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2208127,
         "gp:id":28645601,
-        "qs:id":32078,
         "qs_pg:id":32078
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860310,
+    "wof:lastmodified":1566672212,
     "wof:name":"Urqharts Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

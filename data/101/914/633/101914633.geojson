@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.913139,
     "lbl:longitude":174.980863,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-40.907162,
     "mps:longitude":175.006436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043f\u0430\u0440\u0430\u0443\u043c\u0443"
     ],
@@ -71,7 +74,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":474,
     "wof:belongsto":[
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282445,
+    "wof:lastmodified":1566672429,
     "wof:name":"Paraparaumu",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

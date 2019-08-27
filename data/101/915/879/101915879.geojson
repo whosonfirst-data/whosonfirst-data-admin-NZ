@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.33851,
     "lbl:longitude":175.86678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.33851,
     "mps:longitude":175.866781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Woodville"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-40.3371,
     "wd:longitude":175.8667,
     "wd:wordcount":1308,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":6227728,
         "gp:id":2351455,
-        "qs:id":160468,
         "qs_pg:id":160468,
         "wd:id":"Q2593247",
         "wk:page":"Woodville, New Zealand"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101915879,
-    "wof:lastmodified":1561775470,
+    "wof:lastmodified":1566672404,
     "wof:name":"Woodville",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",

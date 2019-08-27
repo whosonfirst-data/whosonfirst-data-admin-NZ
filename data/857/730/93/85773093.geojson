@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.858044,
     "lbl:longitude":174.815568,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.853239,
     "mps:longitude":174.813347,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
     ],
     "name:mri_x_preferred":[
         "\u014cr\u0101kei"
-    ],
-    "name:unk_x_variant":[
-        "Orakei"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -61,9 +59,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":336,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -74,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2185477,
         "gp:id":2349891,
-        "qs:id":1206412,
         "qs_pg:id":1206412,
         "wd:id":"Q7099353",
         "wk:page":"Orakei"
@@ -95,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282041,
+    "wof:lastmodified":1566672204,
     "wof:name":"Orakei",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

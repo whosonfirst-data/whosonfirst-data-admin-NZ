@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.593527,
     "lbl:longitude":174.57813,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Taranaki Region",
     "meso:gadm_admin":"South Taranaki",
     "meso:gadm_hasc2":"NZ.TK.ST",
@@ -24,6 +26,7 @@
     "mps:longitude":174.57813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "South Taranaki District"
     ],
@@ -68,9 +71,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"3,577.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102079295,
-    "wof:lastmodified":1563281965,
+    "wof:lastmodified":1566672130,
     "wof:name":"South Taranaki District",
     "wof:parent_id":85687195,
     "wof:placetype":"county",

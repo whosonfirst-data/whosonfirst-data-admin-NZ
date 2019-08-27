@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.324338,
     "lbl:longitude":174.788809,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.324837,
     "mps:longitude":174.785213,
     "mz:hierarchy_label":1,
@@ -83,9 +84,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043b\u0440\u043e\u0443\u0437"
     ],
-    "name:unk_x_variant":[
-        "Melrose"
-    ],
     "name:vol_x_preferred":[
         "Melrose"
     ],
@@ -117,8 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687233,
         102191583,
@@ -130,7 +127,6 @@
     "wof:concordances":{
         "gn:id":6244784,
         "gp:id":22726450,
-        "qs:id":1086015,
         "qs_pg:id":1086015
     },
     "wof:country":"NZ",
@@ -149,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120454,
+    "wof:lastmodified":1566672232,
     "wof:name":"Melrose",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

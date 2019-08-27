@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
-    "geom:area_square_m":36176.393299,
+    "geom:area_square_m":54408.403861,
     "geom:bbox":"175.160905017,-37.6353084183,175.170288513,-37.6333187156",
     "geom:latitude":-37.634396,
     "geom:longitude":175.164872,
     "iso:country":"NZ",
     "lbl:latitude":-37.634146,
     "lbl:longitude":175.16297,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.634146,
     "mps:longitude":175.162971,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hopuhopu"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NZ",
-    "wof:geomhash":"3d159f6e7ba9f6534691f3472591f283",
+    "wof:geomhash":"b63a062678cf772e3034347298c854a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":101917389,
-    "wof:lastmodified":1487270000,
+    "wof:lastmodified":1566672531,
     "wof:name":"Hopuhopu",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

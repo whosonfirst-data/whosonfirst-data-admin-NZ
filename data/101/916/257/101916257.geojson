@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.552932,
     "lbl:longitude":172.470081,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-43.552932,
     "mps:longitude":172.470081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Templeton"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":200,
     "wof:belongsto":[
         102191583,
@@ -55,7 +58,6 @@
         "fct:id":"020dd294-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2181429,
         "gp:id":2350879,
-        "qs:id":1276876,
         "qs_pg:id":1276876,
         "wd:id":"Q7698819",
         "wk:page":"Templeton, New Zealand"
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282528,
+    "wof:lastmodified":1566672467,
     "wof:name":"Templeton",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

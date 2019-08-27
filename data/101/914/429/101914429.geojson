@@ -9,14 +9,17 @@
     "geom:bbox":"168.283077972,-46.341561434,168.292685999,-46.3285558927",
     "geom:latitude":-46.334402,
     "geom:longitude":168.287617,
-    "geonames:id":"2206967,2179690",
+    "gn:id":"2206967,2179690",
     "iso:country":"NZ",
     "lbl:latitude":-46.335207,
     "lbl:longitude":168.287186,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-46.335208,
     "mps:longitude":168.287187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wallacetown"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191583,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101914429,
-    "wof:lastmodified":1563282484,
+    "wof:lastmodified":1566672446,
     "wof:name":"Wallacetown",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

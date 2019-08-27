@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.116986,
     "lbl:longitude":171.862861,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-42.116985,
     "mps:longitude":171.86286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Reefton"
     ],
@@ -259,7 +262,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":793,
     "wof:belongsto":[
@@ -273,7 +276,6 @@
         "fct:id":"020de7fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2183551,
         "gp:id":2350391,
-        "qs:id":247162,
         "qs_pg:id":247162,
         "wd:id":"Q2136549",
         "wk:page":"Reefton"
@@ -290,7 +292,7 @@
         }
     ],
     "wof:id":101915213,
-    "wof:lastmodified":1563282404,
+    "wof:lastmodified":1566672407,
     "wof:name":"Reefton",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

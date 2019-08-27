@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.543489,
     "lbl:longitude":174.703827,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.543495,
     "mps:longitude":174.703845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waiwera"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":207,
     "wof:belongsto":[
         102191583,
@@ -51,7 +54,6 @@
     "wof:concordances":{
         "gn:id":2179748,
         "gp:id":2351256,
-        "qs:id":221631,
         "qs_pg:id":221631,
         "wd:id":"Q7960669"
     },
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":101916785,
-    "wof:lastmodified":1561775499,
+    "wof:lastmodified":1566672473,
     "wof:name":"Waiwera",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

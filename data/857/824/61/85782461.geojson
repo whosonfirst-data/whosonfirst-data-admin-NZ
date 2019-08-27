@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2259140.198993,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.917421,-39.491994,176.917421,-39.491994",
     "geom:latitude":-39.491994,
     "geom:longitude":176.917421,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.912421,-39.496994,176.922421,-39.486994",
     "lbl:latitude":-39.491994,
     "lbl:longitude":176.917421,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.494504,
     "mps:longitude":176.919937,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Napier Central"
-    ],
-    "name:unk_x_variant":[
         "Napier Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -56,18 +55,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
-        102079331,
-        85687189
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676750,
-        "qs:id":1088614,
         "qs_pg:id":1088614
     },
     "wof:country":"NZ",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860371,
+    "wof:lastmodified":1566672237,
     "wof:name":"Napier Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

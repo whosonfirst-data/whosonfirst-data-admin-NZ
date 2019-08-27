@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15220365.695629,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.998605,-37.949275,176.998605,-37.949275",
     "geom:latitude":-37.949275,
     "geom:longitude":176.998605,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.993605,-37.954275,177.003605,-37.944275",
     "lbl:latitude":-37.949275,
     "lbl:longitude":176.998605,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.951348,
     "mps:longitude":176.997317,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Whakatane North"
-    ],
-    "name:unk_x_variant":[
         "Whakatane North"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,18 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079291,
-        85687175
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55876885,
-        "qs:id":474213
+        "qs_pg:id":474213
     },
     "wof:country":"NZ",
     "wof:geomhash":"04ef47d884c0c138c9acb8bae393351b",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860430,
+    "wof:lastmodified":1566672220,
     "wof:name":"Whakatane North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

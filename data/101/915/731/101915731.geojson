@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.944192,
     "lbl:longitude":169.264526,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-45.944192,
     "mps:longitude":169.264525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tapanui"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":268,
     "wof:belongsto":[
         102191583,
@@ -64,7 +67,6 @@
         "fct:id":"020dd9e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6208495,
         "gp:id":2350709,
-        "qs:id":1306242,
         "qs_pg:id":1306242,
         "wd:id":"Q2393530",
         "wk:page":"Tapanui"
@@ -84,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282371,
+    "wof:lastmodified":1566672384,
     "wof:name":"Tapanui",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

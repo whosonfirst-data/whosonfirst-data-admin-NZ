@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.748536,
     "lbl:longitude":171.560987,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.748651,
     "mps:longitude":171.561214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carters Beach"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":126,
     "wof:belongsto":[
         102191583,
@@ -52,7 +55,6 @@
         "fct:id":"020c741c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2192573,
         "gp:id":2348287,
-        "qs:id":1075616,
         "qs_pg:id":1075616,
         "wd:id":"Q5047247",
         "wk:page":"Carters Beach"
@@ -72,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282528,
+    "wof:lastmodified":1566672467,
     "wof:name":"Carters Beach",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":-43.51667,
     "gn:longitude":172.61667,
     "iso:country":"NZ",
+    "lbl:bbox":"172.625162,-43.522144,172.635162,-43.512144",
     "lbl:latitude":-43.517144,
     "lbl:longitude":172.630162,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.508484,
     "mps:longitude":172.631706,
     "mz:hierarchy_label":0,
@@ -158,9 +160,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041e\u043b\u0431\u0430\u043d\u0441"
     ],
-    "name:unk_x_variant":[
-        "St Albans"
-    ],
     "name:vol_x_preferred":[
         "St Albans"
     ],
@@ -196,8 +195,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687179,
         102191583,
@@ -209,7 +207,6 @@
     "wof:concordances":{
         "gn:id":2183041,
         "gp:id":2350503,
-        "qs:id":240631,
         "qs_pg:id":240631
     },
     "wof:country":"NZ",
@@ -228,7 +225,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120413,
+    "wof:lastmodified":1566672206,
     "wof:name":"St Albans",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

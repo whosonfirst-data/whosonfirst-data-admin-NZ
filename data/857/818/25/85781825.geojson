@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6890015.142617,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.236918,-38.112655,176.236918,-38.112655",
     "geom:latitude":-38.112655,
     "geom:longitude":176.236918,
     "gn:latitude":-38.11072,
     "gn:longitude":176.2371,
     "iso:country":"NZ",
+    "lbl:bbox":"176.231918,-38.117655,176.241918,-38.107655",
     "lbl:latitude":-38.112655,
     "lbl:longitude":176.236918,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.104787,
     "mps:longitude":176.241533,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Kawaha Point"
-    ],
-    "name:unk_x_variant":[
         "Kawaha Point"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
         101914629,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6241263,
         "gp:id":28644827,
-        "qs:id":1086348,
         "qs_pg:id":1086348
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860277,
+    "wof:lastmodified":1566672210,
     "wof:name":"Kawaha Point",
     "wof:parent_id":101914629,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.478986,
     "lbl:longitude":173.967705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.478975,
     "mps:longitude":173.967696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grovetown"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -54,7 +57,6 @@
         "fct:id":"020ce578-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2190420,
         "gp:id":2348673,
-        "qs:id":1312276,
         "qs_pg:id":1312276,
         "wd:id":"Q5611594"
     },
@@ -73,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775504,
+    "wof:lastmodified":1566672491,
     "wof:name":"Grovetown",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
-    "geom:area_square_m":173722.204698,
+    "geom:area_square_m":173722.204695,
     "geom:bbox":"175.554826412,-37.1652195786,175.561067676,-37.1601361481",
     "geom:latitude":-37.163076,
     "geom:longitude":175.557766,
     "iso:country":"NZ",
     "lbl:latitude":-37.163769,
     "lbl:longitude":175.557293,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.16377,
     "mps:longitude":175.557297,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Totara"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -41,10 +45,10 @@
     "wof:concordances":{
         "gn:id":7302345,
         "gp:id":28643545,
-        "qs:id":203889
+        "qs_pg:id":203889
     },
     "wof:country":"NZ",
-    "wof:geomhash":"778f98973ae4c9de1a1b897c1a8d3f44",
+    "wof:geomhash":"2e5719078995d88a8d4927834539afce",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101916465,
-    "wof:lastmodified":1487208191,
+    "wof:lastmodified":1566672471,
     "wof:name":"Totara",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

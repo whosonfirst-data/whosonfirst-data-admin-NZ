@@ -12,8 +12,10 @@
     "gn:latitude":-43.56497,
     "gn:longitude":172.64105,
     "iso:country":"NZ",
+    "lbl:bbox":"172.636286,-43.565238,172.646286,-43.555238",
     "lbl:latitude":-43.560238,
     "lbl:longitude":172.641286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.561733,
     "mps:longitude":172.642769,
     "mz:hierarchy_label":0,
@@ -70,9 +72,6 @@
     "name:swe_x_preferred":[
         "Beckenham"
     ],
-    "name:unk_x_variant":[
-        "Beckenham"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u06a9\u0646\u06c1\u06cc\u0645"
     ],
@@ -111,8 +110,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687179,
         102191583,
@@ -124,7 +122,6 @@
     "wof:concordances":{
         "gn:id":6220887,
         "gp:id":22726329,
-        "qs:id":1277437,
         "qs_pg:id":1277437
     },
     "wof:country":"NZ",
@@ -143,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120499,
+    "wof:lastmodified":1566672260,
     "wof:name":"Beckenham",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

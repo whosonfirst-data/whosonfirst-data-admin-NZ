@@ -5,18 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
-    "geom:area_square_m":96557.179937,
+    "geom:area_square_m":96557.179936,
     "geom:bbox":"177.870672637,-39.0790451758,177.875580621,-39.0744190305",
     "geom:latitude":-39.076938,
     "geom:longitude":177.873109,
     "iso:country":"NZ",
     "lbl:latitude":-39.077848,
     "lbl:longitude":177.8739,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.077849,
     "mps:longitude":177.873923,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
-        "Mahai  Beach"
+        "Mahai Beach"
     ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gp:id":28645561
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a0ffd75376557536e4c3634b9ccb99c5",
+    "wof:geomhash":"82d30aa455278effee7915a47d4aad67",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,8 +57,8 @@
         }
     ],
     "wof:id":101914777,
-    "wof:lastmodified":1487208193,
-    "wof:name":"Mahai  Beach",
+    "wof:lastmodified":1566672437,
+    "wof:name":"Mahai Beach",
     "wof:parent_id":102079327,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

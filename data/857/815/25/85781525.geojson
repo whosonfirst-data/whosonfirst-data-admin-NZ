@@ -12,8 +12,10 @@
     "gn:latitude":-46.38841,
     "gn:longitude":168.36009,
     "iso:country":"NZ",
+    "lbl:bbox":"168.370332,-46.392843,168.380332,-46.382843",
     "lbl:latitude":-46.387843,
     "lbl:longitude":168.375332,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.386643,
     "mps:longitude":168.378307,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:swe_x_preferred":[
         "Rosedale"
     ],
-    "name:unk_x_variant":[
-        "Rosedale"
-    ],
     "name:vol_x_preferred":[
         "Rosedale"
     ],
@@ -95,8 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687211,
         102191583,
@@ -107,7 +105,6 @@
     "wof:concordances":{
         "gn:id":6205093,
         "gp:id":28644472,
-        "qs:id":25851,
         "qs_pg:id":25851
     },
     "wof:country":"NZ",
@@ -126,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120474,
+    "wof:lastmodified":1566672244,
     "wof:name":"Rosedale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

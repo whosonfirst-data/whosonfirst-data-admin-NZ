@@ -12,8 +12,10 @@
     "gn:latitude":-43.55,
     "gn:longitude":172.61667,
     "iso:country":"NZ",
+    "lbl:bbox":"172.610181,-43.546378,172.620181,-43.536378",
     "lbl:latitude":-43.541378,
     "lbl:longitude":172.615181,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.542984,
     "mps:longitude":172.612288,
     "mz:hierarchy_label":0,
@@ -58,9 +60,6 @@
     "name:swe_x_preferred":[
         "Addington"
     ],
-    "name:unk_x_variant":[
-        "Addington"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2192362,
@@ -90,9 +89,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":154,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -103,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2194121,
         "gp:id":2347968,
-        "qs:id":9285,
         "qs_pg:id":9285
     },
     "wof:country":"NZ",
@@ -122,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120505,
+    "wof:lastmodified":1566672264,
     "wof:name":"Addington",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

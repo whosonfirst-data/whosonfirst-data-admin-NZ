@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.239434,
     "lbl:longitude":172.238729,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Canterbury Region",
     "meso:gadm_admin":"Waimakariri",
     "meso:gadm_hasc2":"NZ.CA.WR",
@@ -24,6 +26,7 @@
     "mps:longitude":172.238729,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Waimakariri District"
     ],
@@ -71,9 +74,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"2,216.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":102079367,
-    "wof:lastmodified":1563281980,
+    "wof:lastmodified":1566672145,
     "wof:name":"Waimakariri District",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6962007.096357,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.548103,-45.85855,170.548103,-45.85855",
     "geom:latitude":-45.85855,
     "geom:longitude":170.548103,
     "gn:latitude":-45.86667,
     "gn:longitude":170.55,
     "iso:country":"NZ",
+    "lbl:bbox":"170.543103,-45.86355,170.553103,-45.85355",
     "lbl:latitude":-45.85855,
     "lbl:longitude":170.548103,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.860323,
     "mps:longitude":170.555909,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Ravensbourne"
-    ],
-    "name:unk_x_variant":[
         "Ravensbourne"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":602,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2183605,
         "gp:id":2350377,
-        "qs:id":222496,
         "qs_pg:id":222496,
         "wd:id":"Q7296492",
         "wk:page":"Ravensbourne, New Zealand"
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859636,
+    "wof:lastmodified":1566672208,
     "wof:name":"Ravensbourne",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

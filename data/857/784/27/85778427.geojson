@@ -12,8 +12,10 @@
     "gn:latitude":-43.49833,
     "gn:longitude":172.64013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.641484,-43.501966,172.651484,-43.491966",
     "lbl:latitude":-43.496966,
     "lbl:longitude":172.646484,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.491709,
     "mps:longitude":172.647796,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Mairehau"
     ],
     "name:fra_x_preferred":[
-        "Mairehau"
-    ],
-    "name:unk_x_variant":[
         "Mairehau"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -69,9 +68,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":128,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":6220360,
         "gp:id":22726431,
-        "qs:id":56237,
         "qs_pg:id":56237,
         "wd:id":"Q6736923",
         "wk:page":"Mairehau"
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282106,
+    "wof:lastmodified":1566672231,
     "wof:name":"Mairehau",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

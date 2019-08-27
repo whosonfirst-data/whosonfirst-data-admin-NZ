@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.232716,
     "lbl:longitude":176.364018,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bay of Plenty Region",
     "meso:gadm_admin":"Rotorua",
     "meso:gadm_hasc2":"NZ.WK.RR",
@@ -24,6 +26,7 @@
     "mps:longitude":176.364018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Rotorua"
     ],
@@ -224,9 +227,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"2,617.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":102079289,
-    "wof:lastmodified":1563281952,
+    "wof:lastmodified":1566672114,
     "wof:name":"Rotorua District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

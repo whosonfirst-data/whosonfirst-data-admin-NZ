@@ -12,8 +12,10 @@
     "gn:latitude":-41.21827,
     "gn:longitude":174.90019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.901259,-41.226185,174.911259,-41.216185",
     "lbl:latitude":-41.221185,
     "lbl:longitude":174.906259,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.218953,
     "mps:longitude":174.907104,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:pol_x_preferred":[
         "Woburn"
     ],
-    "name:unk_x_variant":[
-        "Woburn"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2188164,
@@ -79,9 +78,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":59,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -93,7 +91,6 @@
     "wof:concordances":{
         "gn:id":6244863,
         "gp:id":22726577,
-        "qs:id":967370,
         "qs_pg:id":967370
     },
     "wof:country":"NZ",
@@ -112,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120511,
+    "wof:lastmodified":1566672267,
     "wof:name":"Woburn",
     "wof:parent_id":101914319,
     "wof:placetype":"neighbourhood",

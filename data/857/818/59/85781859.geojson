@@ -12,8 +12,10 @@
     "gn:latitude":-38.65824,
     "gn:longitude":177.99021,
     "iso:country":"NZ",
+    "lbl:bbox":"177.989149,-38.676858,177.999149,-38.666858",
     "lbl:latitude":-38.671858,
     "lbl:longitude":177.994149,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.680656,
     "mps:longitude":177.975803,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Awapuni"
     ],
     "name:nld_x_preferred":[
-        "Awapuni"
-    ],
-    "name:unk_x_variant":[
         "Awapuni"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -62,9 +61,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":54,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687237,
         102191583,
@@ -75,7 +73,6 @@
     "wof:concordances":{
         "gn:id":6240063,
         "gp:id":28644840,
-        "qs:id":1077171,
         "qs_pg:id":1077171,
         "wd:id":"Q4829808",
         "wk:page":"Awapuni, Gisborne"
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282054,
+    "wof:lastmodified":1566672209,
     "wof:name":"Awapuni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

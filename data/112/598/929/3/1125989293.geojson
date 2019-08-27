@@ -9,14 +9,18 @@
     "geom:bbox":"170.15,-44.18333,170.15,-44.18333",
     "geom:latitude":-44.18333,
     "geom:longitude":170.15,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"170.13,-44.20333,170.17,-44.16333",
     "lbl:latitude":-44.18333,
     "lbl:longitude":170.15,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "Laco Pukaki"
@@ -54,9 +58,6 @@
     "name:swe_x_preferred":[
         "Lake Pukaki"
     ],
-    "name:unk_x_variant":[
-        "Pukaki"
-    ],
     "name:zho_x_preferred":[
         "\u666e\u5361\u57fa\u6e56"
     ],
@@ -81,7 +82,7 @@
     "qs_pg:woe_adm0":23424916,
     "qs_pg:woe_id":2349165,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Canterbury",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1125989293,
-    "wof:lastmodified":1564120899,
+    "wof:lastmodified":1566672611,
     "wof:name":"Lake Pukaki",
     "wof:parent_id":102079375,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":-43.46833,
     "gn:longitude":172.61013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.613585,-43.480266,172.623585,-43.470266",
     "lbl:latitude":-43.475266,
     "lbl:longitude":172.618585,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.471267,
     "mps:longitude":172.642515,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Redwood"
     ],
     "name:eng_x_preferred":[
-        "Redwood"
-    ],
-    "name:unk_x_variant":[
         "Redwood"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -63,11 +62,10 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":-43.4766,
     "wd:longitude":172.616961,
     "wd:wordcount":95,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -79,7 +77,6 @@
     "wof:concordances":{
         "gn:id":6220359,
         "gp:id":22726506,
-        "qs:id":320662,
         "qs_pg:id":320662,
         "wd:id":"Q7306469",
         "wk:page":"Redwood, Canterbury"
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282086,
+    "wof:lastmodified":1566672224,
     "wof:name":"Redwood",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

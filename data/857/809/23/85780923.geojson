@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8287242.566147,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.898619,-36.99125,174.898619,-36.99125",
     "geom:latitude":-36.99125,
     "geom:longitude":174.898619,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.893619,-36.99625,174.903619,-36.98625",
     "lbl:latitude":-36.99125,
     "lbl:longitude":174.898619,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.990755,
     "mps:longitude":174.894141,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Goodwood Heights"
-    ],
-    "name:unk_x_variant":[
         "Goodwood Heights"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,20 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":49,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643844,
-        "qs:id":1286445,
         "qs_pg:id":1286445,
         "wd:id":"Q5583711"
     },
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860110,
+    "wof:lastmodified":1566672253,
     "wof:name":"Goodwood Heights",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

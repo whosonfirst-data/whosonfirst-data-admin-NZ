@@ -11,8 +11,10 @@
     "geom:longitude":176.886459,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.881459,-39.498829,176.891459,-39.488829",
     "lbl:latitude":-39.493829,
     "lbl:longitude":176.886459,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.494026,
     "mps:longitude":176.877187,
     "mz:hierarchy_label":0,
@@ -222,9 +224,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0434\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Pandora"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0646\u0688\u0648\u0631\u0627"
     ],
@@ -263,9 +262,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":6245,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687189,
         102191583,
@@ -275,7 +273,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644287,
-        "qs:id":410841,
         "qs_pg:id":410841,
         "wd:id":"Q131346"
     },
@@ -295,7 +292,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282147,
+    "wof:lastmodified":1566672247,
     "wof:name":"Pandora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

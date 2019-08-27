@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.288535,
     "lbl:longitude":168.097643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-46.288533,
     "mps:longitude":168.097651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thornbury"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":122,
     "wof:belongsto":[
         102191583,
@@ -64,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775494,
+    "wof:lastmodified":1566672461,
     "wof:name":"Thornbury",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

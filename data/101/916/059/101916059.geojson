@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.739547,
     "lbl:longitude":168.445492,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-45.739548,
     "mps:longitude":168.445497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lumsden"
     ],
@@ -50,9 +53,6 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u043c\u0441\u0434\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Lumsden Town District"
-    ],
     "name:zho_x_preferred":[
         "\u62c9\u59c6\u65af\u767b"
     ],
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":360,
     "wof:belongsto":[
@@ -84,7 +84,6 @@
         "fct:id":"020dd55a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2188128,
         "gp:id":2349251,
-        "qs:id":923915,
         "qs_pg:id":923915,
         "wd:id":"Q1877305",
         "wk:page":"Lumsden, New Zealand"
@@ -101,7 +100,7 @@
         }
     ],
     "wof:id":101916059,
-    "wof:lastmodified":1563282557,
+    "wof:lastmodified":1566672486,
     "wof:name":"Lumsden",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

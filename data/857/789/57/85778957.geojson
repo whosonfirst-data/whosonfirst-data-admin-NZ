@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1539198.063887,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.733319,-36.823606,174.733319,-36.823606",
     "geom:latitude":-36.823606,
     "geom:longitude":174.733319,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.728319,-36.828606,174.738319,-36.818606",
     "lbl:latitude":-36.823606,
     "lbl:longitude":174.733319,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.824499,
     "mps:longitude":174.732257,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Birkenhead South"
-    ],
-    "name:unk_x_variant":[
         "Birkenhead South"
     ],
     "qs:gn_id":0,
@@ -56,8 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -66,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726658,
-        "qs:id":230483,
         "qs_pg:id":230483
     },
     "wof:country":"NZ",
@@ -84,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859875,
+    "wof:lastmodified":1566672267,
     "wof:name":"Birkenhead South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

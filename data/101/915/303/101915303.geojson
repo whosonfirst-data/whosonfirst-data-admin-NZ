@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.941476,
     "lbl:longitude":168.832857,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-44.941475,
     "mps:longitude":168.832856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Arrowtown"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":361,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"020de4c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6206253,
         "gp:id":2348056,
-        "qs:id":970234,
         "qs_pg:id":970234,
         "wd:id":"Q703016",
         "wk:page":"Arrowtown"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282392,
+    "wof:lastmodified":1566672400,
     "wof:name":"Arrowtown",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

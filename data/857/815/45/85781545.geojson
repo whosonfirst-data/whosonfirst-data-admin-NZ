@@ -11,8 +11,10 @@
     "geom:longitude":173.294724,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"173.289724,-41.27312,173.299724,-41.26312",
     "lbl:latitude":-41.26812,
     "lbl:longitude":173.294724,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.275708,
     "mps:longitude":173.313168,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "The Wood"
     ],
     "name:spa_x_preferred":[
-        "The Wood"
-    ],
-    "name:unk_x_variant":[
         "The Wood"
     ],
     "name:zho_x_preferred":[
@@ -73,9 +72,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1161,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687157,
         102191583,
@@ -86,7 +84,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644486,
-        "qs:id":1197235,
         "qs_pg:id":1197235,
         "wd:id":"Q7775708"
     },
@@ -106,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282136,
+    "wof:lastmodified":1566672243,
     "wof:name":"The Wood",
     "wof:parent_id":101915555,
     "wof:placetype":"neighbourhood",

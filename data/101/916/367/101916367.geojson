@@ -5,24 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
-    "geom:area_square_m":107157.889064,
+    "geom:area_square_m":107157.889065,
     "geom:bbox":"175.316357812,-38.8940908279,175.331180918,-38.8852119018",
     "geom:latitude":-38.887762,
     "geom:longitude":175.322512,
     "iso:country":"NZ",
     "lbl:latitude":-38.887428,
     "lbl:longitude":175.322939,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.886831,
     "mps:longitude":175.319867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manunui"
     ],
     "name:eng_x_variant":[
-        "Manunui Town District"
-    ],
-    "name:unk_x_variant":[
         "Manunui Town District"
     ],
     "qs:a0":"New Zealand",
@@ -39,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":292,
     "wof:belongsto":[
         102191583,
@@ -52,7 +52,6 @@
         "fct:id":"020c44ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2187401,
         "gp:id":2349389,
-        "qs:id":40886,
         "qs_pg:id":40886,
         "wd:id":"Q6753166",
         "wk:page":"Manunui"
@@ -72,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715562,
+    "wof:lastmodified":1566672478,
     "wof:name":"Manunui",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

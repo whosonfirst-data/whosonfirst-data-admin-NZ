@@ -11,8 +11,10 @@
     "geom:longitude":175.338135,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.333135,-37.777161,175.343135,-37.767161",
     "lbl:latitude":-37.772161,
     "lbl:longitude":175.338135,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.770492,
     "mps:longitude":175.337019,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:swe_x_preferred":[
         "Silverdale"
     ],
-    "name:unk_x_variant":[
-        "Silverdale"
-    ],
     "name:vol_x_preferred":[
         "Silverdale"
     ],
@@ -88,9 +87,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":62,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687229,
         102191583,
@@ -100,7 +98,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644046,
-        "qs:id":1286500,
         "qs_pg:id":1286500
     },
     "wof:country":"NZ",
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120425,
+    "wof:lastmodified":1566672215,
     "wof:name":"Silverdale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

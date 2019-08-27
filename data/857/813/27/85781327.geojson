@@ -11,8 +11,10 @@
     "geom:longitude":176.191274,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.186274,-37.720176,176.196274,-37.710176",
     "lbl:latitude":-37.715176,
     "lbl:longitude":176.191274,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.710682,
     "mps:longitude":176.190596,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Maungatapu"
     ],
     "name:eng_x_preferred":[
-        "Maungatapu"
-    ],
-    "name:unk_x_variant":[
         "Maungatapu"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,9 +60,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":149,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85633345,
@@ -72,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644259,
-        "qs:id":974041,
         "qs_pg:id":974041
     },
     "wof:country":"NZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120480,
+    "wof:lastmodified":1566672248,
     "wof:name":"Maungatapu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

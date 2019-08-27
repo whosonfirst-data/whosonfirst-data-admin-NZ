@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.33802,
     "lbl:longitude":174.78718,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.346219,
     "mps:longitude":174.791678,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
         "Houghton Bay"
     ],
     "name:eng_x_preferred":[
-        "Houghton Bay"
-    ],
-    "name:unk_x_variant":[
         "Houghton Bay"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -63,9 +61,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":372,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -77,7 +74,6 @@
     "wof:concordances":{
         "gn:id":6244608,
         "gp:id":22726406,
-        "qs:id":1191507,
         "qs_pg:id":1191507
     },
     "wof:country":"NZ",
@@ -96,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120446,
+    "wof:lastmodified":1566672230,
     "wof:name":"Houghton Bay",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

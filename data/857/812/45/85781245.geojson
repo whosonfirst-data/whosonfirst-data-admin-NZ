@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2573252.593383,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.268219,-37.779626,175.268219,-37.779626",
     "geom:latitude":-37.779626,
     "geom:longitude":175.268219,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.263219,-37.784626,175.273219,-37.774626",
     "lbl:latitude":-37.779626,
     "lbl:longitude":175.268219,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.7738,
     "mps:longitude":175.269419,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Whitiora"
     ],
     "name:msa_x_preferred":[
-        "Whitiora"
-    ],
-    "name:unk_x_variant":[
         "Whitiora"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,19 +59,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":84,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644181,
-        "qs:id":481169,
+        "qs_pg:id":481169,
         "wd:id":"Q5233736"
     },
     "wof:country":"NZ",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860169,
+    "wof:lastmodified":1566672241,
     "wof:name":"Whitiora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

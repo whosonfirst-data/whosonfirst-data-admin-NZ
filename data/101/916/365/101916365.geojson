@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.171978,
     "lbl:longitude":175.395426,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.171977,
     "mps:longitude":175.395437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "National Park"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":574,
     "wof:belongsto":[
         102191583,
@@ -58,7 +61,6 @@
         "fct:id":"020dd2c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2186302,
         "gp:id":2349665,
-        "qs:id":1034321,
         "qs_pg:id":1034321,
         "wd:id":"Q1318354",
         "wk:page":"National Park, New Zealand"
@@ -78,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282518,
+    "wof:lastmodified":1566672461,
     "wof:name":"National Park",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

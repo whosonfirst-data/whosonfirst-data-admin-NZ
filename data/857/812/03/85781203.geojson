@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1261547.491464,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.235016,-38.135303,176.235016,-38.135303",
     "geom:latitude":-38.135303,
     "geom:longitude":176.235016,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":-38.1436,
     "gn:longitude":176.23092,
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"176.230016,-38.140303,176.240016,-38.130303",
     "lbl:latitude":-38.135303,
     "lbl:longitude":176.235016,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.135637,
     "mps:longitude":176.229086,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Utuhina"
-    ],
-    "name:unk_x_variant":[
         "Utuhina"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -82,8 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687175,
         102191583,
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":6241329,
         "gp:id":28644133,
-        "qs:id":357020,
         "qs_pg:id":357020
     },
     "wof:country":"NZ",
@@ -113,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379390,
+    "wof:lastmodified":1566672240,
     "wof:name":"Utuhina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

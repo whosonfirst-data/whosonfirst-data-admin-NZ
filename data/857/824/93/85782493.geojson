@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3508153.948668,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.657865,-45.033015,168.657865,-45.033015",
     "geom:latitude":-45.033015,
     "geom:longitude":168.657865,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"168.652865,-45.038015,168.662865,-45.028015",
     "lbl:latitude":-45.033015,
     "lbl:longitude":168.657865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.037752,
     "mps:longitude":168.660013,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Queenstown Central"
-    ],
-    "name:unk_x_variant":[
         "Queenstown Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,18 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        102079385,
-        85687201
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676765,
-        "qs:id":375364
+        "qs_pg:id":375364
     },
     "wof:country":"NZ",
     "wof:geomhash":"33df39613886affbe6d5f654e89651bb",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860383,
+    "wof:lastmodified":1566672237,
     "wof:name":"Queenstown Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7373670.824982,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.710752,-36.816804,174.710752,-36.816804",
     "geom:latitude":-36.816804,
     "geom:longitude":174.710752,
     "gn:latitude":-36.8082,
     "gn:longitude":174.71019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.705752,-36.821804,174.715752,-36.811804",
     "lbl:latitude":-36.816804,
     "lbl:longitude":174.710752,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.828582,
     "mps:longitude":174.706495,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Chatswood"
-    ],
-    "name:unk_x_variant":[
         "Chatswood"
     ],
     "qs:gn_fcode":"PPLX",
@@ -58,20 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232144,
         "gp:id":28644754,
-        "qs:id":237064,
         "qs_pg:id":237064
     },
     "wof:country":"NZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860260,
+    "wof:lastmodified":1566672222,
     "wof:name":"Chatswood",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

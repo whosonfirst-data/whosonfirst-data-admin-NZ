@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.251394,
     "lbl:longitude":172.128673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.251452,
     "mps:longitude":172.128724,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "croes farchnad"
     ],
@@ -64,7 +67,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":350,
     "wof:belongsto":[
         102191583,
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282576,
+    "wof:lastmodified":1566672514,
     "wof:name":"Market Cross",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

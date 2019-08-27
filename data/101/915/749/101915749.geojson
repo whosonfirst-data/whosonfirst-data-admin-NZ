@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.016556,
     "lbl:longitude":168.729507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-45.016555,
     "mps:longitude":168.729507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Frankton"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:nld_x_preferred":[
         "Frankton"
-    ],
-    "name:unk_x_variant":[
-        "Frankton Wharf"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u862d\u514b\u9813"
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101915749,
-    "wof:lastmodified":1561775467,
+    "wof:lastmodified":1566672395,
     "wof:name":"Frankton",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

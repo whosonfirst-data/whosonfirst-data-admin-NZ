@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.285983,
     "lbl:longitude":176.254767,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bay of Plenty Region",
     "meso:gadm_admin":"Western Bay of Plenty",
     "meso:gadm_hasc2":"NZ.BP.WB",
@@ -24,6 +26,7 @@
     "mps:longitude":176.254767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Western Bay of Plenty"
     ],
@@ -35,7 +38,7 @@
     "qs:level":"adm2",
     "qs:source":"New Zealand LINZ",
     "src:geom":"mz",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108564573,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1566672364,
     "wof:name":"Area Outside Territorial Authority",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

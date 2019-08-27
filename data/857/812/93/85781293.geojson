@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4090820.832416,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.899599,-36.934079,174.899599,-36.934079",
     "geom:latitude":-36.934079,
     "geom:longitude":174.899599,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.894599,-36.939079,174.904599,-36.929079",
     "lbl:latitude":-36.934079,
     "lbl:longitude":174.899599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.934668,
     "mps:longitude":174.886313,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Greenmount"
     ],
     "name:swe_x_preferred":[
-        "Greenmount"
-    ],
-    "name:unk_x_variant":[
         "Greenmount"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -67,19 +66,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":108,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644233,
-        "qs:id":1286547,
         "qs_pg:id":1286547
     },
     "wof:country":"NZ",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860184,
+    "wof:lastmodified":1566672240,
     "wof:name":"Greenmount",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

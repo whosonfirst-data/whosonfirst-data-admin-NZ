@@ -10,8 +10,10 @@
     "geom:latitude":-36.823349,
     "geom:longitude":174.807014,
     "iso:country":"NZ",
+    "lbl:bbox":"174.802014,-36.828349,174.812014,-36.818349",
     "lbl:latitude":-36.823349,
     "lbl:longitude":174.807014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.823577,
     "mps:longitude":174.804832,
     "mz:hierarchy_label":0,
@@ -147,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043b\u0442\u043d\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "Cheltenham"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0644\u0679\u06cc\u0646\u06c1\u06cc\u0645"
     ],
@@ -186,8 +185,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -215,7 +213,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120444,
+    "wof:lastmodified":1566672228,
     "wof:name":"Cheltenham",
     "wof:parent_id":101914729,
     "wof:placetype":"neighbourhood",

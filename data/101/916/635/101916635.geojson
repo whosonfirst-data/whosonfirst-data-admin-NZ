@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
-    "geom:area_square_m":212473.304887,
+    "geom:area_square_m":212473.30489,
     "geom:bbox":"175.973826296,-37.4610017526,175.982030193,-37.4526671675",
     "geom:latitude":-37.456389,
     "geom:longitude":175.977877,
     "iso:country":"NZ",
     "lbl:latitude":-37.45608,
     "lbl:longitude":175.978215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.456089,
     "mps:longitude":175.978223,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pios Beach"
     ],
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101916635,
-    "wof:lastmodified":1497297374,
+    "wof:lastmodified":1566672470,
     "wof:name":"Pios Beach",
     "wof:parent_id":102079283,
     "wof:placetype":"locality",

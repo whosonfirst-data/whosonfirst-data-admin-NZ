@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3680461.603673,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.363831,-46.387865,168.363831,-46.387865",
     "geom:latitude":-46.387865,
     "geom:longitude":168.363831,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"168.358831,-46.392865,168.368831,-46.382865",
     "lbl:latitude":-46.387865,
     "lbl:longitude":168.363831,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.38375,
     "mps:longitude":168.360573,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Invercargill North"
-    ],
-    "name:unk_x_variant":[
         "Invercargill North"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -56,19 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687211,
         102191583,
         85633345,
         101915515,
-        102079397,
-        85687211
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726640,
-        "qs:id":990020,
         "qs_pg:id":990020
     },
     "wof:country":"NZ",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859861,
+    "wof:lastmodified":1566672268,
     "wof:name":"Invercargill North",
     "wof:parent_id":101915515,
     "wof:placetype":"neighbourhood",

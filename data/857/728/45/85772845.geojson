@@ -12,8 +12,10 @@
     "gn:latitude":-43.52833,
     "gn:longitude":172.68013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.679931,-43.535979,172.689931,-43.525979",
     "lbl:latitude":-43.530979,
     "lbl:longitude":172.684931,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.533615,
     "mps:longitude":172.692524,
     "mz:hierarchy_label":0,
@@ -73,9 +75,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u043e\u043c\u043b\u0456"
     ],
-    "name:unk_x_variant":[
-        "Bromley"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u0645\u0644\u06cc"
     ],
@@ -114,8 +113,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687179,
         102191583,
@@ -127,7 +125,6 @@
     "wof:concordances":{
         "gn:id":6220370,
         "gp:id":2348225,
-        "qs:id":891342,
         "qs_pg:id":891342
     },
     "wof:country":"NZ",
@@ -146,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120505,
+    "wof:lastmodified":1566672264,
     "wof:name":"Bromley",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

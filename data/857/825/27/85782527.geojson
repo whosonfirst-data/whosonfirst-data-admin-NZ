@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8147438.594096,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.049959,-39.93097,175.049959,-39.93097",
     "geom:latitude":-39.93097,
     "geom:longitude":175.049959,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.044959,-39.93597,175.054959,-39.92597",
     "lbl:latitude":-39.93097,
     "lbl:longitude":175.049959,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.931427,
     "mps:longitude":175.047597,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Wanganui Central"
-    ],
-    "name:unk_x_variant":[
         "Wanganui Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,18 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        102079299,
-        85687251
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676778,
-        "qs:id":225063
+        "qs_pg:id":225063
     },
     "wof:country":"NZ",
     "wof:geomhash":"2f0e0f585cfb78a448ee30006cc69910",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860391,
+    "wof:lastmodified":1566672249,
     "wof:name":"Wanganui Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

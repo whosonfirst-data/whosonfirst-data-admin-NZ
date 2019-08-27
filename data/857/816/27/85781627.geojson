@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1175844.143721,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.24115,-44.376877,171.24115,-44.376877",
     "geom:latitude":-44.376877,
     "geom:longitude":171.24115,
     "gn:latitude":-44.37866,
     "gn:longitude":171.24008,
     "iso:country":"NZ",
+    "lbl:bbox":"171.23615,-44.381877,171.24615,-44.371877",
     "lbl:latitude":-44.376877,
     "lbl:longitude":171.24115,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-44.372859,
     "mps:longitude":171.24115,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Waimataitai"
-    ],
-    "name:unk_x_variant":[
         "Waimataitai"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101915527,
-        102079373,
-        85687179
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6214599,
         "gp:id":28644542,
-        "qs:id":55382,
         "qs_pg:id":55382
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860242,
+    "wof:lastmodified":1566672213,
     "wof:name":"Waimataitai",
     "wof:parent_id":101915527,
     "wof:placetype":"neighbourhood",

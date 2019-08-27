@@ -11,8 +11,10 @@
     "geom:longitude":175.099348,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.094348,-41.10207,175.104348,-41.09207",
     "lbl:latitude":-41.09707,
     "lbl:longitude":175.099348,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.109412,
     "mps:longitude":175.096805,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Emerald Hill"
     ],
     "name:swe_x_preferred":[
-        "Emerald Hill"
-    ],
-    "name:unk_x_variant":[
         "Emerald Hill"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -70,9 +69,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":81,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -82,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644774,
-        "qs:id":242004
+        "qs_pg:id":242004
     },
     "wof:country":"NZ",
     "wof:geomhash":"991015a078ae1a34a78ccb0cfbb9f70a",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120435,
+    "wof:lastmodified":1566672221,
     "wof:name":"Emerald Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

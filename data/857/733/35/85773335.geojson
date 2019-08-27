@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12878222.648172,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.624054,-36.790179,174.624054,-36.790179",
     "geom:latitude":-36.790179,
     "geom:longitude":174.624054,
     "iso:country":"NZ",
+    "lbl:bbox":"174.619054,-36.795179,174.629054,-36.785179",
     "lbl:latitude":-36.790179,
     "lbl:longitude":174.624054,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.78906,
     "mps:longitude":174.620684,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Whenuapai"
-    ],
-    "name:unk_x_variant":[
         "Whenuapai"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,14 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914869,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859662,
+    "wof:lastmodified":1566672233,
     "wof:name":"Whenuapai",
     "wof:parent_id":101914869,
     "wof:placetype":"neighbourhood",

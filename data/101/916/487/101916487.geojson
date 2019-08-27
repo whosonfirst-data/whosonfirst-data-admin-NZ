@@ -12,9 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.172199,
     "lbl:longitude":172.779015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-43.172192,
     "mps:longitude":172.77902,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Amberley Beach"
     ],
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101916487,
-    "wof:lastmodified":1497295061,
+    "wof:lastmodified":1566672483,
     "wof:name":"Amberley Beach",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

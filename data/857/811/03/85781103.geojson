@@ -10,8 +10,10 @@
     "geom:latitude":-35.727324,
     "geom:longitude":174.335009,
     "iso:country":"NZ",
+    "lbl:bbox":"174.330009,-35.732324,174.340009,-35.722324",
     "lbl:latitude":-35.727324,
     "lbl:longitude":174.335009,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.731667,
     "mps:longitude":174.341869,
     "mz:hierarchy_label":0,
@@ -95,9 +97,6 @@
     "name:tur_x_preferred":[
         "Riverside"
     ],
-    "name:unk_x_variant":[
-        "Riverside"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0631\u0633\u0627\u0626\u06cc\u0688"
     ],
@@ -135,8 +134,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687149,
         102191583,
@@ -164,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120425,
+    "wof:lastmodified":1566672214,
     "wof:name":"Riverside",
     "wof:parent_id":101914253,
     "wof:placetype":"neighbourhood",

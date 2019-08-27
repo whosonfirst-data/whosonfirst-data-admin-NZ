@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":584801.165198,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.515589,-45.854532,170.515589,-45.854532",
     "geom:latitude":-45.854532,
     "geom:longitude":170.515589,
     "gn:latitude":-45.84838,
     "gn:longitude":170.5101,
     "iso:country":"NZ",
+    "lbl:bbox":"170.510589,-45.859532,170.520589,-45.849532",
     "lbl:latitude":-45.854532,
     "lbl:longitude":170.515589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.85361,
     "mps:longitude":170.514074,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Dalmore"
-    ],
-    "name:unk_x_variant":[
         "Dalmore"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":69,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6212262,
         "gp:id":22726359,
-        "qs:id":56215,
         "qs_pg:id":56215
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859764,
+    "wof:lastmodified":1566672228,
     "wof:name":"Dalmore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

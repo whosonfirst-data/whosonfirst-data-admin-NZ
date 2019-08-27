@@ -10,8 +10,10 @@
     "geom:latitude":-36.809748,
     "geom:longitude":174.791344,
     "iso:country":"NZ",
+    "lbl:bbox":"174.786344,-36.814748,174.796344,-36.804748",
     "lbl:latitude":-36.809748,
     "lbl:longitude":174.791344,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.791524,
     "mps:longitude":174.810756,
     "mz:hierarchy_label":0,
@@ -123,9 +125,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u043c\u043e\u043d\u0442"
     ],
-    "name:unk_x_variant":[
-        "Belmont"
-    ],
     "name:vol_x_preferred":[
         "Belmont"
     ],
@@ -153,8 +152,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -182,7 +180,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120498,
+    "wof:lastmodified":1566672259,
     "wof:name":"Belmont",
     "wof:parent_id":101915597,
     "wof:placetype":"neighbourhood",

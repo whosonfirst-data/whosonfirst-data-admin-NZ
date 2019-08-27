@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
-    "geom:area_square_m":154066.356942,
+    "geom:area_square_m":154066.35694,
     "geom:bbox":"173.70716913,-34.9967244293,173.714516514,-34.9898380004",
     "geom:latitude":-34.994378,
     "geom:longitude":173.710323,
     "iso:country":"NZ",
     "lbl:latitude":-34.994994,
     "lbl:longitude":173.71027,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.994998,
     "mps:longitude":173.710277,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taupo Bay"
     ],
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101916879,
-    "wof:lastmodified":1497294085,
+    "wof:lastmodified":1566672481,
     "wof:name":"Taupo Bay",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

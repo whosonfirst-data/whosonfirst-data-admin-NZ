@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.977771,
     "lbl:longitude":177.083683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.965,
     "mps:longitude":177.036523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ohope Beach"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101914825,
-    "wof:lastmodified":1563282493,
+    "wof:lastmodified":1566672449,
     "wof:name":"Ohope",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

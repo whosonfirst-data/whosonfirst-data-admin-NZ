@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.389884,
     "lbl:longitude":177.920547,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gisborne Region",
     "meso:gadm_admin":"Gisborne",
     "meso:gadm_hasc2":"NZ.GI.GB",
@@ -24,6 +26,7 @@
     "mps:longitude":177.920547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062c\u064a\u0633\u0628\u0648\u0631\u0646"
     ],
@@ -176,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"8,351.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":102079325,
-    "wof:lastmodified":1563281974,
+    "wof:lastmodified":1566672139,
     "wof:name":"Gisborne District",
     "wof:parent_id":85687237,
     "wof:placetype":"county",

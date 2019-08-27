@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.38392,
     "lbl:longitude":169.780396,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":-46.383919,
     "mps:longitude":169.780392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kaka Point"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
     "wof:belongsto":[
@@ -63,7 +66,6 @@
         "fct:id":"020d26e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2189130,
         "gp:id":2348962,
-        "qs:id":906287,
         "qs_pg:id":906287,
         "wd:id":"Q1721860",
         "wk:page":"Kaka Point"
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282534,
+    "wof:lastmodified":1566672471,
     "wof:name":"Kaka Point",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

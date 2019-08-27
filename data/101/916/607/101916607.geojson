@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.822335,
     "lbl:longitude":176.412982,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-37.822335,
     "mps:longitude":176.41298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0435\u043d\u0433\u0430\u0440\u043e\u0430"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":201,
     "wof:belongsto":[
@@ -57,7 +60,6 @@
         "fct:id":"020de39c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2185128,
         "gp:id":2349989,
-        "qs:id":971071,
         "qs_pg:id":971071,
         "wd:id":"Q15265034",
         "wk:page":"Paengaroa"
@@ -77,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282559,
+    "wof:lastmodified":1566672488,
     "wof:name":"Paengaroa",
     "wof:parent_id":102079283,
     "wof:placetype":"locality",

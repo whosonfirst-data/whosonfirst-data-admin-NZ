@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3684078.534255,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.802252,-36.816281,174.802252,-36.816281",
     "geom:latitude":-36.816281,
     "geom:longitude":174.802252,
     "gn:latitude":-36.8182,
     "gn:longitude":174.80019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.797252,-36.821281,174.807252,-36.811281",
     "lbl:latitude":-36.816281,
     "lbl:longitude":174.802252,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.808769,
     "mps:longitude":174.813775,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Vauxhall"
-    ],
-    "name:unk_x_variant":[
         "Vauxhall"
     ],
     "qs:gn_fcode":"PPLX",
@@ -58,21 +57,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":252,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914729,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232159,
         "gp:id":28644222,
-        "qs:id":1086327,
         "qs_pg:id":1086327,
         "wd:id":"Q7917451",
         "wk:page":"Vauxhall, Auckland"
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860176,
+    "wof:lastmodified":1566672242,
     "wof:name":"Vauxhall",
     "wof:parent_id":101914729,
     "wof:placetype":"neighbourhood",

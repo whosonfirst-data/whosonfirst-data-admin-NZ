@@ -11,8 +11,10 @@
     "geom:longitude":175.132106,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.127106,-41.099885,175.137106,-41.089885",
     "lbl:latitude":-41.094885,
     "lbl:longitude":175.132106,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.084217,
     "mps:longitude":175.15266,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u06cc \u0645\u0627\u0631\u0648\u0627"
-    ],
-    "name:unk_x_variant":[
-        "Te Marua"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -62,8 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687233,
         102191583,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726550,
-        "qs:id":1154433,
         "qs_pg:id":1154433
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120503,
+    "wof:lastmodified":1566672262,
     "wof:name":"Te Marua",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

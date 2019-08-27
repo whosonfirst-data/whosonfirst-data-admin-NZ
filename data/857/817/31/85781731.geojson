@@ -12,8 +12,10 @@
     "gn:latitude":-36.90596,
     "gn:longitude":174.91788,
     "iso:country":"NZ",
+    "lbl:bbox":"174.913719,-36.915504,174.923719,-36.905504",
     "lbl:latitude":-36.910504,
     "lbl:longitude":174.918719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.91237,
     "mps:longitude":174.916593,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Botany Downs"
-    ],
-    "name:unk_x_variant":[
-        "Botany Downs South"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -69,9 +68,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":289,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":6232075,
         "gp:id":28644760,
-        "qs:id":1048322,
         "qs_pg:id":1048322,
         "wd:id":"Q894673",
         "wk:page":"Botany Downs"
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282083,
+    "wof:lastmodified":1566672222,
     "wof:name":"Botany Downs",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

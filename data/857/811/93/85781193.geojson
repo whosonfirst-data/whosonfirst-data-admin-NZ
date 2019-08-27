@@ -11,8 +11,10 @@
     "geom:longitude":174.898737,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.893737,-37.002532,174.903737,-36.992532",
     "lbl:latitude":-36.997532,
     "lbl:longitude":174.898737,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.009192,
     "mps:longitude":174.910477,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
         "Totara Heights"
     ],
     "name:swe_x_preferred":[
-        "Totara Heights"
-    ],
-    "name:unk_x_variant":[
         "Totara Heights"
     ],
     "name:vol_x_preferred":[
@@ -76,9 +75,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":56,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -89,7 +87,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644123,
-        "qs:id":1154881,
         "qs_pg:id":1154881,
         "wd:id":"Q7828268"
     },
@@ -109,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282068,
+    "wof:lastmodified":1566672215,
     "wof:name":"Totara Heights",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8401823.484247,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.893509,-37.045348,174.893509,-37.045348",
     "geom:latitude":-37.045348,
     "geom:longitude":174.893509,
     "gn:latitude":-37.0382,
     "gn:longitude":174.89019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.888509,-37.050348,174.898509,-37.040348",
     "lbl:latitude":-37.045348,
     "lbl:longitude":174.893509,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.055026,
     "mps:longitude":174.881426,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Wattle Downs"
-    ],
-    "name:unk_x_variant":[
         "Wattle Downs"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,21 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":333,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914625,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6231957,
         "gp:id":28644311,
-        "qs:id":357077,
         "qs_pg:id":357077,
         "wd:id":"Q7974975",
         "wk:page":"Wattle Downs"
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860201,
+    "wof:lastmodified":1566672248,
     "wof:name":"Wattle Downs",
     "wof:parent_id":101914625,
     "wof:placetype":"neighbourhood",

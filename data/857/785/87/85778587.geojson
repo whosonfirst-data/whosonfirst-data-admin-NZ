@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3244304.519838,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.544898,-43.519796,172.544898,-43.519796",
     "geom:latitude":-43.519796,
     "geom:longitude":172.544898,
     "gn:latitude":-43.51833,
     "gn:longitude":172.53013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.539898,-43.524796,172.549898,-43.514796",
     "lbl:latitude":-43.519796,
     "lbl:longitude":172.544898,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.517467,
     "mps:longitude":172.540364,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Russley"
-    ],
-    "name:unk_x_variant":[
         "Russley"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220344,
         "gp:id":22726519,
-        "qs:id":56272,
         "qs_pg:id":56272
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859811,
+    "wof:lastmodified":1566672225,
     "wof:name":"Russley",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

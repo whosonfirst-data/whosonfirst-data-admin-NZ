@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5852504.450967,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.606008,-36.885453,174.606008,-36.885453",
     "geom:latitude":-36.885453,
     "geom:longitude":174.606008,
     "gn:latitude":-36.8782,
     "gn:longitude":174.61019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.601008,-36.890453,174.611008,-36.880453",
     "lbl:latitude":-36.885453,
     "lbl:longitude":174.606008,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.879745,
     "mps:longitude":174.611006,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Western Heights"
-    ],
-    "name:unk_x_variant":[
         "Western Heights"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":146,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232339,
         "gp:id":28644165,
-        "qs:id":357032,
         "qs_pg:id":357032,
         "wd:id":"Q7987895",
         "wk:page":"Western Heights, Auckland"
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860167,
+    "wof:lastmodified":1566672240,
     "wof:name":"Western Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1774651.219999,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.491995,-45.86553,170.491995,-45.86553",
     "geom:latitude":-45.86553,
     "geom:longitude":170.491995,
     "gn:latitude":-45.86667,
     "gn:longitude":170.48333,
     "iso:country":"NZ",
+    "lbl:bbox":"170.486995,-45.87053,170.496995,-45.86053",
     "lbl:latitude":-45.86553,
     "lbl:longitude":170.491995,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.86228,
     "mps:longitude":170.490347,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Roslyn"
-    ],
-    "name:unk_x_variant":[
         "Roslyn"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
         101914269,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2183288,
         "gp:id":2350445,
-        "qs:id":1315440,
         "qs_pg:id":1315440,
         "wd:id":"Q7369040",
         "wk:page":"Roslyn, Otago"
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859637,
+    "wof:lastmodified":1566672208,
     "wof:name":"Roslyn",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

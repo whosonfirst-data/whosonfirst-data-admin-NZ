@@ -12,14 +12,17 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.097202,
     "lbl:longitude":170.934602,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-45.097201,
     "mps:longitude":170.934602,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waiareka Junction"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Waioreka Junction"
     ],
     "qs:a0":"New Zealand",
@@ -34,7 +37,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":2180456,
         "gp:id":2351063,
-        "qs:id":45043
+        "qs_pg:id":45043
     },
     "wof:country":"NZ",
     "wof:geomhash":"883c78eecbab4fd9775353238a5e0dc2",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101914571,
-    "wof:lastmodified":1512075667,
+    "wof:lastmodified":1566672455,
     "wof:name":"Waiareka Junction",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

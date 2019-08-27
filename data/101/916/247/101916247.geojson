@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.63885,
     "lbl:longitude":172.487866,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-43.641132,
     "mps:longitude":172.482545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lincoln"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":727,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"020de766-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2188371,
         "gp:id":2349197,
-        "qs:id":923894,
         "qs_pg:id":923894,
         "wd:id":"Q1186226",
         "wk:page":"Lincoln, New Zealand"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101916247,
-    "wof:lastmodified":1563282551,
+    "wof:lastmodified":1566672483,
     "wof:name":"Lincoln",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

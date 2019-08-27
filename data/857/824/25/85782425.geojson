@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13210295.764962,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.661155,-43.384842,172.661155,-43.384842",
     "geom:latitude":-43.384842,
     "geom:longitude":172.661155,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"172.656155,-43.389842,172.666155,-43.379842",
     "lbl:latitude":-43.384842,
     "lbl:longitude":172.661155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.383115,
     "mps:longitude":172.655565,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kaiapoi Central"
-    ],
-    "name:unk_x_variant":[
         "Kaiapoi Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079367,
-        85687179
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676739,
-        "qs:id":227752,
         "qs_pg:id":227752
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860362,
+    "wof:lastmodified":1566672240,
     "wof:name":"Kaiapoi Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

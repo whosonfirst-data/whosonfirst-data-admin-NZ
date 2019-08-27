@@ -10,8 +10,10 @@
     "geom:latitude":-43.519424,
     "geom:longitude":172.603643,
     "iso:country":"NZ",
+    "lbl:bbox":"172.598643,-43.524424,172.608643,-43.514424",
     "lbl:latitude":-43.519424,
     "lbl:longitude":172.603643,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.51868,
     "mps:longitude":172.598818,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Fendalton"
     ],
     "name:eng_x_preferred":[
-        "Fendalton"
-    ],
-    "name:unk_x_variant":[
         "Fendalton"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -64,9 +63,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":325,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -78,7 +76,6 @@
     "wof:concordances":{
         "gn:id":6220353,
         "gp:id":2348521,
-        "qs:id":275826,
         "qs_pg:id":275826,
         "wd:id":"Q5443217"
     },
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282197,
+    "wof:lastmodified":1566672270,
     "wof:name":"Fendalton",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

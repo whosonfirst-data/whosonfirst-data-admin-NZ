@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000525,
-    "geom:area_square_m":4875654.375958,
+    "geom:area_square_m":4875654.375947,
     "geom:bbox":"174.765014648,-41.3600103189,174.786987305,-41.3252637276",
     "geom:latitude":-41.342229,
     "geom:longitude":174.775191,
@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.337886,
     "lbl:longitude":174.772202,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.337612,
     "mps:longitude":174.773206,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Island Bay"
-    ],
-    "name:unk_x_variant":[
         "Island Bay"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,9 +58,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1982,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -74,7 +71,6 @@
     "wof:concordances":{
         "gn:id":6244598,
         "gp:id":2348890,
-        "qs:id":242059,
         "qs_pg:id":242059,
         "wd:id":"Q6082996",
         "wk:page":"Island Bay, New Zealand"
@@ -95,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639422,
+    "wof:lastmodified":1566672271,
     "wof:name":"Island Bay",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",
