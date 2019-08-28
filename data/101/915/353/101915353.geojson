@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
-    "geom:area_square_m":160268.227718,
+    "geom:area_square_m":160268.227716,
     "geom:bbox":"175.054540496,-36.8197003431,175.063214493,-36.8120043723",
     "geom:latitude":-36.817061,
     "geom:longitude":175.058296,
     "iso:country":"NZ",
     "lbl:latitude":-36.816444,
     "lbl:longitude":175.056776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.816433,
     "mps:longitude":175.056786,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Omiha"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -41,10 +45,10 @@
     "wof:concordances":{
         "gn:id":2185627,
         "gp:id":28644212,
-        "qs:id":224102
+        "qs_pg:id":224102
     },
     "wof:country":"NZ",
-    "wof:geomhash":"25f013f3e8ad9197b24ee76fe1f0b810",
+    "wof:geomhash":"678182ed5cfa1f2b3f11f1294c8ac695",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101915353,
-    "wof:lastmodified":1487208201,
+    "wof:lastmodified":1566672382,
     "wof:name":"Omiha",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

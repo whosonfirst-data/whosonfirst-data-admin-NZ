@@ -12,8 +12,10 @@
     "gn:latitude":-40.33817,
     "gn:longitude":175.62521,
     "iso:country":"NZ",
+    "lbl:bbox":"175.625232,-40.341689,175.635232,-40.331689",
     "lbl:latitude":-40.336689,
     "lbl:longitude":175.630232,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.332103,
     "mps:longitude":175.63077,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
     "name:srp_x_preferred":[
         "\u0420\u043e\u0437\u043b\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Roslyn"
-    ],
     "name:vol_x_preferred":[
         "Roslyn"
     ],
@@ -83,9 +82,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":182,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687251,
         102191583,
@@ -96,7 +94,6 @@
     "wof:concordances":{
         "gn:id":6227746,
         "gp:id":28644034,
-        "qs:id":985659,
         "qs_pg:id":985659
     },
     "wof:country":"NZ",
@@ -115,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120425,
+    "wof:lastmodified":1566672215,
     "wof:name":"Roslyn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

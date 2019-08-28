@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
-    "geom:area_square_m":127390.77071,
+    "geom:area_square_m":127390.770712,
     "geom:bbox":"175.150209099,-37.7461139952,175.158241939,-37.7363756075",
     "geom:latitude":-37.740006,
     "geom:longitude":175.154335,
     "iso:country":"NZ",
     "lbl:latitude":-37.7393,
     "lbl:longitude":175.155477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.744834,
     "mps:longitude":175.152691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Te Kowhai"
     ],
@@ -31,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191583,
@@ -61,7 +64,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527688583,
+    "wof:lastmodified":1566672429,
     "wof:name":"Te Kowhai",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

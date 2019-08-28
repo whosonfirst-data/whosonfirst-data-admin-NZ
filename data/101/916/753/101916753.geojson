@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.724029,
     "lbl:longitude":174.689706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.724028,
     "mps:longitude":174.689714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Albany"
     ],
@@ -64,7 +67,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101916753,
-    "wof:lastmodified":1563282520,
+    "wof:lastmodified":1566672462,
     "wof:name":"Albany Village",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

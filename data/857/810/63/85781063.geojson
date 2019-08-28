@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3414612.173074,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.882465,-39.513973,176.882465,-39.513973",
     "geom:latitude":-39.513973,
     "geom:longitude":176.882465,
     "gn:latitude":-39.50824,
     "gn:longitude":176.88022,
     "iso:country":"NZ",
+    "lbl:bbox":"176.877465,-39.518973,176.887465,-39.508973",
     "lbl:latitude":-39.513973,
     "lbl:longitude":176.882465,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.508543,
     "mps:longitude":176.882095,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Pirimai"
-    ],
-    "name:unk_x_variant":[
         "Pirimai"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
         101914679,
-        102079331,
-        85687189
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6246630,
         "gp:id":28643995,
-        "qs:id":356968,
         "qs_pg:id":356968
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860133,
+    "wof:lastmodified":1566672219,
     "wof:name":"Pirimai",
     "wof:parent_id":101914679,
     "wof:placetype":"neighbourhood",

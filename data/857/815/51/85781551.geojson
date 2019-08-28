@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4138096.238429,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.272748,-41.279828,173.272748,-41.279828",
     "geom:latitude":-41.279828,
     "geom:longitude":173.272748,
     "gn:latitude":-41.27148,
     "gn:longitude":173.27044,
     "iso:country":"NZ",
+    "lbl:bbox":"173.267748,-41.284828,173.277748,-41.274828",
     "lbl:latitude":-41.279828,
     "lbl:longitude":173.272748,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.283384,
     "mps:longitude":173.27151,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Washington Valley"
-    ],
-    "name:unk_x_variant":[
         "Washington Valley"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,21 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":773,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
         101915555,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6242986,
         "gp:id":28644500,
-        "qs:id":1197029,
         "qs_pg:id":1197029
     },
     "wof:country":"NZ",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860231,
+    "wof:lastmodified":1566672242,
     "wof:name":"Washington Valley",
     "wof:parent_id":101915555,
     "wof:placetype":"neighbourhood",

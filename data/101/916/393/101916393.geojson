@@ -5,21 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
-    "geom:area_square_m":141350.486782,
+    "geom:area_square_m":141350.486784,
     "geom:bbox":"172.990285214,-41.1453894143,173.00727968,-41.136256106",
     "geom:latitude":-41.1407,
     "geom:longitude":172.997168,
     "iso:country":"NZ",
     "lbl:latitude":-41.142023,
     "lbl:longitude":172.993795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.142024,
     "mps:longitude":172.993793,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
-        "Moutere"
-    ],
-    "name:unk_x_variant":[
         "Moutere"
     ],
     "qs:a0":"New Zealand",
@@ -36,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -48,7 +48,6 @@
         "fct:id":"020d923e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2188159,
         "gp:id":2349243,
-        "qs:id":249259,
         "qs_pg:id":249259
     },
     "wof:country":"NZ",
@@ -66,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1512502019,
+    "wof:lastmodified":1566672478,
     "wof:name":"Lower Moutere",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001204,
-    "geom:area_square_m":11175063.474447,
+    "geom:area_square_m":11175063.474439,
     "geom:bbox":"174.806213379,-41.3682570988,174.855452885,-41.3300212198",
     "geom:latitude":-41.350011,
     "geom:longitude":174.829388,
@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.332099,
     "lbl:longitude":174.826799,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.35304,
     "mps:longitude":174.827385,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Breaker Bay"
-    ],
-    "name:unk_x_variant":[
         "Breaker Bay"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,9 +56,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":204,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85687233,
@@ -70,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726338,
-        "qs:id":1085686,
         "qs_pg:id":1085686
     },
     "wof:country":"NZ",
@@ -88,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269543,
+    "wof:lastmodified":1566672261,
     "wof:name":"Breaker Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

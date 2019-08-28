@@ -11,8 +11,10 @@
     "geom:longitude":174.799015,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.794015,-36.878174,174.804015,-36.868174",
     "lbl:latitude":-36.873174,
     "lbl:longitude":174.799015,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.868635,
     "mps:longitude":174.806214,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:nld_x_preferred":[
         "Remuera"
-    ],
-    "name:unk_x_variant":[
-        "Remuera Central"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -67,9 +66,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":4091,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -80,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676766,
-        "qs:id":980538,
         "qs_pg:id":980538,
         "wd:id":"Q7312235"
     },
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282122,
+    "wof:lastmodified":1566672237,
     "wof:name":"Remuera",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

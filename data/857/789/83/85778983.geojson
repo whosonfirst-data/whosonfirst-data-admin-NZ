@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7317361.478872,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.665677,-43.356229,172.665677,-43.356229",
     "geom:latitude":-43.356229,
     "geom:longitude":172.665677,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"172.660677,-43.361229,172.670677,-43.351229",
     "lbl:latitude":-43.356229,
     "lbl:longitude":172.665677,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.354445,
     "mps:longitude":172.667062,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kaiapoi North"
-    ],
-    "name:unk_x_variant":[
         "Kaiapoi North"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079367,
-        85687179
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726670,
-        "qs:id":1184341,
         "qs_pg:id":1184341
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859881,
+    "wof:lastmodified":1566672269,
     "wof:name":"Kaiapoi North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

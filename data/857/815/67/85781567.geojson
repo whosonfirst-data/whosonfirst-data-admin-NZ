@@ -11,8 +11,10 @@
     "geom:longitude":173.930386,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"173.925386,-41.517673,173.935386,-41.507673",
     "lbl:latitude":-41.512673,
     "lbl:longitude":173.930386,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.5134,
     "mps:longitude":173.929071,
     "mz:hierarchy_label":0,
@@ -621,9 +623,6 @@
     "name:twi_x_preferred":[
         "Yelverton"
     ],
-    "name:unk_x_variant":[
-        "Yelverton"
-    ],
     "name:vec_x_preferred":[
         "Yelverton"
     ],
@@ -694,9 +693,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":137,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687185,
         102191583,
@@ -706,7 +704,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644514,
-        "qs:id":1286633,
         "qs_pg:id":1286633,
         "wd:id":"Q8052038"
     },
@@ -726,7 +723,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282136,
+    "wof:lastmodified":1566672243,
     "wof:name":"Yelverton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,20 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
-    "geom:area_square_m":70237.441749,
+    "geom:area_square_m":135005.512799,
     "geom:bbox":"174.822280393,-37.1884816349,174.833413933,-37.1837195305",
     "geom:latitude":-37.186524,
     "geom:longitude":174.828911,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-37.187694,
     "lbl:longitude":174.826802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.187699,
     "mps:longitude":174.82681,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Patumahoe"
     ],
@@ -54,7 +57,7 @@
     "qs_pg:woe_id":2350094,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2184778,
         "gp:id":2350094,
-        "qs:id":9459,
         "qs_pg:id":9459
     },
     "wof:country":"NZ",
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101916455,
-    "wof:lastmodified":1534379392,
+    "wof:lastmodified":1566672469,
     "wof:name":"Patumahoe",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

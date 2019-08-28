@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
-    "geom:area_square_m":68732.198788,
+    "geom:area_square_m":145442.160217,
     "geom:bbox":"174.397838712,-35.7849689988,174.422833945,-35.7704014202",
     "geom:latitude":-35.777932,
     "geom:longitude":174.41068,
     "iso:country":"NZ",
     "lbl:latitude":-35.773417,
     "lbl:longitude":174.402798,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.773416,
     "mps:longitude":174.402808,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tamaterau"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gp:id":28644202
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9c2f827834416fc1755f4a0b29b74914",
+    "wof:geomhash":"a73cfce99b123d43b6c53fc5cba2970c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101916831,
-    "wof:lastmodified":1487270014,
+    "wof:lastmodified":1566672485,
     "wof:name":"Tamaterau",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

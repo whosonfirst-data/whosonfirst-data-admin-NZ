@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6559243.407256,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.074375,-39.058782,174.074375,-39.058782",
     "geom:latitude":-39.058782,
     "geom:longitude":174.074375,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.069375,-39.063782,174.079375,-39.053782",
     "lbl:latitude":-39.058782,
     "lbl:longitude":174.074375,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.055237,
     "mps:longitude":174.06835,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "New Plymouth Central"
-    ],
-    "name:unk_x_variant":[
         "New Plymouth Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -55,18 +54,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687195,
         102191583,
         85633345,
-        102079311,
-        85687195
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676753,
-        "qs:id":375359
+        "qs_pg:id":375359
     },
     "wof:country":"NZ",
     "wof:geomhash":"bd0287ecede22dc3de6e9c4b449c8787",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860373,
+    "wof:lastmodified":1566672240,
     "wof:name":"New Plymouth Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,10 @@
     "geom:latitude":-36.788978,
     "geom:longitude":174.724726,
     "iso:country":"NZ",
+    "lbl:bbox":"174.719726,-36.793978,174.729726,-36.783978",
     "lbl:latitude":-36.788978,
     "lbl:longitude":174.724726,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.785092,
     "mps:longitude":174.731945,
     "mz:hierarchy_label":0,
@@ -102,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Marlborough"
-    ],
     "name:vol_x_preferred":[
         "Marlborough"
     ],
@@ -132,9 +131,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":406,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -162,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120452,
+    "wof:lastmodified":1566672232,
     "wof:name":"Marlborough",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

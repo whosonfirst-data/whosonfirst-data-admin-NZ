@@ -12,8 +12,10 @@
     "gn:latitude":-46.59722,
     "gn:longitude":168.32917,
     "iso:country":"NZ",
+    "lbl:bbox":"168.322913,-46.597996,168.332913,-46.587996",
     "lbl:latitude":-46.592996,
     "lbl:longitude":168.327913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.595038,
     "mps:longitude":168.31877,
     "mz:hierarchy_label":0,
@@ -67,9 +69,6 @@
     "name:swe_x_preferred":[
         "West End"
     ],
-    "name:unk_x_variant":[
-        "West End"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2206939,
@@ -99,8 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -110,7 +108,6 @@
     "wof:concordances":{
         "gn:id":2208084,
         "gp:id":28644576,
-        "qs:id":357212,
         "qs_pg:id":357212
     },
     "wof:country":"NZ",
@@ -128,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120420,
+    "wof:lastmodified":1566672213,
     "wof:name":"West End",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":174.87401,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.86901,-41.228891,174.87901,-41.218891",
     "lbl:latitude":-41.223891,
     "lbl:longitude":174.87401,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.231994,
     "mps:longitude":174.881368,
     "mz:hierarchy_label":0,
@@ -52,9 +54,6 @@
     "name:por_x_preferred":[
         "Petone"
     ],
-    "name:unk_x_variant":[
-        "Petone Central"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":1495,
@@ -80,8 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687233,
         102191583,
@@ -92,7 +90,6 @@
     "wof:concordances":{
         "gn:id":6244864,
         "gp:id":28676762,
-        "qs:id":220381,
         "qs_pg:id":220381
     },
     "wof:country":"NZ",
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120462,
+    "wof:lastmodified":1566672238,
     "wof:name":"Petone",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

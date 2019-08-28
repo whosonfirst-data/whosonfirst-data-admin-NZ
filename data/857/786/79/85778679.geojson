@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11241705.233768,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.153589,-41.106486,175.153589,-41.106486",
     "geom:latitude":-41.106486,
     "geom:longitude":175.153589,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.148589,-41.111486,175.158589,-41.101486",
     "lbl:latitude":-41.106486,
     "lbl:longitude":175.153589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.112773,
     "mps:longitude":175.151944,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "The Plateau"
-    ],
-    "name:unk_x_variant":[
         "The Plateau"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,18 +58,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726552,
-        "qs:id":1154442,
         "qs_pg:id":1154442
     },
     "wof:country":"NZ",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859823,
+    "wof:lastmodified":1566672263,
     "wof:name":"The Plateau",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

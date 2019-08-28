@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5940172.318304,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.72587,-43.500111,172.72587,-43.500111",
     "geom:latitude":-43.500111,
     "geom:longitude":172.72587,
     "gn:latitude":-43.49179,
     "gn:longitude":172.72018,
     "iso:country":"NZ",
+    "lbl:bbox":"172.72087,-43.505111,172.73087,-43.495111",
     "lbl:latitude":-43.500111,
     "lbl:longitude":172.72587,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.497764,
     "mps:longitude":172.727953,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     "name:eng_x_variant":[
         "N New Brighton",
         "North New Brighton"
-    ],
-    "name:unk_x_variant":[
-        "New Brighton North"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -64,19 +63,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220373,
         "gp:id":22726637,
-        "qs:id":218151,
         "qs_pg:id":218151
     },
     "wof:country":"NZ",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859860,
+    "wof:lastmodified":1566672258,
     "wof:name":"New Brighton North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

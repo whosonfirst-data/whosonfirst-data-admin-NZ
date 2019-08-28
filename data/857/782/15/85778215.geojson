@@ -12,8 +12,10 @@
     "gn:latitude":-43.49833,
     "gn:longitude":172.56013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.564812,-43.502991,172.574812,-43.492991",
     "lbl:latitude":-43.497991,
     "lbl:longitude":172.569812,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.501966,
     "mps:longitude":172.569357,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:nno_x_preferred":[
         "Burnside p\u00e5 New Zealand"
-    ],
-    "name:unk_x_variant":[
-        "Burnside"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -66,9 +65,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":291,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6220346,
         "gp:id":22726343,
-        "qs:id":464420,
         "qs_pg:id":464420,
         "wd:id":"Q5000110",
         "wk:page":"Burnside, Canterbury"
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282096,
+    "wof:lastmodified":1566672228,
     "wof:name":"Burnside",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

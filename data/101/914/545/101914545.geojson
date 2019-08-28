@@ -9,14 +9,17 @@
     "geom:bbox":"177.405180203,-39.0488906805,177.434206505,-39.0245347326",
     "geom:latitude":-39.037934,
     "geom:longitude":177.423473,
-    "geonames:id":"2206808,6247603",
+    "gn:id":"2206808,6247603",
     "iso:country":"NZ",
     "lbl:latitude":-39.042519,
     "lbl:longitude":177.427286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.036528,
     "mps:longitude":177.408882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wairoa"
     ],
@@ -74,7 +77,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101914545,
-    "wof:lastmodified":1563282466,
+    "wof:lastmodified":1566672437,
     "wof:name":"Wairoa",
     "wof:parent_id":102079327,
     "wof:placetype":"locality",

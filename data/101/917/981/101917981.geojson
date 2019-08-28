@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.22518,
     "lbl:longitude":169.790379,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-46.226367,
     "mps:longitude":169.787555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Benhar"
     ],
@@ -40,7 +43,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":24,
     "wof:belongsto":[
         102191583,
@@ -70,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775512,
+    "wof:lastmodified":1566672532,
     "wof:name":"Benhar",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

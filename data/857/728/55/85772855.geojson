@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1930872.558698,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.742304,-36.714101,174.742304,-36.714101",
     "geom:latitude":-36.714101,
     "geom:longitude":174.742304,
     "gn:latitude":-36.70819,
     "gn:longitude":174.75019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.737304,-36.719101,174.747304,-36.709101",
     "lbl:latitude":-36.714101,
     "lbl:longitude":174.742304,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.716033,
     "mps:longitude":174.745799,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Browns Bay"
     ],
     "name:swe_x_preferred":[
-        "Browns Bay"
-    ],
-    "name:unk_x_variant":[
         "Browns Bay"
     ],
     "qs:gn_fcode":"PPLX",
@@ -67,20 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":24,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6231794,
         "gp:id":2348237,
-        "qs:id":1075613,
         "qs_pg:id":1075613
     },
     "wof:country":"NZ",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859587,
+    "wof:lastmodified":1566672264,
     "wof:name":"Browns Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

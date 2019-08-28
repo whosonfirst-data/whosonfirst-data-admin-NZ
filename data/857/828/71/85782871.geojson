@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8102661.126275,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.343354,-37.718336,176.343354,-37.718336",
     "geom:latitude":-37.718336,
     "geom:longitude":176.343354,
     "gn:latitude":-37.6973,
     "gn:longitude":176.2846,
     "iso:country":"NZ",
+    "lbl:bbox":"176.338354,-37.723336,176.348354,-37.713336",
     "lbl:latitude":-37.718336,
     "lbl:longitude":176.343354,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.721886,
     "mps:longitude":176.35009,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Papamoa Beach East"
-    ],
-    "name:unk_x_variant":[
         "Papamoa Beach East"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,19 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079285,
-        85687175
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6245117,
         "gp:id":55876503,
-        "qs:id":489163,
         "qs_pg:id":489163
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860425,
+    "wof:lastmodified":1566672221,
     "wof:name":"Papamoa Beach East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

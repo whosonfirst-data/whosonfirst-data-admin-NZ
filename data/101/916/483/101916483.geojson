@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.895651,
     "lbl:longitude":176.631274,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-39.895644,
     "mps:longitude":176.631284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Otane"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -73,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282526,
+    "wof:lastmodified":1566672466,
     "wof:name":"Otane",
     "wof:parent_id":102079333,
     "wof:placetype":"locality",

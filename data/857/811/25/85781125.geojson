@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3261539.262764,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.032809,-39.914908,175.032809,-39.914908",
     "geom:latitude":-39.914908,
     "geom:longitude":175.032809,
     "iso:country":"NZ",
+    "lbl:bbox":"175.027809,-39.919908,175.037809,-39.909908",
     "lbl:latitude":-39.914908,
     "lbl:longitude":175.032809,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.911124,
     "mps:longitude":175.032812,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "St Johns Hill"
-    ],
-    "name:unk_x_variant":[
         "St Johns Hill"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,13 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        102079299,
-        85687251
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860146,
+    "wof:lastmodified":1566672217,
     "wof:name":"St Johns Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":-43.55931,
     "gn:longitude":172.63131,
     "iso:country":"NZ",
+    "lbl:bbox":"172.618901,-43.562894,172.628901,-43.552894",
     "lbl:latitude":-43.557894,
     "lbl:longitude":172.623901,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.562802,
     "mps:longitude":172.622714,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Somerfield"
     ],
     "name:swe_x_preferred":[
-        "Somerfield"
-    ],
-    "name:unk_x_variant":[
         "Somerfield"
     ],
     "name:zho_x_preferred":[
@@ -75,9 +74,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":3653,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -89,7 +87,6 @@
     "wof:concordances":{
         "gn:id":6220884,
         "gp:id":22726527,
-        "qs:id":56271,
         "qs_pg:id":56271,
         "wd:id":"Q3247828"
     },
@@ -109,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282177,
+    "wof:lastmodified":1566672262,
     "wof:name":"Somerfield",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

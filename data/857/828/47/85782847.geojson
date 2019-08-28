@@ -11,8 +11,10 @@
     "geom:longitude":172.645778,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"172.640778,-43.602672,172.650778,-43.592672",
     "lbl:latitude":-43.597672,
     "lbl:longitude":172.645778,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.6031,
     "mps:longitude":172.647247,
     "mz:hierarchy_label":0,
@@ -162,9 +164,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0448\u0435\u043c\u0456\u0440"
     ],
-    "name:unk_x_variant":[
-        "Cashmere South"
-    ],
     "name:yue_x_preferred":[
         "\u8304\u58eb\u54a9"
     ],
@@ -202,9 +201,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2296,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -214,7 +212,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55876029,
-        "qs:id":1091830,
         "qs_pg:id":1091830,
         "wd:id":"Q333631"
     },
@@ -234,7 +231,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282081,
+    "wof:lastmodified":1566672221,
     "wof:name":"Cashmere South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

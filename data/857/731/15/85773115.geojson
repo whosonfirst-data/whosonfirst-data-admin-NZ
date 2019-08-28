@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.855192,
     "lbl:longitude":174.782944,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.857472,
     "mps:longitude":174.785719,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Parnell"
     ],
     "name:fra_x_preferred":[
-        "Parnell"
-    ],
-    "name:unk_x_variant":[
         "Parnell"
     ],
     "name:zho_x_preferred":[
@@ -70,9 +68,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":3531,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -84,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2184846,
         "gp:id":2350082,
-        "qs:id":1092130,
         "qs_pg:id":1092130,
         "wd:id":"Q3365637",
         "wk:page":"Parnell, New Zealand"
@@ -105,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282053,
+    "wof:lastmodified":1566672208,
     "wof:name":"Parnell",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

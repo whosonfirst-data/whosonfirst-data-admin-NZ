@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.282499,
     "lbl:longitude":175.628664,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.282497,
     "mps:longitude":175.62866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u043d\u0439\u0442\u0445\u043e\u0440\u043f\u0435"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":847,
     "wof:belongsto":[
         102191583,
@@ -59,7 +62,7 @@
         "fct:id":"020dde7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2192822,
         "gp:id":2348251,
-        "qs:id":246585,
+        "qs_pg:id":246585,
         "wd:id":"Q4997892",
         "wk:page":"Bunnythorpe"
     },
@@ -78,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282539,
+    "wof:lastmodified":1566672474,
     "wof:name":"Bunnythorpe",
     "wof:parent_id":102079307,
     "wof:placetype":"locality",

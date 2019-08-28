@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14874390.489253,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.693439,-43.47477,172.693439,-43.47477",
     "geom:latitude":-43.47477,
     "geom:longitude":172.693439,
     "gn:latitude":-43.47833,
     "gn:longitude":172.69013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.688439,-43.47977,172.698439,-43.46977",
     "lbl:latitude":-43.47477,
     "lbl:longitude":172.693439,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.469785,
     "mps:longitude":172.685519,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Parklands"
-    ],
-    "name:unk_x_variant":[
         "Parklands"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220404,
         "gp:id":22726494,
-        "qs:id":56259,
         "qs_pg:id":56259
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859806,
+    "wof:lastmodified":1566672224,
     "wof:name":"Parklands",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

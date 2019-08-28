@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17670732.579372,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.587504,-43.605587,172.587504,-43.605587",
     "geom:latitude":-43.605587,
     "geom:longitude":172.587504,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"172.582504,-43.610587,172.592504,-43.600587",
     "lbl:latitude":-43.605587,
     "lbl:longitude":172.587504,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.603254,
     "mps:longitude":172.580652,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Kennedys Bush"
-    ],
-    "name:unk_x_variant":[
         "Kennedys Bush"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":234,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644780,
-        "qs:id":12460,
         "qs_pg:id":12460,
         "wd:id":"Q17062140"
     },
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860270,
+    "wof:lastmodified":1566672223,
     "wof:name":"Kennedys Bush",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.049498,
     "lbl:longitude":173.255397,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-35.049498,
     "mps:longitude":173.25539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Awanui"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1745,
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101917873,
-    "wof:lastmodified":1563282576,
+    "wof:lastmodified":1566672514,
     "wof:name":"Awanui",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

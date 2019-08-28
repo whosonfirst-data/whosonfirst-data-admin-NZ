@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6194085.090768,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.218146,-37.675605,176.218146,-37.675605",
     "geom:latitude":-37.675605,
     "geom:longitude":176.218146,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.213146,-37.680605,176.223146,-37.670605",
     "lbl:latitude":-37.675605,
     "lbl:longitude":176.218146,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.67818,
     "mps:longitude":176.217815,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Bayfair"
-    ],
-    "name:unk_x_variant":[
         "Bayfair"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,18 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079285,
-        85687175
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644261,
-        "qs:id":967172
+        "qs_pg:id":967172
     },
     "wof:country":"NZ",
     "wof:geomhash":"7b6cbf3e279721ef9ce5ba8f3becbfa2",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860191,
+    "wof:lastmodified":1566672247,
     "wof:name":"Bayfair",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

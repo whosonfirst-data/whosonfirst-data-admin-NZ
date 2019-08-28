@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4132437.911507,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.817057,-36.892348,174.817057,-36.892348",
     "geom:latitude":-36.892348,
     "geom:longitude":174.817057,
@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.892348,
     "lbl:longitude":174.817057,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.882417,
     "mps:longitude":174.813952,
     "mz:hierarchy_label":0,
@@ -27,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Ellerslie North"
-    ],
-    "name:unk_x_variant":[
         "Ellerslie North"
     ],
     "qs:gn_id":0,
@@ -56,18 +54,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726617,
-        "qs:id":237767,
         "qs_pg:id":237767
     },
     "wof:country":"NZ",
@@ -86,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859842,
+    "wof:lastmodified":1566672257,
     "wof:name":"Ellerslie North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

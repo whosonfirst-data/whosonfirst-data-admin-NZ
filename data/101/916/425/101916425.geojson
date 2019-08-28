@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.804397,
     "lbl:longitude":175.394247,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.804403,
     "mps:longitude":175.394237,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Matangi"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2922,
     "wof:belongsto":[
         102191583,
@@ -100,9 +103,11 @@
         "fct:id":"020c4654-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2187195,
         "gp:id":2349459,
-        "qs:id":1078831,
-        "qs_pg:id":1135643,
+        "qs_pg:id":1078831,
         "wd:id":"Q17634885"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1135643
     },
     "wof:country":"NZ",
     "wof:geomhash":"0341f5b2b25889db9d0f11a8b76c8c9f",
@@ -119,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282524,
+    "wof:lastmodified":1566672464,
     "wof:name":"Matangi",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

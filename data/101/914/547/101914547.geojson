@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.221651,
     "lbl:longitude":175.859335,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-38.239331,
     "mps:longitude":175.886417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Tokoroa"
     ],
@@ -74,7 +77,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3136,
     "wof:belongsto":[
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282507,
+    "wof:lastmodified":1566672456,
     "wof:name":"Tokoroa",
     "wof:parent_id":102079277,
     "wof:placetype":"locality",

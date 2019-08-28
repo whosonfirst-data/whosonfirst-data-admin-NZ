@@ -12,8 +12,10 @@
     "gn:latitude":-43.50833,
     "gn:longitude":172.67013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.667342,-43.517529,172.677342,-43.507529",
     "lbl:latitude":-43.512529,
     "lbl:longitude":172.672342,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.508645,
     "mps:longitude":172.675067,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u043b\u043b\u0438\u043d\u0433\u0442\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Dallington"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -66,9 +65,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":369,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6220364,
         "gp:id":22726358,
-        "qs:id":56212,
         "qs_pg:id":56212,
         "wd:id":"Q5211486",
         "wk:page":"Dallington, New Zealand"
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282097,
+    "wof:lastmodified":1566672228,
     "wof:name":"Dallington",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

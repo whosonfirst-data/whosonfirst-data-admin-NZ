@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-19.051266,
     "lbl:longitude":-169.860489,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-19.051266,
     "mps:longitude":-169.860489,
     "mz:hierarchy_label":1,
@@ -532,7 +534,7 @@
     "name:ukr_x_variant":[
         "\u041d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Republic of Niue"
     ],
     "name:urd_x_preferred":[
@@ -706,7 +708,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"683",
     "statoids:ds":"NZ",
@@ -722,7 +724,6 @@
     "statoids:marc":"xh",
     "statoids:name":"Niue",
     "statoids:wmo":"",
-    "wof:belongs":[],
     "wof:belongsto":[
         102191583,
         136253053
@@ -740,12 +741,12 @@
         "m49:code":"570",
         "marc:id":"xh",
         "mzb:id":"niue",
-        "qs:id":97113,
+        "qs_pg:id":97113,
         "uncrt:id":"NZ",
         "wd:id":"Q34020"
     },
     "wof:concordances_alt":{
-        "qs:id":897038
+        "qs_pg:id":897038
     },
     "wof:controlled":[
         "wof:hierarchy",
@@ -761,7 +762,7 @@
         }
     ],
     "wof:id":85632493,
-    "wof:lastmodified":1565732162,
+    "wof:lastmodified":1566672284,
     "wof:name":"Niue",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",

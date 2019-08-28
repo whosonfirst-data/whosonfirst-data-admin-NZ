@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.713833,
     "lbl:longitude":175.614877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.713832,
     "mps:longitude":175.614875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whangapoua"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":256,
     "wof:belongsto":[
         102191583,
@@ -68,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775504,
+    "wof:lastmodified":1566672489,
     "wof:name":"Whangapoua",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

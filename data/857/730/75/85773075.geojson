@@ -12,8 +12,10 @@
     "gn:latitude":-38.15,
     "gn:longitude":176.25,
     "iso:country":"NZ",
+    "lbl:bbox":"176.240854,-38.133598,176.250854,-38.123598",
     "lbl:latitude":-38.128598,
     "lbl:longitude":176.245854,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.124824,
     "mps:longitude":176.248383,
     "mz:hierarchy_label":0,
@@ -31,9 +33,8 @@
     "name:nld_x_preferred":[
         "Ohinemutu"
     ],
-    "name:unk_x_variant":[
-        "Rotorua Borough",
-        "Ohinemutu"
+    "name:und_x_variant":[
+        "Rotorua Borough"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"ADMD",
@@ -64,9 +65,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":100,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687175,
         102191583,
@@ -81,7 +81,6 @@
         "gn:id":2183232,
         "gp:id":2349786,
         "nyt:id":"46753987699927177651",
-        "qs:id":1047972,
         "qs_pg:id":1047972,
         "wd:id":"Q7080674"
     },
@@ -101,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282043,
+    "wof:lastmodified":1566672204,
     "wof:name":"Ohinemutu",
     "wof:parent_id":101914629,
     "wof:placetype":"neighbourhood",

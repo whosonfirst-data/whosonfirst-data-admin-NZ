@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
-    "geom:area_square_m":20568.865234,
+    "geom:area_square_m":53128.922185,
     "geom:bbox":"175.153306463,-37.7975235209,175.157044179,-37.7925677535",
     "geom:latitude":-37.79538,
     "geom:longitude":175.155361,
     "iso:country":"NZ",
     "lbl:latitude":-37.794334,
     "lbl:longitude":175.15576,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.796907,
     "mps:longitude":175.154422,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whatawhata"
     ],
@@ -31,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":532,
     "wof:belongsto":[
         102191583,
@@ -62,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527688588,
+    "wof:lastmodified":1566672439,
     "wof:name":"Whatawhata",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

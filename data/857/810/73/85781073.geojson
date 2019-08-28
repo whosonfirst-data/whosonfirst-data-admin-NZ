@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2712273.141464,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.223123,-38.158319,176.223123,-38.158319",
     "geom:latitude":-38.158319,
     "geom:longitude":176.223123,
     "iso:country":"NZ",
+    "lbl:bbox":"176.218123,-38.163319,176.228123,-38.153319",
     "lbl:latitude":-38.158319,
     "lbl:longitude":176.223123,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.160697,
     "mps:longitude":176.216278,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Pomare"
-    ],
-    "name:unk_x_variant":[
         "Pomare"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,14 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":39,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860135,
+    "wof:lastmodified":1566672218,
     "wof:name":"Pomare",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

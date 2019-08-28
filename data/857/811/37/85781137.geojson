@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15053503.144391,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.631681,-40.971944,175.631681,-40.971944",
     "geom:latitude":-40.971944,
     "geom:longitude":175.631681,
     "gn:latitude":-40.95827,
     "gn:longitude":175.6102,
     "iso:country":"NZ",
+    "lbl:bbox":"175.626681,-40.976944,175.636681,-40.966944",
     "lbl:latitude":-40.971944,
     "lbl:longitude":175.631681,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.962824,
     "mps:longitude":175.620286,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u0443\u044d\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Solway"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -71,20 +70,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":160,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        102079343,
-        85687233
+        102079343
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6241104,
         "gp:id":28644047,
-        "qs:id":1086320,
         "qs_pg:id":1086320
     },
     "wof:country":"NZ",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860148,
+    "wof:lastmodified":1566672216,
     "wof:name":"Solway",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

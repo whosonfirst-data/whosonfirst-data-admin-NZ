@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13449845.740353,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.289109,-46.429402,168.289109,-46.429402",
     "geom:latitude":-46.429402,
     "geom:longitude":168.289109,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"168.284109,-46.434402,168.294109,-46.424402",
     "lbl:latitude":-46.429402,
     "lbl:longitude":168.289109,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.432178,
     "mps:longitude":168.297064,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Invercargill West"
-    ],
-    "name:unk_x_variant":[
         "Invercargill West"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -56,18 +55,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687211,
         102191583,
         85633345,
-        102079397,
-        85687211
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726639,
-        "qs:id":366892,
         "qs_pg:id":366892
     },
     "wof:country":"NZ",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859861,
+    "wof:lastmodified":1566672268,
     "wof:name":"Invercargill West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

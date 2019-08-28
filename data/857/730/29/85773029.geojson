@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17081020.591285,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.03244,-39.060099,174.03244,-39.060099",
     "geom:latitude":-39.060099,
     "geom:longitude":174.03244,
     "gn:latitude":-39.06428,
     "gn:longitude":174.03563,
     "iso:country":"NZ",
+    "lbl:bbox":"174.02744,-39.065099,174.03744,-39.055099",
     "lbl:latitude":-39.060099,
     "lbl:longitude":174.03244,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.053734,
     "mps:longitude":174.029941,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Moturoa"
-    ],
-    "name:unk_x_variant":[
         "Moturoa"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":220,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687195,
         102191583,
         85633345,
-        102079311,
-        85687195
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2186498,
         "gp:id":2349615,
-        "qs:id":466713,
         "qs_pg:id":466713,
         "wd:id":"Q6918771",
         "wk:page":"Moturoa"
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859618,
+    "wof:lastmodified":1566672204,
     "wof:name":"Moturoa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

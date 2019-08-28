@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.627134,
     "lbl:longitude":174.506981,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-35.62702,
     "mps:longitude":174.506409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0433\u0443\u043d\u0433\u0443\u0440\u0443"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":603,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2186111,
         "gp:id":2349723,
-        "qs:id":1250657,
         "qs_pg:id":1250657,
         "wd:id":"Q7022706",
         "wk:page":"Ngunguru"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101915215,
-    "wof:lastmodified":1563282400,
+    "wof:lastmodified":1566672404,
     "wof:name":"Ngunguru",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

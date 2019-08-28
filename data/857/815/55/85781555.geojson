@@ -12,8 +12,10 @@
     "gn:latitude":-46.39842,
     "gn:longitude":168.36009,
     "iso:country":"NZ",
+    "lbl:bbox":"168.353794,-46.408341,168.363794,-46.398341",
     "lbl:latitude":-46.403341,
     "lbl:longitude":168.358794,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.399457,
     "mps:longitude":168.364251,
     "mz:hierarchy_label":0,
@@ -139,9 +141,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u0434\u0437\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Windsor"
-    ],
     "name:vol_x_preferred":[
         "Windsor"
     ],
@@ -176,8 +175,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687211,
         102191583,
@@ -188,7 +186,6 @@
     "wof:concordances":{
         "gn:id":6205092,
         "gp:id":28644511,
-        "qs:id":902695,
         "qs_pg:id":902695
     },
     "wof:country":"NZ",
@@ -207,7 +204,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120472,
+    "wof:lastmodified":1566672243,
     "wof:name":"Windsor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":245852.906035,
+    "geom:area_square_m":245852.906033,
     "geom:bbox":"175.538583491,-37.3013699684,175.550120756,-37.2966860356",
     "geom:latitude":-37.298903,
     "geom:longitude":175.545073,
@@ -13,17 +13,17 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.299077,
     "lbl:longitude":175.545645,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-37.299077,
     "mps:longitude":175.545641,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kerepehi"
     ],
     "name:eng_x_variant":[
-        "Kerepeehi"
-    ],
-    "name:unk_x_variant":[
         "Kerepeehi"
     ],
     "qs:a0":"New Zealand",
@@ -40,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -53,7 +53,6 @@
         "fct:id":"020dea40-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2188882,
         "gp:id":2349042,
-        "qs:id":946888,
         "qs_pg:id":946888
     },
     "wof:country":"NZ",
@@ -71,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338682,
+    "wof:lastmodified":1566672487,
     "wof:name":"Kerepehi",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

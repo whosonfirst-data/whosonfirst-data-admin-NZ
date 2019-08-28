@@ -12,8 +12,10 @@
     "gn:latitude":-41.52828,
     "gn:longitude":173.93018,
     "iso:country":"NZ",
+    "lbl:bbox":"173.91578,-41.530541,173.92578,-41.520541",
     "lbl:latitude":-41.525541,
     "lbl:longitude":173.92078,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.521655,
     "mps:longitude":173.919468,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0440\u043b\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Burleigh"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -75,8 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687185,
         102191583,
@@ -87,7 +85,6 @@
     "wof:concordances":{
         "gn:id":6243997,
         "gp:id":28644777,
-        "qs:id":1182375,
         "qs_pg:id":1182375
     },
     "wof:country":"NZ",
@@ -106,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120435,
+    "wof:lastmodified":1566672222,
     "wof:name":"Burleigh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

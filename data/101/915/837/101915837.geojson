@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.032682,
     "lbl:longitude":174.146304,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.029508,
     "mps:longitude":174.151297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bell Block"
     ],
@@ -40,7 +43,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191583,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101915837,
-    "wof:lastmodified":1563282408,
+    "wof:lastmodified":1566672409,
     "wof:name":"Bell Block",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

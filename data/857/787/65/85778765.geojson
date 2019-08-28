@@ -12,8 +12,10 @@
     "gn:latitude":-43.51833,
     "gn:longitude":172.66013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.661969,-43.523764,172.671969,-43.513764",
     "lbl:latitude":-43.518764,
     "lbl:longitude":172.666969,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.51868,
     "mps:longitude":172.667828,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:rus_x_preferred":[
         "\u042d\u0439\u0432\u043e\u043d\u0441\u0430\u0439\u0434"
-    ],
-    "name:unk_x_variant":[
-        "Avonside"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -69,9 +68,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":714,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":6220365,
         "gp:id":22726582,
-        "qs:id":230065,
         "qs_pg:id":230065,
         "wd:id":"Q4829357",
         "wk:page":"Avonside"
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282189,
+    "wof:lastmodified":1566672266,
     "wof:name":"Avonside",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

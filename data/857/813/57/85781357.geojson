@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8321237.805881,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.049275,-38.626305,178.049275,-38.626305",
     "geom:latitude":-38.626305,
     "geom:longitude":178.049275,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":-38.64824,
     "gn:longitude":178.02021,
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"178.044275,-38.631305,178.054275,-38.621305",
     "lbl:latitude":-38.626305,
     "lbl:longitude":178.049275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.65219,
     "mps:longitude":178.044741,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Whataupoko"
-    ],
-    "name:unk_x_variant":[
         "Whataupoko"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -81,9 +80,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":205,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687237,
         102191583,
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":6240060,
         "gp:id":28644281,
-        "qs:id":1287592,
         "qs_pg:id":1287592,
         "wd:id":"Q7991659"
     },
@@ -114,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379391,
+    "wof:lastmodified":1566672247,
     "wof:name":"Whataupoko",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

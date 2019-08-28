@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.05848,
     "lbl:longitude":175.778526,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.05848,
     "mps:longitude":175.778536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kimbolton"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191583,
@@ -49,7 +52,6 @@
         "fct:id":"020ddb18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2188840,
         "gp:id":2349059,
-        "qs:id":1223212,
         "qs_pg:id":1223212,
         "wd:id":"Q6410012",
         "wk:page":"Kimbolton, New Zealand"
@@ -69,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775502,
+    "wof:lastmodified":1566672484,
     "wof:name":"Kimbolton",
     "wof:parent_id":102079303,
     "wof:placetype":"locality",

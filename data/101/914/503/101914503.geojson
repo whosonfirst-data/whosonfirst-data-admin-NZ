@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.195565,
     "lbl:longitude":168.861768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-46.194848,
     "mps:longitude":168.871047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mataura"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2883,
     "wof:belongsto":[
         102191583,
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775476,
+    "wof:lastmodified":1566672420,
     "wof:name":"Mataura",
     "wof:parent_id":102079393,
     "wof:placetype":"locality",

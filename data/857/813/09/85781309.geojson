@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11463983.135667,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.130556,-37.663624,176.130556,-37.663624",
     "geom:latitude":-37.663624,
     "geom:longitude":176.130556,
     "gn:latitude":-37.66653,
     "gn:longitude":176.12822,
     "iso:country":"NZ",
+    "lbl:bbox":"176.125556,-37.668624,176.135556,-37.658624",
     "lbl:latitude":-37.663624,
     "lbl:longitude":176.130556,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.665321,
     "mps:longitude":176.127418,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Matua"
-    ],
-    "name:unk_x_variant":[
         "Matua"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,21 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":129,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
         101914325,
-        102079285,
-        85687175
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6249347,
         "gp:id":28644253,
-        "qs:id":357060,
         "qs_pg:id":357060
     },
     "wof:country":"NZ",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860187,
+    "wof:lastmodified":1566672248,
     "wof:name":"Matua",
     "wof:parent_id":101914325,
     "wof:placetype":"neighbourhood",

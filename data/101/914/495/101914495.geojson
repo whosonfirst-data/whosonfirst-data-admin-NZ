@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.622866,
     "lbl:longitude":171.859606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.634962,
     "mps:longitude":171.850464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0438\u0442\u0439"
     ],
@@ -37,9 +40,6 @@
     "name:nld_x_preferred":[
         "Granity"
     ],
-    "name:unk_x_variant":[
-        "Torea"
-    ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -52,7 +52,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":331,
     "wof:belongsto":[
         102191583,
@@ -83,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282501,
+    "wof:lastmodified":1566672453,
     "wof:name":"Granity",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

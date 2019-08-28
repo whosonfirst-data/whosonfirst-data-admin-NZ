@@ -10,8 +10,10 @@
     "geom:latitude":-37.043179,
     "geom:longitude":174.865667,
     "iso:country":"NZ",
+    "lbl:bbox":"174.860667,-37.048179,174.870667,-37.038179",
     "lbl:latitude":-37.043179,
     "lbl:longitude":174.865667,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.042503,
     "mps:longitude":174.856971,
     "mz:hierarchy_label":0,
@@ -72,9 +74,6 @@
     "name:swe_x_preferred":[
         "Weymouth"
     ],
-    "name:unk_x_variant":[
-        "Weymouth"
-    ],
     "name:vol_x_preferred":[
         "Weymouth"
     ],
@@ -106,9 +105,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":173,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -120,7 +118,6 @@
     "wof:concordances":{
         "gn:id":6231560,
         "gp:id":2351336,
-        "qs:id":892270,
         "qs_pg:id":892270
     },
     "wof:country":"NZ",
@@ -139,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120456,
+    "wof:lastmodified":1566672233,
     "wof:name":"Weymouth",
     "wof:parent_id":101914625,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":682743.665845,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.274665,-37.797862,175.274665,-37.797862",
     "geom:latitude":-37.797862,
     "geom:longitude":175.274665,
     "gn:latitude":-37.78821,
     "gn:longitude":175.2702,
     "iso:country":"NZ",
+    "lbl:bbox":"175.269665,-37.802862,175.279665,-37.792862",
     "lbl:latitude":-37.797862,
     "lbl:longitude":175.274665,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.796353,
     "mps:longitude":175.27788,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Hamilton West"
-    ],
-    "name:unk_x_variant":[
         "Hamilton West"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":71,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6249342,
         "gp:id":28644805,
-        "qs:id":1086347,
         "qs_pg:id":1086347
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860274,
+    "wof:lastmodified":1566672210,
     "wof:name":"Hamilton West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

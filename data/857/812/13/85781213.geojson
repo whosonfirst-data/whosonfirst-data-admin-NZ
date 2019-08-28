@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":526292.687448,
+    "geom:area_square_m":526292.68745,
     "geom:bbox":"174.765014648,-41.3149498825,174.773254395,-41.3066976182",
     "geom:latitude":-41.310824,
     "geom:longitude":174.768585,
@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.31341,
     "lbl:longitude":174.769526,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.310824,
     "mps:longitude":174.768256,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Vogeltown"
-    ],
-    "name:unk_x_variant":[
         "Vogeltown"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,9 +56,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":35,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -71,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644136,
-        "qs:id":1285855,
         "qs_pg:id":1285855
     },
     "wof:country":"NZ",
@@ -90,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269506,
+    "wof:lastmodified":1566672242,
     "wof:name":"Vogeltown",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

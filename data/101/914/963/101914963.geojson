@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
-    "geom:area_square_m":144667.863217,
+    "geom:area_square_m":144667.86322,
     "geom:bbox":"170.586274885,-45.746191149,170.59986537,-45.7406521152",
     "geom:latitude":-45.743302,
     "geom:longitude":170.594202,
     "iso:country":"NZ",
     "lbl:latitude":-45.743411,
     "lbl:longitude":170.594877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-45.743411,
     "mps:longitude":170.594871,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Michies Crossing"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gp:id":28642894
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5ec0b00beedf6cd52faf99c4e57149fa",
+    "wof:geomhash":"92489aacef42995443990498ea89cd55",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101914963,
-    "wof:lastmodified":1487208191,
+    "wof:lastmodified":1566672420,
     "wof:name":"Michies Crossing",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

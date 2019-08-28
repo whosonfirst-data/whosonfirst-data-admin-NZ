@@ -12,8 +12,10 @@
     "gn:latitude":-35.5,
     "gn:longitude":173.4,
     "iso:country":"NZ",
+    "lbl:bbox":"173.386301,-35.510801,173.396301,-35.500801",
     "lbl:latitude":-35.505801,
     "lbl:longitude":173.391301,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.503724,
     "mps:longitude":173.394101,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
     "name:nld_x_preferred":[
         "Opononi"
     ],
-    "name:unk_x_variant":[
-        "Opononi"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"F6",
@@ -79,9 +78,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":468,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687149,
         102191583,
@@ -92,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2185512,
         "gp:id":2349881,
-        "qs:id":479665,
         "qs_pg:id":479665,
         "wd:id":"Q204227",
         "wk:page":"Opononi"
@@ -113,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282042,
+    "wof:lastmodified":1566672204,
     "wof:name":"Opononi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

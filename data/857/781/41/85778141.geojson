@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2331743.299314,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.555141,-43.511728,172.555141,-43.511728",
     "geom:latitude":-43.511728,
     "geom:longitude":172.555141,
     "gn:latitude":-43.50833,
     "gn:longitude":172.55013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.550141,-43.516728,172.560141,-43.506728",
     "lbl:latitude":-43.511728,
     "lbl:longitude":172.555141,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.512177,
     "mps:longitude":172.557618,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Avonhead"
-    ],
-    "name:unk_x_variant":[
         "Avonhead"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,21 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":262,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220345,
         "gp:id":22726323,
-        "qs:id":1277426,
         "qs_pg:id":1277426,
         "wd:id":"Q4829340",
         "wk:page":"Avonhead"
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859748,
+    "wof:lastmodified":1566672260,
     "wof:name":"Avonhead",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

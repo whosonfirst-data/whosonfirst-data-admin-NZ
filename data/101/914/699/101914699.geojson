@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.081334,
     "lbl:longitude":170.978777,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-45.10444,
     "mps:longitude":170.958976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Oamaru"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Oamaru"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Te Oha-a-Maru"
     ],
     "name:zho_x_preferred":[
@@ -95,7 +98,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-45.089444,
     "wd:longitude":170.966111,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101914699,
-    "wof:lastmodified":1563282495,
+    "wof:lastmodified":1566672450,
     "wof:name":"Oamaru",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

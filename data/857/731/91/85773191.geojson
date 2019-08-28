@@ -10,8 +10,10 @@
     "geom:latitude":-43.554065,
     "geom:longitude":172.61453,
     "iso:country":"NZ",
+    "lbl:bbox":"172.60953,-43.559065,172.61953,-43.549065",
     "lbl:latitude":-43.554065,
     "lbl:longitude":172.61453,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.55452,
     "mps:longitude":172.621036,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Spreydon"
     ],
     "name:eng_x_preferred":[
-        "Spreydon"
-    ],
-    "name:unk_x_variant":[
         "Spreydon"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -64,9 +63,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":257,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -78,7 +76,6 @@
     "wof:concordances":{
         "gn:id":6220897,
         "gp:id":2350581,
-        "qs:id":1354924,
         "qs_pg:id":1354924,
         "wd:id":"Q7580325"
     },
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282052,
+    "wof:lastmodified":1566672207,
     "wof:name":"Spreydon",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

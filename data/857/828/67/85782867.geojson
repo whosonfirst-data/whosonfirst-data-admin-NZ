@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2749975.737321,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.661827,-40.952674,175.661827,-40.952674",
     "geom:latitude":-40.952674,
     "geom:longitude":175.661827,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.656827,-40.957674,175.666827,-40.947674",
     "lbl:latitude":-40.952674,
     "lbl:longitude":175.661827,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.96295,
     "mps:longitude":175.655201,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Masterton East"
-    ],
-    "name:unk_x_variant":[
         "Masterton East"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -56,19 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101915543,
-        102079343,
-        85687233
+        102079343
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55876360,
-        "qs:id":238748,
         "qs_pg:id":238748
     },
     "wof:country":"NZ",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860425,
+    "wof:lastmodified":1566672220,
     "wof:name":"Masterton East",
     "wof:parent_id":101915543,
     "wof:placetype":"neighbourhood",

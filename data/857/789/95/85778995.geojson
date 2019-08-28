@@ -11,8 +11,10 @@
     "geom:longitude":174.632171,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.627171,-36.882819,174.637171,-36.872819",
     "lbl:latitude":-36.877819,
     "lbl:longitude":174.632171,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.879722,
     "mps:longitude":174.633683,
     "mz:hierarchy_label":0,
@@ -118,9 +120,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043d\u0434\u0435\u0440\u0441\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Henderson North"
-    ],
     "name:vol_x_preferred":[
         "Henderson"
     ],
@@ -151,8 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -162,7 +160,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726674,
-        "qs:id":347225,
         "qs_pg:id":347225
     },
     "wof:country":"NZ",
@@ -181,7 +178,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120513,
+    "wof:lastmodified":1566672267,
     "wof:name":"Henderson",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

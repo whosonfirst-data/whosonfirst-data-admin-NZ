@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8567329.753453,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.251693,-38.138151,176.251693,-38.138151",
     "geom:latitude":-38.138151,
     "geom:longitude":176.251693,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.246693,-38.143151,176.256693,-38.133151",
     "lbl:latitude":-38.138151,
     "lbl:longitude":176.251693,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.137968,
     "mps:longitude":176.260878,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Rotorua Central"
-    ],
-    "name:unk_x_variant":[
         "Rotorua Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676767,
-        "qs:id":890698,
         "qs_pg:id":890698
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860384,
+    "wof:lastmodified":1566672239,
     "wof:name":"Rotorua Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

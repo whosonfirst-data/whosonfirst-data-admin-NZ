@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":11819.555395,
+    "geom:area_square_m":19634.018143,
     "geom:bbox":"175.81320798,-40.4495936296,175.821627975,-40.4447813563",
     "geom:latitude":-40.446931,
     "geom:longitude":175.818247,
     "iso:country":"NZ",
     "lbl:latitude":-40.445639,
     "lbl:longitude":175.821164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.445641,
     "mps:longitude":175.82115,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mangamutu"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -43,7 +47,7 @@
         "gp:id":2349348
     },
     "wof:country":"NZ",
-    "wof:geomhash":"86317510f9c5102bafc217760d627f85",
+    "wof:geomhash":"a891fababd50ffde6a693c6548f51adf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101918339,
-    "wof:lastmodified":1487270018,
+    "wof:lastmodified":1566672494,
     "wof:name":"Mangamutu",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4229960.160981,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.274628,-37.748139,175.274628,-37.748139",
     "geom:latitude":-37.748139,
     "geom:longitude":175.274628,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.269628,-37.753139,175.279628,-37.743139",
     "lbl:latitude":-37.748139,
     "lbl:longitude":175.274628,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.745102,
     "mps:longitude":175.272807,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Queenwood"
     ],
     "name:msa_x_preferred":[
-        "Queenwood"
-    ],
-    "name:unk_x_variant":[
         "Queenwood"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,20 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":78,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
         101914271,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644838,
-        "qs:id":1286715,
         "qs_pg:id":1286715,
         "wd:id":"Q5065591"
     },
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860281,
+    "wof:lastmodified":1566672210,
     "wof:name":"Queenwood",
     "wof:parent_id":101914271,
     "wof:placetype":"neighbourhood",

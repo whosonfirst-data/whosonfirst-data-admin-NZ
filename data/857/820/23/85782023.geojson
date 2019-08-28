@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15410289.678001,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.503612,-35.814622,174.503612,-35.814622",
     "geom:latitude":-35.814622,
     "geom:longitude":174.503612,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.498612,-35.819622,174.508612,-35.809622",
     "lbl:latitude":-35.814622,
     "lbl:longitude":174.503612,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.81523,
     "mps:longitude":174.500646,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "McLeod Bay"
     ],
     "name:swe_x_preferred":[
-        "McLeod Bay"
-    ],
-    "name:unk_x_variant":[
         "McLeod Bay"
     ],
     "qs:gn_id":0,
@@ -61,8 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28645539,
-        "qs:id":1286891,
         "qs_pg:id":1286891
     },
     "wof:country":"NZ",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860304,
+    "wof:lastmodified":1566672212,
     "wof:name":"McLeod Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

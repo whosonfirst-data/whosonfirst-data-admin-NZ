@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5014504.381627,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.750613,-43.900705,171.750613,-43.900705",
     "geom:latitude":-43.900705,
     "geom:longitude":171.750613,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"171.745613,-43.905705,171.755613,-43.895705",
     "lbl:latitude":-43.900705,
     "lbl:longitude":171.750613,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.898737,
     "mps:longitude":171.746278,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Ashburton Central"
-    ],
-    "name:unk_x_variant":[
         "Ashburton Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -55,18 +54,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079371,
-        85687179
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676716,
-        "qs:id":227728
+        "qs_pg:id":227728
     },
     "wof:country":"NZ",
     "wof:geomhash":"49152f7cd1696ab9203ffea2fdbd2c3a",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860346,
+    "wof:lastmodified":1566672237,
     "wof:name":"Ashburton Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

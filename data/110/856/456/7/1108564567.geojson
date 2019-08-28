@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.045235,
     "lbl:longitude":-176.578383,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Area Outside Region",
     "meso:gadm_admin":"Waitangi",
     "meso:gadm_hasc2":"NO DATA",
@@ -24,6 +26,7 @@
     "mps:longitude":-176.578383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chatham Islands"
     ],
@@ -31,9 +34,9 @@
         "Waitangi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"963.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108564567,
-    "wof:lastmodified":1536615220,
+    "wof:lastmodified":1566672362,
     "wof:name":"Chatham Islands Territory",
     "wof:parent_id":85687215,
     "wof:placetype":"county",

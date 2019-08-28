@@ -13,8 +13,10 @@
     "gn:longitude":176.85,
     "gn:population":16599,
     "iso:country":"NZ",
+    "lbl:bbox":"176.836622,-39.543751,176.846622,-39.533751",
     "lbl:latitude":-39.538751,
     "lbl:longitude":176.841622,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.54092,
     "mps:longitude":176.835063,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
         "Taradale"
     ],
     "name:nld_x_preferred":[
-        "Taradale"
-    ],
-    "name:unk_x_variant":[
         "Taradale"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -75,10 +74,9 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":4111,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687189,
         102191583,
@@ -90,7 +88,6 @@
     "wof:concordances":{
         "gn:id":6246634,
         "gp:id":2350718,
-        "qs:id":386623,
         "qs_pg:id":386623,
         "wd:id":"Q7685280",
         "wk:page":"Taradale, New Zealand"
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282119,
+    "wof:lastmodified":1566672235,
     "wof:name":"Taradale",
     "wof:parent_id":101914679,
     "wof:placetype":"neighbourhood",

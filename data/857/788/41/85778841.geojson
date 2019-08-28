@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1206639.961696,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.774211,-36.874757,174.774211,-36.874757",
     "geom:latitude":-36.874757,
     "geom:longitude":174.774211,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.769211,-36.879757,174.779211,-36.869757",
     "lbl:latitude":-36.874757,
     "lbl:longitude":174.774211,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.875135,
     "mps:longitude":174.774728,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Epsom North"
-    ],
-    "name:unk_x_variant":[
         "Epsom North"
     ],
     "qs:gn_id":0,
@@ -55,19 +54,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726619,
-        "qs:id":893533,
         "qs_pg:id":893533
     },
     "wof:country":"NZ",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859844,
+    "wof:lastmodified":1566672258,
     "wof:name":"Epsom North",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

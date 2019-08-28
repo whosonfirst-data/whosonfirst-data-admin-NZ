@@ -11,8 +11,10 @@
     "geom:longitude":174.941803,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.936803,-37.02243,174.946803,-37.01243",
     "lbl:latitude":-37.01743,
     "lbl:longitude":174.941803,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.019495,
     "mps:longitude":174.949913,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:swe_x_preferred":[
         "Alfriston"
     ],
-    "name:unk_x_variant":[
-        "Alfriston"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u723e\u5f17\u91cc\u65af\u9813"
     ],
@@ -94,11 +93,10 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":50.81,
     "wd:longitude":0.16,
     "wd:wordcount":1143,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -108,7 +106,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643771,
-        "qs:id":65666,
         "qs_pg:id":65666
     },
     "wof:country":"NZ",
@@ -127,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120492,
+    "wof:lastmodified":1566672255,
     "wof:name":"Alfriston",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,16 +9,19 @@
     "geom:bbox":"176.85021,-39.63824,176.85021,-39.63824",
     "geom:latitude":-39.63824,
     "geom:longitude":176.85021,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":-39.63824,
     "gn:longitude":176.85021,
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"176.84521,-39.64324,176.85521,-39.63324",
     "lbl:latitude":-39.63824,
     "lbl:longitude":176.85021,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u064a \u0641\u064a\u0631"
@@ -119,9 +122,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0439\u0444\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Mayfair"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06d2 \u0641\u06cc\u0626\u0631"
     ],
@@ -149,7 +149,7 @@
     "qs_pg:woe_adm0":23424916,
     "qs_pg:woe_id":28643932,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Hawke's Bay",
@@ -164,7 +164,6 @@
     "wof:concordances":{
         "gn:id":6246623,
         "gp:id":28643932,
-        "qs:id":973853,
         "qs_pg:id":973853
     },
     "wof:country":"NZ",
@@ -181,7 +180,7 @@
         }
     ],
     "wof:id":1126066775,
-    "wof:lastmodified":1564120922,
+    "wof:lastmodified":1566672622,
     "wof:name":"Mayfair",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.264225,
     "lbl:longitude":174.710676,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.26425,
     "mps:longitude":174.71064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Makara"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":192,
     "wof:belongsto":[
         102191583,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101918047,
-    "wof:lastmodified":1527715670,
+    "wof:lastmodified":1566672497,
     "wof:name":"Makara",
     "wof:parent_id":102079339,
     "wof:placetype":"locality",

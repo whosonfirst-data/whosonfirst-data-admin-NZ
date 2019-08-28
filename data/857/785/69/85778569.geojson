@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2100624.625301,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.599093,-43.528916,172.599093,-43.528916",
     "geom:latitude":-43.528916,
     "geom:longitude":172.599093,
     "gn:latitude":-43.52833,
     "gn:longitude":172.59013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.594093,-43.533916,172.604093,-43.523916",
     "lbl:latitude":-43.528916,
     "lbl:longitude":172.599093,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.529684,
     "mps:longitude":172.598265,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Riccarton"
     ],
     "name:hrv_x_preferred":[
-        "Riccarton"
-    ],
-    "name:unk_x_variant":[
         "Riccarton"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -66,21 +65,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":93,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220351,
         "gp:id":22726509,
-        "qs:id":905423,
         "qs_pg:id":905423
     },
     "wof:country":"NZ",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859810,
+    "wof:lastmodified":1566672224,
     "wof:name":"Riccarton",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

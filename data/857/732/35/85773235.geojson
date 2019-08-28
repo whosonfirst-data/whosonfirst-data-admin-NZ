@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6890051.738509,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.233494,-37.748413,175.233494,-37.748413",
     "geom:latitude":-37.748413,
     "geom:longitude":175.233494,
     "iso:country":"NZ",
+    "lbl:bbox":"175.228494,-37.753413,175.238494,-37.743413",
     "lbl:latitude":-37.748413,
     "lbl:longitude":175.233494,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.751441,
     "mps:longitude":175.229351,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Te Rapa"
     ],
     "name:msa_x_preferred":[
-        "Te Rapa"
-    ],
-    "name:unk_x_variant":[
         "Te Rapa"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,14 +59,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":512,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859651,
+    "wof:lastmodified":1566672234,
     "wof:name":"Te Rapa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

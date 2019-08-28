@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.94672,
     "lbl:longitude":174.965241,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.94672,
     "mps:longitude":174.965226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitford"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":338,
     "wof:belongsto":[
         102191583,
@@ -51,7 +54,6 @@
     "wof:concordances":{
         "gn:id":2179104,
         "gp:id":2351415,
-        "qs:id":268710,
         "qs_pg:id":268710,
         "wd:id":"Q16394918",
         "wk:page":"Whitford, New Zealand"
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101917711,
-    "wof:lastmodified":1561775512,
+    "wof:lastmodified":1566672532,
     "wof:name":"Whitford",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

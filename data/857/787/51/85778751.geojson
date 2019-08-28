@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3218091.870327,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.505361,-45.848348,170.505361,-45.848348",
     "geom:latitude":-45.848348,
     "geom:longitude":170.505361,
     "gn:latitude":-45.84838,
     "gn:longitude":170.5001,
     "iso:country":"NZ",
+    "lbl:bbox":"170.500361,-45.853348,170.510361,-45.843348",
     "lbl:latitude":-45.848348,
     "lbl:longitude":170.505361,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.846977,
     "mps:longitude":170.498038,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Woodhaugh"
-    ],
-    "name:unk_x_variant":[
         "Woodhaugh"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6212353,
         "gp:id":22726578,
-        "qs:id":967371,
         "qs_pg:id":967371
     },
     "wof:country":"NZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859831,
+    "wof:lastmodified":1566672265,
     "wof:name":"Woodhaugh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

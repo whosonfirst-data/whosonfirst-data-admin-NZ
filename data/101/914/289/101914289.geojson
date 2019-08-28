@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.114161,
     "lbl:longitude":175.32494,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.114162,
     "mps:longitude":175.32494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Featherston"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":570,
     "wof:belongsto":[
         102191583,
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282433,
+    "wof:lastmodified":1566672423,
     "wof:name":"Featherston",
     "wof:parent_id":102079347,
     "wof:placetype":"locality",

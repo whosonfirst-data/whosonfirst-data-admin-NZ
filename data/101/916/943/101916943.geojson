@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.971602,
     "lbl:longitude":168.031878,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-45.968569,
     "mps:longitude":168.01841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nightcaps"
     ],
@@ -31,9 +34,6 @@
     "name:szl_x_preferred":[
         "Nightcaps"
     ],
-    "name:unk_x_variant":[
-        "Nightcaps Town District"
-    ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -46,7 +46,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":385,
     "wof:belongsto":[
         102191583,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101916943,
-    "wof:lastmodified":1563282566,
+    "wof:lastmodified":1566672492,
     "wof:name":"Nightcaps",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

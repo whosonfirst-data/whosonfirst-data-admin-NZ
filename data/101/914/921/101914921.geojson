@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.805332,
     "lbl:longitude":170.694663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-45.80533,
     "mps:longitude":170.694672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Otakou"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":526,
     "wof:belongsto":[
         102191583,
@@ -74,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775493,
+    "wof:lastmodified":1566672458,
     "wof:name":"Otakou",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

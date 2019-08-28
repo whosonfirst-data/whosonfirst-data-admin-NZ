@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2098167.413862,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.735962,-36.790111,174.735962,-36.790111",
     "geom:latitude":-36.790111,
     "geom:longitude":174.735962,
     "gn:latitude":-36.7882,
     "gn:longitude":174.73019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.730962,-36.795111,174.740962,-36.785111",
     "lbl:latitude":-36.790111,
     "lbl:longitude":174.735962,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.790181,
     "mps:longitude":174.745465,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Hillcrest"
-    ],
-    "name:unk_x_variant":[
         "Hillcrest"
     ],
     "qs:gn_fcode":"PPLX",
@@ -58,21 +57,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":204,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232152,
         "gp:id":22726400,
-        "qs:id":1277444,
         "qs_pg:id":1277444,
         "wd:id":"Q5762711",
         "wk:page":"Hillcrest, Auckland"
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859779,
+    "wof:lastmodified":1566672229,
     "wof:name":"Hillcrest",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

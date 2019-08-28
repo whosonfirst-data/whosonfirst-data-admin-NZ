@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1301429.233633,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.251609,-38.15137,176.251609,-38.15137",
     "geom:latitude":-38.15137,
     "geom:longitude":176.251609,
     "iso:country":"NZ",
+    "lbl:bbox":"176.246609,-38.15637,176.256609,-38.14637",
     "lbl:latitude":-38.15137,
     "lbl:longitude":176.251609,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.151194,
     "mps:longitude":176.249445,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Glenholme"
-    ],
-    "name:unk_x_variant":[
         "Glenholme"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,15 +56,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":42,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
         101914629,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860107,
+    "wof:lastmodified":1566672252,
     "wof:name":"Glenholme",
     "wof:parent_id":101914629,
     "wof:placetype":"neighbourhood",

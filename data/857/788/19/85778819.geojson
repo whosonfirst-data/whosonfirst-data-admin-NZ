@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11452880.022499,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.268293,-37.690268,176.268293,-37.690268",
     "geom:latitude":-37.690268,
     "geom:longitude":176.268293,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.263293,-37.695268,176.273293,-37.685268",
     "lbl:latitude":-37.690268,
     "lbl:longitude":176.268293,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.689536,
     "mps:longitude":176.260701,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Papamoa Beach West"
-    ],
-    "name:unk_x_variant":[
         "Papamoa Beach West"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079285,
-        85687175
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726613,
-        "qs:id":1262854
+        "qs_pg:id":1262854
     },
     "wof:country":"NZ",
     "wof:geomhash":"5ba7a9279b595557d622319f7f03da39",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859836,
+    "wof:lastmodified":1566672258,
     "wof:name":"Papamoa Beach West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

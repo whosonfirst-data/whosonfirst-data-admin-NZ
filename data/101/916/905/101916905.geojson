@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
-    "geom:area_square_m":139011.169659,
+    "geom:area_square_m":139011.169656,
     "geom:bbox":"175.720310503,-36.8018858931,175.726174322,-36.7925896329",
     "geom:latitude":-36.797431,
     "geom:longitude":175.72325,
     "iso:country":"NZ",
     "lbl:latitude":-36.8,
     "lbl:longitude":175.722074,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.8,
     "mps:longitude":175.722072,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wharekaho Beach"
     ],
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101916905,
-    "wof:lastmodified":1497303169,
+    "wof:lastmodified":1566672479,
     "wof:name":"Wharekaho Beach",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

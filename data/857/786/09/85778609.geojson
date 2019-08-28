@@ -10,8 +10,10 @@
     "geom:latitude":-45.88404,
     "geom:longitude":170.550427,
     "iso:country":"NZ",
+    "lbl:bbox":"170.545427,-45.88904,170.555427,-45.87904",
     "lbl:latitude":-45.88404,
     "lbl:longitude":170.550427,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.885016,
     "mps:longitude":170.558431,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Shiel Hill"
     ],
     "name:nld_x_preferred":[
-        "Shiel Hill"
-    ],
-    "name:unk_x_variant":[
         "Shiel Hill"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,9 +57,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":714,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687201,
         102191583,
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282177,
+    "wof:lastmodified":1566672262,
     "wof:name":"Shiel Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

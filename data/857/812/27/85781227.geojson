@@ -12,6 +12,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.902867,
     "lbl:longitude":174.731702,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.903113,
     "mps:longitude":174.727169,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Wesley"
     ],
     "name:fin_x_preferred":[
-        "Wesley"
-    ],
-    "name:unk_x_variant":[
         "Wesley"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,8 +57,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120466,
+    "wof:lastmodified":1566672240,
     "wof:name":"Wesley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

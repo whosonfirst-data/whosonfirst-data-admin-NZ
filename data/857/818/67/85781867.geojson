@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1596981.816495,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.631482,-43.575935,172.631482,-43.575935",
     "geom:latitude":-43.575935,
     "geom:longitude":172.631482,
     "gn:latitude":-43.5678,
     "gn:longitude":172.628,
     "iso:country":"NZ",
+    "lbl:bbox":"172.626482,-43.580935,172.636482,-43.570935",
     "lbl:latitude":-43.575935,
     "lbl:longitude":172.631482,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.574375,
     "mps:longitude":172.628766,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Cashmere"
     ],
     "name:por_x_preferred":[
-        "Cashmere"
-    ],
-    "name:unk_x_variant":[
         "Cashmere"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -72,21 +71,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":81,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220896,
         "gp:id":28644844,
-        "qs:id":886868,
         "qs_pg:id":886868
     },
     "wof:country":"NZ",
@@ -105,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860283,
+    "wof:lastmodified":1566672209,
     "wof:name":"Cashmere",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

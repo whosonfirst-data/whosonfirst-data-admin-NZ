@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2773373.098024,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.235783,-38.139676,176.235783,-38.139676",
     "geom:latitude":-38.139676,
     "geom:longitude":176.235783,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.230783,-38.144676,176.240783,-38.134676",
     "lbl:latitude":-38.139676,
     "lbl:longitude":176.235783,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.144746,
     "mps:longitude":176.234565,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Rotorua West"
-    ],
-    "name:unk_x_variant":[
         "Rotorua West"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
         101914629,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644733,
-        "qs:id":375160,
         "qs_pg:id":375160
     },
     "wof:country":"NZ",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860258,
+    "wof:lastmodified":1566672222,
     "wof:name":"Rotorua West",
     "wof:parent_id":101914629,
     "wof:placetype":"neighbourhood",

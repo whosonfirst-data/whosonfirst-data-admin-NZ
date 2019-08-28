@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1689680.337159,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.571614,-43.531544,172.571614,-43.531544",
     "geom:latitude":-43.531544,
     "geom:longitude":172.571614,
     "gn:latitude":-43.52833,
     "gn:longitude":172.57013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.566614,-43.536544,172.576614,-43.526544",
     "lbl:latitude":-43.531544,
     "lbl:longitude":172.571614,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.531712,
     "mps:longitude":172.572078,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Upper Riccarton"
-    ],
-    "name:unk_x_variant":[
         "Upper Riccarton"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":168,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220347,
         "gp:id":22726560,
-        "qs:id":56293,
         "qs_pg:id":56293,
         "wd:id":"Q7898881",
         "wk:page":"Upper Riccarton"
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859825,
+    "wof:lastmodified":1566672262,
     "wof:name":"Upper Riccarton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

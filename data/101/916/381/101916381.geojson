@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.353787,
     "lbl:longitude":173.154398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.353787,
     "mps:longitude":173.154402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hope"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191583,
@@ -70,7 +73,6 @@
         "fct:id":"020ddbe0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2189819,
         "gp:id":2348822,
-        "qs:id":195052,
         "qs_pg:id":195052,
         "wd:id":"Q3610579",
         "wk:page":"Hope, New Zealand"
@@ -90,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282565,
+    "wof:lastmodified":1566672492,
     "wof:name":"Hope",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

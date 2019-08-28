@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.260664,
     "lbl:longitude":174.129859,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-35.260667,
     "mps:longitude":174.129856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Russell"
     ],
@@ -50,7 +53,7 @@
     "name:pol_x_preferred":[
         "Russell"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kororareka"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":897,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2183076,
         "gp:id":2350498,
-        "qs:id":9555,
         "qs_pg:id":9555,
         "wd:id":"Q764609",
         "wk:page":"Russell, New Zealand"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101915089,
-    "wof:lastmodified":1563282398,
+    "wof:lastmodified":1566672403,
     "wof:name":"Russell",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

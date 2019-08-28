@@ -12,8 +12,10 @@
     "gn:latitude":-36.79167,
     "gn:longitude":174.77583,
     "iso:country":"NZ",
+    "lbl:bbox":"174.767268,-36.791134,174.777268,-36.781134",
     "lbl:latitude":-36.786134,
     "lbl:longitude":174.772268,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.787292,
     "mps:longitude":174.770884,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:tgl_x_preferred":[
         "Takapuna"
     ],
-    "name:unk_x_variant":[
-        "Takapuna"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"E7",
@@ -88,8 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2207740,
         "gp:id":2350686,
-        "qs:id":1136871,
         "qs_pg:id":1136871,
         "wd:id":"Q7677248",
         "wk:page":"Takapuna"
@@ -121,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282117,
+    "wof:lastmodified":1566672234,
     "wof:name":"Takapuna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

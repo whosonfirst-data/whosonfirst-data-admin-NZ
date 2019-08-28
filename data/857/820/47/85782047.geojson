@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19290770.177171,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.602597,-45.057018,168.602597,-45.057018",
     "geom:latitude":-45.057018,
     "geom:longitude":168.602597,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"168.597597,-45.062018,168.607597,-45.052018",
     "lbl:latitude":-45.057018,
     "lbl:longitude":168.602597,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.061638,
     "mps:longitude":168.600884,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Sunshine Bay"
-    ],
-    "name:unk_x_variant":[
         "Sunshine Bay"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        102079385,
-        85687201
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28645586,
-        "qs:id":227600,
         "qs_pg:id":227600
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860309,
+    "wof:lastmodified":1566672212,
     "wof:name":"Sunshine Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

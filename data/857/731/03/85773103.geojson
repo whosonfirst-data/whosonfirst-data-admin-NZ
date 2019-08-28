@@ -10,8 +10,10 @@
     "geom:latitude":-36.912933,
     "geom:longitude":174.876426,
     "iso:country":"NZ",
+    "lbl:bbox":"174.871426,-36.917933,174.881426,-36.907933",
     "lbl:latitude":-36.912933,
     "lbl:longitude":174.876426,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.912425,
     "mps:longitude":174.875099,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Pakurangi"
     ],
     "name:fra_x_preferred":[
-        "Pakuranga"
-    ],
-    "name:unk_x_variant":[
         "Pakuranga"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -67,8 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120412,
+    "wof:lastmodified":1566672206,
     "wof:name":"Pakuranga",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

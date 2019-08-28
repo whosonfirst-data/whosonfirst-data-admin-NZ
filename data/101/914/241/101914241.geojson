@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.3833,
     "lbl:longitude":175.67889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.383301,
     "mps:longitude":175.678891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Paeroa"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1479,
     "wof:belongsto":[
@@ -66,7 +69,6 @@
         "fct:id":"020de5fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2208327,
         "gp:id":2349995,
-        "qs:id":247298,
         "qs_pg:id":247298,
         "wd:id":"Q834005",
         "wk:page":"Paeroa"
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101914241,
-    "wof:lastmodified":1563282479,
+    "wof:lastmodified":1566672444,
     "wof:name":"Paeroa",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

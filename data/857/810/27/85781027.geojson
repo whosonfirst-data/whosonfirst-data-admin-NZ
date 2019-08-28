@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8208714.167872,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.42477,-39.033596,177.42477,-39.033596",
     "geom:latitude":-39.033596,
     "geom:longitude":177.42477,
     "gn:latitude":-39.02823,
     "gn:longitude":177.42022,
     "iso:country":"NZ",
+    "lbl:bbox":"177.41977,-39.038596,177.42977,-39.028596",
     "lbl:latitude":-39.033596,
     "lbl:longitude":177.42477,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.032284,
     "mps:longitude":177.422543,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "N Clyde"
-    ],
-    "name:unk_x_variant":[
-        "North Clyde"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -63,19 +62,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
-        102079327,
-        85687189
+        102079327
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6247607,
         "gp:id":28643957,
-        "qs:id":985656,
         "qs_pg:id":985656
     },
     "wof:country":"NZ",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860127,
+    "wof:lastmodified":1566672218,
     "wof:name":"North Clyde",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

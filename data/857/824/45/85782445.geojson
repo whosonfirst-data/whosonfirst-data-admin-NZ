@@ -11,8 +11,10 @@
     "geom:longitude":174.894104,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.889104,-37.029044,174.899104,-37.019044",
     "lbl:latitude":-37.024044,
     "lbl:longitude":174.894104,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.025724,
     "mps:longitude":174.892279,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:msa_x_preferred":[
         "Manurewa"
-    ],
-    "name:unk_x_variant":[
-        "Manurewa Central"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -61,8 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676744,
-        "qs:id":65720,
         "qs_pg:id":65720
     },
     "wof:country":"NZ",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120462,
+    "wof:lastmodified":1566672238,
     "wof:name":"Manurewa",
     "wof:parent_id":101914625,
     "wof:placetype":"neighbourhood",

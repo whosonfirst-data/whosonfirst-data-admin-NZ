@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1611611.422487,
+    "geom:area_square_m":1611611.422498,
     "geom:bbox":"174.76776123,-41.2998334872,174.785900579,-41.2870942633",
     "geom:latitude":-41.293483,
     "geom:longitude":174.776495,
@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.291691,
     "lbl:longitude":174.778485,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.293543,
     "mps:longitude":174.776495,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Te Aro"
-    ],
-    "name:unk_x_variant":[
         "Te Aro"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,9 +56,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1333,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -70,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726547,
-        "qs:id":853719,
         "qs_pg:id":853719,
         "wd:id":"Q7690766"
     },
@@ -90,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269544,
+    "wof:lastmodified":1566672261,
     "wof:name":"Te Aro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

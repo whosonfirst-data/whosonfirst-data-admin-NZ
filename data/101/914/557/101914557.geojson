@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
-    "geom:area_square_m":20603.016926,
+    "geom:area_square_m":207152.981316,
     "geom:bbox":"175.153201514,-36.952384373,175.175169212,-36.9437791225",
     "geom:latitude":-36.949279,
     "geom:longitude":175.166593,
     "iso:country":"NZ",
     "lbl:latitude":-36.95022,
     "lbl:longitude":175.168777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.944778,
     "mps:longitude":175.173845,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kawakawa Bay"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gp:id":55877723
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4918be56576b7b992c8dce2b85f2e880",
+    "wof:geomhash":"eda238ebc24c88d073e5f9e2ea47818a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101914557,
-    "wof:lastmodified":1487269982,
+    "wof:lastmodified":1566672420,
     "wof:name":"Kawakawa Bay",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

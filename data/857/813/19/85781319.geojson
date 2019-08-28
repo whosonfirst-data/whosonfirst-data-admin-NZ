@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1242969.447859,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.150299,-37.710698,176.150299,-37.710698",
     "geom:latitude":-37.710698,
     "geom:longitude":176.150299,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.145299,-37.715698,176.155299,-37.705698",
     "lbl:latitude":-37.710698,
     "lbl:longitude":176.150299,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.71187,
     "mps:longitude":176.149611,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Tauranga South"
-    ],
-    "name:unk_x_variant":[
         "Tauranga South"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,20 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":44,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
         101914325,
-        102079285,
-        85687175
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644257,
-        "qs:id":1258194,
         "qs_pg:id":1258194,
         "wd:id":"Q24189564"
     },
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860189,
+    "wof:lastmodified":1566672248,
     "wof:name":"Tauranga South",
     "wof:parent_id":101914325,
     "wof:placetype":"neighbourhood",

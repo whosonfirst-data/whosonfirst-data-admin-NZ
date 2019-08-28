@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15204403.521584,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.272932,-37.725181,175.272932,-37.725181",
     "geom:latitude":-37.725181,
     "geom:longitude":175.272932,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.267932,-37.730181,175.277932,-37.720181",
     "lbl:latitude":-37.725181,
     "lbl:longitude":175.272932,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.723231,
     "mps:longitude":175.283594,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Rototuna"
     ],
     "name:msa_x_preferred":[
-        "Rototuna"
-    ],
-    "name:unk_x_variant":[
         "Rototuna"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,19 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":357,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644036,
-        "qs:id":1286499,
         "qs_pg:id":1286499,
         "wd:id":"Q7370615"
     },
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860145,
+    "wof:lastmodified":1566672215,
     "wof:name":"Rototuna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

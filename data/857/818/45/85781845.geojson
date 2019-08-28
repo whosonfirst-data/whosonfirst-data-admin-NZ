@@ -12,8 +12,10 @@
     "gn:latitude":-37.78821,
     "gn:longitude":175.2902,
     "iso:country":"NZ",
+    "lbl:bbox":"175.296975,-37.807638,175.306975,-37.797638",
     "lbl:latitude":-37.802638,
     "lbl:longitude":175.301975,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.800856,
     "mps:longitude":175.296912,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:msa_x_preferred":[
         "Hamilton Timur"
-    ],
-    "name:unk_x_variant":[
-        "Hamilton East"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -66,9 +65,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1670,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687229,
         102191583,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6249340,
         "gp:id":28644837,
-        "qs:id":1077169,
         "qs_pg:id":1077169,
         "wd:id":"Q5644915",
         "wk:page":"Hamilton East, New Zealand"
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282056,
+    "wof:lastmodified":1566672209,
     "wof:name":"Hamilton East",
     "wof:parent_id":101914271,
     "wof:placetype":"neighbourhood",

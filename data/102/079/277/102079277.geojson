@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.194864,
     "lbl:longitude":175.836988,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Waikato Region",
     "meso:gadm_admin":"South Waikato",
     "meso:gadm_hasc2":"NZ.WK.SW",
@@ -24,6 +26,7 @@
     "mps:longitude":175.836988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "South Waikato District"
     ],
@@ -68,9 +71,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"1,814.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102079277,
-    "wof:lastmodified":1563281983,
+    "wof:lastmodified":1566672148,
     "wof:name":"South Waikato District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

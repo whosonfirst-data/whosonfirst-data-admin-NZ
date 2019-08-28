@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":237816.65747,
+    "geom:area_square_m":237816.657471,
     "geom:bbox":"175.143753575,-40.6936164448,175.153305265,-40.6852747423",
     "geom:latitude":-40.689659,
     "geom:longitude":175.14854,
     "iso:country":"NZ",
     "lbl:latitude":-40.690436,
     "lbl:longitude":175.148558,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.690435,
     "mps:longitude":175.148557,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waikawa Beach"
     ],
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101915803,
-    "wof:lastmodified":1497294256,
+    "wof:lastmodified":1566672390,
     "wof:name":"Waikawa Beach",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

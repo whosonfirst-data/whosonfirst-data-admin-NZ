@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.671696,
     "lbl:longitude":176.139348,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-37.737485,
     "mps:longitude":176.161587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Tauranga"
     ],
@@ -221,7 +224,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-37.685833,
     "wd:longitude":176.166667,
@@ -255,7 +258,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282468,
+    "wof:lastmodified":1566672438,
     "wof:name":"Tauranga",
     "wof:parent_id":102079285,
     "wof:placetype":"locality",

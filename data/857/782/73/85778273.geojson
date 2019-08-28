@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1735056.805128,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.931165,-41.207118,174.931165,-41.207118",
     "geom:latitude":-41.207118,
     "geom:longitude":174.931165,
     "gn:latitude":-41.20827,
     "gn:longitude":174.92019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.926165,-41.212118,174.936165,-41.202118",
     "lbl:latitude":-41.207118,
     "lbl:longitude":174.931165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.205522,
     "mps:longitude":174.934731,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Epuni"
-    ],
-    "name:unk_x_variant":[
         "Epuni"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,20 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":91,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        102079337,
-        85687233
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244867,
         "gp:id":22726365,
-        "qs:id":192134,
         "qs_pg:id":192134,
         "wd:id":"Q5384046",
         "wk:page":"Epuni"
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859768,
+    "wof:lastmodified":1566672227,
     "wof:name":"Epuni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
-    "geom:area_square_m":121625.671448,
+    "geom:area_square_m":121625.671451,
     "geom:bbox":"174.610320212,-36.9761917579,174.617180749,-36.970809376",
     "geom:latitude":-36.973536,
     "geom:longitude":174.614103,
     "iso:country":"NZ",
     "lbl:latitude":-36.973553,
     "lbl:longitude":174.614441,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.973539,
     "mps:longitude":174.614453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parau"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":111,
     "wof:belongsto":[
         102191583,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":2184894,
         "gp:id":2350065,
-        "qs:id":235680,
         "qs_pg:id":235680,
         "wd:id":"Q4575901",
         "wk:page":"Parau"
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101916671,
-    "wof:lastmodified":1527715563,
+    "wof:lastmodified":1566672482,
     "wof:name":"Parau",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":-41.550341,
     "geom:longitude":173.958376,
     "iso:country":"NZ",
+    "lbl:bbox":"173.953376,-41.555341,173.963376,-41.545341",
     "lbl:latitude":-41.550341,
     "lbl:longitude":173.958376,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.553736,
     "mps:longitude":173.962605,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Witherlea"
     ],
     "name:nld_x_preferred":[
-        "Witherlea"
-    ],
-    "name:unk_x_variant":[
         "Witherlea"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,9 +59,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":116,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687185,
         102191583,
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282134,
+    "wof:lastmodified":1566672242,
     "wof:name":"Witherlea",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

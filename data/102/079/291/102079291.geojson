@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.357088,
     "lbl:longitude":176.881051,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bay of Plenty Region",
     "meso:gadm_admin":"Whakatane",
     "meso:gadm_hasc2":"NZ.BP.WH",
@@ -24,6 +26,7 @@
     "mps:longitude":176.881051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Whakatane District"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102079291,
-    "wof:lastmodified":1536614399,
+    "wof:lastmodified":1566672150,
     "wof:name":"Whakatane District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

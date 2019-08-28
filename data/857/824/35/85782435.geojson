@@ -11,8 +11,10 @@
     "geom:longitude":174.908337,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.903337,-41.214909,174.913337,-41.204909",
     "lbl:latitude":-41.209909,
     "lbl:longitude":174.908337,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.209343,
     "mps:longitude":174.915449,
     "mz:hierarchy_label":0,
@@ -106,9 +108,6 @@
     "name:tat_x_preferred":[
         "\u041b\u043e\u0432\u0435\u0440-\u04ba\u0430\u0442\u0442"
     ],
-    "name:unk_x_variant":[
-        "Lower Hutt Central"
-    ],
     "name:vol_x_preferred":[
         "Lower Hutt"
     ],
@@ -143,8 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687233,
         102191583,
@@ -154,7 +152,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676741,
-        "qs:id":242006,
         "qs_pg:id":242006
     },
     "wof:country":"NZ",
@@ -173,7 +170,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120462,
+    "wof:lastmodified":1566672237,
     "wof:name":"Lower Hutt",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

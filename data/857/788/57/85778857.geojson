@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3810255.259187,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.840165,-36.891621,174.840165,-36.891621",
     "geom:latitude":-36.891621,
     "geom:longitude":174.840165,
     "iso:country":"NZ",
     "lbl:latitude":-36.891621,
     "lbl:longitude":174.840165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.893134,
     "mps:longitude":174.83767,
     "mz:hierarchy_label":0,
@@ -30,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "Mt Wellington North"
-    ],
-    "name:unk_x_variant":[
-        "Mount Wellington North"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -61,13 +59,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859850,
+    "wof:lastmodified":1566672257,
     "wof:name":"Mount Wellington North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

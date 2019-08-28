@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6301766.559551,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.018103,-38.66184,178.018103,-38.66184",
     "geom:latitude":-38.66184,
     "geom:longitude":178.018103,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"178.013103,-38.66684,178.023103,-38.65684",
     "lbl:latitude":-38.66184,
     "lbl:longitude":178.018103,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.656981,
     "mps:longitude":178.016698,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Gisborne Central"
-    ],
-    "name:unk_x_variant":[
         "Gisborne Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -55,18 +54,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687237,
         102191583,
         85633345,
-        102079325,
-        85687237
+        102079325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676730,
-        "qs:id":227744
+        "qs_pg:id":227744
     },
     "wof:country":"NZ",
     "wof:geomhash":"892158899b16489f2d3dbe2b2ac3cd2a",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860356,
+    "wof:lastmodified":1566672236,
     "wof:name":"Gisborne Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

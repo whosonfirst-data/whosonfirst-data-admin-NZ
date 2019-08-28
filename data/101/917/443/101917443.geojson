@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.500581,
     "lbl:longitude":175.492799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.500578,
     "mps:longitude":175.492805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tahuna"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -48,7 +51,6 @@
         "fct:id":"020c7804-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2182053,
         "gp:id":2350663,
-        "qs:id":195100,
         "qs_pg:id":195100,
         "wd:id":"Q7675690",
         "wk:page":"Tahuna, Waikato"
@@ -68,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775511,
+    "wof:lastmodified":1566672525,
     "wof:name":"Tahuna",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

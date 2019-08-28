@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11341142.93399,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.646503,-36.866425,174.646503,-36.866425",
     "geom:latitude":-36.866425,
     "geom:longitude":174.646503,
     "gn:latitude":-36.86472,
     "gn:longitude":174.64768,
     "iso:country":"NZ",
+    "lbl:bbox":"174.641503,-36.871425,174.651503,-36.861425",
     "lbl:latitude":-36.866425,
     "lbl:longitude":174.646503,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.86301,
     "mps:longitude":174.656463,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Te Atatu South"
-    ],
-    "name:unk_x_variant":[
         "Te Atatu South"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,21 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1321,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232330,
         "gp:id":22726549,
-        "qs:id":24312,
         "qs_pg:id":24312,
         "wd:id":"Q7690782",
         "wk:page":"Te Atatu South"
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859822,
+    "wof:lastmodified":1566672261,
     "wof:name":"Te Atatu South",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

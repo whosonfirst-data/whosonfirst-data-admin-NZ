@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.069069,
     "lbl:longitude":170.196525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-46.058236,
     "mps:longitude":170.197531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taieri Mouth"
     ],
@@ -37,7 +40,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":473,
     "wof:belongsto":[
         102191583,
@@ -68,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775486,
+    "wof:lastmodified":1566672442,
     "wof:name":"Taieri Mouth",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

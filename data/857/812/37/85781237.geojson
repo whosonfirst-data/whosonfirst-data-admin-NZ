@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4339517.501769,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.066081,-39.069908,174.066081,-39.069908",
     "geom:latitude":-39.069908,
     "geom:longitude":174.066081,
     "gn:latitude":-39.07135,
     "gn:longitude":174.06215,
     "iso:country":"NZ",
+    "lbl:bbox":"174.061081,-39.074908,174.071081,-39.064908",
     "lbl:latitude":-39.069908,
     "lbl:longitude":174.066081,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.077511,
     "mps:longitude":174.066846,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Westown"
-    ],
-    "name:unk_x_variant":[
         "Westown"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":270,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687195,
         102191583,
         85633345,
-        102079311,
-        85687195
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6222897,
         "gp:id":28644169,
-        "qs:id":230144,
         "qs_pg:id":230144,
         "wd:id":"Q7989538",
         "wk:page":"Westown"
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860168,
+    "wof:lastmodified":1566672242,
     "wof:name":"Westown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

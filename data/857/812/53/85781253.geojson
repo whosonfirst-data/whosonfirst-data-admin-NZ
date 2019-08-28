@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10528693.810693,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.730909,-36.636406,174.730909,-36.636406",
     "geom:latitude":-36.636406,
     "geom:longitude":174.730909,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.725909,-36.641406,174.735909,-36.631406",
     "lbl:latitude":-36.636406,
     "lbl:longitude":174.730909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.643913,
     "mps:longitude":174.71793,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Wade Heads"
-    ],
-    "name:unk_x_variant":[
         "Wade Heads"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644217,
-        "qs:id":1154877,
         "qs_pg:id":1154877
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860172,
+    "wof:lastmodified":1566672241,
     "wof:name":"Wade Heads",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

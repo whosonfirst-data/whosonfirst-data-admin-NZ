@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.771428,
     "lbl:longitude":175.266497,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Waikato Region",
     "meso:gadm_admin":"Hamilton",
     "meso:gadm_hasc2":"NZ.WK.HM",
@@ -24,6 +26,7 @@
     "mps:longitude":175.266497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hamilton City"
     ],
@@ -47,9 +50,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"94.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":102079271,
-    "wof:lastmodified":1564120359,
+    "wof:lastmodified":1566672150,
     "wof:name":"Hamilton City",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":230524.823826,
+    "geom:area_square_m":230524.823825,
     "geom:bbox":"178.078602595,-38.6772636995,178.098042383,-38.6670540501",
     "geom:latitude":-38.673374,
     "geom:longitude":178.084878,
     "iso:country":"NZ",
     "lbl:latitude":-38.657572,
     "lbl:longitude":178.116144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.675926,
     "mps:longitude":178.080674,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Okitu"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -56,7 +60,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1496423264,
+    "wof:lastmodified":1566672400,
     "wof:name":"Okitu",
     "wof:parent_id":85687237,
     "wof:placetype":"locality",

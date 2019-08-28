@@ -12,8 +12,10 @@
     "gn:latitude":-45.89838,
     "gn:longitude":170.4501,
     "iso:country":"NZ",
+    "lbl:bbox":"170.456121,-45.912211,170.466121,-45.902211",
     "lbl:latitude":-45.907211,
     "lbl:longitude":170.461121,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.908119,
     "mps:longitude":170.462846,
     "mz:hierarchy_label":0,
@@ -136,9 +138,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u043a\u043e\u0440\u0434"
     ],
-    "name:unk_x_variant":[
-        "Concord"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0646\u06a9\u0648\u0631\u0688"
     ],
@@ -176,9 +175,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":533,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687201,
         102191583,
@@ -190,7 +188,6 @@
     "wof:concordances":{
         "gn:id":6212223,
         "gp:id":28644371,
-        "qs:id":505402,
         "qs_pg:id":505402
     },
     "wof:country":"NZ",
@@ -209,7 +206,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120475,
+    "wof:lastmodified":1566672245,
     "wof:name":"Concord",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

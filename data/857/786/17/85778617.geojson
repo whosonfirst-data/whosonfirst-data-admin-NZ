@@ -10,8 +10,10 @@
     "geom:latitude":-43.532385,
     "geom:longitude":172.552447,
     "iso:country":"NZ",
+    "lbl:bbox":"172.547447,-43.537385,172.557447,-43.527385",
     "lbl:latitude":-43.532385,
     "lbl:longitude":172.552447,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.531609,
     "mps:longitude":172.545729,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:swe_x_preferred":[
         "Sockburn"
     ],
-    "name:unk_x_variant":[
-        "Sockburn"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
     "qs:gn_local":2192362,
@@ -81,11 +80,10 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":54.461731,
     "wd:longitude":-1.463969,
     "wd:wordcount":805,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120503,
+    "wof:lastmodified":1566672262,
     "wof:name":"Sockburn",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

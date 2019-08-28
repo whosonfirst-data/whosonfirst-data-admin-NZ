@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3614286.731009,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.348217,-46.399975,168.348217,-46.399975",
     "geom:latitude":-46.399975,
     "geom:longitude":168.348217,
     "gn:latitude":-46.39842,
     "gn:longitude":168.34009,
     "iso:country":"NZ",
+    "lbl:bbox":"168.343217,-46.404975,168.353217,-46.394975",
     "lbl:latitude":-46.399975,
     "lbl:longitude":168.348217,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.394935,
     "mps:longitude":168.345049,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Avenal"
-    ],
-    "name:unk_x_variant":[
         "Avenal"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687211,
         102191583,
         85633345,
         101915515,
-        102079397,
-        85687211
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6205088,
         "gp:id":28644352,
-        "qs:id":230148,
         "qs_pg:id":230148
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860206,
+    "wof:lastmodified":1566672246,
     "wof:name":"Avenal",
     "wof:parent_id":101915515,
     "wof:placetype":"neighbourhood",

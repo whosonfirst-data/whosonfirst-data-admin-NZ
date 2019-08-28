@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8245824.40785,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.648326,-36.799605,174.648326,-36.799605",
     "geom:latitude":-36.799605,
     "geom:longitude":174.648326,
     "gn:latitude":-36.8,
     "gn:longitude":174.66667,
     "iso:country":"NZ",
+    "lbl:bbox":"174.643326,-36.804605,174.653326,-36.794605",
     "lbl:latitude":-36.799605,
     "lbl:longitude":174.648326,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.796236,
     "mps:longitude":174.657452,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Hobsonville"
-    ],
-    "name:unk_x_variant":[
         "Hobsonville"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,21 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1215,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
         101914257,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2189900,
         "gp:id":2348802,
-        "qs:id":1171291,
         "qs_pg:id":1171291,
         "wd:id":"Q12858484"
     },
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859612,
+    "wof:lastmodified":1566672271,
     "wof:name":"Hobsonville",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

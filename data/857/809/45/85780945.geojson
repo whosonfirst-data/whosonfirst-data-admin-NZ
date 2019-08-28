@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":967550.839437,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.901789,-39.490376,176.901789,-39.490376",
     "geom:latitude":-39.490376,
     "geom:longitude":176.901789,
     "gn:latitude":-39.48824,
     "gn:longitude":176.90022,
     "iso:country":"NZ",
+    "lbl:bbox":"176.896789,-39.495376,176.906789,-39.485376",
     "lbl:latitude":-39.490376,
     "lbl:longitude":176.901789,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.491346,
     "mps:longitude":176.901855,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Hospital Hill"
-    ],
-    "name:unk_x_variant":[
         "Hospital Hill"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":137,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
-        102079331,
-        85687189
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6246624,
         "gp:id":28643865,
-        "qs:id":230139,
         "qs_pg:id":230139
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860114,
+    "wof:lastmodified":1566672252,
     "wof:name":"Hospital Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

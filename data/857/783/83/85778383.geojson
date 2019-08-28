@@ -12,8 +12,10 @@
     "gn:latitude":-43.51833,
     "gn:longitude":172.57013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.578004,-43.528548,172.588004,-43.518548",
     "lbl:latitude":-43.523548,
     "lbl:longitude":172.583004,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.5197,
     "mps:longitude":172.576912,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:swe_x_preferred":[
         "Ilam"
     ],
-    "name:unk_x_variant":[
-        "Ilam"
-    ],
     "name:vie_x_preferred":[
         "Ilam"
     ],
@@ -96,9 +95,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":97,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -109,7 +107,6 @@
     "wof:concordances":{
         "gn:id":6220348,
         "gp:id":22726408,
-        "qs:id":1182480,
         "qs_pg:id":1182480
     },
     "wof:country":"NZ",
@@ -128,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120449,
+    "wof:lastmodified":1566672231,
     "wof:name":"Ilam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":-39.95,
     "gn:longitude":174.98333,
     "iso:country":"NZ",
+    "lbl:bbox":"174.974354,-39.941747,174.984354,-39.931747",
     "lbl:latitude":-39.936747,
     "lbl:longitude":174.979354,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.940238,
     "mps:longitude":174.978011,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "Castlecliff Branch"
-    ],
-    "name:unk_x_variant":[
-        "Castlecliff"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPL",
@@ -63,9 +62,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1134,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687251,
         102191583,
@@ -77,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2192536,
         "gp:id":2348295,
-        "qs:id":211656,
         "qs_pg:id":211656,
         "wd:id":"Q5050476"
     },
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282182,
+    "wof:lastmodified":1566672264,
     "wof:name":"Castlecliff",
     "wof:parent_id":101914639,
     "wof:placetype":"neighbourhood",

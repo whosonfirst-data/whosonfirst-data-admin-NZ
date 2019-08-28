@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.403788,
     "lbl:longitude":174.665313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-36.396163,
     "mps:longitude":174.654822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Warkworth"
     ],
@@ -53,7 +56,7 @@
     "name:rus_x_preferred":[
         "\u0423\u043e\u0440\u043a\u0443\u044d\u0440\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Warkworth Town District"
     ],
     "qs:a0":"New Zealand",
@@ -68,7 +71,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1343,
     "wof:belongsto":[
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101914751,
-    "wof:lastmodified":1563282473,
+    "wof:lastmodified":1566672440,
     "wof:name":"Warkworth",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

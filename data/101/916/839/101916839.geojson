@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
-    "geom:area_square_m":123554.124965,
+    "geom:area_square_m":123554.124966,
     "geom:bbox":"174.492912011,-35.8269274312,174.498570345,-35.8203095631",
     "geom:latitude":-35.823548,
     "geom:longitude":174.49577,
     "iso:country":"NZ",
     "lbl:latitude":-35.823534,
     "lbl:longitude":174.495495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.823534,
     "mps:longitude":174.495497,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Reotahi Bay"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gp:id":28645574
     },
     "wof:country":"NZ",
-    "wof:geomhash":"91f3b98072e778b9fb20eeb4f8c4da1d",
+    "wof:geomhash":"c2be6a37c1dce4e140a24f8e2023e503",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101916839,
-    "wof:lastmodified":1487208191,
+    "wof:lastmodified":1566672488,
     "wof:name":"Reotahi Bay",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

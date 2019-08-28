@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00033,
-    "geom:area_square_m":3262398.134808,
+    "geom:area_square_m":3262398.134818,
     "geom:bbox":"174.840162692,-36.9218471814,174.863891602,-36.9001795251",
     "geom:latitude":-36.909584,
     "geom:longitude":174.853509,
     "iso:country":"NZ",
     "lbl:latitude":-36.899505,
     "lbl:longitude":174.855899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.909544,
     "mps:longitude":174.855881,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Panmure"
-    ],
-    "name:unk_x_variant":[
         "Panmure"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -53,9 +51,8 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":100,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -83,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269395,
+    "wof:lastmodified":1566672207,
     "wof:name":"Panmure",
     "wof:parent_id":101914891,
     "wof:placetype":"neighbourhood",

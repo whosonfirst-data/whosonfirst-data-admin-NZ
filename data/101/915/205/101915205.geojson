@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.456847,
     "lbl:longitude":175.838609,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.456847,
     "mps:longitude":175.838608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pahiatua"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3052,
     "wof:belongsto":[
         102191583,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":6227686,
         "gp:id":2350003,
-        "qs:id":877642,
         "qs_pg:id":877642,
         "wd:id":"Q752310",
         "wk:page":"Pahiatua"
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101915205,
-    "wof:lastmodified":1561775466,
+    "wof:lastmodified":1566672392,
     "wof:name":"Pahiatua",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",

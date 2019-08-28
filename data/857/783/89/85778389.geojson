@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7990225.987089,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.934022,-41.17959,174.934022,-41.17959",
     "geom:latitude":-41.17959,
     "geom:longitude":174.934022,
     "gn:latitude":-41.17827,
     "gn:longitude":174.9302,
     "iso:country":"NZ",
+    "lbl:bbox":"174.929022,-41.18459,174.939022,-41.17459",
     "lbl:latitude":-41.17959,
     "lbl:longitude":174.934022,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.164348,
     "mps:longitude":174.940797,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Kelson"
-    ],
-    "name:unk_x_variant":[
         "Kelson"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,20 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":148,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        102079337,
-        85687233
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244875,
         "gp:id":22726414,
-        "qs:id":483266,
         "qs_pg:id":483266,
         "wd:id":"Q6386555",
         "wk:page":"Kelson, New Zealand"
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859784,
+    "wof:lastmodified":1566672229,
     "wof:name":"Kelson",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

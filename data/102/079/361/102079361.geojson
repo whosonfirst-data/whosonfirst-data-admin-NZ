@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.50851,
     "lbl:longitude":171.573119,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"West Coast Region",
     "meso:gadm_admin":"Grey",
     "meso:gadm_hasc2":"NZ.WC.GR",
@@ -24,6 +26,7 @@
     "mps:longitude":171.573119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Grey District"
     ],
@@ -74,9 +77,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"3,516.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":102079361,
-    "wof:lastmodified":1563281976,
+    "wof:lastmodified":1566672141,
     "wof:name":"Grey District",
     "wof:parent_id":85687165,
     "wof:placetype":"county",

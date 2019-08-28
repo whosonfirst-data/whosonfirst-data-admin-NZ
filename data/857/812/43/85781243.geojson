@@ -12,8 +12,10 @@
     "gn:latitude":-38.16031,
     "gn:longitude":176.26508,
     "iso:country":"NZ",
+    "lbl:bbox":"176.247345,-38.170183,176.257345,-38.160183",
     "lbl:latitude":-38.165183,
     "lbl:longitude":176.252345,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.172265,
     "mps:longitude":176.25113,
     "mz:hierarchy_label":0,
@@ -52,9 +54,8 @@
     "name:nld_x_preferred":[
         "Whakarewarewa"
     ],
-    "name:unk_x_variant":[
-        "Whaka",
-        "Whakarewarewa"
+    "name:und_x_variant":[
+        "Whaka"
     ],
     "name:zho_x_preferred":[
         "\u83ef\u5361\u96f7\u74e6\u96f7\u74e6"
@@ -88,9 +89,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":872,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687175,
         102191583,
@@ -101,7 +101,6 @@
     "wof:concordances":{
         "gn:id":6241300,
         "gp:id":28644170,
-        "qs:id":1086326,
         "qs_pg:id":1086326,
         "wd:id":"Q1134836"
     },
@@ -121,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282131,
+    "wof:lastmodified":1566672241,
     "wof:name":"Whakarewarewa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
-    "geom:area_square_m":43915.86749,
+    "geom:area_square_m":43915.867491,
     "geom:bbox":"170.569777193,-45.8564057681,170.573745162,-45.8536916352",
     "geom:latitude":-45.855117,
     "geom:longitude":170.572202,
     "iso:country":"NZ",
     "lbl:latitude":-45.855168,
     "lbl:longitude":170.57265,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-45.855235,
     "mps:longitude":170.572562,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burkes"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NZ",
-    "wof:geomhash":"3c7c2ff0692e63212f58a801a6841017",
+    "wof:geomhash":"650b54f35b7de71b8c2612d41c8e41c6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":101918003,
-    "wof:lastmodified":1487208190,
+    "wof:lastmodified":1566672506,
     "wof:name":"Burkes",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

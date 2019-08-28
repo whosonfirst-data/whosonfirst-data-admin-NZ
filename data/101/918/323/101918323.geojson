@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":18154.361962,
+    "geom:area_square_m":18154.361961,
     "geom:bbox":"175.304019279,-37.670226625,175.306576974,-37.6676370366",
     "geom:latitude":-37.668999,
     "geom:longitude":175.305338,
     "iso:country":"NZ",
     "lbl:latitude":-37.668773,
     "lbl:longitude":175.305444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.668793,
     "mps:longitude":175.305423,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gordonton"
     ],
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -44,7 +48,6 @@
         "fct:id":"020df40e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2190613,
         "gp:id":2348636,
-        "qs:id":138959,
         "qs_pg:id":138959
     },
     "wof:country":"NZ",
@@ -62,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497291291,
+    "wof:lastmodified":1566672500,
     "wof:name":"Gordonton",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

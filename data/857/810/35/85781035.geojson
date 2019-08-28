@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7696847.482408,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.613107,-36.891956,174.613107,-36.891956",
     "geom:latitude":-36.891956,
     "geom:longitude":174.613107,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.608107,-36.896956,174.618107,-36.886956",
     "lbl:latitude":-36.891956,
     "lbl:longitude":174.613107,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.898762,
     "mps:longitude":174.599193,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Palm Heights"
-    ],
-    "name:unk_x_variant":[
         "Palm Heights"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643981,
-        "qs:id":883692,
         "qs_pg:id":883692
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860129,
+    "wof:lastmodified":1566672217,
     "wof:name":"Palm Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.87964,
     "lbl:longitude":175.014934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.87964,
     "mps:longitude":175.014931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Otaihanga"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":703,
     "wof:belongsto":[
         102191583,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101916221,
-    "wof:lastmodified":1561775496,
+    "wof:lastmodified":1566672465,
     "wof:name":"Otaihanga",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

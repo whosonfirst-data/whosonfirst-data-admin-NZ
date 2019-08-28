@@ -12,8 +12,10 @@
     "gn:latitude":-37.69496,
     "gn:longitude":176.10861,
     "iso:country":"NZ",
+    "lbl:bbox":"176.105518,-37.706054,176.115518,-37.696054",
     "lbl:latitude":-37.701054,
     "lbl:longitude":176.110518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.69883,
     "mps:longitude":176.106223,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Bethlehem"
     ],
     "name:ita_x_preferred":[
-        "Bethlehem"
-    ],
-    "name:unk_x_variant":[
         "Bethlehem"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -69,9 +68,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":182,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687175,
         102191583,
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2193370,
         "gp:id":2348174,
-        "qs:id":385728,
         "qs_pg:id":385728,
         "wd:id":"Q831318",
         "wk:page":"Bethlehem, New Zealand"
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282183,
+    "wof:lastmodified":1566672265,
     "wof:name":"Bethlehem",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

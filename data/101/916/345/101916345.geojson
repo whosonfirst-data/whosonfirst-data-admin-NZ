@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":362399.265266,
+    "geom:area_square_m":362399.265262,
     "geom:bbox":"174.285445028,-39.58768779,174.295196238,-39.5786680666",
     "geom:latitude":-39.583477,
     "geom:longitude":174.290498,
     "iso:country":"NZ",
     "lbl:latitude":-39.584996,
     "lbl:longitude":174.291681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.584995,
     "mps:longitude":174.291682,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nolantown"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gn:id":6223990
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ab61e838e366a9f7931c62e279439edc",
+    "wof:geomhash":"152c4a9295749babf3af1078a9420611",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101916345,
-    "wof:lastmodified":1487208195,
+    "wof:lastmodified":1566672490,
     "wof:name":"Nolantown",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

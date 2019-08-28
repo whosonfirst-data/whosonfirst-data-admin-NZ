@@ -12,8 +12,10 @@
     "gn:latitude":-39.63333,
     "gn:longitude":176.98333,
     "iso:country":"NZ",
+    "lbl:bbox":"176.911138,-39.52345,176.921138,-39.51345",
     "lbl:latitude":-39.51845,
     "lbl:longitude":176.916138,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.522694,
     "mps:longitude":176.916669,
     "mz:hierarchy_label":0,
@@ -46,9 +48,6 @@
     "name:spa_x_preferred":[
         "Te Awanga"
     ],
-    "name:unk_x_variant":[
-        "Te Awa"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2186313,
@@ -77,8 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687189,
         102191583,
@@ -89,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2181589,
         "gp:id":28644292,
-        "qs:id":772272,
         "qs_pg:id":772272,
         "wd:id":"Q7690788",
         "wk:page":"Te Awanga"
@@ -110,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282149,
+    "wof:lastmodified":1566672248,
     "wof:name":"Te Awa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

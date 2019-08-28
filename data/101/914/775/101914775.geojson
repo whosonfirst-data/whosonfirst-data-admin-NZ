@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.247344,
     "lbl:longitude":172.668519,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-43.247343,
     "mps:longitude":172.66852,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sefton"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -68,7 +71,6 @@
         "fct:id":"020dcf6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2182867,
         "gp:id":2350532,
-        "qs:id":1034304,
         "qs_pg:id":1034304
     },
     "wof:country":"NZ",
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120719,
+    "wof:lastmodified":1566672456,
     "wof:name":"Sefton",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

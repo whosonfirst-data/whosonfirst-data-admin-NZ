@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.851196,
     "lbl:longitude":174.845489,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.855115,
     "mps:longitude":174.846946,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Kohimarama"
     ],
     "name:eng_x_preferred":[
-        "Kohimarama"
-    ],
-    "name:unk_x_variant":[
         "Kohimarama"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -64,9 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":862,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -78,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6232296,
         "gp:id":22726422,
-        "qs:id":210136,
         "qs_pg:id":210136,
         "wd:id":"Q6425995",
         "wk:page":"Kohimarama"
@@ -99,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282107,
+    "wof:lastmodified":1566672231,
     "wof:name":"Kohimarama",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

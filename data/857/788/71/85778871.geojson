@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4839926.5605,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.858355,-36.935388,174.858355,-36.935388",
     "geom:latitude":-36.935388,
     "geom:longitude":174.858355,
@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.935388,
     "lbl:longitude":174.858355,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.944562,
     "mps:longitude":174.861858,
     "mz:hierarchy_label":0,
@@ -27,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Otahuhu East"
-    ],
-    "name:unk_x_variant":[
         "Otahuhu East"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,8 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -69,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726629,
-        "qs:id":969910,
         "qs_pg:id":969910
     },
     "wof:country":"NZ",
@@ -87,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859855,
+    "wof:lastmodified":1566672259,
     "wof:name":"Otahuhu East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

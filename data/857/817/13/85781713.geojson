@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4421894.900013,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.297791,-35.741807,174.297791,-35.741807",
     "geom:latitude":-35.741807,
     "geom:longitude":174.297791,
     "iso:country":"NZ",
+    "lbl:bbox":"174.292791,-35.746807,174.302791,-35.736807",
     "lbl:latitude":-35.741807,
     "lbl:longitude":174.297791,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.741926,
     "mps:longitude":174.297673,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Raumanga"
-    ],
-    "name:unk_x_variant":[
         "Raumanga"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,15 +56,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":141,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
         101914253,
-        102079257,
-        85687149
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860259,
+    "wof:lastmodified":1566672223,
     "wof:name":"Raumanga",
     "wof:parent_id":101914253,
     "wof:placetype":"neighbourhood",

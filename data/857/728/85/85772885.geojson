@@ -9,12 +9,14 @@
     "geom:bbox":"175.287357,-37.778186,175.287357,-37.778186",
     "geom:latitude":-37.778186,
     "geom:longitude":175.287357,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"175.282357,-37.783186,175.292357,-37.773186",
     "lbl:latitude":-37.778186,
     "lbl:longitude":175.287357,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.778266,
     "mps:longitude":175.287444,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Claudelands"
     ],
     "name:msa_x_preferred":[
-        "Claudelands"
-    ],
-    "name:unk_x_variant":[
         "Claudelands"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -86,9 +85,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":504,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687229,
         102191583,
@@ -99,7 +97,6 @@
     "wof:concordances":{
         "gn:id":6249338,
         "gp:id":2348343,
-        "qs:id":1312194,
         "qs_pg:id":1312194,
         "wd:id":"Q10546519"
     },
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282185,
+    "wof:lastmodified":1566672265,
     "wof:name":"Claudelands",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

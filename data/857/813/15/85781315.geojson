@@ -11,8 +11,10 @@
     "geom:longitude":176.15709,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"176.15209,-37.670493,176.16209,-37.660493",
     "lbl:latitude":-37.665493,
     "lbl:longitude":176.15709,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.662486,
     "mps:longitude":176.159337,
     "mz:hierarchy_label":0,
@@ -84,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0435\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Bureta"
-    ],
     "name:uzb_x_preferred":[
         "Bureta"
     ],
@@ -130,8 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -140,7 +138,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644254,
-        "qs:id":1088580,
         "qs_pg:id":1088580
     },
     "wof:country":"NZ",
@@ -158,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120482,
+    "wof:lastmodified":1566672249,
     "wof:name":"Bureta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

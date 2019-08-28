@@ -12,8 +12,10 @@
     "gn:latitude":-41.24826,
     "gn:longitude":173.29017,
     "iso:country":"NZ",
+    "lbl:bbox":"173.293951,-41.264156,173.303951,-41.254156",
     "lbl:latitude":-41.259156,
     "lbl:longitude":173.298951,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.253924,
     "mps:longitude":173.304841,
     "mz:hierarchy_label":0,
@@ -79,9 +81,6 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e23\u0e39\u0e01\u0e41\u0e25\u0e19\u0e14\u0e4c\u0e2a"
     ],
-    "name:unk_x_variant":[
-        "Brooklands"
-    ],
     "name:zho_x_preferred":[
         "\u5e03\u9c81\u514b\u5170\u5179"
     ],
@@ -114,8 +113,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687157,
         102191583,
@@ -126,7 +124,6 @@
     "wof:concordances":{
         "gn:id":6242990,
         "gp:id":28644520,
-        "qs:id":1086333,
         "qs_pg:id":1086333
     },
     "wof:country":"NZ",
@@ -145,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120473,
+    "wof:lastmodified":1566672244,
     "wof:name":"Brooklands",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

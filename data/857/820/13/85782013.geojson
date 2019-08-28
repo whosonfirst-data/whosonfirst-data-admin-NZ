@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2052088.639758,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.290466,-38.12289,176.290466,-38.12289",
     "geom:latitude":-38.12289,
     "geom:longitude":176.290466,
     "gn:latitude":-38.12065,
     "gn:longitude":176.30104,
     "iso:country":"NZ",
+    "lbl:bbox":"176.285466,-38.12789,176.295466,-38.11789",
     "lbl:latitude":-38.12289,
     "lbl:longitude":176.290466,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.120495,
     "mps:longitude":176.290374,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Holdens Bay"
-    ],
-    "name:unk_x_variant":[
         "Holdens Bay"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,19 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6241220,
         "gp:id":28645524,
-        "qs:id":887344,
         "qs_pg:id":887344
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860302,
+    "wof:lastmodified":1566672212,
     "wof:name":"Holdens Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

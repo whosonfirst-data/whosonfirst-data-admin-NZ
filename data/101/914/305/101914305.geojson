@@ -13,6 +13,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.142487,
     "lbl:longitude":175.552206,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.142488,
     "mps:longitude":175.552205,
     "mz:hierarchy_label":1,
@@ -169,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-37.138333,
     "wd:longitude":175.5375,
@@ -185,7 +187,6 @@
         "fct:id":"020dd3fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2208333,
         "gp:id":2350884,
-        "qs:id":980890,
         "qs_pg:id":980890,
         "wd:id":"Q1691479",
         "wk:page":"Thames, New Zealand"
@@ -205,7 +206,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282477,
+    "wof:lastmodified":1566672442,
     "wof:name":"Thames",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

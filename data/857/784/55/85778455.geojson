@@ -12,8 +12,10 @@
     "gn:latitude":-43.50833,
     "gn:longitude":172.61013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.616107,-43.526015,172.626107,-43.516015",
     "lbl:latitude":-43.521015,
     "lbl:longitude":172.621107,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.517015,
     "mps:longitude":172.617423,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0440\u0438\u0432\u0435\u0439\u043b"
-    ],
-    "name:unk_x_variant":[
-        "Merivale"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -69,9 +68,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":406,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":6220356,
         "gp:id":22726451,
-        "qs:id":1086016,
         "qs_pg:id":1086016,
         "wd:id":"Q6819576",
         "wk:page":"Merivale"
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282111,
+    "wof:lastmodified":1566672232,
     "wof:name":"Merivale",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

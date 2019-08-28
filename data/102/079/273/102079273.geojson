@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.983073,
     "lbl:longitude":175.504581,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Waikato Region",
     "meso:gadm_admin":"Waipa",
     "meso:gadm_hasc2":"NZ.WK.WP",
@@ -24,6 +26,7 @@
     "mps:longitude":175.504581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u0627\u064a\u0628\u0627"
     ],
@@ -71,9 +74,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"1,473.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":102079273,
-    "wof:lastmodified":1563281952,
+    "wof:lastmodified":1566672114,
     "wof:name":"Waipa District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

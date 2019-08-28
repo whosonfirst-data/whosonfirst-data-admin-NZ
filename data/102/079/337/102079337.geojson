@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.278526,
     "lbl:longitude":174.978536,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Wellington Region",
     "meso:gadm_admin":"Hutt city",
     "meso:gadm_hasc2":"NO DATA",
@@ -24,6 +26,7 @@
     "mps:longitude":174.978536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lower Hutt City"
     ],
@@ -42,9 +45,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"377.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102079337,
-    "wof:lastmodified":1536614407,
+    "wof:lastmodified":1566672108,
     "wof:name":"Lower Hutt City",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

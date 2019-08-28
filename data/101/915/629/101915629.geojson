@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.027886,
     "lbl:longitude":175.522053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.027886,
     "mps:longitude":175.522053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Carterton"
     ],
@@ -237,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -249,7 +252,6 @@
         "fct:id":"020de19e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6226000,
         "gp:id":2348288,
-        "qs:id":923593,
         "qs_pg:id":923593,
         "wd:id":"Q1045948",
         "wk:page":"Carterton, New Zealand"
@@ -269,7 +271,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282376,
+    "wof:lastmodified":1566672388,
     "wof:name":"Carterton",
     "wof:parent_id":102079345,
     "wof:placetype":"locality",

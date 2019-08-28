@@ -12,8 +12,10 @@
     "gn:latitude":-36.8082,
     "gn:longitude":174.72019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.709005,-36.80397,174.719005,-36.79397",
     "lbl:latitude":-36.79897,
     "lbl:longitude":174.714005,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.810153,
     "mps:longitude":174.73366,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Birkenhead"
     ],
     "name:eng_x_preferred":[
-        "Birkenhead"
-    ],
-    "name:unk_x_variant":[
         "Birkenhead"
     ],
     "qs:gn_fcode":"PPLX",
@@ -61,8 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -73,7 +71,6 @@
     "wof:concordances":{
         "gn:id":6232146,
         "gp:id":22726334,
-        "qs:id":320622,
         "qs_pg:id":320622,
         "wd:id":"Q865555",
         "wk:page":"Birkenhead, New Zealand"
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282170,
+    "wof:lastmodified":1566672260,
     "wof:name":"Birkenhead",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

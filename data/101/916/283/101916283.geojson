@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
-    "geom:area_square_m":78209.315776,
+    "geom:area_square_m":78209.315778,
     "geom:bbox":"172.667081457,-43.4059467576,172.675822886,-43.4002787116",
     "geom:latitude":-43.403192,
     "geom:longitude":172.672096,
     "iso:country":"NZ",
     "lbl:latitude":-43.40349,
     "lbl:longitude":172.672762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-43.403487,
     "mps:longitude":172.672741,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stewarts Gully"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gp:id":28644073
     },
     "wof:country":"NZ",
-    "wof:geomhash":"307093db21a4bebfce89bdc29bc9b8d9",
+    "wof:geomhash":"9622f72e37939a4605ad5cb75d64def3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101916283,
-    "wof:lastmodified":1487208194,
+    "wof:lastmodified":1566672480,
     "wof:name":"Stewarts Gully",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

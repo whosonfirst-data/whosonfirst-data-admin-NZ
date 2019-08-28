@@ -11,8 +11,10 @@
     "geom:longitude":173.964987,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"173.959987,-41.517715,173.969987,-41.507715",
     "lbl:latitude":-41.512715,
     "lbl:longitude":173.964987,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.513034,
     "mps:longitude":173.970563,
     "mz:hierarchy_label":0,
@@ -72,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0443\u043d\u0441\u0435\u043d\u0434"
     ],
-    "name:unk_x_variant":[
-        "Townsend"
-    ],
     "name:vol_x_preferred":[
         "Townsend"
     ],
@@ -106,8 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687185,
         102191583,
@@ -117,7 +115,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644082,
-        "qs:id":1197224,
         "qs_pg:id":1197224
     },
     "wof:country":"NZ",
@@ -136,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120427,
+    "wof:lastmodified":1566672216,
     "wof:name":"Townsend",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

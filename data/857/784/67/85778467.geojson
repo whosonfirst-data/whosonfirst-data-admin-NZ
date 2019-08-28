@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.875614,
     "lbl:longitude":174.73686,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.880644,
     "mps:longitude":174.729169,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Morningside"
     ],
     "name:tur_x_preferred":[
-        "Morningside"
-    ],
-    "name:unk_x_variant":[
         "Morningside"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -64,9 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":206,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -77,7 +74,6 @@
     "wof:concordances":{
         "gn:id":6232266,
         "gp:id":22726459,
-        "qs:id":1182488,
         "qs_pg:id":1182488,
         "wd:id":"Q6912960",
         "wk:page":"Morningside, Auckland"
@@ -98,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282106,
+    "wof:lastmodified":1566672231,
     "wof:name":"Morningside",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

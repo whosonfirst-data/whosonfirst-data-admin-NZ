@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.279497,
     "lbl:longitude":173.766989,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-41.279502,
     "mps:longitude":173.766994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Havelock"
     ],
@@ -38,9 +41,6 @@
     "name:pol_x_preferred":[
         "Havelock"
     ],
-    "name:unk_x_variant":[
-        "Havelock Town District"
-    ],
     "qs:a0":"New Zealand",
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":448,
     "wof:belongsto":[
@@ -69,7 +69,6 @@
         "fct:id":"020de2d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2190172,
         "gp:id":2348725,
-        "qs:id":138958,
         "qs_pg:id":138958,
         "wd:id":"Q151982",
         "wk:page":"Havelock, New Zealand"
@@ -89,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282521,
+    "wof:lastmodified":1566672462,
     "wof:name":"Havelock",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

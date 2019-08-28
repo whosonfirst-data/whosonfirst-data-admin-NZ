@@ -12,8 +12,10 @@
     "gn:latitude":-36.8582,
     "gn:longitude":174.90019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.895749,-36.856293,174.905749,-36.846293",
     "lbl:latitude":-36.851293,
     "lbl:longitude":174.900749,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.841863,
     "mps:longitude":174.903274,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:eng_x_variant":[
         "Bucklands Beach"
-    ],
-    "name:unk_x_variant":[
-        "Bucklands Beach North"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -61,9 +60,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":6039,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":6232092,
         "gp:id":22726603,
-        "qs:id":56298,
         "qs_pg:id":56298,
         "wd:id":"Q4983300",
         "wk:page":"Bucklands Beach"
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282169,
+    "wof:lastmodified":1566672259,
     "wof:name":"Bucklands Beach North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

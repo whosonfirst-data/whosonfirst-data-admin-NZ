@@ -12,8 +12,10 @@
     "gn:latitude":-43.47833,
     "gn:longitude":172.58013,
     "iso:country":"NZ",
+    "lbl:bbox":"172.583943,-43.492756,172.593943,-43.482756",
     "lbl:latitude":-43.487756,
     "lbl:longitude":172.588943,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.487801,
     "mps:longitude":172.589729,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Bishopdale"
     ],
     "name:swe_x_preferred":[
-        "Bishopdale"
-    ],
-    "name:unk_x_variant":[
         "Bishopdale"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -66,9 +65,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":16,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6220355,
         "gp:id":22726335,
-        "qs:id":1315987,
         "qs_pg:id":1315987
     },
     "wof:country":"NZ",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120498,
+    "wof:lastmodified":1566672259,
     "wof:name":"Bishopdale",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

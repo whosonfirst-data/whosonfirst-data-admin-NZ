@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
-    "geom:area_square_m":113864.568865,
+    "geom:area_square_m":113864.568862,
     "geom:bbox":"173.307265888,-42.8634441435,173.311565144,-42.8540748498",
     "geom:latitude":-42.858682,
     "geom:longitude":173.30931,
     "iso:country":"NZ",
     "lbl:latitude":-42.858553,
     "lbl:longitude":173.309279,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-42.858549,
     "mps:longitude":173.309281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gore Bay"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":12,
     "wof:belongsto":[
         102191583,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101916529,
-    "wof:lastmodified":1527715560,
+    "wof:lastmodified":1566672474,
     "wof:name":"Gore Bay",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

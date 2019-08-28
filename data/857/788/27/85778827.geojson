@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2683065.966348,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.693443,-36.895604,174.693443,-36.895604",
     "geom:latitude":-36.895604,
     "geom:longitude":174.693443,
@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.895604,
     "lbl:longitude":174.693443,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.892288,
     "mps:longitude":174.689351,
     "mz:hierarchy_label":0,
@@ -27,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Avondale North"
-    ],
-    "name:unk_x_variant":[
         "Avondale North"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726615,
-        "qs:id":1262859,
         "qs_pg:id":1262859
     },
     "wof:country":"NZ",
@@ -89,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859840,
+    "wof:lastmodified":1566672257,
     "wof:name":"Avondale North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

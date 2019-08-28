@@ -12,8 +12,10 @@
     "gn:latitude":-39.62824,
     "gn:longitude":176.83021,
     "iso:country":"NZ",
+    "lbl:bbox":"176.824529,-39.633959,176.834529,-39.623959",
     "lbl:latitude":-39.628959,
     "lbl:longitude":176.829529,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.62612,
     "mps:longitude":176.828579,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
         "St Leonards"
     ],
     "name:swe_x_preferred":[
-        "St Leonards"
-    ],
-    "name:unk_x_variant":[
         "St Leonards"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -75,8 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687189,
         102191583,
@@ -88,7 +86,6 @@
     "wof:concordances":{
         "gn:id":6246625,
         "gp:id":28644736,
-        "qs:id":505411,
         "qs_pg:id":505411
     },
     "wof:country":"NZ",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120436,
+    "wof:lastmodified":1566672222,
     "wof:name":"St Leonards",
     "wof:parent_id":101914313,
     "wof:placetype":"neighbourhood",

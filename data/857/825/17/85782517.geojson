@@ -11,8 +11,10 @@
     "geom:longitude":174.947797,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.942797,-41.267365,174.952797,-41.257365",
     "lbl:latitude":-41.262365,
     "lbl:longitude":174.947797,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.263118,
     "mps:longitude":174.948952,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:msa_x_preferred":[
         "Wainuiomata"
-    ],
-    "name:unk_x_variant":[
-        "Wainuiomata Central"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -62,8 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687233,
         102191583,
@@ -74,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676775,
-        "qs:id":192810,
         "qs_pg:id":192810
     },
     "wof:country":"NZ",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120483,
+    "wof:lastmodified":1566672249,
     "wof:name":"Wainuiomata",
     "wof:parent_id":101914357,
     "wof:placetype":"neighbourhood",

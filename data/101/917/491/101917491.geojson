@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
-    "geom:area_square_m":82392.092643,
+    "geom:area_square_m":128215.529399,
     "geom:bbox":"176.86128944,-39.5407367343,176.869624906,-39.5324016088",
     "geom:latitude":-39.535774,
     "geom:longitude":176.866667,
     "iso:country":"NZ",
     "lbl:latitude":-39.533814,
     "lbl:longitude":176.867417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.533813,
     "mps:longitude":176.86741,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jervoistown"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NZ",
-    "wof:geomhash":"682ee03e934d790a73431668a9b522c8",
+    "wof:geomhash":"ef72a7e7e393f6e68af890aead601179",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":101917491,
-    "wof:lastmodified":1487270018,
+    "wof:lastmodified":1566672518,
     "wof:name":"Jervoistown",
     "wof:parent_id":102079331,
     "wof:placetype":"locality",

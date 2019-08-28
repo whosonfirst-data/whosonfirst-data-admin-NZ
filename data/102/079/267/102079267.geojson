@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.67318,
     "lbl:longitude":175.688398,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Waikato Region",
     "meso:gadm_admin":"Matamata-Piako",
     "meso:gadm_hasc2":"NZ.WK.MP",
@@ -24,6 +26,7 @@
     "mps:longitude":175.688398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Matamata-Piako District"
     ],
@@ -77,9 +80,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"1,755.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":102079267,
-    "wof:lastmodified":1563281966,
+    "wof:lastmodified":1566672131,
     "wof:name":"Matamata-Piako District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

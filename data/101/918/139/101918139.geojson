@@ -9,14 +9,17 @@
     "geom:bbox":"172.732708221,-43.5698336892,172.735067686,-43.5681112684",
     "geom:latitude":-43.569011,
     "geom:longitude":172.733983,
-    "geonames:id":"2183578,6220850",
+    "gn:id":"2183578,6220850",
     "iso:country":"NZ",
     "lbl:latitude":-43.569068,
     "lbl:longitude":172.734011,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-43.569053,
     "mps:longitude":172.734031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Redcliffs"
     ],
@@ -38,7 +41,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":475,
     "wof:belongsto":[
         102191583,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101918139,
-    "wof:lastmodified":1563282569,
+    "wof:lastmodified":1566672503,
     "wof:name":"Redcliffs",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

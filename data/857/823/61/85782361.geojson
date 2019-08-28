@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4071460.211389,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.33924,-46.614749,168.33924,-46.614749",
     "geom:latitude":-46.614749,
     "geom:longitude":168.33924,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"168.33424,-46.619749,168.34424,-46.609749",
     "lbl:latitude":-46.614749,
     "lbl:longitude":168.33924,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.622217,
     "mps:longitude":168.335484,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Bluff Central"
-    ],
-    "name:unk_x_variant":[
         "Bluff Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687211,
         102191583,
         85633345,
-        102079397,
-        85687211
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676721,
-        "qs:id":375342,
         "qs_pg:id":375342
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860348,
+    "wof:lastmodified":1566672236,
     "wof:name":"Bluff Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

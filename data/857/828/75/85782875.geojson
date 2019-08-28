@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12936375.2939,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.524834,-35.714974,174.524834,-35.714974",
     "geom:latitude":-35.714974,
     "geom:longitude":174.524834,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.519834,-35.719974,174.529834,-35.709974",
     "lbl:latitude":-35.714974,
     "lbl:longitude":174.524834,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.716086,
     "mps:longitude":174.525029,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Pataua South"
-    ],
-    "name:unk_x_variant":[
         "Pataua South"
     ],
     "qs:gn_id":0,
@@ -55,9 +54,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":50,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85633345,
@@ -66,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55876516,
-        "qs:id":1311221,
         "qs_pg:id":1311221,
         "wd:id":"Q7144283"
     },
@@ -85,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860426,
+    "wof:lastmodified":1566672220,
     "wof:name":"Pataua South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4119946.226034,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.156967,-37.566607,175.156967,-37.566607",
     "geom:latitude":-37.566607,
     "geom:longitude":175.156967,
     "iso:country":"NZ",
+    "lbl:bbox":"175.151967,-37.571607,175.161967,-37.561607",
     "lbl:latitude":-37.566607,
     "lbl:longitude":175.156967,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.5707,
     "mps:longitude":175.154013,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Huntly West"
-    ],
-    "name:unk_x_variant":[
         "Huntly West"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,13 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079265,
-        85687229
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860114,
+    "wof:lastmodified":1566672254,
     "wof:name":"Huntly West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

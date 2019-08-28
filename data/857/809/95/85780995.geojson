@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2485433.080191,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.850403,-35.953552,173.850403,-35.953552",
     "geom:latitude":-35.953552,
     "geom:longitude":173.850403,
     "gn:latitude":-35.95043,
     "gn:longitude":173.86384,
     "iso:country":"NZ",
+    "lbl:bbox":"173.845403,-35.958552,173.855403,-35.948552",
     "lbl:latitude":-35.953552,
     "lbl:longitude":173.850403,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.953996,
     "mps:longitude":173.84852,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Mangawhare"
-    ],
-    "name:unk_x_variant":[
         "Mangawhare"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,19 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        102079259,
-        85687149
+        102079259
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6230043,
         "gp:id":28643919,
-        "qs:id":356939,
         "qs_pg:id":356939
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860122,
+    "wof:lastmodified":1566672251,
     "wof:name":"Mangawhare",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.713153,
     "lbl:longitude":173.517429,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Marlborough Region",
     "meso:gadm_admin":"Marlborough",
     "meso:gadm_hasc2":"NZ.MA.MB",
@@ -24,6 +26,7 @@
     "mps:longitude":173.517429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e"
     ],
@@ -116,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"12,484.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":102079353,
-    "wof:lastmodified":1536614412,
+    "wof:lastmodified":1566672099,
     "wof:name":"Marlborough District",
     "wof:parent_id":85687185,
     "wof:placetype":"county",

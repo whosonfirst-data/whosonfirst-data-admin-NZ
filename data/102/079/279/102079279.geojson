@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.430144,
     "lbl:longitude":174.958352,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Waikato Region",
     "meso:gadm_admin":"Waitomo",
     "meso:gadm_hasc2":"NZ.WK.WO",
@@ -24,6 +26,7 @@
     "mps:longitude":174.958352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Waitomo District"
     ],
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"3,551.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":102079279,
-    "wof:lastmodified":1563281984,
+    "wof:lastmodified":1566672148,
     "wof:name":"Waitomo District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

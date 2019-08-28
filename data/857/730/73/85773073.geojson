@@ -10,8 +10,10 @@
     "geom:latitude":-45.906185,
     "geom:longitude":170.550429,
     "iso:country":"NZ",
+    "lbl:bbox":"170.545429,-45.911185,170.555429,-45.901185",
     "lbl:latitude":-45.906185,
     "lbl:longitude":170.550429,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-45.906014,
     "mps:longitude":170.554858,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:srp_x_preferred":[
         "\u041e\u0443\u0448\u0430\u043d \u0413\u0440\u043e\u0443\u0432"
     ],
-    "name:unk_x_variant":[
-        "Ocean Grove"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2191562,
@@ -81,9 +80,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":63,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687201,
         102191583,
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":6212220,
         "gp:id":2349770,
-        "qs:id":222464,
         "qs_pg:id":222464
     },
     "wof:country":"NZ",
@@ -113,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120409,
+    "wof:lastmodified":1566672204,
     "wof:name":"Ocean Grove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

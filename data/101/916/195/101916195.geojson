@@ -12,9 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.251773,
     "lbl:longitude":174.907319,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.251773,
     "mps:longitude":174.907321,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Point Howard"
     ],
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -44,7 +48,6 @@
         "fct:id":"020d7664-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6244856,
         "gp:id":22726498,
-        "qs:id":1002819,
         "qs_pg:id":1002819,
         "woe:id":22726498
     },
@@ -63,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1496793251,
+    "wof:lastmodified":1566672462,
     "wof:name":"Point Howard",
     "wof:parent_id":102079337,
     "wof:placetype":"locality",

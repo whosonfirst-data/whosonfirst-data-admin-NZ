@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2971876.673168,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.326923,-41.243202,173.326923,-41.243202",
     "geom:latitude":-41.243202,
     "geom:longitude":173.326923,
     "gn:latitude":-41.23826,
     "gn:longitude":173.32017,
     "iso:country":"NZ",
+    "lbl:bbox":"173.321923,-41.248202,173.331923,-41.238202",
     "lbl:latitude":-41.243202,
     "lbl:longitude":173.326923,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.245574,
     "mps:longitude":173.325371,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Dodson Valley"
-    ],
-    "name:unk_x_variant":[
         "Dodson Valley"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,19 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6243003,
         "gp:id":28644521,
-        "qs:id":43636,
         "qs_pg:id":43636
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860239,
+    "wof:lastmodified":1566672244,
     "wof:name":"Dodson Valley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

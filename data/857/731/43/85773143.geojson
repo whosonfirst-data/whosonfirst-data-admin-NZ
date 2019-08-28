@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3124970.399743,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.84126,-39.522604,176.84126,-39.522604",
     "geom:latitude":-39.522604,
     "geom:longitude":176.84126,
     "gn:latitude":-39.52333,
     "gn:longitude":176.84417,
     "iso:country":"NZ",
+    "lbl:bbox":"176.83626,-39.527604,176.84626,-39.517604",
     "lbl:latitude":-39.522604,
     "lbl:longitude":176.84126,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.520022,
     "mps:longitude":176.83754,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Puk-kura"
-    ],
-    "name:unk_x_variant":[
         "Puk-kura"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
-        102079331,
-        85687189
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2206823,
         "gp:id":2350220,
-        "qs:id":1312784,
         "qs_pg:id":1312784
     },
     "wof:country":"NZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859632,
+    "wof:lastmodified":1566672207,
     "wof:name":"Puk-kura",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

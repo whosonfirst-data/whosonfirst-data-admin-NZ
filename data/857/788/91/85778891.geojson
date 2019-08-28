@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4933053.904983,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.524757,-43.557982,172.524757,-43.557982",
     "geom:latitude":-43.557982,
     "geom:longitude":172.524757,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"172.519757,-43.562982,172.529757,-43.552982",
     "lbl:latitude":-43.557982,
     "lbl:longitude":172.524757,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.556329,
     "mps:longitude":172.517525,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Hornby South"
-    ],
-    "name:unk_x_variant":[
         "Hornby South"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726635,
-        "qs:id":1329477,
         "qs_pg:id":1329477
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859858,
+    "wof:lastmodified":1566672258,
     "wof:name":"Hornby South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

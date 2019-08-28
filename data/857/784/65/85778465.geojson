@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1101651.751835,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.903116,-41.227685,174.903116,-41.227685",
     "geom:latitude":-41.227685,
     "geom:longitude":174.903116,
     "gn:latitude":-41.22827,
     "gn:longitude":174.90019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.898116,-41.232685,174.908116,-41.222685",
     "lbl:latitude":-41.227685,
     "lbl:longitude":174.903116,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.228936,
     "mps:longitude":174.907355,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Moera"
-    ],
-    "name:unk_x_variant":[
         "Moera"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -61,21 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":414,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914319,
-        102079337,
-        85687233
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244861,
         "gp:id":22726457,
-        "qs:id":113016,
         "qs_pg:id":113016,
         "wd:id":"Q6890238",
         "wk:page":"Moera"
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859798,
+    "wof:lastmodified":1566672232,
     "wof:name":"Moera",
     "wof:parent_id":101914319,
     "wof:placetype":"neighbourhood",

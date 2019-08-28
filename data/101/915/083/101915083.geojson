@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.391081,
     "lbl:longitude":175.833336,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.383813,
     "mps:longitude":175.853736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Waihi"
     ],
@@ -56,7 +59,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1423,
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         "fct:id":"020de234-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2208328,
         "gp:id":55959719,
-        "qs:id":138985,
+        "qs_pg:id":138985,
         "wd:id":"Q498833",
         "wk:page":"Waihi"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101915083,
-    "wof:lastmodified":1563282374,
+    "wof:lastmodified":1566672386,
     "wof:name":"Waihi",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

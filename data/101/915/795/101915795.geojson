@@ -12,9 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.0962,
     "lbl:longitude":175.13931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.0962,
     "mps:longitude":175.13931,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Plateau"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NZ",
-    "wof:geomhash":"d23b063f8d885a8d367c55016b5d5f34",
+    "wof:geomhash":"a58e84fd15b90019fc5fc9e350af9482",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":101915795,
-    "wof:lastmodified":1487208197,
+    "wof:lastmodified":1566672403,
     "wof:name":"The Plateau",
     "wof:parent_id":102079335,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
-    "geom:area_square_m":24615.883802,
+    "geom:area_square_m":56384.975282,
     "geom:bbox":"176.884007958,-39.545210852,176.892412737,-39.5428633745",
     "geom:latitude":-39.543794,
     "geom:longitude":176.888027,
     "iso:country":"NZ",
     "lbl:latitude":-39.543525,
     "lbl:longitude":176.890944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.543686,
     "mps:longitude":176.884862,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meeanee"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -44,7 +48,7 @@
         "gp:id":2349509
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8d90ba078e07a58741752ad46c357a7b",
+    "wof:geomhash":"dba4218560365e48d6cd0c135417ed62",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +62,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1487269950,
+    "wof:lastmodified":1566672452,
     "wof:name":"Meeanee",
     "wof:parent_id":102079331,
     "wof:placetype":"locality",

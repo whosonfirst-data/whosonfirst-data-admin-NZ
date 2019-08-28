@@ -11,8 +11,10 @@
     "geom:longitude":174.853249,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.848249,-36.980586,174.858249,-36.970586",
     "lbl:latitude":-36.975586,
     "lbl:longitude":174.853249,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.966372,
     "mps:longitude":174.848859,
     "mz:hierarchy_label":0,
@@ -46,9 +48,6 @@
     "name:por_x_preferred":[
         "Papatoetoe"
     ],
-    "name:unk_x_variant":[
-        "Papatoetoe Central"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u514b\u862d"
     ],
@@ -79,9 +78,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1645,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -92,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644853,
-        "qs:id":991845,
         "qs_pg:id":991845,
         "wd:id":"Q7132514"
     },
@@ -112,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282055,
+    "wof:lastmodified":1566672209,
     "wof:name":"Papatoetoe",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

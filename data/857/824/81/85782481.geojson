@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14439209.700285,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.2858,-38.008263,177.2858,-38.008263",
     "geom:latitude":-38.008263,
     "geom:longitude":177.2858,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"177.2808,-38.013263,177.2908,-38.003263",
     "lbl:latitude":-38.008263,
     "lbl:longitude":177.2858,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.010905,
     "mps:longitude":177.284958,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Opotiki Central"
-    ],
-    "name:unk_x_variant":[
         "Opotiki Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,18 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        102079321,
-        85687175
+        102079321
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676756,
-        "qs:id":980528
+        "qs_pg:id":980528
     },
     "wof:country":"NZ",
     "wof:geomhash":"f9f2ad55c2920c7ea46e293a1ae86e13",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860375,
+    "wof:lastmodified":1566672238,
     "wof:name":"Opotiki Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

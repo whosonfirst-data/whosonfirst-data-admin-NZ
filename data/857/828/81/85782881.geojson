@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8207802.482434,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.328399,-37.795334,175.328399,-37.795334",
     "geom:latitude":-37.795334,
     "geom:longitude":175.328399,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.323399,-37.800334,175.333399,-37.790334",
     "lbl:latitude":-37.795334,
     "lbl:longitude":175.328399,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.793658,
     "mps:longitude":175.342223,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Silverdale East"
-    ],
-    "name:unk_x_variant":[
         "Silverdale East"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
         101914271,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55876634,
-        "qs:id":1211113,
         "qs_pg:id":1211113
     },
     "wof:country":"NZ",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860427,
+    "wof:lastmodified":1566672221,
     "wof:name":"Silverdale East",
     "wof:parent_id":101914271,
     "wof:placetype":"neighbourhood",

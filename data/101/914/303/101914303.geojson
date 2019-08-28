@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.278727,
     "lbl:longitude":169.850894,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-46.288714,
     "mps:longitude":169.846647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Kaitangata"
     ],
@@ -44,7 +47,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775485,
+    "wof:lastmodified":1566672440,
     "wof:name":"Kaitangata",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

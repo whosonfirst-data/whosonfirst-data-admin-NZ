@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000443,
-    "geom:area_square_m":4114139.082363,
+    "geom:area_square_m":4114139.082371,
     "geom:bbox":"174.807407858,-41.2654203025,174.832628726,-41.2358761019",
     "geom:latitude":-41.251551,
     "geom:longitude":174.819185,
@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.241374,
     "lbl:longitude":174.811664,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.255681,
     "mps:longitude":174.820687,
     "mz:hierarchy_label":1,
@@ -31,10 +32,6 @@
     ],
     "name:eng_x_variant":[
         "Ngahauranga"
-    ],
-    "name:unk_x_variant":[
-        "Ngahauranga",
-        "Ngauranga"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPL",
@@ -64,9 +61,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":313,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         85633345,
@@ -76,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2186131,
         "gp:id":2349717,
-        "qs:id":887223,
         "qs_pg:id":887223,
         "wd:id":"Q7022179",
         "wk:page":"Ngauranga"
@@ -97,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639280,
+    "wof:lastmodified":1566672203,
     "wof:name":"Ngauranga",
     "wof:parent_id":101914409,
     "wof:placetype":"neighbourhood",

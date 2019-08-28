@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000073,
-    "geom:area_square_m":724059.846264,
+    "geom:area_square_m":724059.846269,
     "geom:bbox":"175.730565954,-36.8421469493,175.758152398,-36.8323337617",
     "geom:latitude":-36.838245,
     "geom:longitude":175.746696,
     "iso:country":"NZ",
     "lbl:latitude":-36.839285,
     "lbl:longitude":175.752221,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.839285,
     "mps:longitude":175.752223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooks Beach"
     ],
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191583,
@@ -45,7 +48,6 @@
     "wof:concordances":{
         "gn:id":6618896,
         "gp:id":28645501,
-        "qs:id":905961,
         "qs_pg:id":905961
     },
     "wof:country":"NZ",
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":101915707,
-    "wof:lastmodified":1527643128,
+    "wof:lastmodified":1566672385,
     "wof:name":"Cooks Beach",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

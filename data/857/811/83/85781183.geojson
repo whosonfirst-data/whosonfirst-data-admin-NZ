@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14845656.40187,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.332184,-35.684647,174.332184,-35.684647",
     "geom:latitude":-35.684647,
     "geom:longitude":174.332184,
     "gn:latitude":-35.68818,
     "gn:longitude":174.32018,
     "iso:country":"NZ",
+    "lbl:bbox":"174.327184,-35.689647,174.337184,-35.679647",
     "lbl:latitude":-35.684647,
     "lbl:longitude":174.332184,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.681195,
     "mps:longitude":174.334581,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Tikipunga"
-    ],
-    "name:unk_x_variant":[
         "Tikipunga"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,21 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":424,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
         101914253,
-        102079257,
-        85687149
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6230839,
         "gp:id":28644117,
-        "qs:id":1086324,
         "qs_pg:id":1086324,
         "wd:id":"Q7801940",
         "wk:page":"Tikipunga"
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860157,
+    "wof:lastmodified":1566672216,
     "wof:name":"Tikipunga",
     "wof:parent_id":101914253,
     "wof:placetype":"neighbourhood",

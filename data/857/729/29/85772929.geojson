@@ -12,8 +12,10 @@
     "gn:latitude":-36.7682,
     "gn:longitude":174.66019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.668526,-36.778332,174.678526,-36.768332",
     "lbl:latitude":-36.773332,
     "lbl:longitude":174.673526,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.774095,
     "mps:longitude":174.666477,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:swe_x_preferred":[
         "Greenhithe"
     ],
-    "name:unk_x_variant":[
-        "Greenhithe"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"E7",
@@ -85,11 +84,10 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":51.4504,
     "wd:longitude":0.2823,
     "wd:wordcount":1169,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":6231822,
         "gp:id":2348655,
-        "qs:id":319660,
         "qs_pg:id":319660
     },
     "wof:country":"NZ",
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120517,
+    "wof:lastmodified":1566672270,
     "wof:name":"Greenhithe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

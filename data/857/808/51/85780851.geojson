@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4067405.187377,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.082752,-39.068608,174.082752,-39.068608",
     "geom:latitude":-39.068608,
     "geom:longitude":174.082752,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":-39.07348,
     "gn:longitude":174.08206,
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"174.077752,-39.073608,174.087752,-39.063608",
     "lbl:latitude":-39.068608,
     "lbl:longitude":174.082752,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.074165,
     "mps:longitude":174.084318,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Brooklands"
-    ],
-    "name:unk_x_variant":[
         "Brooklands"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -81,9 +80,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":594,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687195,
         102191583,
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":6222902,
         "gp:id":28643793,
-        "qs:id":1196870,
         "qs_pg:id":1196870,
         "wd:id":"Q4974668",
         "wk:page":"Brooklands, Taranaki"
@@ -115,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379390,
+    "wof:lastmodified":1566672254,
     "wof:name":"Brooklands",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

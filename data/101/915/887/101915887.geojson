@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.21097,
     "lbl:longitude":172.751791,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-43.210972,
     "mps:longitude":172.751788,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0438\u0442\u0445\u0444\u0438\u0435\u043b\u0434"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":140,
     "wof:belongsto":[
         102191583,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101915887,
-    "wof:lastmodified":1563282374,
+    "wof:lastmodified":1566672387,
     "wof:name":"Leithfield Beach",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.860096,
     "lbl:longitude":174.736236,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.859164,
     "mps:longitude":174.734186,
     "mz:hierarchy_label":1,
@@ -44,9 +45,6 @@
     "name:pol_x_preferred":[
         "Grey Lynn"
     ],
-    "name:unk_x_variant":[
-        "Grey Lynn"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2193733,
@@ -73,9 +71,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1867,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -87,7 +84,6 @@
     "wof:concordances":{
         "gn:id":6232260,
         "gp:id":22726387,
-        "qs:id":1136952,
         "qs_pg:id":1136952,
         "wd:id":"Q3560789",
         "wk:page":"Grey Lynn"
@@ -108,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282099,
+    "wof:lastmodified":1566672229,
     "wof:name":"Grey Lynn",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

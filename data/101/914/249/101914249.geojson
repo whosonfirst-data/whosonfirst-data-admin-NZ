@@ -9,14 +9,17 @@
     "geom:bbox":"177.262890462,-38.0279791908,177.296159295,-37.9978933702",
     "geom:latitude":-38.012626,
     "geom:longitude":177.28177,
-    "geonames:id":"6237304,2208332",
+    "gn:id":"6237304,2208332",
     "iso:country":"NZ",
     "lbl:latitude":-38.009219,
     "lbl:longitude":177.289513,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.009219,
     "mps:longitude":177.289511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Opotiki"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101914249,
-    "wof:lastmodified":1561775488,
+    "wof:lastmodified":1566672446,
     "wof:name":"Opotiki",
     "wof:parent_id":102079321,
     "wof:placetype":"locality",

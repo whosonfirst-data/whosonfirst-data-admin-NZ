@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15061311.455906,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.704269,-43.56422,172.704269,-43.56422",
     "geom:latitude":-43.56422,
     "geom:longitude":172.704269,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"172.699269,-43.56922,172.709269,-43.55922",
     "lbl:latitude":-43.56422,
     "lbl:longitude":172.704269,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.569753,
     "mps:longitude":172.709513,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Ferrymead"
-    ],
-    "name:unk_x_variant":[
         "Ferrymead"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":744,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726369,
-        "qs:id":347142,
         "qs_pg:id":347142
     },
     "wof:country":"NZ",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859769,
+    "wof:lastmodified":1566672227,
     "wof:name":"Ferrymead",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

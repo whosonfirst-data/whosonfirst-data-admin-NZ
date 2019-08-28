@@ -12,8 +12,10 @@
     "gn:latitude":-41.27981,
     "gn:longitude":173.25427,
     "iso:country":"NZ",
+    "lbl:bbox":"173.242237,-41.285857,173.252237,-41.275857",
     "lbl:latitude":-41.280857,
     "lbl:longitude":173.247237,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.283446,
     "mps:longitude":173.251214,
     "mz:hierarchy_label":0,
@@ -64,9 +66,6 @@
     "name:tah_x_preferred":[
         "Moana"
     ],
-    "name:unk_x_variant":[
-        "Moana"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2186280,
@@ -96,9 +95,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":127,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687157,
         102191583,
@@ -109,7 +107,6 @@
     "wof:concordances":{
         "gn:id":6242984,
         "gp:id":28644522,
-        "qs:id":357200,
         "qs_pg:id":357200
     },
     "wof:country":"NZ",
@@ -128,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120470,
+    "wof:lastmodified":1566672243,
     "wof:name":"Moana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

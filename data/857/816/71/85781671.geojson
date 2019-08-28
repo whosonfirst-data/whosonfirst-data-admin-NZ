@@ -12,8 +12,10 @@
     "gn:latitude":-44.41202,
     "gn:longitude":171.24699,
     "iso:country":"NZ",
+    "lbl:bbox":"171.250274,-44.419164,171.260274,-44.409164",
     "lbl:latitude":-44.414164,
     "lbl:longitude":171.255274,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-44.418159,
     "mps:longitude":171.252633,
     "mz:hierarchy_label":0,
@@ -127,9 +129,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043d\u0441\u0456\u043d\u0433\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Kensington"
-    ],
     "name:vie_x_preferred":[
         "Kensington"
     ],
@@ -164,8 +163,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687179,
         102191583,
@@ -177,7 +175,6 @@
     "wof:concordances":{
         "gn:id":6214564,
         "gp:id":28644586,
-        "qs:id":985669,
         "qs_pg:id":985669
     },
     "wof:country":"NZ",
@@ -196,7 +193,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120424,
+    "wof:lastmodified":1566672214,
     "wof:name":"Kensington",
     "wof:parent_id":101915527,
     "wof:placetype":"neighbourhood",

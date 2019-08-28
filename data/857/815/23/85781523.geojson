@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2219003.119874,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.976746,-41.490063,173.976746,-41.490063",
     "geom:latitude":-41.490063,
     "geom:longitude":173.976746,
     "iso:country":"NZ",
+    "lbl:bbox":"173.971746,-41.495063,173.981746,-41.485063",
     "lbl:latitude":-41.490063,
     "lbl:longitude":173.976746,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.490064,
     "mps:longitude":173.978793,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Riversdale"
-    ],
-    "name:unk_x_variant":[
         "Riversdale"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -57,13 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687185,
         102191583,
         85633345,
-        102079353,
-        85687185
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860224,
+    "wof:lastmodified":1566672244,
     "wof:name":"Riversdale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

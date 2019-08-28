@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3586260.344353,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.294782,-41.274505,173.294782,-41.274505",
     "geom:latitude":-41.274505,
     "geom:longitude":173.294782,
     "gn:latitude":-41.27659,
     "gn:longitude":173.29975,
     "iso:country":"NZ",
+    "lbl:bbox":"173.289782,-41.279505,173.299782,-41.269505",
     "lbl:latitude":-41.274505,
     "lbl:longitude":173.294782,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.283755,
     "mps:longitude":173.296724,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Nelson East"
-    ],
-    "name:unk_x_variant":[
         "Nelson East"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -60,19 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6242988,
         "gp:id":28644830,
-        "qs:id":1086352,
         "qs_pg:id":1086352
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860278,
+    "wof:lastmodified":1566672209,
     "wof:name":"Nelson East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

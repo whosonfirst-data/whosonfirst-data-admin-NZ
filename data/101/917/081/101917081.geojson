@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.530967,
     "lbl:longitude":171.189273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-44.530929,
     "mps:longitude":171.189298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St Andrews"
     ],
@@ -41,7 +44,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -70,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775511,
+    "wof:lastmodified":1566672525,
     "wof:name":"Saint Andrews",
     "wof:parent_id":102079379,
     "wof:placetype":"locality",

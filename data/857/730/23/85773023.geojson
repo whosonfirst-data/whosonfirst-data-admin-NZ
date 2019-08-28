@@ -13,8 +13,10 @@
     "gn:longitude":174.79875,
     "gn:population":55266,
     "iso:country":"NZ",
+    "lbl:bbox":"174.797937,-36.972618,174.807937,-36.962618",
     "lbl:latitude":-36.967618,
     "lbl:longitude":174.802937,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.976574,
     "mps:longitude":174.803758,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:pol_x_preferred":[
         "Mangere"
     ],
-    "name:unk_x_variant":[
-        "Mangere"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2187404,
@@ -76,9 +75,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -90,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2187454,
         "gp:id":2349376,
-        "qs:id":271109,
         "qs_pg:id":271109,
         "wd:id":"Q742714",
         "wk:page":"M\u0101ngere"
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282045,
+    "wof:lastmodified":1566672206,
     "wof:name":"M\u0101ngere",
     "wof:parent_id":101914267,
     "wof:placetype":"neighbourhood",

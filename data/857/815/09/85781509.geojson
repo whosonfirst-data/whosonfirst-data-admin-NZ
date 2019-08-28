@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1332454.384468,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.617635,-43.486306,172.617635,-43.486306",
     "geom:latitude":-43.486306,
     "geom:longitude":172.617635,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"172.612635,-43.491306,172.622635,-43.481306",
     "lbl:latitude":-43.486306,
     "lbl:longitude":172.617635,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.485629,
     "mps:longitude":172.619553,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Northcote"
     ],
     "name:nor_x_preferred":[
-        "Northcote"
-    ],
-    "name:unk_x_variant":[
         "Northcote"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -64,20 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":108,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644451,
-        "qs:id":218171,
         "qs_pg:id":218171
     },
     "wof:country":"NZ",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860221,
+    "wof:lastmodified":1566672243,
     "wof:name":"Northcote",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

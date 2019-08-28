@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2783588.980284,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.902447,-39.500182,176.902447,-39.500182",
     "geom:latitude":-39.500182,
     "geom:longitude":176.902447,
     "gn:latitude":-39.49824,
     "gn:longitude":176.90022,
     "iso:country":"NZ",
+    "lbl:bbox":"176.897447,-39.505182,176.907447,-39.495182",
     "lbl:latitude":-39.500182,
     "lbl:longitude":176.902447,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.506757,
     "mps:longitude":176.897639,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Marewa"
-    ],
-    "name:unk_x_variant":[
         "Marewa"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
-        102079331,
-        85687189
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6246627,
         "gp:id":28643924,
-        "qs:id":225530,
         "qs_pg:id":225530
     },
     "wof:country":"NZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860122,
+    "wof:lastmodified":1566672253,
     "wof:name":"Marewa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":1975582.283369,
+    "geom:area_square_m":1975582.28337,
     "geom:bbox":"174.759521484,-36.8543510877,174.776000977,-36.837866457",
     "geom:latitude":-36.846908,
     "geom:longitude":174.767775,
@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.846877,
     "lbl:longitude":174.76651,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.846501,
     "mps:longitude":174.767777,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
         "Auckland Central"
     ],
     "name:eng_x_variant":[
-        "Auckland Central"
-    ],
-    "name:unk_x_variant":[
         "Auckland Central"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,8 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -69,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676717,
-        "qs:id":984409,
         "qs_pg:id":984409
     },
     "wof:country":"NZ",
@@ -88,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269501,
+    "wof:lastmodified":1566672236,
     "wof:name":"Auckland City Centre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

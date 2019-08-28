@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.43249,
     "lbl:longitude":168.402457,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Southland Region",
     "meso:gadm_admin":"Invercargill",
     "meso:gadm_hasc2":"NZ.SO.IC",
@@ -24,6 +26,7 @@
     "mps:longitude":168.402457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Invercargill City"
     ],
@@ -41,9 +44,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"491.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102079397,
-    "wof:lastmodified":1536614432,
+    "wof:lastmodified":1566672111,
     "wof:name":"Invercargill City",
     "wof:parent_id":85687211,
     "wof:placetype":"county",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2928394.449438,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.916436,-39.501373,176.916436,-39.501373",
     "geom:latitude":-39.501373,
     "geom:longitude":176.916436,
     "gn:latitude":-39.49824,
     "gn:longitude":176.90022,
     "iso:country":"NZ",
+    "lbl:bbox":"176.911436,-39.506373,176.921436,-39.496373",
     "lbl:latitude":-39.501373,
     "lbl:longitude":176.916436,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.505864,
     "mps:longitude":176.91548,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Napier South"
-    ],
-    "name:unk_x_variant":[
         "Napier South"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
         101914679,
-        102079331,
-        85687189
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6246626,
         "gp:id":28644290,
-        "qs:id":1086330,
         "qs_pg:id":1086330
     },
     "wof:country":"NZ",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860196,
+    "wof:lastmodified":1566672247,
     "wof:name":"Napier South",
     "wof:parent_id":101914679,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.834388,
     "lbl:longitude":172.876798,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.834388,
     "mps:longitude":172.876796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pohara"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -57,7 +60,6 @@
         "fct:id":"020dc5ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7838945,
         "gp:id":2350155,
-        "qs:id":1206439,
         "qs_pg:id":1206439
     },
     "wof:country":"NZ",
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513814051,
+    "wof:lastmodified":1566672391,
     "wof:name":"Pohara",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

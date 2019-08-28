@@ -12,8 +12,10 @@
     "gn:latitude":-41.19827,
     "gn:longitude":174.92019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.938736,-41.197083,174.948736,-41.187083",
     "lbl:latitude":-41.192083,
     "lbl:longitude":174.943736,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.192258,
     "mps:longitude":174.946843,
     "mz:hierarchy_label":0,
@@ -131,9 +133,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0432\u0430\u043b\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Avalon"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u74e6\u9686"
     ],
@@ -166,8 +165,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687233,
         102191583,
@@ -179,7 +177,6 @@
     "wof:concordances":{
         "gn:id":6244873,
         "gp:id":22726322,
-        "qs:id":56201,
         "qs_pg:id":56201
     },
     "wof:country":"NZ",
@@ -198,7 +195,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120499,
+    "wof:lastmodified":1566672260,
     "wof:name":"Avalon",
     "wof:parent_id":101914319,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":-36.82972,
     "gn:longitude":174.79944,
     "iso:country":"NZ",
+    "lbl:bbox":"174.793784,-36.833465,174.803784,-36.823465",
     "lbl:latitude":-36.828465,
     "lbl:longitude":174.798784,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.827549,
     "mps:longitude":174.798458,
     "mz:hierarchy_label":0,
@@ -68,9 +70,6 @@
     "name:swe_x_preferred":[
         "Devonport"
     ],
-    "name:unk_x_variant":[
-        "Devonport"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"E7",
@@ -97,8 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -109,7 +107,6 @@
     "wof:concordances":{
         "gn:id":2207724,
         "gp:id":22726360,
-        "qs:id":56214,
         "qs_pg:id":56214
     },
     "wof:country":"NZ",
@@ -128,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120441,
+    "wof:lastmodified":1566672226,
     "wof:name":"Devonport",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.287495,
     "lbl:longitude":174.71685,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Wellington Region",
     "meso:gadm_admin":"Wellington",
     "meso:gadm_hasc2":"NZ.WG.WE",
@@ -24,6 +26,7 @@
     "mps:longitude":174.71685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Wellington City"
     ],
@@ -54,9 +57,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-03-06",
+    "src:population_date":"2001-03-06",
     "statoids:area_km":"289.0",
     "statoids:as_of_date":"2001-03-06",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102079339,
-    "wof:lastmodified":1563281948,
+    "wof:lastmodified":1566672109,
     "wof:name":"Wellington City",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

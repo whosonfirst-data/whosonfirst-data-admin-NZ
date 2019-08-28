@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.529469,
     "lbl:longitude":175.707312,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.551356,
     "mps:longitude":175.692417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Te Aroha"
     ],
@@ -61,7 +64,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":820,
     "wof:belongsto":[
         102191583,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":6235636,
         "gp:id":2350782,
-        "qs:id":483248,
+        "qs_pg:id":483248,
         "wd:id":"Q1026489"
     },
     "wof:country":"NZ",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101915341,
-    "wof:lastmodified":1563282384,
+    "wof:lastmodified":1566672393,
     "wof:name":"Te Aroha",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

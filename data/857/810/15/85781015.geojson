@@ -12,8 +12,10 @@
     "gn:latitude":-40.32825,
     "gn:longitude":175.61021,
     "iso:country":"NZ",
+    "lbl:bbox":"175.603215,-40.32621,175.613215,-40.31621",
     "lbl:latitude":-40.32121,
     "lbl:longitude":175.608215,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-40.319873,
     "mps:longitude":175.608021,
     "mz:hierarchy_label":0,
@@ -43,9 +45,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u043b\u0441\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Milson"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2185018,
@@ -74,9 +73,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":352,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687251,
         102191583,
@@ -87,7 +85,6 @@
     "wof:concordances":{
         "gn:id":6227745,
         "gp:id":28643940,
-        "qs:id":356952,
         "qs_pg:id":356952,
         "wd:id":"Q6860752",
         "wk:page":"Milson, New Zealand"
@@ -108,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282078,
+    "wof:lastmodified":1566672220,
     "wof:name":"Milson",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

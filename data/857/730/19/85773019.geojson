@@ -12,8 +12,10 @@
     "gn:latitude":-36.73806,
     "gn:longitude":174.75201,
     "iso:country":"NZ",
+    "lbl:bbox":"174.750859,-36.743884,174.760859,-36.733884",
     "lbl:latitude":-36.738884,
     "lbl:longitude":174.755859,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.742013,
     "mps:longitude":174.756714,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Mairangi Bay"
     ],
     "name:eng_x_preferred":[
-        "Mairangi Bay"
-    ],
-    "name:unk_x_variant":[
         "Mairangi Bay"
     ],
     "name:zho_x_preferred":[
@@ -64,9 +63,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":275,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -78,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2187991,
         "gp:id":2349291,
-        "qs:id":385734,
         "qs_pg:id":385734,
         "wd:id":"Q6736895"
     },
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282042,
+    "wof:lastmodified":1566672204,
     "wof:name":"Mairangi Bay",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

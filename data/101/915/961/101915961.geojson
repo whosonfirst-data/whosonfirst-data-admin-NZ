@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.959282,
     "lbl:longitude":175.239391,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.959282,
     "mps:longitude":175.239394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orere Point"
     ],
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":130,
     "wof:belongsto":[
         102191583,
@@ -45,10 +48,12 @@
     "wof:concordances":{
         "gn:id":2185448,
         "gp:id":28644239,
-        "qs:id":984107,
-        "qs_pg:id":1286550,
+        "qs_pg:id":984107,
         "wd:id":"Q7101621",
         "wk:page":"Orere Point"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1286550
     },
     "wof:country":"NZ",
     "wof:geomhash":"bb2fc2cdbfaae71fdfc0f1bb217d4f86",
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":101915961,
-    "wof:lastmodified":1527643135,
+    "wof:lastmodified":1566672398,
     "wof:name":"Orere Point",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.291591,
     "lbl:longitude":174.793978,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.284794,
     "mps:longitude":174.791316,
     "mz:hierarchy_label":1,
@@ -43,9 +44,6 @@
     "name:nld_x_preferred":[
         "Oriental Bay"
     ],
-    "name:unk_x_variant":[
-        "Oriental Bay"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
     "qs:gn_local":2179537,
@@ -73,9 +71,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":425,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687233,
         102191583,
@@ -86,7 +83,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726484,
-        "qs:id":900195,
         "qs_pg:id":900195,
         "wd:id":"Q1443310"
     },
@@ -106,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282088,
+    "wof:lastmodified":1566672224,
     "wof:name":"Oriental Bay",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

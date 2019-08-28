@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6247104.256634,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.275897,-41.263231,173.275897,-41.263231",
     "geom:latitude":-41.263231,
     "geom:longitude":173.275897,
     "gn:latitude":-41.26397,
     "gn:longitude":173.27628,
     "iso:country":"NZ",
+    "lbl:bbox":"173.270897,-41.268231,173.280897,-41.258231",
     "lbl:latitude":-41.263231,
     "lbl:longitude":173.275897,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.256448,
     "mps:longitude":173.276761,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Pt. Nelson"
     ],
     "name:swe_x_preferred":[
-        "Port Nelson"
-    ],
-    "name:unk_x_variant":[
         "Port Nelson"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -70,20 +69,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":23,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2184360,
         "gp:id":2350200,
-        "qs:id":1159790,
         "qs_pg:id":1159790
     },
     "wof:country":"NZ",
@@ -102,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859630,
+    "wof:lastmodified":1566672206,
     "wof:name":"Port Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

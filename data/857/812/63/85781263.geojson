@@ -10,8 +10,10 @@
     "geom:latitude":-36.706675,
     "geom:longitude":174.742545,
     "iso:country":"NZ",
+    "lbl:bbox":"174.737545,-36.711675,174.747545,-36.701675",
     "lbl:latitude":-36.706675,
     "lbl:longitude":174.742545,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.70506,
     "mps:longitude":174.747026,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Waiake"
     ],
     "name:mri_x_preferred":[
-        "Waiake"
-    ],
-    "name:unk_x_variant":[
         "Waiake"
     ],
     "qs:gn_id":0,
@@ -57,8 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120468,
+    "wof:lastmodified":1566672242,
     "wof:name":"Waiake",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

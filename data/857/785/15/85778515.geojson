@@ -12,8 +12,10 @@
     "gn:latitude":-43.55499,
     "gn:longitude":172.66139,
     "iso:country":"NZ",
+    "lbl:bbox":"172.655838,-43.556258,172.665838,-43.546258",
     "lbl:latitude":-43.551258,
     "lbl:longitude":172.660838,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.554266,
     "mps:longitude":172.664907,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u043f\u0430\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Opawa"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -69,9 +68,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":101,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":6220796,
         "gp:id":22726482,
-        "qs:id":1086018,
         "qs_pg:id":1086018,
         "wd:id":"Q4335072",
         "wk:page":"Opawa"
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282092,
+    "wof:lastmodified":1566672226,
     "wof:name":"Opawa",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

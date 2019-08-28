@@ -13,8 +13,10 @@
     "gn:longitude":174.65584,
     "gn:population":3330,
     "iso:country":"NZ",
+    "lbl:bbox":"174.650964,-36.94201,174.660964,-36.93201",
     "lbl:latitude":-36.93701,
     "lbl:longitude":174.655964,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.943894,
     "mps:longitude":174.645712,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "South Titirangi"
     ],
     "name:nob_x_preferred":[
-        "Titirangi"
-    ],
-    "name:unk_x_variant":[
         "Titirangi"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -73,9 +72,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -86,7 +84,6 @@
     "wof:concordances":{
         "gn:id":6232280,
         "gp:id":2350933,
-        "qs:id":241962,
         "qs_pg:id":241962,
         "wd:id":"Q6517338",
         "wk:page":"Titirangi"
@@ -107,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282118,
+    "wof:lastmodified":1566672235,
     "wof:name":"Titirangi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

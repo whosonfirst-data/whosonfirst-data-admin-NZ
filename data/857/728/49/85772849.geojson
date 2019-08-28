@@ -12,6 +12,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.304594,
     "lbl:longitude":174.759223,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.309723,
     "mps:longitude":174.756093,
     "mz:hierarchy_label":1,
@@ -258,9 +259,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0443\u043a\u043b\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Brooklyn"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u06a9\u0644\u0646"
     ],
@@ -313,8 +311,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687233,
         102191583,
@@ -326,7 +323,6 @@
     "wof:concordances":{
         "gn:id":6244800,
         "gp:id":2348231,
-        "qs:id":1168794,
         "qs_pg:id":1168794
     },
     "wof:country":"NZ",
@@ -345,7 +341,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120508,
+    "wof:lastmodified":1566672265,
     "wof:name":"Brooklyn",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

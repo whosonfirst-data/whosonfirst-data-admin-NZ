@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.898579,
     "lbl:longitude":168.122149,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-46.90182,
     "mps:longitude":168.124605,
     "mz:hierarchy_label":1,
@@ -75,7 +77,7 @@
     "name:spa_x_preferred":[
         "Oban"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Halfmoon Bay"
     ],
     "ne:ADM0CAP":0.0,
@@ -184,7 +186,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -208,7 +210,7 @@
         }
     ],
     "wof:id":101916921,
-    "wof:lastmodified":1563282564,
+    "wof:lastmodified":1566672492,
     "wof:name":"Halfmoon Bay (Oban)",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.388231,
     "lbl:longitude":172.018179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-43.388228,
     "mps:longitude":172.018175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sheffield"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":254,
     "wof:belongsto":[
         102191583,
@@ -52,7 +55,6 @@
         "fct:id":"020ddab4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2182786,
         "gp:id":2350542,
-        "qs:id":319896,
         "qs_pg:id":319896,
         "wd:id":"Q7492566",
         "wk:page":"Sheffield, New Zealand"
@@ -72,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775471,
+    "wof:lastmodified":1566672405,
     "wof:name":"Sheffield",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

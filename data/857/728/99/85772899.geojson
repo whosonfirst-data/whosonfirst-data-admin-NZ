@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5927452.598751,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.917154,-36.877916,174.917154,-36.877916",
     "geom:latitude":-36.877916,
     "geom:longitude":174.917154,
     "iso:country":"NZ",
+    "lbl:bbox":"174.912154,-36.882916,174.922154,-36.872916",
     "lbl:latitude":-36.877916,
     "lbl:longitude":174.917154,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.881664,
     "mps:longitude":174.916358,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Eastern Beach"
     ],
     "name:swe_x_preferred":[
-        "Eastern Beach"
-    ],
-    "name:unk_x_variant":[
         "Eastern Beach"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -63,14 +62,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":17,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859598,
+    "wof:lastmodified":1566672264,
     "wof:name":"Eastern Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

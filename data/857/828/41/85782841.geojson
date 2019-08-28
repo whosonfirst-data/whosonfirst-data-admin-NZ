@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7230886.080057,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.46192,-37.882725,175.46192,-37.882725",
     "geom:latitude":-37.882725,
     "geom:longitude":175.46192,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"175.45692,-37.887725,175.46692,-37.877725",
     "lbl:latitude":-37.882725,
     "lbl:longitude":175.46192,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.885163,
     "mps:longitude":175.454156,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Cambridge West"
-    ],
-    "name:unk_x_variant":[
         "Cambridge West"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
         101914859,
-        102079273,
-        85687229
+        102079273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55876021,
-        "qs:id":238747,
         "qs_pg:id":238747
     },
     "wof:country":"NZ",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860421,
+    "wof:lastmodified":1566672221,
     "wof:name":"Cambridge West",
     "wof:parent_id":101914859,
     "wof:placetype":"neighbourhood",

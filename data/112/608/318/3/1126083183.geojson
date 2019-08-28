@@ -9,16 +9,19 @@
     "geom:bbox":"171.76011,-43.89834,171.76011,-43.89834",
     "geom:latitude":-43.89834,
     "geom:longitude":171.76011,
-    "gn:gn_country":"NZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":-43.89834,
     "gn:longitude":171.76011,
+    "gn:population":0,
     "iso:country":"NZ",
+    "lbl:bbox":"171.75511,-43.90334,171.76511,-43.89334",
     "lbl:latitude":-43.89834,
     "lbl:longitude":171.76011,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Netherby"
@@ -27,9 +30,6 @@
         "Netherby"
     ],
     "name:pol_x_preferred":[
-        "Netherby"
-    ],
-    "name:unk_x_variant":[
         "Netherby"
     ],
     "qs_pg:aaroncc":"NZ",
@@ -53,7 +53,7 @@
     "qs_pg:woe_adm0":23424916,
     "qs_pg:woe_id":28644447,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Canterbury",
@@ -69,7 +69,6 @@
     "wof:concordances":{
         "gn:id":6219010,
         "gp:id":28644447,
-        "qs:id":1310623,
         "qs_pg:id":1310623
     },
     "wof:country":"NZ",
@@ -86,7 +85,7 @@
         }
     ],
     "wof:id":1126083183,
-    "wof:lastmodified":1534379391,
+    "wof:lastmodified":1566672618,
     "wof:name":"Netherby",
     "wof:parent_id":101914705,
     "wof:placetype":"neighbourhood",

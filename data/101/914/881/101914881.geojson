@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.156332,
     "lbl:longitude":174.203382,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.162304,
     "mps:longitude":174.20848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Inglewood"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1636,
     "wof:belongsto":[
         102191583,
@@ -77,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282436,
+    "wof:lastmodified":1566672424,
     "wof:name":"Inglewood",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
-    "geom:area_square_m":12990.996806,
+    "geom:area_square_m":26757.390384,
     "geom:bbox":"175.051706891,-37.5731626376,175.06078196,-37.5697646414",
     "geom:latitude":-37.571697,
     "geom:longitude":175.056053,
     "iso:country":"NZ",
     "lbl:latitude":-37.570662,
     "lbl:longitude":175.05312,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.572792,
     "mps:longitude":175.059229,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waikokowai"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -42,7 +46,7 @@
         "gp:id":28644141
     },
     "wof:country":"NZ",
-    "wof:geomhash":"339bad57d689bd5f52a3364875632f11",
+    "wof:geomhash":"48e39c222a0601849e522433d7123935",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101915027,
-    "wof:lastmodified":1487269999,
+    "wof:lastmodified":1566672404,
     "wof:name":"Waikokowai",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

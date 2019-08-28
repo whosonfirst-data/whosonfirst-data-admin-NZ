@@ -14,8 +14,10 @@
     "gn:longitude":172.51667,
     "gn:population":3600,
     "iso:country":"NZ",
+    "lbl:bbox":"172.506245,-43.590779,172.516245,-43.580779",
     "lbl:latitude":-43.585779,
     "lbl:longitude":172.511245,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.58181,
     "mps:longitude":172.515357,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:slv_x_preferred":[
         "Prebbleton"
     ],
-    "name:unk_x_variant":[
-        "Prebbleton"
-    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2192362,
@@ -80,9 +79,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687179,
         102191583,
@@ -93,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2184297,
         "gp:id":2350214,
-        "qs:id":408713,
         "qs_pg:id":408713,
         "wd:id":"Q176330",
         "wk:page":"Prebbleton"
@@ -114,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282052,
+    "wof:lastmodified":1566672208,
     "wof:name":"Prebbleton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

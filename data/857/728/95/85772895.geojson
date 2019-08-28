@@ -10,8 +10,10 @@
     "geom:latitude":-36.947003,
     "geom:longitude":174.893837,
     "iso:country":"NZ",
+    "lbl:bbox":"174.888837,-36.952003,174.898837,-36.942003",
     "lbl:latitude":-36.947003,
     "lbl:longitude":174.893837,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.963315,
     "mps:longitude":174.906493,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "E Tamaki"
-    ],
-    "name:unk_x_variant":[
-        "East Tamaki"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -63,8 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120504,
+    "wof:lastmodified":1566672263,
     "wof:name":"East Tamaki",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

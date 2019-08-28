@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10495313.673157,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.34758,-46.604798,168.34758,-46.604798",
     "geom:latitude":-46.604798,
     "geom:longitude":168.34758,
     "gn:latitude":-46.60417,
     "gn:longitude":168.34722,
     "iso:country":"NZ",
+    "lbl:bbox":"168.34258,-46.609798,168.35258,-46.599798",
     "lbl:latitude":-46.604798,
     "lbl:longitude":168.34758,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-46.605329,
     "mps:longitude":168.35795,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "E End"
-    ],
-    "name:unk_x_variant":[
-        "East End"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
@@ -63,20 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687211,
         102191583,
         85633345,
         101915603,
-        102079397,
-        85687211
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2208083,
         "gp:id":28644574,
-        "qs:id":1197045,
         "qs_pg:id":1197045
     },
     "wof:country":"NZ",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860246,
+    "wof:lastmodified":1566672213,
     "wof:name":"East End",
     "wof:parent_id":101915603,
     "wof:placetype":"neighbourhood",

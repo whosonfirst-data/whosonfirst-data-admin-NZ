@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":127629.373523,
+    "geom:area_square_m":369961.659491,
     "geom:bbox":"174.525676934,-36.0524210804,174.545490199,-36.0391477081",
     "geom:latitude":-36.046997,
     "geom:longitude":174.536743,
     "iso:country":"NZ",
     "lbl:latitude":-36.046288,
     "lbl:longitude":174.533494,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.046289,
     "mps:longitude":174.533495,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Langs Beach"
     ],
@@ -30,7 +34,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -41,10 +45,10 @@
     "wof:concordances":{
         "gn:id":2208096,
         "gp:id":28645530,
-        "qs:id":1081934
+        "qs_pg:id":1081934
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ba3ffbf60bbcddc0f73ab475f4130ec1",
+    "wof:geomhash":"7e57351f103c289a4a497ca640c96127",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101916857,
-    "wof:lastmodified":1487269984,
+    "wof:lastmodified":1566672468,
     "wof:name":"Langs Beach",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

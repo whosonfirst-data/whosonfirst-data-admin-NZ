@@ -11,8 +11,10 @@
     "geom:longitude":174.683636,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.678636,-36.913656,174.688636,-36.903656",
     "lbl:latitude":-36.908656,
     "lbl:longitude":174.683636,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.906429,
     "mps:longitude":174.684191,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:eng_x_variant":[
         "New Lynn"
-    ],
-    "name:unk_x_variant":[
-        "New Lynn North"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
@@ -64,9 +63,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1293,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -76,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726679,
-        "qs:id":893063,
         "qs_pg:id":893063,
         "wd:id":"Q15262068"
     },
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282039,
+    "wof:lastmodified":1566672203,
     "wof:name":"New Lynn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

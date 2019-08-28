@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.700751,
     "lbl:longitude":175.189759,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.700748,
     "mps:longitude":175.189753,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Horotiu"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -62,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564120696,
+    "wof:lastmodified":1566672409,
     "wof:name":"Horotiu",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

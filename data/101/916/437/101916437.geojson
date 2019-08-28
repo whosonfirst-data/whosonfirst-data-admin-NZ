@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.615392,
     "lbl:longitude":175.189835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.61543,
     "mps:longitude":175.189854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taupiri"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":439,
     "wof:belongsto":[
         102191583,
@@ -52,7 +55,6 @@
         "fct:id":"020df076-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2181747,
         "gp:id":2350749,
-        "qs:id":1000438,
         "qs_pg:id":1000438,
         "wd:id":"Q7688825",
         "wk:page":"Taupiri"
@@ -72,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775497,
+    "wof:lastmodified":1566672468,
     "wof:name":"Taupiri",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

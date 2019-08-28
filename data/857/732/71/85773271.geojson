@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3067891.459729,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.218201,-37.359241,175.218201,-37.359241",
     "geom:latitude":-37.359241,
     "geom:longitude":175.218201,
     "gn:latitude":-37.36667,
     "gn:longitude":175.23333,
     "iso:country":"NZ",
+    "lbl:bbox":"175.213201,-37.364241,175.223201,-37.354241",
     "lbl:latitude":-37.359241,
     "lbl:longitude":175.218201,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.359242,
     "mps:longitude":175.218201,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Waerenga"
-    ],
-    "name:unk_x_variant":[
         "Waerenga"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,19 +58,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
-        102079265,
-        85687229
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2180480,
         "gp:id":2351055,
-        "qs:id":1154492
+        "qs_pg:id":1154492
     },
     "wof:country":"NZ",
     "wof:geomhash":"90427afd2db865d49b7079e6ab5d8610",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859660,
+    "wof:lastmodified":1566672235,
     "wof:name":"Waerenga",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

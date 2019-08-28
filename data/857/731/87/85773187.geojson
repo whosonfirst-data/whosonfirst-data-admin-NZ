@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5220279.988791,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.010975,-41.148842,175.010975,-41.148842",
     "geom:latitude":-41.148842,
     "geom:longitude":175.010975,
     "iso:country":"NZ",
+    "lbl:bbox":"175.005975,-41.153842,175.015975,-41.143842",
     "lbl:latitude":-41.148842,
     "lbl:longitude":175.010975,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.149705,
     "mps:longitude":175.004526,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Silverstream"
-    ],
-    "name:unk_x_variant":[
         "Silverstream"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,21 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":328,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
         101914809,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244898,
         "gp:id":2350557,
-        "qs:id":1083897,
         "qs_pg:id":1083897,
         "wd:id":"Q7516794"
     },
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859641,
+    "wof:lastmodified":1566672207,
     "wof:name":"Silverstream",
     "wof:parent_id":101914809,
     "wof:placetype":"neighbourhood",

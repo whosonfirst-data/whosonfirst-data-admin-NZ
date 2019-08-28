@@ -9,14 +9,17 @@
     "geom:bbox":"174.689152327,-37.1397387402,174.712745514,-37.133614887",
     "geom:latitude":-37.136069,
     "geom:longitude":174.700996,
-    "gn:gn_country":"NZ",
+    "gn:country":"NZ",
     "iso:country":"NZ",
     "lbl:latitude":-37.137243,
     "lbl:longitude":174.698912,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.137245,
     "mps:longitude":174.698907,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clarks Beach"
     ],
@@ -52,7 +55,7 @@
     "qs_pg:woe_id":2348339,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191583,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101914275,
-    "wof:lastmodified":1561775478,
+    "wof:lastmodified":1566672425,
     "wof:name":"Clarks Beach",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

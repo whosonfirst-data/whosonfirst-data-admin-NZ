@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16749854.511854,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.106769,-38.661772,178.106769,-38.661772",
     "geom:latitude":-38.661772,
     "geom:longitude":178.106769,
     "gn:latitude":-38.66824,
     "gn:longitude":178.08021,
     "iso:country":"NZ",
+    "lbl:bbox":"178.101769,-38.666772,178.111769,-38.656772",
     "lbl:latitude":-38.661772,
     "lbl:longitude":178.106769,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.661772,
     "mps:longitude":178.106769,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Okitu"
-    ],
-    "name:unk_x_variant":[
         "Okitu"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,8 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -70,7 +68,6 @@
     "wof:concordances":{
         "gn:id":6240065,
         "gp:id":28644277,
-        "qs:id":230146,
         "qs_pg:id":230146
     },
     "wof:country":"NZ",
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":85781353,
-    "wof:lastmodified":1531860193,
+    "wof:lastmodified":1566672248,
     "wof:name":"Okitu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

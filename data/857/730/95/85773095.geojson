@@ -12,8 +12,10 @@
     "gn:latitude":-36.91667,
     "gn:longitude":174.61667,
     "iso:country":"NZ",
+    "lbl:bbox":"174.626424,-36.918239,174.636424,-36.908239",
     "lbl:latitude":-36.913239,
     "lbl:longitude":174.631424,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.91978,
     "mps:longitude":174.616493,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Oratia"
     ],
     "name:msa_x_preferred":[
-        "Oratia"
-    ],
-    "name:unk_x_variant":[
         "Oratia"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -63,9 +62,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":728,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85687243,
         102191583,
@@ -77,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2185462,
         "gp:id":2349896,
-        "qs:id":288272,
         "qs_pg:id":288272,
         "wd:id":"Q7099917",
         "wk:page":"Oratia"
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282040,
+    "wof:lastmodified":1566672203,
     "wof:name":"Oratia",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

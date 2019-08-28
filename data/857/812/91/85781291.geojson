@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1355334.869847,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.895439,-36.924859,174.895439,-36.924859",
     "geom:latitude":-36.924859,
     "geom:longitude":174.895439,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.890439,-36.929859,174.900439,-36.919859",
     "lbl:latitude":-36.924859,
     "lbl:longitude":174.895439,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-36.918174,
     "mps:longitude":174.89309,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Burswood"
-    ],
-    "name:unk_x_variant":[
         "Burswood"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644232,
-        "qs:id":1286543,
         "qs_pg:id":1286543
     },
     "wof:country":"NZ",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860182,
+    "wof:lastmodified":1566672241,
     "wof:name":"Burswood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
