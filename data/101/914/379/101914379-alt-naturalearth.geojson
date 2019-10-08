@@ -1,10 +1,12 @@
 {
   "id": 101914379,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-nz",
+  "properties": {
+    "src:alt_label":"naturalearth",
     "src:geom":"naturalearth",
     "wof:geomhash":"bcb6bc2f50025ff65fb548063e829af5",
-    "wof:id":101914379
+    "wof:id":101914379,
+    "wof:repo":"whosonfirst-data-admin-nz"
 },
   "bbox": [
     174.90330650954624,

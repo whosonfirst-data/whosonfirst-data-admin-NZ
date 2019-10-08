@@ -1,16 +1,18 @@
 {
   "id": 101916921,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-nz",
+  "properties": {
+    "src:alt_label":"naturalearth",
     "src:geom":"naturalearth",
-    "wof:geomhash":"6bfac69b7296a23798a7ac36a3324d65",
-    "wof:id":101916921
+    "wof:geomhash":"0e76ef036ec0ce54c504a4ad4e2c88d3",
+    "wof:id":101916921,
+    "wof:repo":"whosonfirst-data-admin-nz"
 },
   "bbox": [
     168.16659365149755,
-    -46.887649573653206,
+    -46.88764957365321,
     168.16659365149755,
-    -46.887649573653206
+    -46.88764957365321
 ],
   "geometry": {"coordinates":[168.16659365149755,-46.88764957365321],"type":"Point"}
 }
