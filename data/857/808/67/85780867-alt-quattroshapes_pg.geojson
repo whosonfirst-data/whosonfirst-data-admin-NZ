@@ -1,10 +1,12 @@
 {
   "id": 85780867,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-nz",
+  "properties": {
+    "src:alt_label":"quattroshapes_pg",
     "src:geom":"quattroshapes_pg",
     "wof:geomhash":"d1b41a0d0bb31041b63d2f9fbb32644c",
-    "wof:id":85780867
+    "wof:id":85780867,
+    "wof:repo":"whosonfirst-data-admin-nz"
 },
   "bbox": [
     175.0402,
