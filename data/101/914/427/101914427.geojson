@@ -205,7 +205,8 @@
     "qs:source":"LUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":-42.400011,
@@ -225,6 +226,10 @@
         "wd:id":"Q25834"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"072b62a01590b60e3628f3f4d86d2e93",
     "wof:hierarchy":[
         {
@@ -236,7 +241,7 @@
         }
     ],
     "wof:id":101914427,
-    "wof:lastmodified":1566672449,
+    "wof:lastmodified":1582316560,
     "wof:name":"Kaikoura",
     "wof:parent_id":102079355,
     "wof:placetype":"locality",

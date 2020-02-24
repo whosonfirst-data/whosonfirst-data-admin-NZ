@@ -901,9 +901,8 @@
     "reversegeo:geometry":"85633345-alt-whosonfirst-reversegeo.geojson",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes",
-        "naturalearth",
-        "whosonfirst"
+        "whosonfirst",
+        "naturalearth"
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -957,6 +956,11 @@
     },
     "wof:country":"NZ",
     "wof:country_alpha3":"NZL",
+    "wof:geom_alt":[
+        "whosonfirst-reversegeo",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"0bd6dc096fade4efd13d4e2be5737030",
     "wof:hierarchy":[
         {
@@ -973,7 +977,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1566672286,
+    "wof:lastmodified":1582316537,
     "wof:name":"New Zealand",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
