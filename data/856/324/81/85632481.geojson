@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021675,
-    "geom:area_square_m":252703487.002786,
+    "geom:area_square_m":252704052.815541,
     "geom:bbox":"-165.908783,-21.945473,-157.313782,-8.951222",
     "geom:latitude":-19.044651,
     "geom:longitude":-159.123726,
@@ -210,6 +210,9 @@
     "name:frp_x_preferred":[
         "Iles Cook"
     ],
+    "name:frr_x_preferred":[
+        "Cook-Eilunen"
+    ],
     "name:fry_x_preferred":[
         "Cookeilannen"
     ],
@@ -218,6 +221,9 @@
     ],
     "name:gag_x_preferred":[
         "Cook Adalar\u0131"
+    ],
+    "name:gcr_x_preferred":[
+        "Zil Cook"
     ],
     "name:gle_x_preferred":[
         "Oile\u00e1in Cook"
@@ -473,6 +479,9 @@
     "name:pol_x_preferred":[
         "Wyspy Cooka"
     ],
+    "name:por_br_x_preferred":[
+        "ilhas Cook"
+    ],
     "name:por_x_preferred":[
         "Ilhas Cook"
     ],
@@ -629,6 +638,24 @@
     ],
     "name:zha_x_preferred":[
         "Cook Ginzdauj"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e93\u514b\u7fa4\u5c9b"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5eab\u514b\u7fa4\u5cf6"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5eab\u514b\u7fa4\u5cf6"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5e93\u514b\u7fa4\u5c9b"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5e93\u514b\u7fa4\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5eab\u514b\u7fa4\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u514b\u7fa4\u5cf6"
@@ -788,7 +815,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1583797315,
+    "wof:lastmodified":1587429087,
     "wof:name":"Cook Islands",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",

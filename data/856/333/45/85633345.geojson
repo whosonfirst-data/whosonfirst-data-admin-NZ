@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":29.27994,
-    "geom:area_square_m":269735079749.095642,
+    "geom:area_square_m":269735081660.986694,
     "geom:bbox":"-176.893092,-47.289993,178.577174,-33.958498",
     "geom:latitude":-41.741943,
     "geom:longitude":171.528207,
@@ -54,6 +54,9 @@
     "name:arg_x_preferred":[
         "Nueva Zelanda"
     ],
+    "name:ary_x_preferred":[
+        "\u0646\u064a\u0648\u0632\u064a\u0644\u0627\u0646\u062f\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0646\u064a\u0648\u0632\u064a\u0644\u0627\u0646\u062f\u0627"
     ],
@@ -77,6 +80,9 @@
     ],
     "name:bam_x_variant":[
         "New Zealand"
+    ],
+    "name:ban_x_preferred":[
+        "Selandia Anyar"
     ],
     "name:bar_x_preferred":[
         "Neiseeland"
@@ -162,6 +168,12 @@
     "name:dan_x_variant":[
         "New Zealand"
     ],
+    "name:deu_at_x_preferred":[
+        "Neuseeland"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Neuseeland"
+    ],
     "name:deu_x_preferred":[
         "Neuseeland"
     ],
@@ -182,6 +194,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u0396\u03b7\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "New Zealand"
+    ],
+    "name:eng_gb_x_preferred":[
+        "New Zealand"
     ],
     "name:eng_x_preferred":[
         "New Zealand"
@@ -247,6 +265,9 @@
     ],
     "name:gag_x_preferred":[
         "Eni Zelandiya"
+    ],
+    "name:gcr_x_preferred":[
+        "Nouv\u00e8l-Z\u00e9lann"
     ],
     "name:gla_x_preferred":[
         "Sealainn Nuadh"
@@ -596,11 +617,17 @@
     "name:pol_x_preferred":[
         "Nowa Zelandia"
     ],
+    "name:por_br_x_preferred":[
+        "Nova Zel\u00e2ndia"
+    ],
     "name:por_x_colloquial":[
         "Nova Zelandia"
     ],
     "name:por_x_preferred":[
         "Nova Zel\u00e2ndia"
+    ],
+    "name:pus_x_preferred":[
+        "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u0689"
     ],
     "name:que_x_preferred":[
         "Musuq Silanda"
@@ -683,6 +710,12 @@
     "name:srd_x_preferred":[
         "Noa Zelanda"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0417\u0435\u043b\u0430\u043d\u0434"
+    ],
+    "name:srp_el_x_preferred":[
+        "Novi Zeland"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u0438 \u0417\u0435\u043b\u0430\u043d\u0434"
     ],
@@ -700,6 +733,9 @@
     ],
     "name:szl_x_preferred":[
         "Nowo Zylandyjo"
+    ],
+    "name:szy_x_preferred":[
+        "New zealand"
     ],
     "name:tah_x_preferred":[
         "Aotearoa"
@@ -814,6 +850,18 @@
     ],
     "name:zha_x_preferred":[
         "Saen Saelanz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u65b0\u897f\u5170"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u7d10\u897f\u862d"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u65b0\u897f\u5170"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d10\u897f\u862d"
     ],
     "name:zho_x_preferred":[
         "\u7d10\u897f\u862d"
@@ -978,7 +1026,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1583797408,
+    "wof:lastmodified":1587429089,
     "wof:name":"New Zealand",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
