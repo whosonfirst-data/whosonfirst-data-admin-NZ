@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
-    "geom:area_square_m":25453.878235,
-    "geom:bbox":"168.247130872,-46.2969480865,168.250432041,-46.295132226",
+    "geom:area_square_m":25459.47014,
+    "geom:bbox":"168.247131,-46.296948,168.250432,-46.295132",
     "geom:latitude":-46.295794,
     "geom:longitude":168.24931,
     "iso:country":"NZ",
@@ -17,7 +17,7 @@
     "mps:latitude":-46.295794,
     "mps:longitude":168.249607,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waianiwa"
@@ -41,8 +41,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687211,
-        102079391
+        102079391,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +51,7 @@
         "gp:id":2351062
     },
     "wof:country":"NZ",
-    "wof:geomhash":"84d6d0f98ee81cbeafd422f0c1443991",
+    "wof:geomhash":"efbcb3e9e8961bce8a62f6ca2fc127b7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566672420,
+    "wof:lastmodified":1602197596,
     "wof:name":"Waianiwa",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",
@@ -75,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    168.24713087202105,
-    -46.29694808646506,
-    168.25043204105089,
-    -46.29513222604779
+    168.247131,
+    -46.296948,
+    168.250432,
+    -46.295132
 ],
-  "geometry": {"coordinates":[[[168.24713087202105,-46.2952946120082],[168.24850674245235,-46.29523421882645],[168.25043204105089,-46.29513222604779],[168.2503595948869,-46.29694808646506],[168.24713087202105,-46.2952946120082]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[168.247131,-46.295295],[168.24850699999999,-46.295234],[168.25043199999999,-46.295132],[168.25036,-46.296948],[168.247131,-46.295295]]],"type":"Polygon"}
 }
