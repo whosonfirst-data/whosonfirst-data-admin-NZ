@@ -1,0 +1,53 @@
+{
+  "id": 1729341697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6509.866613,
+    "geom:bbox":"175.401235,-36.805816,175.402516,-36.805021",
+    "geom:latitude":-36.805415,
+    "geom:longitude":175.401851,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.805397,
+    "lbl:longitude":175.401839,
+    "mps:latitude":-36.805397,
+    "mps:longitude":175.401839,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cow Island"
+    ],
+    "nz-linz:name":"Cow Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4262
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622571,
+    "wof:geomhash":"c80848a253ffbb03f605dd1c2ea44d9f",
+    "wof:hierarchy":[],
+    "wof:id":1729341697,
+    "wof:lastmodified":1602624722,
+    "wof:name":"Cow Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.401235,
+    -36.805816,
+    175.402516,
+    -36.805021
+],
+  "geometry": {"coordinates":[[[175.40209100000001,-36.80565],[175.401884,-36.805764],[175.40156400000001,-36.805816],[175.40132299999999,-36.805753],[175.40123500000001,-36.80562],[175.40142399999999,-36.805367],[175.4015,-36.80514],[175.40183200000001,-36.805021],[175.402198,-36.805058],[175.40251599999999,-36.805344],[175.40250499999999,-36.805424],[175.40209100000001,-36.80565]]],"type":"Polygon"}
+}

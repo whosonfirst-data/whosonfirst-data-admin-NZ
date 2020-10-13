@@ -1,0 +1,53 @@
+{
+  "id": 1729342549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1533.731128,
+    "geom:bbox":"174.944202,-36.731113,174.944684,-36.730686",
+    "geom:latitude":-36.730886,
+    "geom:longitude":174.944456,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.730873,
+    "lbl:longitude":174.944452,
+    "mps:latitude":-36.730873,
+    "mps:longitude":174.944452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "South Island"
+    ],
+    "nz-linz:name":"South Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4942
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622931,
+    "wof:geomhash":"b94d9e5bb7b31f1a065b5f4fa5381635",
+    "wof:hierarchy":[],
+    "wof:id":1729342549,
+    "wof:lastmodified":1602624773,
+    "wof:name":"South Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.944202,
+    -36.731113,
+    174.944684,
+    -36.730686
+],
+  "geometry": {"coordinates":[[[174.94462999999999,-36.731088],[174.94451900000001,-36.731113],[174.94440599999999,-36.73107],[174.94426300000001,-36.73096],[174.94423399999999,-36.730915],[174.94420299999999,-36.730826],[174.94420199999999,-36.730781],[174.94428199999999,-36.730689],[174.944478,-36.730686],[174.944536,-36.730706],[174.94465,-36.730794],[174.94467900000001,-36.730839],[174.944684,-36.731019],[174.94462999999999,-36.731088]]],"type":"Polygon"}
+}

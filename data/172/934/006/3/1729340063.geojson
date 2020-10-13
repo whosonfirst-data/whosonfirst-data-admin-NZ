@@ -1,0 +1,53 @@
+{
+  "id": 1729340063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3564.679988,
+    "geom:bbox":"168.147055,-46.931403,168.147769,-46.930611",
+    "geom:latitude":-46.931005,
+    "geom:longitude":168.147413,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.931006,
+    "lbl:longitude":168.147413,
+    "mps:latitude":-46.931006,
+    "mps:longitude":168.147413,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Manawahei Nugget"
+    ],
+    "nz-linz:name":"Manawahei Nugget",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4483
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621873,
+    "wof:geomhash":"b2957be6c385e04de12e38422f5f62fd",
+    "wof:hierarchy":[],
+    "wof:id":1729340063,
+    "wof:lastmodified":1602624740,
+    "wof:name":"Manawahei Nugget",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.147055,
+    -46.931403,
+    168.147769,
+    -46.930611
+],
+  "geometry": {"coordinates":[[[168.147357,-46.931403],[168.14713599999999,-46.931259],[168.14705499999999,-46.931032],[168.147143,-46.930741],[168.14728400000001,-46.930611],[168.147448,-46.930617],[168.147639,-46.930714],[168.147729,-46.930829],[168.14776900000001,-46.931169],[168.14752300000001,-46.931386],[168.147357,-46.931403]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729340287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2757.651739,
+    "geom:bbox":"174.145253,-35.152462,174.145991,-35.151869",
+    "geom:latitude":-35.152186,
+    "geom:longitude":174.145613,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.152177,
+    "lbl:longitude":174.145613,
+    "mps:latitude":-35.152177,
+    "mps:longitude":174.145613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tikitiki Rock"
+    ],
+    "nz-linz:name":"Tikitiki Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5045
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621963,
+    "wof:geomhash":"79d2b67ca36f12ac8cdb053446e8d47b",
+    "wof:hierarchy":[],
+    "wof:id":1729340287,
+    "wof:lastmodified":1602624770,
+    "wof:name":"Tikitiki Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.145253,
+    -35.152462,
+    174.145991,
+    -35.151869
+],
+  "geometry": {"coordinates":[[[174.14536899999999,-35.152462],[174.14525599999999,-35.152374],[174.145253,-35.152239],[174.14541199999999,-35.152056],[174.145736,-35.151869],[174.14593099999999,-35.152001],[174.14599100000001,-35.152157],[174.14583200000001,-35.152319],[174.14550600000001,-35.15246],[174.14536899999999,-35.152462]]],"type":"Polygon"}
+}

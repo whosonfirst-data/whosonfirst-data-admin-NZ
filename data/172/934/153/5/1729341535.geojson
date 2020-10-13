@@ -1,0 +1,56 @@
+{
+  "id": 1729341535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2633.300526,
+    "geom:bbox":"174.305296,-35.16388,174.306151,-35.163409",
+    "geom:latitude":-35.163644,
+    "geom:longitude":174.305726,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.163636,
+    "lbl:longitude":174.305726,
+    "mps:latitude":-35.163636,
+    "mps:longitude":174.305726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bird Rock"
+    ],
+    "name:mri_x_preferred":[
+        "Mahenotapuku"
+    ],
+    "nz-linz:name":"Mahenotapuku (Bird Rock)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4189
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622490,
+    "wof:geomhash":"b14a9923eef922426b8fbe2abdc78285",
+    "wof:hierarchy":[],
+    "wof:id":1729341535,
+    "wof:lastmodified":1602624755,
+    "wof:name":"Bird Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.305296,
+    -35.16388,
+    174.306151,
+    -35.163409
+],
+  "geometry": {"coordinates":[[[174.30612500000001,-35.163762],[174.305937,-35.163878],[174.30579900000001,-35.16388],[174.30541099999999,-35.16373],[174.305296,-35.163552],[174.30551199999999,-35.163413],[174.30570399999999,-35.163409],[174.306038,-35.163583],[174.306151,-35.163671],[174.30612500000001,-35.163762]]],"type":"Polygon"}
+}

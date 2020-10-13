@@ -1,0 +1,53 @@
+{
+  "id": 1729340043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9158.327807,
+    "geom:bbox":"167.844673,-45.114861,167.846217,-45.113713",
+    "geom:latitude":-45.114355,
+    "geom:longitude":167.845334,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.114398,
+    "lbl:longitude":167.845271,
+    "mps:latitude":-45.114398,
+    "mps:longitude":167.845271,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lone Island"
+    ],
+    "nz-linz:name":"Lone Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4463
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621866,
+    "wof:geomhash":"2dde266c4c723bc357e3f2ad79215188",
+    "wof:hierarchy":[],
+    "wof:id":1729340043,
+    "wof:lastmodified":1602624772,
+    "wof:name":"Lone Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.844673,
+    -45.114861,
+    167.846217,
+    -45.113713
+],
+  "geometry": {"coordinates":[[[167.84558799999999,-45.114861],[167.84533400000001,-45.114852],[167.845055,-45.114751],[167.84484399999999,-45.114607],[167.844673,-45.114352],[167.84472600000001,-45.114084],[167.84487300000001,-45.113819],[167.84504000000001,-45.113713],[167.845167,-45.113718],[167.84540899999999,-45.113886],[167.84552400000001,-45.114048],[167.846217,-45.114547],[167.845979,-45.114742],[167.84558799999999,-45.114861]]],"type":"Polygon"}
+}

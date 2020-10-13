@@ -1,0 +1,53 @@
+{
+  "id": 1729342637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5691.121985,
+    "geom:bbox":"175.819196,-36.839215,175.820265,-36.838387",
+    "geom:latitude":-36.838795,
+    "geom:longitude":175.819692,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.838795,
+    "lbl:longitude":175.819692,
+    "mps:latitude":-36.838795,
+    "mps:longitude":175.819692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Te Karaka Island"
+    ],
+    "nz-linz:name":"Te Karaka Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5000
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622967,
+    "wof:geomhash":"f17702721863ce351f2fd9635e976a42",
+    "wof:hierarchy":[],
+    "wof:id":1729342637,
+    "wof:lastmodified":1602624778,
+    "wof:name":"Te Karaka Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.819196,
+    -36.839215,
+    175.820265,
+    -36.838387
+],
+  "geometry": {"coordinates":[[[175.81997200000001,-36.83921],[175.81983199999999,-36.839215],[175.819402,-36.839001],[175.81919600000001,-36.838803],[175.81921199999999,-36.83851],[175.81931900000001,-36.838395],[175.81960000000001,-36.838387],[175.82011800000001,-36.838711],[175.82026500000001,-36.838841],[175.82008099999999,-36.83914],[175.81997200000001,-36.83921]]],"type":"Polygon"}
+}

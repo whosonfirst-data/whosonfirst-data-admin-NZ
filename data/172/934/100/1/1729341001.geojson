@@ -1,0 +1,53 @@
+{
+  "id": 1729341001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5918.485033,
+    "geom:bbox":"176.27588,-37.278839,176.276954,-37.277966",
+    "geom:latitude":-37.278396,
+    "geom:longitude":176.276413,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.27838,
+    "lbl:longitude":176.276423,
+    "mps:latitude":-37.27838,
+    "mps:longitude":176.276423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motuoneone Island"
+    ],
+    "nz-linz:name":"Motuoneone Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4604
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622255,
+    "wof:geomhash":"db9f03b4010ddeacf18a33627ae34bbf",
+    "wof:hierarchy":[],
+    "wof:id":1729341001,
+    "wof:lastmodified":1602624758,
+    "wof:name":"Motuoneone Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.27588,
+    -37.278839,
+    176.276954,
+    -37.277966
+],
+  "geometry": {"coordinates":[[[176.276937,-37.278711],[176.276579,-37.278834],[176.276443,-37.278839],[176.27603300000001,-37.278499],[176.27588,-37.278301],[176.27589599999999,-37.27821],[176.27604400000001,-37.278021],[176.27614800000001,-37.277968],[176.27632399999999,-37.277966],[176.276546,-37.27804],[176.27666500000001,-37.278124],[176.27695399999999,-37.278641],[176.276937,-37.278711]]],"type":"Polygon"}
+}

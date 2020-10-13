@@ -1,0 +1,53 @@
+{
+  "id": 1729340935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5011.930558,
+    "geom:bbox":"177.982705,-37.533504,177.983645,-37.532554",
+    "geom:latitude":-37.533029,
+    "geom:longitude":177.983173,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.533074,
+    "lbl:longitude":177.983219,
+    "mps:latitude":-37.533074,
+    "mps:longitude":177.983219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Otarawhata Island"
+    ],
+    "nz-linz:name":"Otarawhata Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4766
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622228,
+    "wof:geomhash":"6c6aa0d48efb0cf5a7e217524971d165",
+    "wof:hierarchy":[],
+    "wof:id":1729340935,
+    "wof:lastmodified":1602624778,
+    "wof:name":"Otarawhata Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.982705,
+    -37.533504,
+    177.983645,
+    -37.532554
+],
+  "geometry": {"coordinates":[[[177.98342099999999,-37.533477],[177.98330999999999,-37.533504],[177.98279400000001,-37.533078],[177.98272700000001,-37.532946],[177.98270500000001,-37.532654],[177.98278300000001,-37.53256],[177.98289600000001,-37.532554],[177.98298600000001,-37.532618],[177.983057,-37.532794],[177.98348300000001,-37.532819],[177.983633,-37.532924],[177.983645,-37.533082],[177.98355000000001,-37.533312],[177.98342099999999,-37.533477]]],"type":"Polygon"}
+}

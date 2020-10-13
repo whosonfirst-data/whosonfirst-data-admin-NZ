@@ -1,0 +1,53 @@
+{
+  "id": 1729341705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7981.588809,
+    "geom:bbox":"171.151892,-42.808162,171.153175,-42.80643",
+    "geom:latitude":-42.807307,
+    "geom:longitude":171.152506,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.807591,
+    "lbl:longitude":171.152302,
+    "mps:latitude":-42.807591,
+    "mps:longitude":171.152302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hans Island"
+    ],
+    "nz-linz:name":"Hans Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4346
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622576,
+    "wof:geomhash":"fe6ba03404a45174ac518533263fded2",
+    "wof:hierarchy":[],
+    "wof:id":1729341705,
+    "wof:lastmodified":1602624786,
+    "wof:name":"Hans Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.151892,
+    -42.808162,
+    171.153175,
+    -42.80643
+],
+  "geometry": {"coordinates":[[[171.152344,-42.808157],[171.151971,-42.807766],[171.151914,-42.807716],[171.151892,-42.807662],[171.15195800000001,-42.807459],[171.15201999999999,-42.807393],[171.152435,-42.807087],[171.152491,-42.806835],[171.15258600000001,-42.806634],[171.15273199999999,-42.80643],[171.152895,-42.806437],[171.15310700000001,-42.806595],[171.153165,-42.806685],[171.153175,-42.806766],[171.15309099999999,-42.806859],[171.152637,-42.807188],[171.15262200000001,-42.807817],[171.152613,-42.807993],[171.152491,-42.808162],[171.152344,-42.808157]]],"type":"Polygon"}
+}

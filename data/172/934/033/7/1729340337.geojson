@@ -1,0 +1,53 @@
+{
+  "id": 1729340337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2958.200739,
+    "geom:bbox":"168.240379,-46.81407,168.241086,-46.813377",
+    "geom:latitude":-46.813739,
+    "geom:longitude":168.240729,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.81379,
+    "lbl:longitude":168.240658,
+    "mps:latitude":-46.81379,
+    "mps:longitude":168.240658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Zero Rock"
+    ],
+    "nz-linz:name":"Zero Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5148
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621983,
+    "wof:geomhash":"4fd53148747430e6fb3bf99ef0160b5d",
+    "wof:hierarchy":[],
+    "wof:id":1729340337,
+    "wof:lastmodified":1602624776,
+    "wof:name":"Zero Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.240379,
+    -46.81407,
+    168.241086,
+    -46.813377
+],
+  "geometry": {"coordinates":[[[168.240579,-46.81407],[168.24039300000001,-46.813929],[168.24037899999999,-46.81368],[168.24072799999999,-46.813377],[168.240925,-46.813384],[168.241051,-46.813456],[168.24104600000001,-46.813523],[168.24087399999999,-46.81363],[168.241062,-46.813749],[168.241086,-46.813863],[168.24087800000001,-46.814035],[168.240579,-46.81407]]],"type":"Polygon"}
+}

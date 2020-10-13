@@ -1,0 +1,53 @@
+{
+  "id": 1729339953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3694.486741,
+    "geom:bbox":"177.184691,-37.53635,177.185923,-37.535792",
+    "geom:latitude":-37.53609,
+    "geom:longitude":177.185188,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.536123,
+    "lbl:longitude":177.185109,
+    "mps:latitude":-37.536123,
+    "mps:longitude":177.185109,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Club Rock"
+    ],
+    "nz-linz:name":"Club Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4250
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621830,
+    "wof:geomhash":"bfcdbb77af023c70ddee8d8646163b6a",
+    "wof:hierarchy":[],
+    "wof:id":1729339953,
+    "wof:lastmodified":1602624828,
+    "wof:name":"Club Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.184691,
+    -37.53635,
+    177.185923,
+    -37.535792
+],
+  "geometry": {"coordinates":[[[[177.18493599999999,-37.535792],[177.185057,-37.5359],[177.18531100000001,-37.535889],[177.185519,-37.536049],[177.185551,-37.5362],[177.18536900000001,-37.536315],[177.18508800000001,-37.53635],[177.184943,-37.536311],[177.18469999999999,-37.536073],[177.18469099999999,-37.535938],[177.18479500000001,-37.535798],[177.18493599999999,-37.535792]]],[[[177.185923,-37.536134],[177.185787,-37.536231],[177.18558100000001,-37.536204],[177.185541,-37.536066],[177.18586099999999,-37.536047],[177.185923,-37.536134]]]],"type":"MultiPolygon"}
+}

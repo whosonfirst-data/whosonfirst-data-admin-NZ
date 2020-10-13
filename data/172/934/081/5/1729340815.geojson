@@ -1,0 +1,53 @@
+{
+  "id": 1729340815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":896.05739,
+    "geom:bbox":"167.732596,-47.185056,167.733055,-47.184708",
+    "geom:latitude":-47.184868,
+    "geom:longitude":167.73284,
+    "iso:country":"NZ",
+    "lbl:latitude":-47.184872,
+    "lbl:longitude":167.73284,
+    "mps:latitude":-47.184872,
+    "mps:longitude":167.73284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Orphans Rock"
+    ],
+    "nz-linz:name":"Orphans Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4761
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622179,
+    "wof:geomhash":"96885e1c11d26f167b433e47879cf415",
+    "wof:hierarchy":[],
+    "wof:id":1729340815,
+    "wof:lastmodified":1602624767,
+    "wof:name":"Orphans Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.732596,
+    -47.185056,
+    167.733055,
+    -47.184708
+],
+  "geometry": {"coordinates":[[[167.733045,-47.184992],[167.73294000000001,-47.185056],[167.73274799999999,-47.18498],[167.732596,-47.184817],[167.73260099999999,-47.184749],[167.73270500000001,-47.184708],[167.732933,-47.18474],[167.73305500000001,-47.184857],[167.733045,-47.184992]]],"type":"Polygon"}
+}

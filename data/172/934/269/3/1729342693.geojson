@@ -1,0 +1,53 @@
+{
+  "id": 1729342693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17397.710638,
+    "geom:bbox":"174.162308,-36.225404,174.164524,-36.223781",
+    "geom:latitude":-36.224406,
+    "geom:longitude":174.163141,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.224324,
+    "lbl:longitude":174.162957,
+    "mps:latitude":-36.224324,
+    "mps:longitude":174.162957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Titipu Island"
+    ],
+    "nz-linz:name":"Titipu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5052
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622989,
+    "wof:geomhash":"4a780b50058cef8aa9b6e899abcc594f",
+    "wof:hierarchy":[],
+    "wof:id":1729342693,
+    "wof:lastmodified":1602624738,
+    "wof:name":"Titipu Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.162308,
+    -36.225404,
+    174.164524,
+    -36.223781
+],
+  "geometry": {"coordinates":[[[174.164524,-36.223912],[174.164445,-36.224072],[174.164253,-36.224188],[174.163783,-36.224286],[174.16353699999999,-36.224426],[174.163265,-36.224656],[174.163185,-36.224792],[174.16313400000001,-36.224974],[174.16317000000001,-36.225289],[174.16309000000001,-36.225402],[174.16300699999999,-36.225404],[174.162724,-36.225274],[174.16241099999999,-36.225009],[174.162351,-36.224807],[174.162308,-36.224267],[174.16241500000001,-36.224062],[174.162578,-36.223946],[174.162826,-36.223874],[174.16360399999999,-36.223861],[174.16407599999999,-36.223785],[174.164298,-36.223781],[174.164524,-36.223912]]],"type":"Polygon"}
+}

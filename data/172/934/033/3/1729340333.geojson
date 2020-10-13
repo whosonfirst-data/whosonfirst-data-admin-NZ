@@ -1,0 +1,53 @@
+{
+  "id": 1729340333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6993.824325,
+    "geom:bbox":"174.940103,-36.714169,174.941171,-36.713207",
+    "geom:latitude":-36.713643,
+    "geom:longitude":174.940651,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.713618,
+    "lbl:longitude":174.940714,
+    "mps:latitude":-36.713618,
+    "mps:longitude":174.940714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Woody Island"
+    ],
+    "nz-linz:name":"Woody Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5146
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621981,
+    "wof:geomhash":"4c8d0590d8c719f84019d32c8675f0be",
+    "wof:hierarchy":[],
+    "wof:id":1729340333,
+    "wof:lastmodified":1602624776,
+    "wof:name":"Woody Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.940103,
+    -36.714169,
+    174.941171,
+    -36.713207
+],
+  "geometry": {"coordinates":[[[174.9408,-36.714145],[174.94074499999999,-36.714169],[174.94054800000001,-36.71415],[174.94043500000001,-36.714107],[174.94032100000001,-36.714019],[174.94036700000001,-36.713702],[174.94016500000001,-36.713503],[174.94010700000001,-36.713414],[174.94010299999999,-36.713279],[174.940158,-36.713233],[174.940325,-36.713207],[174.94097099999999,-36.713285],[174.941171,-36.71347],[174.941046,-36.713915],[174.9408,-36.714145]]],"type":"Polygon"}
+}

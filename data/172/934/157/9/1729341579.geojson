@@ -1,0 +1,53 @@
+{
+  "id": 1729341579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7188.436295,
+    "geom:bbox":"173.868417,-40.896906,173.869873,-40.896202",
+    "geom:latitude":-40.896563,
+    "geom:longitude":173.869153,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.896552,
+    "lbl:longitude":173.869153,
+    "mps:latitude":-40.896552,
+    "mps:longitude":173.869153,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Anatakupu Island"
+    ],
+    "nz-linz:name":"Anatakupu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4139
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622510,
+    "wof:geomhash":"be5450c620f4d939a295e47a5662d6d5",
+    "wof:hierarchy":[],
+    "wof:id":1729341579,
+    "wof:lastmodified":1602624718,
+    "wof:name":"Anatakupu Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.868417,
+    -40.896906,
+    173.869873,
+    -40.896202
+],
+  "geometry": {"coordinates":[[[173.86841699999999,-40.896551],[173.86844400000001,-40.896438],[173.868562,-40.896346],[173.86885599999999,-40.896252],[173.86924099999999,-40.896202],[173.86947900000001,-40.896221],[173.869629,-40.896309],[173.86987300000001,-40.896599],[173.86984799999999,-40.896723],[173.86954700000001,-40.896876],[173.86878100000001,-40.896906],[173.86863,-40.896796],[173.86856800000001,-40.896661],[173.86841699999999,-40.896551]]],"type":"Polygon"}
+}

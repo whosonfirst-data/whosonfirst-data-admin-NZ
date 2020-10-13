@@ -1,0 +1,53 @@
+{
+  "id": 1729342231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1560.544335,
+    "geom:bbox":"175.136124,-35.956806,175.136646,-35.956284",
+    "geom:latitude":-35.956518,
+    "geom:longitude":175.136417,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.956513,
+    "lbl:longitude":175.136417,
+    "mps:latitude":-35.956513,
+    "mps:longitude":175.136417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Navire Rock"
+    ],
+    "nz-linz:name":"Navire Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4711
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622803,
+    "wof:geomhash":"eef5172fef043a74054fcc317e131bcd",
+    "wof:hierarchy":[],
+    "wof:id":1729342231,
+    "wof:lastmodified":1602624766,
+    "wof:name":"Navire Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.136124,
+    -35.956806,
+    175.136646,
+    -35.956284
+],
+  "geometry": {"coordinates":[[[175.13653199999999,-35.956284],[175.13664600000001,-35.956372],[175.136572,-35.956644],[175.136437,-35.956782],[175.13635500000001,-35.956806],[175.13629399999999,-35.956649],[175.136124,-35.956541],[175.136394,-35.956287],[175.13653199999999,-35.956284]]],"type":"Polygon"}
+}

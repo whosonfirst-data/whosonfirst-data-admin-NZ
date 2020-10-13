@@ -1,0 +1,53 @@
+{
+  "id": 1729340131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2559.497192,
+    "geom:bbox":"174.360938,-35.410918,174.361805,-35.41025",
+    "geom:latitude":-35.410588,
+    "geom:longitude":174.36132,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.410494,
+    "lbl:longitude":174.361206,
+    "mps:latitude":-35.410494,
+    "mps:longitude":174.361206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Moturahurahu Island"
+    ],
+    "nz-linz:name":"Moturahurahu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4625
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621900,
+    "wof:geomhash":"2bf2c3ab3e0ed174d471698f19fe72f0",
+    "wof:hierarchy":[],
+    "wof:id":1729340131,
+    "wof:lastmodified":1602624727,
+    "wof:name":"Moturahurahu Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.360938,
+    -35.410918,
+    174.361805,
+    -35.41025
+],
+  "geometry": {"coordinates":[[[174.36172500000001,-35.410893],[174.361616,-35.410918],[174.36144999999999,-35.410851],[174.361279,-35.410745],[174.36095700000001,-35.410528],[174.360938,-35.410345],[174.36098999999999,-35.410253],[174.36112800000001,-35.41025],[174.361324,-35.41036],[174.361413,-35.410561],[174.36166399999999,-35.410669],[174.361805,-35.410801],[174.36172500000001,-35.410893]]],"type":"Polygon"}
+}

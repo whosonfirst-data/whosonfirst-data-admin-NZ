@@ -1,0 +1,53 @@
+{
+  "id": 1729341619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":423.302317,
+    "geom:bbox":"168.896844,-43.856246,168.897122,-43.855972",
+    "geom:latitude":-43.856118,
+    "geom:longitude":168.896991,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.856114,
+    "lbl:longitude":168.896994,
+    "mps:latitude":-43.856114,
+    "mps:longitude":168.896994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bignell Reef"
+    ],
+    "nz-linz:name":"Bignell Reef",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4181
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622528,
+    "wof:geomhash":"bfaf7e60aa67942b433742e29be258cf",
+    "wof:hierarchy":[],
+    "wof:id":1729341619,
+    "wof:lastmodified":1602624719,
+    "wof:name":"Bignell Reef",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.896844,
+    -43.856246,
+    168.897122,
+    -43.855972
+],
+  "geometry": {"coordinates":[[[168.89711600000001,-43.856227],[168.897021,-43.856246],[168.896961,-43.856221],[168.89684399999999,-43.856104],[168.896916,-43.855972],[168.897066,-43.856045],[168.897122,-43.856137],[168.89711600000001,-43.856227]]],"type":"Polygon"}
+}

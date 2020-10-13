@@ -1,0 +1,53 @@
+{
+  "id": 1729341373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20151.624026,
+    "geom:bbox":"175.747396,-39.396689,175.749347,-39.394927",
+    "geom:latitude":-39.395739,
+    "geom:longitude":175.748387,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.395811,
+    "lbl:longitude":175.748308,
+    "mps:latitude":-39.395811,
+    "mps:longitude":175.748308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ayers Rock"
+    ],
+    "nz-linz:name":"Ayers Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4161
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622416,
+    "wof:geomhash":"f9b2f8f74661bb512e72333130238947",
+    "wof:hierarchy":[],
+    "wof:id":1729341373,
+    "wof:lastmodified":1602624760,
+    "wof:name":"Ayers Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.747396,
+    -39.396689,
+    175.749347,
+    -39.394927
+],
+  "geometry": {"coordinates":[[[175.74776199999999,-39.396604],[175.74764300000001,-39.395932],[175.747401,-39.395758],[175.74739600000001,-39.395646],[175.74750299999999,-39.395462],[175.747615,-39.395368],[175.748132,-39.39524],[175.74830299999999,-39.395168],[175.748582,-39.394935],[175.74881400000001,-39.394927],[175.74928800000001,-39.395095],[175.749347,-39.395137],[175.74934300000001,-39.395634],[175.74867599999999,-39.396262],[175.748256,-39.396613],[175.74811500000001,-39.396684],[175.747941,-39.396689],[175.74776199999999,-39.396604]]],"type":"Polygon"}
+}

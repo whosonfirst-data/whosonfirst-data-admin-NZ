@@ -1,0 +1,53 @@
+{
+  "id": 1729340045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":693.412465,
+    "geom:bbox":"173.665108,-41.076915,173.665633,-41.076663",
+    "geom:latitude":-41.076791,
+    "geom:longitude":173.665348,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.076806,
+    "lbl:longitude":173.665323,
+    "mps:latitude":-41.076806,
+    "mps:longitude":173.665323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lone Rock"
+    ],
+    "nz-linz:name":"Lone Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4464
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621866,
+    "wof:geomhash":"2ca1966f8c4eac4e96f5b10152256334",
+    "wof:hierarchy":[],
+    "wof:id":1729340045,
+    "wof:lastmodified":1602624772,
+    "wof:name":"Lone Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.665108,
+    -41.076915,
+    173.665633,
+    -41.076663
+],
+  "geometry": {"coordinates":[[[173.66563300000001,-41.076703],[173.66535200000001,-41.076912],[173.665108,-41.076915],[173.665199,-41.076733],[173.66546600000001,-41.076663],[173.66563300000001,-41.076703]]],"type":"Polygon"}
+}

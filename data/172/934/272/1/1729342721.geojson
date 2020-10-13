@@ -1,0 +1,53 @@
+{
+  "id": 1729342721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1623.641655,
+    "geom:bbox":"176.42952,-37.634214,176.430025,-37.633571",
+    "geom:latitude":-37.633839,
+    "geom:longitude":176.429719,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.633811,
+    "lbl:longitude":176.429681,
+    "mps:latitude":-37.633811,
+    "mps:longitude":176.429681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Turitea Island"
+    ],
+    "nz-linz:name":"Turitea Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5079
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623000,
+    "wof:geomhash":"516721518cb0fdd47e060e8713b21677",
+    "wof:hierarchy":[],
+    "wof:id":1729342721,
+    "wof:lastmodified":1602624730,
+    "wof:name":"Turitea Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.42952,
+    -37.634214,
+    176.430025,
+    -37.633571
+],
+  "geometry": {"coordinates":[[[176.42962800000001,-37.633571],[176.429937,-37.63365],[176.430025,-37.633715],[176.42980900000001,-37.633881],[176.42978199999999,-37.634214],[176.42953199999999,-37.634003],[176.42952,-37.633801],[176.42962800000001,-37.633571]]],"type":"Polygon"}
+}

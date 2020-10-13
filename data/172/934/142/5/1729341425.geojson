@@ -1,0 +1,56 @@
+{
+  "id": 1729341425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8829.556517,
+    "geom:bbox":"175.751459,-36.792245,175.752613,-36.791186",
+    "geom:latitude":-36.791681,
+    "geom:longitude":175.752064,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.791676,
+    "lbl:longitude":175.752075,
+    "mps:latitude":-36.791676,
+    "mps:longitude":175.752075,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Round Island"
+    ],
+    "name:mri_x_preferred":[
+        "Mahungarape Island"
+    ],
+    "nz-linz:name":"Mahungarape Island (Round Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4477
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622437,
+    "wof:geomhash":"57f87a357919bc51b26d3a67ec73e724",
+    "wof:hierarchy":[],
+    "wof:id":1729341425,
+    "wof:lastmodified":1602624740,
+    "wof:name":"Round Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.751459,
+    -36.792245,
+    175.752613,
+    -36.791186
+],
+  "geometry": {"coordinates":[[[175.75199499999999,-36.792245],[175.75147000000001,-36.791763],[175.75145900000001,-36.791515],[175.751634,-36.791352],[175.75194999999999,-36.791186],[175.75224499999999,-36.791189],[175.75237100000001,-36.791219],[175.752577,-36.79144],[175.752613,-36.791619],[175.75257999999999,-36.791834],[175.752396,-36.792121],[175.75230099999999,-36.792191],[175.75199499999999,-36.792245]]],"type":"Polygon"}
+}

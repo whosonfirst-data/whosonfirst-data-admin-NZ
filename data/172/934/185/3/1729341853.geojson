@@ -1,0 +1,53 @@
+{
+  "id": 1729341853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":4626.221057,
+    "geom:bbox":"168.050547,-46.908698,168.051727,-46.907797",
+    "geom:latitude":-46.908371,
+    "geom:longitude":168.051137,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.90839,
+    "lbl:longitude":168.051097,
+    "mps:latitude":-46.90839,
+    "mps:longitude":168.051097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kidney Fern Island"
+    ],
+    "nz-linz:name":"Kidney Fern Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4430
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622648,
+    "wof:geomhash":"dbf335983f8ae435b3d998eff5364b96",
+    "wof:hierarchy":[],
+    "wof:id":1729341853,
+    "wof:lastmodified":1602624793,
+    "wof:name":"Kidney Fern Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.050547,
+    -46.908698,
+    168.051727,
+    -46.907797
+],
+  "geometry": {"coordinates":[[[168.05066099999999,-46.908629],[168.05054699999999,-46.9084],[168.050859,-46.908208],[168.05114699999999,-46.907881],[168.05131700000001,-46.907797],[168.051411,-46.907867],[168.051265,-46.908065],[168.051289,-46.908178],[168.051727,-46.908465],[168.05171999999999,-46.908555],[168.051582,-46.908639],[168.05131399999999,-46.908698],[168.050825,-46.908658],[168.05066099999999,-46.908629]]],"type":"Polygon"}
+}

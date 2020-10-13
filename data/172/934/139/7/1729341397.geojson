@@ -1,0 +1,53 @@
+{
+  "id": 1729341397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5490.94653,
+    "geom:bbox":"174.292129,-35.192202,174.293099,-35.191259",
+    "geom:latitude":-35.191714,
+    "geom:longitude":174.292553,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.191696,
+    "lbl:longitude":174.292495,
+    "mps:latitude":-35.191696,
+    "mps:longitude":174.292495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Putahataha Island"
+    ],
+    "nz-linz:name":"Putahataha Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4849
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622426,
+    "wof:geomhash":"f1d10672e13134ca0d9e4c389c745019",
+    "wof:hierarchy":[],
+    "wof:id":1729341397,
+    "wof:lastmodified":1602624760,
+    "wof:name":"Putahataha Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.292129,
+    -35.192202,
+    174.293099,
+    -35.191259
+],
+  "geometry": {"coordinates":[[[174.292835,-35.192201],[174.292753,-35.192202],[174.292529,-35.192025],[174.292362,-35.192006],[174.29216600000001,-35.19183],[174.29212899999999,-35.191492],[174.29220599999999,-35.19131],[174.292314,-35.191263],[174.292506,-35.191259],[174.29270199999999,-35.191369],[174.292787,-35.191457],[174.29279399999999,-35.191727],[174.29304400000001,-35.191791],[174.29309900000001,-35.191834],[174.292835,-35.192201]]],"type":"Polygon"}
+}

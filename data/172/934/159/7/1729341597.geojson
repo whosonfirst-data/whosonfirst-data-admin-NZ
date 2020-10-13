@@ -1,0 +1,53 @@
+{
+  "id": 1729341597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1542.797573,
+    "geom:bbox":"173.068564,-40.957906,173.069126,-40.957453",
+    "geom:latitude":-40.957689,
+    "geom:longitude":173.06884,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.957678,
+    "lbl:longitude":173.068845,
+    "mps:latitude":-40.957678,
+    "mps:longitude":173.068845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Armchair Island"
+    ],
+    "nz-linz:name":"Armchair Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4156
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622518,
+    "wof:geomhash":"d4e35f9d1a4e5c74aad2d0ffab4e6e2e",
+    "wof:hierarchy":[],
+    "wof:id":1729341597,
+    "wof:lastmodified":1602624718,
+    "wof:name":"Armchair Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.068564,
+    -40.957906,
+    173.069126,
+    -40.957453
+],
+  "geometry": {"coordinates":[[[173.069095,-40.957521],[173.06912600000001,-40.957611],[173.06903800000001,-40.957746],[173.06883300000001,-40.957905],[173.06865300000001,-40.957906],[173.06856400000001,-40.957839],[173.06859299999999,-40.957681],[173.06876800000001,-40.957523],[173.06894600000001,-40.957453],[173.069095,-40.957521]]],"type":"Polygon"}
+}

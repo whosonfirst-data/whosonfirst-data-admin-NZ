@@ -1,0 +1,53 @@
+{
+  "id": 1729341503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":64934.666808,
+    "geom:bbox":"168.120188,-46.908574,168.12472,-46.906151",
+    "geom:latitude":-46.907426,
+    "geom:longitude":168.122494,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.907413,
+    "lbl:longitude":168.122494,
+    "mps:latitude":-46.907413,
+    "mps:longitude":168.122494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Iona Island"
+    ],
+    "nz-linz:name":"Iona Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4391
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622474,
+    "wof:geomhash":"3da0485f25db9984d790885b98ed39b0",
+    "wof:hierarchy":[],
+    "wof:id":1729341503,
+    "wof:lastmodified":1602624718,
+    "wof:name":"Iona Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.120188,
+    -46.908574,
+    168.12472,
+    -46.906151
+],
+  "geometry": {"coordinates":[[[168.12308400000001,-46.908574],[168.122592,-46.908556],[168.121972,-46.90849],[168.12158299999999,-46.908408],[168.12107399999999,-46.908187],[168.120621,-46.908081],[168.12024500000001,-46.907842],[168.12018800000001,-46.907727],[168.12020799999999,-46.907458],[168.120364,-46.907125],[168.121532,-46.906468],[168.12173300000001,-46.906408],[168.12203199999999,-46.906159],[168.12211500000001,-46.906151],[168.122401,-46.906273],[168.12364299999999,-46.906385],[168.12411800000001,-46.906627],[168.124381,-46.907065],[168.12472,-46.90737],[168.12470099999999,-46.907617],[168.12462500000001,-46.90775],[168.12430800000001,-46.908032],[168.123998,-46.908223],[168.12345300000001,-46.908474],[168.12308400000001,-46.908574]]],"type":"Polygon"}
+}

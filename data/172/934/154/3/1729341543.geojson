@@ -1,0 +1,53 @@
+{
+  "id": 1729341543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":807.3128,
+    "geom:bbox":"167.670919,-46.938083,167.671317,-46.937749",
+    "geom:latitude":-46.9379,
+    "geom:longitude":167.671106,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.937897,
+    "lbl:longitude":167.671102,
+    "mps:latitude":-46.937897,
+    "mps:longitude":167.671102,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Guide Rock"
+    ],
+    "nz-linz:name":"Guide Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4340
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622495,
+    "wof:geomhash":"eee2f2e8fafe00684b67a98f02d3b231",
+    "wof:hierarchy":[],
+    "wof:id":1729341543,
+    "wof:lastmodified":1602624755,
+    "wof:name":"Guide Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.670919,
+    -46.938083,
+    167.671317,
+    -46.937749
+],
+  "geometry": {"coordinates":[[[167.671256,-46.937753],[167.67131699999999,-46.937822],[167.67127199999999,-46.937957],[167.671064,-46.938083],[167.67093600000001,-46.938034],[167.670919,-46.937852],[167.67102399999999,-46.937766],[167.67115799999999,-46.937749],[167.671256,-46.937753]]],"type":"Polygon"}
+}

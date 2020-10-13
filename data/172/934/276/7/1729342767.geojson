@@ -1,0 +1,53 @@
+{
+  "id": 1729342767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21624.686105,
+    "geom:bbox":"166.635995,-45.593378,166.637568,-45.590648",
+    "geom:latitude":-45.592205,
+    "geom:longitude":166.636751,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.59264,
+    "lbl:longitude":166.636698,
+    "mps:latitude":-45.59264,
+    "mps:longitude":166.636698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wairaki Island"
+    ],
+    "nz-linz:name":"Wairaki Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5101
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623020,
+    "wof:geomhash":"ffa77c422b2e2f46c1ea5d95a9d1b43e",
+    "wof:hierarchy":[],
+    "wof:id":1729342767,
+    "wof:lastmodified":1602624768,
+    "wof:name":"Wairaki Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.635995,
+    -45.593378,
+    166.637568,
+    -45.590648
+],
+  "geometry": {"coordinates":[[[166.636867,-45.593378],[166.636449,-45.593378],[166.63627299999999,-45.593233],[166.63625300000001,-45.593119],[166.635997,-45.592812],[166.63599500000001,-45.592541],[166.636233,-45.592125],[166.63648599999999,-45.591868],[166.636529,-45.591769],[166.636314,-45.590945],[166.63631799999999,-45.590753],[166.636459,-45.590648],[166.63665,-45.590659],[166.63708800000001,-45.590919],[166.63727499999999,-45.591121],[166.637258,-45.591278],[166.63700600000001,-45.591513],[166.636923,-45.5917],[166.63697500000001,-45.591951],[166.63704100000001,-45.592079],[166.63751999999999,-45.592398],[166.63756799999999,-45.592558],[166.63747699999999,-45.592948],[166.63734600000001,-45.59311],[166.636867,-45.593378]]],"type":"Polygon"}
+}

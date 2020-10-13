@@ -1,0 +1,53 @@
+{
+  "id": 1729341929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":49799.34863,
+    "geom:bbox":"174.592463,-35.839935,174.594994,-35.837119",
+    "geom:latitude":-35.838503,
+    "geom:longitude":174.59364,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.838483,
+    "lbl:longitude":174.593489,
+    "mps:latitude":-35.838483,
+    "mps:longitude":174.593489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mauitaha Island"
+    ],
+    "nz-linz:name":"Mauitaha Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4496
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622679,
+    "wof:geomhash":"7c9cafc2d0c6cdae52ed09848e509c71",
+    "wof:hierarchy":[],
+    "wof:id":1729341929,
+    "wof:lastmodified":1602624718,
+    "wof:name":"Mauitaha Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.592463,
+    -35.839935,
+    174.594994,
+    -35.837119
+],
+  "geometry": {"coordinates":[[[174.59417300000001,-35.839935],[174.59381300000001,-35.83992],[174.59333899999999,-35.839795],[174.59308300000001,-35.839597],[174.592647,-35.838908],[174.592467,-35.838482],[174.59246300000001,-35.838325],[174.59262000000001,-35.838051],[174.592637,-35.83769],[174.59257700000001,-35.837511],[174.5926,-35.837375],[174.592735,-35.83726],[174.59322900000001,-35.837137],[174.594088,-35.837119],[174.594255,-35.837161],[174.594482,-35.837359],[174.59446600000001,-35.83772],[174.59439499999999,-35.83789],[174.59434400000001,-35.838546],[174.594448,-35.838744],[174.594753,-35.838971],[174.59495899999999,-35.839206],[174.59499400000001,-35.839368],[174.59486799999999,-35.839552],[174.594731,-35.839667],[174.59441699999999,-35.839728],[174.59417300000001,-35.839935]]],"type":"Polygon"}
+}

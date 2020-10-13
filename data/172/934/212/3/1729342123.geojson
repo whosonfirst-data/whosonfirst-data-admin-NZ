@@ -1,0 +1,53 @@
+{
+  "id": 1729342123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5009.182042,
+    "geom:bbox":"174.017321,-35.193301,174.018502,-35.192729",
+    "geom:latitude":-35.19303,
+    "geom:longitude":174.017877,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.193001,
+    "lbl:longitude":174.017877,
+    "mps:latitude":-35.193001,
+    "mps:longitude":174.017877,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motutapu Island"
+    ],
+    "nz-linz:name":"Motutapu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4648
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622759,
+    "wof:geomhash":"fe38c380a87df42c03794c71c59a23cb",
+    "wof:hierarchy":[],
+    "wof:id":1729342123,
+    "wof:lastmodified":1602624766,
+    "wof:name":"Motutapu Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.017321,
+    -35.193301,
+    174.018502,
+    -35.192729
+],
+  "geometry": {"coordinates":[[[174.01850200000001,-35.19308],[174.01828599999999,-35.193242],[174.01746299999999,-35.193301],[174.01735099999999,-35.193236],[174.01732100000001,-35.193123],[174.01745199999999,-35.192872],[174.01766799999999,-35.192734],[174.017943,-35.192729],[174.01816500000001,-35.192793],[174.018472,-35.19299],[174.01850200000001,-35.19308]]],"type":"Polygon"}
+}

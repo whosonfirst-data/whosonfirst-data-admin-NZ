@@ -1,0 +1,53 @@
+{
+  "id": 1729342589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10525.77618,
+    "geom:bbox":"168.105733,-46.933998,168.108669,-46.933245",
+    "geom:latitude":-46.933594,
+    "geom:longitude":168.107162,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.933558,
+    "lbl:longitude":168.107162,
+    "mps:latitude":-46.933558,
+    "mps:longitude":168.107162,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tamihau Island"
+    ],
+    "nz-linz:name":"Tamihau Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4968
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622947,
+    "wof:geomhash":"99364a151f0ba0235373e96992231989",
+    "wof:hierarchy":[],
+    "wof:id":1729342589,
+    "wof:lastmodified":1602624737,
+    "wof:name":"Tamihau Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.105733,
+    -46.933998,
+    168.108669,
+    -46.933245
+],
+  "geometry": {"coordinates":[[[168.10577799999999,-46.933925],[168.10582299999999,-46.933745],[168.10573299999999,-46.933652],[168.105737,-46.933585],[168.105906,-46.933523],[168.106269,-46.933514],[168.10710700000001,-46.933318],[168.10760500000001,-46.933245],[168.108,-46.933259],[168.10854499999999,-46.933437],[168.10866899999999,-46.933554],[168.108495,-46.93366],[168.10799299999999,-46.933777],[168.107632,-46.933764],[168.10654,-46.933861],[168.10593700000001,-46.933998],[168.10577799999999,-46.933925]]],"type":"Polygon"}
+}

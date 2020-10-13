@@ -1,0 +1,53 @@
+{
+  "id": 1729340905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9380.552312,
+    "geom:bbox":"177.648205,-37.788424,177.64967,-37.787548",
+    "geom:latitude":-37.787999,
+    "geom:longitude":177.648936,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.787997,
+    "lbl:longitude":177.648936,
+    "mps:latitude":-37.787997,
+    "mps:longitude":177.648936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motunui Island"
+    ],
+    "nz-linz:name":"Motunui Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4598
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622216,
+    "wof:geomhash":"6e93296f94053ebebaff22da954a8800",
+    "wof:hierarchy":[],
+    "wof:id":1729340905,
+    "wof:lastmodified":1602624738,
+    "wof:name":"Motunui Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.648205,
+    -37.788424,
+    177.64967,
+    -37.787548
+],
+  "geometry": {"coordinates":[[[177.64828199999999,-37.788414],[177.64820499999999,-37.788146],[177.64835500000001,-37.787869],[177.64878899999999,-37.787578],[177.64941300000001,-37.787548],[177.64959300000001,-37.787676],[177.64966999999999,-37.787942],[177.64930000000001,-37.788321],[177.649022,-37.788424],[177.64828199999999,-37.788414]]],"type":"Polygon"}
+}

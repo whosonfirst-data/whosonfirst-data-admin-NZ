@@ -1,0 +1,56 @@
+{
+  "id": 1729341673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28810.120607,
+    "geom:bbox":"174.872298,-36.454174,174.873814,-36.45123",
+    "geom:latitude":-36.452763,
+    "geom:longitude":174.872959,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.452273,
+    "lbl:longitude":174.872883,
+    "mps:latitude":-36.452273,
+    "mps:longitude":174.872883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Challenger Island"
+    ],
+    "name:mri_x_preferred":[
+        "Little Kawau Island"
+    ],
+    "nz-linz:name":"Challenger Island (Little Kawau Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4244
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622558,
+    "wof:geomhash":"20cb03c97ca6b3d56ecd3ac171d1a08f",
+    "wof:hierarchy":[],
+    "wof:id":1729341673,
+    "wof:lastmodified":1602624722,
+    "wof:name":"Challenger Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.872298,
+    -36.454174,
+    174.873814,
+    -36.45123
+],
+  "geometry": {"coordinates":[[[174.87242599999999,-36.451592],[174.87250599999999,-36.451392],[174.87269599999999,-36.45123],[174.87314900000001,-36.451423],[174.87334999999999,-36.451576],[174.873334,-36.451938],[174.87339299999999,-36.452048],[174.87359499999999,-36.452203],[174.87365700000001,-36.452403],[174.87324899999999,-36.452706],[174.873255,-36.452886],[174.873524,-36.453421],[174.87381400000001,-36.453753],[174.87379100000001,-36.453888],[174.87371099999999,-36.454003],[174.87352100000001,-36.454143],[174.873131,-36.454174],[174.87293500000001,-36.454133],[174.872727,-36.454008],[174.87264200000001,-36.453839],[174.87244000000001,-36.453278],[174.87233699999999,-36.452996],[174.872298,-36.452636],[174.872378,-36.45171],[174.87242599999999,-36.451592]]],"type":"Polygon"}
+}

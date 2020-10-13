@@ -1,0 +1,53 @@
+{
+  "id": 1729340891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8893.48889,
+    "geom:bbox":"175.796792,-36.820922,175.797815,-36.819712",
+    "geom:latitude":-36.820352,
+    "geom:longitude":175.797272,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.820363,
+    "lbl:longitude":175.797282,
+    "mps:latitude":-36.820363,
+    "mps:longitude":175.797282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Poikeke Island"
+    ],
+    "nz-linz:name":"Poikeke Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4821
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622210,
+    "wof:geomhash":"63b52b03424eb8a7004a2270a19ca1da",
+    "wof:hierarchy":[],
+    "wof:id":1729340891,
+    "wof:lastmodified":1602624763,
+    "wof:name":"Poikeke Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.796792,
+    -36.820922,
+    175.797815,
+    -36.819712
+],
+  "geometry": {"coordinates":[[[175.797719,-36.82082],[175.797484,-36.820905],[175.79727399999999,-36.820922],[175.796989,-36.820795],[175.796852,-36.820561],[175.79681199999999,-36.820058],[175.79679200000001,-36.819819],[175.79685799999999,-36.819715],[175.796998,-36.819712],[175.79759999999999,-36.820034],[175.79768799999999,-36.820098],[175.79781500000001,-36.820456],[175.79775699999999,-36.820739],[175.797719,-36.82082]]],"type":"Polygon"}
+}

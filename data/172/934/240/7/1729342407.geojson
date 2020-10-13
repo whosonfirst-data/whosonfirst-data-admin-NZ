@@ -1,0 +1,53 @@
+{
+  "id": 1729342407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":13044.895483,
+    "geom:bbox":"168.201828,-47.107979,168.203507,-47.106827",
+    "geom:latitude":-47.107397,
+    "geom:longitude":168.202669,
+    "iso:country":"NZ",
+    "lbl:latitude":-47.107404,
+    "lbl:longitude":168.202669,
+    "mps:latitude":-47.107404,
+    "mps:longitude":168.202669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Potuatua Island"
+    ],
+    "nz-linz:name":"Potuatua Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4830
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622874,
+    "wof:geomhash":"92b795ae42306de836ea57c613ac71dc",
+    "wof:hierarchy":[],
+    "wof:id":1729342407,
+    "wof:lastmodified":1602624767,
+    "wof:name":"Potuatua Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.201828,
+    -47.107979,
+    168.203507,
+    -47.106827
+],
+  "geometry": {"coordinates":[[[168.202124,-47.107888],[168.20196999999999,-47.107748],[168.20182800000001,-47.10745],[168.20192399999999,-47.107048],[168.20213200000001,-47.10692],[168.202699,-47.106827],[168.203126,-47.106865],[168.20337699999999,-47.107032],[168.203495,-47.107216],[168.203507,-47.107487],[168.20335700000001,-47.107729],[168.203113,-47.107901],[168.202777,-47.107979],[168.202416,-47.107967],[168.202124,-47.107888]]],"type":"Polygon"}
+}

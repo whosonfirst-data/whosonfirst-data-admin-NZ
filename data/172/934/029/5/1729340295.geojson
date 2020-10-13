@@ -1,0 +1,53 @@
+{
+  "id": 1729340295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":29288.537296,
+    "geom:bbox":"174.110002,-35.285497,174.113217,-35.282958",
+    "geom:latitude":-35.284284,
+    "geom:longitude":174.111508,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.284251,
+    "lbl:longitude":174.111533,
+    "mps:latitude":-35.284251,
+    "mps:longitude":174.111533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Toretore Island"
+    ],
+    "nz-linz:name":"Toretore Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5069
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621966,
+    "wof:geomhash":"cb2d0b7d5e4b26ef2e3f9434b4088eb1",
+    "wof:hierarchy":[],
+    "wof:id":1729340295,
+    "wof:lastmodified":1602624767,
+    "wof:name":"Toretore Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.110002,
+    -35.285497,
+    174.113217,
+    -35.282958
+],
+  "geometry": {"coordinates":[[[174.11013600000001,-35.282958],[174.11030099999999,-35.283039],[174.11054100000001,-35.283164],[174.11111299999999,-35.283599],[174.11157700000001,-35.283763],[174.11211499999999,-35.284092],[174.112709,-35.284585],[174.11293599999999,-35.284674],[174.113133,-35.284873],[174.11313999999999,-35.285014],[174.11321699999999,-35.285472],[174.113089,-35.285497],[174.11283399999999,-35.285356],[174.112213,-35.285074],[174.111671,-35.284816],[174.111378,-35.284687],[174.111041,-35.284418],[174.11078499999999,-35.284503],[174.11043900000001,-35.284731],[174.11032800000001,-35.284688],[174.11029500000001,-35.284463],[174.11041399999999,-35.284198],[174.110287,-35.28396],[174.110356,-35.283612],[174.11015,-35.283478],[174.11000200000001,-35.283306],[174.11003099999999,-35.283162],[174.11013600000001,-35.282958]]],"type":"Polygon"}
+}

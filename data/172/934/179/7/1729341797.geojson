@@ -1,0 +1,53 @@
+{
+  "id": 1729341797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6248.224196,
+    "geom:bbox":"175.564759,-36.61271,175.56563,-36.611785",
+    "geom:latitude":-36.612269,
+    "geom:longitude":175.565163,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.612299,
+    "lbl:longitude":175.565163,
+    "mps:latitude":-36.612299,
+    "mps:longitude":175.565163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Honepoto Rock"
+    ],
+    "nz-linz:name":"Honepoto Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4373
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622618,
+    "wof:geomhash":"66adf792b9e05ac9de7257aa9bcadd2d",
+    "wof:hierarchy":[],
+    "wof:id":1729341797,
+    "wof:lastmodified":1602624787,
+    "wof:name":"Honepoto Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.564759,
+    -36.61271,
+    175.56563,
+    -36.611785
+],
+  "geometry": {"coordinates":[[[175.56530699999999,-36.6127],[175.56497200000001,-36.61271],[175.564798,-36.61258],[175.56475900000001,-36.61231],[175.564798,-36.611948],[175.564987,-36.611785],[175.565268,-36.6118],[175.56559100000001,-36.612173],[175.56563,-36.61242],[175.56558000000001,-36.612535],[175.56530699999999,-36.6127]]],"type":"Polygon"}
+}

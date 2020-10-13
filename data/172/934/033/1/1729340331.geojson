@@ -1,0 +1,53 @@
+{
+  "id": 1729340331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5964.844713,
+    "geom:bbox":"174.883935,-36.589452,174.884876,-36.58856",
+    "geom:latitude":-36.589009,
+    "geom:longitude":174.884344,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.588996,
+    "lbl:longitude":174.884335,
+    "mps:latitude":-36.588996,
+    "mps:longitude":174.884335,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wooded Island"
+    ],
+    "nz-linz:name":"Wooded Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5145
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621980,
+    "wof:geomhash":"de014e01dd33eeb8ef0418e88ecf8f5f",
+    "wof:hierarchy":[],
+    "wof:id":1729340331,
+    "wof:lastmodified":1602624776,
+    "wof:name":"Wooded Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.883935,
+    -36.589452,
+    174.884876,
+    -36.58856
+],
+  "geometry": {"coordinates":[[[174.88412199999999,-36.589452],[174.883948,-36.589276],[174.88393500000001,-36.58878],[174.883961,-36.588711],[174.88412500000001,-36.588618],[174.88421,-36.588593],[174.884344,-36.58856],[174.88441399999999,-36.588589],[174.88466099999999,-36.588767],[174.88478000000001,-36.588848],[174.884851,-36.588939],[174.88487599999999,-36.589073],[174.88473999999999,-36.589239],[174.88461799999999,-36.589263],[174.884344,-36.589426],[174.884289,-36.589449],[174.88412199999999,-36.589452]]],"type":"Polygon"}
+}

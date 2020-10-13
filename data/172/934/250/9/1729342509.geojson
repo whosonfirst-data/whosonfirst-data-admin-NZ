@@ -1,0 +1,53 @@
+{
+  "id": 1729342509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22145.849119,
+    "geom:bbox":"174.235881,-35.229058,174.237756,-35.227396",
+    "geom:latitude":-35.228134,
+    "geom:longitude":174.236672,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.228076,
+    "lbl:longitude":174.236654,
+    "mps:latitude":-35.228076,
+    "mps:longitude":174.236654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Round Island"
+    ],
+    "nz-linz:name":"Round Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4900
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622913,
+    "wof:geomhash":"92a3a975aa9f33f434188df3facd7d68",
+    "wof:hierarchy":[],
+    "wof:id":1729342509,
+    "wof:lastmodified":1602624733,
+    "wof:name":"Round Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.235881,
+    -35.229058,
+    174.237756,
+    -35.227396
+],
+  "geometry": {"coordinates":[[[174.23588100000001,-35.228229],[174.23599200000001,-35.22803],[174.23593,-35.227762],[174.23592300000001,-35.227624],[174.236006,-35.227514],[174.23615000000001,-35.227456],[174.23630600000001,-35.227396],[174.23708199999999,-35.227434],[174.237269,-35.227461],[174.237627,-35.227702],[174.23771600000001,-35.227803],[174.23775599999999,-35.227911],[174.23772399999999,-35.22802],[174.23746700000001,-35.228242],[174.23699199999999,-35.228681],[174.236617,-35.228984],[174.23646299999999,-35.229056],[174.236265,-35.229058],[174.23599999999999,-35.228915],[174.23590100000001,-35.228703],[174.23588100000001,-35.228229]]],"type":"Polygon"}
+}

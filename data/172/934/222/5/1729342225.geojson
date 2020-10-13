@@ -1,0 +1,53 @@
+{
+  "id": 1729342225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16559.591352,
+    "geom:bbox":"172.910297,-40.805251,172.91222,-40.803365",
+    "geom:latitude":-40.80434,
+    "geom:longitude":172.91126,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.804288,
+    "lbl:longitude":172.91134,
+    "mps:latitude":-40.804288,
+    "mps:longitude":172.91134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ngawhiti Island"
+    ],
+    "nz-linz:name":"Ngawhiti Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4726
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622801,
+    "wof:geomhash":"2a8096a9ebbd9f1686b3bc3fc661365d",
+    "wof:hierarchy":[],
+    "wof:id":1729342225,
+    "wof:lastmodified":1602624771,
+    "wof:name":"Ngawhiti Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.910297,
+    -40.805251,
+    172.91222,
+    -40.803365
+],
+  "geometry": {"coordinates":[[[172.91119699999999,-40.803365],[172.911314,-40.803435],[172.91171900000001,-40.803801],[172.91213300000001,-40.803876],[172.91221999999999,-40.803944],[172.912216,-40.80408],[172.91203100000001,-40.80437],[172.91115099999999,-40.805099],[172.91082,-40.805251],[172.910642,-40.805249],[172.91053299999999,-40.804954],[172.91029700000001,-40.80486],[172.91054099999999,-40.804616],[172.91085000000001,-40.804148],[172.910978,-40.803813],[172.91099,-40.803408],[172.91119699999999,-40.803365]]],"type":"Polygon"}
+}

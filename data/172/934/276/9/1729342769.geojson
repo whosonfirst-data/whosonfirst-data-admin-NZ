@@ -1,0 +1,53 @@
+{
+  "id": 1729342769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12847.859689,
+    "geom:bbox":"174.339301,-35.192457,174.340866,-35.191221",
+    "geom:latitude":-35.191826,
+    "geom:longitude":174.340107,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.191873,
+    "lbl:longitude":174.339965,
+    "mps:latitude":-35.191873,
+    "mps:longitude":174.339965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Waiwiri Island"
+    ],
+    "nz-linz:name":"Waiwiri Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5102
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623020,
+    "wof:geomhash":"3ee837aa8455d930fae6ba0a4e8b21d3",
+    "wof:hierarchy":[],
+    "wof:id":1729342769,
+    "wof:lastmodified":1602624768,
+    "wof:name":"Waiwiri Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.339301,
+    -35.192457,
+    174.340866,
+    -35.191221
+],
+  "geometry": {"coordinates":[[[174.33965000000001,-35.192457],[174.33950999999999,-35.192325],[174.33944500000001,-35.19201],[174.33930100000001,-35.191788],[174.339461,-35.191605],[174.339867,-35.191416],[174.340059,-35.191389],[174.34035600000001,-35.191226],[174.340631,-35.191221],[174.34077199999999,-35.191354],[174.34086600000001,-35.191712],[174.34084200000001,-35.191871],[174.34068199999999,-35.192054],[174.340464,-35.192103],[174.34006199999999,-35.192427],[174.33965000000001,-35.192457]]],"type":"Polygon"}
+}

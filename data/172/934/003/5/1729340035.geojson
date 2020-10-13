@@ -1,0 +1,56 @@
+{
+  "id": 1729340035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1229.693394,
+    "geom:bbox":"174.780449,-36.631241,174.780932,-36.630774",
+    "geom:latitude":-36.631023,
+    "geom:longitude":174.78068,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.631041,
+    "lbl:longitude":174.78068,
+    "mps:latitude":-36.631041,
+    "mps:longitude":174.78068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Frenchmans Cap"
+    ],
+    "name:mri_x_preferred":[
+        "Kotanui Island"
+    ],
+    "nz-linz:name":"Kotanui Island (Frenchmans Cap)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4439
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621863,
+    "wof:geomhash":"51b07c822f120e881f6bfe7ce3446d86",
+    "wof:hierarchy":[],
+    "wof:id":1729340035,
+    "wof:lastmodified":1602624771,
+    "wof:name":"Frenchmans Cap",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.780449,
+    -36.631241,
+    174.780932,
+    -36.630774
+],
+  "geometry": {"coordinates":[[[174.78090599999999,-36.631241],[174.78062499999999,-36.631201],[174.780449,-36.630911],[174.780529,-36.630775],[174.780585,-36.630774],[174.78066999999999,-36.630817],[174.78093100000001,-36.631151],[174.78093200000001,-36.631173],[174.78090599999999,-36.631241]]],"type":"Polygon"}
+}

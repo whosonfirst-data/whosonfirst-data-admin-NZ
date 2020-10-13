@@ -1,0 +1,53 @@
+{
+  "id": 1729342619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1218.989258,
+    "geom:bbox":"174.756833,-36.703037,174.757364,-36.702673",
+    "geom:latitude":-36.702854,
+    "geom:longitude":174.757099,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.702837,
+    "lbl:longitude":174.757104,
+    "mps:latitude":-36.702837,
+    "mps:longitude":174.757104,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "The Tor"
+    ],
+    "nz-linz:name":"The Tor",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5039
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622959,
+    "wof:geomhash":"b477b6df777ee67a1f9128fa44b77b8b",
+    "wof:hierarchy":[],
+    "wof:id":1729342619,
+    "wof:lastmodified":1602624733,
+    "wof:name":"The Tor",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.756833,
+    -36.703037,
+    174.757364,
+    -36.702673
+],
+  "geometry": {"coordinates":[[[174.75694899999999,-36.703037],[174.756833,-36.702882],[174.75705199999999,-36.702674],[174.757136,-36.702673],[174.75721999999999,-36.702694],[174.757363,-36.702827],[174.757364,-36.702849],[174.75730999999999,-36.702918],[174.75725499999999,-36.702964],[174.75694899999999,-36.703037]]],"type":"Polygon"}
+}

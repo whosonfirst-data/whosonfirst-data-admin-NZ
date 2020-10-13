@@ -1,0 +1,53 @@
+{
+  "id": 1729342753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2168.960297,
+    "geom:bbox":"176.939737,-39.943531,176.940426,-39.943027",
+    "geom:latitude":-39.943249,
+    "geom:longitude":176.940096,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.943288,
+    "lbl:longitude":176.940137,
+    "mps:latitude":-39.943288,
+    "mps:longitude":176.940137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Waimatai"
+    ],
+    "nz-linz:name":"Waimatai",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5096
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623014,
+    "wof:geomhash":"a9888b86bf52e90841d901429eb6ce7b",
+    "wof:hierarchy":[],
+    "wof:id":1729342753,
+    "wof:lastmodified":1602624731,
+    "wof:name":"Waimatai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.939737,
+    -39.943531,
+    176.940426,
+    -39.943027
+],
+  "geometry": {"coordinates":[[[176.94000299999999,-39.943464],[176.939742,-39.943165],[176.93973700000001,-39.943075],[176.93982099999999,-39.943027],[176.940078,-39.943076],[176.94023200000001,-39.943033],[176.94035299999999,-39.943096],[176.940426,-39.943296],[176.94020699999999,-39.943531],[176.94014300000001,-39.943517],[176.94002800000001,-39.943493],[176.94000299999999,-39.943464]]],"type":"Polygon"}
+}

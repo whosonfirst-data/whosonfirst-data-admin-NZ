@@ -1,0 +1,53 @@
+{
+  "id": 1729341851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3428.889263,
+    "geom:bbox":"174.450417,-36.925243,174.450968,-36.924289",
+    "geom:latitude":-36.924806,
+    "geom:longitude":174.450647,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.924869,
+    "lbl:longitude":174.450674,
+    "mps:latitude":-36.924869,
+    "mps:longitude":174.450674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Keyhole Rock"
+    ],
+    "nz-linz:name":"Keyhole Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4429
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622647,
+    "wof:geomhash":"b2bf38116ec1f762e01b85838f9dc73b",
+    "wof:hierarchy":[],
+    "wof:id":1729341851,
+    "wof:lastmodified":1602624793,
+    "wof:name":"Keyhole Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.450417,
+    -36.925243,
+    174.450968,
+    -36.924289
+],
+  "geometry": {"coordinates":[[[174.450502,-36.924289],[174.45072999999999,-36.924399],[174.450895,-36.924801],[174.45096799999999,-36.92498],[174.45068699999999,-36.925243],[174.45043100000001,-36.92519],[174.45041699999999,-36.924999],[174.45042900000001,-36.924937],[174.45049,-36.924615],[174.45045099999999,-36.924493],[174.450422,-36.924426],[174.45042000000001,-36.924358],[174.450502,-36.924289]]],"type":"Polygon"}
+}

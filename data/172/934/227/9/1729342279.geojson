@@ -1,0 +1,53 @@
+{
+  "id": 1729342279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8862.979809,
+    "geom:bbox":"175.819465,-36.826157,175.820922,-36.825192",
+    "geom:latitude":-36.82566,
+    "geom:longitude":175.820165,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.825661,
+    "lbl:longitude":175.820165,
+    "mps:latitude":-36.825661,
+    "mps:longitude":175.820165,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Okorotere Island"
+    ],
+    "nz-linz:name":"Okorotere Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4749
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622822,
+    "wof:geomhash":"c689a91fed46a7ec6b452644bdb3ecf1",
+    "wof:hierarchy":[],
+    "wof:id":1729342279,
+    "wof:lastmodified":1602624724,
+    "wof:name":"Okorotere Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.819465,
+    -36.826157,
+    175.820922,
+    -36.825192
+],
+  "geometry": {"coordinates":[[[175.81946500000001,-36.825903],[175.81949900000001,-36.82567],[175.819875,-36.825372],[175.81999999999999,-36.825273],[175.82033300000001,-36.825196],[175.82048800000001,-36.825192],[175.82086100000001,-36.825385],[175.820922,-36.825518],[175.82087000000001,-36.82561],[175.82044999999999,-36.825937],[175.82024799999999,-36.826044],[175.82013499999999,-36.826104],[175.819828,-36.826157],[175.81961200000001,-36.826034],[175.81946500000001,-36.825903]]],"type":"Polygon"}
+}

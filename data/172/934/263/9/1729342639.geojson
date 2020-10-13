@@ -1,0 +1,53 @@
+{
+  "id": 1729342639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1905.035994,
+    "geom:bbox":"173.941001,-35.017002,173.941872,-35.016614",
+    "geom:latitude":-35.01681,
+    "geom:longitude":173.941468,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.016834,
+    "lbl:longitude":173.941577,
+    "mps:latitude":-35.016834,
+    "mps:longitude":173.941577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Te Karo Island"
+    ],
+    "nz-linz:name":"Te Karo Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5001
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622968,
+    "wof:geomhash":"f7ae1b969727059889f38c0e8e6cc361",
+    "wof:hierarchy":[],
+    "wof:id":1729342639,
+    "wof:lastmodified":1602624778,
+    "wof:name":"Te Karo Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.941001,
+    -35.017002,
+    173.941872,
+    -35.016614
+],
+  "geometry": {"coordinates":[[[173.941001,-35.016922],[173.94110499999999,-35.016717],[173.94143399999999,-35.016734],[173.941733,-35.016616],[173.94184200000001,-35.016614],[173.94187199999999,-35.016704],[173.941767,-35.016864],[173.94160600000001,-35.017002],[173.941329,-35.016893],[173.941056,-35.016966],[173.941001,-35.016922]]],"type":"Polygon"}
+}

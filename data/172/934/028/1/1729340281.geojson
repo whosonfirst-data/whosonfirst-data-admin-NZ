@@ -1,0 +1,53 @@
+{
+  "id": 1729340281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4177.331471,
+    "geom:bbox":"174.205972,-35.264788,174.206792,-35.263976",
+    "geom:latitude":-35.264334,
+    "geom:longitude":174.20632,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.26433,
+    "lbl:longitude":174.206279,
+    "mps:latitude":-35.26433,
+    "mps:longitude":174.206279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Te Waha Island"
+    ],
+    "nz-linz:name":"Te Waha Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5012
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621961,
+    "wof:geomhash":"f14cb71c540b4062c7065455b87072d8",
+    "wof:hierarchy":[],
+    "wof:id":1729340281,
+    "wof:lastmodified":1602624770,
+    "wof:name":"Te Waha Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.205972,
+    -35.264788,
+    174.206792,
+    -35.263976
+],
+  "geometry": {"coordinates":[[[174.206233,-35.264788],[174.206064,-35.264656],[174.20597699999999,-35.264499],[174.205972,-35.264319],[174.20604900000001,-35.264138],[174.206265,-35.263976],[174.20665099999999,-35.263992],[174.20679200000001,-35.264125],[174.20657700000001,-35.264308],[174.20647600000001,-35.264626],[174.20634200000001,-35.264764],[174.206233,-35.264788]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729342227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11968.779264,
+    "geom:bbox":"175.046753,-36.772536,175.048435,-36.771442",
+    "geom:latitude":-36.772042,
+    "geom:longitude":175.047497,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.772109,
+    "lbl:longitude":175.047429,
+    "mps:latitude":-36.772109,
+    "mps:longitude":175.047429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nani Island"
+    ],
+    "nz-linz:name":"Nani Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4708
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622802,
+    "wof:geomhash":"23228407066cb7d3d2ccb394ede771d2",
+    "wof:hierarchy":[],
+    "wof:id":1729342227,
+    "wof:lastmodified":1602624771,
+    "wof:name":"Nani Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.046753,
+    -36.772536,
+    175.048435,
+    -36.771442
+],
+  "geometry": {"coordinates":[[[175.048406,-36.771819],[175.04843500000001,-36.771855],[175.04839899999999,-36.77207],[175.04810000000001,-36.772369],[175.047876,-36.772373],[175.047628,-36.772536],[175.04736299999999,-36.77253],[175.04686799999999,-36.772392],[175.046753,-36.772282],[175.04675900000001,-36.771935],[175.046764,-36.771696],[175.04706400000001,-36.771442],[175.04735099999999,-36.771685],[175.04768799999999,-36.77169],[175.04780500000001,-36.771879],[175.04805300000001,-36.771716],[175.048304,-36.771689],[175.048406,-36.771819]]],"type":"Polygon"}
+}

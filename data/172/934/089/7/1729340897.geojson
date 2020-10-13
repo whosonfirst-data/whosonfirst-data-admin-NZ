@@ -1,0 +1,53 @@
+{
+  "id": 1729340897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1652.683517,
+    "geom:bbox":"174.664246,-37.110725,174.664889,-37.110338",
+    "geom:latitude":-37.110546,
+    "geom:longitude":174.664579,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.110524,
+    "lbl:longitude":174.664617,
+    "mps:latitude":-37.110524,
+    "mps:longitude":174.664617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Otamanewa Island"
+    ],
+    "nz-linz:name":"Otamanewa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4764
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622213,
+    "wof:geomhash":"39898caed9c5e4621d90f99efcbf744e",
+    "wof:hierarchy":[],
+    "wof:id":1729340897,
+    "wof:lastmodified":1602624763,
+    "wof:name":"Otamanewa Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.664246,
+    -37.110725,
+    174.664889,
+    -37.110338
+],
+  "geometry": {"coordinates":[[[174.664299,-37.110545],[174.66457500000001,-37.110338],[174.664773,-37.110357],[174.66488899999999,-37.110491],[174.66475299999999,-37.110696],[174.664332,-37.110725],[174.66424599999999,-37.110659],[174.664299,-37.110545]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729340179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3174.905198,
+    "geom:bbox":"173.200985,-41.311424,173.202023,-41.310787",
+    "geom:latitude":-41.311064,
+    "geom:longitude":173.201468,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.311048,
+    "lbl:longitude":173.20146,
+    "mps:latitude":-41.311048,
+    "mps:longitude":173.20146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pig Island"
+    ],
+    "nz-linz:name":"Pig Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4805
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621920,
+    "wof:geomhash":"18d7f234ea31b89c44455ed24a1d47c9",
+    "wof:hierarchy":[],
+    "wof:id":1729340179,
+    "wof:lastmodified":1602624770,
+    "wof:name":"Pig Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.200985,
+    -41.311424,
+    173.202023,
+    -41.310787
+],
+  "geometry": {"coordinates":[[[173.200985,-41.311356],[173.20110099999999,-41.311063],[173.201337,-41.310881],[173.20157499999999,-41.310789],[173.20190400000001,-41.310787],[173.202023,-41.310853],[173.201965,-41.310967],[173.20164,-41.311172],[173.20113499999999,-41.311423],[173.20104599999999,-41.311424],[173.200985,-41.311356]]],"type":"Polygon"}
+}

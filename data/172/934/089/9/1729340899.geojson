@@ -1,0 +1,56 @@
+{
+  "id": 1729340899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22087.580507,
+    "geom:bbox":"174.899941,-40.887911,174.901496,-40.884873",
+    "geom:latitude":-40.886559,
+    "geom:longitude":174.900691,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.886665,
+    "lbl:longitude":174.90055,
+    "mps:latitude":-40.886665,
+    "mps:longitude":174.90055,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fishermans Island"
+    ],
+    "name:mri_x_preferred":[
+        "Motungarara Island"
+    ],
+    "nz-linz:name":"Motungarara Island (Fishermans Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4597
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622214,
+    "wof:geomhash":"067b59605c81f3c5c75446423e007e67",
+    "wof:hierarchy":[],
+    "wof:id":1729340899,
+    "wof:lastmodified":1602624763,
+    "wof:name":"Fishermans Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.899941,
+    -40.887911,
+    174.901496,
+    -40.884873
+],
+  "geometry": {"coordinates":[[[174.90002000000001,-40.886678],[174.90009699999999,-40.886453],[174.90026499999999,-40.886178],[174.90050600000001,-40.885996],[174.900756,-40.885807],[174.90083899999999,-40.885669],[174.900802,-40.885467],[174.90116399999999,-40.884873],[174.901286,-40.884916],[174.90137999999999,-40.885049],[174.90132600000001,-40.885208],[174.901487,-40.885542],[174.90149600000001,-40.885767],[174.90115900000001,-40.886248],[174.901049,-40.886476],[174.90103099999999,-40.88677],[174.90106299999999,-40.886846],[174.901096,-40.886925],[174.901106,-40.887195],[174.90087700000001,-40.88749],[174.900767,-40.887631],[174.90045000000001,-40.887864],[174.900362,-40.887911],[174.90018599999999,-40.887885],[174.900094,-40.887872],[174.89994100000001,-40.88774],[174.900048,-40.887468],[174.89997600000001,-40.887154],[174.89996500000001,-40.886838],[174.90002000000001,-40.886678]]],"type":"Polygon"}
+}

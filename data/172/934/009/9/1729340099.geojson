@@ -1,0 +1,53 @@
+{
+  "id": 1729340099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17541.416995,
+    "geom:bbox":"173.482953,-35.389472,173.484246,-35.387195",
+    "geom:latitude":-35.388157,
+    "geom:longitude":173.483565,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.387832,
+    "lbl:longitude":173.483488,
+    "mps:latitude":-35.387832,
+    "mps:longitude":173.483488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motukaraka Island"
+    ],
+    "nz-linz:name":"Motukaraka Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4551
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621888,
+    "wof:geomhash":"b9c18b05665125272be36bdabe6a2a64",
+    "wof:hierarchy":[],
+    "wof:id":1729340099,
+    "wof:lastmodified":1602624735,
+    "wof:name":"Motukaraka Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.482953,
+    -35.389472,
+    173.484246,
+    -35.387195
+],
+  "geometry": {"coordinates":[[[173.48376999999999,-35.387195],[173.48396299999999,-35.387238],[173.48418699999999,-35.387439],[173.48424399999999,-35.387528],[173.48424600000001,-35.387663],[173.48397700000001,-35.388004],[173.48387099999999,-35.388231],[173.483936,-35.388749],[173.48393899999999,-35.388929],[173.48356000000001,-35.389472],[173.48334,-35.389297],[173.48325399999999,-35.38914],[173.483272,-35.388621],[173.48298800000001,-35.388129],[173.48295300000001,-35.387701],[173.48303300000001,-35.387542],[173.48325,-35.38736],[173.48376999999999,-35.387195]]],"type":"Polygon"}
+}

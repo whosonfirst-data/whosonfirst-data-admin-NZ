@@ -1,0 +1,53 @@
+{
+  "id": 1729342313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3615.158121,
+    "geom:bbox":"175.324452,-36.142525,175.325143,-36.141818",
+    "geom:latitude":-36.142157,
+    "geom:longitude":175.324792,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.142145,
+    "lbl:longitude":175.324798,
+    "mps:latitude":-36.142145,
+    "mps:longitude":175.324798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Oyster Island"
+    ],
+    "nz-linz:name":"Oyster Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4774
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622836,
+    "wof:geomhash":"1cac598b9ccaa1d99ab3a72d79ac0798",
+    "wof:hierarchy":[],
+    "wof:id":1729342313,
+    "wof:lastmodified":1602624772,
+    "wof:name":"Oyster Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.324452,
+    -36.142525,
+    175.325143,
+    -36.141818
+],
+  "geometry": {"coordinates":[[[175.32465999999999,-36.142525],[175.32445899999999,-36.142349],[175.32445200000001,-36.142147],[175.32452900000001,-36.141964],[175.32480100000001,-36.141823],[175.324996,-36.141818],[175.32511099999999,-36.141906],[175.325143,-36.14204],[175.32506900000001,-36.14229],[175.32485299999999,-36.142498],[175.32465999999999,-36.142525]]],"type":"Polygon"}
+}

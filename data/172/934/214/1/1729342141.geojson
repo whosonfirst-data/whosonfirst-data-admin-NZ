@@ -1,0 +1,56 @@
+{
+  "id": 1729342141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1229.261156,
+    "geom:bbox":"174.29519,-35.179345,174.295756,-35.178729",
+    "geom:latitude":-35.178993,
+    "geom:longitude":174.295504,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.178886,
+    "lbl:longitude":174.295597,
+    "mps:latitude":-35.178886,
+    "mps:longitude":174.295597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Twins Rock"
+    ],
+    "name:mri_x_preferred":[
+        "Motutara Rock"
+    ],
+    "nz-linz:name":"Motutara Rock (Twins Rock)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4657
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622767,
+    "wof:geomhash":"ee3979a3e6c2a73ca463ab4d9bc066a9",
+    "wof:hierarchy":[],
+    "wof:id":1729342141,
+    "wof:lastmodified":1602624771,
+    "wof:name":"Twins Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.29519,
+    -35.179345,
+    174.295756,
+    -35.178729
+],
+  "geometry": {"coordinates":[[[[174.29565299999999,-35.179046],[174.29559800000001,-35.179069],[174.29545899999999,-35.179004],[174.29545300000001,-35.178779],[174.29550599999999,-35.178733],[174.295671,-35.178729],[174.29575600000001,-35.178819],[174.29573199999999,-35.178954],[174.29565299999999,-35.179046]]],[[[174.29544000000001,-35.179275],[174.295331,-35.179345],[174.29518999999999,-35.179212],[174.29526899999999,-35.179075],[174.29540900000001,-35.17914],[174.29544000000001,-35.179275]]]],"type":"MultiPolygon"}
+}

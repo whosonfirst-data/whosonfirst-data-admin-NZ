@@ -1,0 +1,53 @@
+{
+  "id": 1729340835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":545.304533,
+    "geom:bbox":"175.047452,-36.195181,175.047773,-36.194889",
+    "geom:latitude":-36.195036,
+    "geom:longitude":175.047591,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.195042,
+    "lbl:longitude":175.047589,
+    "mps:latitude":-36.195042,
+    "mps:longitude":175.047589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lion Rock"
+    ],
+    "nz-linz:name":"Lion Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4452
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622187,
+    "wof:geomhash":"12bd0aabb6fce6520112e314bc0348b2",
+    "wof:hierarchy":[],
+    "wof:id":1729340835,
+    "wof:lastmodified":1602624727,
+    "wof:name":"Lion Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.047452,
+    -36.195181,
+    175.047773,
+    -36.194889
+],
+  "geometry": {"coordinates":[[[175.04745199999999,-36.194959],[175.047561,-36.194889],[175.04771600000001,-36.195002],[175.04777300000001,-36.195069],[175.04759799999999,-36.195181],[175.04745500000001,-36.195071],[175.04745199999999,-36.194959]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729342281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1116.853822,
+    "geom:bbox":"174.428248,-35.44661,174.428683,-35.446246",
+    "geom:latitude":-35.446427,
+    "geom:longitude":174.4285,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.446436,
+    "lbl:longitude":174.428504,
+    "mps:latitude":-35.446436,
+    "mps:longitude":174.428504,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Okupe Island"
+    ],
+    "nz-linz:name":"Okupe Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4750
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622823,
+    "wof:geomhash":"afbfd64e931abbbabbd9085f98163261",
+    "wof:hierarchy":[],
+    "wof:id":1729342281,
+    "wof:lastmodified":1602624728,
+    "wof:name":"Okupe Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.428248,
+    -35.44661,
+    174.428683,
+    -35.446246
+],
+  "geometry": {"coordinates":[[[174.42862,-35.446246],[174.42867699999999,-35.44629],[174.42868300000001,-35.446493],[174.42857599999999,-35.446608],[174.428438,-35.44661],[174.428248,-35.446416],[174.42842899999999,-35.446273],[174.42862,-35.446246]]],"type":"Polygon"}
+}

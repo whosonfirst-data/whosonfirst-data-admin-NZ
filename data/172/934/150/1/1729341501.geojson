@@ -1,0 +1,53 @@
+{
+  "id": 1729341501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13877.530915,
+    "geom:bbox":"173.770631,-40.899177,173.771937,-40.89652",
+    "geom:latitude":-40.897702,
+    "geom:longitude":173.771176,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.897093,
+    "lbl:longitude":173.771349,
+    "mps:latitude":-40.897093,
+    "mps:longitude":173.771349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hapuka Island"
+    ],
+    "nz-linz:name":"Hapuka Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4347
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622473,
+    "wof:geomhash":"42116e9778dfeed2aac0bde6bd5730c7",
+    "wof:hierarchy":[],
+    "wof:id":1729341501,
+    "wof:lastmodified":1602624718,
+    "wof:name":"Hapuka Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.770631,
+    -40.899177,
+    173.771937,
+    -40.89652
+],
+  "geometry": {"coordinates":[[[173.77094700000001,-40.899177],[173.770792,-40.899073],[173.770636,-40.898782],[173.77063100000001,-40.898512],[173.770915,-40.897923],[173.770938,-40.897606],[173.770813,-40.89736],[173.77080799999999,-40.897113],[173.770951,-40.896863],[173.77133000000001,-40.89652],[173.77154100000001,-40.896631],[173.77163899999999,-40.896729],[173.77187499999999,-40.896964],[173.77193500000001,-40.897053],[173.77193700000001,-40.897143],[173.771793,-40.897325],[173.77168599999999,-40.897405],[173.77117899999999,-40.897784],[173.77109300000001,-40.89792],[173.77115499999999,-40.898191],[173.771254,-40.898526],[173.771231,-40.898819],[173.77108999999999,-40.899136],[173.77094700000001,-40.899177]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729342725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1463.38064,
+    "geom:bbox":"170.498118,-45.933668,170.49902,-45.933387",
+    "geom:latitude":-45.933529,
+    "geom:longitude":170.498576,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.933532,
+    "lbl:longitude":170.498576,
+    "mps:latitude":-45.933532,
+    "mps:longitude":170.498576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "White Island"
+    ],
+    "nz-linz:name":"White Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5137
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623002,
+    "wof:geomhash":"bca22b3e2d739a440824ee3e56cbcc97",
+    "wof:hierarchy":[],
+    "wof:id":1729342725,
+    "wof:lastmodified":1602624730,
+    "wof:name":"White Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.498118,
+    -45.933668,
+    170.49902,
+    -45.933387
+],
+  "geometry": {"coordinates":[[[170.49901800000001,-45.933626],[170.49892,-45.933668],[170.498502,-45.933639],[170.49821299999999,-45.933567],[170.49811800000001,-45.933498],[170.498186,-45.933387],[170.49883,-45.933443],[170.49902,-45.933558],[170.49901800000001,-45.933626]]],"type":"Polygon"}
+}

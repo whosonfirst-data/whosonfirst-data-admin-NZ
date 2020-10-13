@@ -1,0 +1,53 @@
+{
+  "id": 1729341971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13698.626692,
+    "geom:bbox":"174.342928,-35.32429,174.344708,-35.323035",
+    "geom:latitude":-35.323704,
+    "geom:longitude":174.343729,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.32381,
+    "lbl:longitude":174.343623,
+    "mps:latitude":-35.32381,
+    "mps:longitude":174.343623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motukowhai Island"
+    ],
+    "nz-linz:name":"Motukowhai Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4579
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622697,
+    "wof:geomhash":"64ccde2b011216c2092a025388abad99",
+    "wof:hierarchy":[],
+    "wof:id":1729341971,
+    "wof:lastmodified":1602624759,
+    "wof:name":"Motukowhai Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.342928,
+    -35.32429,
+    174.344708,
+    -35.323035
+],
+  "geometry": {"coordinates":[[[174.344708,-35.323867],[174.34452099999999,-35.324052],[174.344303,-35.324168],[174.343839,-35.32429],[174.34345400000001,-35.324275],[174.342994,-35.323562],[174.34293299999999,-35.323406],[174.342928,-35.323203],[174.34311500000001,-35.323041],[174.34347399999999,-35.323035],[174.34367,-35.323166],[174.34381500000001,-35.323456],[174.343872,-35.323501],[174.34397999999999,-35.323453],[174.34417300000001,-35.323449],[174.34448,-35.323578],[174.34467699999999,-35.323755],[174.344708,-35.323867]]],"type":"Polygon"}
+}

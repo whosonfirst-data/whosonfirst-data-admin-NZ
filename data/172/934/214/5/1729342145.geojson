@@ -1,0 +1,53 @@
+{
+  "id": 1729342145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2942.277497,
+    "geom:bbox":"173.284626,-34.856887,173.285649,-34.855994",
+    "geom:latitude":-34.856463,
+    "geom:longitude":173.285216,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.856622,
+    "lbl:longitude":173.285396,
+    "mps:latitude":-34.856622,
+    "mps:longitude":173.285396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motutara Rocks"
+    ],
+    "nz-linz:name":"Motutara Rocks",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4660
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622767,
+    "wof:geomhash":"97eb68eef4a1620ea0d0558b5932db33",
+    "wof:hierarchy":[],
+    "wof:id":1729342145,
+    "wof:lastmodified":1602624771,
+    "wof:name":"Motutara Rocks",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.284626,
+    -34.856887,
+    173.285649,
+    -34.855994
+],
+  "geometry": {"coordinates":[[[[173.28564900000001,-34.856796],[173.28554099999999,-34.856887],[173.28537700000001,-34.856866],[173.28523799999999,-34.856755],[173.285124,-34.856486],[173.28533999999999,-34.856326],[173.28547900000001,-34.856392],[173.285619,-34.856593],[173.28564900000001,-34.856796]]],[[[173.28509299999999,-34.856216],[173.284851,-34.85637],[173.284626,-34.856109],[173.284761,-34.855994],[173.28500700000001,-34.85606],[173.28509299999999,-34.856216]]]],"type":"MultiPolygon"}
+}

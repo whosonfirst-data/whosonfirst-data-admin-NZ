@@ -1,0 +1,53 @@
+{
+  "id": 1729341933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1288.589991,
+    "geom:bbox":"168.892174,-45.476751,168.892843,-45.47643",
+    "geom:latitude":-45.476588,
+    "geom:longitude":168.892508,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.476592,
+    "lbl:longitude":168.892508,
+    "mps:latitude":-45.476592,
+    "mps:longitude":168.892508,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mervyn Island"
+    ],
+    "nz-linz:name":"Mervyn Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4500
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622681,
+    "wof:geomhash":"ef282a048581069872d69cf7c9e1f435",
+    "wof:hierarchy":[],
+    "wof:id":1729341933,
+    "wof:lastmodified":1602624722,
+    "wof:name":"Mervyn Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.892174,
+    -45.476751,
+    168.892843,
+    -45.47643
+],
+  "geometry": {"coordinates":[[[168.892843,-45.476647],[168.89261200000001,-45.476751],[168.89254800000001,-45.47675],[168.89226500000001,-45.476673],[168.89217400000001,-45.476603],[168.892177,-45.476558],[168.892313,-45.476449],[168.89240899999999,-45.47643],[168.89275900000001,-45.476486],[168.892843,-45.476647]]],"type":"Polygon"}
+}

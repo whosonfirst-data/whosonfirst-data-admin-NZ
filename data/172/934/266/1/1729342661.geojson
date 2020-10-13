@@ -1,0 +1,53 @@
+{
+  "id": 1729342661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":577.344837,
+    "geom:bbox":"173.951775,-34.994684,173.951999,-34.994325",
+    "geom:latitude":-34.994503,
+    "geom:longitude":173.95189,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.994502,
+    "lbl:longitude":173.951887,
+    "mps:latitude":-34.994502,
+    "mps:longitude":173.951887,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Te Toi Island"
+    ],
+    "nz-linz:name":"Te Toi Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5011
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622976,
+    "wof:geomhash":"2abcf252f993a82edd184a75e77ca768",
+    "wof:hierarchy":[],
+    "wof:id":1729342661,
+    "wof:lastmodified":1602624733,
+    "wof:name":"Te Toi Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.951775,
+    -34.994684,
+    173.951999,
+    -34.994325
+],
+  "geometry": {"coordinates":[[[173.951919,-34.994684],[173.95177799999999,-34.994574],[173.951775,-34.994438],[173.95185499999999,-34.994325],[173.95199400000001,-34.994412],[173.951999,-34.994592],[173.951919,-34.994684]]],"type":"Polygon"}
+}

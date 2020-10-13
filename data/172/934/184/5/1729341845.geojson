@@ -1,0 +1,53 @@
+{
+  "id": 1729341845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2850.022141,
+    "geom:bbox":"174.379485,-35.355574,174.380154,-35.354908",
+    "geom:latitude":-35.355239,
+    "geom:longitude":174.379835,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.355275,
+    "lbl:longitude":174.379868,
+    "mps:latitude":-35.355275,
+    "mps:longitude":174.379868,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kaiwha Rock"
+    ],
+    "nz-linz:name":"Kaiwha Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4411
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622644,
+    "wof:geomhash":"b667a0f11792e997a935d250d1a6a891",
+    "wof:hierarchy":[],
+    "wof:id":1729341845,
+    "wof:lastmodified":1602624786,
+    "wof:name":"Kaiwha Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.379485,
+    -35.355574,
+    174.380154,
+    -35.354908
+],
+  "geometry": {"coordinates":[[[174.37997899999999,-35.355574],[174.37985900000001,-35.355565],[174.379718,-35.355455],[174.37948700000001,-35.355076],[174.37948499999999,-35.355008],[174.379582,-35.354908],[174.37985,-35.354969],[174.380154,-35.35522],[174.38014100000001,-35.355472],[174.38006100000001,-35.355521],[174.37997899999999,-35.355574]]],"type":"Polygon"}
+}

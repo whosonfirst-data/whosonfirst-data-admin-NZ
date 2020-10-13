@@ -1,0 +1,53 @@
+{
+  "id": 1729342211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11112.917865,
+    "geom:bbox":"176.88302,-37.832309,176.884672,-37.831034",
+    "geom:latitude":-37.831594,
+    "geom:longitude":176.88384,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.831569,
+    "lbl:longitude":176.883827,
+    "mps:latitude":-37.831569,
+    "mps:longitude":176.883827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Moutoki Island"
+    ],
+    "nz-linz:name":"Moutoki Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4686
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622795,
+    "wof:geomhash":"5f1d2f8b0107a48703fadde8eed2e249",
+    "wof:hierarchy":[],
+    "wof:id":1729342211,
+    "wof:lastmodified":1602624727,
+    "wof:name":"Moutoki Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.88302,
+    -37.832309,
+    176.884672,
+    -37.831034
+],
+  "geometry": {"coordinates":[[[176.884536,-37.831034],[176.884657,-37.831142],[176.88467199999999,-37.83139],[176.88457199999999,-37.831596],[176.884411,-37.831739],[176.88363200000001,-37.832018],[176.88346799999999,-37.832123],[176.88322099999999,-37.832282],[176.88310899999999,-37.832309],[176.88301999999999,-37.832245],[176.883118,-37.831993],[176.88310300000001,-37.831768],[176.88317799999999,-37.831584],[176.88318599999999,-37.831578],[176.883342,-37.831392],[176.88352499999999,-37.831242],[176.883633,-37.831245],[176.88381999999999,-37.831191],[176.884064,-37.83112],[176.88433699999999,-37.831041],[176.884536,-37.831034]]],"type":"Polygon"}
+}

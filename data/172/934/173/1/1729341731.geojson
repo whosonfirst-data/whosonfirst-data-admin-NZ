@@ -1,0 +1,53 @@
+{
+  "id": 1729341731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5731.352954,
+    "geom:bbox":"166.506994,-45.745732,166.508339,-45.745004",
+    "geom:latitude":-45.745345,
+    "geom:longitude":166.507759,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.745343,
+    "lbl:longitude":166.507772,
+    "mps:latitude":-45.745343,
+    "mps:longitude":166.507772,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Entry Island"
+    ],
+    "nz-linz:name":"Entry Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4291
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622587,
+    "wof:geomhash":"9f87c03ee1a709cfaa19d002df5b09ea",
+    "wof:hierarchy":[],
+    "wof:id":1729341731,
+    "wof:lastmodified":1602624740,
+    "wof:name":"Entry Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.506994,
+    -45.745732,
+    166.508339,
+    -45.745004
+],
+  "geometry": {"coordinates":[[[166.50833900000001,-45.74565],[166.50820100000001,-45.745732],[166.50784899999999,-45.745713],[166.507116,-45.745357],[166.50699800000001,-45.74526],[166.50699399999999,-45.745158],[166.50767200000001,-45.745004],[166.507992,-45.745022],[166.50814399999999,-45.745098],[166.50831400000001,-45.74531],[166.50833900000001,-45.74565]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729341103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17259.143298,
+    "geom:bbox":"175.102794,-35.908585,175.104552,-35.907222",
+    "geom:latitude":-35.907882,
+    "geom:longitude":175.103697,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.907915,
+    "lbl:longitude":175.103626,
+    "mps:latitude":-35.907915,
+    "mps:longitude":175.103626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motupapa Island"
+    ],
+    "nz-linz:name":"Motupapa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4617
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622297,
+    "wof:geomhash":"2f41512d0c90cea4cc17dba215611e4b",
+    "wof:hierarchy":[],
+    "wof:id":1729341103,
+    "wof:lastmodified":1602624753,
+    "wof:name":"Motupapa Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.102794,
+    -35.908585,
+    175.104552,
+    -35.907222
+],
+  "geometry": {"coordinates":[[[175.10451699999999,-35.907352],[175.104547,-35.907441],[175.10455200000001,-35.907599],[175.10426000000001,-35.907988],[175.10440399999999,-35.908164],[175.10408000000001,-35.908442],[175.10375199999999,-35.908585],[175.10333600000001,-35.908571],[175.103139,-35.908462],[175.10279399999999,-35.908109],[175.10281900000001,-35.908019],[175.103296,-35.907311],[175.10340500000001,-35.907263],[175.104029,-35.907222],[175.10434699999999,-35.907265],[175.10451699999999,-35.907352]]],"type":"Polygon"}
+}

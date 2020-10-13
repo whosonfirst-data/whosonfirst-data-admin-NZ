@@ -1,0 +1,53 @@
+{
+  "id": 1729340413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":126630.623294,
+    "geom:bbox":"-176.342721,-44.288875,-176.335041,-44.28606",
+    "geom:latitude":-44.287179,
+    "geom:longitude":-176.338824,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.286904,
+    "lbl:longitude":-176.338128,
+    "mps:latitude":-44.286904,
+    "mps:longitude":-176.338128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "The Castle"
+    ],
+    "nz-linz:name":"The Castle",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":8678
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622013,
+    "wof:geomhash":"6612175ca571a7f6a64861b295f23595",
+    "wof:hierarchy":[],
+    "wof:id":1729340413,
+    "wof:lastmodified":1602624725,
+    "wof:name":"The Castle",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.342721,
+    -44.288875,
+    -176.335041,
+    -44.28606
+],
+  "geometry": {"coordinates":[[[-176.34223399999999,-44.288743],[-176.34272100000001,-44.287573],[-176.342229,-44.286289],[-176.340104,-44.28606],[-176.337164,-44.286067],[-176.33504099999999,-44.286539],[-176.335373,-44.288875],[-176.33782099999999,-44.287818],[-176.339291,-44.287464],[-176.34223399999999,-44.288743]]],"type":"Polygon"}
+}

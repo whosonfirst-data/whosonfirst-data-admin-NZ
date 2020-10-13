@@ -1,0 +1,53 @@
+{
+  "id": 1729342529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":314.54309,
+    "geom:bbox":"173.705589,-34.958475,173.705835,-34.958229",
+    "geom:latitude":-34.958358,
+    "geom:longitude":173.705696,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.958362,
+    "lbl:longitude":173.705694,
+    "mps:latitude":-34.958362,
+    "mps:longitude":173.705694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Seal Rock"
+    ],
+    "nz-linz:name":"Seal Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4920
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622922,
+    "wof:geomhash":"92539813a60eecb40018434b06e3a4a8",
+    "wof:hierarchy":[],
+    "wof:id":1729342529,
+    "wof:lastmodified":1602624779,
+    "wof:name":"Seal Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.705589,
+    -34.958475,
+    173.705835,
+    -34.958229
+],
+  "geometry": {"coordinates":[[[173.705701,-34.958475],[173.705589,-34.958387],[173.70564100000001,-34.958229],[173.70583500000001,-34.958361],[173.705701,-34.958475]]],"type":"Polygon"}
+}

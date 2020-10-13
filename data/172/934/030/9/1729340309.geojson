@@ -1,0 +1,53 @@
+{
+  "id": 1729340309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12767.416727,
+    "geom:bbox":"171.452144,-41.766581,171.453756,-41.765097",
+    "geom:latitude":-41.765861,
+    "geom:longitude":171.452904,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.765872,
+    "lbl:longitude":171.452891,
+    "mps:latitude":-41.765872,
+    "mps:longitude":171.452891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wall Island"
+    ],
+    "nz-linz:name":"Wall Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5107
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621971,
+    "wof:geomhash":"51400e8823a732681d0f81a3c22bead9",
+    "wof:hierarchy":[],
+    "wof:id":1729340309,
+    "wof:lastmodified":1602624739,
+    "wof:name":"Wall Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.452144,
+    -41.766581,
+    171.453756,
+    -41.765097
+],
+  "geometry": {"coordinates":[[[171.45353499999999,-41.765755],[171.45335299999999,-41.76607],[171.45317,-41.766294],[171.45310799999999,-41.766339],[171.452564,-41.766559],[171.45244299999999,-41.766581],[171.45226299999999,-41.766579],[171.45217299999999,-41.766533],[171.452144,-41.766488],[171.452147,-41.766263],[171.45221100000001,-41.766061],[171.452304,-41.765859],[171.45245700000001,-41.76568],[171.45242999999999,-41.765454],[171.452551,-41.765366],[171.452911,-41.765392],[171.45350300000001,-41.765127],[171.45356899999999,-41.765097],[171.453667,-41.765172],[171.453756,-41.765285],[171.453755,-41.765375],[171.45353499999999,-41.765755]]],"type":"Polygon"}
+}

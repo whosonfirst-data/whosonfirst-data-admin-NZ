@@ -1,0 +1,53 @@
+{
+  "id": 1729342649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1350.092823,
+    "geom:bbox":"173.414845,-35.399864,173.415205,-35.3993",
+    "geom:latitude":-35.39957,
+    "geom:longitude":173.415024,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.399566,
+    "lbl:longitude":173.415027,
+    "mps:latitude":-35.399566,
+    "mps:longitude":173.415027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Te Motu Island"
+    ],
+    "nz-linz:name":"Te Motu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5005
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622971,
+    "wof:geomhash":"f0ff3c072372e7095101e8a27b447693",
+    "wof:hierarchy":[],
+    "wof:id":1729342649,
+    "wof:lastmodified":1602624777,
+    "wof:name":"Te Motu Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.414845,
+    -35.399864,
+    173.415205,
+    -35.3993
+],
+  "geometry": {"coordinates":[[[173.414905,-35.399797],[173.41484500000001,-35.399483],[173.415007,-35.3993],[173.41511800000001,-35.399344],[173.41520299999999,-35.399501],[173.41520499999999,-35.399636],[173.41498899999999,-35.399864],[173.414905,-35.399797]]],"type":"Polygon"}
+}

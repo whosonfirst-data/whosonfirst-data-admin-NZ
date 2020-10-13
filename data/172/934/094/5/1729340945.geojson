@@ -1,0 +1,56 @@
+{
+  "id": 1729340945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5986.097079,
+    "geom:bbox":"175.390679,-36.751062,175.391939,-36.750265",
+    "geom:latitude":-36.750668,
+    "geom:longitude":175.391378,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.750679,
+    "lbl:longitude":175.39139,
+    "mps:latitude":-36.750679,
+    "mps:longitude":175.39139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Shag Rock"
+    ],
+    "name:mri_x_preferred":[
+        "Motuokino Island"
+    ],
+    "nz-linz:name":"Motuokino Island (Shag Rock)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4602
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622232,
+    "wof:geomhash":"bfc0692e1d95e7b368cb47fd431dd640",
+    "wof:hierarchy":[],
+    "wof:id":1729340945,
+    "wof:lastmodified":1602624779,
+    "wof:name":"Shag Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.390679,
+    -36.751062,
+    175.391939,
+    -36.750265
+],
+  "geometry": {"coordinates":[[[175.39071000000001,-36.750692],[175.39067900000001,-36.75058],[175.39077499999999,-36.750521],[175.39112399999999,-36.750503],[175.39150799999999,-36.750269],[175.39161999999999,-36.750265],[175.39182199999999,-36.750408],[175.39193900000001,-36.750551],[175.39183700000001,-36.750848],[175.39174499999999,-36.75095],[175.391606,-36.750977],[175.39145400000001,-36.750981],[175.391312,-36.751062],[175.39106799999999,-36.75094],[175.39071000000001,-36.750692]]],"type":"Polygon"}
+}

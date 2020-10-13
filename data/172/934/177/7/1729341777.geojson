@@ -1,0 +1,53 @@
+{
+  "id": 1729341777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26222.203164,
+    "geom:bbox":"173.780597,-40.946495,173.782401,-40.943592",
+    "geom:latitude":-40.944916,
+    "geom:longitude":173.781387,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.944846,
+    "lbl:longitude":173.781161,
+    "mps:latitude":-40.944846,
+    "mps:longitude":173.781161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hautai Island"
+    ],
+    "nz-linz:name":"Hautai Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4355
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622607,
+    "wof:geomhash":"dcb4269c2fe56a6fb75ce4bd06f12e1b",
+    "wof:hierarchy":[],
+    "wof:id":1729341777,
+    "wof:lastmodified":1602624786,
+    "wof:name":"Hautai Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.780597,
+    -40.946495,
+    173.782401,
+    -40.943592
+],
+  "geometry": {"coordinates":[[[173.78159600000001,-40.946495],[173.781476,-40.946474],[173.781262,-40.946184],[173.78078199999999,-40.945964],[173.780631,-40.945854],[173.780597,-40.945629],[173.780708,-40.945312],[173.780666,-40.944749],[173.780922,-40.944183],[173.78124399999999,-40.943999],[173.78133199999999,-40.943907],[173.78120799999999,-40.943706],[173.781206,-40.943616],[173.781295,-40.943592],[173.78183100000001,-40.943653],[173.78215700000001,-40.943627],[173.78236799999999,-40.943737],[173.78240099999999,-40.94394],[173.78196800000001,-40.944463],[173.781623,-40.945008],[173.78148400000001,-40.945461],[173.781756,-40.94566],[173.78188,-40.945883],[173.781856,-40.946132],[173.78174200000001,-40.94638],[173.78159600000001,-40.946495]]],"type":"Polygon"}
+}

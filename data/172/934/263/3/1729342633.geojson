@@ -1,0 +1,53 @@
+{
+  "id": 1729342633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20663.323086,
+    "geom:bbox":"174.253998,-35.230069,174.256008,-35.228628",
+    "geom:latitude":-35.22938,
+    "geom:longitude":174.255103,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.22932,
+    "lbl:longitude":174.255203,
+    "mps:latitude":-35.22932,
+    "mps:longitude":174.255203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tawiriwiri Island"
+    ],
+    "nz-linz:name":"Tawiriwiri Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4987
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622965,
+    "wof:geomhash":"f76cfb707c406166f11d5ab96d770245",
+    "wof:hierarchy":[],
+    "wof:id":1729342633,
+    "wof:lastmodified":1602624778,
+    "wof:name":"Tawiriwiri Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.253998,
+    -35.230069,
+    174.256008,
+    -35.228628
+],
+  "geometry": {"coordinates":[[[174.25537800000001,-35.228628],[174.25557800000001,-35.228751],[174.25574800000001,-35.228906],[174.25600800000001,-35.229389],[174.256001,-35.22985],[174.255943,-35.229934],[174.25583599999999,-35.230007],[174.25569200000001,-35.230069],[174.25539000000001,-35.230044],[174.25496699999999,-35.229946],[174.254357,-35.229773],[174.25408899999999,-35.229625],[174.253998,-35.229502],[174.254053,-35.229295],[174.254165,-35.229105],[174.254527,-35.228914],[174.25487000000001,-35.228738],[174.25517400000001,-35.228642],[174.25537800000001,-35.228628]]],"type":"Polygon"}
+}

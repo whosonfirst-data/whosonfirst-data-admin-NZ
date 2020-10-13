@@ -1,0 +1,56 @@
+{
+  "id": 1729341943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18343.861633,
+    "geom:bbox":"175.769849,-36.802885,175.771806,-36.801021",
+    "geom:latitude":-36.8018,
+    "geom:longitude":175.770696,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.801927,
+    "lbl:longitude":175.770369,
+    "mps:latitude":-36.801927,
+    "mps:longitude":175.770369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Centre Island"
+    ],
+    "name:mri_x_preferred":[
+        "Motukorure Island"
+    ],
+    "nz-linz:name":"Motukorure Island (Centre Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4576
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622686,
+    "wof:geomhash":"c007050953d71e58e20d77438b8e40f0",
+    "wof:hierarchy":[],
+    "wof:id":1729341943,
+    "wof:lastmodified":1602624722,
+    "wof:name":"Centre Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.769849,
+    -36.802885,
+    175.771806,
+    -36.801021
+],
+  "geometry": {"coordinates":[[[175.77022400000001,-36.802885],[175.77002100000001,-36.802732],[175.76991100000001,-36.802454],[175.76984899999999,-36.801993],[175.76989499999999,-36.801766],[175.77051800000001,-36.80123],[175.77093199999999,-36.801061],[175.77109899999999,-36.801034],[175.771547,-36.801021],[175.771806,-36.801194],[175.77180200000001,-36.801409],[175.77171200000001,-36.801603],[175.77157600000001,-36.801719],[175.771006,-36.801814],[175.77080000000001,-36.801944],[175.77068299999999,-36.802466],[175.770498,-36.80273],[175.770363,-36.802858],[175.77022400000001,-36.802885]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729341975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4066.539519,
+    "geom:bbox":"167.724693,-46.300392,167.725469,-46.299586",
+    "geom:latitude":-46.299987,
+    "geom:longitude":167.72509,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.299988,
+    "lbl:longitude":167.72509,
+    "mps:latitude":-46.299988,
+    "mps:longitude":167.72509,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Monkey Island"
+    ],
+    "nz-linz:name":"Monkey Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4514
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622698,
+    "wof:geomhash":"d28c46f4c73557a1bb0830e2b894fb29",
+    "wof:hierarchy":[],
+    "wof:id":1729341975,
+    "wof:lastmodified":1602624759,
+    "wof:name":"Monkey Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.724693,
+    -46.300392,
+    167.725469,
+    -46.299586
+],
+  "geometry": {"coordinates":[[[167.725469,-46.299946],[167.72544600000001,-46.300238],[167.725335,-46.300392],[167.725043,-46.300381],[167.72479799999999,-46.30019],[167.72475499999999,-46.300069],[167.72474199999999,-46.300031],[167.724693,-46.299893],[167.72474199999999,-46.299692],[167.72491299999999,-46.299586],[167.72514000000001,-46.299595],[167.72529499999999,-46.299691],[167.725469,-46.299946]]],"type":"Polygon"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 1729340167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20879.80947,
+    "geom:bbox":"174.971336,-36.813924,174.973984,-36.810728",
+    "geom:latitude":-36.812023,
+    "geom:longitude":174.972811,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.811899,
+    "lbl:longitude":174.972831,
+    "mps:latitude":-36.811899,
+    "mps:longitude":174.972831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Crusoe Island"
+    ],
+    "name:mri_x_preferred":[
+        "Papakohatu Island"
+    ],
+    "nz-linz:name":"Papakohatu Island (Crusoe Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4786
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621914,
+    "wof:geomhash":"0bc9d61f1e4fd8493fb993fb1830f189",
+    "wof:hierarchy":[],
+    "wof:id":1729340167,
+    "wof:lastmodified":1602624766,
+    "wof:name":"Crusoe Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.971336,
+    -36.813924,
+    174.973984,
+    -36.810728
+],
+  "geometry": {"coordinates":[[[174.97133600000001,-36.811146],[174.971633,-36.811175],[174.97169,-36.811219],[174.97198,-36.811573],[174.97223399999999,-36.811613],[174.97242499999999,-36.81143],[174.972433,-36.810776],[174.9726,-36.810728],[174.97282999999999,-36.810904],[174.97298499999999,-36.811419],[174.97332900000001,-36.811705],[174.97336899999999,-36.812088],[174.973401,-36.812222],[174.97358,-36.812602],[174.97365600000001,-36.813277],[174.97364099999999,-36.813329],[174.973705,-36.813495],[174.973984,-36.813924],[174.97359800000001,-36.813468],[174.97329199999999,-36.813283],[174.97314399999999,-36.812994],[174.97299699999999,-36.812816],[174.972622,-36.81244],[174.972387,-36.812039],[174.97235800000001,-36.812017],[174.971847,-36.811801],[174.97164599999999,-36.811648],[174.97152600000001,-36.811379],[174.97133600000001,-36.811146]]],"type":"Polygon"}
+}

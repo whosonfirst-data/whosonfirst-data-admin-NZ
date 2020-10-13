@@ -1,0 +1,53 @@
+{
+  "id": 1729342317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19948.684627,
+    "geom:bbox":"173.10368,-43.696579,173.106617,-43.694902",
+    "geom:latitude":-43.695774,
+    "geom:longitude":173.105018,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.695811,
+    "lbl:longitude":173.105018,
+    "mps:latitude":-43.695811,
+    "mps:longitude":173.105018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pa Island"
+    ],
+    "nz-linz:name":"Pa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4777
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622837,
+    "wof:geomhash":"1a3328c16c6c95cc1d7bb5d8e5e35d69",
+    "wof:hierarchy":[],
+    "wof:id":1729342317,
+    "wof:lastmodified":1602624771,
+    "wof:name":"Pa Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.10368,
+    -43.696579,
+    173.106617,
+    -43.694902
+],
+  "geometry": {"coordinates":[[[173.103714,-43.69618],[173.10368,-43.695955],[173.10404800000001,-43.695592],[173.104387,-43.695387],[173.10491300000001,-43.695294],[173.105502,-43.695291],[173.105966,-43.695153],[173.10646,-43.694902],[173.10661500000001,-43.694968],[173.106617,-43.695058],[173.10646399999999,-43.695262],[173.10551100000001,-43.696011],[173.10545400000001,-43.696393],[173.105299,-43.696484],[173.10511199999999,-43.696328],[173.10498799999999,-43.696329],[173.10486499999999,-43.69651],[173.10464999999999,-43.696579],[173.10427300000001,-43.696288],[173.10387,-43.696269],[173.103714,-43.69618]]],"type":"Polygon"}
+}

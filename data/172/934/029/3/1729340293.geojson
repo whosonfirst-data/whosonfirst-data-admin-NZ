@@ -1,0 +1,53 @@
+{
+  "id": 1729340293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":179.674304,
+    "geom:bbox":"175.795585,-36.693381,175.795819,-36.693182",
+    "geom:latitude":-36.693289,
+    "geom:longitude":175.795706,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.693288,
+    "lbl:longitude":175.795708,
+    "mps:latitude":-36.693288,
+    "mps:longitude":175.795708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tokaiti Rock"
+    ],
+    "nz-linz:name":"Tokaiti Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5053
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621965,
+    "wof:geomhash":"20e2c483695ae2cfa619873dbe60f642",
+    "wof:hierarchy":[],
+    "wof:id":1729340293,
+    "wof:lastmodified":1602624766,
+    "wof:name":"Tokaiti Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.795585,
+    -36.693381,
+    175.795819,
+    -36.693182
+],
+  "geometry": {"coordinates":[[[175.79558499999999,-36.693182],[175.79572400000001,-36.693231],[175.79581899999999,-36.693379],[175.79573500000001,-36.693381],[175.79563899999999,-36.693276],[175.79563200000001,-36.693263],[175.79558499999999,-36.693182]]],"type":"Polygon"}
+}

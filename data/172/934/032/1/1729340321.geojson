@@ -1,0 +1,53 @@
+{
+  "id": 1729340321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":405.37227,
+    "geom:bbox":"174.007065,-35.111119,174.007394,-35.110937",
+    "geom:latitude":-35.111016,
+    "geom:longitude":174.007224,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.111025,
+    "lbl:longitude":174.007227,
+    "mps:latitude":-35.111025,
+    "mps:longitude":174.007227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Whakapoku Reef"
+    ],
+    "nz-linz:name":"Whakapoku Reef",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5117
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621977,
+    "wof:geomhash":"9448d073825a9917fac1c85d2de784fd",
+    "wof:hierarchy":[],
+    "wof:id":1729340321,
+    "wof:lastmodified":1602624772,
+    "wof:name":"Whakapoku Reef",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.007065,
+    -35.111119,
+    174.007394,
+    -35.110937
+],
+  "geometry": {"coordinates":[[[174.00739400000001,-35.110981],[174.00726,-35.111119],[174.00709499999999,-35.111076],[174.00706500000001,-35.111009],[174.00714600000001,-35.110941],[174.00733700000001,-35.110937],[174.00739400000001,-35.110981]]],"type":"Polygon"}
+}

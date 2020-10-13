@@ -1,0 +1,48 @@
+{
+  "id": 1729342739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":404.212834,
+    "geom:bbox":"173.798386,-34.992741,173.799098,-34.992561",
+    "geom:latitude":-34.992651,
+    "geom:longitude":173.798712,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.992653,
+    "lbl:longitude":173.798525,
+    "mps:latitude":-34.992653,
+    "mps:longitude":173.798525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Arrow Rocks"
+    ],
+    "nz-linz:name":"Arrow Rocks",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602623008,
+    "wof:geomhash":"bef7e659fa97d163e8043187c856d0ae",
+    "wof:hierarchy":[],
+    "wof:id":1729342739,
+    "wof:lastmodified":1602624725,
+    "wof:name":"Arrow Rocks",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.798386,
+    -34.992741,
+    173.799098,
+    -34.992561
+],
+  "geometry": {"coordinates":[[[[173.79865799999999,-34.992626],[173.79852500000001,-34.992741],[173.79838599999999,-34.992676],[173.79854800000001,-34.992561],[173.79865799999999,-34.992626]]],[[[173.79901599999999,-34.992711],[173.798934,-34.992712],[173.79890599999999,-34.992622],[173.798959,-34.992577],[173.79909799999999,-34.992642],[173.79901599999999,-34.992711]]]],"type":"MultiPolygon"}
+}

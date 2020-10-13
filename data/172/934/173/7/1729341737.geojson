@@ -1,0 +1,53 @@
+{
+  "id": 1729341737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18231.218667,
+    "geom:bbox":"167.136213,-45.129816,167.138401,-45.127852",
+    "geom:latitude":-45.128886,
+    "geom:longitude":167.137218,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.128427,
+    "lbl:longitude":167.136779,
+    "mps:latitude":-45.128427,
+    "mps:longitude":167.136779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fanny Island"
+    ],
+    "nz-linz:name":"Fanny Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4297
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622589,
+    "wof:geomhash":"67fe62a086d00bb0bf3e97befbaee1bf",
+    "wof:hierarchy":[],
+    "wof:id":1729341737,
+    "wof:lastmodified":1602624740,
+    "wof:name":"Fanny Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.136213,
+    -45.129816,
+    167.138401,
+    -45.127852
+],
+  "geometry": {"coordinates":[[[167.13790499999999,-45.129816],[167.13771199999999,-45.129791],[167.13718600000001,-45.129578],[167.1369,-45.129344],[167.13635500000001,-45.128693],[167.13627500000001,-45.128425],[167.136213,-45.128219],[167.13629299999999,-45.128021],[167.136381,-45.127925],[167.13673199999999,-45.127852],[167.13701900000001,-45.127866],[167.13718700000001,-45.128114],[167.137303,-45.128384],[167.13733500000001,-45.128641],[167.13751999999999,-45.128937],[167.137709,-45.12899],[167.13812300000001,-45.129029],[167.138217,-45.129055],[167.138363,-45.129156],[167.13840099999999,-45.129492],[167.13825900000001,-45.129665],[167.13808900000001,-45.129764],[167.13790499999999,-45.129816]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729341589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4632.296152,
+    "geom:bbox":"174.56762,-35.718328,174.568559,-35.717647",
+    "geom:latitude":-35.717998,
+    "geom:longitude":174.568126,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.717996,
+    "lbl:longitude":174.568135,
+    "mps:latitude":-35.717996,
+    "mps:longitude":174.568135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Arakaninihi Island"
+    ],
+    "nz-linz:name":"Arakaninihi Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4145
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622514,
+    "wof:geomhash":"93a102bf5572f695d7489d0382eaf913",
+    "wof:hierarchy":[],
+    "wof:id":1729341589,
+    "wof:lastmodified":1602624722,
+    "wof:name":"Arakaninihi Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.56762,
+    -35.718328,
+    174.568559,
+    -35.717647
+],
+  "geometry": {"coordinates":[[[174.56852499999999,-35.7178],[174.56855899999999,-35.718024],[174.56853899999999,-35.718122],[174.56851399999999,-35.718154],[174.568264,-35.718324],[174.568015,-35.718328],[174.56773899999999,-35.718207],[174.56762000000001,-35.718007],[174.567834,-35.717791],[174.56807900000001,-35.717673],[174.56827200000001,-35.717647],[174.56838300000001,-35.717689],[174.56852499999999,-35.7178]]],"type":"Polygon"}
+}

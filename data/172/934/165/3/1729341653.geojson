@@ -1,0 +1,53 @@
+{
+  "id": 1729341653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":650.859401,
+    "geom:bbox":"175.40241,-36.810778,175.402745,-36.810439",
+    "geom:latitude":-36.810605,
+    "geom:longitude":175.402598,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.810596,
+    "lbl:longitude":175.40261,
+    "mps:latitude":-36.810596,
+    "mps:longitude":175.40261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Calf Island"
+    ],
+    "nz-linz:name":"Calf Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4232
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622545,
+    "wof:geomhash":"71af12691d8c9b3ffc2c1141fcb1b0cb",
+    "wof:hierarchy":[],
+    "wof:id":1729341653,
+    "wof:lastmodified":1602624755,
+    "wof:name":"Calf Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.40241,
+    -36.810778,
+    175.402745,
+    -36.810439
+],
+  "geometry": {"coordinates":[[[175.40259900000001,-36.810439],[175.40273999999999,-36.810481],[175.40274500000001,-36.810616],[175.402582,-36.810778],[175.40241,-36.810669],[175.40259900000001,-36.810439]]],"type":"Polygon"}
+}

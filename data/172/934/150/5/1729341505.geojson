@@ -1,0 +1,53 @@
+{
+  "id": 1729341505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1728.48514,
+    "geom:bbox":"174.556142,-35.716147,174.556973,-35.715873",
+    "geom:latitude":-35.716016,
+    "geom:longitude":174.55659,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.716011,
+    "lbl:longitude":174.55659,
+    "mps:latitude":-35.716011,
+    "mps:longitude":174.55659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ipurau Island"
+    ],
+    "nz-linz:name":"Ipurau Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4392
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622475,
+    "wof:geomhash":"ef80c626daa889611ff2cd714a2fdd5e",
+    "wof:hierarchy":[],
+    "wof:id":1729341505,
+    "wof:lastmodified":1602624718,
+    "wof:name":"Ipurau Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.556142,
+    -35.716147,
+    174.556973,
+    -35.715873
+],
+  "geometry": {"coordinates":[[[174.556973,-35.716094],[174.556893,-35.71614],[174.55655999999999,-35.716147],[174.55628300000001,-35.716108],[174.55614199999999,-35.716021],[174.55627799999999,-35.715928],[174.556524,-35.715877],[174.55677399999999,-35.715873],[174.55697000000001,-35.716004],[174.556973,-35.716094]]],"type":"Polygon"}
+}

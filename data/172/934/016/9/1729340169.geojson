@@ -1,0 +1,53 @@
+{
+  "id": 1729340169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4617.48515,
+    "geom:bbox":"175.288692,-36.220647,175.289533,-36.219813",
+    "geom:latitude":-36.22025,
+    "geom:longitude":175.289063,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.220269,
+    "lbl:longitude":175.289029,
+    "mps:latitude":-36.220269,
+    "mps:longitude":175.289029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Papakuri Island"
+    ],
+    "nz-linz:name":"Papakuri Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4787
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621915,
+    "wof:geomhash":"56179f9585c341234b6890cd2ed76971",
+    "wof:hierarchy":[],
+    "wof:id":1729340169,
+    "wof:lastmodified":1602624766,
+    "wof:name":"Papakuri Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.288692,
+    -36.220647,
+    175.289533,
+    -36.219813
+],
+  "geometry": {"coordinates":[[[175.289154,-36.220647],[175.288929,-36.220608],[175.28872999999999,-36.220454],[175.288692,-36.220162],[175.288769,-36.21998],[175.28892999999999,-36.219819],[175.289152,-36.219813],[175.289332,-36.220147],[175.28953300000001,-36.220345],[175.2894,-36.220507],[175.289154,-36.220647]]],"type":"Polygon"}
+}

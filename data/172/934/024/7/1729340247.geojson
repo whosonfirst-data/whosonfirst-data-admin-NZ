@@ -1,0 +1,53 @@
+{
+  "id": 1729340247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17.885658,
+    "geom:bbox":"174.852978,-36.39695,174.853032,-36.396882",
+    "geom:latitude":-36.396913,
+    "geom:longitude":174.852997,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.396913,
+    "lbl:longitude":174.852997,
+    "mps:latitude":-36.396913,
+    "mps:longitude":174.852997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Slip Island"
+    ],
+    "nz-linz:name":"Slip Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4937
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621947,
+    "wof:geomhash":"f980b3a7beee2f49400aa0df744502cf",
+    "wof:hierarchy":[],
+    "wof:id":1729340247,
+    "wof:lastmodified":1602624723,
+    "wof:name":"Slip Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.852978,
+    -36.39695,
+    174.853032,
+    -36.396882
+],
+  "geometry": {"coordinates":[[[174.85297800000001,-36.396882],[174.85303200000001,-36.396908],[174.852981,-36.39695],[174.85297800000001,-36.396882]]],"type":"Polygon"}
+}

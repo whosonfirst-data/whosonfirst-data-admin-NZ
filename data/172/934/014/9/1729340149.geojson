@@ -1,0 +1,53 @@
+{
+  "id": 1729340149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2466.455348,
+    "geom:bbox":"174.321392,-35.212949,174.32198,-35.212315",
+    "geom:latitude":-35.212634,
+    "geom:longitude":174.321658,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.212635,
+    "lbl:longitude":174.321623,
+    "mps:latitude":-35.212635,
+    "mps:longitude":174.321623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Net Rock"
+    ],
+    "nz-linz:name":"Net Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4717
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621907,
+    "wof:geomhash":"c482172dce0e062f94fa32a6f175e512",
+    "wof:hierarchy":[],
+    "wof:id":1729340149,
+    "wof:lastmodified":1602624727,
+    "wof:name":"Net Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.321392,
+    -35.212949,
+    174.32198,
+    -35.212315
+],
+  "geometry": {"coordinates":[[[174.321584,-35.212344],[174.321822,-35.212315],[174.32198,-35.212445],[174.32180500000001,-35.212616],[174.32179600000001,-35.212716],[174.32186100000001,-35.21281],[174.32185899999999,-35.21289],[174.32171399999999,-35.212949],[174.32145700000001,-35.212899],[174.321392,-35.212834],[174.321395,-35.212679],[174.32150899999999,-35.21244],[174.321584,-35.212344]]],"type":"Polygon"}
+}

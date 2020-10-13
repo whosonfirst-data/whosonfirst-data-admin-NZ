@@ -1,0 +1,53 @@
+{
+  "id": 1729342515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6855.309183,
+    "geom:bbox":"173.294326,-34.891026,173.29589,-34.889877",
+    "geom:latitude":-34.890505,
+    "geom:longitude":173.29532,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.890479,
+    "lbl:longitude":173.295388,
+    "mps:latitude":-34.890479,
+    "mps:longitude":173.295388,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Scheigis Rock"
+    ],
+    "nz-linz:name":"Scheigis Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4914
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622917,
+    "wof:geomhash":"04ff2b8dee80abaf25c27033d84430c7",
+    "wof:hierarchy":[],
+    "wof:id":1729342515,
+    "wof:lastmodified":1602624737,
+    "wof:name":"Scheigis Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.294326,
+    -34.891026,
+    173.29589,
+    -34.889877
+],
+  "geometry": {"coordinates":[[[[173.295511,-34.891023],[173.295265,-34.891026],[173.295154,-34.890937],[173.29520400000001,-34.890688],[173.29498000000001,-34.890376],[173.29497499999999,-34.890128],[173.29508100000001,-34.889878],[173.29521700000001,-34.889877],[173.295636,-34.890323],[173.29583199999999,-34.890614],[173.29589000000001,-34.890748],[173.29570100000001,-34.890931],[173.295511,-34.891023]]],[[[173.29470900000001,-34.890559],[173.29454699999999,-34.890673],[173.29441,-34.890652],[173.29432600000001,-34.890563],[173.29440700000001,-34.890495],[173.294543,-34.89047],[173.29470900000001,-34.890559]]]],"type":"MultiPolygon"}
+}

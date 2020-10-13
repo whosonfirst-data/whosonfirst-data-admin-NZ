@@ -1,0 +1,56 @@
+{
+  "id": 1729340201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9882.846155,
+    "geom:bbox":"175.355612,-36.172145,175.357398,-36.171189",
+    "geom:latitude":-36.171636,
+    "geom:longitude":175.356427,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.171658,
+    "lbl:longitude":175.356427,
+    "mps:latitude":-36.171658,
+    "mps:longitude":175.356427,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Graves Island"
+    ],
+    "name:mri_x_preferred":[
+        "Quoin Island"
+    ],
+    "nz-linz:name":"Quoin Island (Graves Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4855
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621928,
+    "wof:geomhash":"7c4bc965548ee42c5f142b6f71e1e6d3",
+    "wof:hierarchy":[],
+    "wof:id":1729340201,
+    "wof:lastmodified":1602624765,
+    "wof:name":"Graves Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.355612,
+    -36.172145,
+    175.357398,
+    -36.171189
+],
+  "geometry": {"coordinates":[[[175.35561200000001,-36.171861],[175.35563500000001,-36.171702],[175.355796,-36.171541],[175.35645299999999,-36.171255],[175.356673,-36.171204],[175.357313,-36.171189],[175.35739799999999,-36.171232],[175.35726600000001,-36.171438],[175.35667100000001,-36.171903],[175.35639800000001,-36.172067],[175.356178,-36.17214],[175.35595599999999,-36.172145],[175.35570100000001,-36.171994],[175.35561200000001,-36.171861]]],"type":"Polygon"}
+}

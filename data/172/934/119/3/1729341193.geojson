@@ -1,0 +1,56 @@
+{
+  "id": 1729341193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8032.593758,
+    "geom:bbox":"173.821726,-40.781168,173.823249,-40.779959",
+    "geom:latitude":-40.780545,
+    "geom:longitude":173.822519,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.780528,
+    "lbl:longitude":173.82253,
+    "mps:latitude":-40.780528,
+    "mps:longitude":173.82253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Scuffle Island"
+    ],
+    "name:mri_x_preferred":[
+        "Puotewheke"
+    ],
+    "nz-linz:name":"Puotewheke (Scuffle Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4846
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622335,
+    "wof:geomhash":"44981b03d0aa46d08d3caf4cf2e4ec69",
+    "wof:hierarchy":[],
+    "wof:id":1729341193,
+    "wof:lastmodified":1602624752,
+    "wof:name":"Scuffle Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.821726,
+    -40.781168,
+    173.823249,
+    -40.779959
+],
+  "geometry": {"coordinates":[[[173.823106,-40.781142],[173.82284000000001,-40.781168],[173.82253900000001,-40.780946],[173.82223500000001,-40.780612],[173.82205400000001,-40.780479],[173.82181700000001,-40.780459],[173.82172600000001,-40.78037],[173.821811,-40.780189],[173.82207299999999,-40.779983],[173.822191,-40.779959],[173.82234099999999,-40.77998],[173.82258100000001,-40.780157],[173.823127,-40.780736],[173.823249,-40.780938],[173.823106,-40.781142]]],"type":"Polygon"}
+}

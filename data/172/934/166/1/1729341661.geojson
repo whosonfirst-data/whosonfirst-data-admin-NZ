@@ -1,0 +1,53 @@
+{
+  "id": 1729341661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":67426.579474,
+    "geom:bbox":"174.724488,-36.491988,174.727507,-36.488649",
+    "geom:latitude":-36.490319,
+    "geom:longitude":174.726202,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.490231,
+    "lbl:longitude":174.726202,
+    "mps:latitude":-36.490231,
+    "mps:longitude":174.726202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Casnell Island"
+    ],
+    "nz-linz:name":"Casnell Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4236
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622549,
+    "wof:geomhash":"a56d670ed5618f8ba1f9a8f8bfd87add",
+    "wof:hierarchy":[],
+    "wof:id":1729341661,
+    "wof:lastmodified":1602624718,
+    "wof:name":"Casnell Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.724488,
+    -36.491988,
+    174.727507,
+    -36.488649
+],
+  "geometry": {"coordinates":[[[174.72631799999999,-36.491838],[174.726181,-36.491806],[174.725954,-36.491675],[174.725776,-36.491341],[174.72568799999999,-36.491253],[174.72509400000001,-36.490994],[174.72469699999999,-36.490777],[174.72455199999999,-36.490623],[174.724492,-36.490489],[174.72448800000001,-36.490376],[174.72478899999999,-36.489809],[174.72493600000001,-36.489532],[174.72534200000001,-36.489141],[174.72553400000001,-36.489024],[174.725866,-36.488927],[174.726192,-36.488649],[174.72655599999999,-36.488709],[174.72695300000001,-36.488881],[174.72715400000001,-36.489057],[174.72734800000001,-36.489888],[174.72733600000001,-36.490384],[174.72749200000001,-36.4909],[174.727507,-36.491328],[174.727408,-36.491757],[174.727193,-36.491988],[174.72688400000001,-36.491971],[174.72631799999999,-36.491838]]],"type":"Polygon"}
+}

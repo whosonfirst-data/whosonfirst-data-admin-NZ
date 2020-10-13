@@ -1,0 +1,53 @@
+{
+  "id": 1729343081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":4867.013701,
+    "geom:bbox":"174.864411,-41.252187,174.865422,-41.250917",
+    "geom:latitude":-41.251422,
+    "geom:longitude":174.864856,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.251385,
+    "lbl:longitude":174.864821,
+    "mps:latitude":-41.251385,
+    "mps:longitude":174.864821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mokopuna Island"
+    ],
+    "nz-linz:name":"Mokopuna Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4513
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623151,
+    "wof:geomhash":"d54f429061144ffc1de0da72ab277b6c",
+    "wof:hierarchy":[],
+    "wof:id":1729343081,
+    "wof:lastmodified":1602624720,
+    "wof:name":"Mokopuna Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.864411,
+    -41.252187,
+    174.865422,
+    -41.250917
+],
+  "geometry": {"coordinates":[[[174.86441500000001,-41.252145],[174.86441099999999,-41.252033],[174.86463699999999,-41.25169],[174.86464799999999,-41.251567],[174.864497,-41.251502],[174.86444800000001,-41.251402],[174.864721,-41.251114],[174.865028,-41.250917],[174.86532700000001,-41.250933],[174.865422,-41.25109],[174.865073,-41.251366],[174.86505199999999,-41.251592],[174.864619,-41.252006],[174.86459500000001,-41.252187],[174.86441500000001,-41.252145]]],"type":"Polygon"}
+}

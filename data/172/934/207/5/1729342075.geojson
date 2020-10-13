@@ -1,0 +1,56 @@
+{
+  "id": 1729342075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4201.074719,
+    "geom:bbox":"175.415931,-36.740562,175.416657,-36.739508",
+    "geom:latitude":-36.740075,
+    "geom:longitude":175.416255,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.740121,
+    "lbl:longitude":175.416249,
+    "mps:latitude":-36.740121,
+    "mps:longitude":175.416249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pauls Island"
+    ],
+    "name:mri_x_preferred":[
+        "Motumorirau Island"
+    ],
+    "nz-linz:name":"Motumorirau Island (Pauls Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4588
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622738,
+    "wof:geomhash":"c3de86cf50b780da64007dbc71b6c46b",
+    "wof:hierarchy":[],
+    "wof:id":1729342075,
+    "wof:lastmodified":1602624772,
+    "wof:name":"Pauls Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.415931,
+    -36.740562,
+    175.416657,
+    -36.739508
+],
+  "geometry": {"coordinates":[[[175.41603599999999,-36.740142],[175.41598400000001,-36.739974],[175.415931,-36.739648],[175.416066,-36.73951],[175.41614999999999,-36.739508],[175.416281,-36.739652],[175.41639000000001,-36.739954],[175.416653,-36.740286],[175.41665699999999,-36.740376],[175.41641100000001,-36.740562],[175.41627,-36.740542],[175.41612599999999,-36.740433],[175.41603599999999,-36.740142]]],"type":"Polygon"}
+}

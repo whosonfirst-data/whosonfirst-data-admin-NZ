@@ -1,0 +1,53 @@
+{
+  "id": 1729341479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4080.35387,
+    "geom:bbox":"176.269587,-37.265183,176.270584,-37.264419",
+    "geom:latitude":-37.264818,
+    "geom:longitude":176.27009,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.264828,
+    "lbl:longitude":176.270098,
+    "mps:latitude":-37.264828,
+    "mps:longitude":176.270098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tokopapa Island"
+    ],
+    "nz-linz:name":"Tokopapa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5064
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622460,
+    "wof:geomhash":"11a4d0ce669a8c45561064313eff6c8d",
+    "wof:hierarchy":[],
+    "wof:id":1729341479,
+    "wof:lastmodified":1602624792,
+    "wof:name":"Tokopapa Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.269587,
+    -37.265183,
+    176.270584,
+    -37.264419
+],
+  "geometry": {"coordinates":[[[176.27052699999999,-37.264482],[176.27058400000001,-37.264585],[176.27058099999999,-37.264674],[176.27032700000001,-37.264806],[176.27037000000001,-37.264961],[176.270343,-37.264992],[176.27026000000001,-37.26505],[176.270205,-37.265035],[176.26988,-37.265183],[176.26962399999999,-37.265179],[176.26960500000001,-37.265157],[176.269587,-37.265069],[176.269722,-37.264857],[176.26985500000001,-37.264703],[176.27015299999999,-37.264487],[176.27043399999999,-37.264419],[176.27052699999999,-37.264482]]],"type":"Polygon"}
+}

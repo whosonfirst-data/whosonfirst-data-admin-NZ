@@ -1,0 +1,56 @@
+{
+  "id": 1729341917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11680.349721,
+    "geom:bbox":"175.00479,-36.709362,175.006249,-36.708271",
+    "geom:latitude":-36.708757,
+    "geom:longitude":175.005448,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.708748,
+    "lbl:longitude":175.005434,
+    "mps:latitude":-36.708748,
+    "mps:longitude":175.005434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Maria Island"
+    ],
+    "name:mri_x_preferred":[
+        "Ruapuke Island"
+    ],
+    "nz-linz:name":"Maria Island (Ruapuke Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4485
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622675,
+    "wof:geomhash":"25cb505a5b9c3d7aa8f3ae30789f9db5",
+    "wof:hierarchy":[],
+    "wof:id":1729341917,
+    "wof:lastmodified":1602624755,
+    "wof:name":"Maria Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.00479,
+    -36.709362,
+    175.006249,
+    -36.708271
+],
+  "geometry": {"coordinates":[[[175.004842,-36.709256],[175.00489099999999,-36.708984],[175.00485399999999,-36.708737],[175.004797,-36.70867],[175.00479000000001,-36.708445],[175.00509299999999,-36.708282],[175.00562500000001,-36.708271],[175.00590500000001,-36.708332],[175.00605100000001,-36.708327],[175.006156,-36.708378],[175.006191,-36.708485],[175.006249,-36.708574],[175.00620000000001,-36.708723],[175.00594699999999,-36.708997],[175.00585599999999,-36.709033],[175.00573499999999,-36.709148],[175.005708,-36.709171],[175.00532100000001,-36.709358],[175.00515300000001,-36.709362],[175.004842,-36.709256]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729339993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2764.339603,
+    "geom:bbox":"173.81694,-34.987724,173.817605,-34.987076",
+    "geom:latitude":-34.987404,
+    "geom:longitude":173.817259,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.987384,
+    "lbl:longitude":173.817252,
+    "mps:latitude":-34.987384,
+    "mps:longitude":173.817252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Frenchman Rock"
+    ],
+    "nz-linz:name":"Frenchman Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4309
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621846,
+    "wof:geomhash":"e60b4ea27ca7ca8cfc86b2f18dff168c",
+    "wof:hierarchy":[],
+    "wof:id":1729339993,
+    "wof:lastmodified":1602624802,
+    "wof:name":"Frenchman Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.81694,
+    -34.987724,
+    173.817605,
+    -34.987076
+],
+  "geometry": {"coordinates":[[[173.81702100000001,-34.987124],[173.817239,-34.987076],[173.81743499999999,-34.98723],[173.81760499999999,-34.987724],[173.81728100000001,-34.987706],[173.81697299999999,-34.98744],[173.81693999999999,-34.987193],[173.81702100000001,-34.987124]]],"type":"Polygon"}
+}

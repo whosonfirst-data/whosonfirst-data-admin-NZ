@@ -1,0 +1,48 @@
+{
+  "id": 1729340355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":109.192042,
+    "geom:bbox":"174.852077,-36.841364,174.853547,-36.839582",
+    "geom:latitude":-36.840512,
+    "geom:longitude":174.852792,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.841307,
+    "lbl:longitude":174.852119,
+    "mps:latitude":-36.841307,
+    "mps:longitude":174.852119,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "East Bastion Reef"
+    ],
+    "nz-linz:name":"East Bastion Reef",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602621990,
+    "wof:geomhash":"605b408e685f197f014afef71f81b711",
+    "wof:hierarchy":[],
+    "wof:id":1729340355,
+    "wof:lastmodified":1602624772,
+    "wof:name":"East Bastion Reef",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.852077,
+    -36.841364,
+    174.853547,
+    -36.839582
+],
+  "geometry": {"coordinates":[[[[174.852148,-36.841229],[174.85215099999999,-36.841364],[174.85207700000001,-36.84133],[174.85209800000001,-36.841278],[174.852148,-36.841229]]],[[[174.85354699999999,-36.839689],[174.85347999999999,-36.839718],[174.85350500000001,-36.839582],[174.853545,-36.839631],[174.85354699999999,-36.839689]]]],"type":"MultiPolygon"}
+}

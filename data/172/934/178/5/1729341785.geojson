@@ -1,0 +1,53 @@
+{
+  "id": 1729341785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3330.410718,
+    "geom:bbox":"167.684044,-46.777075,167.684842,-46.77641",
+    "geom:latitude":-46.776738,
+    "geom:longitude":167.684448,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.776737,
+    "lbl:longitude":167.68444,
+    "mps:latitude":-46.776737,
+    "mps:longitude":167.68444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "High Rock"
+    ],
+    "nz-linz:name":"High Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4367
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622611,
+    "wof:geomhash":"10705a67ef80cb094b7538e0e8601151",
+    "wof:hierarchy":[],
+    "wof:id":1729341785,
+    "wof:lastmodified":1602624793,
+    "wof:name":"High Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.684044,
+    -46.777075,
+    167.684842,
+    -46.77641
+],
+  "geometry": {"coordinates":[[[167.68456599999999,-46.777075],[167.684338,-46.777043],[167.68412499999999,-46.776855],[167.684044,-46.776649],[167.684089,-46.776493],[167.68426099999999,-46.77641],[167.68448900000001,-46.776418],[167.68483000000001,-46.776657],[167.684842,-46.776905],[167.68473499999999,-46.777014],[167.68456599999999,-46.777075]]],"type":"Polygon"}
+}

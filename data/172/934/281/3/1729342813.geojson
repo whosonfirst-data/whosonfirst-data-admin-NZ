@@ -1,0 +1,53 @@
+{
+  "id": 1729342813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":34642.371379,
+    "geom:bbox":"175.894683,-37.220407,175.897423,-37.218467",
+    "geom:latitude":-37.219431,
+    "geom:longitude":175.896169,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.219554,
+    "lbl:longitude":175.896058,
+    "mps:latitude":-37.219554,
+    "mps:longitude":175.896058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Whenuakura Island"
+    ],
+    "nz-linz:name":"Whenuakura Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5134
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623038,
+    "wof:geomhash":"33e0031d2e062c4941c35ecf80c37d67",
+    "wof:hierarchy":[],
+    "wof:id":1729342813,
+    "wof:lastmodified":1602624731,
+    "wof:name":"Whenuakura Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.894683,
+    -37.220407,
+    175.897423,
+    -37.218467
+],
+  "geometry": {"coordinates":[[[175.89732000000001,-37.218978],[175.89734899999999,-37.219075],[175.89742100000001,-37.219313],[175.897401,-37.219471],[175.897211,-37.219635],[175.89705599999999,-37.219934],[175.89686900000001,-37.22012],[175.89659,-37.220197],[175.89634599999999,-37.220407],[175.89613299999999,-37.220385],[175.896007,-37.220372],[175.89554799999999,-37.220229],[175.89548500000001,-37.220187],[175.89516800000001,-37.21997],[175.894812,-37.219598],[175.89469,-37.219399],[175.89468299999999,-37.219264],[175.894789,-37.219125],[175.89547999999999,-37.218855],[175.89589699999999,-37.218729],[175.89635699999999,-37.218734],[175.896434,-37.218735],[175.89696000000001,-37.218503],[175.897041,-37.218467],[175.897268,-37.218483],[175.897412,-37.218569],[175.897423,-37.218771],[175.89732000000001,-37.218978]]],"type":"Polygon"}
+}

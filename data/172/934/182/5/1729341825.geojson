@@ -1,0 +1,53 @@
+{
+  "id": 1729341825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5535.380422,
+    "geom:bbox":"167.25706,-44.883033,167.257978,-44.882026",
+    "geom:latitude":-44.882578,
+    "geom:longitude":167.257494,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.882619,
+    "lbl:longitude":167.257494,
+    "mps:latitude":-44.882619,
+    "mps:longitude":167.257494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Houseroof Rock"
+    ],
+    "nz-linz:name":"Houseroof Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4385
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622634,
+    "wof:geomhash":"7b6dc421d9dc8a8b7936400203ca2662",
+    "wof:hierarchy":[],
+    "wof:id":1729341825,
+    "wof:lastmodified":1602624793,
+    "wof:name":"Houseroof Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.25706,
+    -44.883033,
+    167.257978,
+    -44.882026
+],
+  "geometry": {"coordinates":[[[167.25745000000001,-44.882026],[167.257578,-44.882032],[167.25774699999999,-44.882243],[167.25797800000001,-44.882807],[167.25783699999999,-44.882947],[167.25729000000001,-44.883033],[167.25717,-44.88296],[167.25706,-44.882774],[167.25721300000001,-44.882194],[167.25745000000001,-44.882026]]],"type":"Polygon"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1729341649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9900.924754,
+    "geom:bbox":"167.708767,-47.163911,167.710174,-47.162186",
+    "geom:latitude":-47.162949,
+    "geom:longitude":167.709398,
+    "iso:country":"NZ",
+    "lbl:latitude":-47.162991,
+    "lbl:longitude":167.709329,
+    "mps:latitude":-47.162991,
+    "mps:longitude":167.709329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Burnt Island"
+    ],
+    "nz-linz:name":"Burnt Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4230
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622543,
+    "wof:geomhash":"9737aa0254ec67024c6864ba8c411a4f",
+    "wof:hierarchy":[],
+    "wof:id":1729341649,
+    "wof:lastmodified":1602624759,
+    "wof:name":"Burnt Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.708767,
+    -47.163911,
+    167.710174,
+    -47.162186
+],
+  "geometry": {"coordinates":[[[167.70927499999999,-47.163911],[167.709148,-47.163839],[167.70909399999999,-47.163701],[167.709113,-47.163477],[167.70899499999999,-47.163315],[167.709014,-47.163068],[167.70917399999999,-47.162736],[167.709112,-47.162688],[167.70876699999999,-47.162709],[167.70887300000001,-47.162386],[167.708978,-47.162322],[167.70914500000001,-47.162284],[167.71011100000001,-47.162186],[167.71017399999999,-47.162234],[167.7097,-47.162756],[167.70958200000001,-47.162999],[167.709585,-47.16336],[167.70977999999999,-47.163795],[167.70957300000001,-47.1639],[167.70927499999999,-47.163911]]],"type":"Polygon"}
+}

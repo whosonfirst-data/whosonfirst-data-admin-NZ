@@ -1,0 +1,53 @@
+{
+  "id": 1729340655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5794.200485,
+    "geom:bbox":"170.558641,-45.912054,170.559848,-45.911109",
+    "geom:latitude":-45.911637,
+    "geom:longitude":170.559244,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.911671,
+    "lbl:longitude":170.559233,
+    "mps:latitude":-45.911671,
+    "mps:longitude":170.559233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bird Island"
+    ],
+    "nz-linz:name":"Bird Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4182
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622114,
+    "wof:geomhash":"18384037d1d85d837eee3e55fa35e882",
+    "wof:hierarchy":[],
+    "wof:id":1729340655,
+    "wof:lastmodified":1602624732,
+    "wof:name":"Bird Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.558641,
+    -45.912054,
+    170.559848,
+    -45.911109
+],
+  "geometry": {"coordinates":[[[170.558832,-45.912001],[170.55864099999999,-45.911908],[170.55864299999999,-45.91184],[170.55898099999999,-45.911373],[170.559416,-45.911109],[170.55984799999999,-45.911477],[170.55971600000001,-45.911587],[170.55954299999999,-45.911922],[170.55934600000001,-45.912054],[170.559088,-45.91205],[170.558832,-45.912001]]],"type":"Polygon"}
+}

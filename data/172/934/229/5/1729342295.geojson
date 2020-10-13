@@ -1,0 +1,53 @@
+{
+  "id": 1729342295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2961.866979,
+    "geom:bbox":"174.507944,-38.889551,174.508546,-38.88883",
+    "geom:latitude":-38.889204,
+    "geom:longitude":174.508248,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.889211,
+    "lbl:longitude":174.508242,
+    "mps:latitude":-38.889211,
+    "mps:longitude":174.508242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Opourapa Island"
+    ],
+    "nz-linz:name":"Opourapa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4759
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622829,
+    "wof:geomhash":"56f7813c86d02fcd47c8062a9aef6a4d",
+    "wof:hierarchy":[],
+    "wof:id":1729342295,
+    "wof:lastmodified":1602624723,
+    "wof:name":"Opourapa Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.507944,
+    -38.889551,
+    174.508546,
+    -38.88883
+],
+  "geometry": {"coordinates":[[[174.508062,-38.88953],[174.507946,-38.889442],[174.50794400000001,-38.889329],[174.508084,-38.888989],[174.50819799999999,-38.888854],[174.508341,-38.88883],[174.508544,-38.888941],[174.508546,-38.889008],[174.50837899999999,-38.889551],[174.508062,-38.88953]]],"type":"Polygon"}
+}

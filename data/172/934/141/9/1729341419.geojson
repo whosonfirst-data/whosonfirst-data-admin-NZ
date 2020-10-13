@@ -1,0 +1,56 @@
+{
+  "id": 1729341419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10228.626224,
+    "geom:bbox":"174.346872,-35.789239,174.348432,-35.788233",
+    "geom:latitude":-35.788691,
+    "geom:longitude":174.347702,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.788777,
+    "lbl:longitude":174.347858,
+    "mps:latitude":-35.788777,
+    "mps:longitude":174.347858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rabbit Island"
+    ],
+    "name:mri_x_preferred":[
+        "Onerahi"
+    ],
+    "nz-linz:name":"Rabbit Island (Onerahi)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4859
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622436,
+    "wof:geomhash":"2452a96b009b2c095f7f00d165db0591",
+    "wof:hierarchy":[],
+    "wof:id":1729341419,
+    "wof:lastmodified":1602624787,
+    "wof:name":"Rabbit Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.346872,
+    -35.789239,
+    174.348432,
+    -35.788233
+],
+  "geometry": {"coordinates":[[[174.3477,-35.789239],[174.347386,-35.788884],[174.34702200000001,-35.788733],[174.34690900000001,-35.788622],[174.34687199999999,-35.788307],[174.346981,-35.788238],[174.34720200000001,-35.788233],[174.34737000000001,-35.788321],[174.34762000000001,-35.788361],[174.348117,-35.788329],[174.34837200000001,-35.788505],[174.348432,-35.788685],[174.34835699999999,-35.789001],[174.348195,-35.78914],[174.3477,-35.789239]]],"type":"Polygon"}
+}

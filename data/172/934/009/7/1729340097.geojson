@@ -1,0 +1,53 @@
+{
+  "id": 1729340097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":671.660319,
+    "geom:bbox":"175.888794,-37.072941,175.889134,-37.072646",
+    "geom:latitude":-37.072792,
+    "geom:longitude":175.888956,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.072792,
+    "lbl:longitude":175.888959,
+    "mps:latitude":-37.072792,
+    "mps:longitude":175.888959,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motuhaua Rock"
+    ],
+    "nz-linz:name":"Motuhaua Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4537
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621887,
+    "wof:geomhash":"ba211e08ff1af9f38d088e14070a7496",
+    "wof:hierarchy":[],
+    "wof:id":1729340097,
+    "wof:lastmodified":1602624735,
+    "wof:name":"Motuhaua Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.888794,
+    -37.072941,
+    175.889134,
+    -37.072646
+],
+  "geometry": {"coordinates":[[[175.88879399999999,-37.072767],[175.88892899999999,-37.072649],[175.88904199999999,-37.072646],[175.88913400000001,-37.072823],[175.888971,-37.072941],[175.88879900000001,-37.072879],[175.88879399999999,-37.072767]]],"type":"Polygon"}
+}

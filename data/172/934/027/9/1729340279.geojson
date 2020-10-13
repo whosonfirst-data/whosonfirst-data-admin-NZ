@@ -1,0 +1,53 @@
+{
+  "id": 1729340279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1394.913411,
+    "geom:bbox":"174.097167,-35.277819,174.097606,-35.277291",
+    "geom:latitude":-35.277577,
+    "geom:longitude":174.097394,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.277587,
+    "lbl:longitude":174.09739,
+    "mps:latitude":-35.277587,
+    "mps:longitude":174.09739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Taylor Island"
+    ],
+    "nz-linz:name":"Taylor Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4988
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621960,
+    "wof:geomhash":"cef4dea64e273af4fed22d8472cfd6c9",
+    "wof:hierarchy":[],
+    "wof:id":1729340279,
+    "wof:lastmodified":1602624766,
+    "wof:name":"Taylor Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.097167,
+    -35.277819,
+    174.097606,
+    -35.277291
+],
+  "geometry": {"coordinates":[[[174.09757400000001,-35.277819],[174.097308,-35.277743],[174.09716700000001,-35.277587],[174.09719100000001,-35.277474],[174.09737799999999,-35.277291],[174.09760600000001,-35.277602],[174.09757400000001,-35.277819]]],"type":"Polygon"}
+}

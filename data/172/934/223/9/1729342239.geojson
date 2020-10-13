@@ -1,0 +1,53 @@
+{
+  "id": 1729342239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":25.57104,
+    "geom:bbox":"173.771767,-40.864704,173.771849,-40.864637",
+    "geom:latitude":-40.864668,
+    "geom:longitude":173.771795,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.864668,
+    "lbl:longitude":173.771791,
+    "mps:latitude":-40.864668,
+    "mps:longitude":173.771791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "New Chums Rock"
+    ],
+    "nz-linz:name":"New Chums Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4718
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622806,
+    "wof:geomhash":"e7fc1a7fb5a385661d319dc848bd71ba",
+    "wof:hierarchy":[],
+    "wof:id":1729342239,
+    "wof:lastmodified":1602624766,
+    "wof:name":"New Chums Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.771767,
+    -40.864704,
+    173.771849,
+    -40.864637
+],
+  "geometry": {"coordinates":[[[173.77176700000001,-40.864637],[173.771849,-40.864662],[173.77176800000001,-40.864704],[173.77176700000001,-40.864637]]],"type":"Polygon"}
+}

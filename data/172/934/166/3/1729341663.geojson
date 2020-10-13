@@ -1,0 +1,53 @@
+{
+  "id": 1729341663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":30001.069894,
+    "geom:bbox":"175.88897,-36.870262,175.890625,-36.867707",
+    "geom:latitude":-36.868846,
+    "geom:longitude":175.889688,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.868847,
+    "lbl:longitude":175.889704,
+    "mps:latitude":-36.868847,
+    "mps:longitude":175.889704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Castle Island"
+    ],
+    "nz-linz:name":"Castle Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4237
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622550,
+    "wof:geomhash":"405a64b3c4c0948888a802e2c602ce49",
+    "wof:hierarchy":[],
+    "wof:id":1729341663,
+    "wof:lastmodified":1602624718,
+    "wof:name":"Castle Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.88897,
+    -36.870262,
+    175.890625,
+    -36.867707
+],
+  "geometry": {"coordinates":[[[175.88954899999999,-36.870262],[175.88932299999999,-36.870224],[175.88923600000001,-36.870158],[175.888972,-36.868959],[175.88897,-36.867955],[175.88916,-36.867793],[175.889353,-36.867719],[175.889802,-36.867707],[175.89020400000001,-36.867921],[175.890379,-36.868085],[175.89057600000001,-36.868417],[175.890625,-36.868574],[175.89055500000001,-36.868881],[175.889926,-36.869901],[175.889714,-36.870167],[175.88954899999999,-36.870262]]],"type":"Polygon"}
+}

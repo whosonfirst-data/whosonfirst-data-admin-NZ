@@ -1,0 +1,53 @@
+{
+  "id": 1729341989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12216.97257,
+    "geom:bbox":"174.73204,-35.47033,174.734224,-35.469482",
+    "geom:latitude":-35.469915,
+    "geom:longitude":174.733025,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.469896,
+    "lbl:longitude":174.732937,
+    "mps:latitude":-35.469896,
+    "mps:longitude":174.732937,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motu Kapiti Island"
+    ],
+    "nz-linz:name":"Motu Kapiti Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4520
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622704,
+    "wof:geomhash":"13630f21ed0a6146ca65866c7b696f3e",
+    "wof:hierarchy":[],
+    "wof:id":1729341989,
+    "wof:lastmodified":1602624755,
+    "wof:name":"Motu Kapiti Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.73204,
+    -35.47033,
+    174.734224,
+    -35.469482
+],
+  "geometry": {"coordinates":[[[174.73204000000001,-35.469736],[174.73228399999999,-35.469597],[174.732461,-35.46962],[174.73272700000001,-35.469547],[174.73280500000001,-35.469497],[174.73307500000001,-35.469491],[174.73317700000001,-35.469482],[174.73339200000001,-35.469557],[174.73368199999999,-35.469752],[174.733856,-35.469783],[174.73406600000001,-35.469863],[174.73422400000001,-35.469965],[174.734117,-35.470102],[174.73365200000001,-35.470201],[174.73315600000001,-35.470211],[174.732857,-35.47033],[174.732496,-35.470291],[174.732302,-35.470228],[174.73227900000001,-35.470204],[174.73216300000001,-35.470162],[174.73211900000001,-35.469924],[174.73211699999999,-35.469831],[174.73204000000001,-35.469736]]],"type":"Polygon"}
+}

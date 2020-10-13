@@ -1,0 +1,53 @@
+{
+  "id": 1729341481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1748.890472,
+    "geom:bbox":"173.150365,-34.821709,173.150831,-34.821212",
+    "geom:latitude":-34.821441,
+    "geom:longitude":173.150585,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.821442,
+    "lbl:longitude":173.150581,
+    "mps:latitude":-34.821442,
+    "mps:longitude":173.150581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tokoroa Island"
+    ],
+    "nz-linz:name":"Tokoroa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5065
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622462,
+    "wof:geomhash":"ea43618ef0ad91ba003532324d304436",
+    "wof:hierarchy":[],
+    "wof:id":1729341481,
+    "wof:lastmodified":1602624786,
+    "wof:name":"Tokoroa Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.150365,
+    -34.821709,
+    173.150831,
+    -34.821212
+],
+  "geometry": {"coordinates":[[[173.15056000000001,-34.821709],[173.15042299999999,-34.82162],[173.15036699999999,-34.821485],[173.15036499999999,-34.821282],[173.15052700000001,-34.821213],[173.15063599999999,-34.821212],[173.15082899999999,-34.821346],[173.15083100000001,-34.821481],[173.150724,-34.821617],[173.15056000000001,-34.821709]]],"type":"Polygon"}
+}

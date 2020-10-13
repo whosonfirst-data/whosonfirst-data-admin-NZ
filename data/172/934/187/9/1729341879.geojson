@@ -1,0 +1,53 @@
+{
+  "id": 1729341879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1574.879648,
+    "geom:bbox":"167.150985,-45.140192,167.151729,-45.139846",
+    "geom:latitude":-45.139995,
+    "geom:longitude":167.151398,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.14,
+    "lbl:longitude":167.151406,
+    "mps:latitude":-45.14,
+    "mps:longitude":167.151406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lloyd Island"
+    ],
+    "nz-linz:name":"Lloyd Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4462
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622659,
+    "wof:geomhash":"1154bc83e1524d23e5e6fc7992b73a08",
+    "wof:hierarchy":[],
+    "wof:id":1729341879,
+    "wof:lastmodified":1602624740,
+    "wof:name":"Lloyd Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.150985,
+    -45.140192,
+    167.151729,
+    -45.139846
+],
+  "geometry": {"coordinates":[[[167.15099499999999,-45.139895],[167.15114199999999,-45.139846],[167.15165200000001,-45.13986],[167.15172899999999,-45.140045],[167.15170000000001,-45.140168],[167.151523,-45.140192],[167.15098499999999,-45.139984],[167.15099499999999,-45.139895]]],"type":"Polygon"}
+}
