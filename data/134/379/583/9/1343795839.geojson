@@ -26,22 +26,23 @@
     "lbl:bbox":"169.84769,-44.55359,169.88769,-44.51359",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079381
+        102079381,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2193375
     },
     "wof:country":"NZ",
-    "wof:geomhash":"baa7286c71df7ee4c617cde4369b9a86",
+    "wof:geomhash":"776509b535b2ec409d376ff5c3ee7325",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1343795839,
-    "wof:lastmodified":1566672194,
+    "wof:lastmodified":1602626108,
     "wof:name":"Berwen",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",
@@ -62,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    169.86768999999995,
+    169.86769,
     -44.53359,
-    169.86768999999995,
+    169.86769,
     -44.53359
 ],
-  "geometry": {"coordinates":[169.86768999999995,-44.53359],"type":"Point"}
+  "geometry": {"coordinates":[169.86769000000001,-44.53359],"type":"Point"}
 }

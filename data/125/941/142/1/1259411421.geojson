@@ -27,8 +27,9 @@
     "lbl:bbox":"171.81333,-44.03667,171.85333,-43.99667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0641\u0631\u0633\u0627\u064a\u062f"
@@ -112,15 +113,15 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079371
+        102079371,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2183409
     },
     "wof:country":"NZ",
-    "wof:geomhash":"75ae2a3094cdfb1834d69718df7e2d20",
+    "wof:geomhash":"0f8e3e284717d09ebc16bb680f9403f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1259411421,
-    "wof:lastmodified":1566672672,
+    "wof:lastmodified":1602626213,
     "wof:name":"Riverside",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",
@@ -141,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    171.83333000000005,
+    171.83333,
     -44.01667,
-    171.83333000000005,
+    171.83333,
     -44.01667
 ],
-  "geometry": {"coordinates":[171.83333000000005,-44.01667],"type":"Point"}
+  "geometry": {"coordinates":[171.83332999999999,-44.01667],"type":"Point"}
 }

@@ -27,22 +27,23 @@
     "lbl:bbox":"173.06333,-42.90333,173.10333,-42.86333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079365
+        102079365,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2191282
     },
     "wof:country":"NZ",
-    "wof:geomhash":"950de35d628430e9b969ad9e6bc8eeaa",
+    "wof:geomhash":"a169f188b9ba17558db0911fd69916b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1327369987,
-    "wof:lastmodified":1566672074,
+    "wof:lastmodified":1602626101,
     "wof:name":"Ethelton",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.08333000000005,
+    173.08333,
     -42.88333,
-    173.08333000000005,
+    173.08333,
     -42.88333
 ],
-  "geometry": {"coordinates":[173.08333000000005,-42.88333],"type":"Point"}
+  "geometry": {"coordinates":[173.08332999999999,-42.88333],"type":"Point"}
 }

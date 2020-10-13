@@ -5,18 +5,19 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":5497.304167,
-    "geom:bbox":"174.297360341,-35.669728583,174.298411362,-35.668601016",
+    "geom:area_square_m":5494.505236,
+    "geom:bbox":"174.29736,-35.669729,174.298411,-35.668601",
     "geom:latitude":-35.669175,
-    "geom:longitude":174.29789,
+    "geom:longitude":174.297889,
     "gn:population":50900,
     "iso:country":"NZ",
     "lbl:latitude":-35.669154,
     "lbl:longitude":174.297876,
     "mps:latitude":-35.669154,
     "mps:longitude":174.297876,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
     "name:eng_x_preferred":[
         "Whangarei"
     ],
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079257
+        102079257,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
         "wk:page":"Whangarei"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c0f88eab88446faa2d25fa41c2579dc3",
+    "wof:geomhash":"3416ab23732c9cba60314abe77eb63de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":101914887,
-    "wof:lastmodified":1527688580,
+    "wof:lastmodified":1602626152,
     "wof:name":"Whangarei",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",
@@ -80,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.29736034096913,
-    -35.66972858297211,
-    174.29841136187042,
-    -35.66860101604833
+    174.29736,
+    -35.669729,
+    174.298411,
+    -35.668601
 ],
-  "geometry": {"coordinates":[[[174.29756458715488,-35.66916420533943],[174.29736034096913,-35.66888201598422],[174.29783649362921,-35.66860101604833],[174.29841136187042,-35.66954540618728],[174.29797308379304,-35.66972858297211],[174.29756458715488,-35.66916420533943]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[174.29756499999999,-35.669164],[174.29736,-35.668882],[174.29783599999999,-35.668601],[174.29841099999999,-35.669545],[174.29797300000001,-35.669729],[174.29756499999999,-35.669164]]],"type":"Polygon"}
 }

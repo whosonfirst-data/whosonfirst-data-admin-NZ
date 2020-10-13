@@ -5,17 +5,18 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4690.119675,
-    "geom:bbox":"173.271040455,-35.1164736282,173.272190001,-35.115764185",
+    "geom:area_square_m":4695.370794,
+    "geom:bbox":"173.27104,-35.116474,173.27219,-35.115764",
     "geom:latitude":-35.116119,
-    "geom:longitude":173.271617,
+    "geom:longitude":173.271616,
     "iso:country":"NZ",
     "lbl:latitude":-35.116131,
     "lbl:longitude":173.271579,
     "mps:latitude":-35.116131,
     "mps:longitude":173.271579,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
     "name:eng_x_preferred":[
         "Kaitaia"
     ],
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +50,7 @@
         "wk:page":"Kaitaia"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ae13f9a183c4e6438e4035d683b95638",
+    "wof:geomhash":"0e70ff843fe64e607bf37402bd8f8c5f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":101918849,
-    "wof:lastmodified":1527715676,
+    "wof:lastmodified":1602626178,
     "wof:name":"Kaitaia",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",
@@ -72,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.27104045460743,
-    -35.11647362820322,
-    173.2721900011309,
-    -35.11576418498548
+    173.27104,
+    -35.116474,
+    173.27219,
+    -35.115764
 ],
-  "geometry": {"coordinates":[[[173.27130006843592,-35.11647362820322],[173.27104045460743,-35.11603229957142],[173.27193584919149,-35.11576418498548],[173.27219000113089,-35.11620824023569],[173.27130006843592,-35.11647362820322]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[173.2713,-35.116474],[173.27104,-35.116032],[173.27193600000001,-35.115764],[173.27218999999999,-35.116208],[173.2713,-35.116474]]],"type":"Polygon"}
 }

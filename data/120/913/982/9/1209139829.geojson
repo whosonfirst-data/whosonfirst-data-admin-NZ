@@ -27,8 +27,9 @@
     "lbl:bbox":"168.89667,-43.98667,168.93667,-43.94667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         "gn:id":2189698
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1e43d4b3dc9e229e3cca07def62263ec",
+    "wof:geomhash":"586ab80ab502d3b3908818b748de5c67",
     "wof:hierarchy":[
         {
             "country_id":85633345,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1209139829,
-    "wof:lastmodified":1566672343,
+    "wof:lastmodified":1602626119,
     "wof:name":"Huhuka",
     "wof:parent_id":85633345,
     "wof:placetype":"locality",
@@ -57,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    168.91666999999995,
+    168.91667,
     -43.96667,
-    168.91666999999995,
+    168.91667,
     -43.96667
 ],
-  "geometry": {"coordinates":[168.91666999999995,-43.96667],"type":"Point"}
+  "geometry": {"coordinates":[168.91667000000001,-43.96667],"type":"Point"}
 }

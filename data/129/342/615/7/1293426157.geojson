@@ -27,22 +27,23 @@
     "lbl:bbox":"175.06333,-37.60333,175.10333,-37.56333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079265
+        102079265,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2188001
     },
     "wof:country":"NZ",
-    "wof:geomhash":"105a8f9ea26044e654661e2b500c0e1f",
+    "wof:geomhash":"3f337d08a5d06f5f62868b8674a9cd55",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1293426157,
-    "wof:lastmodified":1566672320,
+    "wof:lastmodified":1602626115,
     "wof:name":"Mahuta",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.08333000000005,
+    175.08333,
     -37.58333,
-    175.08333000000005,
+    175.08333,
     -37.58333
 ],
-  "geometry": {"coordinates":[175.08333000000005,-37.58333],"type":"Point"}
+  "geometry": {"coordinates":[175.08332999999999,-37.58333],"type":"Point"}
 }

@@ -27,22 +27,23 @@
     "lbl:bbox":"169.81333,-46.13667,169.85333,-46.09667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079389
+        102079389,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2194133
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f7dac92d4e884531f0da67199a948bba",
+    "wof:geomhash":"45dbd0077137bcbf089a46c380b68bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1310637765,
-    "wof:lastmodified":1566672369,
+    "wof:lastmodified":1602626135,
     "wof:name":"Adams Flat",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    169.83333000000005,
+    169.83333,
     -46.11667,
-    169.83333000000005,
+    169.83333,
     -46.11667
 ],
-  "geometry": {"coordinates":[169.83333000000005,-46.11667],"type":"Point"}
+  "geometry": {"coordinates":[169.83332999999999,-46.11667],"type":"Point"}
 }

@@ -27,8 +27,9 @@
     "lbl:bbox":"177.39667,-38.03667,177.43667,-37.99667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         "gn:id":2188157
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9cc9d0e6a44dee327d483eb9df4a0875",
+    "wof:geomhash":"5a66d2a2ec85897e5a9310b03c8a2ee5",
     "wof:hierarchy":[
         {
             "country_id":85633345,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1209549139,
-    "wof:lastmodified":1566672336,
+    "wof:lastmodified":1602626117,
     "wof:name":"Lower Waiawa",
     "wof:parent_id":85633345,
     "wof:placetype":"locality",
@@ -57,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    177.41666999999995,
+    177.41667,
     -38.01667,
-    177.41666999999995,
+    177.41667,
     -38.01667
 ],
-  "geometry": {"coordinates":[177.41666999999995,-38.01667],"type":"Point"}
+  "geometry": {"coordinates":[177.41667000000001,-38.01667],"type":"Point"}
 }

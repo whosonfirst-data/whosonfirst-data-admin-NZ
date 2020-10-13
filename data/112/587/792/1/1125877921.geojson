@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"175.7564995,-37.555975,175.7564995,-37.555975",
+    "geom:bbox":"175.756499,-37.555975,175.756499,-37.555975",
     "geom:latitude":-37.555975,
     "geom:longitude":175.756499,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":175.756499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079267
+        102079267,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497294636,
-    "wof:geomhash":"b9e14620fafd069d4f4b1b28020ee9ec",
+    "wof:geomhash":"6b94117d05158aafa4050854c8fa8ac9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1125877921,
-    "wof:lastmodified":1566672586,
+    "wof:lastmodified":1602626201,
     "wof:name":"Waiorongomai",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",
@@ -77,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.7564995,
+    175.756499,
     -37.555975,
-    175.7564995,
+    175.756499,
     -37.555975
 ],
-  "geometry": {"coordinates":[175.75649949999999,-37.555975],"type":"Point"}
+  "geometry": {"coordinates":[175.75649899999999,-37.555975],"type":"Point"}
 }

@@ -27,22 +27,23 @@
     "lbl:bbox":"175.14667,-39.65333,175.18667,-39.61333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687251,
-        102079299
+        102079299,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2187229
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2e58aa389b6f18d8daf943172e1e7537",
+    "wof:geomhash":"c8b5369bfbea660679268009f8f5ea5f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1310536409,
-    "wof:lastmodified":1566672369,
+    "wof:lastmodified":1602626135,
     "wof:name":"Matahiwi Landing",
     "wof:parent_id":102079299,
     "wof:placetype":"locality",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.16666999999995,
+    175.16667,
     -39.63333,
-    175.16666999999995,
+    175.16667,
     -39.63333
 ],
-  "geometry": {"coordinates":[175.16666999999995,-39.63333],"type":"Point"}
+  "geometry": {"coordinates":[175.16667000000001,-39.63333],"type":"Point"}
 }

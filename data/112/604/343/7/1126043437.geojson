@@ -18,8 +18,9 @@
     "lbl:longitude":172.25,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687219,
-        102079349
+        102079349,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1126043437,
-    "wof:lastmodified":1566672566,
+    "wof:lastmodified":1602626197,
     "wof:name":"Fern Flat",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

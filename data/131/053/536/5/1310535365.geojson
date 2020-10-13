@@ -27,22 +27,23 @@
     "lbl:bbox":"175.601,-39.8894,175.641,-39.8494",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687251,
-        102079301
+        102079301,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2184325
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a20232205a7f69068a35bc125bd7370e",
+    "wof:geomhash":"170f6076f2cbe80f05385efe720fb9a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1310535365,
-    "wof:lastmodified":1566672368,
+    "wof:lastmodified":1602626135,
     "wof:name":"Poukiore",
     "wof:parent_id":102079301,
     "wof:placetype":"locality",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.62099999999995,
+    175.621,
     -39.8694,
-    175.62099999999995,
+    175.621,
     -39.8694
 ],
-  "geometry": {"coordinates":[175.62099999999995,-39.8694],"type":"Point"}
+  "geometry": {"coordinates":[175.62100000000001,-39.8694],"type":"Point"}
 }

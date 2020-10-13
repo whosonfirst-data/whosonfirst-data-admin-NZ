@@ -26,22 +26,23 @@
     "lbl:bbox":"175.67452,-40.58794,175.71452,-40.54794",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687251,
-        102079309
+        102079309,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2189677
     },
     "wof:country":"NZ",
-    "wof:geomhash":"76dcad11497506c4122fe17517d10b07",
+    "wof:geomhash":"63ce7e90a73dfe787cf02e784c366fed",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1293329229,
-    "wof:lastmodified":1566672317,
+    "wof:lastmodified":1602626114,
     "wof:name":"Hukanui",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",
@@ -62,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.69451999999995,
+    175.69452,
     -40.56794,
-    175.69451999999995,
+    175.69452,
     -40.56794
 ],
-  "geometry": {"coordinates":[175.69451999999995,-40.56794],"type":"Point"}
+  "geometry": {"coordinates":[175.69452000000001,-40.56794],"type":"Point"}
 }

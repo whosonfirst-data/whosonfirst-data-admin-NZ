@@ -27,8 +27,9 @@
     "lbl:bbox":"173.06333,-41.40333,173.10333,-41.36333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Spring Grove"
@@ -64,15 +65,15 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687219,
-        102079349
+        102079349,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2182437
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ffa923e4d61675986e44ae0212a92a54",
+    "wof:geomhash":"23a21a6ee0664dc46ad9e4f119b4c3cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1276588721,
-    "wof:lastmodified":1566672327,
+    "wof:lastmodified":1602626116,
     "wof:name":"Spring Grove",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",
@@ -93,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.08333000000005,
+    173.08333,
     -41.38333,
-    173.08333000000005,
+    173.08333,
     -41.38333
 ],
-  "geometry": {"coordinates":[173.08333000000005,-41.38333],"type":"Point"}
+  "geometry": {"coordinates":[173.08332999999999,-41.38333],"type":"Point"}
 }

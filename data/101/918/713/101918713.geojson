@@ -5,8 +5,8 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4325.145691,
-    "geom:bbox":"175.393894371,-40.083992132,175.394663933,-40.0831089274",
+    "geom:area_square_m":4324.126356,
+    "geom:bbox":"175.393894,-40.083992,175.394664,-40.083109",
     "geom:latitude":-40.083555,
     "geom:longitude":175.394278,
     "iso:country":"NZ",
@@ -14,8 +14,9 @@
     "lbl:longitude":175.394269,
     "mps:latitude":-40.083575,
     "mps:longitude":175.394269,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
     "name:deu_x_preferred":[
         "Marton"
     ],
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687251,
-        102079301
+        102079301,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +60,7 @@
         "wk:page":"Marton, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"81b3385f34442a640fc4f8122ad43147",
+    "wof:geomhash":"e1deb19f92d0d8cd308b19e0541a33c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":101918713,
-    "wof:lastmodified":1527715672,
+    "wof:lastmodified":1602626175,
     "wof:name":"Marton",
     "wof:parent_id":102079301,
     "wof:placetype":"locality",
@@ -82,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.39389437148225,
-    -40.08399213202126,
-    175.39466393345026,
-    -40.08310892744431
+    175.393894,
+    -40.083992,
+    175.394664,
+    -40.083109
 ],
-  "geometry": {"coordinates":[[[175.39411003288313,-40.08310892744431],[175.39466393345026,-40.08321450464744],[175.3944474498569,-40.08399213202126],[175.39389437148225,-40.08390996413529],[175.39411003288313,-40.08310892744431]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[175.39411000000001,-40.083109],[175.39466400000001,-40.083215],[175.39444700000001,-40.083992],[175.39389399999999,-40.08391],[175.39411000000001,-40.083109]]],"type":"Polygon"}
 }

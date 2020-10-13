@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"172.7256415,-43.639676,172.7256415,-43.639676",
+    "geom:bbox":"172.725641,-43.639676,172.725641,-43.639676",
     "geom:latitude":-43.639676,
     "geom:longitude":172.725641,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":172.725641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -52,8 +53,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079401
+        102079401,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +63,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497294069,
-    "wof:geomhash":"e9785dcbb8f518b1c8414c2df2a409be",
+    "wof:geomhash":"d09d47c7e4af603d1c16bf32a6094005",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1125866559,
-    "wof:lastmodified":1566672572,
+    "wof:lastmodified":1602626198,
     "wof:name":"Church Bay",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",
@@ -83,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    172.7256415,
+    172.725641,
     -43.639676,
-    172.7256415,
+    172.725641,
     -43.639676
 ],
-  "geometry": {"coordinates":[172.72564149999999,-43.639676],"type":"Point"}
+  "geometry": {"coordinates":[172.725641,-43.639676],"type":"Point"}
 }

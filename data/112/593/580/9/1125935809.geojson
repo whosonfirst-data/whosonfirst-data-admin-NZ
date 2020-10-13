@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"169.266357,-44.9674295,169.266357,-44.9674295",
+    "geom:bbox":"169.266357,-44.96743,169.266357,-44.96743",
     "geom:latitude":-44.96743,
     "geom:longitude":169.266357,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":169.266357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079383
+        102079383,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497296965,
-    "wof:geomhash":"b5f1f74fc593538478354be2a2db39be",
+    "wof:geomhash":"2b883dfab3fa89ba84186e57daf48d22",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1125935809,
-    "wof:lastmodified":1566672543,
+    "wof:lastmodified":1602626193,
     "wof:name":"Pisa Moorings",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",
@@ -78,9 +79,9 @@
 },
   "bbox": [
     169.266357,
-    -44.9674295,
+    -44.96743,
     169.266357,
-    -44.9674295
+    -44.96743
 ],
-  "geometry": {"coordinates":[169.266357,-44.9674295],"type":"Point"}
+  "geometry": {"coordinates":[169.266357,-44.96743],"type":"Point"}
 }

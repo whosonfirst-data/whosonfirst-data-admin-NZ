@@ -27,22 +27,23 @@
     "lbl:bbox":"174.89667,-37.98667,174.93667,-37.94667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079265
+        102079265,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2186725
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3f4a3dcd76122a742ef68941f9c0d1d9",
+    "wof:geomhash":"441003f9515268729be22f85b0783fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1225880441,
-    "wof:lastmodified":1566672687,
+    "wof:lastmodified":1602626215,
     "wof:name":"Moerangi",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.91666999999995,
+    174.91667,
     -37.96667,
-    174.91666999999995,
+    174.91667,
     -37.96667
 ],
-  "geometry": {"coordinates":[174.91666999999995,-37.96667],"type":"Point"}
+  "geometry": {"coordinates":[174.91667000000001,-37.96667],"type":"Point"}
 }

@@ -27,8 +27,9 @@
     "lbl:bbox":"174.64667,-37.07,174.68667,-37.03",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +42,7 @@
         "gn:id":2182001
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fb936ccebf97317ccb3c7f4fb70f9083",
+    "wof:geomhash":"f07919ffe3105c02169f46fa8916fb49",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1225974961,
-    "wof:lastmodified":1566672689,
+    "wof:lastmodified":1602626216,
     "wof:name":"Taitimu",
     "wof:parent_id":85687243,
     "wof:placetype":"locality",
@@ -61,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.66666999999995,
+    174.66667,
     -37.05,
-    174.66666999999995,
+    174.66667,
     -37.05
 ],
-  "geometry": {"coordinates":[174.66666999999995,-37.05],"type":"Point"}
+  "geometry": {"coordinates":[174.66667000000001,-37.05],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":7477.844555,
-    "geom:bbox":"172.32473478,-41.7996002342,172.325279592,-41.7980535178",
+    "geom:area_square_m":7474.217743,
+    "geom:bbox":"172.324735,-41.7996,172.32528,-41.798054",
     "geom:latitude":-41.798826,
     "geom:longitude":172.325009,
     "gn:population":624,
@@ -15,8 +15,9 @@
     "lbl:longitude":172.325018,
     "mps:latitude":-41.798836,
     "mps:longitude":172.325018,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
     "name:eng_x_preferred":[
         "Murchison"
     ],
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687219,
-        102079349
+        102079349,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         "wk:page":"Murchison, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"78173e02ccc0133270e50578e8cf0191",
+    "wof:geomhash":"27f812d29aff33b59aa4a9ec5ce3bee8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":101918623,
-    "wof:lastmodified":1527715676,
+    "wof:lastmodified":1602626177,
     "wof:name":"Murchison",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",
@@ -75,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    172.3247347798678,
-    -41.79960023424049,
-    172.3252795921226,
-    -41.79805351778047
+    172.324735,
+    -41.7996,
+    172.32528,
+    -41.798054
 ],
-  "geometry": {"coordinates":[[[172.3252795921226,-41.79805716042691],[172.32526427841796,-41.79960023424049],[172.32473477986781,-41.79958769899095],[172.32474377112754,-41.79883078585644],[172.32475658877794,-41.79805351778047],[172.3252795921226,-41.79805716042691]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[172.32527999999999,-41.798057],[172.325264,-41.7996],[172.324735,-41.799588],[172.32474400000001,-41.798831],[172.32475700000001,-41.798054],[172.32527999999999,-41.798057]]],"type":"Polygon"}
 }

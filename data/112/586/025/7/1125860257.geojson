@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"175.2257475,-40.8468,175.2257475,-40.8468",
+    "geom:bbox":"175.225748,-40.8468,175.225748,-40.8468",
     "geom:latitude":-40.8468,
     "geom:longitude":175.225748,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":175.225748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687233,
-        102079315
+        102079315,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497293798,
-    "wof:geomhash":"3733f289de514e674343efb2d654c6ee",
+    "wof:geomhash":"0dc62ab56750c83400c93654e96c530b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1125860257,
-    "wof:lastmodified":1566672569,
+    "wof:lastmodified":1602626198,
     "wof:name":"Otaki Forks",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",
@@ -77,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.2257475,
+    175.225748,
     -40.8468,
-    175.2257475,
+    175.225748,
     -40.8468
 ],
-  "geometry": {"coordinates":[175.22574750000001,-40.8468],"type":"Point"}
+  "geometry": {"coordinates":[175.22574800000001,-40.8468],"type":"Point"}
 }

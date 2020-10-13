@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-169.913625428,-19.0659876723,-169.913625428,-19.0659876723",
+    "geom:bbox":"-169.913625,-19.065988,-169.913625,-19.065988",
     "geom:latitude":-19.065988,
     "geom:longitude":-169.913625,
     "iso:country":"NZ",
@@ -15,8 +15,9 @@
     "lbl:longitude":-169.913625,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Alofi"
@@ -343,10 +344,10 @@
     "reversegeo:longitude":-169.913625,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        85632493,
-        85681315,
         102191583,
-        136253053
+        85632493,
+        136253053,
+        85681315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -354,7 +355,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1499131081,
-    "wof:geomhash":"c6efa6730555c9b477bfd7eb26de2a2f",
+    "wof:geomhash":"fc259243860750e92a27109d7606a216",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -366,7 +367,7 @@
         }
     ],
     "wof:id":1141909453,
-    "wof:lastmodified":1566672694,
+    "wof:lastmodified":1602626217,
     "wof:name":"Alofi",
     "wof:parent_id":85681315,
     "wof:placetype":"locality",
@@ -376,10 +377,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -169.91362542802094,
-    -19.06598767233656,
-    -169.91362542802094,
-    -19.06598767233656
+    -169.913625,
+    -19.065988,
+    -169.913625,
+    -19.065988
 ],
-  "geometry": {"coordinates":[-169.91362542802094,-19.06598767233656],"type":"Point"}
+  "geometry": {"coordinates":[-169.913625,-19.065988],"type":"Point"}
 }

@@ -27,8 +27,9 @@
     "lbl:bbox":"173.89667,-41.30333,173.93667,-41.26333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grove"
@@ -90,7 +91,7 @@
         "gn:id":2190424
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4adb34181273dddc21fc0193fef1207c",
+    "wof:geomhash":"c2350bae781a742c4730d5b576089dc9",
     "wof:hierarchy":[
         {
             "country_id":85633345,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1209041571,
-    "wof:lastmodified":1566672346,
+    "wof:lastmodified":1602626119,
     "wof:name":"Grove",
     "wof:parent_id":85633345,
     "wof:placetype":"locality",
@@ -108,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.91666999999995,
+    173.91667,
     -41.28333,
-    173.91666999999995,
+    173.91667,
     -41.28333
 ],
-  "geometry": {"coordinates":[173.91666999999995,-41.28333],"type":"Point"}
+  "geometry": {"coordinates":[173.91667000000001,-41.28333],"type":"Point"}
 }

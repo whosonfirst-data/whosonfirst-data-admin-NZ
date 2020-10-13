@@ -27,8 +27,9 @@
     "lbl:bbox":"171.06333,-42.68667,171.10333,-42.64667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Stafford"
@@ -151,15 +152,15 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687165,
-        102079363
+        102079363,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2182412
     },
     "wof:country":"NZ",
-    "wof:geomhash":"546b196b4616172597deb7c6d1d15159",
+    "wof:geomhash":"ea61f228daf91426758f1dd174eb5c9c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1277013355,
-    "wof:lastmodified":1566672324,
+    "wof:lastmodified":1602626115,
     "wof:name":"Stafford",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",
@@ -180,10 +181,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    171.08333000000005,
+    171.08333,
     -42.66667,
-    171.08333000000005,
+    171.08333,
     -42.66667
 ],
-  "geometry": {"coordinates":[171.08333000000005,-42.66667],"type":"Point"}
+  "geometry": {"coordinates":[171.08332999999999,-42.66667],"type":"Point"}
 }

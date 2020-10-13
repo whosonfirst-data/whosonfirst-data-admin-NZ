@@ -27,22 +27,23 @@
     "lbl:bbox":"176.92657,-39.62384,176.96657,-39.58384",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687189,
-        102079329
+        102079329,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2206817
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d9739839e9ad6d816eeda5c0290401f4",
+    "wof:geomhash":"6dbc34d312a320f954b7d62727e69d75",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1327169273,
-    "wof:lastmodified":1566672085,
+    "wof:lastmodified":1602626103,
     "wof:name":"Waipureko",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",
@@ -64,9 +65,9 @@
 },
   "bbox": [
     176.94657,
-    -39.60384000000001,
+    -39.60384,
     176.94657,
-    -39.60384000000001
+    -39.60384
 ],
-  "geometry": {"coordinates":[176.94657000000001,-39.60384000000001],"type":"Point"}
+  "geometry": {"coordinates":[176.94657000000001,-39.60384],"type":"Point"}
 }

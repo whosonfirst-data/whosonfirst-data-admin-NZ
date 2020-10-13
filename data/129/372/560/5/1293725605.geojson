@@ -27,22 +27,23 @@
     "lbl:bbox":"174.14667,-39.58667,174.18667,-39.54667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687195,
-        102079295
+        102079295,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2189554
     },
     "wof:country":"NZ",
-    "wof:geomhash":"64d6c943dccbaf9e9d23dced3f2a09db",
+    "wof:geomhash":"18b25c05e84f4446670eff693f99ed49",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1293725605,
-    "wof:lastmodified":1566672322,
+    "wof:lastmodified":1602626115,
     "wof:name":"Inaha",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.16666999999995,
+    174.16667,
     -39.56667,
-    174.16666999999995,
+    174.16667,
     -39.56667
 ],
-  "geometry": {"coordinates":[174.16666999999995,-39.56667],"type":"Point"}
+  "geometry": {"coordinates":[174.16667000000001,-39.56667],"type":"Point"}
 }

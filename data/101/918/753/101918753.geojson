@@ -5,17 +5,18 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":18427.457556,
-    "geom:bbox":"175.324971641,-38.001399276,175.326769759,-38.0001918562",
+    "geom:area_square_m":18420.802351,
+    "geom:bbox":"175.324972,-38.001399,175.32677,-38.000192",
     "geom:latitude":-38.000739,
-    "geom:longitude":175.325824,
+    "geom:longitude":175.325825,
     "iso:country":"NZ",
     "lbl:latitude":-38.000736,
     "lbl:longitude":175.325827,
     "mps:latitude":-38.000736,
     "mps:longitude":175.325827,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
     "name:eng_x_preferred":[
         "Te Awamutu"
     ],
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079273
+        102079273,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +50,7 @@
         "wk:page":"Te Awamutu"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"00dae24cdcacf08127b87c5b23f64d1c",
+    "wof:geomhash":"5e93ff7fab397d3ed0629c94d84aa786",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":101918753,
-    "wof:lastmodified":1527715668,
+    "wof:lastmodified":1602626172,
     "wof:name":"Te Awamutu",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",
@@ -72,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.3249716411627,
-    -38.00139927596025,
-    175.32676975883942,
-    -38.00019185620677
+    175.324972,
+    -38.001399,
+    175.32677,
+    -38.000192
 ],
-  "geometry": {"coordinates":[[[175.3249716411627,-38.00020870853911],[175.32676975883942,-38.00019185620677],[175.32666930515339,-38.00120893822895],[175.3258306479986,-38.0012697379506],[175.32498061366684,-38.00139927596025],[175.3249716411627,-38.00020870853911]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[175.324972,-38.000209],[175.32677000000001,-38.000192],[175.32666900000001,-38.001209],[175.32583099999999,-38.00127],[175.32498100000001,-38.001399],[175.324972,-38.000209]]],"type":"Polygon"}
 }

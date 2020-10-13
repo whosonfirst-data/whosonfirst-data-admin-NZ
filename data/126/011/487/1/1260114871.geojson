@@ -27,8 +27,9 @@
     "lbl:bbox":"173.39667,-35.17,173.43667,-35.13",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Victoria Valley"
@@ -49,15 +50,15 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2180501
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e633b135584e91c070ecb27a8d626e4a",
+    "wof:geomhash":"d1bf549d247ecba9c3829f11763c5a55",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1260114871,
-    "wof:lastmodified":1566672360,
+    "wof:lastmodified":1602626134,
     "wof:name":"Victoria Valley",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",
@@ -78,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.41666999999995,
+    173.41667,
     -35.15,
-    173.41666999999995,
+    173.41667,
     -35.15
 ],
-  "geometry": {"coordinates":[173.41666999999995,-35.15],"type":"Point"}
+  "geometry": {"coordinates":[173.41667000000001,-35.15],"type":"Point"}
 }

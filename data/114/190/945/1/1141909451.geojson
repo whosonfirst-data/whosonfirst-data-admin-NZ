@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-176.369578721,-44.0262533597,-176.369578721,-44.0262533597",
+    "geom:bbox":"-176.369579,-44.026253,-176.369579,-44.026253",
     "geom:latitude":-44.026253,
     "geom:longitude":-176.369579,
     "iso:country":"NZ",
@@ -15,8 +15,9 @@
     "lbl:longitude":-176.369579,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u0456\u0442\u0430\u043d\u0433\u0456"
@@ -163,9 +164,9 @@
     "reversegeo:longitude":-176.369579,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        85687215,
+        1108564567,
         136253053,
-        1108564567
+        85687215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +174,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1499131081,
-    "wof:geomhash":"3751ed77d07e6e6e5ac63c2730040a9d",
+    "wof:geomhash":"efdfa750d00846674b5eca4e5f211186",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1141909451,
-    "wof:lastmodified":1566672694,
+    "wof:lastmodified":1602626217,
     "wof:name":"Waitangi",
     "wof:parent_id":1108564567,
     "wof:placetype":"locality",
@@ -195,10 +196,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -176.36957872137984,
-    -44.02625335966347,
-    -176.36957872137984,
-    -44.02625335966347
+    -176.369579,
+    -44.026253,
+    -176.369579,
+    -44.026253
 ],
-  "geometry": {"coordinates":[-176.36957872137984,-44.02625335966347],"type":"Point"}
+  "geometry": {"coordinates":[-176.36957899999999,-44.026253],"type":"Point"}
 }
