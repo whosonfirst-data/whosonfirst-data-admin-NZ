@@ -10,6 +10,7 @@
     "geom:latitude":-37.99347,
     "geom:longitude":175.328423,
     "iso:country":"NZ",
+    "lbl:bbox":"175.233159,-38.095504,175.431804,-37.944573",
     "lbl:latitude":-38.016637,
     "lbl:longitude":175.321518,
     "lbl:max_zoom":18.0,
@@ -86,6 +87,9 @@
         "wd:id":"Q992759",
         "wk:page":"Te Awamutu"
     },
+    "wof:coterminous":[
+        1729238605
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101914417,
-    "wof:lastmodified":1602616372,
+    "wof:lastmodified":1602713672,
     "wof:name":"Te Awamutu",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",

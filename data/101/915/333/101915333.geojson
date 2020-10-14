@@ -11,6 +11,7 @@
     "geom:longitude":171.20924,
     "gn:population":9419,
     "iso:country":"NZ",
+    "lbl:bbox":"171.092617,-42.730128,171.426092,-42.312388",
     "lbl:latitude":-42.464817,
     "lbl:longitude":171.200371,
     "lbl:max_zoom":15.0,
@@ -142,6 +143,9 @@
         "wd:id":"Q934790",
         "wk:page":"Greymouth"
     },
+    "wof:coterminous":[
+        1729238491
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"637488907c9d34fb22bed69e56ed3fcb",
     "wof:hierarchy":[
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":101915333,
-    "wof:lastmodified":1602616355,
+    "wof:lastmodified":1602713678,
     "wof:name":"Greymouth",
     "wof:parent_id":102079361,
     "wof:placetype":"locality",

@@ -11,6 +11,7 @@
     "geom:longitude":172.798944,
     "gn:population":784,
     "iso:country":"NZ",
+    "lbl:bbox":"172.535489,-42.630337,172.937729,-42.407519",
     "lbl:latitude":-42.523412,
     "lbl:longitude":172.831472,
     "lbl:max_zoom":17.0,
@@ -84,6 +85,9 @@
         "wd:id":"Q995544",
         "wk:page":"Hanmer Springs"
     },
+    "wof:coterminous":[
+        1729238471
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -102,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616371,
+    "wof:lastmodified":1602713664,
     "wof:name":"Hanmer Springs",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

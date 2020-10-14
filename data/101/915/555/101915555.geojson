@@ -13,6 +13,7 @@
     "gn:longitude":173.27628,
     "gn:population":59200,
     "iso:country":"NZ",
+    "lbl:bbox":"173.204779,-41.372216,173.421239,-41.222783",
     "lbl:latitude":-41.275126,
     "lbl:longitude":173.26119,
     "lbl:max_zoom":14.0,
@@ -308,6 +309,9 @@
         "wd:id":"Q206687",
         "wk:page":"Nelson, New Zealand"
     },
+    "wof:coterminous":[
+        1729238513
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -323,7 +327,7 @@
         }
     ],
     "wof:id":101915555,
-    "wof:lastmodified":1602633705,
+    "wof:lastmodified":1602713668,
     "wof:name":"Nelson",
     "wof:parent_id":102079351,
     "wof:placetype":"locality",

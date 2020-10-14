@@ -11,6 +11,7 @@
     "geom:longitude":175.481022,
     "gn:population":1151,
     "iso:country":"NZ",
+    "lbl:bbox":"175.420339,-37.324061,175.619377,-37.223647",
     "lbl:latitude":-37.280169,
     "lbl:longitude":175.492121,
     "lbl:max_zoom":16.0,
@@ -81,6 +82,9 @@
         "wd:id":"Q513626",
         "wk:page":"Ngatea"
     },
+    "wof:coterminous":[
+        1729238613
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -99,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616339,
+    "wof:lastmodified":1602713677,
     "wof:name":"Ngatea",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

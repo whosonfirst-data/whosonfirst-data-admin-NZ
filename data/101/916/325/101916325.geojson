@@ -11,6 +11,7 @@
     "geom:longitude":175.329661,
     "gn:population":1781,
     "iso:country":"NZ",
+    "lbl:bbox":"175.219676,-40.244257,175.436284,-40.125667",
     "lbl:latitude":-40.177056,
     "lbl:longitude":175.382318,
     "lbl:max_zoom":16.0,
@@ -95,6 +96,9 @@
         "wd:id":"Q834869",
         "wk:page":"Bulls, New Zealand"
     },
+    "wof:coterminous":[
+        1729238501
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101916325,
-    "wof:lastmodified":1602616350,
+    "wof:lastmodified":1602713669,
     "wof:name":"Bulls",
     "wof:parent_id":102079301,
     "wof:placetype":"locality",

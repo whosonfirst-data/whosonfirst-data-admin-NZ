@@ -11,6 +11,7 @@
     "geom:longitude":176.991298,
     "gn:population":18602,
     "iso:country":"NZ",
+    "lbl:bbox":"176.906839,-38.033935,177.068761,-37.920827",
     "lbl:latitude":-37.958777,
     "lbl:longitude":176.978597,
     "lbl:max_zoom":15.0,
@@ -132,6 +133,9 @@
         "wd:id":"Q974074",
         "wk:page":"Whakatane"
     },
+    "wof:coterminous":[
+        1729238615
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"ee68ee524491949e4447013adad73539",
     "wof:hierarchy":[
@@ -147,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616360,
+    "wof:lastmodified":1602713667,
     "wof:name":"Whakatane",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

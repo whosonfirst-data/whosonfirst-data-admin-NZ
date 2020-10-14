@@ -11,6 +11,7 @@
     "geom:longitude":168.334637,
     "gn:population":1938,
     "iso:country":"NZ",
+    "lbl:bbox":"168.276752,-46.625585,168.360165,-46.584216",
     "lbl:latitude":-46.60018,
     "lbl:longitude":168.330995,
     "lbl:max_zoom":16.0,
@@ -102,6 +103,9 @@
         "wd:id":"Q152028",
         "wk:page":"Bluff, New Zealand"
     },
+    "wof:coterminous":[
+        1729238497
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -120,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616369,
+    "wof:lastmodified":1602713677,
     "wof:name":"Bluff",
     "wof:parent_id":102079397,
     "wof:placetype":"locality",

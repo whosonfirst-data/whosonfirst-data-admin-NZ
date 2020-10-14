@@ -11,6 +11,7 @@
     "geom:longitude":175.650879,
     "gn:population":20698,
     "iso:country":"NZ",
+    "lbl:bbox":"175.608085,-41.006448,175.77973,-40.892406",
     "lbl:latitude":-40.949915,
     "lbl:longitude":175.641029,
     "lbl:max_zoom":14.0,
@@ -293,6 +294,9 @@
         "wd:id":"Q1223916",
         "wk:page":"Masterton"
     },
+    "wof:coterminous":[
+        1729238527
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -308,7 +312,7 @@
         }
     ],
     "wof:id":101915543,
-    "wof:lastmodified":1602616339,
+    "wof:lastmodified":1602713676,
     "wof:name":"Masterton",
     "wof:parent_id":102079343,
     "wof:placetype":"locality",

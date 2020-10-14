@@ -10,6 +10,7 @@
     "geom:latitude":-45.867331,
     "geom:longitude":170.347054,
     "iso:country":"NZ",
+    "lbl:bbox":"170.285534,-45.907987,170.408798,-45.837988",
     "lbl:latitude":-45.874903,
     "lbl:longitude":170.343586,
     "lbl:max_zoom":18.0,
@@ -77,6 +78,9 @@
         "wd:id":"Q1949244",
         "wk:page":"Mosgiel"
     },
+    "wof:coterminous":[
+        1729238457
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"433011e637e85b5c66dedfc2cf095588",
     "wof:hierarchy":[
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101914505,
-    "wof:lastmodified":1602616338,
+    "wof:lastmodified":1602713671,
     "wof:name":"Mosgiel",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

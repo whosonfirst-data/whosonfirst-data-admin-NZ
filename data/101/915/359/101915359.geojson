@@ -10,6 +10,7 @@
     "geom:latitude":-35.581422,
     "geom:longitude":174.337902,
     "iso:country":"NZ",
+    "lbl:bbox":"174.228774,-35.662259,174.439033,-35.527616",
     "lbl:latitude":-35.592647,
     "lbl:longitude":174.290101,
     "lbl:max_zoom":18.0,
@@ -72,6 +73,9 @@
         "wd:id":"Q11682493",
         "wk:page":"Hikurangi"
     },
+    "wof:coterminous":[
+        1729238611
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101915359,
-    "wof:lastmodified":1602616356,
+    "wof:lastmodified":1602713678,
     "wof:name":"Hikurangi",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

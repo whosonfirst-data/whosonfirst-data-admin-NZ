@@ -10,6 +10,7 @@
     "geom:latitude":-42.40336,
     "geom:longitude":171.258998,
     "iso:country":"NZ",
+    "lbl:bbox":"171.235905,-42.417054,171.283815,-42.387753",
     "lbl:latitude":-42.400263,
     "lbl:longitude":171.250027,
     "lbl:max_zoom":18.0,
@@ -67,6 +68,9 @@
         "nz-linz:id":1455,
         "wd:id":"Q7379620"
     },
+    "wof:coterminous":[
+        1729238545
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"34fe60a3a24e511615164ae2a991203c",
     "wof:hierarchy":[
@@ -82,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616341,
+    "wof:lastmodified":1602713665,
     "wof:name":"Runanga",
     "wof:parent_id":102079361,
     "wof:placetype":"locality",

@@ -10,6 +10,7 @@
     "geom:latitude":-46.358153,
     "geom:longitude":168.014521,
     "iso:country":"NZ",
+    "lbl:bbox":"167.942618,-46.385443,168.058724,-46.322813",
     "lbl:latitude":-46.360002,
     "lbl:longitude":168.012953,
     "lbl:max_zoom":18.0,
@@ -84,6 +85,9 @@
         "nz-linz:id":8859,
         "wd:id":"Q152152"
     },
+    "wof:coterminous":[
+        1729238551
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"ca0d3edd5a320e828d9c5ba157ac7e28",
     "wof:hierarchy":[
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101915605,
-    "wof:lastmodified":1602616352,
+    "wof:lastmodified":1602713677,
     "wof:name":"Riverton/Aparima",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

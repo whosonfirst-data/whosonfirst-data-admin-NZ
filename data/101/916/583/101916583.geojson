@@ -11,6 +11,7 @@
     "geom:longitude":175.771542,
     "gn:population":778,
     "iso:country":"NZ",
+    "lbl:bbox":"175.724151,-38.021227,175.846604,-37.890305",
     "lbl:latitude":-37.976626,
     "lbl:longitude":175.757837,
     "lbl:max_zoom":17.0,
@@ -78,6 +79,9 @@
         "wd:id":"Q2436180",
         "wk:page":"Tirau"
     },
+    "wof:coterminous":[
+        1729238425
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616341,
+    "wof:lastmodified":1602713664,
     "wof:name":"Tirau",
     "wof:parent_id":102079277,
     "wof:placetype":"locality",

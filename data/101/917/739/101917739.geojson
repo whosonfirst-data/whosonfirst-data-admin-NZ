@@ -10,6 +10,7 @@
     "geom:latitude":-36.787304,
     "geom:longitude":174.542023,
     "iso:country":"NZ",
+    "lbl:bbox":"174.49386,-36.833878,174.606312,-36.752945",
     "lbl:latitude":-36.775657,
     "lbl:longitude":174.563758,
     "lbl:max_zoom":18.0,
@@ -81,6 +82,9 @@
         "wd:id":"Q267227",
         "wk:page":"Kumeu"
     },
+    "wof:coterminous":[
+        1729238443
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101917739,
-    "wof:lastmodified":1602616346,
+    "wof:lastmodified":1602713679,
     "wof:name":"Kumeu",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

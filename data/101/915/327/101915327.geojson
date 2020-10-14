@@ -11,6 +11,7 @@
     "geom:longitude":172.670072,
     "gn:population":3059,
     "iso:country":"NZ",
+    "lbl:bbox":"172.646423,-43.353051,172.713641,-43.297685",
     "lbl:latitude":-43.319931,
     "lbl:longitude":172.662973,
     "lbl:max_zoom":15.0,
@@ -75,6 +76,9 @@
         "wd:id":"Q8032610",
         "wk:page":"Woodend, New Zealand"
     },
+    "wof:coterminous":[
+        1729238619
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -93,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616352,
+    "wof:lastmodified":1602713676,
     "wof:name":"Woodend",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

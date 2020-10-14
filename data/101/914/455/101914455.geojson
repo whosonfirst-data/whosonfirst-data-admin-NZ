@@ -11,6 +11,7 @@
     "geom:longitude":173.084922,
     "gn:population":1819,
     "iso:country":"NZ",
+    "lbl:bbox":"173.055294,-41.261386,173.108441,-41.207572",
     "lbl:latitude":-41.254525,
     "lbl:longitude":173.096556,
     "lbl:max_zoom":16.0,
@@ -84,6 +85,9 @@
         "wd:id":"Q1892126",
         "wk:page":"Mapua, New Zealand"
     },
+    "wof:coterminous":[
+        1729238609
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -102,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616356,
+    "wof:lastmodified":1602713664,
     "wof:name":"Mapua",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

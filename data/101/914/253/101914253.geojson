@@ -11,6 +11,7 @@
     "geom:longitude":174.325613,
     "gn:population":50900,
     "iso:country":"NZ",
+    "lbl:bbox":"174.122349,-35.947352,174.501258,-35.647942",
     "lbl:latitude":-35.704699,
     "lbl:longitude":174.322321,
     "lbl:max_zoom":14.0,
@@ -219,6 +220,9 @@
         "wd:id":"Q744239",
         "wk:page":"Whangarei"
     },
+    "wof:coterminous":[
+        1729238617
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"cba77bcc2d7213237f1548724d7e2880",
     "wof:hierarchy":[
@@ -231,7 +235,7 @@
         }
     ],
     "wof:id":101914253,
-    "wof:lastmodified":1602616349,
+    "wof:lastmodified":1602713667,
     "wof:name":"Whangarei",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

@@ -11,6 +11,7 @@
     "geom:longitude":176.845291,
     "gn:population":61696,
     "iso:country":"NZ",
+    "lbl:bbox":"176.75275,-39.685596,176.876375,-39.593429",
     "lbl:latitude":-39.651809,
     "lbl:longitude":176.848629,
     "lbl:max_zoom":14.0,
@@ -199,6 +200,9 @@
         "wd:id":"Q1015690",
         "wk:page":"Hastings, New Zealand"
     },
+    "wof:coterminous":[
+        1729238473
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"b21a1f9f11b38f5ad61c5c818640d665",
     "wof:hierarchy":[
@@ -214,7 +218,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616368,
+    "wof:lastmodified":1602713674,
     "wof:name":"Hastings",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

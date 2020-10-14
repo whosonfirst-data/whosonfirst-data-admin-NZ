@@ -10,6 +10,7 @@
     "geom:latitude":-40.039271,
     "geom:longitude":175.391077,
     "iso:country":"NZ",
+    "lbl:bbox":"175.293028,-40.152746,175.505557,-39.907399",
     "lbl:latitude":-40.069581,
     "lbl:longitude":175.374008,
     "lbl:max_zoom":18.0,
@@ -75,6 +76,9 @@
         "wd:id":"Q442075",
         "wk:page":"Marton, New Zealand"
     },
+    "wof:coterminous":[
+        1729238525
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101915195,
-    "wof:lastmodified":1602616350,
+    "wof:lastmodified":1602713669,
     "wof:name":"Marton",
     "wof:parent_id":102079301,
     "wof:placetype":"locality",

@@ -10,6 +10,7 @@
     "geom:latitude":-37.74072,
     "geom:longitude":176.294369,
     "iso:country":"NZ",
+    "lbl:bbox":"176.237248,-37.777807,176.415649,-37.67651",
     "lbl:latitude":-37.73621,
     "lbl:longitude":176.293545,
     "mps:latitude":-37.73621,
@@ -28,12 +29,15 @@
     "wof:concordances":{
         "nz-linz:id":1197
     },
+    "wof:coterminous":[
+        1729238435
+    ],
     "wof:country":"NZ",
     "wof:created":1602621428,
     "wof:geomhash":"64369a1f42d32bd148b5135015124e65",
     "wof:hierarchy":[],
     "wof:id":1729339005,
-    "wof:lastmodified":1602624796,
+    "wof:lastmodified":1602713680,
     "wof:name":"Papamoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,6 +11,7 @@
     "geom:longitude":175.855262,
     "gn:population":4619,
     "iso:country":"NZ",
+    "lbl:bbox":"175.729743,-37.495683,175.944094,-37.315633",
     "lbl:latitude":-37.391081,
     "lbl:longitude":175.833336,
     "lbl:max_zoom":15.0,
@@ -83,6 +84,9 @@
         "wd:id":"Q498833",
         "wk:page":"Waihi"
     },
+    "wof:coterminous":[
+        1729238599
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"8a2e9b0fcb31b9d1246e614985442389",
     "wof:hierarchy":[
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101915083,
-    "wof:lastmodified":1602616347,
+    "wof:lastmodified":1602713663,
     "wof:name":"Waihi",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

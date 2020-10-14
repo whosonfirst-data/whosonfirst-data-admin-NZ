@@ -11,6 +11,7 @@
     "geom:longitude":168.664823,
     "gn:population":10442,
     "iso:country":"NZ",
+    "lbl:bbox":"168.621001,-45.051808,168.762677,-44.99713",
     "lbl:latitude":-45.031818,
     "lbl:longitude":168.667827,
     "lbl:max_zoom":15.0,
@@ -174,6 +175,9 @@
         "wd:id":"Q613602",
         "wk:page":"Queenstown, New Zealand"
     },
+    "wof:coterminous":[
+        1729238565
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"3c74e61c635f40a221856f3689c4fd9e",
     "wof:hierarchy":[
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":101914507,
-    "wof:lastmodified":1602616343,
+    "wof:lastmodified":1602713672,
     "wof:name":"Queenstown",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

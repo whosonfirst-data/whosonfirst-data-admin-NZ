@@ -10,6 +10,7 @@
     "geom:latitude":-36.797412,
     "geom:longitude":175.117287,
     "iso:country":"NZ",
+    "lbl:bbox":"174.9815,-36.848275,175.202979,-36.737837",
     "lbl:latitude":-36.810472,
     "lbl:longitude":175.021376,
     "lbl:max_zoom":18.0,
@@ -127,6 +128,9 @@
         "nz-linz:id":6522,
         "wd:id":"Q909136"
     },
+    "wof:coterminous":[
+        1729238441
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"5890862c7dbd40e2fbf4f906b008f443",
     "wof:hierarchy":[
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":101916761,
-    "wof:lastmodified":1602616366,
+    "wof:lastmodified":1602713666,
     "wof:name":"Waiheke Island",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

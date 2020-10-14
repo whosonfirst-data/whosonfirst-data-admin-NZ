@@ -11,6 +11,7 @@
     "geom:longitude":174.185846,
     "gn:population":839,
     "iso:country":"NZ",
+    "lbl:bbox":"174.111917,-35.312277,174.261016,-35.241466",
     "lbl:latitude":-35.260664,
     "lbl:longitude":174.129859,
     "lbl:max_zoom":17.0,
@@ -95,6 +96,9 @@
         "wd:id":"Q764609",
         "wk:page":"Russell, New Zealand"
     },
+    "wof:coterminous":[
+        1729238559
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101915089,
-    "wof:lastmodified":1602616365,
+    "wof:lastmodified":1602713680,
     "wof:name":"Russell",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

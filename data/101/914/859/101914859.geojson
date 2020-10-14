@@ -11,6 +11,7 @@
     "geom:longitude":175.479298,
     "gn:population":15192,
     "iso:country":"NZ",
+    "lbl:bbox":"175.403109,-37.960052,175.551067,-37.825613",
     "lbl:latitude":-37.883342,
     "lbl:longitude":175.474273,
     "lbl:max_zoom":15.0,
@@ -278,6 +279,9 @@
         "nz-linz:id":2046,
         "wd:id":"Q1028261"
     },
+    "wof:coterminous":[
+        1729238503
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"ae82b09848fbcbcc60763ef7f9bf3469",
     "wof:hierarchy":[
@@ -293,7 +297,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616354,
+    "wof:lastmodified":1602713682,
     "wof:name":"Cambridge",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",

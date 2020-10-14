@@ -10,6 +10,7 @@
     "geom:latitude":-38.863727,
     "geom:longitude":175.246903,
     "iso:country":"NZ",
+    "lbl:bbox":"175.010027,-39.096563,175.424418,-38.785741",
     "lbl:latitude":-38.883677,
     "lbl:longitude":175.295835,
     "lbl:max_zoom":18.0,
@@ -90,6 +91,9 @@
         "wd:id":"Q305195",
         "wk:page":"Taumarunui"
     },
+    "wof:coterminous":[
+        1729238547
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":101914323,
-    "wof:lastmodified":1602616358,
+    "wof:lastmodified":1602713673,
     "wof:name":"Taumarunui",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

@@ -11,6 +11,7 @@
     "geom:longitude":175.611964,
     "gn:population":75996,
     "iso:country":"NZ",
+    "lbl:bbox":"175.498545,-40.52969,175.715549,-40.288726",
     "lbl:latitude":-40.362727,
     "lbl:longitude":175.626441,
     "lbl:max_zoom":14.0,
@@ -236,6 +237,9 @@
         "wd:id":"Q212289",
         "wk:page":"Palmerston North"
     },
+    "wof:coterminous":[
+        1729238575
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"18846ac8d5583206f6dcf967fbb85a25",
     "wof:hierarchy":[
@@ -248,7 +252,7 @@
         }
     ],
     "wof:id":101914259,
-    "wof:lastmodified":1602616340,
+    "wof:lastmodified":1602713682,
     "wof:name":"Palmerston North",
     "wof:parent_id":102079307,
     "wof:placetype":"locality",

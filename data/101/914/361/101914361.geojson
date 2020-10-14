@@ -10,6 +10,7 @@
     "geom:latitude":-43.307236,
     "geom:longitude":172.602722,
     "iso:country":"NZ",
+    "lbl:bbox":"172.425805,-43.359595,172.649743,-43.259198",
     "lbl:latitude":-43.300567,
     "lbl:longitude":172.583392,
     "lbl:max_zoom":18.0,
@@ -91,6 +92,9 @@
         "wd:id":"Q2034575",
         "wk:page":"Rangiora"
     },
+    "wof:coterminous":[
+        1729238549
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -109,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616369,
+    "wof:lastmodified":1602713676,
     "wof:name":"Rangiora",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

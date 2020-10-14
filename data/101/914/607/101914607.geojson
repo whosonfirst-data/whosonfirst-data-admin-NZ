@@ -10,6 +10,7 @@
     "geom:latitude":-39.449134,
     "geom:longitude":175.212843,
     "iso:country":"NZ",
+    "lbl:bbox":"175.049056,-39.553105,175.34989,-39.307325",
     "lbl:latitude":-39.428388,
     "lbl:longitude":175.278149,
     "lbl:max_zoom":18.0,
@@ -72,6 +73,9 @@
         "nz-linz:id":1695,
         "wd:id":"Q175993"
     },
+    "wof:coterminous":[
+        1729238567
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"e91b31db5175bf1da28c72eef654164e",
     "wof:hierarchy":[
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":101914607,
-    "wof:lastmodified":1602616359,
+    "wof:lastmodified":1602713682,
     "wof:name":"Raetihi",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

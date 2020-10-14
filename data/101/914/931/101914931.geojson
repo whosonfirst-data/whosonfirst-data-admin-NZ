@@ -11,6 +11,7 @@
     "geom:longitude":175.164599,
     "gn:population":6086,
     "iso:country":"NZ",
+    "lbl:bbox":"175.100717,-40.815354,175.219222,-40.702031",
     "lbl:latitude":-40.759161,
     "lbl:longitude":175.142265,
     "lbl:max_zoom":15.0,
@@ -90,6 +91,9 @@
         "wd:id":"Q984998",
         "wk:page":"Otaki, New Zealand"
     },
+    "wof:coterminous":[
+        1729238569
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -108,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616347,
+    "wof:lastmodified":1602713683,
     "wof:name":"Otaki",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

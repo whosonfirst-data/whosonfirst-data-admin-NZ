@@ -10,6 +10,7 @@
     "geom:latitude":-36.58576,
     "geom:longitude":174.681084,
     "iso:country":"NZ",
+    "lbl:bbox":"174.661393,-36.600225,174.700951,-36.559733",
     "lbl:latitude":-36.58867,
     "lbl:longitude":174.688468,
     "lbl:max_zoom":18.0,
@@ -80,6 +81,9 @@
         "wd:id":"Q576540",
         "wk:page":"Orewa"
     },
+    "wof:coterminous":[
+        1729238467
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101914899,
-    "wof:lastmodified":1602616345,
+    "wof:lastmodified":1602713678,
     "wof:name":"Orewa",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

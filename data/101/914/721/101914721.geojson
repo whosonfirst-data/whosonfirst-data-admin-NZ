@@ -11,6 +11,7 @@
     "geom:longitude":174.301184,
     "gn:population":11068,
     "iso:country":"NZ",
+    "lbl:bbox":"174.214933,-39.652713,174.376696,-39.464623",
     "lbl:latitude":-39.586206,
     "lbl:longitude":174.281201,
     "lbl:max_zoom":15.0,
@@ -199,6 +200,9 @@
         "wd:id":"Q998452",
         "wk:page":"Hawera"
     },
+    "wof:coterminous":[
+        1729238475
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -217,7 +221,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616356,
+    "wof:lastmodified":1602713679,
     "wof:name":"Hawera",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

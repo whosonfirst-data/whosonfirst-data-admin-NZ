@@ -11,6 +11,7 @@
     "geom:longitude":178.020068,
     "gn:population":34274,
     "iso:country":"NZ",
+    "lbl:bbox":"177.849941,-38.716217,178.106324,-38.555393",
     "lbl:latitude":-38.648509,
     "lbl:longitude":178.015028,
     "lbl:max_zoom":14.0,
@@ -217,6 +218,9 @@
         "wd:id":"Q233467",
         "wk:page":"Gisborne, New Zealand"
     },
+    "wof:coterminous":[
+        1729238487
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"b05239c1b597f806c1d66569540b6cc8",
     "wof:hierarchy":[
@@ -232,7 +236,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616363,
+    "wof:lastmodified":1602713673,
     "wof:name":"Gisborne",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",

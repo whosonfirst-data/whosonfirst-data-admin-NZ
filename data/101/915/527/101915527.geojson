@@ -11,6 +11,7 @@
     "geom:longitude":171.250729,
     "gn:population":28007,
     "iso:country":"NZ",
+    "lbl:bbox":"171.174058,-44.42603,171.272917,-44.331749",
     "lbl:latitude":-44.40316,
     "lbl:longitude":171.238033,
     "lbl:max_zoom":14.0,
@@ -294,6 +295,9 @@
         "wd:id":"Q1016574",
         "wk:page":"Timaru"
     },
+    "wof:coterminous":[
+        1729238593
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -309,7 +313,7 @@
         }
     ],
     "wof:id":101915527,
-    "wof:lastmodified":1602616368,
+    "wof:lastmodified":1602713675,
     "wof:name":"Timaru",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

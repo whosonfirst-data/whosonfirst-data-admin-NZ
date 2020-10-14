@@ -11,6 +11,7 @@
     "geom:longitude":168.933165,
     "gn:population":12108,
     "iso:country":"NZ",
+    "lbl:bbox":"168.881601,-46.17422,168.982992,-46.07845",
     "lbl:latitude":-46.101325,
     "lbl:longitude":168.936285,
     "lbl:max_zoom":15.0,
@@ -109,6 +110,9 @@
         "wd:id":"Q597409",
         "wk:page":"Gore, New Zealand"
     },
+    "wof:coterminous":[
+        1729238489
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"1ad547bf14903c717c84c2b26762268b",
     "wof:hierarchy":[
@@ -124,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616337,
+    "wof:lastmodified":1602713667,
     "wof:name":"Gore",
     "wof:parent_id":102079393,
     "wof:placetype":"locality",

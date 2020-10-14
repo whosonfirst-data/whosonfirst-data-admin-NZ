@@ -11,6 +11,7 @@
     "geom:longitude":172.498318,
     "gn:population":2235,
     "iso:country":"NZ",
+    "lbl:bbox":"172.433474,-43.734434,172.557327,-43.606934",
     "lbl:latitude":-43.63885,
     "lbl:longitude":172.487866,
     "lbl:max_zoom":15.0,
@@ -105,6 +106,9 @@
         "wd:id":"Q1186226",
         "wk:page":"Lincoln, New Zealand"
     },
+    "wof:coterminous":[
+        1729238531
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":101916247,
-    "wof:lastmodified":1602616372,
+    "wof:lastmodified":1602713674,
     "wof:name":"Lincoln",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

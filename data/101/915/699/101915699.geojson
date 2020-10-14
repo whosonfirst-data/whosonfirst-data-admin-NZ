@@ -11,6 +11,7 @@
     "geom:longitude":171.613503,
     "gn:population":3629,
     "iso:country":"NZ",
+    "lbl:bbox":"171.514535,-41.864596,171.702652,-41.727024",
     "lbl:latitude":-41.757325,
     "lbl:longitude":171.607033,
     "lbl:max_zoom":15.0,
@@ -102,6 +103,9 @@
         "wd:id":"Q1349217",
         "wk:page":"Westport, New Zealand"
     },
+    "wof:coterminous":[
+        1729238585
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -120,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616361,
+    "wof:lastmodified":1602713671,
     "wof:name":"Westport",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

@@ -11,6 +11,7 @@
     "geom:longitude":176.082347,
     "gn:population":22469,
     "iso:country":"NZ",
+    "lbl:bbox":"175.954476,-38.778402,176.207417,-38.55399",
     "lbl:latitude":-38.689766,
     "lbl:longitude":176.087759,
     "lbl:max_zoom":14.0,
@@ -155,6 +156,9 @@
         "wd:id":"Q2397257",
         "wk:page":"Taupo"
     },
+    "wof:coterminous":[
+        1729238601
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"051279a6a5575086f4cbd75a382c6caa",
     "wof:hierarchy":[
@@ -170,7 +174,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616350,
+    "wof:lastmodified":1602713670,
     "wof:name":"Taupo",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

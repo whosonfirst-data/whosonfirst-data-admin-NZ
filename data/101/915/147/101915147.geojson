@@ -11,6 +11,7 @@
     "geom:longitude":175.926584,
     "gn:population":2014,
     "iso:country":"NZ",
+    "lbl:bbox":"175.890842,-37.469016,175.991746,-37.373037",
     "lbl:latitude":-37.409041,
     "lbl:longitude":175.943584,
     "lbl:max_zoom":15.0,
@@ -78,6 +79,9 @@
         "wd:id":"Q1520662",
         "wk:page":"Waihi Beach"
     },
+    "wof:coterminous":[
+        1729238587
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616363,
+    "wof:lastmodified":1602713676,
     "wof:name":"Waihi Beach",
     "wof:parent_id":102079283,
     "wof:placetype":"locality",

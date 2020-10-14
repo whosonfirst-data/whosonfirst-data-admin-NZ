@@ -11,6 +11,7 @@
     "geom:longitude":175.50257,
     "gn:population":1502,
     "iso:country":"NZ",
+    "lbl:bbox":"175.462503,-36.825575,175.612505,-36.705524",
     "lbl:latitude":-36.752659,
     "lbl:longitude":175.506278,
     "lbl:max_zoom":16.0,
@@ -108,6 +109,9 @@
         "wd:id":"Q1134464",
         "wk:page":"Coromandel, New Zealand"
     },
+    "wof:coterminous":[
+        1729238509
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"a20d07930f3112337687e7f4fc3c89e6",
     "wof:hierarchy":[
@@ -123,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616345,
+    "wof:lastmodified":1602713675,
     "wof:name":"Coromandel",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

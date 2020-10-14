@@ -11,6 +11,7 @@
     "geom:longitude":173.188337,
     "gn:id":"2183472,6242630",
     "iso:country":"NZ",
+    "lbl:bbox":"173.083258,-41.409258,173.231914,-41.282632",
     "lbl:latitude":-41.344738,
     "lbl:longitude":173.191843,
     "lbl:max_zoom":18.0,
@@ -113,6 +114,9 @@
         "nz-linz:id":2538,
         "wd:id":"Q1208462"
     },
+    "wof:coterminous":[
+        1729238447
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"6aed50098a7d09c93f1a3b5b01b785f7",
     "wof:hierarchy":[
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101914855,
-    "wof:lastmodified":1602616354,
+    "wof:lastmodified":1602713682,
     "wof:name":"Richmond",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

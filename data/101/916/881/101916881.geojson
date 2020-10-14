@@ -11,6 +11,7 @@
     "geom:longitude":174.081028,
     "gn:population":1399,
     "iso:country":"NZ",
+    "lbl:bbox":"173.99735,-35.478239,174.180822,-35.295906",
     "lbl:latitude":-35.381379,
     "lbl:longitude":174.067205,
     "lbl:max_zoom":16.0,
@@ -95,6 +96,9 @@
         "wd:id":"Q1013579",
         "wk:page":"Kawakawa, New Zealand"
     },
+    "wof:coterminous":[
+        1729238541
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101916881,
-    "wof:lastmodified":1602616365,
+    "wof:lastmodified":1602713680,
     "wof:name":"Kawakawa",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

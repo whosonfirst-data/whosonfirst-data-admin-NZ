@@ -11,6 +11,7 @@
     "geom:longitude":175.859444,
     "gn:population":3401,
     "iso:country":"NZ",
+    "lbl:bbox":"175.772519,-39.093707,175.9417,-38.939168",
     "lbl:latitude":-38.987563,
     "lbl:longitude":175.803738,
     "lbl:max_zoom":15.0,
@@ -95,6 +96,9 @@
         "wd:id":"Q1026386",
         "wk:page":"Turangi"
     },
+    "wof:coterminous":[
+        1729238595
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101914657,
-    "wof:lastmodified":1602616359,
+    "wof:lastmodified":1602713663,
     "wof:name":"Turangi",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

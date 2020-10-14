@@ -11,6 +11,7 @@
     "geom:longitude":175.655885,
     "gn:population":1347,
     "iso:country":"NZ",
+    "lbl:bbox":"175.627034,-39.527816,175.701656,-39.438387",
     "lbl:latitude":-39.473784,
     "lbl:longitude":175.672068,
     "lbl:max_zoom":16.0,
@@ -90,6 +91,9 @@
         "wd:id":"Q912379",
         "wk:page":"Waiouru"
     },
+    "wof:coterminous":[
+        1729238591
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -108,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616359,
+    "wof:lastmodified":1602713681,
     "wof:name":"Waiouru",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

@@ -10,6 +10,7 @@
     "geom:latitude":-40.871437,
     "geom:longitude":175.066358,
     "iso:country":"NZ",
+    "lbl:bbox":"175.006966,-40.908925,175.100369,-40.838602",
     "lbl:latitude":-40.877681,
     "lbl:longitude":175.057092,
     "lbl:max_zoom":18.0,
@@ -252,6 +253,9 @@
         "wd:id":"Q2540624",
         "wk:page":"Waikanae"
     },
+    "wof:coterminous":[
+        1729238461
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"3d54ae1661f77e72612b8ca47fa558d7",
     "wof:hierarchy":[
@@ -267,7 +271,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616341,
+    "wof:lastmodified":1602713667,
     "wof:name":"Waikanae",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

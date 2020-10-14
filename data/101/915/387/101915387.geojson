@@ -11,6 +11,7 @@
     "geom:longitude":173.0539,
     "gn:population":1663,
     "iso:country":"NZ",
+    "lbl:bbox":"172.938551,-41.484123,173.098661,-41.33138",
     "lbl:latitude":-41.405415,
     "lbl:longitude":173.046746,
     "lbl:max_zoom":16.0,
@@ -77,6 +78,9 @@
         "wd:id":"Q683323",
         "wk:page":"Wakefield, New Zealand"
     },
+    "wof:coterminous":[
+        1729238579
+    ],
     "wof:country":"NZ",
     "wof:geomhash":"43ed91b0a239fb2ad6ea4d310b08fa2a",
     "wof:hierarchy":[
@@ -92,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616354,
+    "wof:lastmodified":1602713681,
     "wof:name":"Wakefield",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",
