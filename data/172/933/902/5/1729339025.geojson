@@ -9,6 +9,8 @@
     "geom:bbox":"174.771759,-41.324563,174.790915,-41.301448",
     "geom:latitude":-41.313284,
     "geom:longitude":174.78183,
+    "gn:latitude":-41.31115,
+    "gn:longitude":174.77935,
     "iso:country":"NZ",
     "lbl:latitude":-41.31205,
     "lbl:longitude":174.781978,
@@ -16,31 +18,135 @@
     "mps:longitude":174.781978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Newtown"
+    ],
+    "name:cat_x_preferred":[
+        "Newtown"
+    ],
+    "name:ceb_x_preferred":[
+        "Newtown"
+    ],
+    "name:ces_x_preferred":[
+        "Newtown"
+    ],
+    "name:cym_x_preferred":[
+        "Newtown"
+    ],
+    "name:dan_x_preferred":[
+        "Newtown"
+    ],
+    "name:deu_x_preferred":[
+        "Newtown"
+    ],
     "name:eng_x_preferred":[
+        "Newtown"
+    ],
+    "name:est_x_preferred":[
+        "Newtown"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648\u062a\u0627\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Newtown"
+    ],
+    "name:fra_x_preferred":[
+        "Newtown"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d5\u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Newtown"
+    ],
+    "name:ita_x_preferred":[
+        "Newtown"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e5\u30fc\u30bf\u30a6\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub274\ud0c0\uc6b4"
+    ],
+    "name:mlg_x_preferred":[
+        "Newtown"
+    ],
+    "name:nld_x_preferred":[
+        "Newtown"
+    ],
+    "name:pol_x_preferred":[
+        "Newtown"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Newtown"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0443\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Newtown"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0648 \u0679\u0627\u0624\u0646"
+    ],
+    "name:vol_x_preferred":[
         "Newtown"
     ],
     "nz-linz:name":"Newtown",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Newtown",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Newtown",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":253,
+    "qs:photo_sum":1193,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":44,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1020
+        "gn:id":6244789,
+        "gp:id":22726472,
+        "nz-linz:id":1020,
+        "qs_pg:id":217543
     },
     "wof:country":"NZ",
     "wof:created":1602621436,
     "wof:geomhash":"917826fef6bb5b1a2bdf73ad829aaa82",
     "wof:hierarchy":[],
     "wof:id":1729339025,
-    "wof:lastmodified":1602624835,
+    "wof:lastmodified":1602696236,
     "wof:name":"Newtown",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778491
+    ],
     "wof:tags":[]
 },
   "bbox": [

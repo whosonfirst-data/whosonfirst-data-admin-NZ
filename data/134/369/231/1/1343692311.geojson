@@ -39,6 +39,30 @@
     "nz-linz:id":1765,
     "nz-linz:name":"Wadestown",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Wadestown",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Wadestown",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":148,
+    "qs:photo_sum":246,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -51,8 +75,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2180482,
-        "nz-linz:id":1765
+        "gn:id":6244979,
+        "gp:id":2351054,
+        "nz-linz:id":1765,
+        "qs_pg:id":1117352
     },
     "wof:country":"NZ",
     "wof:geomhash":"d24e329967aa55c360d47c22d7366407",
@@ -66,14 +92,16 @@
         }
     ],
     "wof:id":1343692311,
-    "wof:lastmodified":1602616350,
+    "wof:lastmodified":1602696232,
     "wof:name":"Wadestown",
     "wof:parent_id":102079339,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773265
+    ],
     "wof:tags":[]
 },
   "bbox": [

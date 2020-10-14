@@ -9,6 +9,8 @@
     "geom:bbox":"174.740686,-41.280113,174.769329,-41.257027",
     "geom:latitude":-41.266835,
     "geom:longitude":174.75506,
+    "gn:latitude":-41.26827,
+    "gn:longitude":174.75019,
     "iso:country":"NZ",
     "lbl:latitude":-41.264568,
     "lbl:longitude":174.752446,
@@ -16,31 +18,123 @@
     "mps:longitude":174.752446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ang_x_preferred":[
+        "Wilt\u016bn"
+    ],
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0644\u062a\u0648\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "Wilton"
+    ],
+    "name:cat_x_preferred":[
+        "Wilton"
+    ],
+    "name:ceb_x_preferred":[
+        "Wilton"
+    ],
+    "name:deu_x_preferred":[
+        "Wilton"
+    ],
     "name:eng_x_preferred":[
+        "Wilton"
+    ],
+    "name:fin_x_preferred":[
+        "Wilton"
+    ],
+    "name:fra_x_preferred":[
+        "Wilton"
+    ],
+    "name:hbs_x_preferred":[
+        "Vilton"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05dc\u05d8\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Wilton"
+    ],
+    "name:nld_x_preferred":[
+        "Wilton"
+    ],
+    "name:pol_x_preferred":[
+        "Wilton"
+    ],
+    "name:por_x_preferred":[
+        "Wilton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0438\u043b\u0442\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Wilton"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043b\u0442\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Wilton"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u0442\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0644\u0679\u0646"
+    ],
+    "name:vol_x_preferred":[
         "Wilton"
     ],
     "nz-linz:name":"Wilton",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Wilton",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Wilton",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":32,
+    "qs:photo_sum":84,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1947
+        "gn:id":6244981,
+        "gp:id":22726576,
+        "nz-linz:id":1947,
+        "qs_pg:id":1086023
     },
     "wof:country":"NZ",
     "wof:created":1602621436,
     "wof:geomhash":"af6750d491eaeb0cbc2642614deb76d3",
     "wof:hierarchy":[],
     "wof:id":1729339027,
-    "wof:lastmodified":1602624835,
+    "wof:lastmodified":1602696236,
     "wof:name":"Wilton",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778745
+    ],
     "wof:tags":[]
 },
   "bbox": [

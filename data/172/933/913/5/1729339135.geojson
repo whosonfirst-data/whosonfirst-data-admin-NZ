@@ -9,6 +9,8 @@
     "geom:bbox":"174.788134,-41.347044,174.805691,-41.32166",
     "geom:latitude":-41.330617,
     "geom:longitude":174.793668,
+    "gn:latitude":-41.32731,
+    "gn:longitude":174.79448,
     "iso:country":"NZ",
     "lbl:latitude":-41.326227,
     "lbl:longitude":174.795263,
@@ -16,31 +18,107 @@
     "mps:longitude":174.795263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:ceb_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:cos_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:dan_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Lyall Bay"
+    ],
     "name:eng_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:fra_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:ind_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:ita_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:nds_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:nld_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:por_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:ron_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:spa_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Lyall Bay"
+    ],
+    "name:tah_x_preferred":[
         "Lyall Bay"
     ],
     "nz-linz:name":"Lyall Bay",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Lyall Bay",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Lyall Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":221,
+    "qs:photo_sum":866,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":778
+        "gn:id":6244783,
+        "gp:id":22726428,
+        "nz-linz:id":778,
+        "qs_pg:id":1077008,
+        "wd:id":"Q15243176",
+        "wk:page":"Lyall Bay"
     },
     "wof:country":"NZ",
     "wof:created":1602621479,
     "wof:geomhash":"a9042a2ecaa5eef1771504e1d87359c6",
     "wof:hierarchy":[],
     "wof:id":1729339135,
-    "wof:lastmodified":1602624826,
+    "wof:lastmodified":1602696237,
     "wof:name":"Lyall Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778423
+    ],
     "wof:tags":[]
 },
   "bbox": [

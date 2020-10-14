@@ -9,6 +9,8 @@
     "geom:bbox":"174.759337,-36.86834,174.773286,-36.853486",
     "geom:latitude":-36.861298,
     "geom:longitude":174.766629,
+    "gn:latitude":-36.86029,
+    "gn:longitude":174.76566,
     "iso:country":"NZ",
     "lbl:latitude":-36.860277,
     "lbl:longitude":174.767106,
@@ -16,31 +18,69 @@
     "mps:longitude":174.767106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Grafton"
+    ],
     "name:eng_x_preferred":[
+        "Grafton"
+    ],
+    "name:fra_x_preferred":[
+        "Grafton"
+    ],
+    "name:ita_x_preferred":[
         "Grafton"
     ],
     "nz-linz:name":"Grafton",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Grafton",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Grafton",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":769,
+    "qs:photo_sum":4198,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":35,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":459
+        "gn:id":6232401,
+        "gp:id":22726380,
+        "nz-linz:id":459,
+        "qs_pg:id":24261,
+        "wd:id":"Q3113225",
+        "wk:page":"Grafton, New Zealand"
     },
     "wof:country":"NZ",
     "wof:created":1602621442,
     "wof:geomhash":"2091533f679e33f85fb17b08177c095a",
     "wof:hierarchy":[],
     "wof:id":1729339041,
-    "wof:lastmodified":1602624832,
+    "wof:lastmodified":1602696236,
     "wof:name":"Grafton",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778317
+    ],
     "wof:tags":[]
 },
   "bbox": [

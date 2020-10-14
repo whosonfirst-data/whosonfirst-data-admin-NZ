@@ -9,6 +9,8 @@
     "geom:bbox":"174.760342,-36.916663,174.782477,-36.904469",
     "geom:latitude":-36.910653,
     "geom:longitude":174.77233,
+    "gn:latitude":-36.9082,
+    "gn:longitude":174.77019,
     "iso:country":"NZ",
     "lbl:latitude":-36.910995,
     "lbl:longitude":174.773091,
@@ -16,31 +18,73 @@
     "mps:longitude":174.773091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Royal Oak"
+    ],
     "name:eng_x_preferred":[
+        "Royal Oak"
+    ],
+    "name:fra_x_preferred":[
+        "Royal Oak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30a4\u30e4\u30eb\u30fb\u30aa\u30fc\u30af"
+    ],
+    "name:nno_x_preferred":[
+        "Royal Oak"
+    ],
+    "name:tur_x_preferred":[
         "Royal Oak"
     ],
     "nz-linz:name":"Royal Oak",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Royal Oak",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Royal Oak",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":52,
+    "qs:photo_sum":163,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1444
+        "gn:id":6232213,
+        "gp:id":22726517,
+        "nz-linz:id":1444,
+        "qs_pg:id":886081
     },
     "wof:country":"NZ",
     "wof:created":1602621262,
     "wof:geomhash":"c771e8a3b22099829398e30ca03c3dc3",
     "wof:hierarchy":[],
     "wof:id":1729338617,
-    "wof:lastmodified":1602624811,
+    "wof:lastmodified":1602696233,
     "wof:name":"Royal Oak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778583
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -19,28 +19,59 @@
     "name:eng_x_preferred":[
         "Eden Terrace"
     ],
+    "name:fra_x_preferred":[
+        "Eden Terrace"
+    ],
+    "name:nld_x_preferred":[
+        "Eden Terrace"
+    ],
     "nz-linz:name":"Eden Terrace",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2193733,
+    "qs:id":0,
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Eden Terrace",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":35,
+    "qs:photo_sum":62,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":329
+        "gp:id":28643816,
+        "nz-linz:id":329,
+        "wd:id":"Q3047399"
     },
     "wof:country":"NZ",
     "wof:created":1602621160,
     "wof:geomhash":"c8c69fff95047353ccb5eee0a8d83d97",
     "wof:hierarchy":[],
     "wof:id":1729338369,
-    "wof:lastmodified":1602624845,
+    "wof:lastmodified":1602696232,
     "wof:name":"Eden Terrace",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85780877
+    ],
     "wof:tags":[]
 },
   "bbox": [

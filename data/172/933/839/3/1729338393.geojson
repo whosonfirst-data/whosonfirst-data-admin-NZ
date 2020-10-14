@@ -9,6 +9,8 @@
     "geom:bbox":"174.769962,-36.866136,174.805164,-36.845232",
     "geom:latitude":-36.856052,
     "geom:longitude":174.783083,
+    "gn:latitude":-36.86667,
+    "gn:longitude":174.78333,
     "iso:country":"NZ",
     "lbl:latitude":-36.856258,
     "lbl:longitude":174.782928,
@@ -16,31 +18,72 @@
     "mps:longitude":174.782928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:arg_x_preferred":[
+        "Parnell"
+    ],
+    "name:ceb_x_preferred":[
+        "Parnell"
+    ],
     "name:eng_x_preferred":[
         "Parnell"
     ],
+    "name:fra_x_preferred":[
+        "Parnell"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5948\u5c14"
+    ],
     "nz-linz:name":"Parnell",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Parnell",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Parnell",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":1086,
+    "qs:photo_sum":4113,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":4131
+        "gn:id":2184846,
+        "gp:id":2350082,
+        "nz-linz:id":4131,
+        "qs_pg:id":1092130,
+        "wd:id":"Q3365637",
+        "wk:page":"Parnell, New Zealand"
     },
     "wof:country":"NZ",
     "wof:created":1602621170,
     "wof:geomhash":"bc50e659a13a6995b587040f786d3f44",
     "wof:hierarchy":[],
     "wof:id":1729338393,
-    "wof:lastmodified":1602624848,
+    "wof:lastmodified":1602696233,
     "wof:name":"Parnell",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773115
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,8 @@
     "geom:bbox":"174.725078,-36.869111,174.755093,-36.850813",
     "geom:latitude":-36.861569,
     "geom:longitude":174.739555,
+    "gn:latitude":-36.86489,
+    "gn:longitude":174.73695,
     "iso:country":"NZ",
     "lbl:latitude":-36.862817,
     "lbl:longitude":174.740799,
@@ -16,31 +18,75 @@
     "mps:longitude":174.740799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Grey Lynn"
+    ],
     "name:eng_x_preferred":[
+        "Grey Lynn"
+    ],
+    "name:eng_x_variant":[
+        "Greylynn"
+    ],
+    "name:fra_x_preferred":[
+        "Grey Lynn"
+    ],
+    "name:nld_x_preferred":[
+        "Grey Lynn"
+    ],
+    "name:pol_x_preferred":[
         "Grey Lynn"
     ],
     "nz-linz:name":"Grey Lynn",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Grey Lynn",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Grey Lynn",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":49,
+    "qs:photo_sum":331,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":475
+        "gn:id":6232260,
+        "gp:id":22726387,
+        "nz-linz:id":475,
+        "qs_pg:id":1136952,
+        "wd:id":"Q3560789",
+        "wk:page":"Grey Lynn"
     },
     "wof:country":"NZ",
     "wof:created":1602621189,
     "wof:geomhash":"64edbb434087cd4d69df77c6dd316378",
     "wof:hierarchy":[],
     "wof:id":1729338441,
-    "wof:lastmodified":1602624810,
+    "wof:lastmodified":1602696233,
     "wof:name":"Grey Lynn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778333
+    ],
     "wof:tags":[]
 },
   "bbox": [

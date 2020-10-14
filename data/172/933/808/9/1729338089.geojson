@@ -16,31 +16,62 @@
     "mps:longitude":174.876907,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Wai o Taiki Bay"
+    ],
     "name:eng_x_preferred":[
+        "Wai O Taiki Bay"
+    ],
+    "name:eng_x_variant":[
         "Wai O Taiki Bay"
     ],
     "nz-linz:name":"Wai O Taiki Bay",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2193733,
+    "qs:id":0,
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Wai o Taiki Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":47,
+    "qs:photo_sum":141,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":8933
+        "gp:id":28645602,
+        "nz-linz:id":8933,
+        "wd:id":"Q7959883"
     },
     "wof:country":"NZ",
     "wof:created":1602621045,
     "wof:geomhash":"00e1cde458303d6f89c0ef05ce0ab9a0",
     "wof:hierarchy":[],
     "wof:id":1729338089,
-    "wof:lastmodified":1602624847,
+    "wof:lastmodified":1602696231,
     "wof:name":"Wai O Taiki Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85782067
+    ],
     "wof:tags":[]
 },
   "bbox": [

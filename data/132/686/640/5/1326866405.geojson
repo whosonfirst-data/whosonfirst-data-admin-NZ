@@ -33,15 +33,87 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u0648\u0645\u0627\u0631\u06a9\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Newmarket"
+    ],
+    "name:ceb_x_preferred":[
+        "Newmarket"
+    ],
+    "name:ces_x_preferred":[
+        "Newmarket"
+    ],
+    "name:cym_x_preferred":[
+        "Newmarket"
+    ],
+    "name:deu_x_preferred":[
+        "Newmarket"
+    ],
     "name:eng_x_preferred":[
+        "Newmarket"
+    ],
+    "name:fin_x_preferred":[
         "Newmarket"
     ],
     "name:fra_x_preferred":[
         "Newmarket"
     ],
+    "name:hun_x_preferred":[
+        "Newmarket"
+    ],
+    "name:ita_x_preferred":[
+        "Newmarket"
+    ],
+    "name:kor_x_preferred":[
+        "\ub274\ub9c8\ucf13"
+    ],
+    "name:nld_x_preferred":[
+        "Newmarket"
+    ],
+    "name:pol_x_preferred":[
+        "Newmarket"
+    ],
+    "name:por_x_preferred":[
+        "Newmarket"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e\u043c\u0430\u0440\u043a\u0435\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Newmarket"
+    ],
+    "name:swe_x_preferred":[
+        "Newmarket"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ebd\u9a6c\u514b\u7279"
+    ],
     "nz-linz:id":1018,
     "nz-linz:name":"Newmarket",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2193733,
+    "qs:id":0,
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Newmarket",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":331,
+    "qs:photo_sum":2169,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -55,6 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232400,
+        "gp:id":22726471,
         "nz-linz:id":1018,
         "wk:page":"Newmarket%2C_New_Zealand"
     },
@@ -70,14 +143,16 @@
         }
     ],
     "wof:id":1326866405,
-    "wof:lastmodified":1602616357,
+    "wof:lastmodified":1602696233,
     "wof:name":"Newmarket",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778485
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,8 @@
     "geom:bbox":"174.73087,-36.856804,174.747451,-36.844719",
     "geom:latitude":-36.850733,
     "geom:longitude":174.739223,
+    "gn:latitude":-36.85,
+    "gn:longitude":174.73333,
     "iso:country":"NZ",
     "lbl:latitude":-36.852412,
     "lbl:longitude":174.741868,
@@ -16,31 +18,73 @@
     "mps:longitude":174.741868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Ponsonby"
+    ],
     "name:eng_x_preferred":[
         "Ponsonby"
     ],
+    "name:fra_x_preferred":[
+        "Ponsonby"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30bd\u30f3\u30d3\u30fc"
+    ],
+    "name:pol_x_preferred":[
+        "Ponsonby"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0441\u043e\u043d\u0431\u0438"
+    ],
     "nz-linz:name":"Ponsonby",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Ponsonby",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Ponsonby",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":272,
+    "qs:photo_sum":829,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1279
+        "gn:id":2184426,
+        "gp:id":2350177,
+        "nz-linz:id":1279,
+        "qs_pg:id":1136870
     },
     "wof:country":"NZ",
     "wof:created":1602621457,
     "wof:geomhash":"1d3845a44a3f9e421a3f7667c83edf53",
     "wof:hierarchy":[],
     "wof:id":1729339077,
-    "wof:lastmodified":1602624796,
+    "wof:lastmodified":1602696236,
     "wof:name":"Ponsonby",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773127
+    ],
     "wof:tags":[]
 },
   "bbox": [

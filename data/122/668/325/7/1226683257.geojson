@@ -40,6 +40,11 @@
     "name:eng_x_preferred":[
         "Kaiwharawhara"
     ],
+    "name:eng_x_variant":[
+        "Kaiwarawara",
+        "Kaiwarra",
+        "Kaiwhara"
+    ],
     "name:und_x_variant":[
         "Kaiwarawara",
         "Kaiwarra",
@@ -48,6 +53,30 @@
     "nz-linz:id":647,
     "nz-linz:name":"Kaiwharawhara",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Kaiwharawhara",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Kaiwharawhara",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":99,
+    "qs:photo_sum":664,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -60,8 +89,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2189162,
-        "nz-linz:id":647
+        "gn:id":6244934,
+        "gp:id":2348961,
+        "nz-linz:id":647,
+        "qs_pg:id":319758,
+        "wd:id":"Q6348697",
+        "wk:page":"Kaiwharawhara"
     },
     "wof:country":"NZ",
     "wof:geomhash":"213e98fc841b78df95d54daf7d9b2b9b",
@@ -75,14 +108,16 @@
         }
     ],
     "wof:id":1226683257,
-    "wof:lastmodified":1602616370,
+    "wof:lastmodified":1602696236,
     "wof:name":"Kaiwharawhara",
     "wof:parent_id":102079339,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85772985
+    ],
     "wof:tags":[]
 },
   "bbox": [

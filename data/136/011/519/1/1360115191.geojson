@@ -36,10 +36,22 @@
     "name:arg_x_preferred":[
         "Mission Bay"
     ],
+    "name:ceb_x_preferred":[
+        "Mission Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Mission Bay"
+    ],
     "name:eng_x_preferred":[
         "Mission Bay"
     ],
+    "name:eng_x_variant":[
+        "Missionbay"
+    ],
     "name:fra_x_preferred":[
+        "Mission Bay"
+    ],
+    "name:swe_x_preferred":[
         "Mission Bay"
     ],
     "name:zho_x_preferred":[
@@ -48,6 +60,28 @@
     "nz-linz:id":2924,
     "nz-linz:name":"Mission Bay",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Mission Bay",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Mission Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":374,
+    "qs:photo_sum":1202,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":34,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -60,8 +94,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2207714,
+        "gn:id":6232288,
+        "gp:id":22726455,
         "nz-linz:id":2924,
+        "qs_pg:id":1086017,
         "wk:page":"Mission_Bay%2C_New_Zealand"
     },
     "wof:country":"NZ",
@@ -76,14 +112,16 @@
         }
     ],
     "wof:id":1360115191,
-    "wof:lastmodified":1602616363,
+    "wof:lastmodified":1602696235,
     "wof:name":"Mission Bay",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778461
+    ],
     "wof:tags":[]
 },
   "bbox": [

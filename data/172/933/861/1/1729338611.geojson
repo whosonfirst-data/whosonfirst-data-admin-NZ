@@ -9,6 +9,8 @@
     "geom:bbox":"174.798549,-41.336994,174.813184,-41.315873",
     "geom:latitude":-41.326586,
     "geom:longitude":174.806564,
+    "gn:latitude":-41.32124,
+    "gn:longitude":174.80156,
     "iso:country":"NZ",
     "lbl:latitude":-41.324332,
     "lbl:longitude":174.804851,
@@ -16,31 +18,73 @@
     "mps:longitude":174.804851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Rongotai"
+    ],
     "name:eng_x_preferred":[
+        "Rongotai"
+    ],
+    "name:fin_x_preferred":[
+        "Rongotai"
+    ],
+    "name:fit_x_preferred":[
+        "Rongotai"
+    ],
+    "name:swe_x_preferred":[
         "Rongotai"
     ],
     "nz-linz:name":"Rongotai",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Rongotai",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Rongotai",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":292,
+    "qs:photo_sum":1011,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1427
+        "gn:id":6244687,
+        "gp:id":22726512,
+        "nz-linz:id":1427,
+        "qs_pg:id":905424,
+        "wd:id":"Q7365665"
     },
     "wof:country":"NZ",
     "wof:created":1602621260,
     "wof:geomhash":"2a01351df46f4d0b2868b5161f63f4a1",
     "wof:hierarchy":[],
     "wof:id":1729338611,
-    "wof:lastmodified":1602624811,
+    "wof:lastmodified":1602696233,
     "wof:name":"Rongotai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778573
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,8 @@
     "geom:bbox":"174.81818,-36.876637,174.844179,-36.864806",
     "geom:latitude":-36.869501,
     "geom:longitude":174.829573,
+    "gn:latitude":-36.8682,
+    "gn:longitude":174.82019,
     "iso:country":"NZ",
     "lbl:latitude":-36.869342,
     "lbl:longitude":174.826129,
@@ -19,28 +21,61 @@
     "name:eng_x_preferred":[
         "Meadowbank"
     ],
+    "name:fra_x_preferred":[
+        "Meadowbank"
+    ],
+    "name:sco_x_preferred":[
+        "Meadowbank"
+    ],
     "nz-linz:name":"Meadowbank",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Meadowbank",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Meadowbank",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":163,
+    "qs:photo_sum":359,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2921
+        "gn:id":6232304,
+        "gp:id":22726449,
+        "nz-linz:id":2921,
+        "qs_pg:id":24289
     },
     "wof:country":"NZ",
     "wof:created":1602621472,
     "wof:geomhash":"cec873f931901f59f6b45db5a3c3f149",
     "wof:hierarchy":[],
     "wof:id":1729339117,
-    "wof:lastmodified":1602624850,
+    "wof:lastmodified":1602696237,
     "wof:name":"Meadowbank",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778449
+    ],
     "wof:tags":[]
 },
   "bbox": [

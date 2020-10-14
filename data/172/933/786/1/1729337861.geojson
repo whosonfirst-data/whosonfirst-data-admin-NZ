@@ -9,6 +9,8 @@
     "geom:bbox":"174.701723,-36.90041,174.735851,-36.868321",
     "geom:latitude":-36.884724,
     "geom:longitude":174.717695,
+    "gn:latitude":-36.8782,
+    "gn:longitude":174.72019,
     "iso:country":"NZ",
     "lbl:latitude":-36.885835,
     "lbl:longitude":174.716322,
@@ -16,31 +18,67 @@
     "mps:longitude":174.716322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mount Albert"
+    ],
     "name:eng_x_preferred":[
+        "Mount Albert"
+    ],
+    "name:eng_x_variant":[
+        "Mt Albert"
+    ],
+    "name:swe_x_preferred":[
         "Mount Albert"
     ],
     "nz-linz:name":"Mount Albert",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"MOUNT ALBERT",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Mount Albert",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":197,
+    "qs:photo_sum":615,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":994
+        "gn:id":6232255,
+        "gp:id":2349619,
+        "nz-linz:id":994,
+        "qs_pg:id":1081099
     },
     "wof:country":"NZ",
     "wof:created":1602620945,
     "wof:geomhash":"851a63997cc951942a0fca47b35fafcb",
     "wof:hierarchy":[],
     "wof:id":1729337861,
-    "wof:lastmodified":1602624853,
+    "wof:lastmodified":1602696231,
     "wof:name":"Mount Albert",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773035
+    ],
     "wof:tags":[]
 },
   "bbox": [

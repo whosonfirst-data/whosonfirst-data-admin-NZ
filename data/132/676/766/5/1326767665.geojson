@@ -36,6 +36,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0456\u043b\u0431\u0456\u0440\u043d\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0456\u043b\u0431\u0456\u0440\u043d\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Kilbirnie"
     ],
@@ -57,6 +60,9 @@
     "name:gla_x_preferred":[
         "Cill Bhreannain"
     ],
+    "name:gla_x_variant":[
+        "Cill Bhreannain"
+    ],
     "name:gle_x_preferred":[
         "Cille Bhraonaidh"
     ],
@@ -67,6 +73,9 @@
         "Kilbirnie"
     ],
     "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0431\u0435\u0440\u043d\u0438"
+    ],
+    "name:rus_x_variant":[
         "\u041a\u0438\u043b\u0431\u0435\u0440\u043d\u0438"
     ],
     "name:sco_x_preferred":[
@@ -81,6 +90,30 @@
     "nz-linz:id":690,
     "nz-linz:name":"Kilbirnie",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2179537,
+    "qs:gn_nam_loc":"Wellington, Wellington City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Kilbirnie",
+    "qs:local_max":19977,
+    "qs:local_sum":87076,
+    "qs:localhoods":57,
+    "qs:name":"Kilbirnie",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Wellington City",
+    "qs:name_local":"Wellington",
+    "qs:photo_max":196,
+    "qs:photo_sum":724,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875846,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351310,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -93,8 +126,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2188847,
-        "nz-linz:id":690
+        "gn:id":6244788,
+        "gp:id":2349055,
+        "nz-linz:id":690,
+        "qs_pg:id":895050
     },
     "wof:country":"NZ",
     "wof:geomhash":"0e7b0cfe32210b819610ebccfaf37f99",
@@ -108,14 +143,16 @@
         }
     ],
     "wof:id":1326767665,
-    "wof:lastmodified":1602616370,
+    "wof:lastmodified":1602696236,
     "wof:name":"Kilbirnie",
     "wof:parent_id":102079339,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773001
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,8 @@
     "geom:bbox":"174.712246,-36.863585,174.732217,-36.84984",
     "geom:latitude":-36.855173,
     "geom:longitude":174.722606,
+    "gn:latitude":-36.85538,
+    "gn:longitude":174.71991,
     "iso:country":"NZ",
     "lbl:latitude":-36.855556,
     "lbl:longitude":174.723587,
@@ -16,31 +18,70 @@
     "mps:longitude":174.723587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Westmere"
+    ],
+    "name:deu_x_preferred":[
+        "Westmere"
+    ],
     "name:eng_x_preferred":[
         "Westmere"
     ],
+    "name:ita_x_preferred":[
+        "Westmere"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8\ubbf8\uc5b4"
+    ],
     "nz-linz:name":"Westmere",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2193733,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Westmere",
+    "qs:local_max":31609,
+    "qs:local_sum":82436,
+    "qs:localhoods":53,
+    "qs:name":"Westmere",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Auckland",
+    "qs:photo_max":120,
+    "qs:photo_sum":248,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348079,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2916
+        "gn:id":6232259,
+        "gp:id":22726574,
+        "nz-linz:id":2916,
+        "qs_pg:id":1077020
     },
     "wof:country":"NZ",
     "wof:created":1602621350,
     "wof:geomhash":"7f9b631e56f6a4295860f73265b30550",
     "wof:hierarchy":[],
     "wof:id":1729338835,
-    "wof:lastmodified":1602624838,
+    "wof:lastmodified":1602696234,
     "wof:name":"Westmere",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778735
+    ],
     "wof:tags":[]
 },
   "bbox": [
