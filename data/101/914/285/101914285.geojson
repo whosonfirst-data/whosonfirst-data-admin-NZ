@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2020-09-22",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.003555,
     "geom:area_square_m":33038293.588818,
@@ -507,14 +507,16 @@
         }
     ],
     "wof:id":101914285,
-    "wof:lastmodified":1602626158,
+    "wof:lastmodified":1602709706,
     "wof:name":"Wellington",
     "wof:parent_id":102079339,
     "wof:placetype":"locality",
     "wof:population":381900,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729238583
+    ],
     "wof:supersedes":[
         101914341,
         101914343,

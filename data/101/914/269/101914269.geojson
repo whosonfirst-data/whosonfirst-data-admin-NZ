@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2020-09-22",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.002991,
     "geom:area_square_m":25742416.390351,
@@ -293,14 +293,16 @@
         }
     ],
     "wof:id":101914269,
-    "wof:lastmodified":1602626154,
+    "wof:lastmodified":1602709704,
     "wof:name":"Dunedin",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",
     "wof:population":114347,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729238495
+    ],
     "wof:supersedes":[
         101914509,
         101914617,

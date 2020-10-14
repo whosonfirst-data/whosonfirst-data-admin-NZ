@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2020-09-22",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.000824,
     "geom:area_square_m":7671933.074931,
@@ -301,14 +301,16 @@
         }
     ],
     "wof:id":101914925,
-    "wof:lastmodified":1602626156,
+    "wof:lastmodified":1602709705,
     "wof:name":"Porirua",
     "wof:parent_id":102079317,
     "wof:placetype":"locality",
     "wof:population":50914,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729238563
+    ],
     "wof:supersedes":[
         101914927,
         101915277,

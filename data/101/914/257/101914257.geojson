@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2020-09-22",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.022045,
     "geom:area_square_m":218069752.664229,
@@ -443,14 +443,16 @@
         }
     ],
     "wof:id":101914257,
-    "wof:lastmodified":1602626153,
+    "wof:lastmodified":1602709697,
     "wof:name":"Auckland",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:population":1454300,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729238453
+    ],
     "wof:supersedes":[
         101914333,
         101914387,

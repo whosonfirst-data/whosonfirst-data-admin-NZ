@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2020-09-22",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.001666,
     "geom:area_square_m":15896811.254661,
@@ -323,14 +323,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602626158,
+    "wof:lastmodified":1602709707,
     "wof:name":"Napier",
     "wof:parent_id":102079331,
     "wof:placetype":"locality",
     "wof:population":56787,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729238511
+    ],
     "wof:supersedes":[
         101915285,
         101915287,
