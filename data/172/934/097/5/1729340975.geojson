@@ -9,6 +9,9 @@
     "geom:bbox":"173.544581,-35.552413,173.641545,-35.435386",
     "geom:latitude":-35.500179,
     "geom:longitude":173.597396,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-35.503187,
     "lbl:longitude":173.593472,
@@ -19,6 +22,9 @@
     "name:eng_x_preferred":[
         "Waima"
     ],
+    "name:nor_x_preferred":[
+        "Waima"
+    ],
     "nz-linz:name":"Waima",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -26,21 +32,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1800
+        "gn:id":2180213,
+        "gp:id":2351126,
+        "nz-linz:id":1800,
+        "qs_pg:id":389707
     },
     "wof:country":"NZ",
     "wof:created":1602622244,
     "wof:geomhash":"e62cafc3cb144c66404a8bb3c378d87f",
     "wof:hierarchy":[],
     "wof:id":1729340975,
-    "wof:lastmodified":1602624738,
+    "wof:lastmodified":1602633732,
     "wof:name":"Waima",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126095071
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,9 @@
     "geom:bbox":"174.829008,-41.196324,174.854868,-41.179635",
     "geom:latitude":-41.187215,
     "geom:longitude":174.842488,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-41.186677,
     "lbl:longitude":174.844829,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":472
+        "gn:id":6244927,
+        "gp:id":22726384,
+        "nz-linz:id":472,
+        "qs_pg:id":1027891
     },
     "wof:country":"NZ",
     "wof:created":1602621074,
     "wof:geomhash":"0508235df37d355f1a0c395b68e468d9",
     "wof:hierarchy":[],
     "wof:id":1729338161,
-    "wof:lastmodified":1602624803,
+    "wof:lastmodified":1602633706,
     "wof:name":"Grenada North",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126085315
+    ],
     "wof:tags":[]
 },
   "bbox": [

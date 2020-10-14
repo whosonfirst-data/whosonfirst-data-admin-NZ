@@ -9,6 +9,8 @@
     "geom:bbox":"175.594349,-40.375231,175.62575,-40.359231",
     "geom:latitude":-40.36804,
     "geom:longitude":175.60928,
+    "gn:latitude":-40.3659,
+    "gn:longitude":175.59843,
     "iso:country":"NZ",
     "lbl:latitude":-40.368408,
     "lbl:longitude":175.610362,
@@ -19,28 +21,64 @@
     "name:eng_x_preferred":[
         "West End"
     ],
+    "name:eng_x_variant":[
+        "W End"
+    ],
+    "name:nld_x_preferred":[
+        "West End"
+    ],
     "nz-linz:name":"West End",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2185018,
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"West End",
+    "qs:local_max":729,
+    "qs:local_sum":2351,
+    "qs:localhoods":11,
+    "qs:name":"West End",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Manawatu Wanganui",
+    "qs:name_adm2":"Palmerston North City",
+    "qs:name_local":"Palmerston North",
+    "qs:photo_max":201,
+    "qs:photo_sum":408,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021764,
+    "qs:woe_adm2":55875856,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350025,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1904
+        "gn:id":6227743,
+        "gp:id":28644164,
+        "nz-linz:id":1904,
+        "qs_pg:id":1086325,
+        "wd:id":"Q7985032",
+        "wk:page":"West End, Manawatu-Wanganui"
     },
     "wof:country":"NZ",
     "wof:created":1602621006,
     "wof:geomhash":"c30ba511fd18b1bb1e3039e570d5ab93",
     "wof:hierarchy":[],
     "wof:id":1729337997,
-    "wof:lastmodified":1602624796,
+    "wof:lastmodified":1602633699,
     "wof:name":"West End",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781231
+    ],
     "wof:tags":[]
 },
   "bbox": [

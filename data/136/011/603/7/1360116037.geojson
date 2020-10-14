@@ -43,6 +43,9 @@
     "name:eng_x_preferred":[
         "Harewood"
     ],
+    "name:eng_x_variant":[
+        "Harewood Settlement"
+    ],
     "name:epo_x_preferred":[
         "Harewood"
     ],
@@ -76,6 +79,30 @@
     "nz-linz:id":501,
     "nz-linz:name":"Harewood",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Harewood",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Harewood",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":26,
+    "qs:photo_sum":204,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -88,8 +115,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2190262,
-        "nz-linz:id":501
+        "gn:id":6220398,
+        "gp:id":2348708,
+        "nz-linz:id":501,
+        "qs_pg:id":9337
     },
     "wof:country":"NZ",
     "wof:geomhash":"51c87578702b48963048e89e0676e49a",
@@ -103,14 +132,16 @@
         }
     ],
     "wof:id":1360116037,
-    "wof:lastmodified":1602616356,
+    "wof:lastmodified":1602633714,
     "wof:name":"Harewood",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85772947
+    ],
     "wof:tags":[]
 },
   "bbox": [

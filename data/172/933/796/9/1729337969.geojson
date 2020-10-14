@@ -9,6 +9,9 @@
     "geom:bbox":"175.098836,-41.114758,175.129817,-41.094717",
     "geom:latitude":-41.103158,
     "geom:longitude":175.114228,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-41.102901,
     "lbl:longitude":175.114231,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1684
+        "gn:id":6244887,
+        "gp:id":22726555,
+        "nz-linz:id":1684,
+        "qs_pg:id":56291
     },
     "wof:country":"NZ",
     "wof:created":1602620993,
     "wof:geomhash":"852b6322e456030016f1e76006e06497",
     "wof:hierarchy":[],
     "wof:id":1729337969,
-    "wof:lastmodified":1602624800,
+    "wof:lastmodified":1602633698,
     "wof:name":"Timberlea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126106945
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,9 @@
     "geom:bbox":"171.235387,-44.409738,171.261798,-44.400539",
     "geom:latitude":-44.404719,
     "geom:longitude":171.248844,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-44.404588,
     "lbl:longitude":171.248847,
@@ -16,7 +19,16 @@
     "mps:longitude":171.248847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Parkside"
+    ],
+    "name:deu_x_preferred":[
+        "Parkside"
+    ],
     "name:eng_x_preferred":[
+        "Parkside"
+    ],
+    "name:swe_x_preferred":[
         "Parkside"
     ],
     "nz-linz:name":"Parkside",
@@ -26,21 +38,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1219
+        "gn:id":6214565,
+        "gp:id":28644549,
+        "nz-linz:id":1219,
+        "qs_pg:id":992960
     },
     "wof:country":"NZ",
     "wof:created":1602621468,
     "wof:geomhash":"e5ad02369fab756ef5d4d9ac497aa335",
     "wof:hierarchy":[],
     "wof:id":1729339107,
-    "wof:lastmodified":1602624861,
+    "wof:lastmodified":1602633730,
     "wof:name":"Parkside",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126073491
+    ],
     "wof:tags":[]
 },
   "bbox": [

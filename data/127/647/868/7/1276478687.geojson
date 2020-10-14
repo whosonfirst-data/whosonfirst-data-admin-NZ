@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Taita"
     ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d5\u05e2\u05d9"
+    ],
     "name:kor_x_preferred":[
         "\ub2e4\uc774\ud0c0"
     ],
@@ -54,6 +57,30 @@
     "nz-linz:id":1570,
     "nz-linz:name":"Taita",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Taita",
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Taita",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":23,
+    "qs:photo_sum":57,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -66,8 +93,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2182006,
-        "nz-linz:id":1570
+        "gn:id":6244874,
+        "gp:id":2350678,
+        "nz-linz:id":1570,
+        "qs_pg:id":1315441
     },
     "wof:country":"NZ",
     "wof:geomhash":"e1c58f69249b66f384bc7baf23a3b7d6",
@@ -81,14 +110,16 @@
         }
     ],
     "wof:id":1276478687,
-    "wof:lastmodified":1602616358,
+    "wof:lastmodified":1602633719,
     "wof:name":"Taita",
     "wof:parent_id":102079337,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773211
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,9 @@
     "geom:bbox":"174.815637,-41.212797,174.844327,-41.189869",
     "geom:latitude":-41.201827,
     "geom:longitude":174.829916,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-41.200438,
     "lbl:longitude":174.828938,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":473
+        "gn:id":6244928,
+        "gp:id":22726385,
+        "nz-linz:id":473,
+        "qs_pg:id":205854
     },
     "wof:country":"NZ",
     "wof:created":1602621425,
     "wof:geomhash":"9ba56fa9f07142e3e2a9ecbdfb61fb68",
     "wof:hierarchy":[],
     "wof:id":1729338999,
-    "wof:lastmodified":1602624849,
+    "wof:lastmodified":1602633728,
     "wof:name":"Grenada Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126087861
+    ],
     "wof:tags":[]
 },
   "bbox": [

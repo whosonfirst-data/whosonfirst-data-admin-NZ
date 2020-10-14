@@ -9,6 +9,7 @@
     "geom:bbox":"174.715874,-36.700907,174.752786,-36.660602",
     "geom:latitude":-36.684002,
     "geom:longitude":174.737187,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.685428,
     "lbl:longitude":174.736902,
@@ -16,31 +17,63 @@
     "mps:longitude":174.736902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Long Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Long Bay"
+    ],
     "name:eng_x_preferred":[
+        "Long Bay"
+    ],
+    "name:swe_x_preferred":[
         "Long Bay"
     ],
     "nz-linz:name":"Long Bay",
     "nz-linz:type":"SUBURB",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Long Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":7,
+    "qs:photo_sum":27,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":8824
+        "gp:id":28645534,
+        "nz-linz:id":8824,
+        "qs_pg:id":1286900
     },
     "wof:country":"NZ",
     "wof:created":1602621402,
     "wof:geomhash":"419efaee47ba7921e89a3e52263eb8f1",
     "wof:hierarchy":[],
     "wof:id":1729338943,
-    "wof:lastmodified":1602624813,
+    "wof:lastmodified":1602633726,
     "wof:name":"Long Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85782019
+    ],
     "wof:tags":[]
 },
   "bbox": [

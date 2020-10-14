@@ -9,6 +9,7 @@
     "geom:bbox":"173.255216,-41.294386,173.276866,-41.273442",
     "geom:latitude":-41.284031,
     "geom:longitude":173.263625,
+    "gn:country":null,
     "iso:country":"NZ",
     "lbl:latitude":-41.283714,
     "lbl:longitude":173.261986,
@@ -26,21 +27,25 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1707
+        "gp:id":28644080,
+        "nz-linz:id":1707,
+        "qs_pg:id":1197219
     },
     "wof:country":"NZ",
     "wof:created":1602621290,
     "wof:geomhash":"e0b694dd8187a4e84cfecf9a8e0b8a5b",
     "wof:hierarchy":[],
     "wof:id":1729338685,
-    "wof:lastmodified":1602624811,
+    "wof:lastmodified":1602633719,
     "wof:name":"Toi Toi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126071949
+    ],
     "wof:tags":[]
 },
   "bbox": [

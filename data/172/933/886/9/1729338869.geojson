@@ -9,6 +9,7 @@
     "geom:bbox":"174.791476,-36.620098,174.841023,-36.592554",
     "geom:latitude":-36.605289,
     "geom:longitude":174.821801,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.603473,
     "lbl:longitude":174.825556,
@@ -19,28 +20,60 @@
     "name:eng_x_preferred":[
         "Army Bay"
     ],
+    "name:hun_x_preferred":[
+        "Armier Bay"
+    ],
+    "name:nno_x_preferred":[
+        "Armierbukta"
+    ],
     "nz-linz:name":"Army Bay",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2179313,
+    "qs:gn_nam_loc":"whangaparaoa",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":358,
+    "qs:local_sum":1491,
+    "qs:localhoods":9,
+    "qs:name":"Army Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Whangaparaoa",
+    "qs:photo_max":15,
+    "qs:photo_sum":50,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351363,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2885
+        "gp:id":28645487,
+        "nz-linz:id":2885,
+        "qs_pg:id":484480
     },
     "wof:country":"NZ",
     "wof:created":1602621364,
     "wof:geomhash":"60fb5e0439b74cabc88f49f239492a5d",
     "wof:hierarchy":[],
     "wof:id":1729338869,
-    "wof:lastmodified":1602624809,
+    "wof:lastmodified":1602633724,
     "wof:name":"Army Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85782001
+    ],
     "wof:tags":[]
 },
   "bbox": [

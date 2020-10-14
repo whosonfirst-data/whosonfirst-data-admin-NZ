@@ -9,6 +9,7 @@
     "geom:bbox":"174.600384,-36.911732,174.64553,-36.843268",
     "geom:latitude":-36.879722,
     "geom:longitude":174.622946,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.88169,
     "lbl:longitude":174.624815,
@@ -16,31 +17,150 @@
     "mps:longitude":174.624815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0647\u0646\u062f\u0631\u0633\u0648\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0646\u062f\u0631\u0633\u0648\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0435\u043d\u0434\u044d\u0440\u0441\u0430\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Henderson"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u043d\u0434\u0435\u0440\u0441\u044a\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Henderson"
+    ],
+    "name:ceb_x_preferred":[
+        "Henderson"
+    ],
+    "name:ces_x_preferred":[
+        "Henderson"
+    ],
+    "name:deu_x_preferred":[
+        "Henderson"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ad\u03bd\u03c4\u03b5\u03c1\u03c3\u03bf\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Henderson"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0646\u062f\u0631\u0633\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Henderson"
+    ],
+    "name:fra_x_preferred":[
+        "Henderson"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e0\u05d3\u05e8\u05e1\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Henderson"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30f3\u30c0\u30fc\u30bd\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5e8\ub354\uc2a8"
+    ],
+    "name:lav_x_preferred":[
+        "Hendersons"
+    ],
+    "name:nds_x_preferred":[
+        "Henderson"
+    ],
+    "name:nld_x_preferred":[
+        "Henderson"
+    ],
+    "name:nor_x_preferred":[
+        "Henderson"
+    ],
+    "name:pol_x_preferred":[
+        "Henderson"
+    ],
+    "name:por_x_preferred":[
+        "Henderson"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043d\u0434\u0435\u0440\u0441\u043e\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Henderson"
+    ],
+    "name:slv_x_preferred":[
+        "Henderson"
+    ],
+    "name:spa_x_preferred":[
+        "Henderson"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0435\u043d\u0434\u0435\u0440\u0441\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Henderson"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043d\u0434\u0435\u0440\u0441\u043e\u043d"
+    ],
+    "name:vol_x_preferred":[
+        "Henderson"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ea8\u5fb7\u68ee"
+    ],
     "nz-linz:name":"Henderson",
     "nz-linz:type":"SUBURB",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":255,
+    "qs:local_sum":255,
+    "qs:localhoods":1,
+    "qs:name":"Henderson North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Henderson",
+    "qs:photo_max":68,
+    "qs:photo_sum":255,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726393,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":526
+        "gp:id":22726674,
+        "nz-linz:id":526,
+        "qs_pg:id":347225
     },
     "wof:country":"NZ",
     "wof:created":1602621193,
     "wof:geomhash":"2e2fce285257d588670622e33f211e56",
     "wof:hierarchy":[],
     "wof:id":1729338451,
-    "wof:lastmodified":1602624804,
+    "wof:lastmodified":1602633714,
     "wof:name":"Henderson",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778995
+    ],
     "wof:tags":[]
 },
   "bbox": [

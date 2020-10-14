@@ -10,6 +10,7 @@
     "geom:latitude":-36.896377,
     "geom:longitude":174.813737,
     "gn:country":null,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.896865,
     "lbl:longitude":174.812736,
@@ -21,15 +22,46 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Ellerslie"
+    ],
+    "name:deu_x_preferred":[
+        "Ellerslie"
+    ],
     "name:eng_x_preferred":[
         "Ellerslie"
     ],
+    "name:eng_x_variant":[
+        "Ellerslie Central"
+    ],
     "name:nld_x_preferred":[
+        "Ellerslie"
+    ],
+    "name:swe_x_preferred":[
         "Ellerslie"
     ],
     "nz-linz:id":341,
     "nz-linz:name":"Ellerslie",
     "nz-linz:type":"SUBURB",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":617,
+    "qs:local_sum":887,
+    "qs:localhoods":2,
+    "qs:name":"Ellerslie Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Ellerslie",
+    "qs:photo_max":112,
+    "qs:photo_sum":617,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":32,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726363,
+    "qs:woe_ver":"7.10.0",
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Ellerslie",
@@ -64,9 +96,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":22726363,
+        "gp:id":28676727,
         "nz-linz:id":341,
-        "qs_pg:id":534217,
+        "qs_pg:id":220377,
         "wd:id":"Q5365180"
     },
     "wof:country":"NZ",
@@ -82,14 +114,16 @@
         }
     ],
     "wof:id":1125978555,
-    "wof:lastmodified":1602616337,
+    "wof:lastmodified":1602633693,
     "wof:name":"Ellerslie",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85782385
+    ],
     "wof:tags":[]
 },
   "bbox": [

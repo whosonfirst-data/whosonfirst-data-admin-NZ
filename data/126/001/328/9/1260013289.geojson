@@ -39,6 +39,29 @@
     "nz-linz:id":371,
     "nz-linz:name":"Favona",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Favona",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Favona",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":20,
+    "qs:photo_sum":29,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -50,8 +73,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2191177,
+        "gn:id":6231910,
+        "gp:id":2348517,
         "nz-linz:id":371,
+        "qs_pg:id":973627,
+        "wd:id":"Q5438588",
         "wk:page":"Favona"
     },
     "wof:country":"NZ",
@@ -65,14 +91,16 @@
         }
     ],
     "wof:id":1260013289,
-    "wof:lastmodified":1602616352,
+    "wof:lastmodified":1602633708,
     "wof:name":"Favona",
     "wof:parent_id":85687243,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85772903
+    ],
     "wof:tags":[]
 },
   "bbox": [

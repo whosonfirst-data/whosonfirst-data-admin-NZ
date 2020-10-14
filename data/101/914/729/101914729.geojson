@@ -10,6 +10,8 @@
     "geom:latitude":-36.824156,
     "geom:longitude":174.798654,
     "gn:id":"2207724,6232166",
+    "gn:latitude":-36.82972,
+    "gn:longitude":174.79944,
     "iso:country":"NZ",
     "lbl:latitude":-36.822967,
     "lbl:longitude":174.798375,
@@ -20,6 +22,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Devonport"
+    ],
+    "name:ces_x_preferred":[
+        "Devonport"
+    ],
     "name:cym_x_preferred":[
         "Devonport"
     ],
@@ -29,13 +37,40 @@
     "name:eng_x_preferred":[
         "Devonport"
     ],
+    "name:fin_x_preferred":[
+        "Devonport"
+    ],
+    "name:fra_x_preferred":[
+        "Devonport"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0565\u057e\u0578\u0576\u057a\u0578\u0580\u057f"
+    ],
+    "name:mlg_x_preferred":[
+        "Devonport"
+    ],
+    "name:nld_x_preferred":[
+        "Devonport"
+    ],
+    "name:nor_x_preferred":[
+        "Devonport"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0648\u0679\u0648\u0631\u0648\u06c1\u0627\u0646\u06af\u0627"
     ],
+    "name:pol_x_preferred":[
+        "Devonport"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0432\u043e\u043d\u043f\u043e\u0440\u0442"
+    ],
     "name:sco_x_preferred":[
+        "Devonport"
+    ],
+    "name:spa_x_preferred":[
+        "Devonport"
+    ],
+    "name:swe_x_preferred":[
         "Devonport"
     ],
     "name:zho_x_preferred":[
@@ -48,12 +83,33 @@
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"New Zealand",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Devonport",
     "qs:id":0,
     "qs:la_lc":"*",
     "qs:level":"locality",
     "qs:loc":"Devonport",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Devonport",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":672,
+    "qs:photo_sum":2509,
+    "qs:placetype":"Suburb",
     "qs:pop":0,
+    "qs:quad_count":29,
     "qs:source":"LUnknown",
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "quattroshapes"
@@ -68,7 +124,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2207724,
+        "gp:id":22726360,
         "nz-linz:id":2896,
+        "qs_pg:id":56214,
         "wd:id":"Q1206994"
     },
     "wof:country":"NZ",
@@ -83,14 +142,16 @@
         }
     ],
     "wof:id":101914729,
-    "wof:lastmodified":1602616346,
+    "wof:lastmodified":1602633703,
     "wof:name":"Devonport",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778259
+    ],
     "wof:tags":[]
 },
   "bbox": [

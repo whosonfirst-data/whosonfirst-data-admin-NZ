@@ -9,6 +9,9 @@
     "geom:bbox":"173.585562,-35.503626,173.725533,-35.388132",
     "geom:latitude":-35.439894,
     "geom:longitude":173.663967,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-35.439303,
     "lbl:longitude":173.669842,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1559
+        "gn:id":2182075,
+        "gp:id":2350657,
+        "nz-linz:id":1559,
+        "qs_pg:id":1015584
     },
     "wof:country":"NZ",
     "wof:created":1602622250,
     "wof:geomhash":"4aa88b5476ceeeb6a29fec417c37d30e",
     "wof:hierarchy":[],
     "wof:id":1729340987,
-    "wof:lastmodified":1602624734,
+    "wof:lastmodified":1602633732,
     "wof:name":"Taheke",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126079049
+    ],
     "wof:tags":[]
 },
   "bbox": [

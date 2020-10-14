@@ -9,6 +9,8 @@
     "geom:bbox":"173.38801,-35.530544,173.446726,-35.450861",
     "geom:latitude":-35.496292,
     "geom:longitude":173.419606,
+    "gn:latitude":-35.5,
+    "gn:longitude":173.4,
     "iso:country":"NZ",
     "lbl:latitude":-35.503125,
     "lbl:longitude":173.417585,
@@ -16,31 +18,81 @@
     "mps:longitude":173.417585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u043e\u043d\u043e\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Opononi"
+    ],
+    "name:deu_x_preferred":[
+        "Opononi"
+    ],
     "name:eng_x_preferred":[
+        "Opononi"
+    ],
+    "name:fra_x_preferred":[
+        "Opononi"
+    ],
+    "name:mri_x_preferred":[
+        "Opononi"
+    ],
+    "name:msa_x_preferred":[
+        "Opononi"
+    ],
+    "name:nld_x_preferred":[
         "Opononi"
     ],
     "nz-linz:name":"Opononi",
     "nz-linz:type":"LOCALITY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"F6",
+    "qs:gn_name":"Opononi",
+    "qs:local_max":371,
+    "qs:local_sum":635,
+    "qs:localhoods":6,
+    "qs:name":"Opononi",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Northland",
+    "qs:name_adm2":"Far North District",
+    "qs:name_local":"Hokianga Harbour",
+    "qs:photo_max":26,
+    "qs:photo_sum":75,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021755,
+    "qs:woe_adm2":55875844,
+    "qs:woe_lau":0,
+    "qs:woe_local":28645523,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2774
+        "gn:id":2185512,
+        "gp:id":2349881,
+        "nz-linz:id":2774,
+        "qs_pg:id":479665,
+        "wd:id":"Q204227",
+        "wk:page":"Opononi"
     },
     "wof:country":"NZ",
     "wof:created":1602622042,
     "wof:geomhash":"caaa47b02683da82fc97ba4bcb7e17c8",
     "wof:hierarchy":[],
     "wof:id":1729340481,
-    "wof:lastmodified":1602624726,
+    "wof:lastmodified":1602633732,
     "wof:name":"Opononi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773089
+    ],
     "wof:tags":[]
 },
   "bbox": [

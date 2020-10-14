@@ -9,6 +9,7 @@
     "geom:bbox":"174.917929,-37.022393,174.959581,-36.995767",
     "geom:latitude":-37.010493,
     "geom:longitude":174.940852,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-37.007551,
     "lbl:longitude":174.94637,
@@ -16,31 +17,93 @@
     "mps:longitude":174.94637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Alfriston"
+    ],
+    "name:cym_x_preferred":[
+        "Alfriston"
+    ],
+    "name:deu_x_preferred":[
+        "Alfriston"
+    ],
     "name:eng_x_preferred":[
         "Alfriston"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u06cc\u0633\u062a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Alfriston"
+    ],
+    "name:hbs_x_preferred":[
+        "Alfriston"
+    ],
+    "name:ita_x_preferred":[
+        "Alfriston"
+    ],
+    "name:nld_x_preferred":[
+        "Alfriston"
+    ],
+    "name:pol_x_preferred":[
+        "Alfriston"
+    ],
+    "name:spa_x_preferred":[
+        "Alfriston"
+    ],
+    "name:swe_x_preferred":[
+        "Alfriston"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u5f17\u91cc\u65af\u9813"
+    ],
     "nz-linz:name":"Alfriston",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Alfriston",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":6,
+    "qs:photo_sum":15,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":18
+        "gp:id":28643771,
+        "nz-linz:id":18,
+        "qs_pg:id":65666
     },
     "wof:country":"NZ",
     "wof:created":1602621122,
     "wof:geomhash":"92f66ba4f7fe3a9f4d6463cf57b8437c",
     "wof:hierarchy":[],
     "wof:id":1729338277,
-    "wof:lastmodified":1602624803,
+    "wof:lastmodified":1602633710,
     "wof:name":"Alfriston",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85780821
+    ],
     "wof:tags":[]
 },
   "bbox": [

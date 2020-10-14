@@ -9,6 +9,11 @@
     "geom:bbox":"174.086136,-39.060656,174.106342,-39.045195",
     "geom:latitude":-39.053868,
     "geom:longitude":174.095598,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:latitude":-39.05395,
+    "gn:longitude":174.09429,
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-39.053522,
     "lbl:longitude":174.094605,
@@ -26,21 +31,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1538
+        "gn:id":6222904,
+        "gp:id":28644304,
+        "nz-linz:id":1538,
+        "qs_pg:id":1182376
     },
     "wof:country":"NZ",
     "wof:created":1602620978,
     "wof:geomhash":"6e142bf5d7adc40591398677aa90b3cb",
     "wof:hierarchy":[],
     "wof:id":1729337933,
-    "wof:lastmodified":1602624831,
+    "wof:lastmodified":1602633697,
     "wof:name":"Strandon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126068605
+    ],
     "wof:tags":[]
 },
   "bbox": [

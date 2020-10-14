@@ -16,16 +16,76 @@
     "mps:longitude":174.674423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Green Bay"
+    ],
+    "name:ces_x_preferred":[
+        "Green Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Green Bay"
+    ],
     "name:eng_x_preferred":[
         "Green Bay"
     ],
+    "name:ind_x_preferred":[
+        "Green Bay"
+    ],
+    "name:ita_x_preferred":[
+        "Green Bay"
+    ],
+    "name:nld_x_preferred":[
+        "Green Bay"
+    ],
+    "name:nor_x_preferred":[
+        "Green Bay"
+    ],
+    "name:pol_x_preferred":[
+        "Green Bay"
+    ],
+    "name:por_x_preferred":[
+        "Green Bay"
+    ],
+    "name:ron_x_preferred":[
+        "Green Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Green Bay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0456\u043d-\u0411\u0435\u0439"
+    ],
     "nz-linz:name":"Green Bay",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":7302484,
+    "qs:gn_nam_loc":"waitakere",
+    "qs:gn_namadm1":"E7",
+    "qs:id":0,
+    "qs:local_max":282,
+    "qs:local_sum":2234,
+    "qs:localhoods":18,
+    "qs:name":"Green Bay",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Waitakere",
+    "qs:photo_max":17,
+    "qs:photo_sum":52,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":28644854,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":22726381,
         "nz-linz:id":462
     },
     "wof:country":"NZ",
@@ -33,14 +93,16 @@
     "wof:geomhash":"f7ba8143d5c68b55e9de1f944148e7ef",
     "wof:hierarchy":[],
     "wof:id":1729337797,
-    "wof:lastmodified":1602624826,
+    "wof:lastmodified":1602633693,
     "wof:name":"Green Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778321
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,7 @@
     "geom:bbox":"175.267479,-37.776708,175.293934,-37.760536",
     "geom:latitude":-37.768697,
     "geom:longitude":175.280595,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-37.768044,
     "lbl:longitude":175.28349,
@@ -16,31 +17,136 @@
     "mps:longitude":175.28349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Fairfield"
+    ],
+    "name:ceb_x_preferred":[
+        "Fairfield"
+    ],
+    "name:dan_x_preferred":[
+        "Fairfield"
+    ],
+    "name:deu_x_preferred":[
+        "Fairfield"
+    ],
     "name:eng_x_preferred":[
+        "Fairfield"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0631\u0641\u06cc\u0644\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Fairfield"
+    ],
+    "name:fra_x_preferred":[
+        "Fairfield"
+    ],
+    "name:ido_x_preferred":[
+        "Fairfield"
+    ],
+    "name:ita_x_preferred":[
+        "Fairfield"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30a2\u30d5\u30a3\u30fc\u30eb\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\uc5b4\ud544\ub4dc"
+    ],
+    "name:mlg_x_preferred":[
+        "Fairfield"
+    ],
+    "name:nld_x_preferred":[
+        "Fairfield"
+    ],
+    "name:pol_x_preferred":[
+        "Fairfield"
+    ],
+    "name:por_x_preferred":[
+        "Fairfield"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u044d\u0440\u0444\u0438\u043b\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Fairfield"
+    ],
+    "name:spa_x_preferred":[
+        "Fairfield"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u0440\u0444\u0438\u043b\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Fairfield"
+    ],
+    "name:swe_x_preferred":[
+        "Fairfield"
+    ],
+    "name:tur_x_preferred":[
+        "Farfield"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u0439\u0440\u0444\u0456\u043b\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0626\u0631\u0641\u06cc\u0644\u0688"
+    ],
+    "name:vol_x_preferred":[
+        "Fairfield"
+    ],
+    "name:war_x_preferred":[
         "Fairfield"
     ],
     "nz-linz:name":"Fairfield",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2190324,
+    "qs:gn_nam_loc":"Hamilton, Hamilton City, Waikato, NZ",
+    "qs:gn_namadm1":"G1",
+    "qs:local_max":2282,
+    "qs:local_sum":13296,
+    "qs:localhoods":25,
+    "qs:name":"Fairfield",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Waikato",
+    "qs:name_adm2":"Hamilton City",
+    "qs:name_local":"Hamilton",
+    "qs:photo_max":153,
+    "qs:photo_sum":363,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021765,
+    "qs:woe_adm2":55875919,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348696,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":360
+        "gp:id":28643821,
+        "nz-linz:id":360,
+        "qs_pg:id":236190
     },
     "wof:country":"NZ",
     "wof:created":1602621165,
     "wof:geomhash":"21b9ca78bc29782c43f6564a0413db9f",
     "wof:hierarchy":[],
     "wof:id":1729338383,
-    "wof:lastmodified":1602624844,
+    "wof:lastmodified":1602633712,
     "wof:name":"Fairfield",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85780887
+    ],
     "wof:tags":[]
 },
   "bbox": [

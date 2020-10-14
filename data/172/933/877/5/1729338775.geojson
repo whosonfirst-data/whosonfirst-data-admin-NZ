@@ -9,6 +9,8 @@
     "geom:bbox":"170.521235,-45.891094,170.532482,-45.88011",
     "geom:latitude":-45.885863,
     "geom:longitude":170.526801,
+    "gn:latitude":-45.88838,
+    "gn:longitude":170.5201,
     "iso:country":"NZ",
     "lbl:latitude":-45.885904,
     "lbl:longitude":170.526719,
@@ -16,31 +18,116 @@
     "mps:longitude":170.526719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0643\u0633\u0647\u0648\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u06a9\u0633\u0648\u0644"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u043a\u0441\u0445\u043e\u043b"
+    ],
     "name:eng_x_preferred":[
         "Vauxhall"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06a9\u0633\u0648\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:gle_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05e7\u05e1\u05d4\u05d5\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a9\u30af\u30bd\u30fc\u30eb"
+    ],
+    "name:nno_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:nor_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:pol_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:sco_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:spa_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:swe_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:tur_x_preferred":[
+        "Vauxhall"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u06a9\u0633\u06c1\u0648\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u514b\u65af\u970d\u723e"
+    ],
     "nz-linz:name":"Vauxhall",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2191562,
+    "qs:gn_namadm1":"F7",
+    "qs:gn_name":"Vauxhall",
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Vauxhall",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":13,
+    "qs:photo_sum":46,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2491
+        "gn:id":6212203,
+        "gp:id":22726561,
+        "nz-linz:id":2491,
+        "qs_pg:id":56286
     },
     "wof:country":"NZ",
     "wof:created":1602621326,
     "wof:geomhash":"ec0c817e1f97832155c25c0cc4687ddc",
     "wof:hierarchy":[],
     "wof:id":1729338775,
-    "wof:lastmodified":1602624838,
+    "wof:lastmodified":1602633722,
     "wof:name":"Vauxhall",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778701
+    ],
     "wof:tags":[]
 },
   "bbox": [

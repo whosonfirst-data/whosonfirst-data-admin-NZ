@@ -9,6 +9,9 @@
     "geom:bbox":"176.219247,-38.147738,176.231703,-38.136576",
     "geom:latitude":-38.142692,
     "geom:longitude":176.224526,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-38.143869,
     "lbl:longitude":176.223394,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2039
+        "gn:id":6241332,
+        "gp:id":28643832,
+        "nz-linz:id":2039,
+        "qs_pg:id":1198055
     },
     "wof:country":"NZ",
     "wof:created":1602621010,
     "wof:geomhash":"79824e1f3d8e679db422a06c2477520a",
     "wof:hierarchy":[],
     "wof:id":1729338007,
-    "wof:lastmodified":1602624843,
+    "wof:lastmodified":1602633699,
     "wof:name":"Fordlands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126066143
+    ],
     "wof:tags":[]
 },
   "bbox": [

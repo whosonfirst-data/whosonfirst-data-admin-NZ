@@ -9,6 +9,8 @@
     "geom:bbox":"174.907617,-36.916483,174.929348,-36.900922",
     "geom:latitude":-36.909453,
     "geom:longitude":174.917068,
+    "gn:latitude":-36.90596,
+    "gn:longitude":174.91788,
     "iso:country":"NZ",
     "lbl:latitude":-36.908754,
     "lbl:longitude":174.916321,
@@ -16,31 +18,70 @@
     "mps:longitude":174.916321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Botany Downs"
+    ],
     "name:eng_x_preferred":[
+        "Botany Downs"
+    ],
+    "name:eng_x_variant":[
+        "Botany Downs"
+    ],
+    "name:fra_x_preferred":[
         "Botany Downs"
     ],
     "nz-linz:name":"Botany Downs",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Botany Downs",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Botany Downs South",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":29,
+    "qs:photo_sum":60,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":145
+        "gn:id":6232075,
+        "gp:id":28644760,
+        "nz-linz:id":145,
+        "qs_pg:id":1048322,
+        "wd:id":"Q894673",
+        "wk:page":"Botany Downs"
     },
     "wof:country":"NZ",
     "wof:created":1602620888,
     "wof:geomhash":"bbf48eb14a301ce30c9f3b9e647ab883",
     "wof:hierarchy":[],
     "wof:id":1729337725,
-    "wof:lastmodified":1602624853,
+    "wof:lastmodified":1602633691,
     "wof:name":"Botany Downs",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781731
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,8 @@
     "geom:bbox":"176.093233,-37.719818,176.138999,-37.678321",
     "geom:latitude":-37.698267,
     "geom:longitude":176.114081,
+    "gn:latitude":-37.69496,
+    "gn:longitude":176.10861,
     "iso:country":"NZ",
     "lbl:latitude":-37.698252,
     "lbl:longitude":176.113744,
@@ -16,31 +18,71 @@
     "mps:longitude":176.113744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Bethlehem"
+    ],
+    "name:deu_x_preferred":[
+        "Bethlehem"
+    ],
     "name:eng_x_preferred":[
+        "Bethlehem"
+    ],
+    "name:ita_x_preferred":[
         "Bethlehem"
     ],
     "nz-linz:name":"Bethlehem",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2208032,
+    "qs:gn_nam_loc":"Tauranga, Tauranga City, Bay of Plenty, NZ",
+    "qs:gn_namadm1":"E8",
+    "qs:gn_name":"Bethlehem",
+    "qs:local_max":2147,
+    "qs:local_sum":7947,
+    "qs:localhoods":21,
+    "qs:name":"Bethlehem",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Tauranga City",
+    "qs:name_local":"Tauranga",
+    "qs:photo_max":25,
+    "qs:photo_sum":86,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875891,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350751,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":120
+        "gn:id":2193370,
+        "gp:id":2348174,
+        "nz-linz:id":120,
+        "qs_pg:id":385728,
+        "wd:id":"Q831318",
+        "wk:page":"Bethlehem, New Zealand"
     },
     "wof:country":"NZ",
     "wof:created":1602621135,
     "wof:geomhash":"af4af498f4b08ce32b01119b40d4dc61",
     "wof:hierarchy":[],
     "wof:id":1729338305,
-    "wof:lastmodified":1602624848,
+    "wof:lastmodified":1602633710,
     "wof:name":"Bethlehem",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85772841
+    ],
     "wof:tags":[]
 },
   "bbox": [

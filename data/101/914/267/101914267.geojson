@@ -9,6 +9,8 @@
     "geom:bbox":"174.729924,-37.005595,174.836588,-36.951535",
     "geom:latitude":-36.980913,
     "geom:longitude":174.781718,
+    "gn:latitude":-36.96807,
+    "gn:longitude":174.79875,
     "gn:population":55266,
     "iso:country":"NZ",
     "lbl:latitude":-36.974611,
@@ -29,6 +31,9 @@
     "name:eng_x_preferred":[
         "Mangere"
     ],
+    "name:eng_x_variant":[
+        "Mangere Central"
+    ],
     "name:nld_x_preferred":[
         "Mangere"
     ],
@@ -42,12 +47,35 @@
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"New Zealand",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Mangere",
     "qs:id":0,
     "qs:la_lc":"*",
     "qs:level":"locality",
     "qs:loc":"Mangere",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Mangere",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":23,
+    "qs:photo_sum":101,
+    "qs:placetype":"Suburb",
     "qs:pop":0,
+    "qs:quad_count":12,
     "qs:source":"LUnknown",
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "quattroshapes"
@@ -64,7 +92,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2187454,
+        "gp:id":2349376,
         "nz-linz:id":2737,
+        "qs_pg:id":271109,
         "wd:id":"Q742714",
         "wk:page":"M\u0101ngere"
     },
@@ -80,7 +110,7 @@
         }
     ],
     "wof:id":101914267,
-    "wof:lastmodified":1602616345,
+    "wof:lastmodified":1602633702,
     "wof:name":"Mangere",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
@@ -97,7 +127,8 @@
         101915471,
         101915943,
         101917685,
-        101918477
+        101918477,
+        85773023
     ],
     "wof:tags":[]
 },

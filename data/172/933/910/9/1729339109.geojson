@@ -9,6 +9,9 @@
     "geom:bbox":"171.235422,-44.401269,171.24699,-44.390557",
     "geom:latitude":-44.395949,
     "geom:longitude":171.241286,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-44.3961,
     "lbl:longitude":171.241287,
@@ -16,7 +19,13 @@
     "mps:longitude":171.241287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Seaview"
+    ],
     "name:eng_x_preferred":[
+        "Seaview"
+    ],
+    "name:pol_x_preferred":[
         "Seaview"
     ],
     "nz-linz:name":"Seaview",
@@ -26,21 +35,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1476
+        "gn:id":6214597,
+        "gp:id":28644476,
+        "nz-linz:id":1476,
+        "qs_pg:id":772273
     },
     "wof:country":"NZ",
     "wof:created":1602621469,
     "wof:geomhash":"23c378b0fa39c1d65c3624aca0354f53",
     "wof:hierarchy":[],
     "wof:id":1729339109,
-    "wof:lastmodified":1602624861,
+    "wof:lastmodified":1602633730,
     "wof:name":"Seaview",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126073645
+    ],
     "wof:tags":[]
 },
   "bbox": [

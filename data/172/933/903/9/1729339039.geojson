@@ -9,6 +9,8 @@
     "geom:bbox":"176.907973,-39.527141,176.919442,-39.509309",
     "geom:latitude":-39.518366,
     "geom:longitude":176.915197,
+    "gn:latitude":-39.63333,
+    "gn:longitude":176.98333,
     "iso:country":"NZ",
     "lbl:latitude":-39.515717,
     "lbl:longitude":176.916067,
@@ -16,31 +18,79 @@
     "mps:longitude":176.916067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Te Awanga"
+    ],
     "name:eng_x_preferred":[
         "Te Awa"
     ],
+    "name:eng_x_variant":[
+        "Te Awanga"
+    ],
+    "name:fra_x_preferred":[
+        "Te Awanga"
+    ],
+    "name:nld_x_preferred":[
+        "Te Awanga"
+    ],
+    "name:slk_x_preferred":[
+        "Te Awanga"
+    ],
+    "name:spa_x_preferred":[
+        "Te Awanga"
+    ],
     "nz-linz:name":"Te Awa",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2186313,
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Te Awanga",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Te Awa",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":9,
+    "qs:photo_sum":20,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2612
+        "gn:id":2181589,
+        "gp:id":28644292,
+        "nz-linz:id":2612,
+        "qs_pg:id":772272,
+        "wd:id":"Q7690788",
+        "wk:page":"Te Awanga"
     },
     "wof:country":"NZ",
     "wof:created":1602621441,
     "wof:geomhash":"2ce8170fff48550c425c8bed6720fb73",
     "wof:hierarchy":[],
     "wof:id":1729339039,
-    "wof:lastmodified":1602624832,
+    "wof:lastmodified":1602633729,
     "wof:name":"Te Awa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781373
+    ],
     "wof:tags":[]
 },
   "bbox": [

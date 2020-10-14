@@ -9,6 +9,9 @@
     "geom:bbox":"178.005543,-38.6553,178.031213,-38.62869",
     "geom:latitude":-38.642508,
     "geom:longitude":178.018221,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-38.643857,
     "lbl:longitude":178.018223,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":830
+        "gn:id":6240057,
+        "gp:id":28643912,
+        "nz-linz:id":830,
+        "qs_pg:id":1196895
     },
     "wof:country":"NZ",
     "wof:created":1602620938,
     "wof:geomhash":"4cb3c58a45c39f64f43f5e86a82c6bc9",
     "wof:hierarchy":[],
     "wof:id":1729337845,
-    "wof:lastmodified":1602624826,
+    "wof:lastmodified":1602633695,
     "wof:name":"Mangapapa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126071929
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -19,28 +19,60 @@
     "name:eng_x_preferred":[
         "Wiri"
     ],
+    "name:sco_x_preferred":[
+        "Wiri"
+    ],
     "nz-linz:name":"Wiri",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:id":0,
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Wiri",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":17,
+    "qs:photo_sum":85,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1956
+        "gn:id":6232063,
+        "gp:id":2351438,
+        "nz-linz:id":1956,
+        "qs_pg:id":1153075,
+        "wd:id":"Q8026945"
     },
     "wof:country":"NZ",
     "wof:created":1602621012,
     "wof:geomhash":"6353784c4de72e6c2a95b841049e6c6e",
     "wof:hierarchy":[],
     "wof:id":1729338011,
-    "wof:lastmodified":1602624848,
+    "wof:lastmodified":1602633700,
     "wof:name":"Wiri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773349
+    ],
     "wof:tags":[]
 },
   "bbox": [

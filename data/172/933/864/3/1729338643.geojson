@@ -9,6 +9,8 @@
     "geom:bbox":"176.825483,-39.641313,176.843561,-39.627079",
     "geom:latitude":-39.633903,
     "geom:longitude":176.834323,
+    "gn:latitude":-39.62824,
+    "gn:longitude":176.83021,
     "iso:country":"NZ",
     "lbl:latitude":-39.634643,
     "lbl:longitude":176.833708,
@@ -16,31 +18,75 @@
     "mps:longitude":176.833708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "St Leonards"
+    ],
+    "name:deu_x_preferred":[
+        "St Leonards"
+    ],
     "name:eng_x_preferred":[
         "Saint Leonards"
     ],
+    "name:mlg_x_preferred":[
+        "St Leonards"
+    ],
+    "name:pol_x_preferred":[
+        "St Leonards"
+    ],
+    "name:swe_x_preferred":[
+        "St Leonards"
+    ],
     "nz-linz:name":"Saint Leonards",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2190224,
+    "qs:gn_nam_loc":"Hastings, Hastings District, Hawke's Bay, NZ",
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Saint Leonards",
+    "qs:local_max":294,
+    "qs:local_sum":511,
+    "qs:localhoods":7,
+    "qs:name":"St Leonards",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Hastings District",
+    "qs:name_local":"Hastings",
+    "qs:photo_max":2,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875901,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348712,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1526
+        "gn:id":6246625,
+        "gp:id":28644736,
+        "nz-linz:id":1526,
+        "qs_pg:id":505411
     },
     "wof:country":"NZ",
     "wof:created":1602621273,
     "wof:geomhash":"993dcd4503b11047976ec6e08fe05377",
     "wof:hierarchy":[],
     "wof:id":1729338643,
-    "wof:lastmodified":1602624850,
+    "wof:lastmodified":1602633718,
     "wof:name":"Saint Leonards",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781711
+    ],
     "wof:tags":[]
 },
   "bbox": [

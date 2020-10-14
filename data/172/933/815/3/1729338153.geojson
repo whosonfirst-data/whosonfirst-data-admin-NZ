@@ -9,6 +9,9 @@
     "geom:bbox":"176.211765,-38.141769,176.238393,-38.123085",
     "geom:latitude":-38.132618,
     "geom:longitude":176.225467,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-38.13123,
     "lbl:longitude":176.226791,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2358
+        "gn:id":6241269,
+        "gp:id":28643909,
+        "nz-linz:id":2358,
+        "qs_pg:id":1098285
     },
     "wof:country":"NZ",
     "wof:created":1602621071,
     "wof:geomhash":"e51e4e2b6c40e0c9dd8b14835e7ae590",
     "wof:hierarchy":[],
     "wof:id":1729338153,
-    "wof:lastmodified":1602624840,
+    "wof:lastmodified":1602633706,
     "wof:name":"Mangakakahi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126099173
+    ],
     "wof:tags":[]
 },
   "bbox": [

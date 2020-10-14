@@ -9,6 +9,9 @@
     "geom:bbox":"173.118895,-35.378435,173.327968,-35.203647",
     "geom:latitude":-35.272797,
     "geom:longitude":173.220845,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-35.274662,
     "lbl:longitude":173.239837,
@@ -16,7 +19,22 @@
     "mps:longitude":173.239837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Herekino"
+    ],
     "name:eng_x_preferred":[
+        "Herekino"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u06a9\u06cc\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Herekino"
+    ],
+    "name:mri_x_preferred":[
+        "Herekino"
+    ],
+    "name:msa_x_preferred":[
         "Herekino"
     ],
     "nz-linz:name":"Herekino",
@@ -26,21 +44,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2790
+        "gn:id":2190040,
+        "gp:id":2348756,
+        "nz-linz:id":2790,
+        "qs_pg:id":138948
     },
     "wof:country":"NZ",
     "wof:created":1602622445,
     "wof:geomhash":"d0d724cfd3c0672925958c4aa6467c11",
     "wof:hierarchy":[],
     "wof:id":1729341443,
-    "wof:lastmodified":1602624751,
+    "wof:lastmodified":1602633733,
     "wof:name":"Herekino",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126075929
+    ],
     "wof:tags":[]
 },
   "bbox": [

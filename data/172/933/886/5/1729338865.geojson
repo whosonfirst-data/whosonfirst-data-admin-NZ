@@ -19,13 +19,37 @@
     "name:eng_x_preferred":[
         "Waiake"
     ],
+    "name:mri_x_preferred":[
+        "Waiake"
+    ],
     "nz-linz:name":"Waiake",
     "nz-linz:type":"SUBURB",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Waiake",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":6,
+    "qs:photo_sum":21,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":28644220,
         "nz-linz:id":2884
     },
     "wof:country":"NZ",
@@ -33,14 +57,16 @@
     "wof:geomhash":"7eca8a1d09be9e2df152b23954b9f6f5",
     "wof:hierarchy":[],
     "wof:id":1729338865,
-    "wof:lastmodified":1602624809,
+    "wof:lastmodified":1602633724,
     "wof:name":"Waiake",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781263
+    ],
     "wof:tags":[]
 },
   "bbox": [

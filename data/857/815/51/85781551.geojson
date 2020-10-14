@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "mps:latitude":-41.283384,
     "mps:longitude":173.27151,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -62,11 +63,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":773,
     "wof:belongsto":[
-        85687157,
         102191583,
         85633345,
+        102079351,
         101915555,
-        102079351
+        85687157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,12 +95,14 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582316526,
+    "wof:lastmodified":1602633720,
     "wof:name":"Washington Valley",
     "wof:parent_id":101915555,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729338709
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -11,6 +11,7 @@
     "geom:longitude":174.754237,
     "gn:country":"NZ",
     "gn:fcode":"PPL",
+    "gn:id":"",
     "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-36.88158,
@@ -32,8 +33,18 @@
     "name:eng_x_preferred":[
         "Mount Eden"
     ],
+    "name:eng_x_variant":[
+        "Mt Eden Central",
+        "Mount Eden"
+    ],
     "name:fra_x_preferred":[
         "Mont \u00c9den"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a6\u30f3\u30c8\u30fb\u30a4\u30fc\u30c7\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Mount Eden"
     ],
     "name:nno_x_preferred":[
         "Mount Eden"
@@ -44,6 +55,28 @@
     "nz-linz:id":995,
     "nz-linz:name":"Mount Eden",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6232237,
+    "qs:gn_nam_loc":"mount eden",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":1642,
+    "qs:local_sum":3216,
+    "qs:localhoods":3,
+    "qs:name":"Mount Eden Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Mount Eden",
+    "qs:photo_max":784,
+    "qs:photo_sum":1642,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726462,
+    "qs:woe_ver":"7.10.0",
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
     "qs_pg:gn_fcode":"PPL",
@@ -82,9 +115,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232237,
-        "gp:id":22726462,
+        "gp:id":28676748,
         "nz-linz:id":995,
-        "qs_pg:id":1077009
+        "qs_pg:id":1088613,
+        "wd:id":"Q477145"
     },
     "wof:country":"NZ",
     "wof:created":1497290162,
@@ -99,14 +133,16 @@
         }
     ],
     "wof:id":1125773629,
-    "wof:lastmodified":1602616339,
+    "wof:lastmodified":1602633695,
     "wof:name":"Mount Eden",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85782453
+    ],
     "wof:tags":[]
 },
   "bbox": [

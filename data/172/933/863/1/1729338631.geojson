@@ -9,6 +9,8 @@
     "geom:bbox":"172.611091,-43.573878,172.636798,-43.551859",
     "geom:latitude":-43.56248,
     "geom:longitude":172.624003,
+    "gn:latitude":-43.55931,
+    "gn:longitude":172.63131,
     "iso:country":"NZ",
     "lbl:latitude":-43.562154,
     "lbl:longitude":172.624195,
@@ -19,28 +21,73 @@
     "name:eng_x_preferred":[
         "Somerfield"
     ],
+    "name:fra_x_preferred":[
+        "Somerfield"
+    ],
+    "name:lat_x_preferred":[
+        "Somerfield"
+    ],
+    "name:pol_x_preferred":[
+        "Somerfield"
+    ],
+    "name:swe_x_preferred":[
+        "Somerfield"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u9ed8\u8cbb\u723e\u8d85\u5e02"
+    ],
     "nz-linz:name":"Somerfield",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Somerfield",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Somerfield",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":440,
+    "qs:photo_sum":477,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1499
+        "gn:id":6220884,
+        "gp:id":22726527,
+        "nz-linz:id":1499,
+        "qs_pg:id":56271,
+        "wd:id":"Q3247828"
     },
     "wof:country":"NZ",
     "wof:created":1602621268,
     "wof:geomhash":"0c8c4ee039e52bb0853f6acd01b87ba8",
     "wof:hierarchy":[],
     "wof:id":1729338631,
-    "wof:lastmodified":1602624850,
+    "wof:lastmodified":1602633718,
     "wof:name":"Somerfield",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778621
+    ],
     "wof:tags":[]
 },
   "bbox": [

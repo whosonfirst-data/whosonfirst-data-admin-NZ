@@ -9,6 +9,7 @@
     "geom:bbox":"177.980097,-38.647811,178.009824,-38.637829",
     "geom:latitude":-38.643834,
     "geom:longitude":177.995979,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-38.643815,
     "lbl:longitude":177.991053,
@@ -16,31 +17,101 @@
     "mps:longitude":177.991053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0641\u0631\u062f\u064a\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Riverdale"
+    ],
+    "name:ceb_x_preferred":[
+        "Riverdale"
+    ],
+    "name:ces_x_preferred":[
+        "Riverdale"
+    ],
+    "name:deu_x_preferred":[
+        "Riverdale"
+    ],
     "name:eng_x_preferred":[
+        "Riverdale"
+    ],
+    "name:fra_x_preferred":[
+        "Riverdale"
+    ],
+    "name:ita_x_preferred":[
+        "Riverdale"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ubc84\ub370\uc77c"
+    ],
+    "name:nld_x_preferred":[
+        "Riverdale"
+    ],
+    "name:pol_x_preferred":[
+        "Riverdale"
+    ],
+    "name:por_x_preferred":[
+        "Riverdale"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0432\u0435\u0440\u0434\u0435\u0439\u043b"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u0432\u0435\u0440\u0434\u0435\u0458\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0432\u0435\u0440\u0434\u0435\u0439\u043b"
+    ],
+    "name:vol_x_preferred":[
         "Riverdale"
     ],
     "nz-linz:name":"Riverdale",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2206854,
+    "qs:local_max":317,
+    "qs:local_sum":1233,
+    "qs:localhoods":9,
+    "qs:name":"Riverdale",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Gisborne",
+    "qs:name_adm2":"Gisborne District",
+    "qs:name_local":"Gisborne",
+    "qs:photo_max":8,
+    "qs:photo_sum":13,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021761,
+    "qs:woe_adm2":55875882,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348582,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1406
+        "gp:id":28644030,
+        "nz-linz:id":1406,
+        "qs_pg:id":32843
     },
     "wof:country":"NZ",
     "wof:created":1602621256,
     "wof:geomhash":"b0a9cb8c2f1a44117112c19df2ab33d2",
     "wof:hierarchy":[],
     "wof:id":1729338603,
-    "wof:lastmodified":1602624813,
+    "wof:lastmodified":1602633717,
     "wof:name":"Riverdale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781099
+    ],
     "wof:tags":[]
 },
   "bbox": [

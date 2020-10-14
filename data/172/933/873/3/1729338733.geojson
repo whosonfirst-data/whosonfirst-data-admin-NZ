@@ -9,6 +9,8 @@
     "geom:bbox":"168.360426,-46.403944,168.375729,-46.390137",
     "geom:latitude":-46.396395,
     "geom:longitude":168.367864,
+    "gn:latitude":-46.39842,
+    "gn:longitude":168.36009,
     "iso:country":"NZ",
     "lbl:latitude":-46.396519,
     "lbl:longitude":168.367718,
@@ -16,31 +18,176 @@
     "mps:longitude":168.367718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0646\u0632\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Windsor"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0646\u0632\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0438\u043d\u0434\u0437\u043e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Windsor"
+    ],
+    "name:ceb_x_preferred":[
+        "Windsor"
+    ],
+    "name:ces_x_preferred":[
+        "Windsor"
+    ],
+    "name:dan_x_preferred":[
+        "Windsor"
+    ],
+    "name:deu_x_preferred":[
+        "Windsor"
+    ],
     "name:eng_x_preferred":[
         "Windsor"
     ],
+    "name:epo_x_preferred":[
+        "Windsor"
+    ],
+    "name:est_x_preferred":[
+        "Windsor"
+    ],
+    "name:eus_x_preferred":[
+        "Windsor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0646\u062f\u0633\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Windsor"
+    ],
+    "name:fra_x_preferred":[
+        "Windsor"
+    ],
+    "name:ind_x_preferred":[
+        "Windsor"
+    ],
+    "name:isl_x_preferred":[
+        "Windsor"
+    ],
+    "name:ita_x_preferred":[
+        "Windsor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30f3\u30b6\u30fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d8\u10dc\u10eb\u10dd\u10e0\u10d8"
+    ],
+    "name:lav_x_preferred":[
+        "Vindzors"
+    ],
+    "name:lit_x_preferred":[
+        "Vindzoras"
+    ],
+    "name:ltz_x_preferred":[
+        "Windsor"
+    ],
+    "name:nld_x_preferred":[
+        "Windsor"
+    ],
+    "name:nno_x_preferred":[
+        "Windsor"
+    ],
+    "name:nor_x_preferred":[
+        "Windsor"
+    ],
+    "name:pol_x_preferred":[
+        "Windsor"
+    ],
+    "name:por_x_preferred":[
+        "Windsor"
+    ],
+    "name:ron_x_preferred":[
+        "Windsor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0434\u0437\u043e\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Windsor"
+    ],
+    "name:slk_x_preferred":[
+        "Windsor"
+    ],
+    "name:spa_x_preferred":[
+        "Windsor"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043d\u0434\u0437\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Windsor"
+    ],
+    "name:tur_x_preferred":[
+        "Windsor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u0434\u0437\u043e\u0440"
+    ],
+    "name:vol_x_preferred":[
+        "Windsor"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eab\u838e"
+    ],
     "nz-linz:name":"Windsor",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2189529,
+    "qs:gn_namadm1":"F8",
+    "qs:gn_name":"Windsor",
+    "qs:local_max":954,
+    "qs:local_sum":2108,
+    "qs:localhoods":12,
+    "qs:name":"Windsor",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Southland",
+    "qs:name_adm2":"Invercargill City",
+    "qs:name_local":"Invercargill",
+    "qs:photo_max":43,
+    "qs:photo_sum":129,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021750,
+    "qs:woe_adm2":55875899,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348887,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1951
+        "gn:id":6205092,
+        "gp:id":28644511,
+        "nz-linz:id":1951,
+        "qs_pg:id":902695
     },
     "wof:country":"NZ",
     "wof:created":1602621309,
     "wof:geomhash":"1f68759db4006658d75f5baa62eaa794",
     "wof:hierarchy":[],
     "wof:id":1729338733,
-    "wof:lastmodified":1602624806,
+    "wof:lastmodified":1602633721,
     "wof:name":"Windsor",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781555
+    ],
     "wof:tags":[]
 },
   "bbox": [

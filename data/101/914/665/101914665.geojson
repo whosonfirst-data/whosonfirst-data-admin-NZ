@@ -9,6 +9,11 @@
     "geom:bbox":"175.089792,-41.101464,175.12906,-41.077832",
     "geom:latitude":-41.091579,
     "geom:longitude":175.109066,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:latitude":-41.08827,
+    "gn:longitude":175.0902,
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-41.093414,
     "lbl:longitude":175.103364,
@@ -49,7 +54,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6224738,
+        "gp:id":22726332,
         "nz-linz:id":124,
+        "qs_pg:id":1315991,
         "wd:id":"Q4915773",
         "wk:page":"Birchville"
     },
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":101914665,
-    "wof:lastmodified":1602616336,
+    "wof:lastmodified":1602633691,
     "wof:name":"Birchville",
     "wof:parent_id":102079335,
     "wof:placetype":"locality",
@@ -74,7 +81,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101915383,
-        101916203
+        101916203,
+        1126084261
     ],
     "wof:tags":[]
 },

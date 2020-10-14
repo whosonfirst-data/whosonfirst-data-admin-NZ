@@ -9,6 +9,9 @@
     "geom:bbox":"172.522705,-43.533289,172.553183,-43.518664",
     "geom:latitude":-43.526661,
     "geom:longitude":172.53747,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-43.525188,
     "lbl:longitude":172.530883,
@@ -16,7 +19,40 @@
     "mps:longitude":172.530883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Broomfield"
+    ],
+    "name:deu_x_preferred":[
+        "Broomfield"
+    ],
     "name:eng_x_preferred":[
+        "Broomfield"
+    ],
+    "name:fra_x_preferred":[
+        "Broomfield"
+    ],
+    "name:ita_x_preferred":[
+        "Broomfield"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30fc\u30e0\u30d5\u30a3\u30fc\u30eb\u30c9"
+    ],
+    "name:nld_x_preferred":[
+        "Broomfield"
+    ],
+    "name:pol_x_preferred":[
+        "Broomfield"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0443\u043c\u0444\u0438\u043b\u0434"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0443\u043c\u0444\u0438\u043b\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Broomfield"
+    ],
+    "name:vie_x_preferred":[
         "Broomfield"
     ],
     "nz-linz:name":"Broomfield",
@@ -26,21 +62,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":166
+        "gn:id":6220342,
+        "gp:id":28644360,
+        "nz-linz:id":166,
+        "qs_pg:id":1002913
     },
     "wof:country":"NZ",
     "wof:created":1602621148,
     "wof:geomhash":"2dbe181f6907b04b4d630e6cf2dae12c",
     "wof:hierarchy":[],
     "wof:id":1729338339,
-    "wof:lastmodified":1602624814,
+    "wof:lastmodified":1602633711,
     "wof:name":"Broomfield",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126078037
+    ],
     "wof:tags":[]
 },
   "bbox": [

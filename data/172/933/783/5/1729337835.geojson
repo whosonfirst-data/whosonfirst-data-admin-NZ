@@ -9,6 +9,9 @@
     "geom:bbox":"177.940679,-38.66147,177.985759,-38.638862",
     "geom:latitude":-38.649336,
     "geom:longitude":177.962802,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-38.649593,
     "lbl:longitude":177.962447,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":804
+        "gn:id":2187952,
+        "gp:id":2349304,
+        "nz-linz:id":804,
+        "qs_pg:id":1312488
     },
     "wof:country":"NZ",
     "wof:created":1602620934,
     "wof:geomhash":"81f79a0577adff34a493028feae8ba66",
     "wof:hierarchy":[],
     "wof:id":1729337835,
-    "wof:lastmodified":1602624825,
+    "wof:lastmodified":1602633695,
     "wof:name":"Makaraka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126083515
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,9 @@
     "geom:bbox":"176.226217,-37.724705,176.288006,-37.688663",
     "geom:latitude":-37.706574,
     "geom:longitude":176.252996,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-37.703873,
     "lbl:longitude":176.247389,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":639
+        "gn:id":2189211,
+        "gp:id":2348944,
+        "nz-linz:id":639,
+        "qs_pg:id":1019337
     },
     "wof:country":"NZ",
     "wof:created":1602621562,
     "wof:geomhash":"18756c8623b82a47178eddd785db9f9d",
     "wof:hierarchy":[],
     "wof:id":1729339331,
-    "wof:lastmodified":1602624836,
+    "wof:lastmodified":1602633731,
     "wof:name":"Kairua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126082561
+    ],
     "wof:tags":[]
 },
   "bbox": [

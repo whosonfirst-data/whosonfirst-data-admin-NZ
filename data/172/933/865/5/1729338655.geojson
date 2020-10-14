@@ -9,6 +9,8 @@
     "geom:bbox":"170.518907,-45.903812,170.53233,-45.896732",
     "geom:latitude":-45.900993,
     "geom:longitude":170.525408,
+    "gn:latitude":-45.89838,
+    "gn:longitude":170.5101,
     "iso:country":"NZ",
     "lbl:latitude":-45.900741,
     "lbl:longitude":170.524743,
@@ -16,31 +18,69 @@
     "mps:longitude":170.524743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Waikato-Tainui"
+    ],
     "name:eng_x_preferred":[
+        "Tainui"
+    ],
+    "name:msa_x_preferred":[
+        "Tainui"
+    ],
+    "name:spa_x_preferred":[
         "Tainui"
     ],
     "nz-linz:name":"Tainui",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2191562,
+    "qs:gn_namadm1":"F7",
+    "qs:gn_name":"Tainui",
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Tainui",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":47,
+    "qs:photo_sum":120,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1567
+        "gn:id":6212209,
+        "gp:id":22726542,
+        "nz-linz:id":1567,
+        "qs_pg:id":1330231,
+        "wd:id":"Q1480041"
     },
     "wof:country":"NZ",
     "wof:created":1602621277,
     "wof:geomhash":"a006af3a635e0b44b70e5b900c22f59e",
     "wof:hierarchy":[],
     "wof:id":1729338655,
-    "wof:lastmodified":1602624846,
+    "wof:lastmodified":1602633719,
     "wof:name":"Tainui",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778647
+    ],
     "wof:tags":[]
 },
   "bbox": [

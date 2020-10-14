@@ -9,6 +9,7 @@
     "geom:bbox":"174.708064,-36.696977,174.743779,-36.664118",
     "geom:latitude":-36.679063,
     "geom:longitude":174.724201,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.675007,
     "lbl:longitude":174.719432,
@@ -19,11 +20,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Okura"
+    ],
+    "name:deu_x_preferred":[
+        "Okura"
+    ],
     "name:eng_x_preferred":[
         "Okura"
     ],
     "name:nld_x_preferred":[
         "Okura"
+    ],
+    "name:swe_x_preferred":[
+        "Okura"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u0443\u0440\u0430"
     ],
     "nz-linz:id":2889,
     "nz-linz:name":"Okura",
@@ -32,12 +45,31 @@
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"New Zealand",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
     "qs:id":0,
     "qs:la_lc":"*",
     "qs:level":"locality",
     "qs:loc":"Okura",
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Okura",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":63,
+    "qs:photo_sum":200,
+    "qs:placetype":"Suburb",
     "qs:pop":0,
+    "qs:quad_count":19,
     "qs:source":"LUnknown",
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "quattroshapes"
@@ -52,7 +84,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":28644219,
         "nz-linz:id":2889,
+        "qs_pg:id":281576,
         "wd:id":"Q16896081"
     },
     "wof:country":"NZ",
@@ -67,14 +101,16 @@
         }
     ],
     "wof:id":101916777,
-    "wof:lastmodified":1602616365,
+    "wof:lastmodified":1602633725,
     "wof:name":"Okura",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781257
+    ],
     "wof:tags":[]
 },
   "bbox": [

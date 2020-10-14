@@ -9,6 +9,9 @@
     "geom:bbox":"173.264553,-41.300715,173.289902,-41.274657",
     "geom:latitude":-41.287583,
     "geom:longitude":173.276079,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-41.287523,
     "lbl:longitude":173.275218,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1007
+        "gn:id":6242985,
+        "gp:id":28644831,
+        "nz-linz:id":1007,
+        "qs_pg:id":985679
     },
     "wof:country":"NZ",
     "wof:created":1602620958,
     "wof:geomhash":"4f515511d15da735f64c561c2ab6539b",
     "wof:hierarchy":[],
     "wof:id":1729337891,
-    "wof:lastmodified":1602624860,
+    "wof:lastmodified":1602633696,
     "wof:name":"Nelson South",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126069617
+    ],
     "wof:tags":[]
 },
   "bbox": [

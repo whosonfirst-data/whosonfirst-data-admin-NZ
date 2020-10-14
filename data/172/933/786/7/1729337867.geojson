@@ -9,6 +9,9 @@
     "geom:bbox":"172.632301,-43.49217,172.681466,-43.459265",
     "geom:latitude":-43.477154,
     "geom:longitude":172.656603,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-43.476485,
     "lbl:longitude":172.657071,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":865
+        "gn:id":2187273,
+        "gp:id":2349428,
+        "nz-linz:id":865,
+        "qs_pg:id":1312524
     },
     "wof:country":"NZ",
     "wof:created":1602620948,
     "wof:geomhash":"a95ec41d8f2ae4c79f6be34b48683ef4",
     "wof:hierarchy":[],
     "wof:id":1729337867,
-    "wof:lastmodified":1602624853,
+    "wof:lastmodified":1602633695,
     "wof:name":"Marshland",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126083523
+    ],
     "wof:tags":[]
 },
   "bbox": [

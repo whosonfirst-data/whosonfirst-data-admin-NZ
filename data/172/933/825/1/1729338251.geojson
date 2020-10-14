@@ -9,6 +9,7 @@
     "geom:bbox":"175.262986,-37.767527,175.313672,-37.744773",
     "geom:latitude":-37.755586,
     "geom:longitude":175.286891,
+    "gn:country":null,
     "iso:country":"NZ",
     "lbl:latitude":-37.753549,
     "lbl:longitude":175.297078,
@@ -16,8 +17,41 @@
     "mps:longitude":175.297078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Chartwell"
+    ],
+    "name:deu_x_preferred":[
+        "Chartwell"
+    ],
     "name:eng_x_preferred":[
         "Chartwell"
+    ],
+    "name:epo_x_preferred":[
+        "Chartwell"
+    ],
+    "name:fra_x_preferred":[
+        "Chartwell"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e8\u05d8\u05d5\u05d5\u05dc"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0580\u0569\u057e\u0565\u056c"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30fc\u30c8\u30a6\u30a7\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Chartwell"
+    ],
+    "name:por_x_preferred":[
+        "Chartwell"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u0440\u0442\u0432\u0435\u043b"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u7279\u97e6\u5c14\u5e84\u56ed"
     ],
     "nz-linz:name":"Chartwell",
     "nz-linz:type":"SUBURB",
@@ -26,21 +60,25 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":216
+        "gp:id":28643801,
+        "nz-linz:id":216,
+        "qs_pg:id":1127304
     },
     "wof:country":"NZ",
     "wof:created":1602621111,
     "wof:geomhash":"c69d6c70d0f936cb2ce19c1bfe6c8872",
     "wof:hierarchy":[],
     "wof:id":1729338251,
-    "wof:lastmodified":1602624843,
+    "wof:lastmodified":1602633709,
     "wof:name":"Chartwell",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126106977
+    ],
     "wof:tags":[]
 },
   "bbox": [

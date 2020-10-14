@@ -9,6 +9,9 @@
     "geom:bbox":"174.225242,-35.77349,174.296656,-35.719196",
     "geom:latitude":-35.747463,
     "geom:longitude":174.257862,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-35.748722,
     "lbl:longitude":174.25718,
@@ -16,7 +19,16 @@
     "mps:longitude":174.25718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Maunu"
+    ],
     "name:eng_x_preferred":[
+        "Maunu"
+    ],
+    "name:nld_x_preferred":[
+        "Maunu"
+    ],
+    "name:swe_x_preferred":[
         "Maunu"
     ],
     "nz-linz:name":"Maunu",
@@ -26,21 +38,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":900
+        "gn:id":6230946,
+        "gp:id":22726446,
+        "nz-linz:id":900,
+        "qs_pg:id":1293044
     },
     "wof:country":"NZ",
     "wof:created":1602620954,
     "wof:geomhash":"861d230e21ce9596dea0982a4a0a8837",
     "wof:hierarchy":[],
     "wof:id":1729337881,
-    "wof:lastmodified":1602624851,
+    "wof:lastmodified":1602633696,
     "wof:name":"Maunu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126080943
+    ],
     "wof:tags":[]
 },
   "bbox": [

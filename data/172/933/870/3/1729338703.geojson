@@ -9,6 +9,9 @@
     "geom:bbox":"173.241873,-41.304024,173.261878,-41.292608",
     "geom:latitude":-41.298227,
     "geom:longitude":173.252094,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-41.299435,
     "lbl:longitude":173.253913,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1872
+        "gn:id":6242980,
+        "gp:id":2351267,
+        "nz-linz:id":1872,
+        "qs_pg:id":268616
     },
     "wof:country":"NZ",
     "wof:created":1602621297,
     "wof:geomhash":"6ffb734a801e38d4b6ae0e16cd6516bc",
     "wof:hierarchy":[],
     "wof:id":1729338703,
-    "wof:lastmodified":1602624838,
+    "wof:lastmodified":1602633720,
     "wof:name":"Wakatu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126061113
+    ],
     "wof:tags":[]
 },
   "bbox": [

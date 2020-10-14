@@ -9,6 +9,9 @@
     "geom:bbox":"170.922714,-45.102397,170.949004,-45.08315",
     "geom:latitude":-45.09338,
     "geom:longitude":170.936105,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-45.097202,
     "lbl:longitude":170.934602,
@@ -68,14 +71,16 @@
         }
     ],
     "wof:id":101914571,
-    "wof:lastmodified":1602616341,
+    "wof:lastmodified":1602633699,
     "wof:name":"Waiareka Junction",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126102717
+    ],
     "wof:tags":[]
 },
   "bbox": [

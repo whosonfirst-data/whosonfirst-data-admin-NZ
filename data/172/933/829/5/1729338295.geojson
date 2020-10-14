@@ -9,6 +9,11 @@
     "geom:bbox":"168.339212,-46.440792,168.36132,-46.415546",
     "geom:latitude":-46.425971,
     "geom:longitude":168.353048,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:latitude":-46.42842,
+    "gn:longitude":168.35009,
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-46.427209,
     "lbl:longitude":168.354136,
@@ -16,31 +21,111 @@
     "mps:longitude":168.354136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Appleby"
+    ],
+    "name:ceb_x_preferred":[
+        "Appleby"
+    ],
+    "name:cym_x_preferred":[
+        "Appleby"
+    ],
+    "name:deu_x_preferred":[
+        "Appleby"
+    ],
     "name:eng_x_preferred":[
+        "Appleby"
+    ],
+    "name:fra_x_preferred":[
+        "Appleby"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e4\u05dc\u05d1\u05d9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c3\u30d7\u30eb\u30d3\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc560\ud50c\ube44"
+    ],
+    "name:nds_x_preferred":[
+        "Appleby"
+    ],
+    "name:nld_x_preferred":[
+        "Appleby"
+    ],
+    "name:nor_x_preferred":[
+        "Appleby"
+    ],
+    "name:pol_x_preferred":[
+        "Appleby"
+    ],
+    "name:por_x_preferred":[
+        "Appleby"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043f\u043f\u043b\u0431\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Appleby"
+    ],
+    "name:swe_x_preferred":[
+        "Appleby"
+    ],
+    "name:vol_x_preferred":[
         "Appleby"
     ],
     "nz-linz:name":"Appleby",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2189529,
+    "qs:gn_namadm1":"F8",
+    "qs:gn_name":"Appleby",
+    "qs:local_max":954,
+    "qs:local_sum":2108,
+    "qs:localhoods":12,
+    "qs:name":"Appleby",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Southland",
+    "qs:name_adm2":"Invercargill City",
+    "qs:name_local":"Invercargill",
+    "qs:photo_max":36,
+    "qs:photo_sum":84,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021750,
+    "qs:woe_adm2":55875899,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348887,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":35
+        "gn:id":6205169,
+        "gp:id":28644835,
+        "nz-linz:id":35,
+        "qs_pg:id":357251
     },
     "wof:country":"NZ",
     "wof:created":1602621130,
     "wof:geomhash":"5fe928186285f836d8abd5359e3fa5a5",
     "wof:hierarchy":[],
     "wof:id":1729338295,
-    "wof:lastmodified":1602624803,
+    "wof:lastmodified":1602633710,
     "wof:name":"Appleby",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781841,
+        1126069085
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,7 @@
     "geom:bbox":"174.893679,-37.006818,174.907839,-36.997354",
     "geom:latitude":-37.001953,
     "geom:longitude":174.900534,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-37.002006,
     "lbl:longitude":174.900521,
@@ -16,31 +17,76 @@
     "mps:longitude":174.900521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Totara Heights"
+    ],
     "name:eng_x_preferred":[
         "Totara Heights"
     ],
+    "name:fra_x_preferred":[
+        "Totara Heights"
+    ],
+    "name:sco_x_preferred":[
+        "Totara Heights"
+    ],
+    "name:spa_x_preferred":[
+        "Totara Heights"
+    ],
+    "name:swe_x_preferred":[
+        "Totara Heights"
+    ],
+    "name:vol_x_preferred":[
+        "Taitville"
+    ],
     "nz-linz:name":"Totara Heights",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Totara Heights",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":284,
+    "qs:photo_sum":1115,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":32,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":8704
+        "gp:id":28644123,
+        "nz-linz:id":8704,
+        "qs_pg:id":1154881,
+        "wd:id":"Q7828268"
     },
     "wof:country":"NZ",
     "wof:created":1602621382,
     "wof:geomhash":"478a98b0581739228c1fc2ae1a847e40",
     "wof:hierarchy":[],
     "wof:id":1729338911,
-    "wof:lastmodified":1602624846,
+    "wof:lastmodified":1602633726,
     "wof:name":"Totara Heights",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781193
+    ],
     "wof:tags":[]
 },
   "bbox": [

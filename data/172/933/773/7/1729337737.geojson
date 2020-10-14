@@ -9,6 +9,9 @@
     "geom:bbox":"176.122924,-37.696358,176.14988,-37.679795",
     "geom:latitude":-37.688795,
     "geom:longitude":176.136903,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-37.688129,
     "lbl:longitude":176.140475,
@@ -16,7 +19,61 @@
     "mps:longitude":176.140475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Brookfield"
+    ],
+    "name:ceb_x_preferred":[
+        "Brookfield"
+    ],
+    "name:deu_x_preferred":[
+        "Brookfield"
+    ],
     "name:eng_x_preferred":[
+        "Brookfield"
+    ],
+    "name:epo_x_preferred":[
+        "Brookfield"
+    ],
+    "name:fra_x_preferred":[
+        "Brookfield"
+    ],
+    "name:hun_x_preferred":[
+        "Brookfield"
+    ],
+    "name:ita_x_preferred":[
+        "Brookfield"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub8e9\ud544\ub4dc"
+    ],
+    "name:mlg_x_preferred":[
+        "Brookfield"
+    ],
+    "name:nld_x_preferred":[
+        "Brookfield"
+    ],
+    "name:pol_x_preferred":[
+        "Brookfield"
+    ],
+    "name:por_x_preferred":[
+        "Brookfield"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0443\u043a\u0444\u0438\u043b\u0434"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0443\u043a\u0444\u0438\u043b\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Brookfield"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0443\u043a\u0444\u0456\u043b\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0648\u06a9\u0641\u06cc\u0644\u0688"
+    ],
+    "name:vol_x_preferred":[
         "Brookfield"
     ],
     "nz-linz:name":"Brookfield",
@@ -26,21 +83,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":162
+        "gn:id":6249348,
+        "gp:id":28644255,
+        "nz-linz:id":162,
+        "qs_pg:id":357063
     },
     "wof:country":"NZ",
     "wof:created":1602620893,
     "wof:geomhash":"3a9a93f044622fc9b4fb0cdf74884b2c",
     "wof:hierarchy":[],
     "wof:id":1729337737,
-    "wof:lastmodified":1602624857,
+    "wof:lastmodified":1602633691,
     "wof:name":"Brookfield",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126089523
+    ],
     "wof:tags":[]
 },
   "bbox": [

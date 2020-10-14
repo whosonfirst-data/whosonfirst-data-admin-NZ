@@ -9,6 +9,8 @@
     "geom:bbox":"172.558888,-43.529859,172.591516,-43.506484",
     "geom:latitude":-43.518998,
     "geom:longitude":172.575444,
+    "gn:latitude":-43.51833,
+    "gn:longitude":172.57013,
     "iso:country":"NZ",
     "lbl:latitude":-43.518878,
     "lbl:longitude":172.576552,
@@ -16,31 +18,96 @@
     "mps:longitude":172.576552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0418\u043b\u0430\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Ilam"
+    ],
+    "name:deu_x_preferred":[
+        "Ilam"
+    ],
     "name:eng_x_preferred":[
+        "Ilam"
+    ],
+    "name:fra_x_preferred":[
+        "Ilam"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u056c\u0561\u0574"
+    ],
+    "name:nep_x_preferred":[
+        "\u0907\u0932\u093e\u092e"
+    ],
+    "name:nld_x_preferred":[
+        "Ilam"
+    ],
+    "name:pol_x_preferred":[
+        "Ilam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0430\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Ilam"
+    ],
+    "name:swe_x_preferred":[
+        "Ilam"
+    ],
+    "name:vie_x_preferred":[
         "Ilam"
     ],
     "nz-linz:name":"Ilam",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Ilam",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Ilam",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":209,
+    "qs:photo_sum":596,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":598
+        "gn:id":6220348,
+        "gp:id":22726408,
+        "nz-linz:id":598,
+        "qs_pg:id":1182480
     },
     "wof:country":"NZ",
     "wof:created":1602621198,
     "wof:geomhash":"475441c968abece0f67d6f74f54034ee",
     "wof:hierarchy":[],
     "wof:id":1729338463,
-    "wof:lastmodified":1602624837,
+    "wof:lastmodified":1602633715,
     "wof:name":"Ilam",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778383
+    ],
     "wof:tags":[]
 },
   "bbox": [

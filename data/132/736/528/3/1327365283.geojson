@@ -13,8 +13,10 @@
     "gn:admin2_code":"17.0",
     "gn:asciiname":"Leamington",
     "gn:cc2":"NZ",
+    "gn:country":"NZ",
     "gn:country_code":"NZ",
     "gn:dem":74,
+    "gn:fcode":"PPLX",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":2188466,
@@ -91,8 +93,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2188466,
-        "nz-linz:id":740
+        "gn:id":6240772,
+        "gp:id":2349181,
+        "nz-linz:id":740,
+        "qs_pg:id":1187986
     },
     "wof:country":"NZ",
     "wof:geomhash":"a7b014987d18b6d63922de450d3ec01f",
@@ -106,14 +110,16 @@
         }
     ],
     "wof:id":1327365283,
-    "wof:lastmodified":1602616338,
+    "wof:lastmodified":1602633695,
     "wof:name":"Leamington",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126101935
+    ],
     "wof:tags":[]
 },
   "bbox": [

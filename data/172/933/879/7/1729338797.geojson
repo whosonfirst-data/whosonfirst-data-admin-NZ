@@ -9,6 +9,9 @@
     "geom:bbox":"178.049769,-38.689191,178.059667,-38.677632",
     "geom:latitude":-38.68352,
     "geom:longitude":178.05509,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-38.68361,
     "lbl:longitude":178.054754,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2640
+        "gn:id":6240062,
+        "gp:id":28644090,
+        "nz-linz:id":2640,
+        "qs_pg:id":1004508
     },
     "wof:country":"NZ",
     "wof:created":1602621334,
     "wof:geomhash":"6776445e8790f98bc633f522058bf806",
     "wof:hierarchy":[],
     "wof:id":1729338797,
-    "wof:lastmodified":1602624837,
+    "wof:lastmodified":1602633722,
     "wof:name":"Tamarau",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126078271
+    ],
     "wof:tags":[]
 },
   "bbox": [

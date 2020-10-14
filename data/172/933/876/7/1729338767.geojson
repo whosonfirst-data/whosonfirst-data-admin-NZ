@@ -9,6 +9,8 @@
     "geom:bbox":"173.318192,-41.238782,173.334087,-41.222783",
     "geom:latitude":-41.230506,
     "geom:longitude":173.325796,
+    "gn:latitude":-41.2276,
+    "gn:longitude":173.32147,
     "iso:country":"NZ",
     "lbl:latitude":-41.229831,
     "lbl:longitude":173.323267,
@@ -19,28 +21,63 @@
     "name:eng_x_preferred":[
         "Marybank"
     ],
+    "name:eus_x_preferred":[
+        "Marybank"
+    ],
+    "name:swe_x_preferred":[
+        "Marybank"
+    ],
     "nz-linz:name":"Marybank",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186280,
+    "qs:gn_nam_loc":"Nelson, Nelson City, Nelson, NZ",
+    "qs:gn_namadm1":"F5",
+    "qs:gn_name":"Marybank",
+    "qs:local_max":2029,
+    "qs:local_sum":5504,
+    "qs:localhoods":17,
+    "qs:name":"Marybank",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Nelson",
+    "qs:name_adm2":"Nelson City",
+    "qs:name_local":"Nelson",
+    "qs:photo_max":53,
+    "qs:photo_sum":202,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021758,
+    "qs:woe_adm2":55875906,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349669,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2547
+        "gn:id":6243006,
+        "gp:id":28644525,
+        "nz-linz:id":2547,
+        "qs_pg:id":357201
     },
     "wof:country":"NZ",
     "wof:created":1602621322,
     "wof:geomhash":"07f1da7f4ac82606998af4d56d3fe1d3",
     "wof:hierarchy":[],
     "wof:id":1729338767,
-    "wof:lastmodified":1602624840,
+    "wof:lastmodified":1602633721,
     "wof:name":"Marybank",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781623
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,7 @@
     "geom:bbox":"174.915147,-36.935815,174.932488,-36.921948",
     "geom:latitude":-36.929808,
     "geom:longitude":174.923801,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.930483,
     "lbl:longitude":174.923634,
@@ -16,31 +17,72 @@
     "mps:longitude":174.923634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dannemora"
+    ],
+    "name:deu_x_preferred":[
+        "Dannemora"
+    ],
     "name:eng_x_preferred":[
         "Dannemora"
     ],
+    "name:pol_x_preferred":[
+        "Dannemora"
+    ],
+    "name:swe_x_preferred":[
+        "Dannemora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043d\u043d\u0435\u043c\u043e\u0440\u0430"
+    ],
     "nz-linz:name":"Dannemora",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Dannemora",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":4072,
+    "qs:photo_sum":4482,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":8696
+        "gp:id":28643811,
+        "nz-linz:id":8696,
+        "qs_pg:id":236189
     },
     "wof:country":"NZ",
     "wof:created":1602621380,
     "wof:geomhash":"8abdd00d832218ba73b95b0d7753cb87",
     "wof:hierarchy":[],
     "wof:id":1729338907,
-    "wof:lastmodified":1602624849,
+    "wof:lastmodified":1602633726,
     "wof:name":"Dannemora",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85780871
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -12,8 +12,10 @@
     "gn:admin1_code":"F2",
     "gn:admin2_code":"31.0",
     "gn:asciiname":"Onekawa",
+    "gn:country":"NZ",
     "gn:country_code":"NZ",
     "gn:dem":4,
+    "gn:fcode":"PPLX",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":2185587,
@@ -51,8 +53,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2185587,
+        "gn:id":6246628,
+        "gp:id":2349854,
         "nz-linz:id":1108,
+        "qs_pg:id":984111,
         "wk:page":"Onekawa"
     },
     "wof:country":"NZ",
@@ -67,14 +71,16 @@
         }
     ],
     "wof:id":1259720193,
-    "wof:lastmodified":1602616357,
+    "wof:lastmodified":1602633716,
     "wof:name":"Onekawa",
     "wof:parent_id":102079331,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126069015
+    ],
     "wof:tags":[]
 },
   "bbox": [

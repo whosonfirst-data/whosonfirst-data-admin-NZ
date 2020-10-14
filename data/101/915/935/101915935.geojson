@@ -9,6 +9,8 @@
     "geom:bbox":"178.077453,-38.678593,178.106324,-38.660236",
     "geom:latitude":-38.6675,
     "geom:longitude":178.089358,
+    "gn:latitude":-38.66824,
+    "gn:longitude":178.08021,
     "iso:country":"NZ",
     "lbl:latitude":-38.657572,
     "lbl:longitude":178.116144,
@@ -29,12 +31,35 @@
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"New Zealand",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2206854,
+    "qs:gn_namadm1":"F1",
+    "qs:gn_name":"Okitu",
     "qs:id":0,
     "qs:la_lc":"*",
     "qs:level":"locality",
     "qs:loc":"Okitu",
+    "qs:local_max":317,
+    "qs:local_sum":1233,
+    "qs:localhoods":9,
+    "qs:name":"Okitu",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Gisborne",
+    "qs:name_adm2":"Gisborne District",
+    "qs:name_local":"Gisborne",
+    "qs:photo_max":59,
+    "qs:photo_sum":160,
+    "qs:placetype":"Suburb",
     "qs:pop":0,
+    "qs:quad_count":16,
     "qs:source":"LUnknown",
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021761,
+    "qs:woe_adm2":55875882,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348582,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "quattroshapes"
@@ -50,7 +75,8 @@
         "fct:id":"02119ca8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6240065,
         "gp:id":28644277,
-        "nz-linz:id":2643
+        "nz-linz:id":2643,
+        "qs_pg:id":230146
     },
     "wof:country":"NZ",
     "wof:geomhash":"9e130d0d34290dcd02be27294353ea1a",
@@ -66,14 +92,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616344,
+    "wof:lastmodified":1602633701,
     "wof:name":"Okitu",
     "wof:parent_id":85687237,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781353
+    ],
     "wof:tags":[]
 },
   "bbox": [

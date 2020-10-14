@@ -66,6 +66,27 @@
     "nz-linz:id":2959,
     "nz-linz:name":"Greenhithe",
     "nz-linz:type":"SUBURB",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Greenhithe",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Greenhithe",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":83,
+    "qs:photo_sum":247,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -78,8 +99,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2190474,
-        "nz-linz:id":2959
+        "gn:id":6231822,
+        "gp:id":2348655,
+        "nz-linz:id":2959,
+        "qs_pg:id":319660
     },
     "wof:country":"NZ",
     "wof:geomhash":"19936f1a3fb47846d2e8ebb0f52f1639",
@@ -93,14 +116,16 @@
         }
     ],
     "wof:id":1225978499,
-    "wof:lastmodified":1602616364,
+    "wof:lastmodified":1602633724,
     "wof:name":"Greenhithe",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85772929
+    ],
     "wof:tags":[]
 },
   "bbox": [

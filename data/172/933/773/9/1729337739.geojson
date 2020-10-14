@@ -9,6 +9,9 @@
     "geom:bbox":"175.091261,-41.113237,175.10647,-41.097385",
     "geom:latitude":-41.103938,
     "geom:longitude":175.097543,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-41.103234,
     "lbl:longitude":175.095528,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":168
+        "gn:id":6244886,
+        "gp:id":22726341,
+        "nz-linz:id":168,
+        "qs_pg:id":291538
     },
     "wof:country":"NZ",
     "wof:created":1602620894,
     "wof:geomhash":"ab6f56ff99a8f3d8e7acf5533d416fa8",
     "wof:hierarchy":[],
     "wof:id":1729337739,
-    "wof:lastmodified":1602624857,
+    "wof:lastmodified":1602633692,
     "wof:name":"Brown Owl",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126086415
+    ],
     "wof:tags":[]
 },
   "bbox": [

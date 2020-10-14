@@ -9,6 +9,9 @@
     "geom:bbox":"174.633464,-36.772667,174.674954,-36.740049",
     "geom:latitude":-36.756563,
     "geom:longitude":174.652484,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-36.767074,
     "lbl:longitude":174.65696,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101915115,
-    "wof:lastmodified":1602616365,
+    "wof:lastmodified":1602633725,
     "wof:name":"Paremoremo",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
@@ -97,7 +100,8 @@
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        101915117
+        101915117,
+        1126094437
     ],
     "wof:tags":[]
 },

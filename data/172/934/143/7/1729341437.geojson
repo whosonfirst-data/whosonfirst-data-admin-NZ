@@ -9,6 +9,9 @@
     "geom:bbox":"173.234862,-35.46645,173.345531,-35.381358",
     "geom:latitude":-35.429775,
     "geom:longitude":173.295132,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-35.442772,
     "lbl:longitude":173.314304,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2788
+        "gn:id":2186769,
+        "gp:id":2349546,
+        "nz-linz:id":2788,
+        "qs_pg:id":1018269
     },
     "wof:country":"NZ",
     "wof:created":1602622443,
     "wof:geomhash":"4d09f383638cbfdffb17c6aba1b43144",
     "wof:hierarchy":[],
     "wof:id":1729341437,
-    "wof:lastmodified":1602624750,
+    "wof:lastmodified":1602633732,
     "wof:name":"Mitimiti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126081191
+    ],
     "wof:tags":[]
 },
   "bbox": [

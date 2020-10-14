@@ -9,6 +9,9 @@
     "geom:bbox":"176.809277,-39.557138,176.863441,-39.516288",
     "geom:latitude":-39.538253,
     "geom:longitude":176.838223,
+    "gn:latitude":-39.53333,
+    "gn:longitude":176.85,
+    "gn:population":16599,
     "iso:country":"NZ",
     "lbl:latitude":-39.534552,
     "lbl:longitude":176.840894,
@@ -16,31 +19,79 @@
     "mps:longitude":176.840894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0434\u0430\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Taradale"
+    ],
     "name:eng_x_preferred":[
+        "Taradale"
+    ],
+    "name:eng_x_variant":[
+        "Taradale Town District"
+    ],
+    "name:msa_x_preferred":[
+        "Taradale"
+    ],
+    "name:nld_x_preferred":[
         "Taradale"
     ],
     "nz-linz:name":"Taradale",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2186313,
+    "qs:gn_namadm1":"F2",
+    "qs:gn_name":"Taradale",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Taradale",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":25,
+    "qs:photo_sum":139,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1591
+        "gn:id":6246634,
+        "gp:id":2350718,
+        "nz-linz:id":1591,
+        "qs_pg:id":386623,
+        "wd:id":"Q7685280",
+        "wk:page":"Taradale, New Zealand"
     },
     "wof:country":"NZ",
     "wof:created":1602621279,
     "wof:geomhash":"0c26ca1f690425536002e87db7e5407e",
     "wof:hierarchy":[],
     "wof:id":1729338659,
-    "wof:lastmodified":1602624846,
+    "wof:lastmodified":1602633719,
     "wof:name":"Taradale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
+    "wof:population":16599,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773225
+    ],
     "wof:tags":[]
 },
   "bbox": [

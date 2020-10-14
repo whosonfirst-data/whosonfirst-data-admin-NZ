@@ -19,28 +19,59 @@
     "name:eng_x_preferred":[
         "Waiwhetu"
     ],
+    "name:eng_x_variant":[
+        "Waiwhet\u016b"
+    ],
     "nz-linz:name":"Waiwhetu",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:id":0,
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Waiwhetu",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":91,
+    "qs:photo_sum":248,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1867
+        "gp:id":22726567,
+        "nz-linz:id":1867,
+        "wd:id":"Q7960677"
     },
     "wof:country":"NZ",
     "wof:created":1602621296,
     "wof:geomhash":"938b80b7992f234eed9319811080e261",
     "wof:hierarchy":[],
     "wof:id":1729338701,
-    "wof:lastmodified":1602624838,
+    "wof:lastmodified":1602633720,
     "wof:name":"Waiwhetu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778719
+    ],
     "wof:tags":[]
 },
   "bbox": [

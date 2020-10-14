@@ -11,6 +11,7 @@
     "geom:longitude":174.678863,
     "gn:country":"NZ",
     "gn:fcode":"PPL",
+    "gn:id":"",
     "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-36.9082,
@@ -29,9 +30,34 @@
     "name:eng_x_preferred":[
         "New Lynn"
     ],
+    "name:eng_x_variant":[
+        "New Lynn"
+    ],
     "nz-linz:id":2911,
     "nz-linz:name":"New Lynn",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6232192,
+    "qs:gn_nam_loc":"new lynn",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":250,
+    "qs:local_sum":356,
+    "qs:localhoods":2,
+    "qs:name":"New Lynn North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"New Lynn",
+    "qs:photo_max":39,
+    "qs:photo_sum":250,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726612,
+    "qs:woe_ver":"7.10.0",
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
     "qs_pg:gn_fcode":"PPL",
@@ -70,9 +96,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232192,
-        "gp:id":22726612,
+        "gp:id":22726679,
         "nz-linz:id":2911,
-        "qs_pg:id":1182585,
+        "qs_pg:id":893063,
         "wd:id":"Q15262068"
     },
     "wof:country":"NZ",
@@ -88,14 +114,16 @@
         }
     ],
     "wof:id":1125862541,
-    "wof:lastmodified":1602616351,
+    "wof:lastmodified":1602633706,
     "wof:name":"New Lynn",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85779011
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,12 +35,34 @@
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"New Zealand",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":7302484,
+    "qs:gn_nam_loc":"waitakere",
+    "qs:gn_namadm1":"E7",
     "qs:id":0,
     "qs:la_lc":"*",
     "qs:level":"locality",
     "qs:loc":"Whenuapai",
+    "qs:local_max":282,
+    "qs:local_sum":2234,
+    "qs:localhoods":18,
+    "qs:name":"Whenuapai",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Waitakere",
+    "qs:photo_max":139,
+    "qs:photo_sum":267,
+    "qs:placetype":"Suburb",
     "qs:pop":0,
+    "qs:quad_count":19,
     "qs:source":"LUnknown",
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":28644854,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "quattroshapes"
@@ -56,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2179168,
-        "gp:id":12515179,
+        "gp:id":2351403,
         "nz-linz:id":4118,
         "wd:id":"Q7993089"
     },
@@ -72,7 +94,7 @@
         }
     ],
     "wof:id":101914869,
-    "wof:lastmodified":1602616369,
+    "wof:lastmodified":1602633727,
     "wof:name":"Whenuapai",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
@@ -88,7 +110,8 @@
         101917743,
         101917745,
         101917747,
-        101918487
+        101918487,
+        85773335
     ],
     "wof:tags":[]
 },

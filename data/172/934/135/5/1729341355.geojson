@@ -9,6 +9,9 @@
     "geom:bbox":"174.039751,-39.206478,174.109512,-39.079715",
     "geom:latitude":-39.148684,
     "geom:longitude":174.07751,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-39.146522,
     "lbl:longitude":174.082808,
@@ -19,6 +22,9 @@
     "name:eng_x_preferred":[
         "Mangorei"
     ],
+    "name:mri_x_preferred":[
+        "Mangorei"
+    ],
     "nz-linz:name":"Mangorei",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -26,21 +32,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2419
+        "gn:id":2187441,
+        "gp:id":2349380,
+        "nz-linz:id":2419,
+        "qs_pg:id":507480
     },
     "wof:country":"NZ",
     "wof:created":1602622408,
     "wof:geomhash":"acc3e37abdbbbf8b7a776c5256adaa30",
     "wof:hierarchy":[],
     "wof:id":1729341355,
-    "wof:lastmodified":1602624715,
+    "wof:lastmodified":1602633732,
     "wof:name":"Mangorei",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126086329
+    ],
     "wof:tags":[]
 },
   "bbox": [

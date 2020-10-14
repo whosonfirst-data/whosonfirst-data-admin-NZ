@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "mps:latitude":-43.531609,
     "mps:longitude":172.545729,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -85,11 +86,11 @@
     "wd:longitude":-1.463969,
     "wd:wordcount":805,
     "wof:belongsto":[
-        85687179,
         102191583,
         85633345,
+        102079401,
         101914521,
-        102079401
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,12 +115,14 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582316530,
+    "wof:lastmodified":1602633708,
     "wof:name":"Sockburn",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729338211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

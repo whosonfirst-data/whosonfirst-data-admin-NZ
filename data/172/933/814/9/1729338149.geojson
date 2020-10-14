@@ -9,6 +9,11 @@
     "geom:bbox":"178.018525,-38.693211,178.053135,-38.666779",
     "geom:latitude":-38.678697,
     "geom:longitude":178.038631,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:latitude":-38.66824,
+    "gn:longitude":178.03021,
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-38.677537,
     "lbl:longitude":178.038635,
@@ -26,21 +31,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":8886
+        "gn:id":6240088,
+        "gp:id":28644276,
+        "nz-linz:id":8886,
+        "qs_pg:id":230145
     },
     "wof:country":"NZ",
     "wof:created":1602621069,
     "wof:geomhash":"60dbed64a8440cf9f5e2d661c127d47a",
     "wof:hierarchy":[],
     "wof:id":1729338149,
-    "wof:lastmodified":1602624842,
+    "wof:lastmodified":1602633705,
     "wof:name":"Kaiti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126067767
+    ],
     "wof:tags":[]
 },
   "bbox": [

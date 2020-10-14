@@ -9,6 +9,10 @@
     "geom:bbox":"171.652233,-43.945724,171.772749,-43.88013",
     "geom:latitude":-43.915944,
     "geom:longitude":171.707272,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:latitude":-43.91667,
+    "gn:longitude":171.71667,
     "gn:population":2703,
     "iso:country":"NZ",
     "lbl:latitude":-43.919287,
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"quattroshapes_pg",
     "wd:wordcount":298,
     "wof:belongsto":[
         102191583,
@@ -67,6 +71,7 @@
         "gn:id":2181108,
         "gp:id":2350918,
         "nz-linz:id":1688,
+        "qs_pg:id":1159805,
         "wd:id":"Q7808554",
         "wk:page":"Tinwald, New Zealand"
     },
@@ -85,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616369,
+    "wof:lastmodified":1602633727,
     "wof:name":"Tinwald",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",
@@ -97,7 +102,8 @@
     "wof:supersedes":[
         101915773,
         101916155,
-        101916157
+        101916157,
+        1126061621
     ],
     "wof:tags":[]
 },

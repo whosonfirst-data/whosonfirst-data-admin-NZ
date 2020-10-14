@@ -9,6 +9,9 @@
     "geom:bbox":"174.962262,-37.076161,174.987456,-37.063756",
     "geom:latitude":-37.069579,
     "geom:longitude":174.973841,
+    "gn:latitude":-37.0582,
+    "gn:longitude":174.97019,
+    "gn:population":2556,
     "iso:country":"NZ",
     "lbl:latitude":-37.068495,
     "lbl:longitude":174.970889,
@@ -16,31 +19,95 @@
     "mps:longitude":174.970889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Red Hill"
+    ],
+    "name:deu_x_preferred":[
+        "Red Hill"
+    ],
     "name:eng_x_preferred":[
+        "Red Hill"
+    ],
+    "name:fra_x_preferred":[
+        "Red Hill"
+    ],
+    "name:ita_x_preferred":[
+        "Red Hill"
+    ],
+    "name:mlg_x_preferred":[
+        "Red Hill"
+    ],
+    "name:nld_x_preferred":[
+        "Red Hill"
+    ],
+    "name:pol_x_preferred":[
+        "Red Hill"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0434 \u0425\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Red Hill"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0434-\u0413\u0456\u043b\u043b"
+    ],
+    "name:vol_x_preferred":[
         "Red Hill"
     ],
     "nz-linz:name":"Red Hill",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2208329,
+    "qs:gn_nam_loc":"papakura",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Red Hill",
+    "qs:local_max":177,
+    "qs:local_sum":375,
+    "qs:localhoods":4,
+    "qs:name":"Red Hill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Papakura",
+    "qs:photo_max":9,
+    "qs:photo_sum":14,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350034,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1381
+        "gn:id":6231571,
+        "gp:id":28644024,
+        "nz-linz:id":1381,
+        "qs_pg:id":1024393
     },
     "wof:country":"NZ",
     "wof:created":1602621444,
     "wof:geomhash":"f72eac1e72814a6b1187f1b5b0b7baa5",
     "wof:hierarchy":[],
     "wof:id":1729339049,
-    "wof:lastmodified":1602624832,
+    "wof:lastmodified":1602633729,
     "wof:name":"Red Hill",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
+    "wof:population":2556,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781093
+    ],
     "wof:tags":[]
 },
   "bbox": [

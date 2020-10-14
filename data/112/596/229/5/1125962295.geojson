@@ -11,6 +11,7 @@
     "geom:longitude":174.805492,
     "gn:country":"NZ",
     "gn:fcode":"PPL",
+    "gn:id":"",
     "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-36.88041,
@@ -26,6 +27,9 @@
     "name:eng_x_preferred":[
         "Remuera"
     ],
+    "name:eng_x_variant":[
+        "Remuera"
+    ],
     "name:fra_x_preferred":[
         "Remuera"
     ],
@@ -35,6 +39,28 @@
     "nz-linz:id":2923,
     "nz-linz:name":"Remuera",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6232305,
+    "qs:gn_nam_loc":"remuera",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":218,
+    "qs:local_sum":294,
+    "qs:localhoods":3,
+    "qs:name":"Remuera Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Remuera",
+    "qs:photo_max":13,
+    "qs:photo_sum":55,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726508,
+    "qs:woe_ver":"7.10.0",
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
     "qs_pg:gn_fcode":"PPL",
@@ -73,9 +99,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232305,
-        "gp:id":22726508,
+        "gp:id":28676766,
         "nz-linz:id":2923,
-        "qs_pg:id":1251485,
+        "qs_pg:id":980538,
         "wd:id":"Q7312235"
     },
     "wof:country":"NZ",
@@ -91,14 +117,16 @@
         }
     ],
     "wof:id":1125962295,
-    "wof:lastmodified":1602616363,
+    "wof:lastmodified":1602633723,
     "wof:name":"Remuera",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85782495
+    ],
     "wof:tags":[]
 },
   "bbox": [

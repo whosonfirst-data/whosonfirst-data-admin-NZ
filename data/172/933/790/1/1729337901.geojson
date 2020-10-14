@@ -9,6 +9,9 @@
     "geom:bbox":"174.309117,-35.699351,174.32416,-35.685922",
     "geom:latitude":-35.693014,
     "geom:longitude":174.317393,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-35.69352,
     "lbl:longitude":174.317282,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1153
+        "gn:id":6230838,
+        "gp:id":28643976,
+        "nz-linz:id":1153,
+        "qs_pg:id":772260
     },
     "wof:country":"NZ",
     "wof:created":1602620962,
     "wof:geomhash":"b6b383d86a79f92d8c863f14acb6e042",
     "wof:hierarchy":[],
     "wof:id":1729337901,
-    "wof:lastmodified":1602624794,
+    "wof:lastmodified":1602633697,
     "wof:name":"Otangarei",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126068539
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -16,16 +16,65 @@
     "mps:longitude":172.557032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sockburn"
+    ],
+    "name:cym_x_preferred":[
+        "Sockburn"
+    ],
     "name:eng_x_preferred":[
+        "Sockburn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06a9\u0628\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sockburn"
+    ],
+    "name:ita_x_preferred":[
+        "Sockburn"
+    ],
+    "name:nld_x_preferred":[
+        "Sockburn"
+    ],
+    "name:pol_x_preferred":[
+        "Sockburn"
+    ],
+    "name:swe_x_preferred":[
         "Sockburn"
     ],
     "nz-linz:name":"Sockburn",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:id":0,
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Sockburn",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":31,
+    "qs:photo_sum":158,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":22726526,
         "nz-linz:id":1497
     },
     "wof:country":"NZ",
@@ -33,14 +82,16 @@
     "wof:geomhash":"868beae1a724ac81c58ac8577f279b42",
     "wof:hierarchy":[],
     "wof:id":1729338211,
-    "wof:lastmodified":1602624808,
+    "wof:lastmodified":1602633708,
     "wof:name":"Sockburn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778617
+    ],
     "wof:tags":[]
 },
   "bbox": [

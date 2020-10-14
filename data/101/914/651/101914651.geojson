@@ -9,6 +9,7 @@
     "geom:bbox":"174.831706,-36.960088,174.866344,-36.930477",
     "geom:latitude":-36.943837,
     "geom:longitude":174.845388,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.939606,
     "lbl:longitude":174.846996,
@@ -50,12 +51,34 @@
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"New Zealand",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6232009,
+    "qs:gn_nam_loc":"otahuhu",
+    "qs:gn_namadm1":"E7",
     "qs:id":0,
     "qs:la_lc":"*",
     "qs:level":"locality",
     "qs:loc":"Otahuhu",
+    "qs:local_max":55,
+    "qs:local_sum":68,
+    "qs:localhoods":2,
+    "qs:name":"Otahuhu West",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Otahuhu",
+    "qs:photo_max":7,
+    "qs:photo_sum":13,
+    "qs:placetype":"Suburb",
     "qs:pop":0,
+    "qs:quad_count":4,
     "qs:source":"LUnknown",
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726485,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "quattroshapes"
@@ -70,7 +93,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232009,
+        "gp:id":22726628,
         "nz-linz:id":8835,
+        "qs_pg:id":263118,
         "wd:id":"Q2036659",
         "wk:page":"Otahuhu"
     },
@@ -86,7 +111,7 @@
         }
     ],
     "wof:id":101914651,
-    "wof:lastmodified":1602616352,
+    "wof:lastmodified":1602633708,
     "wof:name":"Otahuhu",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
@@ -96,7 +121,8 @@
     "wof:supersedes":[
         101914781,
         101915167,
-        101916695
+        101916695,
+        85778867
     ],
     "wof:tags":[]
 },

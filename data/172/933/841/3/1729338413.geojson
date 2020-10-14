@@ -9,6 +9,9 @@
     "geom:bbox":"168.341986,-46.396772,168.361317,-46.386222",
     "geom:latitude":-46.392348,
     "geom:longitude":168.352437,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-46.392485,
     "lbl:longitude":168.352436,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":415
+        "gn:id":6205085,
+        "gp:id":28644396,
+        "nz-linz:id":415,
+        "qs_pg:id":43634
     },
     "wof:country":"NZ",
     "wof:created":1602621178,
     "wof:geomhash":"f229b029acf4c0278b4673095d2f59e1",
     "wof:hierarchy":[],
     "wof:id":1729338413,
-    "wof:lastmodified":1602624837,
+    "wof:lastmodified":1602633713,
     "wof:name":"Gladstone",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126101373
+    ],
     "wof:tags":[]
 },
   "bbox": [

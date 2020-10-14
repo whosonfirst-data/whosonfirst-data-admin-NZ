@@ -19,28 +19,65 @@
     "name:eng_x_preferred":[
         "Onerahi"
     ],
+    "name:eng_x_variant":[
+        "Onerahi Town District"
+    ],
+    "name:nld_x_preferred":[
+        "Onerahi"
+    ],
+    "name:nno_x_preferred":[
+        "Onerahi"
+    ],
     "nz-linz:name":"Onerahi",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6230919,
+    "qs:gn_nam_loc":"Whangarei, Whangarei, Northland, NZ",
+    "qs:gn_namadm1":"F6",
+    "qs:id":0,
+    "qs:local_max":609,
+    "qs:local_sum":1890,
+    "qs:localhoods":9,
+    "qs:name":"Onerahi",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Northland",
+    "qs:name_adm2":"Whangarei District",
+    "qs:name_local":"Whangarei",
+    "qs:photo_max":65,
+    "qs:photo_sum":180,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021755,
+    "qs:woe_adm2":55875890,
+    "qs:woe_lau":0,
+    "qs:woe_local":2351368,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2838
+        "gp:id":2349858,
+        "nz-linz:id":2838,
+        "wd:id":"Q7093745"
     },
     "wof:country":"NZ",
     "wof:created":1602621358,
     "wof:geomhash":"b6ca470496b07d79ff5af0432afd6ed0",
     "wof:hierarchy":[],
     "wof:id":1729338855,
-    "wof:lastmodified":1602624841,
+    "wof:lastmodified":1602633724,
     "wof:name":"Onerahi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773083
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,8 @@
     "geom:bbox":"172.636653,-43.570647,172.648077,-43.558927",
     "geom:latitude":-43.564353,
     "geom:longitude":172.642966,
+    "gn:latitude":-43.56497,
+    "gn:longitude":172.64105,
     "iso:country":"NZ",
     "lbl:latitude":-43.564459,
     "lbl:longitude":172.64343,
@@ -16,31 +18,111 @@
     "mps:longitude":172.64343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0628\u06a9\u0646\u0647\u0627\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "Beckenham"
+    ],
+    "name:cym_x_preferred":[
+        "Beckenham"
+    ],
     "name:eng_x_preferred":[
         "Beckenham"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06a9\u0646\u0647\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Beckenham"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0915\u0947\u0928\u0939\u092e"
+    ],
+    "name:ita_x_preferred":[
+        "Beckenham"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30c3\u30af\u30ca\u30e0"
+    ],
+    "name:msa_x_preferred":[
+        "Beckenham"
+    ],
+    "name:nld_x_preferred":[
+        "Beckenham"
+    ],
+    "name:nor_x_preferred":[
+        "Beckenham"
+    ],
+    "name:pol_x_preferred":[
+        "Beckenham"
+    ],
+    "name:por_x_preferred":[
+        "Beckenham"
+    ],
+    "name:swe_x_preferred":[
+        "Beckenham"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u06a9\u0646\u06c1\u06cc\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Beckenham"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u80af\u7ff0\u59c6"
+    ],
     "nz-linz:name":"Beckenham",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2192362,
+    "qs:gn_nam_loc":"Christchurch, Christchurch City, Canterbury, NZ",
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Beckenham",
+    "qs:local_max":24580,
+    "qs:local_sum":51501,
+    "qs:localhoods":65,
+    "qs:name":"Beckenham",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Christchurch City",
+    "qs:name_local":"Christchurch",
+    "qs:photo_max":71,
+    "qs:photo_sum":305,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875854,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348327,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":107
+        "gn:id":6220887,
+        "gp:id":22726329,
+        "nz-linz:id":107,
+        "qs_pg:id":1277437
     },
     "wof:country":"NZ",
     "wof:created":1602620884,
     "wof:geomhash":"45a201f2abaaff9dbcff22e257fa7419",
     "wof:hierarchy":[],
     "wof:id":1729337717,
-    "wof:lastmodified":1602624820,
+    "wof:lastmodified":1602633691,
     "wof:name":"Beckenham",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778153
+    ],
     "wof:tags":[]
 },
   "bbox": [

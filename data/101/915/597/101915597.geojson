@@ -9,6 +9,8 @@
     "geom:bbox":"174.747586,-36.800553,174.780237,-36.772244",
     "geom:latitude":-36.788001,
     "geom:longitude":174.765567,
+    "gn:latitude":-36.79167,
+    "gn:longitude":174.77583,
     "iso:country":"NZ",
     "lbl:latitude":-36.7975,
     "lbl:longitude":174.777857,
@@ -59,12 +61,33 @@
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"New Zealand",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Takapuna",
     "qs:id":0,
     "qs:la_lc":"*",
     "qs:level":"locality",
     "qs:loc":"Takapuna",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Takapuna",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":228,
+    "qs:photo_sum":1341,
+    "qs:placetype":"Suburb",
     "qs:pop":0,
+    "qs:quad_count":24,
     "qs:source":"LUnknown",
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "quattroshapes"
@@ -80,7 +103,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2207740,
+        "gp:id":2350686,
         "nz-linz:id":8658,
+        "qs_pg:id":1136871,
         "wd:id":"Q7677248",
         "wk:page":"Takapuna"
     },
@@ -96,7 +121,7 @@
         }
     ],
     "wof:id":101915597,
-    "wof:lastmodified":1602616347,
+    "wof:lastmodified":1602633704,
     "wof:name":"Takapuna",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
@@ -105,7 +130,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101916741,
-        101916743
+        101916743,
+        85773217
     ],
     "wof:tags":[]
 },

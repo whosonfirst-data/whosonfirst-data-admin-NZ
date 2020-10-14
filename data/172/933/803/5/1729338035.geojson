@@ -9,6 +9,7 @@
     "geom:bbox":"173.281169,-41.274486,173.30229,-41.255902",
     "geom:latitude":-41.266446,
     "geom:longitude":173.292926,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-41.267365,
     "lbl:longitude":173.293958,
@@ -16,31 +17,74 @@
     "mps:longitude":173.293958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "The Wood"
+    ],
+    "name:deu_x_preferred":[
+        "Jein"
+    ],
     "name:eng_x_preferred":[
         "The Wood"
     ],
+    "name:fra_x_preferred":[
+        "The Wood"
+    ],
+    "name:spa_x_preferred":[
+        "The Wood"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f20\u80c6\u4e09\u5144\u5f1f"
+    ],
     "nz-linz:name":"The Wood",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2186280,
+    "qs:gn_nam_loc":"Nelson, Nelson City, Nelson, NZ",
+    "qs:gn_namadm1":"F5",
+    "qs:local_max":2029,
+    "qs:local_sum":5504,
+    "qs:localhoods":17,
+    "qs:name":"The Wood",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Nelson",
+    "qs:name_adm2":"Nelson City",
+    "qs:name_local":"Nelson",
+    "qs:photo_max":77,
+    "qs:photo_sum":330,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021758,
+    "qs:woe_adm2":55875906,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349669,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2544
+        "gp:id":28644486,
+        "nz-linz:id":2544,
+        "qs_pg:id":1197235,
+        "wd:id":"Q7775708"
     },
     "wof:country":"NZ",
     "wof:created":1602621022,
     "wof:geomhash":"164fb9f525aaa9a4d6ea140cee1ae9d6",
     "wof:hierarchy":[],
     "wof:id":1729338035,
-    "wof:lastmodified":1602624812,
+    "wof:lastmodified":1602633701,
     "wof:name":"The Wood",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781545
+    ],
     "wof:tags":[]
 },
   "bbox": [

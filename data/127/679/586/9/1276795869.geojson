@@ -12,8 +12,10 @@
     "gn:admin1_code":"E9",
     "gn:admin2_code":"64.0",
     "gn:asciiname":"Gleniti",
+    "gn:country":"NZ",
     "gn:country_code":"NZ",
     "gn:dem":59,
+    "gn:fcode":"PPLX",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":2190715,
@@ -51,8 +53,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2190715,
-        "nz-linz:id":432
+        "gn:id":6214595,
+        "gp:id":2348609,
+        "nz-linz:id":432,
+        "qs_pg:id":59747
     },
     "wof:country":"NZ",
     "wof:geomhash":"a90b64ae5ccc0d692055521a671a18f0",
@@ -66,14 +70,16 @@
         }
     ],
     "wof:id":1276795869,
-    "wof:lastmodified":1602616337,
+    "wof:lastmodified":1602633693,
     "wof:name":"Gleniti",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126096555
+    ],
     "wof:tags":[]
 },
   "bbox": [

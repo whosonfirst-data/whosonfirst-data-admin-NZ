@@ -9,6 +9,8 @@
     "geom:bbox":"174.678753,-36.751624,174.719655,-36.717618",
     "geom:latitude":-36.73432,
     "geom:longitude":174.69919,
+    "gn:latitude":-36.71667,
+    "gn:longitude":174.7,
     "iso:country":"NZ",
     "lbl:latitude":-36.732837,
     "lbl:longitude":174.698881,
@@ -16,31 +18,89 @@
     "mps:longitude":174.698881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Albany"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03bb\u03bc\u03c0\u03b1\u03bd\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Albany"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30d0\u30cb\u30fc"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0431\u0430\u043d\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "Albany Village"
+    ],
+    "name:msa_x_preferred":[
+        "Albany"
+    ],
+    "name:nld_x_preferred":[
+        "Albany"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0646\u06cc\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0646\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u9c81\u514b\u6797\u533a"
+    ],
     "nz-linz:name":"Albany",
     "nz-linz:type":"SUBURB",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Albany",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Albany",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":272,
+    "qs:photo_sum":552,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2960
+        "gn:id":2194046,
+        "gp:id":2347990,
+        "nz-linz:id":2960,
+        "qs_pg:id":1092125,
+        "wd:id":"Q1501615",
+        "wk:page":"Albany, New Zealand"
     },
     "wof:country":"NZ",
     "wof:created":1602621357,
     "wof:geomhash":"8b80fb0b8dedece86782117e4ff0dd06",
     "wof:hierarchy":[],
     "wof:id":1729338853,
-    "wof:lastmodified":1602624841,
+    "wof:lastmodified":1602633724,
     "wof:name":"Albany",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85772825
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,9 @@
     "geom:bbox":"177.98036,-38.662398,178.020817,-38.646634",
     "geom:latitude":-38.653691,
     "geom:longitude":178.000621,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-38.65457,
     "lbl:longitude":178.005374,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1622
+        "gn:id":6240058,
+        "gp:id":28644104,
+        "nz-linz:id":1622,
+        "qs_pg:id":985664
     },
     "wof:country":"NZ",
     "wof:created":1602621281,
     "wof:geomhash":"6f48481b0f294937a1e21943a65a5c3f",
     "wof:hierarchy":[],
     "wof:id":1729338663,
-    "wof:lastmodified":1602624810,
+    "wof:lastmodified":1602633719,
     "wof:name":"Te Hapara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126069611
+    ],
     "wof:tags":[]
 },
   "bbox": [

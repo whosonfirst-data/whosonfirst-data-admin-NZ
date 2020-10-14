@@ -9,6 +9,9 @@
     "geom:bbox":"176.75275,-39.635558,176.802493,-39.606534",
     "geom:latitude":-39.620414,
     "geom:longitude":176.780117,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-39.61866,
     "lbl:longitude":176.777917,
@@ -78,14 +81,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1602616355,
+    "wof:lastmodified":1602633712,
     "wof:name":"Flaxmere",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126063357
+    ],
     "wof:tags":[]
 },
   "bbox": [

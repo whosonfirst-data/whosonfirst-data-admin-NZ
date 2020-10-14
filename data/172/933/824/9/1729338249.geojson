@@ -9,6 +9,8 @@
     "geom:bbox":"171.207785,-44.385222,171.241526,-44.372283",
     "geom:latitude":-44.378299,
     "geom:longitude":171.224871,
+    "gn:latitude":-44.37728,
+    "gn:longitude":171.22561,
     "iso:country":"NZ",
     "lbl:latitude":-44.379264,
     "lbl:longitude":171.224859,
@@ -16,31 +18,92 @@
     "mps:longitude":171.224859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u0634\u0648\u064a\u0644"
+    ],
+    "name:bre_x_preferred":[
+        "Marchwiail"
+    ],
+    "name:ceb_x_preferred":[
+        "Marchwiel"
+    ],
+    "name:cor_x_preferred":[
+        "Marchwiail"
+    ],
+    "name:cym_x_preferred":[
+        "Marchwiail"
+    ],
     "name:eng_x_preferred":[
+        "Marchwiel"
+    ],
+    "name:eus_x_preferred":[
+        "Marchwiel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0686\u0648\u06cc\u0644"
+    ],
+    "name:gla_x_preferred":[
+        "Marchwiail"
+    ],
+    "name:gle_x_preferred":[
+        "Marchwiail"
+    ],
+    "name:spa_x_preferred":[
+        "Marchwiel"
+    ],
+    "name:swe_x_preferred":[
         "Marchwiel"
     ],
     "nz-linz:name":"Marchwiel",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2181133,
+    "qs:gn_namadm1":"E9",
+    "qs:gn_name":"Marchwiel",
+    "qs:local_max":409,
+    "qs:local_sum":775,
+    "qs:localhoods":6,
+    "qs:name":"Marchwiel",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Canterbury",
+    "qs:name_adm2":"Timaru District",
+    "qs:name_local":"Timaru",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021751,
+    "qs:woe_adm2":55875872,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350910,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":857
+        "gn:id":6214600,
+        "gp:id":28644436,
+        "nz-linz:id":857,
+        "qs_pg:id":1198061
     },
     "wof:country":"NZ",
     "wof:created":1602621110,
     "wof:geomhash":"ac4dbc0fbcf55d174bc520d1f8cc40ac",
     "wof:hierarchy":[],
     "wof:id":1729338249,
-    "wof:lastmodified":1602624839,
+    "wof:lastmodified":1602633709,
     "wof:name":"Marchwiel",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781489
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,9 @@
     "geom:bbox":"172.647227,-43.571417,172.660502,-43.552343",
     "geom:latitude":-43.559431,
     "geom:longitude":172.654192,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-43.557226,
     "lbl:longitude":172.653195,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1527
+        "gn:id":6220877,
+        "gp:id":22726534,
+        "nz-linz:id":1527,
+        "qs_pg:id":21311
     },
     "wof:country":"NZ",
     "wof:created":1602621273,
     "wof:geomhash":"20968527410f00d5b6f0dd59c97f0643",
     "wof:hierarchy":[],
     "wof:id":1729338645,
-    "wof:lastmodified":1602624850,
+    "wof:lastmodified":1602633718,
     "wof:name":"Saint Martins",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126097813
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "mps:latitude":-43.54239,
     "mps:longitude":172.528577,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -87,10 +88,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":184,
     "wof:belongsto":[
-        85687179,
         102191583,
         85633345,
-        102079401
+        102079401,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,12 +119,14 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582316532,
+    "wof:lastmodified":1602633694,
     "wof:name":"Hornby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293917423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

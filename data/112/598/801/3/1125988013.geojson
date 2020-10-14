@@ -10,6 +10,7 @@
     "geom:latitude":-36.798171,
     "geom:longitude":174.69139,
     "gn:country":null,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.791415,
     "lbl:longitude":174.691243,
@@ -21,12 +22,37 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Beach Haven"
+    ],
+    "name:deu_x_preferred":[
+        "Beach Haven"
+    ],
     "name:eng_x_preferred":[
         "Beach Haven"
     ],
     "nz-linz:id":2898,
     "nz-linz:name":"Beach Haven",
     "nz-linz:type":"SUBURB",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":215,
+    "qs:local_sum":308,
+    "qs:localhoods":2,
+    "qs:name":"Beach Haven North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Beach Haven",
+    "qs:photo_max":22,
+    "qs:photo_sum":93,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726328,
+    "qs:woe_ver":"7.10.0",
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Beach Haven",
@@ -61,9 +87,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":22726328,
+        "gp:id":22726656,
         "nz-linz:id":2898,
-        "qs_pg:id":1187557,
+        "qs_pg:id":485013,
         "wd:id":"Q4875714"
     },
     "wof:country":"NZ",
@@ -79,14 +105,16 @@
         }
     ],
     "wof:id":1125988013,
-    "wof:lastmodified":1602616346,
+    "wof:lastmodified":1602633703,
     "wof:name":"Beach Haven",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778951
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,9 @@
     "geom:bbox":"174.879225,-36.899742,174.899615,-36.891044",
     "geom:latitude":-36.89494,
     "geom:longitude":174.888605,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-36.894434,
     "lbl:longitude":174.88521,
@@ -16,7 +19,13 @@
     "mps:longitude":174.88521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Farm Cove"
+    ],
     "name:eng_x_preferred":[
+        "Farm Cove"
+    ],
+    "name:swe_x_preferred":[
         "Farm Cove"
     ],
     "nz-linz:name":"Farm Cove",
@@ -26,21 +35,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":370
+        "gn:id":6232086,
+        "gp:id":22726368,
+        "nz-linz:id":370,
+        "qs_pg:id":1315992
     },
     "wof:country":"NZ",
     "wof:created":1602620910,
     "wof:geomhash":"15aa6cf980e7b1398411309a0c05dbae",
     "wof:hierarchy":[],
     "wof:id":1729337777,
-    "wof:lastmodified":1602624825,
+    "wof:lastmodified":1602633693,
     "wof:name":"Farm Cove",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126068105
+    ],
     "wof:tags":[]
 },
   "bbox": [

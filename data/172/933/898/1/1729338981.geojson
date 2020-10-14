@@ -9,6 +9,9 @@
     "geom:bbox":"176.086381,-38.714582,176.10842,-38.701903",
     "geom:latitude":-38.708986,
     "geom:longitude":176.096568,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-38.708974,
     "lbl:longitude":176.096404,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":8864
+        "gn:id":6236553,
+        "gp:id":28644799,
+        "nz-linz:id":8864,
+        "qs_pg:id":1182388
     },
     "wof:country":"NZ",
     "wof:created":1602621417,
     "wof:geomhash":"9f6ff8f648e6c4782fb26b21ffeb3cb4",
     "wof:hierarchy":[],
     "wof:id":1729338981,
-    "wof:lastmodified":1602624846,
+    "wof:lastmodified":1602633727,
     "wof:name":"Waipahihi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126068607
+    ],
     "wof:tags":[]
 },
   "bbox": [

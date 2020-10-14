@@ -9,6 +9,8 @@
     "geom:bbox":"174.930286,-41.200806,174.954373,-41.183695",
     "geom:latitude":-41.192183,
     "geom:longitude":174.942688,
+    "gn:latitude":-41.19827,
+    "gn:longitude":174.92019,
     "iso:country":"NZ",
     "lbl:latitude":-41.192469,
     "lbl:longitude":174.942866,
@@ -16,31 +18,165 @@
     "mps:longitude":174.942866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Avalon"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0641\u0627\u0644\u0648\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0432\u0430\u043b\u043e\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Enez Avalon"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0432\u0430\u043b\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Avalon"
+    ],
+    "name:ces_x_preferred":[
+        "Avalon"
+    ],
+    "name:cym_x_preferred":[
+        "Ynys Afallon"
+    ],
+    "name:dan_x_preferred":[
+        "Avalon"
+    ],
+    "name:deu_x_preferred":[
+        "Avalon"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b2\u03b1\u03bb\u03bf\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Avalon"
     ],
+    "name:epo_x_preferred":[
+        "Avalon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0648\u0627\u0644\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Avalon"
+    ],
+    "name:fra_x_preferred":[
+        "Avalon"
+    ],
+    "name:glg_x_preferred":[
+        "Avalon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05dc\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Avalon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f4\u30a1\u30ed\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d5\u10d0\u10da\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ubc1c\ub860"
+    ],
+    "name:lat_x_preferred":[
+        "Avallonia"
+    ],
+    "name:nld_x_preferred":[
+        "Avalon"
+    ],
+    "name:nor_x_preferred":[
+        "Avalon"
+    ],
+    "name:pol_x_preferred":[
+        "Avalon"
+    ],
+    "name:por_x_preferred":[
+        "Avalon"
+    ],
+    "name:ron_x_preferred":[
+        "Avalon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u0430\u043b\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "\u00c1valon"
+    ],
+    "name:srp_x_preferred":[
+        "Avalon"
+    ],
+    "name:swe_x_preferred":[
+        "Avalon"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e27\u0e32\u0e25\u0e2d\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Avalon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0430\u043b\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u74e6\u9686"
+    ],
     "nz-linz:name":"Avalon",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Avalon",
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Avalon",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":49,
+    "qs:photo_sum":263,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":69
+        "gn:id":6244873,
+        "gp:id":22726322,
+        "nz-linz:id":69,
+        "qs_pg:id":56201
     },
     "wof:country":"NZ",
     "wof:created":1602621131,
     "wof:geomhash":"7b4f305b48f9ef0ea84981948669a52c",
     "wof:hierarchy":[],
     "wof:id":1729338297,
-    "wof:lastmodified":1602624803,
+    "wof:lastmodified":1602633710,
     "wof:name":"Avalon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778137
+    ],
     "wof:tags":[]
 },
   "bbox": [

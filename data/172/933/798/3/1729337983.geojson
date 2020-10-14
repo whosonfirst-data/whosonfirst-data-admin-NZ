@@ -9,6 +9,9 @@
     "geom:bbox":"174.071556,-39.083191,174.08951,-39.071759",
     "geom:latitude":-39.078121,
     "geom:longitude":174.080254,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-39.079015,
     "lbl:longitude":174.080862,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1764
+        "gn:id":6222901,
+        "gp:id":28644135,
+        "nz-linz:id":1764,
+        "qs_pg:id":505371
     },
     "wof:country":"NZ",
     "wof:created":1602621000,
     "wof:geomhash":"c4d6ce5efdd6d050d1bd24a2a3b14a1f",
     "wof:hierarchy":[],
     "wof:id":1729337983,
-    "wof:lastmodified":1602624799,
+    "wof:lastmodified":1602633699,
     "wof:name":"Vogeltown",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126108559
+    ],
     "wof:tags":[]
 },
   "bbox": [

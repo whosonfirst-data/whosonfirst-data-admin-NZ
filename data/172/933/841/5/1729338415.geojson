@@ -9,6 +9,8 @@
     "geom:bbox":"168.370363,-46.410287,168.39352,-46.394847",
     "geom:latitude":-46.402834,
     "geom:longitude":168.382198,
+    "gn:latitude":-46.39842,
+    "gn:longitude":168.37009,
     "iso:country":"NZ",
     "lbl:latitude":-46.404412,
     "lbl:longitude":168.378512,
@@ -16,31 +18,83 @@
     "mps:longitude":168.378512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Boned Glengarry"
+    ],
+    "name:cat_x_preferred":[
+        "Glengarry"
+    ],
     "name:eng_x_preferred":[
         "Glengarry"
     ],
+    "name:fra_x_preferred":[
+        "Glengarry"
+    ],
+    "name:fry_x_preferred":[
+        "Glengarry"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ec\u30f3\u30ac\u30ea\u30fc\u5e3d"
+    ],
+    "name:kor_x_preferred":[
+        "\uae00\ub80c\uac1c\ub9ac"
+    ],
+    "name:pol_x_preferred":[
+        "Glengarry"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0435\u043d\u0433\u0430\u0440\u0440\u0438"
+    ],
     "nz-linz:name":"Glengarry",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2189529,
+    "qs:gn_namadm1":"F8",
+    "qs:gn_name":"Glengarry",
+    "qs:local_max":954,
+    "qs:local_sum":2108,
+    "qs:localhoods":12,
+    "qs:name":"Glengarry",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Southland",
+    "qs:name_adm2":"Invercargill City",
+    "qs:name_local":"Invercargill",
+    "qs:photo_max":62,
+    "qs:photo_sum":74,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021750,
+    "qs:woe_adm2":55875899,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348887,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":427
+        "gn:id":6205098,
+        "gp:id":28644399,
+        "nz-linz:id":427,
+        "qs_pg:id":995502
     },
     "wof:country":"NZ",
     "wof:created":1602621179,
     "wof:geomhash":"dd5bb5e98ebef42b977bcabe6fd23b76",
     "wof:hierarchy":[],
     "wof:id":1729338415,
-    "wof:lastmodified":1602624837,
+    "wof:lastmodified":1602633713,
     "wof:name":"Glengarry",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781467
+    ],
     "wof:tags":[]
 },
   "bbox": [

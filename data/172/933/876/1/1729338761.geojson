@@ -9,6 +9,9 @@
     "geom:bbox":"174.272229,-35.731415,174.319165,-35.691074",
     "geom:latitude":-35.708593,
     "geom:longitude":174.295991,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-35.706751,
     "lbl:longitude":174.29369,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2251
+        "gn:id":6230837,
+        "gp:id":28644684,
+        "nz-linz:id":2251,
+        "qs_pg:id":505410
     },
     "wof:country":"NZ",
     "wof:created":1602621319,
     "wof:geomhash":"1f1b0461e0eb23747faedba4575e81ee",
     "wof:hierarchy":[],
     "wof:id":1729338761,
-    "wof:lastmodified":1602624840,
+    "wof:lastmodified":1602633721,
     "wof:name":"Whau Valley",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126108571
+    ],
     "wof:tags":[]
 },
   "bbox": [

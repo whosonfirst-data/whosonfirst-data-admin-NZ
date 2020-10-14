@@ -12,8 +12,10 @@
     "gn:admin1_code":"F5",
     "gn:admin2_code":"52.0",
     "gn:asciiname":"Atawhai",
+    "gn:country":"NZ",
     "gn:country_code":"NZ",
     "gn:dem":1,
+    "gn:fcode":"PPLX",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":2193750,
@@ -50,8 +52,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2193750,
+        "gn:id":6243005,
+        "gp:id":2348074,
         "nz-linz:id":2546,
+        "qs_pg:id":483113,
         "wk:page":"Atawhai"
     },
     "wof:country":"NZ",
@@ -65,14 +69,16 @@
         }
     ],
     "wof:id":1292934619,
-    "wof:lastmodified":1602616363,
+    "wof:lastmodified":1602633722,
     "wof:name":"Atawhai",
     "wof:parent_id":85687157,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126070475
+    ],
     "wof:tags":[]
 },
   "bbox": [

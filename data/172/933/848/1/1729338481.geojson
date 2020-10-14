@@ -9,6 +9,11 @@
     "geom:bbox":"175.076403,-41.129768,175.096063,-41.120962",
     "geom:latitude":-41.125146,
     "geom:longitude":175.08431,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:latitude":-41.11827,
+    "gn:longitude":175.0702,
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-41.125575,
     "lbl:longitude":175.084458,
@@ -26,21 +31,28 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":695
+        "gn:id":6244892,
+        "gp:id":22726420,
+        "nz-linz:id":695,
+        "qs_pg:id":353058,
+        "wd:id":"Q6413312",
+        "wk:page":"Kingsley Heights"
     },
     "wof:country":"NZ",
     "wof:created":1602621205,
     "wof:geomhash":"8ef135086d4c672188e4ddbddc65c7e4",
     "wof:hierarchy":[],
     "wof:id":1729338481,
-    "wof:lastmodified":1602624839,
+    "wof:lastmodified":1602633715,
     "wof:name":"Kingsley Heights",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126072491
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,10 @@
     "geom:bbox":"174.899558,-37.05963,174.968721,-37.014676",
     "geom:latitude":-37.034646,
     "geom:longitude":174.934155,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
     "gn:id":"2181991,6231568,6232045",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-37.042793,
     "lbl:longitude":174.913672,
@@ -60,9 +63,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6231568,
+        "gn:id":6232045,
+        "gp:id":2350684,
         "nz-linz:id":1575,
-        "qs_pg:id":1153074,
+        "qs_pg:id":984114,
         "wd:id":"Q7677177"
     },
     "wof:country":"NZ",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101914611,
-    "wof:lastmodified":1602616371,
+    "wof:lastmodified":1602633730,
     "wof:name":"Takanini",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
@@ -88,7 +92,8 @@
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        101915945
+        101915945,
+        1126069021
     ],
     "wof:tags":[]
 },

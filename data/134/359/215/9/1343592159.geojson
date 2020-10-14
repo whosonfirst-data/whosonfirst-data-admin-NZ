@@ -17,6 +17,7 @@
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":8469233,
+    "gn:id":"",
     "gn:latitude":-36.70903,
     "gn:longitude":174.72742,
     "gn:modification_date":"2013-03-05",
@@ -39,6 +40,25 @@
     "nz-linz:id":1061,
     "nz-linz:name":"Northcross",
     "nz-linz:type":"SUBURB",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":750,
+    "qs:local_sum":1846,
+    "qs:localhoods":12,
+    "qs:name":"Northcross",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"East Coast Bays",
+    "qs:photo_max":6,
+    "qs:photo_sum":13,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348457,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -52,7 +72,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8469233,
-        "nz-linz:id":1061
+        "gp:id":28643958,
+        "nz-linz:id":1061,
+        "qs_pg:id":133740,
+        "wd:id":"Q7057784"
     },
     "wof:country":"NZ",
     "wof:geomhash":"91399d4bba33697994e947e02cdf6d5f",
@@ -66,14 +89,16 @@
         }
     ],
     "wof:id":1343592159,
-    "wof:lastmodified":1602616357,
+    "wof:lastmodified":1602633716,
     "wof:name":"North Cross",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781031
+    ],
     "wof:tags":[]
 },
   "bbox": [

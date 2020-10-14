@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +19,7 @@
     "lbl:longitude":174.30018,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
@@ -51,10 +52,10 @@
     "woe:name_adm1":"Northland",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687149,
         102191583,
         85633345,
-        102079257
+        102079257,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,12 +77,14 @@
         }
     ],
     "wof:id":1126071925,
-    "wof:lastmodified":1566672627,
+    "wof:lastmodified":1602633694,
     "wof:name":"Horahora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729337811
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

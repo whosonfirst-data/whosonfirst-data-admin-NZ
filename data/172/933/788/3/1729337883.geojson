@@ -9,6 +9,11 @@
     "geom:bbox":"176.85123,-39.647025,176.873303,-39.625213",
     "geom:latitude":-39.637238,
     "geom:longitude":176.861956,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:latitude":-39.63824,
+    "gn:longitude":176.85021,
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-39.637208,
     "lbl:longitude":176.86178,
@@ -16,8 +21,110 @@
     "mps:longitude":176.86178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a \u0641\u064a\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0439\u0444\u044d\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0439\u0444\u0435\u044a\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Mayfair"
+    ],
+    "name:ces_x_preferred":[
+        "Mayfair"
+    ],
+    "name:cym_x_preferred":[
+        "Mayfair"
+    ],
+    "name:dan_x_preferred":[
+        "Mayfair"
+    ],
+    "name:deu_x_preferred":[
+        "Mayfair"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03b9\u03c6\u03b5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Mayfair"
+    ],
+    "name:epo_x_preferred":[
+        "Mayfair"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u200c\u0641\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Mayfair"
+    ],
+    "name:gle_x_preferred":[
+        "Mayfair"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d9\u05e4\u05d9\u05d9\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947\u092b\u093c\u0947\u092f\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Mayfair"
+    ],
+    "name:isl_x_preferred":[
+        "Mayfair"
+    ],
+    "name:ita_x_preferred":[
+        "Mayfair"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30a4\u30d5\u30a7\u30a2"
+    ],
+    "name:kab_x_preferred":[
+        "Mayfair"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uc774\ud398\uc5b4"
+    ],
+    "name:lat_x_preferred":[
+        "Mayfair"
+    ],
+    "name:msa_x_preferred":[
+        "Mayfair"
+    ],
+    "name:nld_x_preferred":[
+        "Mayfair"
+    ],
+    "name:nno_x_preferred":[
+        "Mayfair"
+    ],
+    "name:nor_x_preferred":[
+        "Mayfair"
+    ],
+    "name:pol_x_preferred":[
+        "Mayfair"
+    ],
+    "name:por_x_preferred":[
+        "Mayfair"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0439\u0444\u044d\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Mayfair"
+    ],
+    "name:swe_x_preferred":[
+        "Mayfair"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0439\u0444\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06d2 \u0641\u06cc\u0626\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u8d39\u5c14"
     ],
     "nz-linz:name":"Mayfair",
     "nz-linz:type":"SUBURB",
@@ -26,21 +133,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":903
+        "gn:id":6246623,
+        "gp:id":28643932,
+        "nz-linz:id":903,
+        "qs_pg:id":973853
     },
     "wof:country":"NZ",
     "wof:created":1602620954,
     "wof:geomhash":"80c4dde4995eef8b905c478ae87379e0",
     "wof:hierarchy":[],
     "wof:id":1729337883,
-    "wof:lastmodified":1602624851,
+    "wof:lastmodified":1602633696,
     "wof:name":"Mayfair",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126066775
+    ],
     "wof:tags":[]
 },
   "bbox": [

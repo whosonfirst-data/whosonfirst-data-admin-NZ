@@ -36,9 +36,39 @@
     "name:eng_x_preferred":[
         "Ohinemutu"
     ],
+    "name:nld_x_preferred":[
+        "Ohinemutu"
+    ],
+    "name:und_x_variant":[
+        "Rotorua Borough"
+    ],
     "nz-linz:id":8837,
     "nz-linz:name":"Ohinemutu",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"ADMD",
+    "qs:gn_local":6241325,
+    "qs:gn_nam_loc":"Rotorua, Rotorua District, NZ",
+    "qs:gn_namadm1":"E8",
+    "qs:gn_name":"Rotorua",
+    "qs:local_max":5438,
+    "qs:local_sum":12891,
+    "qs:localhoods":17,
+    "qs:name":"Ohinemutu",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Bay of Plenty",
+    "qs:name_adm2":"Rotorua District",
+    "qs:name_local":"Rotorua",
+    "qs:photo_max":226,
+    "qs:photo_sum":1291,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021753,
+    "qs:woe_adm2":55875881,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350462,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -51,8 +81,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2185836,
+        "dbp:id":"Rotorua",
+        "fb:id":"en.rotorua",
+        "gn:id":2183232,
+        "gp:id":2349786,
+        "nyt:id":"46753987699927177651",
         "nz-linz:id":8837,
+        "qs_pg:id":1047972,
+        "wd:id":"Q7080674",
         "wk:page":"Ohinemutu"
     },
     "wof:country":"NZ",
@@ -67,14 +103,16 @@
         }
     ],
     "wof:id":1343696305,
-    "wof:lastmodified":1602616349,
+    "wof:lastmodified":1602633705,
     "wof:name":"Ohinemutu",
     "wof:parent_id":102079289,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773075
+    ],
     "wof:tags":[]
 },
   "bbox": [

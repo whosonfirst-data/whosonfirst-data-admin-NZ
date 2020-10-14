@@ -9,6 +9,9 @@
     "geom:bbox":"168.38826,-46.432199,168.405672,-46.410599",
     "geom:latitude":-46.422684,
     "geom:longitude":168.397262,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-46.424141,
     "lbl:longitude":168.397968,
@@ -16,7 +19,40 @@
     "mps:longitude":168.397968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rockdale"
+    ],
+    "name:ceb_x_preferred":[
+        "Rockdale"
+    ],
+    "name:deu_x_preferred":[
+        "Rockdale"
+    ],
     "name:eng_x_preferred":[
+        "Rockdale"
+    ],
+    "name:fra_x_preferred":[
+        "Rockdale"
+    ],
+    "name:ita_x_preferred":[
+        "Rockdale"
+    ],
+    "name:nld_x_preferred":[
+        "Rockdale"
+    ],
+    "name:pol_x_preferred":[
+        "Rockdale"
+    ],
+    "name:por_x_preferred":[
+        "Rockdale"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u043a\u0434\u0435\u0458\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Rockdale"
+    ],
+    "name:vol_x_preferred":[
         "Rockdale"
     ],
     "nz-linz:name":"Rockdale",
@@ -26,21 +62,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1421
+        "gn:id":6205097,
+        "gp:id":28644470,
+        "nz-linz:id":1421,
+        "qs_pg:id":907840
     },
     "wof:country":"NZ",
     "wof:created":1602621259,
     "wof:geomhash":"d19b371899a67f933713c08963f8ee8e",
     "wof:hierarchy":[],
     "wof:id":1729338609,
-    "wof:lastmodified":1602624813,
+    "wof:lastmodified":1602633717,
     "wof:name":"Rockdale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126089931
+    ],
     "wof:tags":[]
 },
   "bbox": [

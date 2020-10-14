@@ -9,6 +9,9 @@
     "geom:bbox":"174.805221,-41.191242,174.853368,-41.148845",
     "geom:latitude":-41.170553,
     "geom:longitude":174.827445,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-41.179992,
     "lbl:longitude":174.81953,
@@ -24,6 +27,9 @@
     ],
     "name:eng_x_preferred":[
         "Tawa"
+    ],
+    "name:und_x_variant":[
+        "Tawa Flat Town District"
     ],
     "name:zho_x_preferred":[
         "\u5854\u74e6"
@@ -55,7 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2181688,
+        "gp:id":2350763,
         "nz-linz:id":1610,
+        "qs_pg:id":466759,
         "wd:id":"Q1624406"
     },
     "wof:country":"NZ",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":101914575,
-    "wof:lastmodified":1602616370,
+    "wof:lastmodified":1602633728,
     "wof:name":"Tawa",
     "wof:parent_id":102079339,
     "wof:placetype":"locality",
@@ -86,7 +95,8 @@
         101918069,
         101918071,
         101918665,
-        101918667
+        101918667,
+        1126105853
     ],
     "wof:tags":[]
 },

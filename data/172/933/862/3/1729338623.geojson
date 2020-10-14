@@ -9,6 +9,8 @@
     "geom:bbox":"174.898967,-41.251489,174.91215,-41.232368",
     "geom:latitude":-41.242228,
     "geom:longitude":174.905242,
+    "gn:latitude":-41.24235,
+    "gn:longitude":174.90479,
     "iso:country":"NZ",
     "lbl:latitude":-41.241709,
     "lbl:longitude":174.905685,
@@ -16,31 +18,66 @@
     "mps:longitude":174.905685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Seaview"
+    ],
     "name:eng_x_preferred":[
+        "Seaview"
+    ],
+    "name:pol_x_preferred":[
         "Seaview"
     ],
     "nz-linz:name":"Seaview",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Seaview",
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Seaview",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":131,
+    "qs:photo_sum":659,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1475
+        "gn:id":6244857,
+        "gp:id":22726522,
+        "nz-linz:id":1475,
+        "qs_pg:id":56270
     },
     "wof:country":"NZ",
     "wof:created":1602621264,
     "wof:geomhash":"4c14f24d2f3600cb7ea10eb18280b784",
     "wof:hierarchy":[],
     "wof:id":1729338623,
-    "wof:lastmodified":1602624845,
+    "wof:lastmodified":1602633717,
     "wof:name":"Seaview",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778601
+    ],
     "wof:tags":[]
 },
   "bbox": [

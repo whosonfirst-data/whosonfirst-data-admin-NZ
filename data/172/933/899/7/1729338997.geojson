@@ -9,6 +9,9 @@
     "geom:bbox":"171.220863,-44.401858,171.237332,-44.390503",
     "geom:latitude":-44.396092,
     "geom:longitude":171.230183,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-44.395973,
     "lbl:longitude":171.230341,
@@ -16,7 +19,43 @@
     "mps:longitude":171.230341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "West End"
+    ],
     "name:eng_x_preferred":[
+        "West End"
+    ],
+    "name:fra_x_preferred":[
+        "West End"
+    ],
+    "name:isl_x_preferred":[
+        "West End"
+    ],
+    "name:ita_x_preferred":[
+        "West End"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8\uc5d4\ub4dc"
+    ],
+    "name:nld_x_preferred":[
+        "West End"
+    ],
+    "name:nor_x_preferred":[
+        "West End"
+    ],
+    "name:pol_x_preferred":[
+        "West End"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0442-\u042d\u043d\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "West End"
+    ],
+    "name:spa_x_preferred":[
+        "West End"
+    ],
+    "name:swe_x_preferred":[
         "West End"
     ],
     "nz-linz:name":"West End",
@@ -26,21 +65,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1903
+        "gn:id":6214568,
+        "gp:id":28644505,
+        "nz-linz:id":1903,
+        "qs_pg:id":902694
     },
     "wof:country":"NZ",
     "wof:created":1602621424,
     "wof:geomhash":"74dba4a993f355c70e15202ed1af3476",
     "wof:hierarchy":[],
     "wof:id":1729338997,
-    "wof:lastmodified":1602624849,
+    "wof:lastmodified":1602633728,
     "wof:name":"West End",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126089655
+    ],
     "wof:tags":[]
 },
   "bbox": [

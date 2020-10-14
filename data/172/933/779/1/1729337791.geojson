@@ -9,6 +9,9 @@
     "geom:bbox":"174.104297,-39.064239,174.118139,-39.05147",
     "geom:latitude":-39.057199,
     "geom:longitude":174.110735,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-39.056962,
     "lbl:longitude":174.110631,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":420
+        "gn:id":6222906,
+        "gp:id":28643835,
+        "nz-linz:id":420,
+        "qs_pg:id":1103904
     },
     "wof:country":"NZ",
     "wof:created":1602620916,
     "wof:geomhash":"d38803ffe668590110107a784c4897dc",
     "wof:hierarchy":[],
     "wof:id":1729337791,
-    "wof:lastmodified":1602624826,
+    "wof:lastmodified":1602633693,
     "wof:name":"Glen Avon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126099925
+    ],
     "wof:tags":[]
 },
   "bbox": [

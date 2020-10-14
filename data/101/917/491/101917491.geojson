@@ -9,6 +9,7 @@
     "geom:bbox":"176.857759,-39.552214,176.871349,-39.526621",
     "geom:latitude":-39.539735,
     "geom:longitude":176.86449,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-39.533814,
     "lbl:longitude":176.867417,
@@ -29,12 +30,33 @@
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"New Zealand",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2186313,
     "qs:id":0,
     "qs:la_lc":"*",
     "qs:level":"locality",
     "qs:loc":"Jervoistown",
+    "qs:local_max":3162,
+    "qs:local_sum":6184,
+    "qs:localhoods":15,
+    "qs:name":"Jervoistown",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Hawke's Bay",
+    "qs:name_adm2":"Napier City",
+    "qs:name_local":"Napier",
+    "qs:photo_max":67,
+    "qs:photo_sum":119,
+    "qs:placetype":"Suburb",
     "qs:pop":0,
+    "qs:quad_count":8,
     "qs:source":"LUnknown",
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021760,
+    "qs:woe_adm2":55875917,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349663,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "quattroshapes"
@@ -48,7 +70,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":614
+        "gp:id":28643872,
+        "nz-linz:id":614,
+        "qs_pg:id":1286449
     },
     "wof:country":"NZ",
     "wof:geomhash":"f10a4a24664f718b8aaff58293ca041e",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":101917491,
-    "wof:lastmodified":1602616350,
+    "wof:lastmodified":1602633706,
     "wof:name":"Jervoistown",
     "wof:parent_id":102079331,
     "wof:placetype":"locality",
@@ -73,7 +97,8 @@
         101918387,
         101918389,
         101918789,
-        101918791
+        101918791,
+        85780957
     ],
     "wof:tags":[]
 },

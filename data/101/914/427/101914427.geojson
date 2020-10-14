@@ -9,7 +9,10 @@
     "geom:bbox":"173.653131,-42.421766,173.707942,-42.37547",
     "geom:latitude":-42.398895,
     "geom:longitude":173.674739,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
     "gn:id":"2189272,7303619",
+    "gn:population":2172,
     "iso:country":"NZ",
     "lbl:latitude":-42.412839,
     "lbl:longitude":173.687854,
@@ -58,6 +61,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10d8\u10d9\u10e3\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d0\u10d8\u10d9\u10dd\u10e3\u10e0\u10d0"
     ],
     "name:khm_x_preferred":[
         "cabodian"
@@ -213,6 +219,7 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:latitude":-42.400011,
     "wd:longitude":173.681358,
     "wd:wordcount":1164,
@@ -224,10 +231,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2189272,
+        "gn:id":7303619,
         "gp:id":2348927,
         "nz-linz:id":629,
-        "qs_pg:id":191510,
+        "qs_pg:id":1041029,
         "wd:id":"Q25834"
     },
     "wof:country":"NZ",
@@ -246,11 +253,13 @@
         }
     ],
     "wof:id":101914427,
-    "wof:lastmodified":1602616338,
+    "wof:lastmodified":1602633694,
     "wof:name":"Kaikoura",
     "wof:parent_id":102079355,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
+    "wof:population":2172,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[
@@ -265,7 +274,8 @@
         101918627,
         101918857,
         101918859,
-        1141909447
+        1141909447,
+        1126094093
     ],
     "wof:tags":[]
 },

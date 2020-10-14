@@ -9,6 +9,9 @@
     "geom:bbox":"174.311156,-35.741279,174.333316,-35.728106",
     "geom:latitude":-35.735785,
     "geom:longitude":174.320606,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-35.735095,
     "lbl:longitude":174.318595,
@@ -16,8 +19,38 @@
     "mps:longitude":174.318595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Morningside"
+    ],
+    "name:deu_x_preferred":[
+        "Morningside"
+    ],
     "name:eng_x_preferred":[
         "Morningside"
+    ],
+    "name:fra_x_preferred":[
+        "Morningside"
+    ],
+    "name:ita_x_preferred":[
+        "Morningside"
+    ],
+    "name:mlg_x_preferred":[
+        "Morningside"
+    ],
+    "name:pol_x_preferred":[
+        "Morningside"
+    ],
+    "name:spa_x_preferred":[
+        "Morningside"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u043d\u0438\u043d\u0433\u0441\u0430\u0458\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Morningside"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u043d\u0456\u043d\u0433\u0441\u0430\u0439\u0434"
     ],
     "nz-linz:name":"Morningside",
     "nz-linz:type":"SUBURB",
@@ -26,21 +59,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2844
+        "gn:id":6230953,
+        "gp:id":28644207,
+        "nz-linz:id":2844,
+        "qs_pg:id":31956
     },
     "wof:country":"NZ",
     "wof:created":1602621345,
     "wof:geomhash":"889fb45afd4c6b104383fce3c57c060b",
     "wof:hierarchy":[],
     "wof:id":1729338823,
-    "wof:lastmodified":1602624840,
+    "wof:lastmodified":1602633723,
     "wof:name":"Morningside",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126101095
+    ],
     "wof:tags":[]
 },
   "bbox": [

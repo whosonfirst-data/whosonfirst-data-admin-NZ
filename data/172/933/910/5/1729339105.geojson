@@ -9,6 +9,8 @@
     "geom:bbox":"175.571218,-40.341253,175.636923,-40.303783",
     "geom:latitude":-40.321926,
     "geom:longitude":175.604,
+    "gn:latitude":-40.32825,
+    "gn:longitude":175.61021,
     "iso:country":"NZ",
     "lbl:latitude":-40.324707,
     "lbl:longitude":175.599031,
@@ -16,31 +18,76 @@
     "mps:longitude":175.599031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Milson"
+    ],
+    "name:deu_x_preferred":[
+        "Milson"
+    ],
     "name:eng_x_preferred":[
         "Milson"
     ],
+    "name:fra_x_preferred":[
+        "Milson"
+    ],
+    "name:nld_x_preferred":[
+        "Milson"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0441\u043e\u043d"
+    ],
     "nz-linz:name":"Milson",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2185018,
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Milson",
+    "qs:local_max":729,
+    "qs:local_sum":2351,
+    "qs:localhoods":11,
+    "qs:name":"Milson",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Manawatu Wanganui",
+    "qs:name_adm2":"Palmerston North City",
+    "qs:name_local":"Palmerston North",
+    "qs:photo_max":5,
+    "qs:photo_sum":20,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021764,
+    "qs:woe_adm2":55875856,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350025,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":935
+        "gn:id":6227745,
+        "gp:id":28643940,
+        "nz-linz:id":935,
+        "qs_pg:id":356952,
+        "wd:id":"Q6860752",
+        "wk:page":"Milson, New Zealand"
     },
     "wof:country":"NZ",
     "wof:created":1602621467,
     "wof:geomhash":"2c8f3a62b712f615521d4a9d4ae93e1a",
     "wof:hierarchy":[],
     "wof:id":1729339105,
-    "wof:lastmodified":1602624861,
+    "wof:lastmodified":1602633730,
     "wof:name":"Milson",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781015
+    ],
     "wof:tags":[]
 },
   "bbox": [

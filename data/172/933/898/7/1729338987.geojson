@@ -9,6 +9,7 @@
     "geom:bbox":"174.566029,-36.860673,174.639563,-36.823462",
     "geom:latitude":-36.838736,
     "geom:longitude":174.600853,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.838467,
     "lbl:longitude":174.600849,
@@ -16,31 +17,84 @@
     "mps:longitude":174.600849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Massey"
+    ],
     "name:eng_x_preferred":[
         "Massey"
     ],
+    "name:fra_x_preferred":[
+        "Massey"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e1\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Massey"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c3\u30bb\u30a4"
+    ],
+    "name:nld_x_preferred":[
+        "Massey"
+    ],
+    "name:pol_x_preferred":[
+        "Massey"
+    ],
+    "name:por_x_preferred":[
+        "Massey"
+    ],
+    "name:spa_x_preferred":[
+        "Massey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0441\u0441\u0435"
+    ],
     "nz-linz:name":"Massey",
     "nz-linz:type":"SUBURB",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":151,
+    "qs:local_sum":297,
+    "qs:localhoods":4,
+    "qs:name":"Massey North",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Massey",
+    "qs:photo_max":23,
+    "qs:photo_sum":151,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726445,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":4119
+        "gp:id":22726675,
+        "nz-linz:id":4119,
+        "qs_pg:id":347222
     },
     "wof:country":"NZ",
     "wof:created":1602621420,
     "wof:geomhash":"fb8012f6b0ca75adba2ac2dfc81b0b00",
     "wof:hierarchy":[],
     "wof:id":1729338987,
-    "wof:lastmodified":1602624846,
+    "wof:lastmodified":1602633727,
     "wof:name":"Massey",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778999
+    ],
     "wof:tags":[]
 },
   "bbox": [

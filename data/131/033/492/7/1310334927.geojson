@@ -12,8 +12,10 @@
     "gn:admin1_code":"F7",
     "gn:admin2_code":"71.0",
     "gn:asciiname":"Abbotsford",
+    "gn:country":"NZ",
     "gn:country_code":"NZ",
     "gn:dem":76,
+    "gn:fcode":"PPLX",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":2194160,
@@ -93,8 +95,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2194160,
-        "nz-linz:id":2058
+        "gn:id":6212224,
+        "gp:id":2347965,
+        "nz-linz:id":2058,
+        "qs_pg:id":885056
     },
     "wof:country":"NZ",
     "wof:geomhash":"65f4adcd7a3fde04f9424073044d1fa3",
@@ -108,14 +112,16 @@
         }
     ],
     "wof:id":1310334927,
-    "wof:lastmodified":1602616360,
+    "wof:lastmodified":1602633721,
     "wof:name":"Abbotsford",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126069513
+    ],
     "wof:tags":[]
 },
   "bbox": [

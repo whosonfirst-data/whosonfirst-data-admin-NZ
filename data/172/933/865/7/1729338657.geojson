@@ -9,6 +9,9 @@
     "geom:bbox":"176.858748,-39.520122,176.877747,-39.496409",
     "geom:latitude":-39.511173,
     "geom:longitude":176.868704,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-39.512942,
     "lbl:longitude":176.868056,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1579
+        "gn:id":6246632,
+        "gp:id":28644091,
+        "nz-linz:id":1579,
+        "qs_pg:id":1086322
     },
     "wof:country":"NZ",
     "wof:created":1602621278,
     "wof:geomhash":"b10032fa9efdaf6bbeddf11f4b4a0fc8",
     "wof:hierarchy":[],
     "wof:id":1729338657,
-    "wof:lastmodified":1602624846,
+    "wof:lastmodified":1602633719,
     "wof:name":"Tamatea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126091685
+    ],
     "wof:tags":[]
 },
   "bbox": [

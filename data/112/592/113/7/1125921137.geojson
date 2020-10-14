@@ -10,6 +10,7 @@
     "geom:latitude":-36.875344,
     "geom:longitude":174.908235,
     "gn:country":"NZ",
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.833469,
     "lbl:longitude":174.902017,
@@ -24,9 +25,31 @@
     "name:eng_x_preferred":[
         "Bucklands Beach"
     ],
+    "name:eng_x_variant":[
+        "Bucklands Beach"
+    ],
     "nz-linz:id":175,
     "nz-linz:name":"Bucklands Beach",
     "nz-linz:type":"SUBURB",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":159,
+    "qs:local_sum":317,
+    "qs:localhoods":2,
+    "qs:name":"Bucklands Beach Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Bucklands Beach",
+    "qs:photo_max":75,
+    "qs:photo_sum":158,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348247,
+    "qs:woe_ver":"7.10.0",
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
     "qs_pg:name":"Bucklands Beach",
@@ -60,9 +83,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":2348247,
+        "gp:id":28676722,
         "nz-linz:id":175,
-        "qs_pg:id":1135503,
+        "qs_pg:id":375343,
         "wd:id":"Q4983300"
     },
     "wof:country":"NZ",
@@ -77,14 +100,16 @@
         }
     ],
     "wof:id":1125921137,
-    "wof:lastmodified":1602616354,
+    "wof:lastmodified":1602633711,
     "wof:name":"Bucklands Beach",
     "wof:parent_id":85687243,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85782365
+    ],
     "wof:tags":[]
 },
   "bbox": [

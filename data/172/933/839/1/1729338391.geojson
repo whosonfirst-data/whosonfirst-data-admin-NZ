@@ -9,6 +9,9 @@
     "geom:bbox":"176.116505,-37.727988,176.149234,-37.703062",
     "geom:latitude":-37.716374,
     "geom:longitude":176.135423,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-37.715422,
     "lbl:longitude":176.136546,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":406
+        "gn:id":6245102,
+        "gp:id":28644845,
+        "nz-linz:id":406,
+        "qs_pg:id":1164149
     },
     "wof:country":"NZ",
     "wof:created":1602621169,
     "wof:geomhash":"53798fa3099f032eb27427a5566c8891",
     "wof:hierarchy":[],
     "wof:id":1729338391,
-    "wof:lastmodified":1602624848,
+    "wof:lastmodified":1602633712,
     "wof:name":"Gate Pa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126064203
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,9 @@
     "geom:bbox":"174.73779,-36.730922,174.754257,-36.717286",
     "geom:latitude":-36.724163,
     "geom:longitude":174.746495,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":5000,
     "iso:country":"NZ",
     "lbl:latitude":-36.723821,
     "lbl:longitude":174.746373,
@@ -16,31 +19,45 @@
     "mps:longitude":174.746373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rothesay Bay"
+    ],
     "name:eng_x_preferred":[
+        "Rothesay Bay"
+    ],
+    "name:ita_x_preferred":[
         "Rothesay Bay"
     ],
     "nz-linz:name":"Rothesay Bay",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2881
+        "gn:id":6231795,
+        "gp:id":22726516,
+        "nz-linz:id":2881,
+        "qs_pg:id":249210
     },
     "wof:country":"NZ",
     "wof:created":1602621031,
     "wof:geomhash":"1068c1225473406f9226b9cf51f54f47",
     "wof:hierarchy":[],
     "wof:id":1729338059,
-    "wof:lastmodified":1602624815,
+    "wof:lastmodified":1602633702,
     "wof:name":"Rothesay Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
+    "wof:population":5000,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126070445
+    ],
     "wof:tags":[]
 },
   "bbox": [

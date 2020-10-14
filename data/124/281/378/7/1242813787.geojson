@@ -13,8 +13,10 @@
     "gn:admin2_code":"2.0",
     "gn:asciiname":"Kamo",
     "gn:cc2":"NZ",
+    "gn:country":"NZ",
     "gn:country_code":"NZ",
     "gn:dem":115,
+    "gn:fcode":"PPLX",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":2189106,
@@ -103,8 +105,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2189106,
-        "nz-linz:id":2025
+        "gn:id":6230835,
+        "gp:id":2348973,
+        "nz-linz:id":2025,
+        "qs_pg:id":1226379
     },
     "wof:country":"NZ",
     "wof:geomhash":"6c3efbb45898a8827591a45e559ac299",
@@ -118,14 +122,16 @@
         }
     ],
     "wof:id":1242813787,
-    "wof:lastmodified":1602616352,
+    "wof:lastmodified":1602633707,
     "wof:name":"Kamo",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126072961
+    ],
     "wof:tags":[]
 },
   "bbox": [

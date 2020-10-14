@@ -9,6 +9,8 @@
     "geom:bbox":"173.26838,-41.26707,173.284349,-41.254111",
     "geom:latitude":-41.261074,
     "geom:longitude":173.277772,
+    "gn:latitude":-41.26397,
+    "gn:longitude":173.27628,
     "iso:country":"NZ",
     "lbl:latitude":-41.262142,
     "lbl:longitude":173.276306,
@@ -16,31 +18,70 @@
     "mps:longitude":173.276306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Port Nelson"
+    ],
     "name:eng_x_preferred":[
+        "Port Nelson"
+    ],
+    "name:eng_x_variant":[
+        "Pt Nelson",
+        "Pt. Nelson"
+    ],
+    "name:swe_x_preferred":[
         "Port Nelson"
     ],
     "nz-linz:name":"Port Nelson",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2186280,
+    "qs:gn_nam_loc":"Nelson, Nelson City, Nelson, NZ",
+    "qs:gn_namadm1":"F5",
+    "qs:gn_name":"Port Nelson",
+    "qs:local_max":2029,
+    "qs:local_sum":5504,
+    "qs:localhoods":17,
+    "qs:name":"Port Nelson",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Nelson",
+    "qs:name_adm2":"Nelson City",
+    "qs:name_local":"Nelson",
+    "qs:photo_max":77,
+    "qs:photo_sum":470,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021758,
+    "qs:woe_adm2":55875906,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349669,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2545
+        "gn:id":2184360,
+        "gp:id":2350200,
+        "nz-linz:id":2545,
+        "qs_pg:id":1159790
     },
     "wof:country":"NZ",
     "wof:created":1602621333,
     "wof:geomhash":"cc982429fb5c34bb118c1eeae19b26e7",
     "wof:hierarchy":[],
     "wof:id":1729338793,
-    "wof:lastmodified":1602624837,
+    "wof:lastmodified":1602633722,
     "wof:name":"Port Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85773133
+    ],
     "wof:tags":[]
 },
   "bbox": [

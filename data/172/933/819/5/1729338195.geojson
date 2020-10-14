@@ -19,28 +19,59 @@
     "name:eng_x_preferred":[
         "Witherlea"
     ],
+    "name:nld_x_preferred":[
+        "Witherlea"
+    ],
     "nz-linz:name":"Witherlea",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":6243926,
+    "qs:gn_nam_loc":"Blenheim, Marlborough District, Marlborough, NZ",
+    "qs:gn_namadm1":"F4",
+    "qs:id":0,
+    "qs:local_max":470,
+    "qs:local_sum":1969,
+    "qs:localhoods":15,
+    "qs:name":"Witherlea",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Marlborough",
+    "qs:name_adm2":"Marlborough District",
+    "qs:name_local":"Blenheim",
+    "qs:photo_max":12,
+    "qs:photo_sum":29,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021759,
+    "qs:woe_adm2":55875875,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348195,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1958
+        "gp:id":28644513,
+        "nz-linz:id":1958,
+        "wd:id":"Q8028154"
     },
     "wof:country":"NZ",
     "wof:created":1602621088,
     "wof:geomhash":"f1f92de8c9b9cf2f323598137d6e570e",
     "wof:hierarchy":[],
     "wof:id":1729338195,
-    "wof:lastmodified":1602624808,
+    "wof:lastmodified":1602633707,
     "wof:name":"Witherlea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781561
+    ],
     "wof:tags":[]
 },
   "bbox": [

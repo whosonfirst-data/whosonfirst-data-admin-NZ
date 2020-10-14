@@ -9,6 +9,9 @@
     "geom:bbox":"168.377604,-46.413574,168.403512,-46.404908",
     "geom:latitude":-46.409212,
     "geom:longitude":168.390131,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-46.408936,
     "lbl:longitude":168.390131,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":515
+        "gn:id":6205095,
+        "gp:id":28644410,
+        "nz-linz:id":515,
+        "qs_pg:id":1086336
     },
     "wof:country":"NZ",
     "wof:created":1602621191,
     "wof:geomhash":"32a23463e5b1de089d23b4f2a12d1a78",
     "wof:hierarchy":[],
     "wof:id":1729338445,
-    "wof:lastmodified":1602624810,
+    "wof:lastmodified":1602633714,
     "wof:name":"Hawthorndale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126091695
+    ],
     "wof:tags":[]
 },
   "bbox": [

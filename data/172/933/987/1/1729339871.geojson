@@ -9,6 +9,9 @@
     "geom:bbox":"173.400792,-35.605313,173.616577,-35.521794",
     "geom:latitude":-35.563608,
     "geom:longitude":173.49683,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-35.559695,
     "lbl:longitude":173.503206,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":2779
+        "gn:id":2180199,
+        "gp:id":2351128,
+        "nz-linz:id":2779,
+        "qs_pg:id":1189951
     },
     "wof:country":"NZ",
     "wof:created":1602621796,
     "wof:geomhash":"37de593263af3d3c72f3e509f33fa055",
     "wof:hierarchy":[],
     "wof:id":1729339871,
-    "wof:lastmodified":1602624854,
+    "wof:lastmodified":1602633731,
     "wof:name":"Waimamaku",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126097443
+    ],
     "wof:tags":[]
 },
   "bbox": [

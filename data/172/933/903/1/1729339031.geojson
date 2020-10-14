@@ -9,6 +9,8 @@
     "geom:bbox":"174.89726,-41.223774,174.920802,-41.211822",
     "geom:latitude":-41.217582,
     "geom:longitude":174.907479,
+    "gn:latitude":-41.21827,
+    "gn:longitude":174.90019,
     "iso:country":"NZ",
     "lbl:latitude":-41.216877,
     "lbl:longitude":174.910241,
@@ -16,31 +18,78 @@
     "mps:longitude":174.910241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Woburn"
+    ],
+    "name:deu_x_preferred":[
+        "Woburn"
+    ],
     "name:eng_x_preferred":[
+        "Woburn"
+    ],
+    "name:fra_x_preferred":[
+        "Woburn"
+    ],
+    "name:ita_x_preferred":[
+        "Woburn"
+    ],
+    "name:nld_x_preferred":[
+        "Woburn"
+    ],
+    "name:pol_x_preferred":[
         "Woburn"
     ],
     "nz-linz:name":"Woburn",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2188164,
+    "qs:gn_nam_loc":"Lower Hutt, Lower Hutt City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Woburn",
+    "qs:local_max":4517,
+    "qs:local_sum":8857,
+    "qs:localhoods":24,
+    "qs:name":"Woburn",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Lower Hutt City",
+    "qs:name_local":"Lower Hutt",
+    "qs:photo_max":38,
+    "qs:photo_sum":137,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875918,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349239,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1959
+        "gn:id":6244863,
+        "gp:id":22726577,
+        "nz-linz:id":1959,
+        "qs_pg:id":967370
     },
     "wof:country":"NZ",
     "wof:created":1602621437,
     "wof:geomhash":"1dd61dd76dbe740c7f4fcee35908492b",
     "wof:hierarchy":[],
     "wof:id":1729339031,
-    "wof:lastmodified":1602624832,
+    "wof:lastmodified":1602633729,
     "wof:name":"Woburn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778749
+    ],
     "wof:tags":[]
 },
   "bbox": [

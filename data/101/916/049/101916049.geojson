@@ -9,6 +9,9 @@
     "geom:bbox":"170.310699,-45.907987,170.352102,-45.88292",
     "geom:latitude":-45.896066,
     "geom:longitude":170.330514,
+    "gn:country":"NZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-45.897476,
     "lbl:longitude":170.335583,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101916049,
-    "wof:lastmodified":1602616355,
+    "wof:lastmodified":1602633712,
     "wof:name":"East Taieri",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",
@@ -75,7 +78,8 @@
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        101916973
+        101916973,
+        1126098281
     ],
     "wof:tags":[]
 },

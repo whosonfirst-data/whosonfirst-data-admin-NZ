@@ -9,6 +9,7 @@
     "geom:bbox":"174.933226,-36.909661,174.954577,-36.891923",
     "geom:latitude":-36.900204,
     "geom:longitude":174.942597,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.899747,
     "lbl:longitude":174.941736,
@@ -16,31 +17,64 @@
     "mps:longitude":174.941736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cockle Bay"
+    ],
     "name:eng_x_preferred":[
+        "Cockle Bay"
+    ],
+    "name:swe_x_preferred":[
         "Cockle Bay"
     ],
     "nz-linz:name":"Cockle Bay",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Howick East/Meadlowlands",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":21,
+    "qs:photo_sum":53,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":6543
+        "gn:id":6232078,
+        "gp:id":22726351,
+        "nz-linz:id":6543,
+        "qs_pg:id":366902
     },
     "wof:country":"NZ",
     "wof:created":1602621370,
     "wof:geomhash":"e5befe839ae69857ba46d2fe080ee859",
     "wof:hierarchy":[],
     "wof:id":1729338881,
-    "wof:lastmodified":1602624809,
+    "wof:lastmodified":1602633725,
     "wof:name":"Cockle Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778975
+    ],
     "wof:tags":[]
 },
   "bbox": [

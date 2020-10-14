@@ -19,28 +19,57 @@
     "name:eng_x_preferred":[
         "Shiel Hill"
     ],
+    "name:nld_x_preferred":[
+        "Shiel Hill"
+    ],
     "nz-linz:name":"Shiel Hill",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2191562,
+    "qs:id":0,
+    "qs:local_max":5878,
+    "qs:local_sum":16232,
+    "qs:localhoods":31,
+    "qs:name":"Shiel Hill",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Otago",
+    "qs:name_adm2":"Dunedin City",
+    "qs:name_local":"Dunedin",
+    "qs:photo_max":13,
+    "qs:photo_sum":65,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021754,
+    "qs:woe_adm2":55875912,
+    "qs:woe_lau":0,
+    "qs:woe_local":2348444,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1486
+        "gp:id":22726524,
+        "nz-linz:id":1486,
+        "wd:id":"Q7496147"
     },
     "wof:country":"NZ",
     "wof:created":1602621266,
     "wof:geomhash":"3c3637fdcd2d0d259dd7cb6db664113f",
     "wof:hierarchy":[],
     "wof:id":1729338627,
-    "wof:lastmodified":1602624845,
+    "wof:lastmodified":1602633718,
     "wof:name":"Shiel Hill",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778609
+    ],
     "wof:tags":[]
 },
   "bbox": [

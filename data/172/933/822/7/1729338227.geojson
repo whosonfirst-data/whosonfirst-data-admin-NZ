@@ -9,6 +9,7 @@
     "geom:bbox":"174.766559,-36.936549,174.810961,-36.9063",
     "geom:latitude":-36.920645,
     "geom:longitude":174.790644,
+    "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.920135,
     "lbl:longitude":174.789132,
@@ -16,31 +17,70 @@
     "mps:longitude":174.789132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cym_x_preferred":[
+        "Onehunga"
+    ],
     "name:eng_x_preferred":[
+        "Onehunga"
+    ],
+    "name:eng_x_variant":[
+        "Onehunga"
+    ],
+    "name:fra_x_preferred":[
+        "Onehunga"
+    ],
+    "name:mri_x_preferred":[
+        "\u014cnehunga"
+    ],
+    "name:nld_x_preferred":[
         "Onehunga"
     ],
     "nz-linz:name":"Onehunga",
     "nz-linz:type":"SUBURB",
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":381,
+    "qs:local_sum":407,
+    "qs:localhoods":2,
+    "qs:name":"Onehunga Central",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Onehunga",
+    "qs:photo_max":94,
+    "qs:photo_sum":381,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":22726481,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":1107
+        "gp:id":28676755,
+        "nz-linz:id":1107,
+        "qs_pg:id":220379,
+        "wd:id":"Q3352699"
     },
     "wof:country":"NZ",
     "wof:created":1602621101,
     "wof:geomhash":"8bc4de0af52578351fcdf7dce2bd9206",
     "wof:hierarchy":[],
     "wof:id":1729338227,
-    "wof:lastmodified":1602624843,
+    "wof:lastmodified":1602633708,
     "wof:name":"Onehunga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85782479
+    ],
     "wof:tags":[]
 },
   "bbox": [

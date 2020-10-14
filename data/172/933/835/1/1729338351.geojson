@@ -9,6 +9,8 @@
     "geom:bbox":"174.853345,-41.153419,174.87772,-41.127591",
     "geom:latitude":-41.139919,
     "geom:longitude":174.866541,
+    "gn:latitude":-41.12827,
+    "gn:longitude":174.8602,
     "iso:country":"NZ",
     "lbl:latitude":-41.139243,
     "lbl:longitude":174.866348,
@@ -16,31 +18,66 @@
     "mps:longitude":174.866348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cannons Creek"
+    ],
     "name:eng_x_preferred":[
+        "Cannons Creek"
+    ],
+    "name:swe_x_preferred":[
         "Cannons Creek"
     ],
     "nz-linz:name":"Cannons Creek",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2184397,
+    "qs:gn_nam_loc":"Porirua, Porirua City, Wellington, NZ",
+    "qs:gn_namadm1":"G2",
+    "qs:gn_name":"Cannons Creek",
+    "qs:local_max":1459,
+    "qs:local_sum":4025,
+    "qs:localhoods":7,
+    "qs:name":"Cannons Creek",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Wellington",
+    "qs:name_adm2":"Porirua City",
+    "qs:name_local":"Porirua",
+    "qs:photo_max":25,
+    "qs:photo_sum":79,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021762,
+    "qs:woe_adm2":55875866,
+    "qs:woe_lau":0,
+    "qs:woe_local":2350182,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":192
+        "gn:id":6244921,
+        "gp:id":28643798,
+        "nz-linz:id":192,
+        "qs_pg:id":43632
     },
     "wof:country":"NZ",
     "wof:created":1602621153,
     "wof:geomhash":"99b5ed7bdd92f0d1c00f3b0805263842",
     "wof:hierarchy":[],
     "wof:id":1729338351,
-    "wof:lastmodified":1602624812,
+    "wof:lastmodified":1602633712,
     "wof:name":"Cannons Creek",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85780853
+    ],
     "wof:tags":[]
 },
   "bbox": [

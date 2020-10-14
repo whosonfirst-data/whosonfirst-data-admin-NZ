@@ -9,6 +9,7 @@
     "geom:bbox":"173.270944,-41.270992,173.278109,-41.264874",
     "geom:latitude":-41.268123,
     "geom:longitude":173.274555,
+    "gn:country":null,
     "iso:country":"NZ",
     "lbl:latitude":-41.268128,
     "lbl:longitude":173.274624,
@@ -26,21 +27,25 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":103
+        "gp:id":28644354,
+        "nz-linz:id":103,
+        "qs_pg:id":1091345
     },
     "wof:country":"NZ",
     "wof:created":1602621137,
     "wof:geomhash":"351107094435faf3fbec92dcb63c0761",
     "wof:hierarchy":[],
     "wof:id":1729338313,
-    "wof:lastmodified":1602624844,
+    "wof:lastmodified":1602633711,
     "wof:name":"Beachville",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126096001
+    ],
     "wof:tags":[]
 },
   "bbox": [

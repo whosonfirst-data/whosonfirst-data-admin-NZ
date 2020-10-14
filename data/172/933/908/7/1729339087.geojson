@@ -9,6 +9,9 @@
     "geom:bbox":"175.059908,-39.934572,175.07435,-39.923446",
     "geom:latitude":-39.929326,
     "geom:longitude":175.066801,
+    "gn:country":"NZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NZ",
     "lbl:latitude":-39.928444,
     "lbl:longitude":175.066216,
@@ -26,21 +29,26 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":724
+        "gn:id":6224558,
+        "gp:id":28643782,
+        "nz-linz:id":724,
+        "qs_pg:id":1196871
     },
     "wof:country":"NZ",
     "wof:created":1602621460,
     "wof:geomhash":"81e29c0f793f7adb20bb04e4bd72d96d",
     "wof:hierarchy":[],
     "wof:id":1729339087,
-    "wof:lastmodified":1602624800,
+    "wof:lastmodified":1602633730,
     "wof:name":"Bastia Hill",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126105073
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,8 @@
     "geom:bbox":"174.853981,-37.042371,174.870797,-37.018712",
     "geom:latitude":-37.029971,
     "geom:longitude":174.86152,
+    "gn:latitude":-37.0,
+    "gn:longitude":175.05,
     "iso:country":"NZ",
     "lbl:latitude":-37.030002,
     "lbl:longitude":174.861646,
@@ -19,28 +21,68 @@
     "name:eng_x_preferred":[
         "Clendon Park"
     ],
+    "name:eng_x_variant":[
+        "Clendon Town",
+        "Clevedon"
+    ],
+    "name:msa_x_preferred":[
+        "Clevedon"
+    ],
+    "name:nld_x_preferred":[
+        "Clevedon"
+    ],
     "nz-linz:name":"Clendon Park",
     "nz-linz:type":"SUBURB",
+    "qs:gn_adm0_cc":"NZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2187404,
+    "qs:gn_nam_loc":"manukau city",
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Clevedon",
+    "qs:local_max":4482,
+    "qs:local_sum":10077,
+    "qs:localhoods":34,
+    "qs:name":"Clendon",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"Manukau City",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349386,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "nz-linz:id":235
+        "gn:id":2192295,
+        "gp:id":28644857,
+        "nz-linz:id":235,
+        "qs_pg:id":270753,
+        "wd:id":"Q5132011",
+        "wk:page":"Clevedon, New Zealand"
     },
     "wof:country":"NZ",
     "wof:created":1602620902,
     "wof:geomhash":"7d024480d384f4cbdb93c56177b988e0",
     "wof:hierarchy":[],
     "wof:id":1729337759,
-    "wof:lastmodified":1602624852,
+    "wof:lastmodified":1602633692,
     "wof:name":"Clendon Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85781875
+    ],
     "wof:tags":[]
 },
   "bbox": [

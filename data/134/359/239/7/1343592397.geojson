@@ -96,6 +96,27 @@
     "nz-linz:id":2897,
     "nz-linz:name":"Bayswater",
     "nz-linz:type":"SUBURB",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"E7",
+    "qs:gn_name":"Bayswater",
+    "qs:local_max":2509,
+    "qs:local_sum":14488,
+    "qs:localhoods":35,
+    "qs:name":"Bayswater",
+    "qs:name_adm0":"New Zealand",
+    "qs:name_adm1":"Auckland Region",
+    "qs:name_local":"North Shore",
+    "qs:photo_max":64,
+    "qs:photo_sum":346,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424916,
+    "qs:woe_adm1":15021756,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2349746,
+    "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:geom_alt":[
         "geonames"
@@ -108,8 +129,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2207731,
-        "nz-linz:id":2897
+        "gn:id":6232155,
+        "gp:id":22726327,
+        "nz-linz:id":2897,
+        "qs_pg:id":56202
     },
     "wof:country":"NZ",
     "wof:geomhash":"dc45de16dbfcd2728bc338b2af1dd70f",
@@ -123,14 +146,16 @@
         }
     ],
     "wof:id":1343592397,
-    "wof:lastmodified":1602616353,
+    "wof:lastmodified":1602633709,
     "wof:name":"Bayswater",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85778149
+    ],
     "wof:tags":[]
 },
   "bbox": [
