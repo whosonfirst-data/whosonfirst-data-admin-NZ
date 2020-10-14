@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000007,
+    "geom:area":0.0,
     "geom:area_square_m":73743.697673,
-    "geom:bbox":"174.721781087,-36.8807019716,174.725189209,-36.8774406831",
-    "geom:latitude":-36.879121,
-    "geom:longitude":174.723748,
+    "geom:bbox":"174.729881,-36.878704,174.729881,-36.878704",
+    "geom:latitude":-36.878704,
+    "geom:longitude":174.729881,
     "gn:id":"",
     "iso:country":"NZ",
     "lbl:latitude":-36.878704,
@@ -49,18 +49,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":2348079,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":78,
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
+        102079403,
         101914257,
-        102079403
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +72,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a3acdb800cfcc54cb0c1ace006c1dd2",
+    "wof:geomhash":"d93aaef3e9ab1b35d9e26f5114d71e11",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -86,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582316528,
+    "wof:lastmodified":1602699432,
     "wof:name":"St Lukes",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",
@@ -96,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.72178108670306,
-    -36.88070197157283,
-    174.7251892090007,
-    -36.87744068305057
+    174.729881,
+    -36.878704,
+    174.729881,
+    -36.878704
 ],
-  "geometry": {"coordinates":[[[174.72518920900052,-36.87962060500001],[174.72518920900069,-36.88070197157283],[174.72211211328715,-36.879932583115],[174.72200516374551,-36.87962060500001],[174.72178108670306,-36.87896695906335],[174.7238159180003,-36.87744068305057],[174.72445123462165,-36.87759952808103],[174.72518920900052,-36.87852210221244],[174.72518920900052,-36.87962060500001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[174.72988100000001,-36.878704],"type":"Point"}
 }
