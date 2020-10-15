@@ -75,6 +75,9 @@
         "wk:page":"Albert Town, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2a38dc6ea823f1e5f98a05ae8d7d02f",
     "wof:hierarchy":[
         {
@@ -86,10 +89,15 @@
         }
     ],
     "wof:id":101914599,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616492,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804362,
     "wof:name":"Albert Town",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

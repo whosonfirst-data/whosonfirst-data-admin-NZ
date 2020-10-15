@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.120389,
     "lbl:longitude":168.809385,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.120389,
     "mps:longitude":168.809385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Wye Creek"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"52a2953acbcb6df3f2bf40aebde0f73a",
     "wof:hierarchy":[],
     "wof:id":1729341335,
-    "wof:lastmodified":1602624720,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804180,
     "wof:name":"Wye Creek",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

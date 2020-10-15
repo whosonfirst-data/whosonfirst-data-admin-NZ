@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
@@ -210,7 +210,15 @@
         }
     ],
     "wof:id":1326766879,
-    "wof:lastmodified":1602626102,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802898,
     "wof:name":"Arcadia",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

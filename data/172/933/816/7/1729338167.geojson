@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.508993,
     "lbl:longitude":172.631088,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.508993,
     "mps:longitude":172.631088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0623\u0644\u0628\u0627\u0646\u0632"
     ],
@@ -198,7 +201,15 @@
     "wof:geomhash":"380f9b54b1e1b9f2fdc4532b58e86140",
     "wof:hierarchy":[],
     "wof:id":1729338167,
-    "wof:lastmodified":1602633706,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804263,
     "wof:name":"St Albans",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

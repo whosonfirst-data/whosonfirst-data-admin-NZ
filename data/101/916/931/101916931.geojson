@@ -59,6 +59,9 @@
         "wd:id":"Q7796327"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3962ad11842b9ecc1f03ea0ec6a06cf0",
     "wof:hierarchy":[
         {
@@ -70,10 +73,15 @@
         }
     ],
     "wof:id":101916931,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616465,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804373,
     "wof:name":"Thornbury",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

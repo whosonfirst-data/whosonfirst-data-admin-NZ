@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.96866,
     "lbl:longitude":168.022378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.96866,
     "mps:longitude":168.022378,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Nightcaps"
     ],
@@ -69,10 +72,15 @@
         }
     ],
     "wof:id":101916947,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602626166,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803235,
     "wof:name":"Nightcaps",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

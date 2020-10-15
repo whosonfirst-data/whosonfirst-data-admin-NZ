@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.21177,
     "lbl:longitude":174.833477,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.21177,
     "mps:longitude":174.833477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Woodridge"
     ],
@@ -85,7 +88,15 @@
     "wof:geomhash":"3235604882d7a7ad8187bd49dc234702",
     "wof:hierarchy":[],
     "wof:id":1729337977,
-    "wof:lastmodified":1602696231,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804253,
     "wof:name":"Woodridge",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

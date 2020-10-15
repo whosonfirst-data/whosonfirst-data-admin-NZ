@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.556308,
     "lbl:longitude":175.015754,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.556308,
     "mps:longitude":175.015754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Taunoka"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"d96d5658df4821f26c326494788a82e7",
     "wof:hierarchy":[],
     "wof:id":1729343117,
-    "wof:lastmodified":1602624783,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804243,
     "wof:name":"Taunoka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

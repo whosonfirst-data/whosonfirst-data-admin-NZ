@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.949504,
     "lbl:longitude":168.127994,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.949504,
     "mps:longitude":168.127994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Refuge Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"2be3d2e934a02a582311ac43d794a534",
     "wof:hierarchy":[],
     "wof:id":1729340223,
-    "wof:lastmodified":1602624728,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804187,
     "wof:name":"Refuge Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -80,7 +80,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7a4109f0a2049d38b7ccafd4a41b35ea",
     "wof:hierarchy":[
@@ -93,10 +94,15 @@
         }
     ],
     "wof:id":101916649,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616429,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804381,
     "wof:name":"Tologa Bay",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",

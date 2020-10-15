@@ -90,7 +90,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"6c9a2a1b0352576ac89d8e1cefe12a28",
     "wof:hierarchy":[
@@ -103,10 +104,15 @@
         }
     ],
     "wof:id":101914661,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616503,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804359,
     "wof:name":"Havelock North",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

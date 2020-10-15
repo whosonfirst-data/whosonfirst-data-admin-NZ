@@ -66,6 +66,9 @@
         "wk:page":"Waitotara"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"336a43cc7711a4cd8b68b70cc6cf68e9",
     "wof:hierarchy":[
         {
@@ -77,10 +80,15 @@
         }
     ],
     "wof:id":101914851,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616431,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804358,
     "wof:name":"Waitotara",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

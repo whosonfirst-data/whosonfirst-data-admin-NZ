@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.479886,
     "lbl:longitude":169.737351,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.479886,
     "mps:longitude":169.737351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Triplets"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"e21b78c732065c76ca453d0cf5381d22",
     "wof:hierarchy":[],
     "wof:id":1729342985,
-    "wof:lastmodified":1602624773,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804233,
     "wof:name":"Triplets",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

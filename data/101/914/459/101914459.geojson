@@ -57,6 +57,9 @@
         "nz-linz:id":2217
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a18cb7bf57235a7f112e9b5ff15a9397",
     "wof:hierarchy":[
         {
@@ -68,10 +71,15 @@
         }
     ],
     "wof:id":101914459,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804369,
     "wof:name":"Ohaupo",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",

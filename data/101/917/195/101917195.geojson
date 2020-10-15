@@ -60,6 +60,9 @@
         "wk:page":"Longburn"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a3961f59c608256a8113f4ed5284f13",
     "wof:hierarchy":[
         {
@@ -71,10 +74,15 @@
         }
     ],
     "wof:id":101917195,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616413,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804387,
     "wof:name":"Longburn",
     "wof:parent_id":102079307,
     "wof:placetype":"locality",

@@ -218,6 +218,9 @@
         "wk:page":"Te Anau"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"936513c068f07f3f044b02f0fed0cbb3",
     "wof:hierarchy":[
         {
@@ -229,10 +232,15 @@
         }
     ],
     "wof:id":101914801,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616509,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804369,
     "wof:name":"Te Anau",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

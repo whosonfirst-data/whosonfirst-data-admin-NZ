@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-34.87697,
     "lbl:longitude":173.348401,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.87697,
     "mps:longitude":173.348401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Karikari Peninsula"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"618b98f642e18da181ebee62e58fb8d9",
     "wof:hierarchy":[],
     "wof:id":1729339873,
-    "wof:lastmodified":1602624854,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804315,
     "wof:name":"Karikari Peninsula",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

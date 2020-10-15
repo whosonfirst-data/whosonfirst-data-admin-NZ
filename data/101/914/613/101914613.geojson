@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.729479,
     "lbl:longitude":170.468004,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-44.729479,
     "mps:longitude":170.468004,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:cym_x_preferred":[
         "Kurow"
     ],
@@ -97,7 +100,15 @@
         }
     ],
     "wof:id":101914613,
-    "wof:lastmodified":1602626157,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803216,
     "wof:name":"Kurow",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

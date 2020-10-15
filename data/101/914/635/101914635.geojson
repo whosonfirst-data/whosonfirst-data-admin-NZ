@@ -56,7 +56,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"a0aafeab5b39bb6ee58f1d3226adfc43",
     "wof:hierarchy":[
@@ -69,7 +70,15 @@
         }
     ],
     "wof:id":101914635,
-    "wof:lastmodified":1602616341,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804359,
     "wof:name":"Waikanae Beach",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

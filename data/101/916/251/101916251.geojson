@@ -70,7 +70,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b5af30015e4b21252331f18b6892100d",
     "wof:hierarchy":[
@@ -83,7 +84,15 @@
         }
     ],
     "wof:id":101916251,
-    "wof:lastmodified":1602616463,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804376,
     "wof:name":"Taitapu",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

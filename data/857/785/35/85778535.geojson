@@ -76,8 +76,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"78cff675c77d7e7fb8befc4a2c907569",
     "wof:hierarchy":[
@@ -91,10 +91,15 @@
         }
     ],
     "wof:id":85778535,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633716,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802943,
     "wof:name":"Parklands",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

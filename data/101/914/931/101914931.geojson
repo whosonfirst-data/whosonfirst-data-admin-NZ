@@ -96,7 +96,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"3018537c1154aa04552a71ea10b29207",
     "wof:hierarchy":[
@@ -109,10 +110,15 @@
         }
     ],
     "wof:id":101914931,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713683,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805015,
     "wof:name":"Otaki",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

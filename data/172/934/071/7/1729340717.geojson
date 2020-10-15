@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.353534,
     "lbl:longitude":174.352684,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.353534,
     "mps:longitude":174.352684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Motuti Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"2218153b61a62f835d9db1a37bd694f4",
     "wof:hierarchy":[],
     "wof:id":1729340717,
-    "wof:lastmodified":1602624728,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804187,
     "wof:name":"Motuti Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

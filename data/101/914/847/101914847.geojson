@@ -103,6 +103,9 @@
         "wk:page":"Balclutha, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ececc5c03a4a54f4d1603979865bac39",
     "wof:hierarchy":[
         {
@@ -114,10 +117,15 @@
         }
     ],
     "wof:id":101914847,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616502,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804366,
     "wof:name":"Balclutha",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

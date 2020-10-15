@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.735069,
     "lbl:longitude":176.183641,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-37.735069,
     "mps:longitude":176.183641,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":7.0,
     "name:eng_x_preferred":[
         "Tauranga"
     ],
@@ -67,7 +69,15 @@
         }
     ],
     "wof:id":101914645,
-    "wof:lastmodified":1602626152,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803204,
     "wof:name":"Tauranga",
     "wof:parent_id":102079285,
     "wof:placetype":"locality",

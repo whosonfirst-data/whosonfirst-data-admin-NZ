@@ -57,7 +57,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"75e64a6a7f7483866cbe6f0faf95d3e8",
     "wof:hierarchy":[
@@ -70,10 +71,15 @@
         }
     ],
     "wof:id":101915191,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616361,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804344,
     "wof:name":"Waitarere",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

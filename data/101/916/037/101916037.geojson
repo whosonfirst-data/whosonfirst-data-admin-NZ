@@ -77,7 +77,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"63f86a4d21f097d7fb229f2371e19a89",
     "wof:hierarchy":[
@@ -90,10 +91,15 @@
         }
     ],
     "wof:id":101916037,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616482,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804377,
     "wof:name":"Kaka Point",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

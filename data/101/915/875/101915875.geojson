@@ -87,7 +87,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"16128f765113c838c880f0f2807bd6aa",
     "wof:hierarchy":[
@@ -100,10 +101,15 @@
         }
     ],
     "wof:id":101915875,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713677,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805011,
     "wof:name":"Ngatea",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

@@ -10,13 +10,14 @@
     "geom:latitude":-36.861688,
     "geom:longitude":174.758989,
     "iso:country":"NZ",
+    "lbl:bbox":"174.778989,-36.841688,174.778989,-36.841688",
     "lbl:latitude":-36.861688,
     "lbl:longitude":174.758989,
     "lbl:max_zoom":18.0,
     "mps:latitude":-36.858293,
     "mps:longitude":174.757461,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -245,6 +246,9 @@
         "gp:id":2349688
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3bbbd5df8bc6a6460348b5807028d0a",
     "wof:hierarchy":[
         {
@@ -257,10 +261,15 @@
         }
     ],
     "wof:id":85773049,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602699431,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802939,
     "wof:name":"Newton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

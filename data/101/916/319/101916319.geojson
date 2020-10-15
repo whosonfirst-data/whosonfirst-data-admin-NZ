@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.91395,
     "lbl:longitude":175.075085,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-39.91395,
     "mps:longitude":175.075085,
     "mz:hierarchy_label":0,
@@ -159,7 +160,15 @@
         }
     ],
     "wof:id":101916319,
-    "wof:lastmodified":1602626170,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803246,
     "wof:name":"Wanganui",
     "wof:parent_id":102079299,
     "wof:placetype":"locality",

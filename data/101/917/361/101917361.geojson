@@ -64,6 +64,9 @@
         "nz-linz:id":1310
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b6f6cb3471bc6ab6a262911d1cb58f12",
     "wof:hierarchy":[
         {
@@ -75,10 +78,15 @@
         }
     ],
     "wof:id":101917361,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616457,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804389,
     "wof:name":"Pukemiro",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

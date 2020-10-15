@@ -63,6 +63,9 @@
         "wk:page":"Riversdale Beach"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"32a877cf112e35cdcb21e92c9f90a92c",
     "wof:hierarchy":[
         {
@@ -74,10 +77,15 @@
         }
     ],
     "wof:id":101915815,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616484,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804347,
     "wof:name":"Riversdale Beach",
     "wof:parent_id":102079343,
     "wof:placetype":"locality",

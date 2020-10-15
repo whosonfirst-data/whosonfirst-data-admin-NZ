@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.232968,
     "lbl:longitude":175.882424,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-38.232968,
     "mps:longitude":175.882424,
     "mz:hierarchy_label":0,
@@ -155,7 +156,15 @@
         }
     ],
     "wof:id":101917525,
-    "wof:lastmodified":1602626191,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803271,
     "wof:name":"Tokoroa",
     "wof:parent_id":102079277,
     "wof:placetype":"locality",

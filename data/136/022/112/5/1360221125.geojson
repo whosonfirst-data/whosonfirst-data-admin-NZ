@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
@@ -54,7 +54,15 @@
         }
     ],
     "wof:id":1360221125,
-    "wof:lastmodified":1602626136,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803172,
     "wof:name":"Kauangaroa",
     "wof:parent_id":102079301,
     "wof:placetype":"locality",

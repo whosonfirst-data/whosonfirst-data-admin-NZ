@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.337898,
     "lbl:longitude":174.178027,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.337898,
     "mps:longitude":174.178027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Walker Rock"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"15b916c20f4498a7a530690dab487119",
     "wof:hierarchy":[],
     "wof:id":1729343085,
-    "wof:lastmodified":1602624720,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804179,
     "wof:name":"Walker Rock",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

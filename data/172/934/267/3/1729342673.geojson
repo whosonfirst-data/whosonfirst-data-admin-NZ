@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.761715,
     "lbl:longitude":175.801651,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.761715,
     "mps:longitude":175.801651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "The Twins"
     ],
@@ -32,7 +35,15 @@
     "wof:geomhash":"d070a21d8bae887312299cfa46477762",
     "wof:hierarchy":[],
     "wof:id":1729342673,
-    "wof:lastmodified":1602624737,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804196,
     "wof:name":"The Twins",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

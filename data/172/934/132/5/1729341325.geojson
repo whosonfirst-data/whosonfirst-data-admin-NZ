@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.566679,
     "lbl:longitude":173.803591,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.566679,
     "mps:longitude":173.803591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hawkesbury"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"1f4e2975ceedfd5d69bc29cab483e660",
     "wof:hierarchy":[],
     "wof:id":1729341325,
-    "wof:lastmodified":1602624717,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804176,
     "wof:name":"Hawkesbury",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

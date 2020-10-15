@@ -300,7 +300,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"ddbb63b9ce96e0c5af62ca9b29523130",
     "wof:hierarchy":[
@@ -313,7 +314,15 @@
         }
     ],
     "wof:id":101915527,
-    "wof:lastmodified":1602713675,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805012,
     "wof:name":"Timaru",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

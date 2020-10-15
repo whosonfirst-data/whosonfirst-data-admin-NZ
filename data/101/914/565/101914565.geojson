@@ -63,6 +63,9 @@
         "wk:page":"Taieri Mouth"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dbfb2f827edb12078eb586713d9bba7d",
     "wof:hierarchy":[
         {
@@ -74,10 +77,15 @@
         }
     ],
     "wof:id":101914565,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616463,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804363,
     "wof:name":"Taieri Mouth",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.993649,
     "lbl:longitude":175.327499,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.993649,
     "mps:longitude":175.327499,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Te Awamutu"
     ],
@@ -61,7 +64,15 @@
         }
     ],
     "wof:id":101914949,
-    "wof:lastmodified":1602626155,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803211,
     "wof:name":"Te Awamutu",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",

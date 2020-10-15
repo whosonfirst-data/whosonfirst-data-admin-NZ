@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.544994,
     "lbl:longitude":174.718583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.544994,
     "mps:longitude":174.718583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mahurangi Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"b1afee0560b2fe2bb36f335e4a8e96b5",
     "wof:hierarchy":[],
     "wof:id":1729341499,
-    "wof:lastmodified":1602624793,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804253,
     "wof:name":"Mahurangi Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

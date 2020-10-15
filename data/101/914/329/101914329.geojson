@@ -93,7 +93,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"ba3391c6f5d4a5f450f2b4275ef22f61",
     "wof:hierarchy":[
@@ -106,7 +107,15 @@
         }
     ],
     "wof:id":101914329,
-    "wof:lastmodified":1602713677,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805021,
     "wof:name":"Helensville",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

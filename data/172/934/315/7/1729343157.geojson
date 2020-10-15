@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.893777,
     "lbl:longitude":171.693507,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.893777,
     "mps:longitude":171.693507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Arthur's Pass National Park"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"383e87a2aee666c06e8b4fe42120cef1",
     "wof:hierarchy":[],
     "wof:id":1729343157,
-    "wof:lastmodified":1602711810,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804208,
     "wof:name":"Arthur's Pass National Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

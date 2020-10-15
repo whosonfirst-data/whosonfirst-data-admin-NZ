@@ -59,7 +59,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"85d2d493e5b331f5bbcb939ef3488fa5",
     "wof:hierarchy":[
@@ -72,7 +73,15 @@
         }
     ],
     "wof:id":101915891,
-    "wof:lastmodified":1602616469,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804348,
     "wof:name":"Kuratau",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.293079,
     "lbl:longitude":174.826559,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.293079,
     "mps:longitude":174.826559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Maupuia"
     ],
@@ -62,7 +65,15 @@
     "wof:geomhash":"5d633409f79dcbb6c4b37edb21bcd18b",
     "wof:hierarchy":[],
     "wof:id":1729339125,
-    "wof:lastmodified":1602696237,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804279,
     "wof:name":"Maupuia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

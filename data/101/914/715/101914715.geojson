@@ -64,7 +64,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"9e21003d1199e4491b9aa136d41d47e8",
     "wof:hierarchy":[
@@ -77,10 +78,15 @@
         }
     ],
     "wof:id":101914715,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616347,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804360,
     "wof:name":"Sumner",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

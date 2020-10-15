@@ -64,6 +64,9 @@
         "wk:page":"Brighton, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b4f82191e73ac422e7f400df20f4bf1f",
     "wof:hierarchy":[
         {
@@ -75,10 +78,15 @@
         }
     ],
     "wof:id":101915365,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616362,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804338,
     "wof:name":"Brighton",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

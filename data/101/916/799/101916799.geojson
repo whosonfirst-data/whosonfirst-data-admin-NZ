@@ -55,7 +55,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"fb16506ee2dd0d8d6579e79d2436ade5",
     "wof:hierarchy":[
@@ -68,7 +69,15 @@
         }
     ],
     "wof:id":101916799,
-    "wof:lastmodified":1602616489,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804373,
     "wof:name":"Point Wells",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

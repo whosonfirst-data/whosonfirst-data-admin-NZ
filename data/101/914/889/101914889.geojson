@@ -84,7 +84,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"f5deb7953bcd00405441fab5613c25ae",
     "wof:hierarchy":[
@@ -97,10 +98,15 @@
         }
     ],
     "wof:id":101914889,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616418,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804355,
     "wof:name":"Collingwood",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

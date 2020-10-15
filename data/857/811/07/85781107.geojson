@@ -105,8 +105,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7946fca91a46f56e81337a4b3e0132d6",
     "wof:hierarchy":[
@@ -120,10 +120,15 @@
         }
     ],
     "wof:id":85781107,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633698,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Rosedale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

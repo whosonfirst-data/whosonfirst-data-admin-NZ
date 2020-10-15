@@ -13,10 +13,13 @@
     "lbl:bbox":"176.237248,-37.777807,176.415649,-37.67651",
     "lbl:latitude":-37.73621,
     "lbl:longitude":176.293545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.73621,
     "mps:longitude":176.293545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Papamoa"
     ],
@@ -37,7 +40,15 @@
     "wof:geomhash":"64369a1f42d32bd148b5135015124e65",
     "wof:hierarchy":[],
     "wof:id":1729339005,
-    "wof:lastmodified":1602713680,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805004,
     "wof:name":"Papamoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

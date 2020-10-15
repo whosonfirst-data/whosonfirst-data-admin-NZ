@@ -54,6 +54,9 @@
         "nz-linz:id":101
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"7325ea2f0d0310d8b5f3c81ff45ad868",
     "wof:hierarchy":[
         {
@@ -64,7 +67,15 @@
         }
     ],
     "wof:id":1360016115,
-    "wof:lastmodified":1602616437,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804335,
     "wof:name":"Bay of Many Coves",
     "wof:parent_id":85687185,
     "wof:placetype":"locality",

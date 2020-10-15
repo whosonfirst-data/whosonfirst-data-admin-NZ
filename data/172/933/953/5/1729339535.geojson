@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.147371,
     "lbl:longitude":171.964618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.147371,
     "mps:longitude":171.964618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Rahu Saddle"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"d10d742e93feb724b995771241214a99",
     "wof:hierarchy":[],
     "wof:id":1729339535,
-    "wof:lastmodified":1602624797,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804257,
     "wof:name":"Rahu Saddle",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

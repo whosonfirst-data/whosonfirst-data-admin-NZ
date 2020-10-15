@@ -11,6 +11,7 @@
     "geom:longitude":174.687233,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.707233,-36.710234,174.707233,-36.710234",
     "lbl:latitude":-36.730234,
     "lbl:longitude":174.687233,
     "lbl:max_zoom":18.0,
@@ -57,10 +58,10 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":284,
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,10 +85,15 @@
         }
     ],
     "wof:id":85781179,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316519,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802942,
     "wof:name":"The Landing",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

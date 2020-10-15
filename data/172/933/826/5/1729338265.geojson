@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.234118,
     "lbl:longitude":174.792002,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.234118,
     "mps:longitude":174.792002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Broadmeadows"
     ],
@@ -62,7 +65,15 @@
     "wof:geomhash":"75b270b340e9d70aba11afef63ff6260",
     "wof:hierarchy":[],
     "wof:id":1729338265,
-    "wof:lastmodified":1602696232,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804268,
     "wof:name":"Broadmeadows",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

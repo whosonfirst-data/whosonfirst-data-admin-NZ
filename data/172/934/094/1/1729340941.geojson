@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.219051,
     "lbl:longitude":174.182072,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.219051,
     "mps:longitude":174.182072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Motuoi Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"9258cfc3e36f5ca93e5f50ab1a662737",
     "wof:hierarchy":[],
     "wof:id":1729340941,
-    "wof:lastmodified":1602624779,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804239,
     "wof:name":"Motuoi Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

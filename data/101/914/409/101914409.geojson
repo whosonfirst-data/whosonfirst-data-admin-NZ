@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.20367,
     "lbl:longitude":174.803214,
+    "lbl:max_zoom":13.0,
     "mps:latitude":-41.20367,
     "mps:longitude":174.803214,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":6.0,
     "name:chi_x_variant":[
         "\u60e0\u7075\u987f"
     ],
@@ -79,10 +81,15 @@
         }
     ],
     "wof:id":101914409,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602626154,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803208,
     "wof:name":"Wellington",
     "wof:parent_id":102079339,
     "wof:placetype":"locality",

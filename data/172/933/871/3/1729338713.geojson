@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.091649,
     "lbl:longitude":174.051722,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.091649,
     "mps:longitude":174.051722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hurdon"
     ],
@@ -39,7 +42,15 @@
     "wof:geomhash":"88987cef871b1be2595f1a89fdbeb9d3",
     "wof:hierarchy":[],
     "wof:id":1729338713,
-    "wof:lastmodified":1602633720,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804301,
     "wof:name":"Hurdon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

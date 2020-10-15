@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.079015,
     "lbl:longitude":174.080862,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.079015,
     "mps:longitude":174.080862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Vogeltown"
     ],
@@ -39,7 +42,15 @@
     "wof:geomhash":"c4d6ce5efdd6d050d1bd24a2a3b14a1f",
     "wof:hierarchy":[],
     "wof:id":1729337983,
-    "wof:lastmodified":1602633699,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804259,
     "wof:name":"Vogeltown",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

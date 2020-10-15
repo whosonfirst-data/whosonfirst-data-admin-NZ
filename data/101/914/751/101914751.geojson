@@ -94,6 +94,9 @@
         "wk:page":"Warkworth, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"39b54514f92d945eba37ce30f8008837",
     "wof:hierarchy":[
         {
@@ -105,7 +108,15 @@
         }
     ],
     "wof:id":101914751,
-    "wof:lastmodified":1602616511,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804363,
     "wof:name":"Warkworth",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

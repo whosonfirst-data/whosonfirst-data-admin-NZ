@@ -117,7 +117,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b89914264c2880c696f79f1d7ac3de0f",
     "wof:hierarchy":[
@@ -130,7 +131,15 @@
         }
     ],
     "wof:id":101914411,
-    "wof:lastmodified":1602633716,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804366,
     "wof:name":"Petone",
     "wof:parent_id":102079337,
     "wof:placetype":"locality",

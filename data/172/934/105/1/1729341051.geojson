@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.206923,
     "lbl:longitude":168.738733,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.206923,
     "mps:longitude":168.738733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Te Tipua"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"0e317adf906396a0a8c79ddace887d91",
     "wof:hierarchy":[],
     "wof:id":1729341051,
-    "wof:lastmodified":1602624720,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804179,
     "wof:name":"Te Tipua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

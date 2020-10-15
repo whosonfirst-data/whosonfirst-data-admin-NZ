@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.047601,
     "lbl:longitude":174.833847,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.047601,
     "mps:longitude":174.833847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kaiwhai Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"cff7008edef036c145b51446dd452afe",
     "wof:hierarchy":[],
     "wof:id":1729341865,
-    "wof:lastmodified":1602624751,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804210,
     "wof:name":"Kaiwhai Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

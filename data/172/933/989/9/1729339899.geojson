@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.47249,
     "lbl:longitude":175.996374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.47249,
     "mps:longitude":175.996374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kinleith Forest"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"8fa9677419609e35e9927723f55796e5",
     "wof:hierarchy":[],
     "wof:id":1729339899,
-    "wof:lastmodified":1602624856,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804316,
     "wof:name":"Kinleith Forest",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

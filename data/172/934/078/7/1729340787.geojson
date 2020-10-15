@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.858216,
     "lbl:longitude":176.988386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.858216,
     "mps:longitude":176.988386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Red Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"c3855fb7186d9d57c871cea1176c1411",
     "wof:hierarchy":[],
     "wof:id":1729340787,
-    "wof:lastmodified":1602624730,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804190,
     "wof:name":"Red Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

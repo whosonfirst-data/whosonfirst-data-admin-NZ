@@ -16,6 +16,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.081039,
     "lbl:longitude":174.097595,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.083502,
     "mps:longitude":174.098338,
     "mz:hierarchy_label":0,
@@ -64,10 +65,10 @@
     "wd:wordcount":213,
     "wof:belongs_to":[],
     "wof:belongsto":[
-        85687195,
         102191583,
         85633345,
-        102079311
+        102079311,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,10 +94,15 @@
         }
     ],
     "wof:id":85781221,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316525,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802948,
     "wof:name":"Welbourn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

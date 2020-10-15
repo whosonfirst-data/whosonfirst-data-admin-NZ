@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.529504,
     "lbl:longitude":172.629129,
+    "lbl:max_zoom":13.0,
     "mps:latitude":-43.529504,
     "mps:longitude":172.629129,
     "mz:hierarchy_label":0,
@@ -169,7 +170,15 @@
         }
     ],
     "wof:id":101916273,
-    "wof:lastmodified":1602626163,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803230,
     "wof:name":"Christchurch",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

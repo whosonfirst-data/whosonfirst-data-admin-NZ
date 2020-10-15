@@ -90,8 +90,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"86c78b8bb005a67332611f7ae9fd7958",
     "wof:hierarchy":[
@@ -105,10 +105,15 @@
         }
     ],
     "wof:id":85778495,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633716,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802945,
     "wof:name":"Normanby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

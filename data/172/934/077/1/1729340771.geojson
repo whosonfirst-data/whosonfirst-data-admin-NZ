@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.459263,
     "lbl:longitude":175.331535,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.459263,
     "mps:longitude":175.331535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mangaokewa"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"9dd41bb07cd889e93b2f006f1eef2452",
     "wof:hierarchy":[],
     "wof:id":1729340771,
-    "wof:lastmodified":1602624726,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804185,
     "wof:name":"Mangaokewa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

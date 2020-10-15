@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.969318,
     "lbl:longitude":166.648402,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.969318,
     "mps:longitude":166.648402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Small Craft Harbour Islands"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"e3f626195a411d46a110969e2ff3adf2",
     "wof:hierarchy":[],
     "wof:id":1729342941,
-    "wof:lastmodified":1602624736,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804195,
     "wof:name":"Small Craft Harbour Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

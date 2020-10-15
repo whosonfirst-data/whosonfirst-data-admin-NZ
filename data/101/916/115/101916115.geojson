@@ -72,6 +72,9 @@
         "wd:id":"Q1965607"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d761526b5ac79d971e049db15eb8491",
     "wof:hierarchy":[
         {
@@ -83,10 +86,15 @@
         }
     ],
     "wof:id":101916115,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616414,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804384,
     "wof:name":"Naseby",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

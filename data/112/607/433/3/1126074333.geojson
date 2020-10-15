@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.932792,-36.9016465,174.932792,-36.9016465",
+    "geom:bbox":"174.932792,-36.901646,174.932792,-36.901646",
     "geom:latitude":-36.901646,
     "geom:longitude":174.932792,
     "gn:country":null,
@@ -16,7 +16,7 @@
     "lbl:longitude":174.932792,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -43,11 +43,11 @@
     "woe:name_adm1":"Auckland Region",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
+        102079403,
         101914257,
-        102079403
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +56,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497310627,
-    "wof:geomhash":"f1c0c32080b25494ab1a4fae1f7e2eeb",
+    "wof:geomhash":"25499c2a18f7fe4bafb9af912f9ac02b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +68,15 @@
         }
     ],
     "wof:id":1126074333,
-    "wof:lastmodified":1566672631,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803322,
     "wof:name":"Howick Central",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",
@@ -79,9 +87,9 @@
 },
   "bbox": [
     174.932792,
-    -36.9016465,
+    -36.901646,
     174.932792,
-    -36.9016465
+    -36.901646
 ],
-  "geometry": {"coordinates":[174.93279200000001,-36.9016465],"type":"Point"}
+  "geometry": {"coordinates":[174.93279200000001,-36.901646],"type":"Point"}
 }

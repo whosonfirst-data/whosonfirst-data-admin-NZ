@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.913898,
     "lbl:longitude":175.471529,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-37.913898,
     "mps:longitude":175.471529,
     "mz:hierarchy_label":0,
@@ -154,7 +155,15 @@
         }
     ],
     "wof:id":101915071,
-    "wof:lastmodified":1602626140,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803180,
     "wof:name":"Cambridge",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",

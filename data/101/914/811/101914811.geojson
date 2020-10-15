@@ -99,6 +99,9 @@
         "wk:page":"Pukerua Bay"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1da4ea0fb15cb584d82beb61eae1299b",
     "wof:hierarchy":[
         {
@@ -110,10 +113,15 @@
         }
     ],
     "wof:id":101914811,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616340,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804355,
     "wof:name":"Pukerua Bay",
     "wof:parent_id":102079317,
     "wof:placetype":"locality",

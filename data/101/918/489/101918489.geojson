@@ -114,7 +114,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7f511587b0f22a2ef5bf33188747af36",
     "wof:hierarchy":[
@@ -127,7 +128,15 @@
         }
     ],
     "wof:id":101918489,
-    "wof:lastmodified":1602633704,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804386,
     "wof:name":"Glenfield",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

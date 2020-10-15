@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.796313,
     "lbl:longitude":172.935308,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.796313,
     "mps:longitude":172.935308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Amuri Plain"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"e75e9a9e16ba023c8dfb31e029e213ef",
     "wof:hierarchy":[],
     "wof:id":1729343105,
-    "wof:lastmodified":1602624789,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804249,
     "wof:name":"Amuri Plain",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

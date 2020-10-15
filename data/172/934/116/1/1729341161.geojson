@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.646866,
     "lbl:longitude":176.442283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.646866,
     "mps:longitude":176.442283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kaingaroa"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"e3c00ccfebc061e64b78961d9bf298dd",
     "wof:hierarchy":[],
     "wof:id":1729341161,
-    "wof:lastmodified":1602624741,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804200,
     "wof:name":"Kaingaroa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

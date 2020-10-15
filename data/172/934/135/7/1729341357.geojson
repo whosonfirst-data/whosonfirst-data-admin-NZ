@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.298747,
     "lbl:longitude":169.438428,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.298747,
     "mps:longitude":169.438428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Little Valley"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"5db2ebe6cb5a15f35d2e294ea1422884",
     "wof:hierarchy":[],
     "wof:id":1729341357,
-    "wof:lastmodified":1602624715,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804174,
     "wof:name":"Little Valley",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

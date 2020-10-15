@@ -71,7 +71,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"a7f915a87f5bb4edd654d3b04792ae5d",
     "wof:hierarchy":[
@@ -84,7 +85,15 @@
         }
     ],
     "wof:id":101915749,
-    "wof:lastmodified":1602616342,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804343,
     "wof:name":"Frankton",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

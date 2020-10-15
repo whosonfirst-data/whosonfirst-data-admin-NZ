@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.199433,
     "lbl:longitude":174.048778,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.199433,
     "mps:longitude":174.048778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Cocked Hat Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"92267757b806e07665b887ff57aa9d61",
     "wof:hierarchy":[],
     "wof:id":1729341139,
-    "wof:lastmodified":1602624792,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804252,
     "wof:name":"Cocked Hat Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

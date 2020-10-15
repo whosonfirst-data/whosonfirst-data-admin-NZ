@@ -62,7 +62,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d6050b1bef679f2fe13b4af5f0e9eb4a",
     "wof:hierarchy":[
@@ -75,7 +76,15 @@
         }
     ],
     "wof:id":101918373,
-    "wof:lastmodified":1602616416,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804387,
     "wof:name":"Tokaanu",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.869342,
     "lbl:longitude":174.826129,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.869342,
     "mps:longitude":174.826129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Meadowbank"
     ],
@@ -66,7 +69,15 @@
     "wof:geomhash":"cec873f931901f59f6b45db5a3c3f149",
     "wof:hierarchy":[],
     "wof:id":1729339117,
-    "wof:lastmodified":1602696237,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804311,
     "wof:name":"Meadowbank",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

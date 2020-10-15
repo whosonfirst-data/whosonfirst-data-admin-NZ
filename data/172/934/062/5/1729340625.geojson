@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.410494,
     "lbl:longitude":172.294216,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.410494,
     "mps:longitude":172.294216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Eyrewell Forest"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"f4bf680b6566e1268b685dc80f06e948",
     "wof:hierarchy":[],
     "wof:id":1729340625,
-    "wof:lastmodified":1602624733,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804192,
     "wof:name":"Eyrewell Forest",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

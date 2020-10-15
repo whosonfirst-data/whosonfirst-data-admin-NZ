@@ -63,6 +63,9 @@
         "wk:page":"Glentunnel"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ae2a83732686947b49e539667f293ec",
     "wof:hierarchy":[
         {
@@ -74,10 +77,15 @@
         }
     ],
     "wof:id":101914517,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616433,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804360,
     "wof:name":"Glentunnel",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

@@ -65,6 +65,9 @@
         "wd:id":"Q7400943"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b5ce4efaa6b25c8363061f8d54b0406e",
     "wof:hierarchy":[
         {
@@ -76,10 +79,15 @@
         }
     ],
     "wof:id":101917081,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616462,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804389,
     "wof:name":"Saint Andrews",
     "wof:parent_id":102079379,
     "wof:placetype":"locality",

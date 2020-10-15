@@ -98,6 +98,9 @@
         "wk:page":"Motueka"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b388db07163c6df565fdf89b918a5815",
     "wof:hierarchy":[
         {
@@ -109,10 +112,15 @@
         }
     ],
     "wof:id":101914769,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616520,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804363,
     "wof:name":"Motueka",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

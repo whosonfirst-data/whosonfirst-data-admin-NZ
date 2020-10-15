@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.06983,
     "lbl:longitude":174.931602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.06983,
     "mps:longitude":174.931602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Pahurehure"
     ],
@@ -66,7 +69,15 @@
     "wof:geomhash":"0b003840f7bdf1c688f6cb5cff3f4582",
     "wof:hierarchy":[],
     "wof:id":1729338549,
-    "wof:lastmodified":1602633716,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804307,
     "wof:name":"Pahurehure",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -68,7 +68,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"91cfbdff22fe97afc8dbb4ec8e6c9f8a",
     "wof:hierarchy":[
@@ -81,7 +82,15 @@
         }
     ],
     "wof:id":101916809,
-    "wof:lastmodified":1602616511,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804382,
     "wof:name":"Waipu",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

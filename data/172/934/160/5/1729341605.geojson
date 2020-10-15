@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.290977,
     "lbl:longitude":173.170512,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.290977,
     "mps:longitude":173.170512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Bell Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"268ce5a67b9de377d42588a265f96c15",
     "wof:hierarchy":[],
     "wof:id":1729341605,
-    "wof:lastmodified":1602624722,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804181,
     "wof:name":"Bell Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

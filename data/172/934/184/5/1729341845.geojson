@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.355275,
     "lbl:longitude":174.379868,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.355275,
     "mps:longitude":174.379868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kaiwha Rock"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"b667a0f11792e997a935d250d1a6a891",
     "wof:hierarchy":[],
     "wof:id":1729341845,
-    "wof:lastmodified":1602624786,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804246,
     "wof:name":"Kaiwha Rock",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

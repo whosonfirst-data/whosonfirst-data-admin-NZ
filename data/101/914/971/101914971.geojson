@@ -83,7 +83,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"fdbe91b1344c711f1e408cc0a804a3ba",
     "wof:hierarchy":[
@@ -96,10 +97,15 @@
         }
     ],
     "wof:id":101914971,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616483,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804360,
     "wof:name":"Riwaka",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.691002,
     "lbl:longitude":178.575708,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.691002,
     "mps:longitude":178.575708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Whangaokeno / East Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"8e41a44ed787d9026c73f9d3bfda0d55",
     "wof:hierarchy":[],
     "wof:id":1729341717,
-    "wof:lastmodified":1602624793,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804253,
     "wof:name":"Whangaokeno / East Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

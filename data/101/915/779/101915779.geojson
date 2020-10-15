@@ -90,6 +90,9 @@
         "wk:page":"Darfield, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9073f4d25c5e68b4ef8b17d49ea9e3d",
     "wof:hierarchy":[
         {
@@ -101,7 +104,15 @@
         }
     ],
     "wof:id":101915779,
-    "wof:lastmodified":1602616502,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804344,
     "wof:name":"Darfield",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

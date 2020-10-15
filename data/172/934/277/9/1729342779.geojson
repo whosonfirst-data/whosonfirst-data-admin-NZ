@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.089845,
     "lbl:longitude":166.694137,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.089845,
     "mps:longitude":166.694137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Weka Or Long Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"e617ccdbddf9b59649c15452314c993b",
     "wof:hierarchy":[],
     "wof:id":1729342779,
-    "wof:lastmodified":1602624764,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804223,
     "wof:name":"Weka Or Long Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

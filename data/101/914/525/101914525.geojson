@@ -54,6 +54,9 @@
         "nz-linz:id":1799
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41d575adbaaf8291dd1e5ee1b3612876",
     "wof:hierarchy":[
         {
@@ -65,10 +68,15 @@
         }
     ],
     "wof:id":101914525,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616516,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804372,
     "wof:name":"Waikuku Beach",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

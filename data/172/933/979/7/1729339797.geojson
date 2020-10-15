@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.433597,
     "lbl:longitude":176.465987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.433597,
     "mps:longitude":176.465987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Waiwhare"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"678d813381369b64dd2002489133ca65",
     "wof:hierarchy":[],
     "wof:id":1729339797,
-    "wof:lastmodified":1602624817,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804277,
     "wof:name":"Waiwhare",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -71,7 +71,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"3ba73b4529e77c6713d12555c2cacc9b",
     "wof:hierarchy":[
@@ -84,10 +85,15 @@
         }
     ],
     "wof:id":101915911,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616512,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804349,
     "wof:name":"Waharoa",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

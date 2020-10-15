@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.900975,
     "lbl:longitude":167.555083,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.900975,
     "mps:longitude":167.555083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Dean"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"8b64a6c163f58479edfc09950534d0fd",
     "wof:hierarchy":[],
     "wof:id":1729341271,
-    "wof:lastmodified":1602624749,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804209,
     "wof:name":"Dean",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

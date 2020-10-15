@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.372601,
     "lbl:longitude":171.024376,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-44.372601,
     "mps:longitude":171.024376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Taiko"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"b46c6981ccab3ab2ca0b279e641e2c78",
     "wof:hierarchy":[],
     "wof:id":1729341025,
-    "wof:lastmodified":1602624719,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804179,
     "wof:name":"Taiko",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

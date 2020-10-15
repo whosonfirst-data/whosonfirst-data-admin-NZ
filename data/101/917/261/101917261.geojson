@@ -63,6 +63,9 @@
         "wk:page":"Lepperton"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"90fed9041d19910e2a861de6bcf6dad0",
     "wof:hierarchy":[
         {
@@ -74,10 +77,15 @@
         }
     ],
     "wof:id":101917261,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616385,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804388,
     "wof:name":"Lepperton",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.499684,
     "lbl:longitude":172.679733,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.499684,
     "mps:longitude":172.679733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Archway Islands"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"b6fbb627381ce03c052d88424f367763",
     "wof:hierarchy":[],
     "wof:id":1729341595,
-    "wof:lastmodified":1602624718,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804177,
     "wof:name":"Archway Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

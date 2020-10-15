@@ -63,7 +63,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7b957de3a2725b8cd543e2fb5cdb28e3",
     "wof:hierarchy":[
@@ -76,7 +77,15 @@
         }
     ],
     "wof:id":101915999,
-    "wof:lastmodified":1602616484,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804339,
     "wof:name":"Matarangi",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

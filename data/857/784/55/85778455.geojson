@@ -88,8 +88,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"a357587febb7383fab9db6abb3970289",
     "wof:hierarchy":[
@@ -103,10 +103,15 @@
         }
     ],
     "wof:id":85778455,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633710,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802945,
     "wof:name":"Merivale",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.706751,
     "lbl:longitude":174.29369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.706751,
     "mps:longitude":174.29369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Whau Valley"
     ],
@@ -39,7 +42,15 @@
     "wof:geomhash":"1f1b0461e0eb23747faedba4575e81ee",
     "wof:hierarchy":[],
     "wof:id":1729338761,
-    "wof:lastmodified":1602633721,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804301,
     "wof:name":"Whau Valley",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -18,7 +18,7 @@
     "mps:latitude":-39.640467,
     "mps:longitude":176.84269,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -72,10 +72,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":853,
     "wof:belongsto":[
-        85687189,
         102191583,
         85633345,
-        102079329
+        102079329,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,10 +100,15 @@
         }
     ],
     "wof:id":85782409,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316525,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802947,
     "wof:name":"Hastings Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

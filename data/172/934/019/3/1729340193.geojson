@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-34.981582,
     "lbl:longitude":173.438648,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.981582,
     "mps:longitude":173.438648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Puketu Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"bc3ff5f9f45e9d57384c79fc60a104bf",
     "wof:hierarchy":[],
     "wof:id":1729340193,
-    "wof:lastmodified":1602624771,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804230,
     "wof:name":"Puketu Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

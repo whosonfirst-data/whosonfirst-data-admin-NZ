@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.338061,
     "lbl:longitude":174.771123,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.338061,
     "mps:longitude":174.771123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Island Bay"
     ],
@@ -64,7 +67,15 @@
     "wof:geomhash":"ea80507708302e55faa25b4e4f74eefe",
     "wof:hierarchy":[],
     "wof:id":1729338267,
-    "wof:lastmodified":1602696232,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804268,
     "wof:name":"Island Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

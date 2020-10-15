@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.392485,
     "lbl:longitude":168.352436,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.392485,
     "mps:longitude":168.352436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Gladstone"
     ],
@@ -39,7 +42,15 @@
     "wof:geomhash":"f229b029acf4c0278b4673095d2f59e1",
     "wof:hierarchy":[],
     "wof:id":1729338413,
-    "wof:lastmodified":1602633713,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804297,
     "wof:name":"Gladstone",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

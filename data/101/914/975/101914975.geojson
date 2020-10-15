@@ -59,6 +59,9 @@
         "wd:id":"Q2285922"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea42fd1e069a5dbcf66c81d0484af406",
     "wof:hierarchy":[
         {
@@ -70,10 +73,15 @@
         }
     ],
     "wof:id":101914975,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616420,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804373,
     "wof:name":"Waimarama",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

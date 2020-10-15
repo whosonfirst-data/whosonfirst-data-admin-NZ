@@ -17,6 +17,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.923805,
     "lbl:longitude":171.706949,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.923805,
     "mps:longitude":171.706949,
     "mz:hierarchy_label":0,
@@ -69,10 +70,10 @@
     "src:population":"geonames",
     "wof:belongs_to":[],
     "wof:belongsto":[
-        85687179,
         102191583,
         85633345,
-        102079371
+        102079371,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +99,15 @@
         }
     ],
     "wof:id":85773245,
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802946,
     "wof:name":"Tinwald",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

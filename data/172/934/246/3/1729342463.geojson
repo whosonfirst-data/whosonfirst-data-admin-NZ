@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.974796,
     "lbl:longitude":176.08132,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.974796,
     "mps:longitude":176.08132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ruamahuaiti Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"fdde67729aa344b00fb80d4ae65d5392",
     "wof:hierarchy":[],
     "wof:id":1729342463,
-    "wof:lastmodified":1602624765,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804224,
     "wof:name":"Ruamahuaiti Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

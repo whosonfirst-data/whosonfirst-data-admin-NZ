@@ -12,13 +12,14 @@
     "gn:latitude":-36.8382,
     "gn:longitude":174.60019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.641124,-36.843198,174.641124,-36.843198",
     "lbl:latitude":-36.863198,
     "lbl:longitude":174.621124,
     "lbl:max_zoom":18.0,
     "mps:latitude":-36.824676,
     "mps:longitude":174.575501,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,11 +60,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
+        102079403,
         101914257,
-        102079403
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,10 +89,15 @@
         }
     ],
     "wof:id":85779003,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316515,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802939,
     "wof:name":"Massey West",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

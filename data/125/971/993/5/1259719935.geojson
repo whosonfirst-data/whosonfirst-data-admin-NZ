@@ -104,6 +104,9 @@
         "wk:page":"Fox_Glacier"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"e3b527c7db968b92a4a8bef76dec33c3",
     "wof:hierarchy":[
         {
@@ -115,7 +118,15 @@
         }
     ],
     "wof:id":1259719935,
-    "wof:lastmodified":1602616408,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804451,
     "wof:name":"Fox Glacier",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",

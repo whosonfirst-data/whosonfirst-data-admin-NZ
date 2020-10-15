@@ -16,6 +16,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.896005,
     "lbl:longitude":171.768835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-43.895992,
     "mps:longitude":171.772016,
     "mz:hierarchy_label":0,
@@ -70,10 +71,10 @@
     "wd:wordcount":26,
     "wof:belongs_to":[],
     "wof:belongsto":[
-        85687179,
         102191583,
         85633345,
-        102079371
+        102079371,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,10 +98,15 @@
         }
     ],
     "wof:id":85781501,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316526,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802948,
     "wof:name":"Netherby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

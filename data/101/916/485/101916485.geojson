@@ -64,6 +64,9 @@
         "wd:id":"Q4805339"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c086de97b415740a72456f65122adf3",
     "wof:hierarchy":[
         {
@@ -75,10 +78,15 @@
         }
     ],
     "wof:id":101916485,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616498,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804374,
     "wof:name":"Ashley",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

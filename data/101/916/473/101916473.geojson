@@ -63,7 +63,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"eabc42435e72f832ad6887a4f76b0eb5",
     "wof:hierarchy":[
@@ -76,10 +77,15 @@
         }
     ],
     "wof:id":101916473,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616465,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804381,
     "wof:name":"Kimbolton",
     "wof:parent_id":102079303,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.178836,
     "lbl:longitude":175.324991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.178836,
     "mps:longitude":175.324991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Selwyn Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"cd562ef2e73c05dd7d5280a470a98aab",
     "wof:hierarchy":[],
     "wof:id":1729341863,
-    "wof:lastmodified":1602624751,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804210,
     "wof:name":"Selwyn Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

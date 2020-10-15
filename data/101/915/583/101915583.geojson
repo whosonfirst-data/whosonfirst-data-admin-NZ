@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.060701,
     "lbl:longitude":174.956603,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-37.060701,
     "mps:longitude":174.956603,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Papakura"
     ],
@@ -66,7 +68,15 @@
         }
     ],
     "wof:id":101915583,
-    "wof:lastmodified":1602626150,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803198,
     "wof:name":"Papakura",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

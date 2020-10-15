@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.187948,
     "lbl:longitude":176.281953,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.187948,
     "mps:longitude":176.281953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:arg_x_preferred":[
         "Whakarewarewa"
     ],
@@ -93,7 +96,15 @@
     "wof:geomhash":"c44a815b16b040b00467220bcb978a60",
     "wof:hierarchy":[],
     "wof:id":1729338155,
-    "wof:lastmodified":1602633706,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804300,
     "wof:name":"Whakarewarewa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

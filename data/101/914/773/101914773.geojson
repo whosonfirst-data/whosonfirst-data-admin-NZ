@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.658421,
     "lbl:longitude":175.146098,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-37.658421,
     "mps:longitude":175.146098,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Ng\u0101ruaw\u0101hia"
     ],
@@ -84,7 +86,15 @@
         }
     ],
     "wof:id":101914773,
-    "wof:lastmodified":1602626160,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803225,
     "wof:name":"Ngaruawahia",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

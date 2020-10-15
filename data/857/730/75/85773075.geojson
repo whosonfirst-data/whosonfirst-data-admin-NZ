@@ -87,8 +87,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"e12ff3c9f893c23732fe003ac7e0c9a8",
     "wof:hierarchy":[
@@ -102,10 +102,15 @@
         }
     ],
     "wof:id":85773075,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633705,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802939,
     "wof:name":"Ohinemutu",
     "wof:parent_id":101914629,
     "wof:placetype":"neighbourhood",

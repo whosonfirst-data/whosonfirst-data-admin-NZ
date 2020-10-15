@@ -74,7 +74,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b2c5e458ee1399a4b20115f6492ca583",
     "wof:hierarchy":[
@@ -87,10 +88,15 @@
         }
     ],
     "wof:id":101916655,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616336,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804382,
     "wof:name":"Blackball",
     "wof:parent_id":102079361,
     "wof:placetype":"locality",

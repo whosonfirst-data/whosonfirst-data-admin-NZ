@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.250205,
     "lbl:longitude":174.27228,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.250205,
     "mps:longitude":174.27228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "West Head"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"740513e7da7efb47a9c6bc8e7816fc0e",
     "wof:hierarchy":[],
     "wof:id":1729341185,
-    "wof:lastmodified":1602624749,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804208,
     "wof:name":"West Head",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

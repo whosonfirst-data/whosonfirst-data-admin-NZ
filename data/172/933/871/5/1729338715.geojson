@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.787836,
     "lbl:longitude":175.280931,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.787836,
     "mps:longitude":175.280931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hamilton Central"
     ],
@@ -63,7 +66,15 @@
     "wof:geomhash":"bcc5cda525d460f9e09183b44ecbcdde",
     "wof:hierarchy":[],
     "wof:id":1729338715,
-    "wof:lastmodified":1602633720,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804301,
     "wof:name":"Hamilton Central",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

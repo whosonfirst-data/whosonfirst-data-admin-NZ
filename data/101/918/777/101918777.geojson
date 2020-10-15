@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.628995,
     "lbl:longitude":176.871836,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-39.628995,
     "mps:longitude":176.871836,
     "mz:hierarchy_label":0,
@@ -157,7 +158,15 @@
         }
     ],
     "wof:id":101918777,
-    "wof:lastmodified":1602626175,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803252,
     "wof:name":"Hastings",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.376898,
     "lbl:longitude":175.663751,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.376898,
     "mps:longitude":175.663751,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Paeroa"
     ],
@@ -74,10 +77,15 @@
         }
     ],
     "wof:id":101914779,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602626156,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803212,
     "wof:name":"Paeroa",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

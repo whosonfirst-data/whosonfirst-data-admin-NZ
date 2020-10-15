@@ -74,10 +74,10 @@
     "wd:longitude":-3.56,
     "wd:wordcount":69,
     "wof:belongsto":[
-        85687229,
         102191583,
         85633345,
-        102079277
+        102079277,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,10 +101,15 @@
         }
     ],
     "wof:id":85780831,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316529,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802951,
     "wof:name":"Amisfield",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

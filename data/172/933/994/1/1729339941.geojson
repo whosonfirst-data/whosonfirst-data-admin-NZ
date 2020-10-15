@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.174887,
     "lbl:longitude":174.116566,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.174887,
     "mps:longitude":174.116566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Howe Rock"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"1e0992e6f5f1f9e1f1aebba6215e8e6b",
     "wof:hierarchy":[],
     "wof:id":1729339941,
-    "wof:lastmodified":1602624834,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804294,
     "wof:name":"Howe Rock",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

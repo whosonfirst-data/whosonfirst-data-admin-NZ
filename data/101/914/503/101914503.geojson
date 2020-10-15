@@ -75,6 +75,9 @@
         "wk:page":"Mataura"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bffc58c6417578a28461bfa0eeff9cc3",
     "wof:hierarchy":[
         {
@@ -86,10 +89,15 @@
         }
     ],
     "wof:id":101914503,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616504,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804354,
     "wof:name":"Mataura",
     "wof:parent_id":102079393,
     "wof:placetype":"locality",

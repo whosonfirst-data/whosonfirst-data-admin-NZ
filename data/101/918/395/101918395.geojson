@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.081234,
     "lbl:longitude":177.874428,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.081234,
     "mps:longitude":177.874428,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mahia Beach"
     ],
@@ -57,7 +60,15 @@
         }
     ],
     "wof:id":101918395,
-    "wof:lastmodified":1602626176,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803253,
     "wof:name":"Mahia Beach",
     "wof:parent_id":102079327,
     "wof:placetype":"locality",

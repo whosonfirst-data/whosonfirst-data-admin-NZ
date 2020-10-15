@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.044896,
     "lbl:longitude":168.566633,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.044896,
     "mps:longitude":168.566633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Closeburn"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"ce6dc3158addd02e187d3f1039ab5438",
     "wof:hierarchy":[],
     "wof:id":1729341265,
-    "wof:lastmodified":1602624752,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804212,
     "wof:name":"Closeburn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

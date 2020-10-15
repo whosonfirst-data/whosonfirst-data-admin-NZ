@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.684473,
     "lbl:longitude":173.089315,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.684473,
     "mps:longitude":173.089315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Sail Rocks"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"c6c6c82e1732817a6181e94cc8a5945f",
     "wof:hierarchy":[],
     "wof:id":1729342927,
-    "wof:lastmodified":1602624733,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804192,
     "wof:name":"Sail Rocks",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

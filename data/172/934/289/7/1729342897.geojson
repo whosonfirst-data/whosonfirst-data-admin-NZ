@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.37562,
     "lbl:longitude":178.344858,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.37562,
     "mps:longitude":178.344858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mitre Rocks"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"f6725110a886d3bd83812bfeae58f5c4",
     "wof:hierarchy":[],
     "wof:id":1729342897,
-    "wof:lastmodified":1602624727,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804186,
     "wof:name":"Mitre Rocks",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

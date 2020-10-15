@@ -73,7 +73,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"bf5a1429fe0584ee0287ebf36cbd17a4",
     "wof:hierarchy":[
@@ -86,10 +87,15 @@
         }
     ],
     "wof:id":101916353,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616511,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804374,
     "wof:name":"Okato",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

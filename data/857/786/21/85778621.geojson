@@ -93,8 +93,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"65adbed09706a92eff424a9c6755b4ec",
     "wof:hierarchy":[
@@ -108,10 +108,15 @@
         }
     ],
     "wof:id":85778621,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633718,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802952,
     "wof:name":"Somerfield",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

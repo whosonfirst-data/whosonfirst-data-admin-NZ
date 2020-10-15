@@ -311,6 +311,9 @@
         1729238597
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b89826433146d2d5a6c87f0a582cc519",
     "wof:hierarchy":[
         {
@@ -322,10 +325,15 @@
         }
     ],
     "wof:id":101914809,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713674,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805020,
     "wof:name":"Upper Hutt",
     "wof:parent_id":102079335,
     "wof:placetype":"locality",

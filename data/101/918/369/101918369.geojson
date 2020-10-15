@@ -13,6 +13,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.999505,
     "lbl:longitude":175.802863,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-38.999505,
     "mps:longitude":175.802863,
     "mz:hierarchy_label":0,
@@ -155,7 +157,15 @@
         }
     ],
     "wof:id":101918369,
-    "wof:lastmodified":1602626176,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803253,
     "wof:name":"Turangi",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

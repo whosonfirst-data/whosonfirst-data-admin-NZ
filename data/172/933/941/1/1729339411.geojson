@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.820399,
     "lbl:longitude":173.112553,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.820399,
     "mps:longitude":173.112553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Lowry Hills Range"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"8e7e7f82ad91cd68db4f72882a6d83c0",
     "wof:hierarchy":[],
     "wof:id":1729339411,
-    "wof:lastmodified":1602624818,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804278,
     "wof:name":"Lowry Hills Range",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

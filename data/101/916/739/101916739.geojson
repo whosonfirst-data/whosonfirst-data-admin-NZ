@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.763188,
     "lbl:longitude":174.689636,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.763188,
     "mps:longitude":174.689636,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Wainoni"
     ],
@@ -56,7 +59,15 @@
         }
     ],
     "wof:id":101916739,
-    "wof:lastmodified":1602626161,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803228,
     "wof:name":"Wainoni",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

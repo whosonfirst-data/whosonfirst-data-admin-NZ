@@ -83,8 +83,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"3f5002e71efb2d6cab405792f16ef24f",
     "wof:hierarchy":[
@@ -98,10 +98,15 @@
         }
     ],
     "wof:id":85778169,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633691,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802951,
     "wof:name":"Bishopdale",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

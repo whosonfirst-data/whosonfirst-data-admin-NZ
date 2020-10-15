@@ -78,8 +78,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"00fca40d2a7840b1a1dafb9163b4c885",
     "wof:hierarchy":[
@@ -93,10 +93,15 @@
         }
     ],
     "wof:id":85778435,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633695,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802945,
     "wof:name":"M\u0101ngere Bridge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

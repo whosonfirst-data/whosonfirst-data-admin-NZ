@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.81286,
     "lbl:longitude":173.279076,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-42.81286,
     "mps:longitude":173.279076,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Cheviot"
     ],
@@ -67,7 +70,15 @@
         }
     ],
     "wof:id":101917643,
-    "wof:lastmodified":1602626182,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803260,
     "wof:name":"Cheviot",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

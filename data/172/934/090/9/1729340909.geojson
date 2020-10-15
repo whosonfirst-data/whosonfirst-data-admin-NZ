@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.451544,
     "lbl:longitude":175.184992,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.451544,
     "mps:longitude":175.184992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Motunuia Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"f5c14041625a086d550c70233216c02f",
     "wof:hierarchy":[],
     "wof:id":1729340909,
-    "wof:lastmodified":1602624738,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804197,
     "wof:name":"Motunuia Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

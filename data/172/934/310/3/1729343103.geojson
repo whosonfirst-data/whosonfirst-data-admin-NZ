@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.706324,
     "lbl:longitude":172.752162,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.706324,
     "mps:longitude":172.752162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mount Culverden"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"9c275e2ce18a9fb6646e129a06fa436c",
     "wof:hierarchy":[],
     "wof:id":1729343103,
-    "wof:lastmodified":1602624789,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804249,
     "wof:name":"Mount Culverden",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

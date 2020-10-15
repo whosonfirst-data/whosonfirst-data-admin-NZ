@@ -87,7 +87,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"df7a681ec186c5499ec3ba7e0ba8f84e",
     "wof:hierarchy":[
@@ -100,10 +101,15 @@
         }
     ],
     "wof:id":101915179,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616518,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804351,
     "wof:name":"Cromwell",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.939429,
     "lbl:longitude":175.681059,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.939429,
     "mps:longitude":175.681059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09a8\u09cd\u09b8\u09a6\u09cb\u09f1\u09a8\u09c7"
     ],
@@ -93,7 +96,15 @@
     "wof:geomhash":"2a0a163ee8b177efa1c6220b8ec70dea",
     "wof:hierarchy":[],
     "wof:id":1729337837,
-    "wof:lastmodified":1602633695,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804285,
     "wof:name":"Lansdowne",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

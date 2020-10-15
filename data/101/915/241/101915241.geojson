@@ -74,7 +74,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"ef8e4a32747b347e184d28d586ad06a4",
     "wof:hierarchy":[
@@ -87,10 +88,15 @@
         }
     ],
     "wof:id":101915241,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616506,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804346,
     "wof:name":"Taneatua",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

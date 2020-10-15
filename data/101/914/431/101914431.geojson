@@ -69,6 +69,9 @@
         "wk:page":"Balfour, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"830837a49e82a81ae96db555611dce6a",
     "wof:hierarchy":[
         {
@@ -80,10 +83,15 @@
         }
     ],
     "wof:id":101914431,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616374,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804359,
     "wof:name":"Balfour",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

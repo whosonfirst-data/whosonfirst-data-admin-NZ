@@ -75,8 +75,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"6aa5b0d81a95c3cc3c3c28c321c26a96",
     "wof:hierarchy":[
@@ -90,10 +90,15 @@
         }
     ],
     "wof:id":85778867,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633708,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802951,
     "wof:name":"Otahuhu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

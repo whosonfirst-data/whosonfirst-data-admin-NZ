@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.115667,
     "lbl:longitude":166.626466,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.115667,
     "mps:longitude":166.626466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Coal Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"8f6d91e0614c4f84c3ca8df5cb85c462",
     "wof:hierarchy":[],
     "wof:id":1729339955,
-    "wof:lastmodified":1602624828,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804289,
     "wof:name":"Coal Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

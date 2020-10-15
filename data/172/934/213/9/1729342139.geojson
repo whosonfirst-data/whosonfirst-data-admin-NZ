@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.385767,
     "lbl:longitude":174.372024,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.385767,
     "mps:longitude":174.372024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Henry Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"e68902665bf49e9726c80d1b2862ca0c",
     "wof:hierarchy":[],
     "wof:id":1729342139,
-    "wof:lastmodified":1602624771,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804231,
     "wof:name":"Henry Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

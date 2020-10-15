@@ -78,8 +78,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d22ad61b31e5b5df23093306f1602db0",
     "wof:hierarchy":[
@@ -93,10 +93,15 @@
         }
     ],
     "wof:id":85781083,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633697,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802942,
     "wof:name":"Pukete",
     "wof:parent_id":101914271,
     "wof:placetype":"neighbourhood",

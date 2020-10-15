@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.941903,
     "lbl:longitude":176.585313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.941903,
     "mps:longitude":176.585313,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Waipawa"
     ],
@@ -60,10 +63,15 @@
         }
     ],
     "wof:id":101916481,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602626168,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803240,
     "wof:name":"Waipawa",
     "wof:parent_id":102079333,
     "wof:placetype":"locality",

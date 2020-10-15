@@ -80,7 +80,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c0307e37d962eb88b2132fb555758bc3",
     "wof:hierarchy":[
@@ -93,10 +94,15 @@
         }
     ],
     "wof:id":101916401,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616427,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804375,
     "wof:name":"Kawhia",
     "wof:parent_id":102079275,
     "wof:placetype":"locality",

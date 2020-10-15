@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.216877,
     "lbl:longitude":174.910241,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.216877,
     "mps:longitude":174.910241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Woburn"
     ],
@@ -80,7 +83,15 @@
     "wof:geomhash":"1dd61dd76dbe740c7f4fcee35908492b",
     "wof:hierarchy":[],
     "wof:id":1729339031,
-    "wof:lastmodified":1602633729,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804292,
     "wof:name":"Woburn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

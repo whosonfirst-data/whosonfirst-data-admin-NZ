@@ -130,8 +130,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"9c260cd93df10c41125efea166162a87",
     "wof:hierarchy":[
@@ -145,10 +145,15 @@
         }
     ],
     "wof:id":85772845,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633725,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802952,
     "wof:name":"Bromley",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

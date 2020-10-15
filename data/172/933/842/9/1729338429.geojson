@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.92445,
     "lbl:longitude":174.755666,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.92445,
     "mps:longitude":174.755666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0425\u0456\u043b\u0441\u0431\u0430\u0440\u0430"
     ],
@@ -93,7 +96,15 @@
     "wof:geomhash":"8e362d83cf40902c1fd82a632bdd9573",
     "wof:hierarchy":[],
     "wof:id":1729338429,
-    "wof:lastmodified":1602633713,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804264,
     "wof:name":"Hillsborough",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

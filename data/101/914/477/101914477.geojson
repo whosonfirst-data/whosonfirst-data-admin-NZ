@@ -63,7 +63,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"ce1e1bee37c55bb1c363605abbc40570",
     "wof:hierarchy":[
@@ -76,7 +77,15 @@
         }
     ],
     "wof:id":101914477,
-    "wof:lastmodified":1602616428,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804356,
     "wof:name":"Kinloch",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

@@ -60,6 +60,9 @@
         "nz-linz:id":1159
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cb5d6d6373d16d71689fb4f5a9ec883e",
     "wof:hierarchy":[
         {
@@ -71,10 +74,15 @@
         }
     ],
     "wof:id":101914753,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616457,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804353,
     "wof:name":"Otatara",
     "wof:parent_id":102079397,
     "wof:placetype":"locality",

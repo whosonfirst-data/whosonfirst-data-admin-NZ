@@ -78,6 +78,9 @@
         "wk:page":"Pauanui"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"90d2e3cf1c28ba076580959a24ef8cf8",
     "wof:hierarchy":[
         {
@@ -89,10 +92,15 @@
         }
     ],
     "wof:id":101914277,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804364,
     "wof:name":"Pauanui",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

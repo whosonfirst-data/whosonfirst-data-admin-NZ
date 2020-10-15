@@ -208,6 +208,9 @@
         "nz-linz:id":50
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"3da4cb3ff991b7aa81a4d2d30c412aa6",
     "wof:hierarchy":[
         {
@@ -219,7 +222,15 @@
         }
     ],
     "wof:id":1243101257,
-    "wof:lastmodified":1602616373,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804449,
     "wof:name":"Aria",
     "wof:parent_id":102079279,
     "wof:placetype":"locality",

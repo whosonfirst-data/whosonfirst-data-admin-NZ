@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.088573,
     "lbl:longitude":176.754689,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.088573,
     "mps:longitude":176.754689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Putauaki"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"0d3bebe88e5887d72d5da1e70c25d9aa",
     "wof:hierarchy":[],
     "wof:id":1729339781,
-    "wof:lastmodified":1602624822,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804282,
     "wof:name":"Putauaki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

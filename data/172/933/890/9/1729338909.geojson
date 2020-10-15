@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.585587,
     "lbl:longitude":172.616738,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.585587,
     "mps:longitude":172.616738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Cracroft"
     ],
@@ -62,7 +65,15 @@
     "wof:geomhash":"c97d8f8f47fa79bf210db36ae60241c5",
     "wof:hierarchy":[],
     "wof:id":1729338909,
-    "wof:lastmodified":1602633726,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804310,
     "wof:name":"Cracroft",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -78,7 +78,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"cd7f29a13ba7a871140cc8da0af3316e",
     "wof:hierarchy":[
@@ -91,10 +92,15 @@
         }
     ],
     "wof:id":101916001,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616518,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804377,
     "wof:name":"Renwick",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

@@ -64,6 +64,9 @@
         1729238433
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"56123c763ddd6c6fbb72adc437983bf6",
     "wof:hierarchy":[
         {
@@ -75,10 +78,15 @@
         }
     ],
     "wof:id":101914273,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713671,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805015,
     "wof:name":"Hector",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

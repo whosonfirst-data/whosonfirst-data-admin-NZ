@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.905717,
     "lbl:longitude":171.983366,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.905717,
     "mps:longitude":171.983366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Pendarves"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"517864f96cc1b6495cdb128de2f4995c",
     "wof:hierarchy":[],
     "wof:id":1729339495,
-    "wof:lastmodified":1602624823,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804283,
     "wof:name":"Pendarves",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

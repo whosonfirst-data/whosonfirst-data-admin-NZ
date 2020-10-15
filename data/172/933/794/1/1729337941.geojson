@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.387085,
     "lbl:longitude":168.36633,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.387085,
     "mps:longitude":168.36633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Rosedale"
     ],
@@ -97,7 +100,15 @@
     "wof:geomhash":"eb1b53ca9886e38fa16052aad38671c8",
     "wof:hierarchy":[],
     "wof:id":1729337941,
-    "wof:lastmodified":1602633698,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804291,
     "wof:name":"Rosedale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -111,8 +111,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"51d4309ac1b0dab4d59ba6acdcdaec68",
     "wof:hierarchy":[
@@ -126,10 +126,15 @@
         }
     ],
     "wof:id":85780821,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633710,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802951,
     "wof:name":"Alfriston",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

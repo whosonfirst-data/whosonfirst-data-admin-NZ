@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.004776,
     "lbl:longitude":167.131678,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.004776,
     "mps:longitude":167.131678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Styles Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"7df3f6462c4736f3737bf02e4b4a2044",
     "wof:hierarchy":[],
     "wof:id":1729342561,
-    "wof:lastmodified":1602624738,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804198,
     "wof:name":"Styles Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

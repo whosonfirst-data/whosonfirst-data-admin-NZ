@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.114575,
     "lbl:longitude":170.972949,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-45.114575,
     "mps:longitude":170.972949,
     "mz:hierarchy_label":0,
@@ -155,7 +156,15 @@
         }
     ],
     "wof:id":101918649,
-    "wof:lastmodified":1602626177,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803254,
     "wof:name":"Oamaru",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

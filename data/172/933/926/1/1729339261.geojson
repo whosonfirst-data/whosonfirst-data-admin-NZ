@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.262884,
     "lbl:longitude":169.733276,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.262884,
     "mps:longitude":169.733276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Finegand"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"7a62618ac64b3b8d8313b06f9c863838",
     "wof:hierarchy":[],
     "wof:id":1729339261,
-    "wof:lastmodified":1602624857,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804318,
     "wof:name":"Finegand",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

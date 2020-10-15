@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.915215,
     "lbl:longitude":168.586024,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-44.915215,
     "mps:longitude":168.586024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Moonlight"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"7fced05079a27a6cf05bc8ada129d5bc",
     "wof:hierarchy":[],
     "wof:id":1729341341,
-    "wof:lastmodified":1602624721,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804181,
     "wof:name":"Moonlight",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

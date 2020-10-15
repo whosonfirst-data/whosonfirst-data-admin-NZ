@@ -90,7 +90,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"a7ae7d7d4281c6246577d61c9bf35209",
     "wof:hierarchy":[
@@ -103,7 +104,15 @@
         }
     ],
     "wof:id":101914625,
-    "wof:lastmodified":1602633730,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804365,
     "wof:name":"Manurewa",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

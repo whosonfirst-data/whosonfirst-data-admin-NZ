@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.516076,
     "lbl:longitude":172.615832,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.516076,
     "mps:longitude":172.615832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0438\u0432\u0430\u043b\u0435"
     ],
@@ -73,7 +76,15 @@
     "wof:geomhash":"cbcf282e724224287ef2f46de396a822",
     "wof:hierarchy":[],
     "wof:id":1729338269,
-    "wof:lastmodified":1602633710,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804268,
     "wof:name":"Merivale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

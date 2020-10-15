@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.468002,
     "lbl:longitude":177.866648,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-38.468002,
     "mps:longitude":177.866648,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Te Karaka"
     ],
@@ -67,7 +70,15 @@
         }
     ],
     "wof:id":101918807,
-    "wof:lastmodified":1602626178,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803255,
     "wof:name":"Te Karaka",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",

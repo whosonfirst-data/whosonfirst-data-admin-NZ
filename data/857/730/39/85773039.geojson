@@ -292,8 +292,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"454bbd16fa5b883f99059bf0877eda13",
     "wof:hierarchy":[
@@ -307,10 +307,15 @@
         }
     ],
     "wof:id":85773039,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633733,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802939,
     "wof:name":"Mount Maunganui",
     "wof:parent_id":101915581,
     "wof:placetype":"neighbourhood",

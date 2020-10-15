@@ -59,7 +59,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"e391bad5119a0e16875be06fdfac5e62",
     "wof:hierarchy":[
@@ -72,7 +73,15 @@
         }
     ],
     "wof:id":101916863,
-    "wof:lastmodified":1602616488,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804384,
     "wof:name":"Matapouri",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

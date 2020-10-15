@@ -18,7 +18,7 @@
     "mps:latitude":-35.81523,
     "mps:longitude":174.500646,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -73,8 +73,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"378ea1bd5fd79eeef348b0113cba712a",
     "wof:hierarchy":[
@@ -87,10 +87,15 @@
         }
     ],
     "wof:id":85782023,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316517,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"McLeod Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

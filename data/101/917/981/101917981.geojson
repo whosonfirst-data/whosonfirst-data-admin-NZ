@@ -65,6 +65,9 @@
         "wd:id":"Q4887863"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb2e6113bdafa30b2985cc5022ad39a0",
     "wof:hierarchy":[
         {
@@ -76,10 +79,15 @@
         }
     ],
     "wof:id":101917981,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616408,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804391,
     "wof:name":"Benhar",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

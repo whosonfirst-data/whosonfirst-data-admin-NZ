@@ -56,6 +56,9 @@
         "wd:id":"Q7690853"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"673c3f07b50a825974db9de7e060c1d8",
     "wof:hierarchy":[
         {
@@ -67,10 +70,15 @@
         }
     ],
     "wof:id":101914861,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616404,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804357,
     "wof:name":"Te Kowhai",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

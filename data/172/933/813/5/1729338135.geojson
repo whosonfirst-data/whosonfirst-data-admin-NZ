@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.570918,
     "lbl:longitude":172.651913,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.570918,
     "mps:longitude":172.651913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Huntsbury"
     ],
@@ -67,7 +70,15 @@
     "wof:geomhash":"4c37fa2f85d34cef04ff79275a65c494",
     "wof:hierarchy":[],
     "wof:id":1729338135,
-    "wof:lastmodified":1602633705,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804303,
     "wof:name":"Huntsbury",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

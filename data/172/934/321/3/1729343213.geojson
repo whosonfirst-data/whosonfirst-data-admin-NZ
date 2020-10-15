@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.524828,
     "lbl:longitude":175.805034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.524828,
     "mps:longitude":175.805034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kaimai-Mamaku Forest Park"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"645a6288a5994cf9f61783033403ee2b",
     "wof:hierarchy":[],
     "wof:id":1729343213,
-    "wof:lastmodified":1602711817,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804252,
     "wof:name":"Kaimai-Mamaku Forest Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

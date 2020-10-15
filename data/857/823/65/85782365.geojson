@@ -75,8 +75,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"0dc7665a1a1ad496f13612ef15a1493a",
     "wof:hierarchy":[
@@ -90,10 +90,15 @@
         }
     ],
     "wof:id":85782365,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633711,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802946,
     "wof:name":"Bucklands Beach",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

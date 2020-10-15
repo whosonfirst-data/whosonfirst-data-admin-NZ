@@ -18,7 +18,7 @@
     "mps:latitude":-36.862164,
     "mps:longitude":174.629029,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -215,10 +215,10 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -227,8 +227,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"83318caf74cfb7cc682ce66f022aa2de",
     "wof:hierarchy":[
@@ -242,10 +242,15 @@
         }
     ],
     "wof:id":85782431,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316525,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802947,
     "wof:name":"Lincoln",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

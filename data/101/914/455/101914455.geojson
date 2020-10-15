@@ -90,7 +90,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"14ec6605989c973e1cf16bf4e88bf51b",
     "wof:hierarchy":[
@@ -103,10 +104,15 @@
         }
     ],
     "wof:id":101914455,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713664,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805016,
     "wof:name":"Mapua",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

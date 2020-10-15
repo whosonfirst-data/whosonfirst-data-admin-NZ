@@ -72,7 +72,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"4979b6ea7173b624b6515827dedbf59c",
     "wof:hierarchy":[
@@ -85,10 +86,15 @@
         }
     ],
     "wof:id":101916365,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616500,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804373,
     "wof:name":"National Park",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

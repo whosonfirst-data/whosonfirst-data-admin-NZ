@@ -83,7 +83,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"0d3d451bd6e7d66b2fc547954c96840c",
     "wof:hierarchy":[
@@ -96,7 +97,15 @@
         }
     ],
     "wof:id":101915761,
-    "wof:lastmodified":1602616516,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804346,
     "wof:name":"Palmerston",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

@@ -55,7 +55,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"8b3f74925b3ac510b0c64b4e0b8c641f",
     "wof:hierarchy":[
@@ -68,7 +69,15 @@
         }
     ],
     "wof:id":101915803,
-    "wof:lastmodified":1602616476,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804341,
     "wof:name":"Waikawa Beach",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

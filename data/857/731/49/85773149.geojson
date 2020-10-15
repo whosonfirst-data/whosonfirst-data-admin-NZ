@@ -19,7 +19,7 @@
     "mps:latitude":-35.515614,
     "mps:longitude":173.361038,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,10 +59,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687149,
         102191583,
         85633345,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,10 +87,15 @@
         }
     ],
     "wof:id":85773149,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316517,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802940,
     "wof:name":"Rangi Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.115373,
     "lbl:longitude":173.267034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.115373,
     "mps:longitude":173.267034,
     "mz:hierarchy_label":0,
@@ -154,7 +156,15 @@
         }
     ],
     "wof:id":101917865,
-    "wof:lastmodified":1602626189,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803269,
     "wof:name":"Kaitaia",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

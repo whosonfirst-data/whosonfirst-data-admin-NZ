@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.65457,
     "lbl:longitude":178.005374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.65457,
     "mps:longitude":178.005374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Te Hapara"
     ],
@@ -39,7 +42,15 @@
     "wof:geomhash":"6f48481b0f294937a1e21943a65a5c3f",
     "wof:hierarchy":[],
     "wof:id":1729338663,
-    "wof:lastmodified":1602633719,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804270,
     "wof:name":"Te Hapara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.715422,
     "lbl:longitude":176.136546,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.715422,
     "mps:longitude":176.136546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Gate Pa"
     ],
@@ -39,7 +42,15 @@
     "wof:geomhash":"53798fa3099f032eb27427a5566c8891",
     "wof:hierarchy":[],
     "wof:id":1729338391,
-    "wof:lastmodified":1602633712,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804308,
     "wof:name":"Gate Pa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

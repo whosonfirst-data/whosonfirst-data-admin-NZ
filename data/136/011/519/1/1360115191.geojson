@@ -101,6 +101,9 @@
         "wk:page":"Mission_Bay%2C_New_Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"7d970d5cc5eeffdf57604c0d21a7d2ae",
     "wof:hierarchy":[
         {
@@ -112,7 +115,15 @@
         }
     ],
     "wof:id":1360115191,
-    "wof:lastmodified":1602696235,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804336,
     "wof:name":"Mission Bay",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

@@ -80,8 +80,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"911bc964dc28bd24bc69c8b6279539e9",
     "wof:hierarchy":[
@@ -95,10 +95,15 @@
         }
     ],
     "wof:id":85782001,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633724,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Army Bay",
     "wof:parent_id":101914559,
     "wof:placetype":"neighbourhood",

@@ -82,6 +82,9 @@
         1729238579
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"43ed91b0a239fb2ad6ea4d310b08fa2a",
     "wof:hierarchy":[
         {
@@ -93,10 +96,15 @@
         }
     ],
     "wof:id":101915387,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713681,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805014,
     "wof:name":"Wakefield",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

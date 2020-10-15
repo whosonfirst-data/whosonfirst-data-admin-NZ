@@ -16,6 +16,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.305445,
     "lbl:longitude":173.217313,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.304197,
     "mps:longitude":173.203872,
     "mz:hierarchy_label":0,
@@ -89,10 +90,15 @@
         }
     ],
     "wof:id":85781575,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316526,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802948,
     "wof:name":"Monaco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

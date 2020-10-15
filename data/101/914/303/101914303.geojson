@@ -70,6 +70,9 @@
         "wd:id":"Q913407"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"369f8ab3fc87f064255add16074a5db8",
     "wof:hierarchy":[
         {
@@ -81,10 +84,15 @@
         }
     ],
     "wof:id":101914303,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616518,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804362,
     "wof:name":"Kaitangata",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

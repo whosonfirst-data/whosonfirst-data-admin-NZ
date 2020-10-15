@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.250745,
     "lbl:longitude":175.049524,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.250745,
     "mps:longitude":175.049524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Waitomo"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"29ac3f75a39bbff431ae81767a71039b",
     "wof:hierarchy":[],
     "wof:id":1729341129,
-    "wof:lastmodified":1602624780,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804240,
     "wof:name":"Waitomo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

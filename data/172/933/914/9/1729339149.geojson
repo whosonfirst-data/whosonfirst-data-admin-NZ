@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.740132,
     "lbl:longitude":176.094651,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.740132,
     "mps:longitude":176.094651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Tauriko"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"fdf6b5cb4eb08dade0ee09429bbd78cf",
     "wof:hierarchy":[],
     "wof:id":1729339149,
-    "wof:lastmodified":1602624826,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804287,
     "wof:name":"Tauriko",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

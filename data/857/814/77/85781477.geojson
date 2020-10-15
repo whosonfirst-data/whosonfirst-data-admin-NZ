@@ -150,8 +150,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"695466a81c3ec2d74dc28e4ea63661d4",
     "wof:hierarchy":[
@@ -165,10 +165,15 @@
         }
     ],
     "wof:id":85781477,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633709,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802949,
     "wof:name":"Islington",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

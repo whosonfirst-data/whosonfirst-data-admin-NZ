@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-34.755868,
     "lbl:longitude":173.155393,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.755868,
     "mps:longitude":173.155393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Simmonds Islands"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"ac6ffb29027cd3b8493bf6bd44409117",
     "wof:hierarchy":[],
     "wof:id":1729342911,
-    "wof:lastmodified":1602624775,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804234,
     "wof:name":"Simmonds Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

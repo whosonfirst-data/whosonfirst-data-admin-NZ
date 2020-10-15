@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.374628,
     "lbl:longitude":172.651074,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-43.374628,
     "mps:longitude":172.651074,
     "mz:hierarchy_label":0,
@@ -154,7 +155,15 @@
         }
     ],
     "wof:id":101917177,
-    "wof:lastmodified":1602626190,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803271,
     "wof:name":"Kaiapoi",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.373518,
     "lbl:longitude":173.105211,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-41.373518,
     "mps:longitude":173.105211,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Brightwater"
     ],
@@ -68,10 +71,15 @@
         }
     ],
     "wof:id":101916379,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602626165,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803234,
     "wof:name":"Brightwater",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

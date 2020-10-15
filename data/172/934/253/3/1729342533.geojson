@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.881786,
     "lbl:longitude":174.141067,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.881786,
     "mps:longitude":174.141067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Sentinel Rock"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"fd22ee10e12521396cdadafe84283e76",
     "wof:hierarchy":[],
     "wof:id":1729342533,
-    "wof:lastmodified":1602624773,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804232,
     "wof:name":"Sentinel Rock",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

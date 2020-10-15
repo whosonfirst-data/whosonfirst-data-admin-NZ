@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.059338,
     "lbl:longitude":173.933864,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.059338,
     "mps:longitude":173.933864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Motu Otamakupa Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"8f52bba528d9877385494e32e6e895a2",
     "wof:hierarchy":[],
     "wof:id":1729341993,
-    "wof:lastmodified":1602624759,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804219,
     "wof:name":"Motu Otamakupa Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

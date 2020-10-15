@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.860622,
     "lbl:longitude":174.872463,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.860622,
     "mps:longitude":174.872463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Glendowie"
     ],
@@ -60,7 +63,15 @@
     "wof:geomhash":"0f20e2cd474df5d8ef56ac6c7cc72732",
     "wof:hierarchy":[],
     "wof:id":1729338845,
-    "wof:lastmodified":1602696235,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804298,
     "wof:name":"Glendowie",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

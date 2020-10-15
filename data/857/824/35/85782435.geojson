@@ -18,7 +18,7 @@
     "mps:latitude":-41.209343,
     "mps:longitude":174.915449,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -144,10 +144,10 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687233,
         102191583,
         85633345,
-        102079337
+        102079337,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,10 +171,15 @@
         }
     ],
     "wof:id":85782435,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802947,
     "wof:name":"Lower Hutt",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

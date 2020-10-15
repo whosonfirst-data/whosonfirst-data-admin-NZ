@@ -76,7 +76,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"28b3dae0f8a53e53156a73c5cea81bcc",
     "wof:hierarchy":[
@@ -89,10 +90,15 @@
         }
     ],
     "wof:id":101916017,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616515,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804381,
     "wof:name":"Otautau",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.575089,
     "lbl:longitude":172.346192,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.575089,
     "mps:longitude":172.346192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Doubtful Range"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"6563356906b261e5f2d190947100b7f5",
     "wof:hierarchy":[],
     "wof:id":1729341273,
-    "wof:lastmodified":1602624749,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804209,
     "wof:name":"Doubtful Range",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-34.966373,
     "lbl:longitude":173.936689,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.966373,
     "mps:longitude":173.936689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "True Love Reef"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"185a44fa551fc06c39bec89dbda6ab72",
     "wof:hierarchy":[],
     "wof:id":1729342697,
-    "wof:lastmodified":1602624738,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804198,
     "wof:name":"True Love Reef",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

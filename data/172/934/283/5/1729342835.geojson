@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.081716,
     "lbl:longitude":168.305576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-44.081716,
     "mps:longitude":168.305576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Barn Islands"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"f62de1ba6f525508433d5bc1317251e2",
     "wof:hierarchy":[],
     "wof:id":1729342835,
-    "wof:lastmodified":1602624764,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804223,
     "wof:name":"Barn Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

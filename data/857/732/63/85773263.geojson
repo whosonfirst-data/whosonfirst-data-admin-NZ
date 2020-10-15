@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.135718,
     "lbl:longitude":175.04597,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.143394,
     "mps:longitude":175.043015,
     "mz:hierarchy_label":0,
@@ -64,10 +65,10 @@
     "wd:wordcount":49,
     "wof:belongs_to":[],
     "wof:belongsto":[
-        85687233,
         102191583,
         85633345,
-        102079335
+        102079335,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,10 +93,15 @@
         }
     ],
     "wof:id":85773263,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802946,
     "wof:name":"Trentham",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

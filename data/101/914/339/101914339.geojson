@@ -57,6 +57,9 @@
         "nz-linz:id":1768
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3c3998bdada07f021b0c8fd6f0d7ac8",
     "wof:hierarchy":[
         {
@@ -68,10 +71,15 @@
         }
     ],
     "wof:id":101914339,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616466,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804354,
     "wof:name":"Waianiwa",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

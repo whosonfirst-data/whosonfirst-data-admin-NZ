@@ -81,8 +81,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"6c69f95d2ad1740ed26e3a8454a0894b",
     "wof:hierarchy":[
@@ -96,10 +96,15 @@
         }
     ],
     "wof:id":85773341,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633721,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802946,
     "wof:name":"Wigram",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

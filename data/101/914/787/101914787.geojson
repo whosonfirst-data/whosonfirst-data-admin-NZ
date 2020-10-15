@@ -58,6 +58,9 @@
         "wk:page":"Ostend, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a05c2c8d5abf70e6e12dcf79c020ddcb",
     "wof:hierarchy":[
         {
@@ -69,7 +72,15 @@
         }
     ],
     "wof:id":101914787,
-    "wof:lastmodified":1602616348,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804372,
     "wof:name":"Ostend",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

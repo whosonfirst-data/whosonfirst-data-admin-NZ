@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-34.920159,
     "lbl:longitude":173.518369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.920159,
     "mps:longitude":173.518369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Albert Reef"
     ],
@@ -32,7 +35,15 @@
     "wof:geomhash":"61b65521fdbf652f880b9bd16ce2295d",
     "wof:hierarchy":[],
     "wof:id":1729342833,
-    "wof:lastmodified":1602624764,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804223,
     "wof:name":"Albert Reef",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

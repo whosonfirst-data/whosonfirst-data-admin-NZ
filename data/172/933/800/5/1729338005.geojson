@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.653972,
     "lbl:longitude":178.037208,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.653972,
     "mps:longitude":178.037208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Whataupoko"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"576bfeb09525af0aab0b2b34592b93d9",
     "wof:hierarchy":[],
     "wof:id":1729338005,
-    "wof:lastmodified":1602624844,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804304,
     "wof:name":"Whataupoko",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.002006,
     "lbl:longitude":174.900521,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.002006,
     "mps:longitude":174.900521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Totara Heights"
     ],
@@ -77,7 +80,15 @@
     "wof:geomhash":"478a98b0581739228c1fc2ae1a847e40",
     "wof:hierarchy":[],
     "wof:id":1729338911,
-    "wof:lastmodified":1602633726,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804306,
     "wof:name":"Totara Heights",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

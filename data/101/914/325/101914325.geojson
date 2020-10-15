@@ -254,6 +254,9 @@
         1729238603
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97c0010ca7450085056c8d50c99d8614",
     "wof:hierarchy":[
         {
@@ -265,10 +268,15 @@
         }
     ],
     "wof:id":101914325,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713684,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805018,
     "wof:name":"Tauranga",
     "wof:parent_id":102079285,
     "wof:placetype":"locality",

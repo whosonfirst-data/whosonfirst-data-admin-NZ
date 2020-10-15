@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.778033,
     "lbl:longitude":166.540179,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.778033,
     "mps:longitude":166.540179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Nomans Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"8f93beb9ad77b0393f559fe3361096ef",
     "wof:hierarchy":[],
     "wof:id":1729342245,
-    "wof:lastmodified":1602624766,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804226,
     "wof:name":"Nomans Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

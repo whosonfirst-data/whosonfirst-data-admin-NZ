@@ -81,7 +81,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"fb146eba6981ce635d0690f1cef13dc6",
     "wof:hierarchy":[
@@ -94,10 +95,15 @@
         }
     ],
     "wof:id":101916241,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713671,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805023,
     "wof:name":"Burnham",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

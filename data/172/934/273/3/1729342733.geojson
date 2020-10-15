@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.215793,
     "lbl:longitude":174.232972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.215793,
     "mps:longitude":174.232972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Urupukapuka Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"8961f3fcd16fc89a4c174aa851c5c425",
     "wof:hierarchy":[],
     "wof:id":1729342733,
-    "wof:lastmodified":1602624725,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804184,
     "wof:name":"Urupukapuka Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

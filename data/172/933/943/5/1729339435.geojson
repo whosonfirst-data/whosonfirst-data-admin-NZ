@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.618403,
     "lbl:longitude":178.020844,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.618403,
     "mps:longitude":178.020844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Matokitoki"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"4b8af08fe5941adc6ba54674338bc872",
     "wof:hierarchy":[],
     "wof:id":1729339435,
-    "wof:lastmodified":1602624862,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804323,
     "wof:name":"Matokitoki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

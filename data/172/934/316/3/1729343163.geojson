@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.217012,
     "lbl:longitude":174.931999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.217012,
     "mps:longitude":174.931999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Whanganui National Park"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"91e2abe6adc4f3a342fd2cab5a6d394d",
     "wof:hierarchy":[],
     "wof:id":1729343163,
-    "wof:lastmodified":1602711811,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804245,
     "wof:name":"Whanganui National Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

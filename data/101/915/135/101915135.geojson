@@ -121,7 +121,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"be2eeb834be210dc21096f51436a4be9",
     "wof:hierarchy":[
@@ -134,7 +135,15 @@
         }
     ],
     "wof:id":101915135,
-    "wof:lastmodified":1602616518,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804337,
     "wof:name":"Matamata",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

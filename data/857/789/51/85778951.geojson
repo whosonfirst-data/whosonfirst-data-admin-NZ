@@ -77,8 +77,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"521659cffec3b7699da1fa1546bca3e3",
     "wof:hierarchy":[
@@ -92,10 +92,15 @@
         }
     ],
     "wof:id":85778951,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633703,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802953,
     "wof:name":"Beach Haven",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

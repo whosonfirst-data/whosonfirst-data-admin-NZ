@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.308787,
     "lbl:longitude":175.139398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.308787,
     "mps:longitude":175.139398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Western Lake"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"821490a260d4cf1b1d460ad018fdc43f",
     "wof:hierarchy":[],
     "wof:id":1729341559,
-    "wof:lastmodified":1602624759,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804218,
     "wof:name":"Western Lake",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

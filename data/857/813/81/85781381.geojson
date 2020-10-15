@@ -11,6 +11,7 @@
     "geom:longitude":174.828935,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.848935,-41.263959,174.848935,-41.263959",
     "lbl:latitude":-41.283959,
     "lbl:longitude":174.828935,
     "lbl:max_zoom":18.0,
@@ -86,7 +87,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"edbd75d839c6b91a6137d7f3314d0714",
     "wof:hierarchy":[
@@ -99,10 +101,15 @@
         }
     ],
     "wof:id":85781381,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602699432,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802949,
     "wof:name":"Mount Crawford",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

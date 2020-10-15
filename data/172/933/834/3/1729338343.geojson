@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.339798,
     "lbl:longitude":175.591388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.339798,
     "mps:longitude":175.591388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Cloverlea"
     ],
@@ -66,7 +69,15 @@
     "wof:geomhash":"971ef7d43fc087ae95bc9b5f4c09cc41",
     "wof:hierarchy":[],
     "wof:id":1729338343,
-    "wof:lastmodified":1602633711,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804274,
     "wof:name":"Cloverlea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -10,6 +10,7 @@
     "geom:latitude":-36.92163,
     "geom:longitude":174.825091,
     "iso:country":"NZ",
+    "lbl:bbox":"174.845091,-36.90163,174.845091,-36.90163",
     "lbl:latitude":-36.92163,
     "lbl:longitude":174.825091,
     "lbl:max_zoom":18.0,
@@ -72,6 +73,9 @@
         "gp:id":28644315
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9e2e823d8a57cce2b00eb2aca07a762",
     "wof:hierarchy":[
         {
@@ -84,10 +88,15 @@
         }
     ],
     "wof:id":85781407,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602699432,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802949,
     "wof:name":"Southdown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -69,7 +69,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"be1efeeed09002928fb40496aeb54a5f",
     "wof:hierarchy":[
@@ -82,10 +83,15 @@
         }
     ],
     "wof:id":101915857,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616505,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804341,
     "wof:name":"Pirongia",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",

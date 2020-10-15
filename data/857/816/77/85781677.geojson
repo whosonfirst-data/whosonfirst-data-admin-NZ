@@ -99,10 +99,10 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":215,
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,10 +127,15 @@
         }
     ],
     "wof:id":85781677,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316518,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Westlake",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

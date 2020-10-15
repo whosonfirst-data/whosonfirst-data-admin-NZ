@@ -72,8 +72,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"8c26383688b661f7690e73ec441ea20c",
     "wof:hierarchy":[
@@ -87,10 +87,15 @@
         }
     ],
     "wof:id":85781031,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633716,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802942,
     "wof:name":"Northcross",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

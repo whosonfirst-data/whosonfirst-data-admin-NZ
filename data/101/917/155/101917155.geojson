@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.628205,
     "lbl:longitude":172.731373,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.628205,
     "mps:longitude":172.731373,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09af\u09bc\u09ae\u09a8\u09cd\u09a1 \u09b9\u09be\u09b0\u09ac\u09be\u09b0"
     ],
@@ -89,7 +92,15 @@
         }
     ],
     "wof:id":101917155,
-    "wof:lastmodified":1602626187,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803266,
     "wof:name":"Diamond Harbour",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "gn:latitude":-36.9282,
     "gn:longitude":174.73019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.758882,-36.913395,174.758882,-36.913395",
     "lbl:latitude":-36.933395,
     "lbl:longitude":174.738882,
     "lbl:max_zoom":18.0,
@@ -73,7 +74,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"3a875f335333b9fae8ce76c3e86307c1",
     "wof:hierarchy":[
@@ -87,10 +89,15 @@
         }
     ],
     "wof:id":85778707,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602699433,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802953,
     "wof:name":"Waikowhai",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

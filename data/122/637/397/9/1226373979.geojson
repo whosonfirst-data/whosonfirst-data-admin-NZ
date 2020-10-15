@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1226373979,
-    "wof:lastmodified":1602626217,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803359,
     "wof:name":"Altimarlock",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

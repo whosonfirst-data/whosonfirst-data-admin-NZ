@@ -55,7 +55,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"bb8aeb21e463f04884608ec9aecac099",
     "wof:hierarchy":[
@@ -68,7 +69,15 @@
         }
     ],
     "wof:id":101916879,
-    "wof:lastmodified":1602616425,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804380,
     "wof:name":"Taupo Bay",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

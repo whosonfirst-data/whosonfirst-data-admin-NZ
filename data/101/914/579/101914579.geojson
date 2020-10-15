@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.155881,
     "lbl:longitude":174.978023,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-41.155881,
     "mps:longitude":174.978023,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":7.0,
     "name:eng_x_preferred":[
         "Lower Hutt"
     ],
@@ -70,7 +72,15 @@
         }
     ],
     "wof:id":101914579,
-    "wof:lastmodified":1602626160,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803226,
     "wof:name":"Lower Hutt",
     "wof:parent_id":102079337,
     "wof:placetype":"locality",

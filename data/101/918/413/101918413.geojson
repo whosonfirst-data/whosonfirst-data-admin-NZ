@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.096655,
     "lbl:longitude":176.689868,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-38.096655,
     "mps:longitude":176.689868,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kawerau"
     ],
@@ -61,7 +63,15 @@
         }
     ],
     "wof:id":101918413,
-    "wof:lastmodified":1602626172,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803249,
     "wof:name":"Kawerau",
     "wof:parent_id":102079319,
     "wof:placetype":"locality",

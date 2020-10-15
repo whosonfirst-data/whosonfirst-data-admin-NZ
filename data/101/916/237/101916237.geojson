@@ -115,6 +115,9 @@
         "wd:id":"Q416098"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d261c8d87f5365332655e06f961f9d66",
     "wof:hierarchy":[
         {
@@ -126,10 +129,15 @@
         }
     ],
     "wof:id":101916237,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616514,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804383,
     "wof:name":"Akaroa",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.182549,
     "lbl:longitude":172.086505,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.182549,
     "mps:longitude":172.086505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Victoria Forest Park"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"88081961afc75614f1357d0acc792569",
     "wof:hierarchy":[],
     "wof:id":1729343209,
-    "wof:lastmodified":1602711816,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804240,
     "wof:name":"Victoria Forest Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

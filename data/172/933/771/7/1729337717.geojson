@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.564459,
     "lbl:longitude":172.64343,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.564459,
     "mps:longitude":172.64343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0628\u06a9\u0646\u0647\u0627\u0645"
     ],
@@ -113,7 +116,15 @@
     "wof:geomhash":"45a201f2abaaff9dbcff22e257fa7419",
     "wof:hierarchy":[],
     "wof:id":1729337717,
-    "wof:lastmodified":1602633691,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804280,
     "wof:name":"Beckenham",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

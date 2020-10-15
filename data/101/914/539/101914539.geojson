@@ -57,6 +57,9 @@
         "wk:page":"Whatawhata"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"76c9be2212fdbb3aa84712838f9ae0a2",
     "wof:hierarchy":[
         {
@@ -68,10 +71,15 @@
         }
     ],
     "wof:id":101914539,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616472,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804362,
     "wof:name":"Whatawhata",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.861532,
     "lbl:longitude":170.553252,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.861532,
     "mps:longitude":170.553252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ravensbourne"
     ],
@@ -63,7 +66,15 @@
     "wof:geomhash":"81e9c6714bb77d14492e5a0c1509be3e",
     "wof:hierarchy":[],
     "wof:id":1729338591,
-    "wof:lastmodified":1602633717,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804270,
     "wof:name":"Ravensbourne",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

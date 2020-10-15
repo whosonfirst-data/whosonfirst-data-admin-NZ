@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.598771,
     "lbl:longitude":171.883534,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.598771,
     "mps:longitude":171.883534,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hector"
     ],
@@ -57,7 +60,15 @@
         }
     ],
     "wof:id":101918605,
-    "wof:lastmodified":1602626173,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803250,
     "wof:name":"Hector",
     "wof:parent_id":85687165,
     "wof:placetype":"locality",

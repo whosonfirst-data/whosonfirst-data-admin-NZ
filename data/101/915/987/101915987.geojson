@@ -13,6 +13,8 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.739688,
     "lbl:longitude":171.600229,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-41.739688,
     "mps:longitude":171.600229,
     "mz:hierarchy_label":0,
@@ -155,7 +157,15 @@
         }
     ],
     "wof:id":101915987,
-    "wof:lastmodified":1602626149,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803197,
     "wof:name":"Westport",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

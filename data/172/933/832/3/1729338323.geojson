@@ -17,10 +17,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.073032,
     "lbl:longitude":174.0843,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.073032,
     "mps:longitude":174.0843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Brooklands"
     ],
@@ -66,7 +69,15 @@
     "wof:geomhash":"7aae7fd4032054f8c830bd376cf7831a",
     "wof:hierarchy":[],
     "wof:id":1729338323,
-    "wof:lastmodified":1602633711,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804272,
     "wof:name":"Brooklands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

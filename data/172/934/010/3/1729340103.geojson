@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.748752,
     "lbl:longitude":175.404401,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.748752,
     "mps:longitude":175.404401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kaikai Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"e0847eef8357992aa932ea6466ad5f9f",
     "wof:hierarchy":[],
     "wof:id":1729340103,
-    "wof:lastmodified":1602624771,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804230,
     "wof:name":"Kaikai Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

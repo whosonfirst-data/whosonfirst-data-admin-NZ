@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-47.148044,
     "lbl:longitude":167.404389,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-47.148044,
     "mps:longitude":167.404389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mokinui / Big Moggy Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"edfb17606bab54da0495594197ec3f14",
     "wof:hierarchy":[],
     "wof:id":1729341961,
-    "wof:lastmodified":1602624755,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804215,
     "wof:name":"Mokinui / Big Moggy Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

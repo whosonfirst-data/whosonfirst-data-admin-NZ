@@ -12,6 +12,7 @@
     "gn:latitude":-41.23827,
     "gn:longitude":174.80019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.825739,-41.226714,174.825739,-41.226714",
     "lbl:latitude":-41.246714,
     "lbl:longitude":174.805739,
     "lbl:max_zoom":18.0,
@@ -84,7 +85,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b0d9c5fa2755823e60a26e1319fc9690",
     "wof:hierarchy":[
@@ -97,10 +99,15 @@
         }
     ],
     "wof:id":85778225,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602699432,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802944,
     "wof:name":"Cashmere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

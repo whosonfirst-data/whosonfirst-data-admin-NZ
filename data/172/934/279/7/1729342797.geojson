@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.740278,
     "lbl:longitude":166.72538,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.740278,
     "mps:longitude":166.72538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Front Islands"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"d927e8259d6f488766c6885c011db711",
     "wof:hierarchy":[],
     "wof:id":1729342797,
-    "wof:lastmodified":1602624765,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804224,
     "wof:name":"Front Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

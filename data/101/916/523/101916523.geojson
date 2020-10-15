@@ -69,7 +69,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"84cc30a90eae3c27a168679658353638",
     "wof:hierarchy":[
@@ -82,10 +83,15 @@
         }
     ],
     "wof:id":101916523,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616445,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804385,
     "wof:name":"Hawarden",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

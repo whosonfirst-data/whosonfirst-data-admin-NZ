@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-47.288793,
     "lbl:longitude":167.498654,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-47.288793,
     "mps:longitude":167.498654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Murphy Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"f385b4c176cace5614a654989f89bdc8",
     "wof:hierarchy":[],
     "wof:id":1729342221,
-    "wof:lastmodified":1602624771,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804230,
     "wof:name":"Murphy Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

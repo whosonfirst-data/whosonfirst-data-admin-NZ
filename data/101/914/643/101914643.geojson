@@ -81,7 +81,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"ab7a1907ab73412414a611fa8eb485b5",
     "wof:hierarchy":[
@@ -94,10 +95,15 @@
         }
     ],
     "wof:id":101914643,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804355,
     "wof:name":"Te Kauwhata",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

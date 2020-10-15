@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.119698,
     "lbl:longitude":176.303401,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.119698,
     "mps:longitude":176.303401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Holdens Bay"
     ],
@@ -62,7 +65,15 @@
     "wof:geomhash":"d3772c8ce88ec52dec82ee1ed8c852f8",
     "wof:hierarchy":[],
     "wof:id":1729338925,
-    "wof:lastmodified":1602633726,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804270,
     "wof:name":"Holdens Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

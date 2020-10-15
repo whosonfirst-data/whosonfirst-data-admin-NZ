@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.17468,
     "lbl:longitude":175.382919,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-40.17468,
     "mps:longitude":175.382919,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bulls"
     ],
@@ -61,7 +64,15 @@
         }
     ],
     "wof:id":101916327,
-    "wof:lastmodified":1602626170,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803245,
     "wof:name":"Bulls",
     "wof:parent_id":102079301,
     "wof:placetype":"locality",

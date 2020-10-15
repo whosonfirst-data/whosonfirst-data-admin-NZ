@@ -93,8 +93,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c634577a32162c5931f20a020781b47c",
     "wof:hierarchy":[
@@ -108,10 +108,15 @@
         }
     ],
     "wof:id":85781193,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633726,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Totara Heights",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

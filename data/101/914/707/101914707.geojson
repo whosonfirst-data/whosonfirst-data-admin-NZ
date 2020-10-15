@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.905489,
     "lbl:longitude":171.758335,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-43.905489,
     "mps:longitude":171.758335,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ashburton"
     ],
@@ -64,10 +66,15 @@
         }
     ],
     "wof:id":101914707,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602626152,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803202,
     "wof:name":"Ashburton",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

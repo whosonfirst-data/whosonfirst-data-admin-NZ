@@ -101,7 +101,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"9beafc8ed768e302a5b9fe0102fb55f0",
     "wof:hierarchy":[
@@ -114,10 +115,15 @@
         }
     ],
     "wof:id":101914363,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713675,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805015,
     "wof:name":"Levin",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

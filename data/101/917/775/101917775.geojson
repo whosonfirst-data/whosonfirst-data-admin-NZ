@@ -57,7 +57,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c2d144a525cb6b2a6248558f8906bc49",
     "wof:hierarchy":[
@@ -70,7 +71,15 @@
         }
     ],
     "wof:id":101917775,
-    "wof:lastmodified":1602616422,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804391,
     "wof:name":"Te Mata",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

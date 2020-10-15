@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.745027,
     "lbl:longitude":175.820364,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.745027,
     "mps:longitude":175.820364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Motukoranga Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"b52adeddd0b69d67181e48ab379093da",
     "wof:hierarchy":[],
     "wof:id":1729340957,
-    "wof:lastmodified":1602624772,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804232,
     "wof:name":"Motukoranga Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

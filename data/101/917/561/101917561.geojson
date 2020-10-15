@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.981999,
     "lbl:longitude":176.833444,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-37.981999,
     "mps:longitude":176.833444,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Edgecumbe"
     ],
@@ -74,7 +77,15 @@
         }
     ],
     "wof:id":101917561,
-    "wof:lastmodified":1602626181,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803259,
     "wof:name":"Edgecumbe",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

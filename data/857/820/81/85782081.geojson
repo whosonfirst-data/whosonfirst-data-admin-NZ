@@ -73,8 +73,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"362b0bee2a63ee1693caf0203e129729",
     "wof:hierarchy":[
@@ -88,10 +88,15 @@
         }
     ],
     "wof:id":85782081,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633722,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802940,
     "wof:name":"Welcome Bay",
     "wof:parent_id":101914325,
     "wof:placetype":"neighbourhood",

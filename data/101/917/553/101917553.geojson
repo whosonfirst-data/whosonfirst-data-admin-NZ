@@ -74,7 +74,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"f1260ca90ed1b3f0627dfab633acb0ca",
     "wof:hierarchy":[
@@ -87,10 +88,15 @@
         }
     ],
     "wof:id":101917553,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616343,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804389,
     "wof:name":"Patutahi",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",

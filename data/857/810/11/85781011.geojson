@@ -147,8 +147,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"979ca0583d02f76be3ebdd5306d802cc",
     "wof:hierarchy":[
@@ -162,10 +162,15 @@
         }
     ],
     "wof:id":85781011,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633696,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802942,
     "wof:name":"Melville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

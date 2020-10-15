@@ -69,7 +69,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"60d095abb16a2f2efc021a778c5b1bdd",
     "wof:hierarchy":[
@@ -82,10 +83,15 @@
         }
     ],
     "wof:id":101917929,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616434,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804391,
     "wof:name":"Riverlands",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

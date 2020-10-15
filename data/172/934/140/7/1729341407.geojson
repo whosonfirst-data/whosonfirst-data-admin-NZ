@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.945167,
     "lbl:longitude":176.138054,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.945167,
     "mps:longitude":176.138054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Otahome"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"bb303d80dcc5c03488ec3f480d1f8a84",
     "wof:hierarchy":[],
     "wof:id":1729341407,
-    "wof:lastmodified":1602624793,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804253,
     "wof:name":"Otahome",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

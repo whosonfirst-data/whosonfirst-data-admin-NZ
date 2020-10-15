@@ -84,6 +84,9 @@
         "wk:page":"Greytown, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2e5393f50f96006400b57bd330e6817",
     "wof:hierarchy":[
         {
@@ -95,10 +98,15 @@
         }
     ],
     "wof:id":101915623,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616515,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804347,
     "wof:name":"Greytown",
     "wof:parent_id":102079347,
     "wof:placetype":"locality",

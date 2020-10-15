@@ -77,8 +77,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"fa64c61d8d67bc6d3aa2fbdc3324b3e5",
     "wof:hierarchy":[
@@ -92,10 +92,15 @@
         }
     ],
     "wof:id":85773163,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633698,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802940,
     "wof:name":"Roslyn",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

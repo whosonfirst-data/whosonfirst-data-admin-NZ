@@ -69,7 +69,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"12b389852b4256ba3d30cd66c3db6ad3",
     "wof:hierarchy":[
@@ -82,7 +83,15 @@
         }
     ],
     "wof:id":101914959,
-    "wof:lastmodified":1602616463,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804362,
     "wof:name":"Te Puru",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

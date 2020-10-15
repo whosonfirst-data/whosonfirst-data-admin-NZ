@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-34.470353,
     "lbl:longitude":172.637647,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.470353,
     "mps:longitude":172.637647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Motuopao Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"e5c6498ec4ca406c49b9085500fe17ff",
     "wof:hierarchy":[],
     "wof:id":1729340121,
-    "wof:lastmodified":1602624724,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804183,
     "wof:name":"Motuopao Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

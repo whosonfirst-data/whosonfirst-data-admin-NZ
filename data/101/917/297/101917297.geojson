@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.472001,
     "lbl:longitude":171.189253,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-42.472001,
     "mps:longitude":171.189253,
     "mz:hierarchy_label":0,
@@ -158,10 +159,15 @@
         }
     ],
     "wof:id":101917297,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602626190,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803270,
     "wof:name":"Greymouth",
     "wof:parent_id":102079361,
     "wof:placetype":"locality",

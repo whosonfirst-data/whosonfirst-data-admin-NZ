@@ -18,7 +18,7 @@
     "lbl:longitude":173.53333,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -48,10 +48,10 @@
     "woe:name_adm1":"Northland",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687149,
         102191583,
         85633345,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,15 @@
         }
     ],
     "wof:id":1126080847,
-    "wof:lastmodified":1566672614,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803316,
     "wof:name":"Taikawhana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

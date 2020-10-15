@@ -104,7 +104,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"e38e4c4a8058b104897705c97346d18a",
     "wof:hierarchy":[
@@ -117,7 +118,15 @@
         }
     ],
     "wof:id":101914307,
-    "wof:lastmodified":1602616508,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804352,
     "wof:name":"Dannevirke",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",

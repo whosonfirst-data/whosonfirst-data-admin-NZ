@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.481958,
     "lbl:longitude":173.304767,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.481958,
     "mps:longitude":173.304767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mount Richmond Forest Park"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"59ee6755f22799a0becf66a5a280297f",
     "wof:hierarchy":[],
     "wof:id":1729343231,
-    "wof:lastmodified":1602711819,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804206,
     "wof:name":"Mount Richmond Forest Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

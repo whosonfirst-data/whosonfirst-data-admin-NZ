@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.101016,
     "lbl:longitude":174.80224,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.101016,
     "mps:longitude":174.80224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Te Motu Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"e9107b07c8c5f29b7bfbdbdc9c35f6b1",
     "wof:hierarchy":[],
     "wof:id":1729342651,
-    "wof:lastmodified":1602624775,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804235,
     "wof:name":"Te Motu Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

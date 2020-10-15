@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.027817,
     "lbl:longitude":173.950147,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.027817,
     "mps:longitude":173.950147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Whatupukeiti Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"6d1c2d6e8798be8f384b476f65960c9b",
     "wof:hierarchy":[],
     "wof:id":1729342811,
-    "wof:lastmodified":1602624731,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804190,
     "wof:name":"Whatupukeiti Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

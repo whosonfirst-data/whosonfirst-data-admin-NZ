@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.180834,
     "lbl:longitude":174.825045,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.180834,
     "mps:longitude":174.825045,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Tawa"
     ],
@@ -56,7 +59,15 @@
         }
     ],
     "wof:id":101918069,
-    "wof:lastmodified":1602626179,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803256,
     "wof:name":"Tawa",
     "wof:parent_id":102079339,
     "wof:placetype":"locality",

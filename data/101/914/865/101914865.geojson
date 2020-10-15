@@ -54,6 +54,9 @@
         "nz-linz:id":911
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e3ca386413f424e9294609b783582237",
     "wof:hierarchy":[
         {
@@ -65,10 +68,15 @@
         }
     ],
     "wof:id":101914865,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616350,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804368,
     "wof:name":"Meeanee",
     "wof:parent_id":102079331,
     "wof:placetype":"locality",

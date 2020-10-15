@@ -72,6 +72,9 @@
         1729238545
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"34fe60a3a24e511615164ae2a991203c",
     "wof:hierarchy":[
         {
@@ -83,10 +86,15 @@
         }
     ],
     "wof:id":101914583,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713665,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805022,
     "wof:name":"Runanga",
     "wof:parent_id":102079361,
     "wof:placetype":"locality",

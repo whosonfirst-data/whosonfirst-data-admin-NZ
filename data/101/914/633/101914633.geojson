@@ -102,6 +102,9 @@
         1729238465
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a73afc8f3083442db3d4851f6d5a668f",
     "wof:hierarchy":[
         {
@@ -113,10 +116,15 @@
         }
     ],
     "wof:id":101914633,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713675,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805016,
     "wof:name":"Paraparaumu",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

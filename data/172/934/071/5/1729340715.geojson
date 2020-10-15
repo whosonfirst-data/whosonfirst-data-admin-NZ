@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.249498,
     "lbl:longitude":174.293376,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.249498,
     "mps:longitude":174.293376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Jordy Rocks"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"0977f8b8fc29630b019aea199c5a1264",
     "wof:hierarchy":[],
     "wof:id":1729340715,
-    "wof:lastmodified":1602624729,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804188,
     "wof:name":"Jordy Rocks",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

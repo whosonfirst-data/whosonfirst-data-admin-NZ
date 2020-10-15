@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.240345,
     "lbl:longitude":171.290357,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-44.240345,
     "mps:longitude":171.290357,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Temuka"
     ],
@@ -60,7 +63,15 @@
         }
     ],
     "wof:id":101916149,
-    "wof:lastmodified":1602626171,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803247,
     "wof:name":"Temuka",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

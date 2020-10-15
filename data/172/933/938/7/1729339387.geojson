@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.63685,
     "lbl:longitude":167.934902,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.63685,
     "mps:longitude":167.934902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mount Hamilton"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"394a6ca3ae98cd2213197c1d698d014f",
     "wof:hierarchy":[],
     "wof:id":1729339387,
-    "wof:lastmodified":1602624795,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804255,
     "wof:name":"Mount Hamilton",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

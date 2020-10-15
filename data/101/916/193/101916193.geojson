@@ -54,6 +54,9 @@
         "nz-linz:id":2574
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6b29f44083606cd884ce2012e45de54",
     "wof:hierarchy":[
         {
@@ -65,10 +68,15 @@
         }
     ],
     "wof:id":101916193,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616363,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804374,
     "wof:name":"Lowry Bay",
     "wof:parent_id":102079337,
     "wof:placetype":"locality",

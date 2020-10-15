@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.329294,
     "lbl:longitude":175.642316,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-40.329294,
     "mps:longitude":175.642316,
     "mz:hierarchy_label":0,
@@ -161,7 +162,15 @@
         }
     ],
     "wof:id":101915821,
-    "wof:lastmodified":1602626140,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803180,
     "wof:name":"Palmerston North",
     "wof:parent_id":102079307,
     "wof:placetype":"locality",

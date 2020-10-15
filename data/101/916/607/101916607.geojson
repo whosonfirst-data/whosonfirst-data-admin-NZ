@@ -71,7 +71,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"4e964b34cb2edbd126b00de2c6f30558",
     "wof:hierarchy":[
@@ -84,10 +85,15 @@
         }
     ],
     "wof:id":101916607,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616421,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804383,
     "wof:name":"Paengaroa",
     "wof:parent_id":102079283,
     "wof:placetype":"locality",

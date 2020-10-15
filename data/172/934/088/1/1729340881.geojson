@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.412663,
     "lbl:longitude":168.653607,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.412663,
     "mps:longitude":168.653607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Oteramika"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"6cef49beb1e7689ca10bc79af2a3b206",
     "wof:hierarchy":[],
     "wof:id":1729340881,
-    "wof:lastmodified":1602624769,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804229,
     "wof:name":"Oteramika",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

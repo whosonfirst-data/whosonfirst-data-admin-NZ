@@ -17,10 +17,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.637208,
     "lbl:longitude":176.86178,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.637208,
     "mps:longitude":176.86178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u064a \u0641\u064a\u0631"
     ],
@@ -143,7 +146,15 @@
     "wof:geomhash":"80c4dde4995eef8b905c478ae87379e0",
     "wof:hierarchy":[],
     "wof:id":1729337883,
-    "wof:lastmodified":1602633696,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804311,
     "wof:name":"Mayfair",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

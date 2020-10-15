@@ -73,6 +73,9 @@
         "wk:page":"Bunnythorpe"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"391c804f3fa9f71d55d631baeea89b37",
     "wof:hierarchy":[
         {
@@ -84,10 +87,15 @@
         }
     ],
     "wof:id":101916313,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616439,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804378,
     "wof:name":"Bunnythorpe",
     "wof:parent_id":102079307,
     "wof:placetype":"locality",

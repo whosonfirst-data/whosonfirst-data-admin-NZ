@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.771874,
     "lbl:longitude":166.608922,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.771874,
     "mps:longitude":166.608922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Two Sisters"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"7ed0c72460d991024f04fb7b6f9f8ab6",
     "wof:hierarchy":[],
     "wof:id":1729340387,
-    "wof:lastmodified":1602624734,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804194,
     "wof:name":"Two Sisters",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

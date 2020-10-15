@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.442042,
     "lbl:longitude":175.432399,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.442042,
     "mps:longitude":175.432399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Waipa Valley"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"bc306bd5174bc3418ff4c16665cf8664",
     "wof:hierarchy":[],
     "wof:id":1729341113,
-    "wof:lastmodified":1602624748,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804208,
     "wof:name":"Waipa Valley",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -18,7 +18,7 @@
     "mps:latitude":-37.713623,
     "mps:longitude":176.126412,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,10 +59,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687175,
         102191583,
         85633345,
-        102079285
+        102079285,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +71,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"215f065754d4ba573c6ab568c31e2023",
     "wof:hierarchy":[
@@ -86,10 +86,15 @@
         }
     ],
     "wof:id":85781155,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316519,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802942,
     "wof:name":"Te Reti",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

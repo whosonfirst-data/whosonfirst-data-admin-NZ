@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.197703,
     "lbl:longitude":174.820601,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.197703,
     "mps:longitude":174.820601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Glenside"
     ],
@@ -65,7 +68,15 @@
     "wof:geomhash":"4bade036516876b860304bc375f3fac6",
     "wof:hierarchy":[],
     "wof:id":1729339153,
-    "wof:lastmodified":1602696238,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804278,
     "wof:name":"Glenside",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

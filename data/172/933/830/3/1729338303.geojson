@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.825361,
     "lbl:longitude":175.275591,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.825361,
     "mps:longitude":175.275591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Deanwell"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"cf7ba65d24b3a727c3b5a5fceba00900",
     "wof:hierarchy":[],
     "wof:id":1729338303,
-    "wof:lastmodified":1602624848,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804308,
     "wof:name":"Deanwell",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

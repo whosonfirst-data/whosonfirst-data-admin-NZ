@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.681894,
     "lbl:longitude":175.410108,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.681894,
     "mps:longitude":175.410108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Square Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"f4db3400eea7e03ddd800270a25f740f",
     "wof:hierarchy":[],
     "wof:id":1729342187,
-    "wof:lastmodified":1602624724,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804183,
     "wof:name":"Square Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

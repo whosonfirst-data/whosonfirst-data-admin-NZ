@@ -67,6 +67,9 @@
         "wk:page":"Flaxmere"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa805c35b1e7bc4c0db2817d8c1a6743",
     "wof:hierarchy":[
         {
@@ -78,10 +81,15 @@
         }
     ],
     "wof:id":101914311,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633712,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804371,
     "wof:name":"Flaxmere",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

@@ -91,7 +91,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"5ca919fc35995427f3efcd3e0d12b57c",
     "wof:hierarchy":[
@@ -104,7 +105,15 @@
         }
     ],
     "wof:id":101914919,
-    "wof:lastmodified":1602616518,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804372,
     "wof:name":"Morrinsville",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

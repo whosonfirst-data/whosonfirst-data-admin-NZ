@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.395933,
     "lbl:longitude":171.260875,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.395933,
     "mps:longitude":171.260875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Dunollie"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"68edb1ec7322007f7736b22cb4e5d13d",
     "wof:hierarchy":[],
     "wof:id":1729338917,
-    "wof:lastmodified":1602624846,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804306,
     "wof:name":"Dunollie",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

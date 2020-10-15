@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.809488,
     "lbl:longitude":175.292412,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.809488,
     "mps:longitude":175.292412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Bader"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"3df5b9fa661cbdb69b5e1066085fdfcf",
     "wof:hierarchy":[],
     "wof:id":1729337713,
-    "wof:lastmodified":1602624820,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804280,
     "wof:name":"Bader",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.474407,
     "lbl:longitude":174.456976,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.474407,
     "mps:longitude":174.456976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Four Islets"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"0191eaebfca4eb8c17cc32ba597149d1",
     "wof:hierarchy":[],
     "wof:id":1729342865,
-    "wof:lastmodified":1602624730,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804189,
     "wof:name":"Four Islets",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

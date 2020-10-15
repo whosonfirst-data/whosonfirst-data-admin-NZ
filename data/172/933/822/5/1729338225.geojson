@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.6496,
     "lbl:longitude":176.862017,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.6496,
     "mps:longitude":176.862017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Parkvale"
     ],
@@ -62,7 +65,15 @@
     "wof:geomhash":"321f61033c89f7a67632f742cf9a20ac",
     "wof:hierarchy":[],
     "wof:id":1729338225,
-    "wof:lastmodified":1602633708,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804304,
     "wof:name":"Parkvale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

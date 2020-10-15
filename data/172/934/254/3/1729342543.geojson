@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.047525,
     "lbl:longitude":175.942464,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.047525,
     "mps:longitude":175.942464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Slipper Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"ffd99adfe7afa887e7ff9855d0b39e7b",
     "wof:hierarchy":[],
     "wof:id":1729342543,
-    "wof:lastmodified":1602624773,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804233,
     "wof:name":"Slipper Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

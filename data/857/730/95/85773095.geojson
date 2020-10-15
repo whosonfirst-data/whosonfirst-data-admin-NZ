@@ -82,8 +82,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"70cd7d5a5bb843f74a46ad8ec4e19de8",
     "wof:hierarchy":[
@@ -97,10 +97,15 @@
         }
     ],
     "wof:id":85773095,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633716,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802939,
     "wof:name":"Oratia",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

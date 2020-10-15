@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
@@ -64,7 +64,15 @@
         }
     ],
     "wof:id":1243591077,
-    "wof:lastmodified":1602626211,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803343,
     "wof:name":"Clarksville",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

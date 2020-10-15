@@ -86,7 +86,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"456ba0707df6020ce1256962667c3a7a",
     "wof:hierarchy":[
@@ -99,10 +100,15 @@
         }
     ],
     "wof:id":101914937,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616516,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804354,
     "wof:name":"Patea",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

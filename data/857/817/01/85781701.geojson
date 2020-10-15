@@ -106,8 +106,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"9f31b036ce3659fb97db022aac37676c",
     "wof:hierarchy":[
@@ -121,10 +121,15 @@
         }
     ],
     "wof:id":85781701,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633700,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802943,
     "wof:name":"Hillcrest",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

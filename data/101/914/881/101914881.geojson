@@ -72,6 +72,9 @@
         "wk:page":"Inglewood, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d140c234fa791e188bd0d63aa58d74c",
     "wof:hierarchy":[
         {
@@ -83,10 +86,15 @@
         }
     ],
     "wof:id":101914881,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616515,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804356,
     "wof:name":"Inglewood",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

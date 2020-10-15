@@ -114,6 +114,9 @@
         1729238489
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ad547bf14903c717c84c2b26762268b",
     "wof:hierarchy":[
         {
@@ -125,10 +128,15 @@
         }
     ],
     "wof:id":101914261,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713667,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805016,
     "wof:name":"Gore",
     "wof:parent_id":102079393,
     "wof:placetype":"locality",

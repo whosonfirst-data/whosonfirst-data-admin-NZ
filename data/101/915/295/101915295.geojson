@@ -56,7 +56,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"a322c102a7dfab5aa7f55058f6de0f54",
     "wof:hierarchy":[
@@ -69,7 +70,15 @@
         }
     ],
     "wof:id":101915295,
-    "wof:lastmodified":1602616392,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804341,
     "wof:name":"Omaha",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

@@ -204,6 +204,9 @@
         1729238473
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b21a1f9f11b38f5ad61c5c818640d665",
     "wof:hierarchy":[
         {
@@ -215,10 +218,15 @@
         }
     ],
     "wof:id":101914313,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713674,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805017,
     "wof:name":"Hastings",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

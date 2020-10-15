@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.027864,
     "lbl:longitude":168.688659,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-45.027864,
     "mps:longitude":168.688659,
     "mz:hierarchy_label":0,
@@ -158,7 +159,15 @@
         }
     ],
     "wof:id":101915439,
-    "wof:lastmodified":1602626141,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803181,
     "wof:name":"Queenstown",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

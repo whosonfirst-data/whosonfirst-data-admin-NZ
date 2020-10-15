@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.195402,
     "lbl:longitude":174.287513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.195402,
     "mps:longitude":174.287513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Arapawa Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"9306fc0ec5fd162550eecef82514ebb7",
     "wof:hierarchy":[],
     "wof:id":1729339907,
-    "wof:lastmodified":1602624801,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804261,
     "wof:name":"Arapawa Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

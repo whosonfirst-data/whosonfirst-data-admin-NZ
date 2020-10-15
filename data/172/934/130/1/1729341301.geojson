@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-34.977683,
     "lbl:longitude":173.864063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.977683,
     "mps:longitude":173.864063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Flat Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"eaac52223ee14931961804c3cc0001c3",
     "wof:hierarchy":[],
     "wof:id":1729341301,
-    "wof:lastmodified":1602624762,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804222,
     "wof:name":"Flat Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

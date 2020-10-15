@@ -79,8 +79,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"517264618a7cbc03864801e0cbace5d0",
     "wof:hierarchy":[
@@ -94,10 +94,15 @@
         }
     ],
     "wof:id":85778389,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633694,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802945,
     "wof:name":"Kelson",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

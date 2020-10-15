@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.645898,
     "lbl:longitude":170.65533,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-45.645898,
     "mps:longitude":170.65533,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Karitane"
     ],
@@ -62,7 +65,15 @@
         }
     ],
     "wof:id":101915009,
-    "wof:lastmodified":1602626141,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803182,
     "wof:name":"Karitane",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

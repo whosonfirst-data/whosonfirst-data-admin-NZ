@@ -179,8 +179,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"144d32b7d8cf2efd42a3d484391b6a98",
     "wof:hierarchy":[
@@ -194,10 +194,15 @@
         }
     ],
     "wof:id":85778393,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633694,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802944,
     "wof:name":"Kensington",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -283,6 +283,9 @@
         1729238503
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae82b09848fbcbcc60763ef7f9bf3469",
     "wof:hierarchy":[
         {
@@ -294,10 +297,15 @@
         }
     ],
     "wof:id":101914859,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713682,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805016,
     "wof:name":"Cambridge",
     "wof:parent_id":102079273,
     "wof:placetype":"locality",

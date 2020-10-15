@@ -113,6 +113,9 @@
         1729238509
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a20d07930f3112337687e7f4fc3c89e6",
     "wof:hierarchy":[
         {
@@ -124,10 +127,15 @@
         }
     ],
     "wof:id":101914791,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713675,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805015,
     "wof:name":"Coromandel",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

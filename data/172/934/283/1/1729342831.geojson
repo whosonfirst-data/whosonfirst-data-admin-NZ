@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.774531,
     "lbl:longitude":174.056746,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.774531,
     "mps:longitude":174.056746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Jag Rocks"
     ],
@@ -32,7 +35,15 @@
     "wof:geomhash":"6da89f2fabfe2e253b8775d038dbe65e",
     "wof:hierarchy":[],
     "wof:id":1729342831,
-    "wof:lastmodified":1602624764,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804223,
     "wof:name":"Jag Rocks",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

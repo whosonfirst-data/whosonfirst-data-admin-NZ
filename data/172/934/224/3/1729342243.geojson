@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-47.213205,
     "lbl:longitude":167.661188,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-47.213205,
     "mps:longitude":167.661188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Noble Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"789bfe56ad69c355913c6a5509e096c7",
     "wof:hierarchy":[],
     "wof:id":1729342243,
-    "wof:lastmodified":1602624766,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804226,
     "wof:name":"Noble Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

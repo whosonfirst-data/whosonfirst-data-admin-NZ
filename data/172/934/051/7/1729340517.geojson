@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.769208,
     "lbl:longitude":168.955071,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.769208,
     "mps:longitude":168.955071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Awatere"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"74f21e6959d0d70ac6a4de4eae26c7d0",
     "wof:hierarchy":[],
     "wof:id":1729340517,
-    "wof:lastmodified":1602624778,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804238,
     "wof:name":"Awatere",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

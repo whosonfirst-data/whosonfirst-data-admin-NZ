@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.771981,
     "lbl:longitude":166.520676,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.771981,
     "mps:longitude":166.520676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Many Islands"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"f38f4fb532ce270dc4b780ae60b311b5",
     "wof:hierarchy":[],
     "wof:id":1729342889,
-    "wof:lastmodified":1602624728,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804187,
     "wof:name":"Many Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

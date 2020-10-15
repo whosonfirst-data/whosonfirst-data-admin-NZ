@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.855903,
     "lbl:longitude":170.458984,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.855903,
     "mps:longitude":170.458984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Halfway Bush"
     ],
@@ -63,7 +66,15 @@
     "wof:geomhash":"3ddf53c062e76c1cb910ee79a068612b",
     "wof:hierarchy":[],
     "wof:id":1729338403,
-    "wof:lastmodified":1602633713,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804302,
     "wof:name":"Halfway Bush",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

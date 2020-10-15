@@ -63,7 +63,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"baf936d276755b1b502253f17ff9959b",
     "wof:hierarchy":[
@@ -76,10 +77,15 @@
         }
     ],
     "wof:id":101916043,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616509,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804381,
     "wof:name":"Stirling",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

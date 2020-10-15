@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.644129,
     "lbl:longitude":168.500743,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-44.644129,
     "mps:longitude":168.500743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mount Earnslaw"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"5c168f828458026b4cdff7522c30b7a3",
     "wof:hierarchy":[],
     "wof:id":1729341309,
-    "wof:lastmodified":1602624762,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804222,
     "wof:name":"Mount Earnslaw",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

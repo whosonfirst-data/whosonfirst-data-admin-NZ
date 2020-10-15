@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.517975,
     "lbl:longitude":174.06927,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.517975,
     "mps:longitude":174.06927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Moerepo Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"0fd454712ee6258d9ff09f79e5a24ad2",
     "wof:hierarchy":[],
     "wof:id":1729341953,
-    "wof:lastmodified":1602624719,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804178,
     "wof:name":"Moerepo Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

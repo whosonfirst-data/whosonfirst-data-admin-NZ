@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.48155,
     "lbl:longitude":174.7408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.48155,
     "mps:longitude":174.7408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Aorangi Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"6c2a31f80487869942a4838cb81cdac8",
     "wof:hierarchy":[],
     "wof:id":1729341583,
-    "wof:lastmodified":1602624722,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804181,
     "wof:name":"Aorangi Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

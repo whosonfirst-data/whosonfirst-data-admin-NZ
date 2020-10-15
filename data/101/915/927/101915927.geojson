@@ -63,7 +63,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"e67ba181af52ad40fe6662167f7deb1e",
     "wof:hierarchy":[
@@ -76,10 +77,15 @@
         }
     ],
     "wof:id":101915927,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616348,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804350,
     "wof:name":"Waikino",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

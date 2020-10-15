@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.502576,
     "lbl:longitude":167.516503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.502576,
     "mps:longitude":167.516503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Isolde Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"6a37fbe0dbe30699a48660bf9fd07aee",
     "wof:hierarchy":[],
     "wof:id":1729341809,
-    "wof:lastmodified":1602624740,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804199,
     "wof:name":"Isolde Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

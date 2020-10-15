@@ -81,8 +81,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"a0536a2e10dda7e0b1244f3aa05617d8",
     "wof:hierarchy":[
@@ -96,10 +96,15 @@
         }
     ],
     "wof:id":85773063,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633716,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802939,
     "wof:name":"North East Valley",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

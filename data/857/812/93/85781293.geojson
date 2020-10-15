@@ -69,10 +69,10 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":108,
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,10 +96,15 @@
         }
     ],
     "wof:id":85781293,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316525,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802947,
     "wof:name":"Greenmount",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

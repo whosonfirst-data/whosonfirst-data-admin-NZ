@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.603689,
     "lbl:longitude":167.18671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.603689,
     "mps:longitude":167.18671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Fiordland National Park"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"10abef18b14768a812a9905a09f8387b",
     "wof:hierarchy":[],
     "wof:id":1729343247,
-    "wof:lastmodified":1602711824,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804201,
     "wof:name":"Fiordland National Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

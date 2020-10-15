@@ -56,7 +56,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"fa1d05ea5c4de40bd622d4d024f4f6c2",
     "wof:hierarchy":[
@@ -69,7 +70,15 @@
         }
     ],
     "wof:id":101914903,
-    "wof:lastmodified":1602616345,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804363,
     "wof:name":"Mangawhai Heads",
     "wof:parent_id":102079259,
     "wof:placetype":"locality",

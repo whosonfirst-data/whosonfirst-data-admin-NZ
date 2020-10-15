@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.86649,
     "lbl:longitude":174.751677,
+    "lbl:max_zoom":13.0,
     "mps:latitude":-36.86649,
     "mps:longitude":174.751677,
     "mz:hierarchy_label":0,
@@ -157,7 +158,15 @@
         }
     ],
     "wof:id":101916717,
-    "wof:lastmodified":1602626170,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803245,
     "wof:name":"Auckland",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

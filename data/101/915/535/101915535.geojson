@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.134574,
     "lbl:longitude":174.878976,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-41.134574,
     "mps:longitude":174.878976,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Porirua"
     ],
@@ -70,7 +72,15 @@
         }
     ],
     "wof:id":101915535,
-    "wof:lastmodified":1602626139,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803178,
     "wof:name":"Porirua",
     "wof:parent_id":102079317,
     "wof:placetype":"locality",

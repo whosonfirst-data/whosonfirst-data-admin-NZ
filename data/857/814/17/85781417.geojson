@@ -80,8 +80,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"6189dc22dc65999a31ef27955568f723",
     "wof:hierarchy":[
@@ -95,10 +95,15 @@
         }
     ],
     "wof:id":85781417,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633703,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802949,
     "wof:name":"Hauraki",
     "wof:parent_id":101915597,
     "wof:placetype":"neighbourhood",

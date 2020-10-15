@@ -84,7 +84,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"3d08e1622ad0ad3d491f0853be01244f",
     "wof:hierarchy":[
@@ -97,10 +98,15 @@
         }
     ],
     "wof:id":101916583,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713664,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805023,
     "wof:name":"Tirau",
     "wof:parent_id":102079277,
     "wof:placetype":"locality",

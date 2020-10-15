@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.886898,
     "lbl:longitude":170.541186,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.886898,
     "mps:longitude":170.541186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Shiel Hill"
     ],
@@ -60,7 +63,15 @@
     "wof:geomhash":"3c3637fdcd2d0d259dd7cb6db664113f",
     "wof:hierarchy":[],
     "wof:id":1729338627,
-    "wof:lastmodified":1602633718,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804306,
     "wof:name":"Shiel Hill",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.739545,
     "lbl:longitude":174.285042,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-35.739545,
     "mps:longitude":174.285042,
     "mz:hierarchy_label":0,
@@ -160,7 +161,15 @@
         }
     ],
     "wof:id":101916821,
-    "wof:lastmodified":1602626163,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803231,
     "wof:name":"Whangarei",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

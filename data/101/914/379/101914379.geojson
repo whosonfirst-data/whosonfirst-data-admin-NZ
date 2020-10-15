@@ -310,7 +310,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "wof:geomhash":"36a34819aef995ec27f3154d6740b2c2",
     "wof:hierarchy":[
@@ -323,7 +324,15 @@
         }
     ],
     "wof:id":101914379,
-    "wof:lastmodified":1602633733,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804360,
     "wof:name":"Pukekohe",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

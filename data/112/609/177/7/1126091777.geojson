@@ -18,7 +18,7 @@
     "lbl:longitude":174.53333,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nno_x_preferred":[
@@ -51,10 +51,10 @@
     "woe:name_adm1":"Northland",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687149,
         102191583,
         85633345,
-        102079257
+        102079257,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +76,15 @@
         }
     ],
     "wof:id":1126091777,
-    "wof:lastmodified":1566672635,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803323,
     "wof:name":"Taurikura",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

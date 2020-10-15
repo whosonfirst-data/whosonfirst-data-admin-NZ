@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.485725,
     "lbl:longitude":176.102772,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.485725,
     "mps:longitude":176.102772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ohakuri"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"140b6f68e20706c3a9b0a665b4e920b1",
     "wof:hierarchy":[],
     "wof:id":1729339897,
-    "wof:lastmodified":1602624856,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804316,
     "wof:name":"Ohakuri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

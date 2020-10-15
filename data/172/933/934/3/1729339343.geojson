@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-44.102835,
     "lbl:longitude":171.065243,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-44.102835,
     "mps:longitude":171.065243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kakahu"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"17c4867e01a6a42deb9aeab64445c0a0",
     "wof:hierarchy":[],
     "wof:id":1729339343,
-    "wof:lastmodified":1602624836,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804296,
     "wof:name":"Kakahu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -93,7 +93,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"8eaf76294653b71a966cb7a046b9b200",
     "wof:hierarchy":[
@@ -106,10 +107,15 @@
         }
     ],
     "wof:id":101916165,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616417,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804378,
     "wof:name":"Springfield",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

@@ -64,6 +64,9 @@
         "wk:page":"Waikaia"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a228e89aad7c4f185be52b8212f8de7c",
     "wof:hierarchy":[
         {
@@ -75,10 +78,15 @@
         }
     ],
     "wof:id":101916991,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616467,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804373,
     "wof:name":"Waikaia",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

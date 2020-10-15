@@ -97,8 +97,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"50d47dfe5b9b68041962a6e61aa10003",
     "wof:hierarchy":[
@@ -112,10 +112,15 @@
         }
     ],
     "wof:id":85773073,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633721,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802939,
     "wof:name":"Ocean Grove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

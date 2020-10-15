@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.753271,
     "lbl:longitude":170.633176,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.753271,
     "mps:longitude":170.633176,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Purakaunui"
     ],
@@ -57,7 +60,15 @@
         }
     ],
     "wof:id":101917037,
-    "wof:lastmodified":1602626184,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803263,
     "wof:name":"Purakaunui",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

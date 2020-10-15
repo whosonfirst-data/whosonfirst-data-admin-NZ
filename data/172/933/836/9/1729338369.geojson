@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.864155,
     "lbl:longitude":174.757529,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.864155,
     "mps:longitude":174.757529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Eden Terrace"
     ],
@@ -62,7 +65,15 @@
     "wof:geomhash":"c8c69fff95047353ccb5eee0a8d83d97",
     "wof:hierarchy":[],
     "wof:id":1729338369,
-    "wof:lastmodified":1602696232,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804305,
     "wof:name":"Eden Terrace",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

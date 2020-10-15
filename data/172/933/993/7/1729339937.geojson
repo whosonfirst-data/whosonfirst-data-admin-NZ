@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.510006,
     "lbl:longitude":168.266232,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.510006,
     "mps:longitude":168.266232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Bombay Rock"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"7b4bf41fb32dbb42a16d17c04a1a1161",
     "wof:hierarchy":[],
     "wof:id":1729339937,
-    "wof:lastmodified":1602624832,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804293,
     "wof:name":"Bombay Rock",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

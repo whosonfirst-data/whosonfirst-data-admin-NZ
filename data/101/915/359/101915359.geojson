@@ -78,7 +78,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"5300dd954f91c5f4bb4d33ed2d5a0a21",
     "wof:hierarchy":[
@@ -91,7 +92,15 @@
         }
     ],
     "wof:id":101915359,
-    "wof:lastmodified":1602713678,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805012,
     "wof:name":"Hikurangi",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

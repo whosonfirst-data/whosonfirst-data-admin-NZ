@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.336564,
     "lbl:longitude":175.630843,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.336564,
     "mps:longitude":175.630843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Roslyn"
     ],
@@ -85,7 +88,15 @@
     "wof:geomhash":"5b4005fd5ff1998fede7da261f0ba54d",
     "wof:hierarchy":[],
     "wof:id":1729338613,
-    "wof:lastmodified":1602633717,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804271,
     "wof:name":"Roslyn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

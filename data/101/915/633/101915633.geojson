@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.940309,
     "lbl:longitude":175.679036,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-40.940309,
     "mps:longitude":175.679036,
     "mz:hierarchy_label":0,
@@ -160,7 +161,15 @@
         }
     ],
     "wof:id":101915633,
-    "wof:lastmodified":1602626141,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803181,
     "wof:name":"Masterton",
     "wof:parent_id":102079343,
     "wof:placetype":"locality",

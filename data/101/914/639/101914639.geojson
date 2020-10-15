@@ -217,6 +217,9 @@
         1729238581
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dd84aa1886a536bdb68199dd719db0dd",
     "wof:hierarchy":[
         {
@@ -228,10 +231,15 @@
         }
     ],
     "wof:id":101914639,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713664,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805020,
     "wof:name":"Wanganui",
     "wof:parent_id":102079299,
     "wof:placetype":"locality",

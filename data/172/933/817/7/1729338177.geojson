@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.498598,
     "lbl:longitude":172.663694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.498598,
     "mps:longitude":172.663694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Shirley"
     ],
@@ -113,7 +116,15 @@
     "wof:geomhash":"cca2eaf4b4f8702e820b7861bf459754",
     "wof:hierarchy":[],
     "wof:id":1729338177,
-    "wof:lastmodified":1602633706,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804267,
     "wof:name":"Shirley",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.648167,
     "lbl:longitude":177.974853,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-38.648167,
     "mps:longitude":177.974853,
     "mz:hierarchy_label":0,
@@ -160,7 +161,15 @@
         }
     ],
     "wof:id":101914683,
-    "wof:lastmodified":1602626158,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803220,
     "wof:name":"Gisborne",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",

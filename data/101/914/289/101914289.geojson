@@ -78,6 +78,9 @@
         "wk:page":"Featherston, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a5ae6ebc6f5aa83c1c6cbca0f5f0f300",
     "wof:hierarchy":[
         {
@@ -89,10 +92,15 @@
         }
     ],
     "wof:id":101914289,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616503,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804356,
     "wof:name":"Featherston",
     "wof:parent_id":102079347,
     "wof:placetype":"locality",

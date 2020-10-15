@@ -87,7 +87,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"a758f9ed2a04956546f76de4a7247924",
     "wof:hierarchy":[
@@ -100,10 +101,15 @@
         }
     ],
     "wof:id":101914475,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616404,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804365,
     "wof:name":"Waipara",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

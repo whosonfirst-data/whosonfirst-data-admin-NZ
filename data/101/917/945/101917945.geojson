@@ -60,6 +60,9 @@
         "wk:page":"Makarewa"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"571ef33ef273b7676e679bd50b32666b",
     "wof:hierarchy":[
         {
@@ -71,10 +74,15 @@
         }
     ],
     "wof:id":101917945,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616430,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804391,
     "wof:name":"Makarewa",
     "wof:parent_id":102079397,
     "wof:placetype":"locality",

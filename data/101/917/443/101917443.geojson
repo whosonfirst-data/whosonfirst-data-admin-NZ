@@ -62,7 +62,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"027abff6c22f75bfb852f920ac7c7893",
     "wof:hierarchy":[
@@ -75,10 +76,15 @@
         }
     ],
     "wof:id":101917443,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616462,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804389,
     "wof:name":"Tahuna",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

@@ -78,8 +78,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"83f636a1664fea32fd7b2b21564c9b56",
     "wof:hierarchy":[
@@ -93,10 +93,15 @@
         }
     ],
     "wof:id":85781303,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633705,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802949,
     "wof:name":"Northpark",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

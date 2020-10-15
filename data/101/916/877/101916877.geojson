@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.207815,
     "lbl:longitude":173.951346,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-35.207815,
     "mps:longitude":173.951346,
     "mz:hierarchy_label":0,
@@ -154,7 +155,15 @@
         }
     ],
     "wof:id":101916877,
-    "wof:lastmodified":1602626167,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803240,
     "wof:name":"Kerikeri",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

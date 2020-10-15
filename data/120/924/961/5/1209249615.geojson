@@ -109,6 +109,9 @@
         "nz-linz:id":548
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"aed0b91d74a21fdd6d9b283a7bc49bc3",
     "wof:hierarchy":[
         {
@@ -117,7 +120,15 @@
         }
     ],
     "wof:id":1209249615,
-    "wof:lastmodified":1602616381,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804167,
     "wof:name":"Hilton",
     "wof:parent_id":85633345,
     "wof:placetype":"locality",

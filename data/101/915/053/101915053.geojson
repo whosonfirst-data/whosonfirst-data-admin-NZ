@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.623979,
     "lbl:longitude":175.268825,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-40.623979,
     "mps:longitude":175.268825,
     "mz:hierarchy_label":0,
@@ -206,7 +207,15 @@
         }
     ],
     "wof:id":101915053,
-    "wof:lastmodified":1602626141,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803181,
     "wof:name":"Levin",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

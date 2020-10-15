@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.553689,
     "lbl:longitude":175.204187,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.553689,
     "mps:longitude":175.204187,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Waitarere"
     ],
@@ -58,7 +61,15 @@
         }
     ],
     "wof:id":101918145,
-    "wof:lastmodified":1602626175,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803252,
     "wof:name":"Waitarere",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.708318,
     "lbl:longitude":170.422239,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.708318,
     "mps:longitude":170.422239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Gammack"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"77c98549eecd5f3e71ecdda0f196576c",
     "wof:hierarchy":[],
     "wof:id":1729341277,
-    "wof:lastmodified":1602624749,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804209,
     "wof:name":"Gammack",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

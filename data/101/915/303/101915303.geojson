@@ -107,7 +107,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"66901fff7a314520898e3626382043e7",
     "wof:hierarchy":[
@@ -120,10 +121,15 @@
         }
     ],
     "wof:id":101915303,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616508,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804344,
     "wof:name":"Arrowtown",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

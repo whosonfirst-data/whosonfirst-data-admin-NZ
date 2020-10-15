@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.079313,
     "lbl:longitude":174.082523,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-39.079313,
     "mps:longitude":174.082523,
     "mz:hierarchy_label":0,
@@ -160,7 +161,15 @@
         }
     ],
     "wof:id":101915647,
-    "wof:lastmodified":1602626147,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803192,
     "wof:name":"New Plymouth",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

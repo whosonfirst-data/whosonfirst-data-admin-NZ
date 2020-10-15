@@ -62,10 +62,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":71,
     "wof:belongsto":[
-        85687229,
         102191583,
         85633345,
-        102079271
+        102079271,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,10 +90,15 @@
         }
     ],
     "wof:id":85781807,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316517,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802940,
     "wof:name":"Hamilton West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -59,7 +59,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d522343e2397c17e80b1265db4167589",
     "wof:hierarchy":[
@@ -72,7 +73,15 @@
         }
     ],
     "wof:id":101917841,
-    "wof:lastmodified":1602616488,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804389,
     "wof:name":"Helena Bay",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

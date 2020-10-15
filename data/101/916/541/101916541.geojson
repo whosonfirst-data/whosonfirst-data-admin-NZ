@@ -67,7 +67,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"8e0177bbff8d692e1ad0febf51ce0c4a",
     "wof:hierarchy":[
@@ -80,10 +81,15 @@
         }
     ],
     "wof:id":101916541,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616337,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804384,
     "wof:name":"Grovetown",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

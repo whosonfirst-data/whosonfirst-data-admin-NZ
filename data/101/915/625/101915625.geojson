@@ -77,7 +77,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"23e0a789d3d60b9943645836a7bf3379",
     "wof:hierarchy":[
@@ -90,7 +91,15 @@
         }
     ],
     "wof:id":101915625,
-    "wof:lastmodified":1602616513,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804346,
     "wof:name":"Paekakariki",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

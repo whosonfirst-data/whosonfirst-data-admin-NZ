@@ -76,6 +76,9 @@
         "wk:page":"Karamea"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"09d4c5da409d8845a4ccdfaeb3ff6102",
     "wof:hierarchy":[
         {
@@ -87,10 +90,15 @@
         }
     ],
     "wof:id":101914535,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616418,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804354,
     "wof:name":"Karamea",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

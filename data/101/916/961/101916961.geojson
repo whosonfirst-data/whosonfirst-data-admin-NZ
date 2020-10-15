@@ -54,6 +54,9 @@
         "nz-linz:id":1316
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"daad6a53972a1052b08f5134b39c2bcd",
     "wof:hierarchy":[
         {
@@ -65,10 +68,15 @@
         }
     ],
     "wof:id":101916961,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616459,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804378,
     "wof:name":"Pukerau",
     "wof:parent_id":102079393,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.751073,
     "lbl:longitude":176.464185,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-37.751073,
     "mps:longitude":176.464185,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Maketu"
     ],
@@ -68,7 +71,15 @@
         }
     ],
     "wof:id":101916613,
-    "wof:lastmodified":1602626167,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803239,
     "wof:name":"Maketu",
     "wof:parent_id":102079283,
     "wof:placetype":"locality",

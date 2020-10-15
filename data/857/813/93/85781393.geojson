@@ -81,8 +81,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"e2d9514d2851b2d29a214c241cf7c583",
     "wof:hierarchy":[
@@ -96,10 +96,15 @@
         }
     ],
     "wof:id":85781393,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633716,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802949,
     "wof:name":"Pahurehure",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

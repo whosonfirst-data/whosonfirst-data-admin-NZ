@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.401263,
     "lbl:longitude":168.343779,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.401263,
     "mps:longitude":168.343779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Avenal"
     ],
@@ -61,7 +64,15 @@
     "wof:geomhash":"97c3053ca0821102cfb257f08422e77b",
     "wof:hierarchy":[],
     "wof:id":1729338299,
-    "wof:lastmodified":1602633710,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804263,
     "wof:name":"Avenal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

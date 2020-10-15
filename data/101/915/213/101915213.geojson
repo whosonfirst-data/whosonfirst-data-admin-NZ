@@ -287,7 +287,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"71d38ccbc4cc0cbdda3da6561b9b43d6",
     "wof:hierarchy":[
@@ -300,7 +301,15 @@
         }
     ],
     "wof:id":101915213,
-    "wof:lastmodified":1602616506,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804347,
     "wof:name":"Reefton",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

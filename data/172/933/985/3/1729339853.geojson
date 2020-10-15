@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.727766,
     "lbl:longitude":175.789766,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.727766,
     "mps:longitude":175.789766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Opito Bay"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"1d40b2f08c3ac21158092cb8d19e3d36",
     "wof:hierarchy":[],
     "wof:id":1729339853,
-    "wof:lastmodified":1602624823,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804283,
     "wof:name":"Opito Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

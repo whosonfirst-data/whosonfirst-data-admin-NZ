@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.116967,
     "lbl:longitude":176.202558,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.116967,
     "mps:longitude":176.202558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Western Heights"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"3e023636ba826e68f961858cedfdc8c1",
     "wof:hierarchy":[],
     "wof:id":1729338991,
-    "wof:lastmodified":1602624849,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804309,
     "wof:name":"Western Heights",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -72,8 +72,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c41fd3e61de2db07b3c0736da703efa5",
     "wof:hierarchy":[
@@ -87,10 +87,15 @@
         }
     ],
     "wof:id":85781199,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633705,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802942,
     "wof:name":"Unsworth Heights",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

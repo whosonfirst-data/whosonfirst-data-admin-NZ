@@ -108,7 +108,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b33fd6f70ec68bc86af19b0f4fbd1ba0",
     "wof:hierarchy":[
@@ -121,10 +122,15 @@
         }
     ],
     "wof:id":101915603,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713677,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805012,
     "wof:name":"Bluff",
     "wof:parent_id":102079397,
     "wof:placetype":"locality",

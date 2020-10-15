@@ -59,7 +59,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b0c54a84efa928b61d374dc3090d59d1",
     "wof:hierarchy":[
@@ -72,7 +73,15 @@
         }
     ],
     "wof:id":101915121,
-    "wof:lastmodified":1602616426,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804344,
     "wof:name":"Stillwater",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

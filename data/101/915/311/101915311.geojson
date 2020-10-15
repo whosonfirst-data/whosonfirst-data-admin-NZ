@@ -78,7 +78,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d89f26c41458b327ae149a75f4529212",
     "wof:hierarchy":[
@@ -91,10 +92,15 @@
         }
     ],
     "wof:id":101915311,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804349,
     "wof:name":"Twizel",
     "wof:parent_id":102079375,
     "wof:placetype":"locality",

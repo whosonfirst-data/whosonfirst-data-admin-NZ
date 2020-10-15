@@ -83,6 +83,9 @@
     },
     "wof:country":"NZ",
     "wof:created":1497293259,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"83f812e96af0382509d187924f4ac0a5",
     "wof:hierarchy":[
         {
@@ -94,10 +97,21 @@
         }
     ],
     "wof:id":1125848119,
-    "wof:lastmodified":1602711827,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804437,
     "wof:name":"Waipoua Forest",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

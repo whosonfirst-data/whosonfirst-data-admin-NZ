@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.362918,
     "lbl:longitude":170.864436,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.362918,
     "mps:longitude":170.864436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Maukiekie Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"0b2009f05156f9e84e6bba7f5e939fd2",
     "wof:hierarchy":[],
     "wof:id":1729341911,
-    "wof:lastmodified":1602624755,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804215,
     "wof:name":"Maukiekie Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

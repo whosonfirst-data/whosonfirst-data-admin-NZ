@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.766326,
     "lbl:longitude":166.615537,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.766326,
     "mps:longitude":166.615537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Station Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"7c45e6ecdcf2a9c995ece5a1daed7636",
     "wof:hierarchy":[],
     "wof:id":1729340251,
-    "wof:lastmodified":1602624728,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804187,
     "wof:name":"Station Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

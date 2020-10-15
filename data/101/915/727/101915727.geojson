@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.185126,
     "lbl:longitude":168.873313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.185126,
     "mps:longitude":168.873313,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mataura"
     ],
@@ -60,7 +63,15 @@
         }
     ],
     "wof:id":101915727,
-    "wof:lastmodified":1602626150,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803199,
     "wof:name":"Mataura",
     "wof:parent_id":102079393,
     "wof:placetype":"locality",

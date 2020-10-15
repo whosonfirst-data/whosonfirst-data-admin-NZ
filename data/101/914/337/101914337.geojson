@@ -128,6 +128,9 @@
         "wk:page":"Wanaka"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4cf89aff45c601dfa115ba109a1b7009",
     "wof:hierarchy":[
         {
@@ -139,7 +142,15 @@
         }
     ],
     "wof:id":101914337,
-    "wof:lastmodified":1602616524,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804353,
     "wof:name":"Wanaka",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

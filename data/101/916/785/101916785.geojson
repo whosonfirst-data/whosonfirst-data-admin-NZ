@@ -64,7 +64,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"38fa6ed17776f55ed3dfdf53e2e6ae55",
     "wof:hierarchy":[
@@ -77,7 +78,15 @@
         }
     ],
     "wof:id":101916785,
-    "wof:lastmodified":1602616426,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804377,
     "wof:name":"Waiwera",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

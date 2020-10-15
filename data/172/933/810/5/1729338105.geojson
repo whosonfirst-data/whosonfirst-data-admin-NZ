@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.554455,
     "lbl:longitude":172.581576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.554455,
     "mps:longitude":172.581576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hillmorton"
     ],
@@ -42,7 +45,15 @@
     "wof:geomhash":"8638bc70e8b38ca8113b26eed3994414",
     "wof:hierarchy":[],
     "wof:id":1729338105,
-    "wof:lastmodified":1602633704,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804267,
     "wof:name":"Hillmorton",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

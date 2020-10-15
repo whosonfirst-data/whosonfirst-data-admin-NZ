@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.713502,
     "lbl:longitude":175.81787,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.713502,
     "mps:longitude":175.81787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Rabbit Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"032989a2d7e0dee7d19d5e655325d5fd",
     "wof:hierarchy":[],
     "wof:id":1729341417,
-    "wof:lastmodified":1602624787,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804246,
     "wof:name":"Rabbit Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

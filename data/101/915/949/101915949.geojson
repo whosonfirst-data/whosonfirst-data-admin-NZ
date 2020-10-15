@@ -88,7 +88,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"ef5ad194efd0c652095a9d33f042f8e3",
     "wof:hierarchy":[
@@ -101,7 +102,15 @@
         }
     ],
     "wof:id":101915949,
-    "wof:lastmodified":1602633725,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804343,
     "wof:name":"East Tamaki",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

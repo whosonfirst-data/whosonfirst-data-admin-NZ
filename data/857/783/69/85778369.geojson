@@ -88,8 +88,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"540c927e3a2f93a15a2a06ad4111ccc9",
     "wof:hierarchy":[
@@ -103,10 +103,15 @@
         }
     ],
     "wof:id":85778369,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633694,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802944,
     "wof:name":"Hoon Hay",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

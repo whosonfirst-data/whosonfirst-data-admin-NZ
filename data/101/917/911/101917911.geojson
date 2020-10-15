@@ -57,6 +57,9 @@
         "nz-linz:id":1026
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"84442fba0e8799aed94f0af60cb9aefb",
     "wof:hierarchy":[
         {
@@ -68,10 +71,15 @@
         }
     ],
     "wof:id":101917911,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616355,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804391,
     "wof:name":"Ngakawau",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

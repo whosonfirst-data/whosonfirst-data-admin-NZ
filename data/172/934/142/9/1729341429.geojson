@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.846619,
     "lbl:longitude":169.707038,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.846619,
     "mps:longitude":169.707038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Glendhu Forest"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"7c7573f89240e431da9fa0a3f4216953",
     "wof:hierarchy":[],
     "wof:id":1729341429,
-    "wof:lastmodified":1602624740,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804200,
     "wof:name":"Glendhu Forest",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

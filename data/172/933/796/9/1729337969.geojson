@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.102901,
     "lbl:longitude":175.114231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.102901,
     "mps:longitude":175.114231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Timberlea"
     ],
@@ -39,7 +42,15 @@
     "wof:geomhash":"852b6322e456030016f1e76006e06497",
     "wof:hierarchy":[],
     "wof:id":1729337969,
-    "wof:lastmodified":1602633698,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804260,
     "wof:name":"Timberlea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

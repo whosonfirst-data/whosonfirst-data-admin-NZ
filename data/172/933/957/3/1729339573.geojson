@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.357221,
     "lbl:longitude":174.749044,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.357221,
     "mps:longitude":174.749044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Tawharanui Peninsula"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"5943349ed0f943eb4a9f9224a33a6cd0",
     "wof:hierarchy":[],
     "wof:id":1729339573,
-    "wof:lastmodified":1602624827,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804288,
     "wof:name":"Tawharanui Peninsula",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

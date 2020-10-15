@@ -64,7 +64,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"67561fe0273fb3e35123846cc9d9b9f1",
     "wof:hierarchy":[
@@ -77,10 +78,15 @@
         }
     ],
     "wof:id":101916295,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616401,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804376,
     "wof:name":"Tokomaru",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

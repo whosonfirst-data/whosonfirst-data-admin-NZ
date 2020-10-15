@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.907172,
     "lbl:longitude":177.888257,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.907172,
     "mps:longitude":177.888257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Raukumara Forest Park"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"7712b95196089c8ee8955ecc8e162f2b",
     "wof:hierarchy":[],
     "wof:id":1729343217,
-    "wof:lastmodified":1602711818,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804251,
     "wof:name":"Raukumara Forest Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

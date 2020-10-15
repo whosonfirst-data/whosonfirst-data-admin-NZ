@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.72878,
     "lbl:longitude":173.89434,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.72878,
     "mps:longitude":173.89434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Nelson's Monument"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"94a13ce6c47f68181869420d135d5c8a",
     "wof:hierarchy":[],
     "wof:id":1729340147,
-    "wof:lastmodified":1602624727,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804186,
     "wof:name":"Nelson's Monument",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

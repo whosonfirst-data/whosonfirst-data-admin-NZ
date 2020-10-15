@@ -89,6 +89,9 @@
         "wd:id":"Q984998"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e02d629e384734b91564ed710443ce1",
     "wof:hierarchy":[
         {
@@ -100,10 +103,15 @@
         }
     ],
     "wof:id":101914439,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616347,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804357,
     "wof:name":"Otaki Beach",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

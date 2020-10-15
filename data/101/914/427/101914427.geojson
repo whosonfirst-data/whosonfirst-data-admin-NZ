@@ -244,7 +244,8 @@
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "wof:geomhash":"7904762dd61dccbc293956d606d7dd6d",
     "wof:hierarchy":[
@@ -257,7 +258,15 @@
         }
     ],
     "wof:id":101914427,
-    "wof:lastmodified":1602713671,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805019,
     "wof:name":"Kaikoura",
     "wof:parent_id":102079355,
     "wof:placetype":"locality",

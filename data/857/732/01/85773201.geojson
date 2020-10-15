@@ -112,8 +112,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"6cf8a484e09fb9d9cbcdcae29e0d6934",
     "wof:hierarchy":[
@@ -127,7 +127,15 @@
         }
     ],
     "wof:id":85773201,
-    "wof:lastmodified":1602633722,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802946,
     "wof:name":"Stoke",
     "wof:parent_id":101915661,
     "wof:placetype":"neighbourhood",

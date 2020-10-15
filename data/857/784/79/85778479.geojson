@@ -80,8 +80,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"bb75cdcb8d76defb08f7ad23ef362bff",
     "wof:hierarchy":[
@@ -95,10 +95,15 @@
         }
     ],
     "wof:id":85778479,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633696,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802945,
     "wof:name":"Naenae",
     "wof:parent_id":101914319,
     "wof:placetype":"neighbourhood",

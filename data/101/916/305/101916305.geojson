@@ -74,7 +74,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d36dc0dc5ce64709830d8febd45bda72",
     "wof:hierarchy":[
@@ -87,10 +88,15 @@
         }
     ],
     "wof:id":101916305,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616507,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804380,
     "wof:name":"Sanson",
     "wof:parent_id":102079303,
     "wof:placetype":"locality",

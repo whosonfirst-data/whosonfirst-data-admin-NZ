@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.838483,
     "lbl:longitude":174.593489,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.838483,
     "mps:longitude":174.593489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mauitaha Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"7c9cafc2d0c6cdae52ed09848e509c71",
     "wof:hierarchy":[],
     "wof:id":1729341929,
-    "wof:lastmodified":1602624718,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804178,
     "wof:name":"Mauitaha Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

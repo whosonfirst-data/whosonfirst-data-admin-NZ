@@ -19,7 +19,7 @@
     "mps:latitude":-36.808769,
     "mps:longitude":174.813775,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -60,11 +60,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":252,
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
+        102079403,
         101914729,
-        102079403
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,10 +91,15 @@
         }
     ],
     "wof:id":85781271,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316526,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802948,
     "wof:name":"Vauxhall",
     "wof:parent_id":101914729,
     "wof:placetype":"neighbourhood",

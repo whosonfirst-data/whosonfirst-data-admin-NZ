@@ -12,13 +12,14 @@
     "gn:latitude":-41.28828,
     "gn:longitude":174.75019,
     "iso:country":"NZ",
+    "lbl:bbox":"174.776355,-41.275478,174.776355,-41.275478",
     "lbl:latitude":-41.295478,
     "lbl:longitude":174.756355,
     "lbl:max_zoom":18.0,
     "mps:latitude":-41.301639,
     "mps:longitude":174.743809,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -75,7 +76,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"eacbc1ac14a8878d1e9e606158df32c4",
     "wof:hierarchy":[
@@ -89,10 +91,15 @@
         }
     ],
     "wof:id":85778463,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602699432,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802945,
     "wof:name":"Mitchelltown",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

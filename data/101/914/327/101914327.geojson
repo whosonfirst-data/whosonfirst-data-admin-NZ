@@ -137,6 +137,9 @@
         1729238615
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee68ee524491949e4447013adad73539",
     "wof:hierarchy":[
         {
@@ -148,10 +151,15 @@
         }
     ],
     "wof:id":101914327,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713667,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805021,
     "wof:name":"Whakatane",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

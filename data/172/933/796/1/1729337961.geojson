@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.735595,
     "lbl:longitude":175.219487,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.735595,
     "mps:longitude":175.219487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Te Rapa Park"
     ],
@@ -62,7 +65,15 @@
     "wof:geomhash":"a2ff07a647a9244780a2e500e9a3ec65",
     "wof:hierarchy":[],
     "wof:id":1729337961,
-    "wof:lastmodified":1602633698,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804260,
     "wof:name":"Te Rapa Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

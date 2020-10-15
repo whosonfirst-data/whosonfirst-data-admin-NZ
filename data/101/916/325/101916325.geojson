@@ -101,7 +101,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"4f9d3f1c4b5ad17da43ce6e8eed11ae8",
     "wof:hierarchy":[
@@ -114,7 +115,15 @@
         }
     ],
     "wof:id":101916325,
-    "wof:lastmodified":1602713669,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805022,
     "wof:name":"Bulls",
     "wof:parent_id":102079301,
     "wof:placetype":"locality",

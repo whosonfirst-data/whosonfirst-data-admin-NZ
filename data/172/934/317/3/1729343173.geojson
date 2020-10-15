@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.229794,
     "lbl:longitude":173.628001,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.229794,
     "mps:longitude":173.628001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Omahuta Forest"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"bad81fcf592a53a652b946e74ae38338",
     "wof:hierarchy":[],
     "wof:id":1729343173,
-    "wof:lastmodified":1602711813,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804248,
     "wof:name":"Omahuta Forest",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

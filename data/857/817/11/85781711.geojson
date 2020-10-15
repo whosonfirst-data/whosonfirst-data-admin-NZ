@@ -91,8 +91,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"86d57d74cab1b809ed9157ece1fcda31",
     "wof:hierarchy":[
@@ -106,10 +106,15 @@
         }
     ],
     "wof:id":85781711,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633718,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802943,
     "wof:name":"St Leonards",
     "wof:parent_id":101914313,
     "wof:placetype":"neighbourhood",

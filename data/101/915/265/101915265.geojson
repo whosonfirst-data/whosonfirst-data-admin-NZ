@@ -57,6 +57,9 @@
         "nz-linz:id":575
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eaaa258ee4f14582b4fcc8acf1d2e51a",
     "wof:hierarchy":[
         {
@@ -68,10 +71,15 @@
         }
     ],
     "wof:id":101915265,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616446,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804348,
     "wof:name":"Horotiu",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

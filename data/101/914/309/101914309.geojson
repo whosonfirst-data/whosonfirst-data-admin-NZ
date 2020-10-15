@@ -83,7 +83,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"baebf4e9bc0212a0523d7b7575e85f22",
     "wof:hierarchy":[
@@ -96,7 +97,15 @@
         }
     ],
     "wof:id":101914309,
-    "wof:lastmodified":1602616508,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804352,
     "wof:name":"Waipukurau",
     "wof:parent_id":102079333,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.148647,
     "lbl:longitude":174.967068,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.148647,
     "mps:longitude":174.967068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ramarama"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"ba816bf29a5e4750aa3934342a41a359",
     "wof:hierarchy":[],
     "wof:id":1729339537,
-    "wof:lastmodified":1602624797,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804257,
     "wof:name":"Ramarama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

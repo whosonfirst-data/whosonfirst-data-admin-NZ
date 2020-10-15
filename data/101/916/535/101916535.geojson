@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.732756,
     "lbl:longitude":176.066687,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-38.732756,
     "mps:longitude":176.066687,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Taupo"
     ],
@@ -70,7 +72,15 @@
         }
     ],
     "wof:id":101916535,
-    "wof:lastmodified":1602626162,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803229,
     "wof:name":"Taupo",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

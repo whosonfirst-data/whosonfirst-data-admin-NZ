@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.96602,
     "lbl:longitude":176.97005,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-37.96602,
     "mps:longitude":176.97005,
     "mz:hierarchy_label":0,
@@ -154,7 +155,15 @@
         }
     ],
     "wof:id":101914989,
-    "wof:lastmodified":1602626160,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803225,
     "wof:name":"Whakatane",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

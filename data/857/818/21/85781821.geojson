@@ -66,10 +66,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":79,
     "wof:belongsto":[
-        85687251,
         102191583,
         85633345,
-        102079299
+        102079299,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,8 +78,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"2df9b9df477436538932a712cc7f6bf8",
     "wof:hierarchy":[
@@ -93,10 +93,15 @@
         }
     ],
     "wof:id":85781821,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316517,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802940,
     "wof:name":"Marybank",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

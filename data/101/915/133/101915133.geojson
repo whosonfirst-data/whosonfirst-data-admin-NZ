@@ -65,7 +65,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"060727dfe14af860bb0dca1e474b974f",
     "wof:hierarchy":[
@@ -78,7 +79,15 @@
         }
     ],
     "wof:id":101915133,
-    "wof:lastmodified":1602616344,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804338,
     "wof:name":"Maraetai",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

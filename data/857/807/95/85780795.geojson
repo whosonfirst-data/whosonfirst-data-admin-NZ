@@ -11,6 +11,7 @@
     "geom:longitude":174.729881,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.749881,-36.858704,174.749881,-36.858704",
     "lbl:latitude":-36.878704,
     "lbl:longitude":174.729881,
     "lbl:max_zoom":18.0,
@@ -70,7 +71,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d93aaef3e9ab1b35d9e26f5114d71e11",
     "wof:hierarchy":[
@@ -84,10 +86,15 @@
         }
     ],
     "wof:id":85780795,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602699432,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802950,
     "wof:name":"St Lukes",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",

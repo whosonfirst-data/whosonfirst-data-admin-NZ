@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.212924,
     "lbl:longitude":174.246305,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.212924,
     "mps:longitude":174.246305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hope Reef"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"43274704cedaa2511d7dc6cbe712f701",
     "wof:hierarchy":[],
     "wof:id":1729341805,
-    "wof:lastmodified":1602624740,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804199,
     "wof:name":"Hope Reef",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.598371,
     "lbl:longitude":170.497724,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.598371,
     "mps:longitude":170.497724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Bucklands Crossing"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"5c5829e1dd6529139ec9ba01a265ca98",
     "wof:hierarchy":[],
     "wof:id":1729340563,
-    "wof:lastmodified":1602624777,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804237,
     "wof:name":"Bucklands Crossing",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

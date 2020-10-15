@@ -16,6 +16,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.629532,
     "lbl:longitude":176.86706,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.626846,
     "mps:longitude":176.882743,
     "mz:hierarchy_label":0,
@@ -64,10 +65,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
-        85687189,
         102191583,
         85633345,
-        102079329
+        102079329,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,10 +92,15 @@
         }
     ],
     "wof:id":85781003,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316519,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802942,
     "wof:name":"Mayfair",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

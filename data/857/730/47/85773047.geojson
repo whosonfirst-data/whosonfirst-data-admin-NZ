@@ -120,8 +120,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"38d7569974a76e7b38fad53a7fce331e",
     "wof:hierarchy":[
@@ -135,10 +135,15 @@
         }
     ],
     "wof:id":85773047,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633706,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802939,
     "wof:name":"New Brighton",
     "wof:parent_id":101914521,
     "wof:placetype":"neighbourhood",

@@ -78,8 +78,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"22633c9c3a27b5b7533e503a1bd9f12e",
     "wof:hierarchy":[
@@ -93,10 +93,15 @@
         }
     ],
     "wof:id":85772937,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633713,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802954,
     "wof:name":"Halfway Bush",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

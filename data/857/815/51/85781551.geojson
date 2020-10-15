@@ -77,8 +77,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"873bc572317da7a4d4384a2b3940c0d8",
     "wof:hierarchy":[
@@ -92,10 +92,15 @@
         }
     ],
     "wof:id":85781551,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633720,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802948,
     "wof:name":"Washington Valley",
     "wof:parent_id":101915555,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.762962,
     "lbl:longitude":168.281147,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.762962,
     "mps:longitude":168.281147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Barnhill"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"a6edd251ef27a5d5da1ac9cf80ebe390",
     "wof:hierarchy":[],
     "wof:id":1729340521,
-    "wof:lastmodified":1602624736,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804195,
     "wof:name":"Barnhill",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -72,8 +72,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7870fde85fa685ebf52450d24211671e",
     "wof:hierarchy":[
@@ -87,10 +87,15 @@
         }
     ],
     "wof:id":85781593,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633722,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802948,
     "wof:name":"Stepneyville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

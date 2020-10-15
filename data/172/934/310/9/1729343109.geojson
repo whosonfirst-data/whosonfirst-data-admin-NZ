@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.809651,
     "lbl:longitude":175.113627,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.809651,
     "mps:longitude":175.113627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Te Horo"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"42557ed29e259fff4f744972517f6035",
     "wof:hierarchy":[],
     "wof:id":1729343109,
-    "wof:lastmodified":1602624789,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804249,
     "wof:name":"Te Horo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

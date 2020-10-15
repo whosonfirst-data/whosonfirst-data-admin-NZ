@@ -54,6 +54,9 @@
         "nz-linz:id":1133
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc938046fcd936257028e0e236bba2a9",
     "wof:hierarchy":[
         {
@@ -65,10 +68,15 @@
         }
     ],
     "wof:id":101917439,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616455,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804388,
     "wof:name":"Orini",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

@@ -17,7 +17,7 @@
     "mps:latitude":-45.89508,
     "mps:longitude":170.51787,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -56,11 +56,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687201,
         102191583,
         85633345,
+        102079387,
         101914269,
-        102079387
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,10 +82,15 @@
         }
     ],
     "wof:id":85781647,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316518,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Sunshine",
     "wof:parent_id":101914269,
     "wof:placetype":"neighbourhood",

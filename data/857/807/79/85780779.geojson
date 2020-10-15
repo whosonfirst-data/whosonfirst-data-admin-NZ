@@ -75,10 +75,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":128,
     "wof:belongsto":[
-        85687175,
         102191583,
         85633345,
-        102079285
+        102079285,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,10 +102,15 @@
         }
     ],
     "wof:id":85780779,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316528,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802950,
     "wof:name":"Avenues",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

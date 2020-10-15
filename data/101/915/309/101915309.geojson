@@ -94,7 +94,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"dba142daf11923c60230a41880db27a9",
     "wof:hierarchy":[
@@ -107,7 +108,15 @@
         }
     ],
     "wof:id":101915309,
-    "wof:lastmodified":1602616477,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804338,
     "wof:name":"Lake Hawea",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

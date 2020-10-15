@@ -18,7 +18,7 @@
     "mps:latitude":-37.672433,
     "mps:longitude":176.239433,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,11 +59,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687175,
         102191583,
         85633345,
+        102079285,
         101915581,
-        102079285
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,8 +72,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"606cb0f343c26e3d330823427c0b2d6d",
     "wof:hierarchy":[
@@ -87,10 +87,15 @@
         }
     ],
     "wof:id":85781337,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316527,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802949,
     "wof:name":"Arataki",
     "wof:parent_id":101915581,
     "wof:placetype":"neighbourhood",

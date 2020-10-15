@@ -63,6 +63,9 @@
         "wk:page":"Springston"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b386edcc0cecc8614d53fd409b9321f2",
     "wof:hierarchy":[
         {
@@ -74,10 +77,15 @@
         }
     ],
     "wof:id":101916245,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616513,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804375,
     "wof:name":"Springton",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

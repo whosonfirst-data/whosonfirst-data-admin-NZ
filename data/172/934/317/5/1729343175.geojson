@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.226034,
     "lbl:longitude":173.729615,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.226034,
     "mps:longitude":173.729615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Puketi Forest"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"148f5f9dc23e5da096d4327ed3784c2a",
     "wof:hierarchy":[],
     "wof:id":1729343175,
-    "wof:lastmodified":1602711813,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804248,
     "wof:name":"Puketi Forest",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

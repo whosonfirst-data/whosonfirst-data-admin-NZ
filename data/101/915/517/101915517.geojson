@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.406304,
     "lbl:longitude":168.368636,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-46.406304,
     "mps:longitude":168.368636,
     "mz:hierarchy_label":0,
@@ -163,7 +164,15 @@
         }
     ],
     "wof:id":101915517,
-    "wof:lastmodified":1602626142,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803184,
     "wof:name":"Invercargill",
     "wof:parent_id":102079397,
     "wof:placetype":"locality",

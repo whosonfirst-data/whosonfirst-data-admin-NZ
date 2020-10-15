@@ -118,10 +118,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":42,
     "wof:belongsto":[
-        85687165,
         102191583,
         85633345,
-        102079361
+        102079361,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -145,10 +145,15 @@
         }
     ],
     "wof:id":85772891,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316531,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802952,
     "wof:name":"Cobden",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

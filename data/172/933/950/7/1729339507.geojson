@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.340049,
     "lbl:longitude":174.838966,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.340049,
     "mps:longitude":174.838966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Pomarangai"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"fd90dafbd3c67fa570ac5d404ab39e36",
     "wof:hierarchy":[],
     "wof:id":1729339507,
-    "wof:lastmodified":1602624827,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804287,
     "wof:name":"Pomarangai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

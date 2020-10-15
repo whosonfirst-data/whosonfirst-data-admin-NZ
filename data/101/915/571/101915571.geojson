@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.145007,
     "lbl:longitude":176.223432,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-38.145007,
     "mps:longitude":176.223432,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Rotorua"
     ],
@@ -70,7 +72,15 @@
         }
     ],
     "wof:id":101915571,
-    "wof:lastmodified":1602626149,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803196,
     "wof:name":"Rotorua",
     "wof:parent_id":102079289,
     "wof:placetype":"locality",

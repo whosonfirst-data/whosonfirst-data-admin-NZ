@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.475449,
     "lbl:longitude":169.310304,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.475449,
     "mps:longitude":169.310304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Lake Roxburgh Village"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"bf41ff1b779499bc902c3bd0858b4561",
     "wof:hierarchy":[],
     "wof:id":1729341303,
-    "wof:lastmodified":1602624762,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804222,
     "wof:name":"Lake Roxburgh Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

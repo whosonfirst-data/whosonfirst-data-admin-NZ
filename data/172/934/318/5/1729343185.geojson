@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.11475,
     "lbl:longitude":171.328441,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.11475,
     "mps:longitude":171.328441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Pancake Rocks"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"ffd0a93c937fe4c096e57e778f45e8ab",
     "wof:hierarchy":[],
     "wof:id":1729343185,
-    "wof:lastmodified":1602711814,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804242,
     "wof:name":"Pancake Rocks",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

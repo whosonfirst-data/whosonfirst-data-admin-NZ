@@ -62,6 +62,9 @@
         "wd:id":"Q5270805"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"afa91d0d925dd496eb4ebe3004646256",
     "wof:hierarchy":[
         {
@@ -73,10 +76,15 @@
         }
     ],
     "wof:id":101914441,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616441,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804356,
     "wof:name":"Diamond Harbour",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

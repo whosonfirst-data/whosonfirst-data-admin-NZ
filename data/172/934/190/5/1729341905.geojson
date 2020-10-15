@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.088515,
     "lbl:longitude":174.781069,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.088515,
     "mps:longitude":174.781069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mana Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"ca2de4e33e133761113d9441795e6204",
     "wof:hierarchy":[],
     "wof:id":1729341905,
-    "wof:lastmodified":1602624759,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804218,
     "wof:name":"Mana Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

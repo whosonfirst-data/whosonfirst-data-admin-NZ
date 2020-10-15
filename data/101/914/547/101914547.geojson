@@ -101,6 +101,9 @@
         "wk:page":"Tokoroa"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc45a1dc86f36011af6494273dda5470",
     "wof:hierarchy":[
         {
@@ -112,10 +115,15 @@
         }
     ],
     "wof:id":101914547,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616508,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804371,
     "wof:name":"Tokoroa",
     "wof:parent_id":102079277,
     "wof:placetype":"locality",

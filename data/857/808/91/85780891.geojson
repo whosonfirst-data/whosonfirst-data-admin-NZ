@@ -73,8 +73,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"6b7d2f29d3b5482521c912297f666f5c",
     "wof:hierarchy":[
@@ -88,10 +88,15 @@
         }
     ],
     "wof:id":85780891,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633693,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802951,
     "wof:name":"Fitzherbert",
     "wof:parent_id":101914259,
     "wof:placetype":"neighbourhood",

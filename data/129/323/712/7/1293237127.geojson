@@ -286,6 +286,9 @@
         "nz-linz:id":191
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"6b4d0758b9a049e7d150a007bdd6a3f7",
     "wof:hierarchy":[
         {
@@ -297,7 +300,15 @@
         }
     ],
     "wof:id":1293237127,
-    "wof:lastmodified":1602616375,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804157,
     "wof:name":"Cambrian",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

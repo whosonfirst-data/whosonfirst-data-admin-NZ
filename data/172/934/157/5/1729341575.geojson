@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.23656,
     "lbl:longitude":174.056583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.23656,
     "mps:longitude":174.056583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Allports Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"dd86c5f1092bfec3eb780bef330807fc",
     "wof:hierarchy":[],
     "wof:id":1729341575,
-    "wof:lastmodified":1602624718,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804177,
     "wof:name":"Allports Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

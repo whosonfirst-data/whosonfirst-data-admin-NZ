@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.503702,
     "lbl:longitude":172.591397,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.503702,
     "mps:longitude":172.591397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Bryndwr"
     ],
@@ -70,7 +73,15 @@
     "wof:geomhash":"2a705678c7dfa292571303774c9277c1",
     "wof:hierarchy":[],
     "wof:id":1729338341,
-    "wof:lastmodified":1602633711,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804274,
     "wof:name":"Bryndwr",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

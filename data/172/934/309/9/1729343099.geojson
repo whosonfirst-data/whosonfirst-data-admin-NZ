@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.091488,
     "lbl:longitude":172.460082,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.091488,
     "mps:longitude":172.460082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ashley Forest"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"e3a0ec857671f9fad835d6cded5904a9",
     "wof:hierarchy":[],
     "wof:id":1729343099,
-    "wof:lastmodified":1602624717,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804176,
     "wof:name":"Ashley Forest",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

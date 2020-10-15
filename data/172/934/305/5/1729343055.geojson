@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.6139,
     "lbl:longitude":177.527104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.6139,
     "mps:longitude":177.527104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Tahunga"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"e4f5763a472cda853e5509c365a7ba5e",
     "wof:hierarchy":[],
     "wof:id":1729343055,
-    "wof:lastmodified":1602624762,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804221,
     "wof:name":"Tahunga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -86,7 +86,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"383fa030bc9b96113b490c71840094e2",
     "wof:hierarchy":[
@@ -99,7 +100,15 @@
         }
     ],
     "wof:id":101915149,
-    "wof:lastmodified":1602616522,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804351,
     "wof:name":"Whangamata",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

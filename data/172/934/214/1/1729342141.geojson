@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.178886,
     "lbl:longitude":174.295597,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.178886,
     "mps:longitude":174.295597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Twins Rock"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"ee3979a3e6c2a73ca463ab4d9bc066a9",
     "wof:hierarchy":[],
     "wof:id":1729342141,
-    "wof:lastmodified":1602624771,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804230,
     "wof:name":"Twins Rock",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

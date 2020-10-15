@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.944757,
     "lbl:longitude":174.904663,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.944757,
     "mps:longitude":174.904663,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "East Tamaki Heights"
     ],
@@ -53,7 +56,15 @@
         }
     ],
     "wof:id":101915419,
-    "wof:lastmodified":1602626146,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803190,
     "wof:name":"East Tamaki Heights",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

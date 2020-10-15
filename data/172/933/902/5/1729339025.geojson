@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.31205,
     "lbl:longitude":174.781978,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.31205,
     "mps:longitude":174.781978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Newtown"
     ],
@@ -137,7 +140,15 @@
     "wof:geomhash":"917826fef6bb5b1a2bdf73ad829aaa82",
     "wof:hierarchy":[],
     "wof:id":1729339025,
-    "wof:lastmodified":1602696236,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804295,
     "wof:name":"Newtown",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -15,10 +15,12 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.534552,
     "lbl:longitude":176.840894,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-39.534552,
     "mps:longitude":176.840894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0434\u0430\u043b\u0435"
     ],
@@ -80,7 +82,15 @@
     "wof:geomhash":"0c26ca1f690425536002e87db7e5407e",
     "wof:hierarchy":[],
     "wof:id":1729338659,
-    "wof:lastmodified":1602633719,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804306,
     "wof:name":"Taradale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

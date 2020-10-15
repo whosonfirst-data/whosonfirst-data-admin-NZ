@@ -62,10 +62,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":94,
     "wof:belongsto":[
-        85687189,
         102191583,
         85633345,
-        102079329
+        102079329,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,8 +75,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"99d3440662df020b4ac6fe432e348257",
     "wof:hierarchy":[
@@ -90,10 +90,15 @@
         }
     ],
     "wof:id":85780817,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316529,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802951,
     "wof:name":"Akina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

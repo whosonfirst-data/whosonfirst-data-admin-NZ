@@ -18,7 +18,7 @@
     "mps:latitude":-46.38375,
     "mps:longitude":168.360573,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -57,11 +57,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687211,
         102191583,
         85633345,
+        102079397,
         101915515,
-        102079397
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,8 +70,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d5355b18c589b2e6d3e92387b390e47c",
     "wof:hierarchy":[
@@ -85,10 +85,15 @@
         }
     ],
     "wof:id":85778907,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316532,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802953,
     "wof:name":"Invercargill North",
     "wof:parent_id":101915515,
     "wof:placetype":"neighbourhood",

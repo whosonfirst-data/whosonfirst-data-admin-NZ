@@ -71,7 +71,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"bd89d9124413cad5f7697b753fb5c21b",
     "wof:hierarchy":[
@@ -84,7 +85,15 @@
         }
     ],
     "wof:id":101915941,
-    "wof:lastmodified":1602616507,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804342,
     "wof:name":"Waimauku",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

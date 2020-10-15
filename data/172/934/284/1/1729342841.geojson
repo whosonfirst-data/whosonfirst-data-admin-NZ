@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.674379,
     "lbl:longitude":167.806028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.674379,
     "mps:longitude":167.806028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Bishop And Clerks Islands"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"00b00dc399f133bd303f670adb318f24",
     "wof:hierarchy":[],
     "wof:id":1729342841,
-    "wof:lastmodified":1602624763,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804223,
     "wof:name":"Bishop And Clerks Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

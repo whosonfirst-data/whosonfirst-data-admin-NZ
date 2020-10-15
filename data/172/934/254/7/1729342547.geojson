@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.572345,
     "lbl:longitude":166.897593,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.572345,
     "mps:longitude":166.897593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Solander Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"466d4e8f24c909974e393ce549e3ad50",
     "wof:hierarchy":[],
     "wof:id":1729342547,
-    "wof:lastmodified":1602624773,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804233,
     "wof:name":"Solander Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

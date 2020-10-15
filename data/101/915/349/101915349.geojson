@@ -68,7 +68,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"391e83e59701c36ad4594a9b9f6c96b3",
     "wof:hierarchy":[
@@ -81,7 +82,15 @@
         }
     ],
     "wof:id":101915349,
-    "wof:lastmodified":1602616522,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804343,
     "wof:name":"Riverhead",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

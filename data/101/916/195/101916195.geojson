@@ -58,7 +58,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c67e1930bae8a1375875003ad5a9d010",
     "wof:hierarchy":[
@@ -71,10 +72,15 @@
         }
     ],
     "wof:id":101916195,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616363,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804374,
     "wof:name":"Point Howard",
     "wof:parent_id":102079337,
     "wof:placetype":"locality",

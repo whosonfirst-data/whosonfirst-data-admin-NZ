@@ -86,7 +86,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"637f5a0758c1708a7a2d514009916588",
     "wof:hierarchy":[
@@ -99,10 +100,15 @@
         }
     ],
     "wof:id":101914243,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616521,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804356,
     "wof:name":"Katikati",
     "wof:parent_id":102079283,
     "wof:placetype":"locality",

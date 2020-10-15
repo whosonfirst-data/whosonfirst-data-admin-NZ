@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.150196,
     "lbl:longitude":168.60124,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.150196,
     "mps:longitude":168.60124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Dunsdale"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"4464c6f247b340cd856034b98f19e88a",
     "wof:hierarchy":[],
     "wof:id":1729340605,
-    "wof:lastmodified":1602624779,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804239,
     "wof:name":"Dunsdale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

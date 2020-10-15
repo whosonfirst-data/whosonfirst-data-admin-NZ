@@ -88,6 +88,9 @@
         "wk:page":"Rakaia"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68e7cc9e7d0bd9cdb6f11989c46f49e9",
     "wof:hierarchy":[
         {
@@ -99,10 +102,15 @@
         }
     ],
     "wof:id":101916159,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616506,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804373,
     "wof:name":"Rakaia",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

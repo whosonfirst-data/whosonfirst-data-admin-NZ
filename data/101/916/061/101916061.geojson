@@ -75,7 +75,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"975451b4e03fdc4e449d3dcf272611ee",
     "wof:hierarchy":[
@@ -88,7 +89,15 @@
         }
     ],
     "wof:id":101916061,
-    "wof:lastmodified":1602616383,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804382,
     "wof:name":"Mossburn",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

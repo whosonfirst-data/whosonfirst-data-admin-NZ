@@ -76,7 +76,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"e1e80357d4e177fe42fefaaacebae875",
     "wof:hierarchy":[
@@ -89,7 +90,15 @@
         }
     ],
     "wof:id":101915215,
-    "wof:lastmodified":1602616489,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804347,
     "wof:name":"Ngunguru",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

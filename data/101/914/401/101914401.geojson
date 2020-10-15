@@ -93,6 +93,9 @@
         "wk:page":"Temuka"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"038842b06020694811c55b69f77b01bb",
     "wof:hierarchy":[
         {
@@ -104,10 +107,15 @@
         }
     ],
     "wof:id":101914401,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616517,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804357,
     "wof:name":"Temuka",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

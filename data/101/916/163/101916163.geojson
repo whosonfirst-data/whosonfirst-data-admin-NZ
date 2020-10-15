@@ -80,7 +80,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"ff5f5cfa88c722b6b4965b3a9c08dead",
     "wof:hierarchy":[
@@ -93,10 +94,15 @@
         }
     ],
     "wof:id":101916163,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616504,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804379,
     "wof:name":"Methven",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

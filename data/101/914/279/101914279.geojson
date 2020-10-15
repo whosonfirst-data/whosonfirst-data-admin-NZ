@@ -97,6 +97,9 @@
         "wk:page":"Whitianga"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0b2375085bd47cd347b47a233421f620",
     "wof:hierarchy":[
         {
@@ -108,10 +111,15 @@
         }
     ],
     "wof:id":101914279,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616521,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804365,
     "wof:name":"Whitianga",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

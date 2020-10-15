@@ -16,6 +16,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.049764,
     "lbl:longitude":174.091081,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.048085,
     "mps:longitude":174.089044,
     "mz:hierarchy_label":0,
@@ -63,10 +64,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
-        85687195,
         102191583,
         85633345,
-        102079311
+        102079311,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,10 +91,15 @@
         }
     ],
     "wof:id":85781389,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316527,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802949,
     "wof:name":"Strandon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -96,7 +96,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"8389495d5f1914a3ea8b844450afbc54",
     "wof:hierarchy":[
@@ -109,10 +110,15 @@
         }
     ],
     "wof:id":101915843,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713681,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805011,
     "wof:name":"Waiouru",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

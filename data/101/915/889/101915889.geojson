@@ -77,7 +77,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"8cc939c984179a9a22aaeee0e01f9d9f",
     "wof:hierarchy":[
@@ -90,7 +91,15 @@
         }
     ],
     "wof:id":101915889,
-    "wof:lastmodified":1602616518,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804339,
     "wof:name":"Amberley",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.226423,
     "lbl:longitude":174.914211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.226423,
     "mps:longitude":174.914211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Waiwhetu"
     ],
@@ -62,7 +65,15 @@
     "wof:geomhash":"938b80b7992f234eed9319811080e261",
     "wof:hierarchy":[],
     "wof:id":1729338701,
-    "wof:lastmodified":1602633720,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804298,
     "wof:name":"Waiwhetu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

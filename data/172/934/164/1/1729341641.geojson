@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.479962,
     "lbl:longitude":167.555141,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.479962,
     "mps:longitude":167.555141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Buncrana Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"46a1aea7f7429ad1c421ad41a402403e",
     "wof:hierarchy":[],
     "wof:id":1729341641,
-    "wof:lastmodified":1602624759,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804218,
     "wof:name":"Buncrana Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

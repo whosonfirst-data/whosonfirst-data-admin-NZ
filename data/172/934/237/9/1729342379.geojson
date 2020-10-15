@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.049898,
     "lbl:longitude":166.524299,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.049898,
     "mps:longitude":166.524299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Chalky Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"aeccec6848b0aa628544f1f290eef2e5",
     "wof:hierarchy":[],
     "wof:id":1729342379,
-    "wof:lastmodified":1602624776,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804236,
     "wof:name":"Chalky Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

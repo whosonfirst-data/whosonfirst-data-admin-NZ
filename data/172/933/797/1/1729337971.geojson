@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.175432,
     "lbl:longitude":176.22304,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.175432,
     "mps:longitude":176.22304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Tihiotonga"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"68d03a339c411cbb46de01f4aa87836e",
     "wof:hierarchy":[],
     "wof:id":1729337971,
-    "wof:lastmodified":1602624793,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804253,
     "wof:name":"Tihiotonga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.915546,
     "lbl:longitude":174.859968,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-36.915546,
     "mps:longitude":174.859968,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pakuranga"
     ],
@@ -59,7 +61,15 @@
         }
     ],
     "wof:id":101917703,
-    "wof:lastmodified":1602626187,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803266,
     "wof:name":"Pakuranga",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

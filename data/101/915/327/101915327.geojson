@@ -81,7 +81,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"bb4fc497752d36fa262da1bf7b32a0f9",
     "wof:hierarchy":[
@@ -94,10 +95,15 @@
         }
     ],
     "wof:id":101915327,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713676,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805014,
     "wof:name":"Woodend",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

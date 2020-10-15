@@ -19,7 +19,7 @@
     "mps:latitude":-46.605329,
     "mps:longitude":168.35795,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -64,11 +64,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687211,
         102191583,
         85633345,
+        102079397,
         101915603,
-        102079397
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,10 +93,15 @@
         }
     ],
     "wof:id":85781651,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316518,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"East End",
     "wof:parent_id":101915603,
     "wof:placetype":"neighbourhood",

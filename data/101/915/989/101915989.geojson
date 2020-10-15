@@ -82,7 +82,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7728067a2d983e6426e586bb5c085a76",
     "wof:hierarchy":[
@@ -95,7 +96,15 @@
         }
     ],
     "wof:id":101915989,
-    "wof:lastmodified":1602616508,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804350,
     "wof:name":"Moerewa",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

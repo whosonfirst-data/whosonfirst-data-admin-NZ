@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.68345,
     "lbl:longitude":177.723958,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.68345,
     "mps:longitude":177.723958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Motukotare Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"a6b658241deb320a269a03e87d8631d9",
     "wof:hierarchy":[],
     "wof:id":1729341947,
-    "wof:lastmodified":1602624722,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804181,
     "wof:name":"Motukotare Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

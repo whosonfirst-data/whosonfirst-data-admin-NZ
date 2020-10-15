@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.126993,
     "lbl:longitude":167.69187,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-46.126993,
     "mps:longitude":167.69187,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Tuatapere"
     ],
@@ -74,7 +77,15 @@
         }
     ],
     "wof:id":101917949,
-    "wof:lastmodified":1602626185,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803264,
     "wof:name":"Tuatapere",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

@@ -63,7 +63,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"a93b4897e962ed599c58db7e7d800dcb",
     "wof:hierarchy":[
@@ -76,10 +77,15 @@
         }
     ],
     "wof:id":101916507,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616513,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804379,
     "wof:name":"Haumoana",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

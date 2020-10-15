@@ -56,7 +56,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"0f37a79e6bc3a3d22d7221e455d90a87",
     "wof:hierarchy":[
@@ -69,7 +70,15 @@
         }
     ],
     "wof:id":101916291,
-    "wof:lastmodified":1602616470,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804383,
     "wof:name":"Hokio Beach",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.11883,
     "lbl:longitude":176.310066,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.11883,
     "mps:longitude":176.310066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hannahs Bay"
     ],
@@ -62,7 +65,15 @@
     "wof:geomhash":"a1e2d0a8baf8557e6c085dd9684e0791",
     "wof:hierarchy":[],
     "wof:id":1729338923,
-    "wof:lastmodified":1602633726,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804270,
     "wof:name":"Hannahs Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

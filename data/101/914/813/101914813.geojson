@@ -89,6 +89,9 @@
         "wk:page":"Leeston"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0785d783297452215df5ef14191a6ed7",
     "wof:hierarchy":[
         {
@@ -100,10 +103,15 @@
         }
     ],
     "wof:id":101914813,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616520,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804367,
     "wof:name":"Leeston",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

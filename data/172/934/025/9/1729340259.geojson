@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.671493,
     "lbl:longitude":173.997188,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.671493,
     "mps:longitude":173.997188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Stephens Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"d3a768f3e4b001eb04428f7a63d7eeab",
     "wof:hierarchy":[],
     "wof:id":1729340259,
-    "wof:lastmodified":1602624728,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804187,
     "wof:name":"Stephens Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.040984,
     "lbl:longitude":173.696409,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.040984,
     "mps:longitude":173.696409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Squally Cove"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"bd7bdf2d44bae4bfb22eff95d1069d6f",
     "wof:hierarchy":[],
     "wof:id":1729339523,
-    "wof:lastmodified":1602624802,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804262,
     "wof:name":"Squally Cove",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

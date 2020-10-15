@@ -222,6 +222,9 @@
         1729238487
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b05239c1b597f806c1d66569540b6cc8",
     "wof:hierarchy":[
         {
@@ -233,10 +236,15 @@
         }
     ],
     "wof:id":101914591,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713673,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805018,
     "wof:name":"Gisborne",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",

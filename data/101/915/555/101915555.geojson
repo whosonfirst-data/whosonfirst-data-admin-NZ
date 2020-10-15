@@ -314,7 +314,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"4b0f079ff00da385f01d3e16e00143af",
     "wof:hierarchy":[
@@ -327,7 +328,15 @@
         }
     ],
     "wof:id":101915555,
-    "wof:lastmodified":1602713668,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805013,
     "wof:name":"Nelson",
     "wof:parent_id":102079351,
     "wof:placetype":"locality",

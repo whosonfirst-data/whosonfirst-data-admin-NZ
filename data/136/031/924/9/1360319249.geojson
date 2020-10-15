@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
@@ -78,7 +78,15 @@
         }
     ],
     "wof:id":1360319249,
-    "wof:lastmodified":1602626136,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803172,
     "wof:name":"Kohekohe",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

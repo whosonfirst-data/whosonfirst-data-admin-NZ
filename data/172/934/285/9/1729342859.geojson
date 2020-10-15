@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.962445,
     "lbl:longitude":167.674653,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.962445,
     "mps:longitude":167.674653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ernest Islands"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"2c5700d1e74d10e97b06f3c969a59197",
     "wof:hierarchy":[],
     "wof:id":1729342859,
-    "wof:lastmodified":1602624770,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804229,
     "wof:name":"Ernest Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -64,7 +64,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"74b317c1fbbba075d438cca973f6e121",
     "wof:hierarchy":[
@@ -77,10 +78,15 @@
         }
     ],
     "wof:id":101914321,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616346,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804372,
     "wof:name":"Whitby",
     "wof:parent_id":102079317,
     "wof:placetype":"locality",

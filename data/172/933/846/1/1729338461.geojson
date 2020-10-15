@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.488582,
     "lbl:longitude":176.903521,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.488582,
     "mps:longitude":176.903521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hospital Hill"
     ],
@@ -61,7 +64,15 @@
     "wof:geomhash":"d973269ff9927958f42d5bbfbf95a7f9",
     "wof:hierarchy":[],
     "wof:id":1729338461,
-    "wof:lastmodified":1602633715,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804297,
     "wof:name":"Hospital Hill",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

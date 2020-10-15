@@ -79,7 +79,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b139384eab8c0a0a8f4edf89d579a8de",
     "wof:hierarchy":[
@@ -92,10 +93,15 @@
         }
     ],
     "wof:id":101915831,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616504,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804348,
     "wof:name":"Manaia",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

@@ -111,6 +111,9 @@
         "wk:page":"Stratford, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d44e24a2a672ad3bb61750c8b0b68676",
     "wof:hierarchy":[
         {
@@ -122,10 +125,15 @@
         }
     ],
     "wof:id":101914293,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616506,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804359,
     "wof:name":"Stratford",
     "wof:parent_id":102079293,
     "wof:placetype":"locality",

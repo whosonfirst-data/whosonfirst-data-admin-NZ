@@ -82,8 +82,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"1f9cc0e994969916fb70a16554fa72d2",
     "wof:hierarchy":[
@@ -97,10 +97,15 @@
         }
     ],
     "wof:id":85781257,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633725,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802947,
     "wof:name":"Okura",
     "wof:parent_id":101916777,
     "wof:placetype":"neighbourhood",

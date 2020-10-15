@@ -13,11 +13,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.507706,
     "lbl:longitude":173.965441,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-41.507706,
     "mps:longitude":173.965441,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Blenheim"
     ],
@@ -66,10 +68,15 @@
         }
     ],
     "wof:id":101916003,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602626169,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803242,
     "wof:name":"Blenheim",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

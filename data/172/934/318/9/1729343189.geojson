@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.349837,
     "lbl:longitude":174.988341,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.349837,
     "mps:longitude":174.988341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Remutaka Forest Park"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"caef2858386c9c64698d587096c48a47",
     "wof:hierarchy":[],
     "wof:id":1729343189,
-    "wof:lastmodified":1602711814,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804242,
     "wof:name":"Remutaka Forest Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

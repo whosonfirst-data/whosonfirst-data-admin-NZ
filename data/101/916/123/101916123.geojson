@@ -62,6 +62,9 @@
         "wk:page":"Weston, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3743849b4fe10a518132bcf5cd1561dd",
     "wof:hierarchy":[
         {
@@ -73,7 +76,15 @@
         }
     ],
     "wof:id":101916123,
-    "wof:lastmodified":1602616360,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804384,
     "wof:name":"Weston",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

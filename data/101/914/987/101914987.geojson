@@ -70,7 +70,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"06a0719f07b61bacd96ad7b6005b02dc",
     "wof:hierarchy":[
@@ -83,10 +84,15 @@
         }
     ],
     "wof:id":101914987,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616506,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804371,
     "wof:name":"Te Karaka",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",

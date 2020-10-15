@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.254869,
     "lbl:longitude":174.238142,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.254869,
     "mps:longitude":174.238142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Te Pangu Bay"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"7da6a743d21a0abdb54adc06d88cb522",
     "wof:hierarchy":[],
     "wof:id":1729341047,
-    "wof:lastmodified":1602624717,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804176,
     "wof:name":"Te Pangu Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

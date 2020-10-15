@@ -16,6 +16,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.090688,
     "lbl:longitude":175.097252,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.090005,
     "mps:longitude":175.084201,
     "mz:hierarchy_label":0,
@@ -65,10 +66,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongs_to":[],
     "wof:belongsto":[
-        85687233,
         102191583,
         85633345,
-        102079335
+        102079335,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,10 +95,15 @@
         }
     ],
     "wof:id":85778161,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316530,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802951,
     "wof:name":"Birchville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

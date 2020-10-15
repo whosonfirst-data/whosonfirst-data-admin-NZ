@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.19493,
     "lbl:longitude":175.209473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-38.19493,
     "mps:longitude":175.209473,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Otorohanga"
     ],
@@ -65,7 +68,15 @@
         }
     ],
     "wof:id":101918271,
-    "wof:lastmodified":1602626178,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803255,
     "wof:name":"Otorohanga",
     "wof:parent_id":102079275,
     "wof:placetype":"locality",

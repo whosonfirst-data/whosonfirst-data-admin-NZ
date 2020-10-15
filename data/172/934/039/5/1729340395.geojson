@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.077099,
     "lbl:longitude":174.361059,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.077099,
     "mps:longitude":174.361059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "White Rocks"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"e0a69100567a2685959456d5a3b893d1",
     "wof:hierarchy":[],
     "wof:id":1729340395,
-    "wof:lastmodified":1602624739,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804199,
     "wof:name":"White Rocks",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

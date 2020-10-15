@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.476592,
     "lbl:longitude":168.892508,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.476592,
     "mps:longitude":168.892508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mervyn Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"ef282a048581069872d69cf7c9e1f435",
     "wof:hierarchy":[],
     "wof:id":1729341933,
-    "wof:lastmodified":1602624722,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804181,
     "wof:name":"Mervyn Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

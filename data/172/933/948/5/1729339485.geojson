@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.24073,
     "lbl:longitude":169.105417,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.24073,
     "mps:longitude":169.105417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Otaraia"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"c740cbde8773c3130b0d2f53f471bfab",
     "wof:hierarchy":[],
     "wof:id":1729339485,
-    "wof:lastmodified":1602624815,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804275,
     "wof:name":"Otaraia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

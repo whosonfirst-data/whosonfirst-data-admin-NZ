@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.923277,
     "lbl:longitude":174.996373,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-40.923277,
     "mps:longitude":174.996373,
     "mz:hierarchy_label":0,
@@ -155,7 +156,15 @@
         }
     ],
     "wof:id":101915189,
-    "wof:lastmodified":1602626143,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803184,
     "wof:name":"Paraparaumu",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

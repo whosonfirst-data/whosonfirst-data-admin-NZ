@@ -160,6 +160,9 @@
         1729238601
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"051279a6a5575086f4cbd75a382c6caa",
     "wof:hierarchy":[
         {
@@ -171,10 +174,15 @@
         }
     ],
     "wof:id":101914385,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713670,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805017,
     "wof:name":"Taupo",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

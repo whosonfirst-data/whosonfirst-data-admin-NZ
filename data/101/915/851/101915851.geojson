@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.253481,
     "lbl:longitude":173.310207,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-41.253481,
     "mps:longitude":173.310207,
     "mz:hierarchy_label":0,
@@ -161,7 +162,15 @@
         }
     ],
     "wof:id":101915851,
-    "wof:lastmodified":1602626141,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803182,
     "wof:name":"Nelson",
     "wof:parent_id":102079351,
     "wof:placetype":"locality",

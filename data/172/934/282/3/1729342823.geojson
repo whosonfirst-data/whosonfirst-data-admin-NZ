@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.823514,
     "lbl:longitude":168.245605,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.823514,
     "mps:longitude":168.245605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Womens Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"385f2da7e8c8ea97b9c34c3d05580a82",
     "wof:hierarchy":[],
     "wof:id":1729342823,
-    "wof:lastmodified":1602624769,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804228,
     "wof:name":"Womens Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

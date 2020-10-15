@@ -105,7 +105,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c32aad4ce926eb197c4e103a35aadf09",
     "wof:hierarchy":[
@@ -118,10 +119,15 @@
         }
     ],
     "wof:id":101914701,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616517,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804353,
     "wof:name":"Waimate",
     "wof:parent_id":102079379,
     "wof:placetype":"locality",

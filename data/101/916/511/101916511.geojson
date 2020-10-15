@@ -69,7 +69,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"6a70525a23eeede703cb4813d9c7cd4f",
     "wof:hierarchy":[
@@ -82,10 +83,15 @@
         }
     ],
     "wof:id":101916511,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804378,
     "wof:name":"Clive",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

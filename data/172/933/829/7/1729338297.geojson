@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.192469,
     "lbl:longitude":174.942866,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.192469,
     "mps:longitude":174.942866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Avalon"
     ],
@@ -167,7 +170,15 @@
     "wof:geomhash":"7b4f305b48f9ef0ea84981948669a52c",
     "wof:hierarchy":[],
     "wof:id":1729338297,
-    "wof:lastmodified":1602633710,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804263,
     "wof:name":"Avalon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

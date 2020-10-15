@@ -66,7 +66,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"3110219e3ad6d4c3da2498b63f58e182",
     "wof:hierarchy":[
@@ -79,10 +80,15 @@
         }
     ],
     "wof:id":101917043,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616400,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804390,
     "wof:name":"Seacliff",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

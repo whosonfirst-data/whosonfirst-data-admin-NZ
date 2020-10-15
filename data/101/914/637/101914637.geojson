@@ -257,6 +257,9 @@
         1729238461
     ],
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d54ae1661f77e72612b8ca47fa558d7",
     "wof:hierarchy":[
         {
@@ -268,10 +271,15 @@
         }
     ],
     "wof:id":101914637,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713667,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805020,
     "wof:name":"Waikanae",
     "wof:parent_id":102079315,
     "wof:placetype":"locality",

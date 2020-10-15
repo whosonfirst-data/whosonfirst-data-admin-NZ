@@ -76,6 +76,9 @@
         "wk:page":"Belfast, New Zealand"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"caf772aca5b2a62b293e9270b35d16ba",
     "wof:hierarchy":[
         {
@@ -87,10 +90,15 @@
         }
     ],
     "wof:id":101914523,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616354,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804373,
     "wof:name":"Belfast",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

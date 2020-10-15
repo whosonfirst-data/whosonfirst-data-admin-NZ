@@ -60,7 +60,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c763b26c6425ac8bd7ea5524e1e5ad64",
     "wof:hierarchy":[
@@ -73,7 +74,15 @@
         }
     ],
     "wof:id":101916069,
-    "wof:lastmodified":1602616351,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804383,
     "wof:name":"Kelvin Heights",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

@@ -107,8 +107,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"21afce2610ee52236e43891536966a9a",
     "wof:hierarchy":[
@@ -122,10 +122,15 @@
         }
     ],
     "wof:id":85781689,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633707,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Manly",
     "wof:parent_id":101914559,
     "wof:placetype":"neighbourhood",

@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.551104,
     "lbl:longitude":173.392499,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.551104,
     "mps:longitude":173.392499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Omapere"
     ],
@@ -60,7 +63,15 @@
     "wof:geomhash":"7e95804a11689a5ce971ffb72f02262d",
     "wof:hierarchy":[],
     "wof:id":1729339863,
-    "wof:lastmodified":1602633731,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804325,
     "wof:name":"Omapere",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

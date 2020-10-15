@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.778105,
     "lbl:longitude":166.483543,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.778105,
     "mps:longitude":166.483543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Seal Islands"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"49d36d9126ccf0d00b0d21b7e572c1ed",
     "wof:hierarchy":[],
     "wof:id":1729342931,
-    "wof:lastmodified":1602624737,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804196,
     "wof:name":"Seal Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

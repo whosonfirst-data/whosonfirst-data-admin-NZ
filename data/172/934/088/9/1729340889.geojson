@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.500775,
     "lbl:longitude":175.626938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.500775,
     "mps:longitude":175.626938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Otway"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"5f05fe28f25a39753a1eac73f1690c0b",
     "wof:hierarchy":[],
     "wof:id":1729340889,
-    "wof:lastmodified":1602624769,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804229,
     "wof:name":"Otway",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

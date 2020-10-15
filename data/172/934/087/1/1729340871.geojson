@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.195745,
     "lbl:longitude":175.545514,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.195745,
     "mps:longitude":175.545514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Orongo"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"bd741322891a05abe4920deac3dc8fef",
     "wof:hierarchy":[],
     "wof:id":1729340871,
-    "wof:lastmodified":1602624764,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804224,
     "wof:name":"Orongo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.0568,
     "lbl:longitude":175.788472,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.0568,
     "mps:longitude":175.788472,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Putaruru"
     ],
@@ -59,7 +62,15 @@
         }
     ],
     "wof:id":101917527,
-    "wof:lastmodified":1602626185,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803264,
     "wof:name":"Putaruru",
     "wof:parent_id":102079277,
     "wof:placetype":"locality",

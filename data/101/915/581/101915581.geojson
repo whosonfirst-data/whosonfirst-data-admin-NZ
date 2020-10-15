@@ -296,6 +296,9 @@
         "wk:page":"Mount Maunganui"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"266bfc43da130ec4d58eab2e43de6d24",
     "wof:hierarchy":[
         {
@@ -307,7 +310,15 @@
         }
     ],
     "wof:id":101915581,
-    "wof:lastmodified":1602633733,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804343,
     "wof:name":"Mt Maunganui",
     "wof:parent_id":102079285,
     "wof:placetype":"locality",

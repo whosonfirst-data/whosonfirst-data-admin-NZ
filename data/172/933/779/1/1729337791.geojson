@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.056962,
     "lbl:longitude":174.110631,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.056962,
     "mps:longitude":174.110631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Glen Avon"
     ],
@@ -39,7 +42,15 @@
     "wof:geomhash":"d38803ffe668590110107a784c4897dc",
     "wof:hierarchy":[],
     "wof:id":1729337791,
-    "wof:lastmodified":1602633693,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804286,
     "wof:name":"Glen Avon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

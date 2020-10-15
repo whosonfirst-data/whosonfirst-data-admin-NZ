@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-47.1601,
     "lbl:longitude":167.701561,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-47.1601,
     "mps:longitude":167.701561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Rosa Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"1866f14165738a7e41adbbcafae48493",
     "wof:hierarchy":[],
     "wof:id":1729340229,
-    "wof:lastmodified":1602624728,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804187,
     "wof:name":"Rosa Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

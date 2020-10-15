@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.10657,
     "lbl:longitude":166.534695,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-46.10657,
     "mps:longitude":166.534695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Balleny Reef"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"cfb642e6c55102344821f3cdb7e092ef",
     "wof:hierarchy":[],
     "wof:id":1729342829,
-    "wof:lastmodified":1602624769,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804228,
     "wof:name":"Balleny Reef",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

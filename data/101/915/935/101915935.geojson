@@ -79,6 +79,9 @@
         "qs_pg:id":230146
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e130d0d34290dcd02be27294353ea1a",
     "wof:hierarchy":[
         {
@@ -89,10 +92,15 @@
         }
     ],
     "wof:id":101915935,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633701,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804344,
     "wof:name":"Okitu",
     "wof:parent_id":85687237,
     "wof:placetype":"locality",

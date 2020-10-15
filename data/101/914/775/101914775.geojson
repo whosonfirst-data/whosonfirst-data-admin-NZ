@@ -80,7 +80,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7518240f201ac770e50b92d4bae1e415",
     "wof:hierarchy":[
@@ -93,10 +94,15 @@
         }
     ],
     "wof:id":101914775,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616497,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804371,
     "wof:name":"Sefton",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

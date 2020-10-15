@@ -80,6 +80,9 @@
         "wk:page":"Tuatapere"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fcbe4c8e91baac9a65c4207f37f1bd06",
     "wof:hierarchy":[
         {
@@ -91,10 +94,15 @@
         }
     ],
     "wof:id":101914499,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616507,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804358,
     "wof:name":"Tuatapere",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

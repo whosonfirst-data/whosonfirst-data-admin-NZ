@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.852564,
     "lbl:longitude":168.418777,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.852564,
     "mps:longitude":168.418777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Caroline"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"1e11a511c24cb91cd848bae11369ac43",
     "wof:hierarchy":[],
     "wof:id":1729339213,
-    "wof:lastmodified":1602624859,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804319,
     "wof:name":"Caroline",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

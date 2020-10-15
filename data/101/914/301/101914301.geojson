@@ -60,6 +60,9 @@
         "wd:id":"Q7338353"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a951d8b8dcb6ba9f6e7ef36ea88eafef",
     "wof:hierarchy":[
         {
@@ -71,10 +74,15 @@
         }
     ],
     "wof:id":101914301,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616462,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804354,
     "wof:name":"Riversdale",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

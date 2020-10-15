@@ -130,6 +130,9 @@
         "nz-linz:id":67
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"4045d46708783dff01ccad5c28d86464",
     "wof:hierarchy":[
         {
@@ -141,7 +144,15 @@
         }
     ],
     "wof:id":1310239571,
-    "wof:lastmodified":1602616352,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804331,
     "wof:name":"Auckland Airport",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

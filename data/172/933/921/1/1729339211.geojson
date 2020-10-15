@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.458611,
     "lbl:longitude":170.767738,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.458611,
     "mps:longitude":170.767738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Bushey"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"c1badff7632fc4416bdf2d1095ac0f9e",
     "wof:hierarchy":[],
     "wof:id":1729339211,
-    "wof:lastmodified":1602624859,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804319,
     "wof:name":"Bushey",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

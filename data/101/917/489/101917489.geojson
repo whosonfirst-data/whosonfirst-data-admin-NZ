@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.601642,
     "lbl:longitude":176.898087,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.601642,
     "mps:longitude":176.898087,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Whakatu"
     ],
@@ -59,7 +62,15 @@
         }
     ],
     "wof:id":101917489,
-    "wof:lastmodified":1602626188,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803269,
     "wof:name":"Whakatu",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

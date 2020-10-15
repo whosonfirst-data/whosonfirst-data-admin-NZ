@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.877259,
     "lbl:longitude":170.57989,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.877259,
     "mps:longitude":170.57989,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Macandrew Bay"
     ],
@@ -64,7 +67,15 @@
         }
     ],
     "wof:id":101916083,
-    "wof:lastmodified":1602626163,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803230,
     "wof:name":"Macandrew Bay",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

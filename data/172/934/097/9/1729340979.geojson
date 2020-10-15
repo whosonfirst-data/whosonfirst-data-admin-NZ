@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.161315,
     "lbl:longitude":174.017242,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.161315,
     "mps:longitude":174.017242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Motuone Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"05b0609bf500d0e44df560b772f8b0e9",
     "wof:hierarchy":[],
     "wof:id":1729340979,
-    "wof:lastmodified":1602624737,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804197,
     "wof:name":"Motuone Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

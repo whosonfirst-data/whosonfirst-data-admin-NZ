@@ -75,8 +75,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7a3452076ebe547387809d909c9aaa01",
     "wof:hierarchy":[
@@ -90,10 +90,15 @@
         }
     ],
     "wof:id":85781627,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633719,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Waimataitai",
     "wof:parent_id":101915527,
     "wof:placetype":"neighbourhood",

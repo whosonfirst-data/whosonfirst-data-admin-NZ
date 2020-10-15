@@ -90,10 +90,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":62,
     "wof:belongsto":[
-        85687229,
         102191583,
         85633345,
-        102079265
+        102079265,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,8 +102,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"0a089cd2f341a38752bd44e39547a9f7",
     "wof:hierarchy":[
@@ -117,10 +117,15 @@
         }
     ],
     "wof:id":85781135,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316518,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Silverdale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

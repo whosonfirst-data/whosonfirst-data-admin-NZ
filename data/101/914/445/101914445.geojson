@@ -97,6 +97,9 @@
         "wd:id":"Q1013339"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e358a9aef687475c6387199c215f9bc4",
     "wof:hierarchy":[
         {
@@ -108,10 +111,15 @@
         }
     ],
     "wof:id":101914445,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616513,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804367,
     "wof:name":"Kaiapoi",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

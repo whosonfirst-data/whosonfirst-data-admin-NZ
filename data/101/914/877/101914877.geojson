@@ -80,6 +80,9 @@
         "wk:page":"Manapouri"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"85aa45642b4b767d049a6913ed502151",
     "wof:hierarchy":[
         {
@@ -91,10 +94,15 @@
         }
     ],
     "wof:id":101914877,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616409,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804365,
     "wof:name":"Manapouri",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

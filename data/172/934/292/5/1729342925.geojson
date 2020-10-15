@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.681748,
     "lbl:longitude":173.972572,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.681748,
     "mps:longitude":173.972572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Saddle Rocks"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"fc46f7e60b4420c728f3d872fc8e34ac",
     "wof:hierarchy":[],
     "wof:id":1729342925,
-    "wof:lastmodified":1602624733,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804192,
     "wof:name":"Saddle Rocks",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

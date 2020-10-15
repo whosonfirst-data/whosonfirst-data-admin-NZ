@@ -93,7 +93,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"27869be1271c1ecd3fb7fbc4032b91de",
     "wof:hierarchy":[
@@ -106,10 +107,15 @@
         }
     ],
     "wof:id":101914485,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616508,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804355,
     "wof:name":"Cheviot",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

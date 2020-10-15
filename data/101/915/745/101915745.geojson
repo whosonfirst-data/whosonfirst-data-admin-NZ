@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.411896,
     "lbl:longitude":167.715389,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-45.411896,
     "mps:longitude":167.715389,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Te Anau"
     ],
@@ -68,7 +71,15 @@
         }
     ],
     "wof:id":101915745,
-    "wof:lastmodified":1602626150,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803198,
     "wof:name":"Te Anau",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

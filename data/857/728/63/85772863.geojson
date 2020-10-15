@@ -91,8 +91,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"0fb46d55da2fbeb9899ca775de4a368e",
     "wof:hierarchy":[
@@ -106,10 +106,15 @@
         }
     ],
     "wof:id":85772863,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633692,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802953,
     "wof:name":"Burwood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

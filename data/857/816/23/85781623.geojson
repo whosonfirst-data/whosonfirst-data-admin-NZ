@@ -82,8 +82,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"96b99ffe7c095e6d793a7d61063fff53",
     "wof:hierarchy":[
@@ -97,10 +97,15 @@
         }
     ],
     "wof:id":85781623,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633721,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Marybank",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

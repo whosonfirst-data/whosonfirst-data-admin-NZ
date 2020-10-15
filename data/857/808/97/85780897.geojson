@@ -109,8 +109,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"abac7a318b0a29e1ab8cc11207a464d7",
     "wof:hierarchy":[
@@ -124,10 +124,15 @@
         }
     ],
     "wof:id":85780897,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633693,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802951,
     "wof:name":"Flagstaff",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

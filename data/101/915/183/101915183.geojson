@@ -218,7 +218,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"bb7cb95ccf58ca2740e7af5b816e964a",
     "wof:hierarchy":[
@@ -231,10 +232,15 @@
         }
     ],
     "wof:id":101915183,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713668,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805014,
     "wof:name":"Hokitika",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",

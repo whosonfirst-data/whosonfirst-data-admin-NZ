@@ -206,7 +206,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "wof:geomhash":"52fb6b1e543da7ef2c45ed7a45722e7f",
     "wof:hierarchy":[
@@ -219,7 +220,15 @@
         }
     ],
     "wof:id":101916921,
-    "wof:lastmodified":1602616367,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804384,
     "wof:name":"Halfmoon Bay (Oban)",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

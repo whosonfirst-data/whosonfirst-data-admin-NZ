@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.832037,
     "lbl:longitude":170.556994,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.832037,
     "mps:longitude":170.556994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Normanby"
     ],
@@ -76,7 +79,15 @@
     "wof:geomhash":"f12cd222598fa5db33471738aa3cd399",
     "wof:hierarchy":[],
     "wof:id":1729338529,
-    "wof:lastmodified":1602633716,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804310,
     "wof:name":"Normanby",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -78,7 +78,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"37e0b751b51c6a123f69acfb61a436e3",
     "wof:hierarchy":[
@@ -91,10 +92,15 @@
         }
     ],
     "wof:id":101915731,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616506,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804339,
     "wof:name":"Tapanui",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

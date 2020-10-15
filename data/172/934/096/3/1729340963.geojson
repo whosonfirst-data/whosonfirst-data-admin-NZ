@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.742041,
     "lbl:longitude":175.660673,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.742041,
     "mps:longitude":175.660673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Richmond Downs"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"c976554873ca3961277a59b63913e069",
     "wof:hierarchy":[],
     "wof:id":1729340963,
-    "wof:lastmodified":1602624732,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804191,
     "wof:name":"Richmond Downs",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

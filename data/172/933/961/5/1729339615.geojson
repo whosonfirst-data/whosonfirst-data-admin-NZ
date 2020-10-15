@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.363254,
     "lbl:longitude":175.506184,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.363254,
     "mps:longitude":175.506184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Tuturumuri"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"bd49c7d7b86729f9a57db3bb2f794022",
     "wof:hierarchy":[],
     "wof:id":1729339615,
-    "wof:lastmodified":1602624829,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804289,
     "wof:name":"Tuturumuri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

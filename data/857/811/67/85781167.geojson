@@ -11,13 +11,14 @@
     "geom:longitude":174.757989,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.777989,-41.272294,174.777989,-41.272294",
     "lbl:latitude":-41.292294,
     "lbl:longitude":174.757989,
     "lbl:max_zoom":18.0,
     "mps:latitude":-41.289572,
     "mps:longitude":174.751653,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -72,7 +73,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b06175e6caa67be0d473c372eae4d7e7",
     "wof:hierarchy":[
@@ -86,10 +88,15 @@
         }
     ],
     "wof:id":85781167,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602699431,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802941,
     "wof:name":"Taitville",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",

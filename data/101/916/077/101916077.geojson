@@ -13,6 +13,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.875923,
     "lbl:longitude":170.493502,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-45.875923,
     "mps:longitude":170.493502,
     "mz:hierarchy_label":0,
@@ -160,7 +161,15 @@
         }
     ],
     "wof:id":101916077,
-    "wof:lastmodified":1602626163,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803230,
     "wof:name":"Dunedin",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-46.230011,
     "lbl:longitude":169.762946,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-46.230011,
     "mps:longitude":169.762946,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Balclutha"
     ],
@@ -64,7 +67,15 @@
         }
     ],
     "wof:id":101917979,
-    "wof:lastmodified":1602626185,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803264,
     "wof:name":"Balclutha",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

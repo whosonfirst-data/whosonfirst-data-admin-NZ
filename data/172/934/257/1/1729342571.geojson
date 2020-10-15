@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-34.966392,
     "lbl:longitude":173.78195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.966392,
     "mps:longitude":173.78195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Stephenson Island"
     ],
@@ -36,7 +39,15 @@
     "wof:geomhash":"db627bf97235cb6d9476a00d2dccfb29",
     "wof:hierarchy":[],
     "wof:id":1729342571,
-    "wof:lastmodified":1602624731,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804191,
     "wof:name":"Stephenson Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

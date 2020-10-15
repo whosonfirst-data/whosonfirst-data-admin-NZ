@@ -74,8 +74,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"9989e9bfd9a5f2abfe93c6de83e36bbd",
     "wof:hierarchy":[
@@ -89,10 +89,15 @@
         }
     ],
     "wof:id":85778751,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602633721,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802953,
     "wof:name":"Woodhaugh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

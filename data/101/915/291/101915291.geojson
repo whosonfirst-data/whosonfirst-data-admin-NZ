@@ -68,7 +68,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d96b35300694e688811bf694cdc96863",
     "wof:hierarchy":[
@@ -81,7 +82,15 @@
         }
     ],
     "wof:id":101915291,
-    "wof:lastmodified":1602616363,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804348,
     "wof:name":"Bay View",
     "wof:parent_id":102079331,
     "wof:placetype":"locality",

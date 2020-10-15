@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.697916,
     "lbl:longitude":175.865819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.697916,
     "mps:longitude":175.865819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Black Rocks"
     ],
@@ -29,7 +32,15 @@
     "wof:geomhash":"d0315124554c436a332b2683e29b1d2b",
     "wof:hierarchy":[],
     "wof:id":1729342847,
-    "wof:lastmodified":1602624763,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804223,
     "wof:name":"Black Rocks",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

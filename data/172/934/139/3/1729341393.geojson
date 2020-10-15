@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-40.987447,
     "lbl:longitude":173.818069,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.987447,
     "mps:longitude":173.818069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Cissy Bay"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"eab143ff69d71c60d0bfef6be5ca3e3c",
     "wof:hierarchy":[],
     "wof:id":1729341393,
-    "wof:lastmodified":1602624760,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804219,
     "wof:name":"Cissy Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

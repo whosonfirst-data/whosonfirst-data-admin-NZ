@@ -18,7 +18,7 @@
     "mps:latitude":-37.793658,
     "mps:longitude":175.342223,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,11 +59,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687229,
         102191583,
         85633345,
+        102079271,
         101914271,
-        102079271
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,10 +87,15 @@
         }
     ],
     "wof:id":85782881,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316520,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602802943,
     "wof:name":"Silverdale East",
     "wof:parent_id":101914271,
     "wof:placetype":"neighbourhood",

@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-35.514597,
     "lbl:longitude":173.52569,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.514597,
     "mps:longitude":173.52569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Waima Forest"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"7c4dc8e15c8a5ad989a9b2042e544224",
     "wof:hierarchy":[],
     "wof:id":1729343257,
-    "wof:lastmodified":1602711827,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804214,
     "wof:name":"Waima Forest",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

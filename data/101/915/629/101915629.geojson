@@ -267,7 +267,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"f6a9c385a4c92996058ed14cfe3de452",
     "wof:hierarchy":[
@@ -280,10 +281,15 @@
         }
     ],
     "wof:id":101915629,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713669,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805011,
     "wof:name":"Carterton",
     "wof:parent_id":102079345,
     "wof:placetype":"locality",

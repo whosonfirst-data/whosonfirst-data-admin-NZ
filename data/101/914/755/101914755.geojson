@@ -80,7 +80,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b2d4a2c765bc202ae46896c6b2342ed1",
     "wof:hierarchy":[
@@ -93,10 +94,15 @@
         }
     ],
     "wof:id":101914755,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616519,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804352,
     "wof:name":"Owaka",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.137514,
     "lbl:longitude":176.205049,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.137514,
     "mps:longitude":176.205049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Pukehangi"
     ],
@@ -39,7 +42,15 @@
     "wof:geomhash":"74a671c2815adfc12629a1881f94682e",
     "wof:hierarchy":[],
     "wof:id":1729338577,
-    "wof:lastmodified":1602633717,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804271,
     "wof:name":"Pukehangi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

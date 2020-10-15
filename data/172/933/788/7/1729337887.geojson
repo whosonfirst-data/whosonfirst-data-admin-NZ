@@ -14,10 +14,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-37.81322,
     "lbl:longitude":175.27587,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.81322,
     "mps:longitude":175.27587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Melville"
     ],
@@ -134,7 +137,15 @@
     "wof:geomhash":"efeb123eaec4a5d9e60abb858d795083",
     "wof:hierarchy":[],
     "wof:id":1729337887,
-    "wof:lastmodified":1602633696,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804311,
     "wof:name":"Melville",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

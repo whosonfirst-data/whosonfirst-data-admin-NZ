@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-47.216977,
     "lbl:longitude":167.63557,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-47.216977,
     "mps:longitude":167.63557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Micrometer Rock And Reef"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"2c231303af23533c951adf8e949078e1",
     "wof:hierarchy":[],
     "wof:id":1729341935,
-    "wof:lastmodified":1602624722,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804181,
     "wof:name":"Micrometer Rock And Reef",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

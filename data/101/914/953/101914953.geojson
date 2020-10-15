@@ -90,7 +90,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"78c73b19329766dd005d7f130ba234b3",
     "wof:hierarchy":[
@@ -103,10 +104,15 @@
         }
     ],
     "wof:id":101914953,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713664,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805015,
     "wof:name":"Hanmer Springs",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

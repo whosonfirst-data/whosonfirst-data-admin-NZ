@@ -80,7 +80,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"21dc8bd662225eeaa6ad8ee66335fe52",
     "wof:hierarchy":[
@@ -93,7 +94,15 @@
         }
     ],
     "wof:id":101914241,
-    "wof:lastmodified":1602616505,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804364,
     "wof:name":"Paeroa",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

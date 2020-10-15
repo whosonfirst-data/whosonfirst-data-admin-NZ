@@ -83,6 +83,9 @@
         "wk:page":"Ruatoria"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d077969602c0c43e36cc0e6f6cad598",
     "wof:hierarchy":[
         {
@@ -94,10 +97,15 @@
         }
     ],
     "wof:id":101914553,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616510,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804364,
     "wof:name":"Ruatoria",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",

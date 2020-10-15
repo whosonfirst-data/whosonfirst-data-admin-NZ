@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-36.900918,
     "lbl:longitude":174.72952,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.900918,
     "mps:longitude":174.72952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Wesley"
     ],
@@ -61,7 +64,15 @@
     "wof:geomhash":"59c6fb0b44276ef20749c4f0d62f91ff",
     "wof:hierarchy":[],
     "wof:id":1729338213,
-    "wof:lastmodified":1602696232,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804268,
     "wof:name":"Wesley",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

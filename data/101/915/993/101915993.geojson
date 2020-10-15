@@ -62,7 +62,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"cfbc1654b4a72b0290a3c529f27e1d27",
     "wof:hierarchy":[
@@ -75,7 +76,15 @@
         }
     ],
     "wof:id":101915993,
-    "wof:lastmodified":1602616425,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804345,
     "wof:name":"Haruru",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

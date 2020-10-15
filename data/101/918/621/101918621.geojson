@@ -13,11 +13,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.800661,
     "lbl:longitude":172.340993,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-41.800661,
     "mps:longitude":172.340993,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Murchison"
     ],
@@ -62,7 +65,15 @@
         }
     ],
     "wof:id":101918621,
-    "wof:lastmodified":1602626172,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803249,
     "wof:name":"Murchison",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

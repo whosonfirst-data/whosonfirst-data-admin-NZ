@@ -77,7 +77,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"bfa9fa6c61ca9dd8d84b456500c56d68",
     "wof:hierarchy":[
@@ -90,10 +91,15 @@
         }
     ],
     "wof:id":101915753,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616518,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804338,
     "wof:name":"Clyde",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

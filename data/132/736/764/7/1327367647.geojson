@@ -171,6 +171,9 @@
         "nz-linz:id":1950
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"fe1d3166dee63a85c7d0fbc9e96410fb",
     "wof:hierarchy":[
         {
@@ -182,7 +185,15 @@
         }
     ],
     "wof:id":1327367647,
-    "wof:lastmodified":1602616471,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804138,
     "wof:name":"Windsor",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

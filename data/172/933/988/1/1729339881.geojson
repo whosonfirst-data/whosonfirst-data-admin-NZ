@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-45.195299,
     "lbl:longitude":168.793901,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-45.195299,
     "mps:longitude":168.793901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Devils Staircase"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"502840ef6e3ff7f0deacb67cf0e37199",
     "wof:hierarchy":[],
     "wof:id":1729339881,
-    "wof:lastmodified":1602624862,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804322,
     "wof:name":"Devils Staircase",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

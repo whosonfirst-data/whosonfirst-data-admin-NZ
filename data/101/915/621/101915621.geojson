@@ -57,6 +57,9 @@
         "wk:page":"Stokes Valley"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5628139452851ad5789db6753de0408a",
     "wof:hierarchy":[
         {
@@ -68,10 +71,15 @@
         }
     ],
     "wof:id":101915621,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616358,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804339,
     "wof:name":"Stokes Valley",
     "wof:parent_id":102079337,
     "wof:placetype":"locality",

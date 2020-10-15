@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-43.290017,
     "lbl:longitude":172.716414,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-43.290017,
     "mps:longitude":172.716414,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Waikuku Beach"
     ],
@@ -59,7 +62,15 @@
         }
     ],
     "wof:id":101917181,
-    "wof:lastmodified":1602626185,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803264,
     "wof:name":"Waikuku Beach",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

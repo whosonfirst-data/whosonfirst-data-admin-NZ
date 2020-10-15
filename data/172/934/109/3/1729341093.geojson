@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-42.938957,
     "lbl:longitude":172.322324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.938957,
     "mps:longitude":172.322324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Virginia"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"85796176ab04d7dcb50c53bef4fca999",
     "wof:hierarchy":[],
     "wof:id":1729341093,
-    "wof:lastmodified":1602624758,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804217,
     "wof:name":"Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

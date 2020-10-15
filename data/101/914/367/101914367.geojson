@@ -90,7 +90,8 @@
     ],
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c092190f7aa7d5916c28b28f58ca3b2c",
     "wof:hierarchy":[
@@ -103,10 +104,15 @@
         }
     ],
     "wof:id":101914367,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602713676,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602805018,
     "wof:name":"Foxton",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

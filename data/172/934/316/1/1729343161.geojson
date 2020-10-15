@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.25798,
     "lbl:longitude":176.36421,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.25798,
     "mps:longitude":176.36421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kaweka Forest Park"
     ],
@@ -34,10 +37,21 @@
     "wof:geomhash":"dff4f7ec416318896e855c983b4de408",
     "wof:hierarchy":[],
     "wof:id":1729343161,
-    "wof:lastmodified":1602711811,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804245,
     "wof:name":"Kaweka Forest Park",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "campus"
+    ],
     "wof:placetype_local":"park reserve",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

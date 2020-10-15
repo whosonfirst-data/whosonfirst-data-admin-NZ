@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.620091,
     "lbl:longitude":176.831375,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.620091,
     "mps:longitude":176.831375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Frimley"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"eece9abcb1a8496b9c5f91e228a2669e",
     "wof:hierarchy":[],
     "wof:id":1729339099,
-    "wof:lastmodified":1602624794,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804254,
     "wof:name":"Frimley",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

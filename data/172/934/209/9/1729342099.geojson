@@ -12,10 +12,13 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.008295,
     "lbl:longitude":177.131502,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.008295,
     "mps:longitude":177.131502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Motuotu Island"
     ],
@@ -33,7 +36,15 @@
     "wof:geomhash":"c6447502e138e9e071da092ca0c233f9",
     "wof:hierarchy":[],
     "wof:id":1729342099,
-    "wof:lastmodified":1602624772,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804231,
     "wof:name":"Motuotu Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

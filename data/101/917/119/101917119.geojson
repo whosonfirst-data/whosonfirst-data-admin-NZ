@@ -67,6 +67,9 @@
         "wk:page":"Pauatahanui"
     },
     "wof:country":"NZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d7faa85ca083a52f0f64cd260d5e8f5",
     "wof:hierarchy":[
         {
@@ -78,10 +81,15 @@
         }
     ],
     "wof:id":101917119,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1602616459,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602804389,
     "wof:name":"Pauatahanui",
     "wof:parent_id":102079317,
     "wof:placetype":"locality",

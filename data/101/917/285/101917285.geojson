@@ -12,11 +12,14 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.886435,
     "lbl:longitude":175.261363,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.886435,
     "mps:longitude":175.261363,
     "mz:hierarchy_label":0,
     "mz:is_current":0,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Taumarunui"
     ],
@@ -58,7 +61,15 @@
         }
     ],
     "wof:id":101917285,
-    "wof:lastmodified":1602626188,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1602803268,
     "wof:name":"Taumarunui",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",
