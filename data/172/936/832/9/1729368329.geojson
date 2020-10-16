@@ -1,0 +1,48 @@
+{
+  "id": 1729368329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":98928.417887,
+    "geom:bbox":"177.998763,-37.549499,178.004113,-37.546014",
+    "geom:latitude":-37.547928,
+    "geom:longitude":178.001395,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.548007,
+    "lbl:longitude":178.001354,
+    "mps:latitude":-37.548007,
+    "mps:longitude":178.001354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Pohueuorau Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888176,
+    "wof:geomhash":"6af3216bab6805161d77c4e07273c9eb",
+    "wof:hierarchy":[],
+    "wof:id":1729368329,
+    "wof:lastmodified":1602889651,
+    "wof:name":"Pohueuorau Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.998763,
+    -37.549499,
+    178.004113,
+    -37.546014
+],
+  "geometry": {"coordinates":[[[178.00411299999999,-37.548018],[178.002928,-37.549082],[178.002422,-37.54913],[178.001722,-37.549433],[178.001599,-37.549486],[178.00134499999999,-37.549499],[178.00088099999999,-37.549386],[178.000349,-37.549097],[177.999447,-37.548442],[177.998763,-37.548047],[178.000945,-37.546014],[178.00411299999999,-37.548018]]],"type":"Polygon"}
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1729369535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26532.680367,
+    "geom:bbox":"166.67304,-45.602019,166.675951,-45.600352",
+    "geom:latitude":-45.601257,
+    "geom:longitude":166.674485,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.601217,
+    "lbl:longitude":166.674367,
+    "mps:latitude":-45.601217,
+    "mps:longitude":166.674367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Stevens Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888659,
+    "wof:geomhash":"9da1b7a4d6a21d580dace525c2058108",
+    "wof:hierarchy":[],
+    "wof:id":1729369535,
+    "wof:lastmodified":1602889638,
+    "wof:name":"Stevens Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.67304,
+    -45.602019,
+    166.675951,
+    -45.600352
+],
+  "geometry": {"coordinates":[[[166.67303999999999,-45.601731],[166.673835,-45.600352],[166.67555999999999,-45.600716],[166.675477,-45.600892],[166.67553699999999,-45.601232],[166.675951,-45.601842],[166.675847,-45.601926],[166.67479499999999,-45.601847],[166.67419699999999,-45.602019],[166.673597,-45.601772],[166.67303999999999,-45.601731]]],"type":"Polygon"}
+}

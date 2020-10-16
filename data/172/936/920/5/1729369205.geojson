@@ -1,0 +1,48 @@
+{
+  "id": 1729369205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":14718.55918,
+    "geom:bbox":"174.698307,-35.963402,174.699535,-35.961698",
+    "geom:latitude":-35.962555,
+    "geom:longitude":174.698953,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.96253,
+    "lbl:longitude":174.698965,
+    "mps:latitude":-35.96253,
+    "mps:longitude":174.698965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Lighthouse Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888531,
+    "wof:geomhash":"53007784ff535307e7acfec1356e5db2",
+    "wof:hierarchy":[],
+    "wof:id":1729369205,
+    "wof:lastmodified":1602889683,
+    "wof:name":"Lighthouse Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.698307,
+    -35.963402,
+    174.699535,
+    -35.961698
+],
+  "geometry": {"coordinates":[[[174.69932700000001,-35.963402],[174.69853499999999,-35.963144],[174.698307,-35.962047],[174.69886399999999,-35.961698],[174.69943000000001,-35.962139],[174.69951900000001,-35.962317],[174.69952699999999,-35.962633],[174.699535,-35.962903],[174.69932700000001,-35.963402]]],"type":"Polygon"}
+}

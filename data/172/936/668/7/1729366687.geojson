@@ -1,0 +1,48 @@
+{
+  "id": 1729366687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6677.113167,
+    "geom:bbox":"174.209643,-36.254044,174.211205,-36.253119",
+    "geom:latitude":-36.253626,
+    "geom:longitude":174.210297,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.253699,
+    "lbl:longitude":174.210243,
+    "mps:latitude":-36.253699,
+    "mps:longitude":174.210243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Patamure Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887511,
+    "wof:geomhash":"933d69e25e4e451cda2a4f5b675a1350",
+    "wof:hierarchy":[],
+    "wof:id":1729366687,
+    "wof:lastmodified":1602889653,
+    "wof:name":"Patamure Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.209643,
+    -36.254044,
+    174.211205,
+    -36.253119
+],
+  "geometry": {"coordinates":[[[174.20977300000001,-36.253425],[174.21010799999999,-36.253419],[174.21120500000001,-36.253119],[174.21086199999999,-36.253469],[174.210589,-36.253749],[174.21048400000001,-36.253977],[174.21048500000001,-36.254044],[174.209643,-36.253948],[174.20977300000001,-36.253425]]],"type":"Polygon"}
+}

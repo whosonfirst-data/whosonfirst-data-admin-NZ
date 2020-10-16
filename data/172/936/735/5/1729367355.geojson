@@ -1,0 +1,48 @@
+{
+  "id": 1729367355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":33774.883664,
+    "geom:bbox":"173.047702,-40.973315,173.050131,-40.971405",
+    "geom:latitude":-40.972416,
+    "geom:longitude":173.048883,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.972448,
+    "lbl:longitude":173.04886,
+    "mps:latitude":-40.972448,
+    "mps:longitude":173.04886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Akersten Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887779,
+    "wof:geomhash":"34a2b66ee57560b02f63247de5adca69",
+    "wof:hierarchy":[],
+    "wof:id":1729367355,
+    "wof:lastmodified":1602889664,
+    "wof:name":"Akersten Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.047702,
+    -40.973315,
+    173.050131,
+    -40.971405
+],
+  "geometry": {"coordinates":[[[173.048461,-40.973315],[173.04795200000001,-40.973025],[173.04771099999999,-40.972734],[173.04779300000001,-40.972126],[173.04770199999999,-40.971902],[173.04775900000001,-40.971676],[173.047934,-40.971405],[173.05013099999999,-40.971931],[173.05010200000001,-40.973131],[173.048461,-40.973315]]],"type":"Polygon"}
+}

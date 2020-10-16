@@ -1,0 +1,48 @@
+{
+  "id": 1729367627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7494.717254,
+    "geom:bbox":"173.448314,-34.840365,173.449476,-34.839451",
+    "geom:latitude":-34.839907,
+    "geom:longitude":173.448858,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.839923,
+    "lbl:longitude":173.448858,
+    "mps:latitude":-34.839923,
+    "mps:longitude":173.448858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Florance Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887894,
+    "wof:geomhash":"7ce82eac28f1cc489d6cb4af25db0e8d",
+    "wof:hierarchy":[],
+    "wof:id":1729367627,
+    "wof:lastmodified":1602889641,
+    "wof:name":"Florance Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.448314,
+    -34.840365,
+    173.449476,
+    -34.839451
+],
+  "geometry": {"coordinates":[[[173.44911500000001,-34.840338],[173.44875999999999,-34.840365],[173.44858400000001,-34.840275],[173.448534,-34.840249],[173.44831600000001,-34.84001],[173.44831400000001,-34.839874],[173.44839200000001,-34.839652],[173.44841700000001,-34.839581],[173.44903299999999,-34.839451],[173.449476,-34.839821],[173.44911500000001,-34.840338]]],"type":"Polygon"}
+}

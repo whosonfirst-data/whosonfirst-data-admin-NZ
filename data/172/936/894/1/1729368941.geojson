@@ -1,0 +1,48 @@
+{
+  "id": 1729368941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19009.632461,
+    "geom:bbox":"173.82483,-40.921766,173.826796,-40.920244",
+    "geom:latitude":-40.920949,
+    "geom:longitude":173.825823,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.920969,
+    "lbl:longitude":173.825823,
+    "mps:latitude":-40.920969,
+    "mps:longitude":173.825823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Anakawau Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888425,
+    "wof:geomhash":"9847c875fef25592f394a3b5ec41764c",
+    "wof:hierarchy":[],
+    "wof:id":1729368941,
+    "wof:lastmodified":1602889652,
+    "wof:name":"Anakawau Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.82483,
+    -40.921766,
+    173.826796,
+    -40.920244
+],
+  "geometry": {"coordinates":[[[173.82482999999999,-40.9215],[173.82494600000001,-40.921386],[173.825141,-40.920843],[173.825132,-40.920437],[173.825275,-40.920297],[173.82545400000001,-40.920252],[173.82613799999999,-40.920244],[173.82655600000001,-40.920351],[173.826796,-40.920461],[173.826211,-40.921766],[173.82482999999999,-40.9215]]],"type":"Polygon"}
+}

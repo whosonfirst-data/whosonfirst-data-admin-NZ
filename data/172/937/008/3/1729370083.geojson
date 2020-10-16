@@ -1,0 +1,48 @@
+{
+  "id": 1729370083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":69761.782747,
+    "geom:bbox":"174.803591,-41.29592,174.807424,-41.29296",
+    "geom:latitude":-41.294461,
+    "geom:longitude":174.80564,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.29443,
+    "lbl:longitude":174.805795,
+    "mps:latitude":-41.29443,
+    "mps:longitude":174.805795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Weka Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888873,
+    "wof:geomhash":"9b919220dc5cc7926e006e1e04118504",
+    "wof:hierarchy":[],
+    "wof:id":1729370083,
+    "wof:lastmodified":1602889690,
+    "wof:name":"Weka Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.803591,
+    -41.29592,
+    174.807424,
+    -41.29296
+],
+  "geometry": {"coordinates":[[[174.803809,-41.293437],[174.805948,-41.29296],[174.807255,-41.294374],[174.807424,-41.29592],[174.80544499999999,-41.295855],[174.80542399999999,-41.295586],[174.80503899999999,-41.295223],[174.80373,-41.294527],[174.80359100000001,-41.294384],[174.803597,-41.294102],[174.80383,-41.293513],[174.803809,-41.293437]]],"type":"Polygon"}
+}

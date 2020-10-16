@@ -1,0 +1,48 @@
+{
+  "id": 1729369099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":86329.834951,
+    "geom:bbox":"174.745248,-35.483224,174.749132,-35.480028",
+    "geom:latitude":-35.481724,
+    "geom:longitude":174.747012,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.481687,
+    "lbl:longitude":174.747012,
+    "mps:latitude":-35.481687,
+    "mps:longitude":174.747012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Foam Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888488,
+    "wof:geomhash":"ba951e50dbf8e8f73181b3fd85623655",
+    "wof:hierarchy":[],
+    "wof:id":1729369099,
+    "wof:lastmodified":1602889636,
+    "wof:name":"Foam Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.745248,
+    -35.483224,
+    174.749132,
+    -35.480028
+],
+  "geometry": {"coordinates":[[[174.74641600000001,-35.480028],[174.749132,-35.480994],[174.747995,-35.483224],[174.745509,-35.482998],[174.745364,-35.482776],[174.74535800000001,-35.482573],[174.745408,-35.482347],[174.745248,-35.481606],[174.74531999999999,-35.481222],[174.74556000000001,-35.480924],[174.74631099999999,-35.480211],[174.74641600000001,-35.480028]]],"type":"Polygon"}
+}

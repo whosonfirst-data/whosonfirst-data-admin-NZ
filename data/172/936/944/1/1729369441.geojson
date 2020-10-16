@@ -1,0 +1,48 @@
+{
+  "id": 1729369441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20511.918005,
+    "geom:bbox":"173.374314,-34.789683,173.376388,-34.788001",
+    "geom:latitude":-34.788829,
+    "geom:longitude":173.375446,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.788789,
+    "lbl:longitude":173.375517,
+    "mps:latitude":-34.788789,
+    "mps:longitude":173.375517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Trypot Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888623,
+    "wof:geomhash":"1c8c43aa4d4fd7bc5a2ea8cf36c37ed2",
+    "wof:hierarchy":[],
+    "wof:id":1729369441,
+    "wof:lastmodified":1602889688,
+    "wof:name":"Trypot Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.374314,
+    -34.789683,
+    173.376388,
+    -34.788001
+],
+  "geometry": {"coordinates":[[[173.374314,-34.789006],[173.37541300000001,-34.788004],[173.37564599999999,-34.788001],[173.37591499999999,-34.788117],[173.376047,-34.788223],[173.37629899999999,-34.788603],[173.37638799999999,-34.789008],[173.37535299999999,-34.789683],[173.374314,-34.789006]]],"type":"Polygon"}
+}
