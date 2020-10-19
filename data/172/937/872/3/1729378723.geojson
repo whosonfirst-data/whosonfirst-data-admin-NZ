@@ -9,6 +9,7 @@
     "geom:latitude":-41.285046,
     "geom:longitude":174.776173,
     "iso:country":"NZ",
+    "lbl:bbox":"174.613106,-41.36238,174.895409,-41.14354",
     "lbl:latitude":-41.285046,
     "lbl:longitude":174.776173,
     "lbl:max_zoom":13.0,
@@ -24,8 +25,9 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
     "wof:breaches":[],
-    "lbl:bbox":"174.613106,-41.36238,174.895409,-41.14354",
-    "wof:coterminous":[1729238583],
+    "wof:coterminous":[
+        1729238583
+    ],
     "wof:country":"NZ",
     "wof:created":1603149523,
     "wof:geomhash":"1339cd4fd19d6000baaec303671b6315",
@@ -39,7 +41,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149523,
+    "wof:lastmodified":1603151151,
     "wof:name":"Wellington",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

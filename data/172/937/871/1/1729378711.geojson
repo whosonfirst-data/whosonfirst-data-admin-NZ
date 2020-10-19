@@ -9,6 +9,7 @@
     "geom:latitude":-36.849193,
     "geom:longitude":174.764111,
     "iso:country":"NZ",
+    "lbl:bbox":"174.443816,-37.05902,175.062398,-36.660602",
     "lbl:latitude":-36.849193,
     "lbl:longitude":174.764111,
     "lbl:max_zoom":13.0,
@@ -17,8 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
-    "lbl:bbox":"174.443816,-37.05902,175.062398,-36.660602",
-    "wof:coterminous":[1729238453],
     "name:eng_x_preferred":[
         "Auckland"
     ],
@@ -26,6 +25,9 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:coterminous":[
+        1729238453
+    ],
     "wof:country":"NZ",
     "wof:created":1603149518,
     "wof:geomhash":"3c8165cdfd096fc45ac0790cf6445ed9",
@@ -39,7 +41,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149518,
+    "wof:lastmodified":1603151127,
     "wof:name":"Auckland",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -9,12 +9,11 @@
     "geom:latitude":-37.787836,
     "geom:longitude":175.280931,
     "iso:country":"NZ",
+    "lbl:bbox":"175.151382,-37.85155,175.544165,-37.704092",
     "lbl:latitude":-37.787836,
     "lbl:longitude":175.280931,
     "lbl:max_zoom":13.0,
     "mps:latitude":-37.787836,
-    "lbl:bbox":"175.151382,-37.85155,175.544165,-37.704092",
-    "wof:coterminous":[1729238493],
     "mps:longitude":175.280931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -26,6 +25,9 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:coterminous":[
+        1729238493
+    ],
     "wof:country":"NZ",
     "wof:created":1603149521,
     "wof:geomhash":"6d5a799e5bce38b28c75523ad5d4e42d",
@@ -39,7 +41,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149521,
+    "wof:lastmodified":1603151141,
     "wof:name":"Hamilton",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

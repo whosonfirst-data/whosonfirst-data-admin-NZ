@@ -9,11 +9,10 @@
     "geom:latitude":-45.876195,
     "geom:longitude":170.500778,
     "iso:country":"NZ",
+    "lbl:bbox":"170.247302,-45.96919,170.683577,-45.796627",
     "lbl:latitude":-45.876195,
     "lbl:longitude":170.500778,
     "lbl:max_zoom":13.0,
-    "lbl:bbox":"170.247302,-45.96919,170.683577,-45.796627",
-    "wof:coterminous":[1729238495],
     "mps:latitude":-45.876195,
     "mps:longitude":170.500778,
     "mz:hierarchy_label":1,
@@ -26,6 +25,9 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:coterminous":[
+        1729238495
+    ],
     "wof:country":"NZ",
     "wof:created":1603149520,
     "wof:geomhash":"b7eddb841566291b4916ef4452505f2c",
@@ -39,7 +41,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149520,
+    "wof:lastmodified":1603151137,
     "wof:name":"Dunedin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
