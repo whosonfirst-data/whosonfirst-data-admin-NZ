@@ -57,14 +57,14 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"quattroshapes_pg",
+    "src:population":"geonames",
     "wd:wordcount":298,
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238451,
         85633345,
-        102079371
+        102079371,
+        1729238451,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +100,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139714,
+    "wof:lastmodified":1603228414,
     "wof:name":"Tinwald",
     "wof:parent_id":1729238451,
     "wof:placetype":"locality",
