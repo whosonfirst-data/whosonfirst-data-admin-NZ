@@ -31,6 +31,12 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0646\u062f\u0631\u0645\u064a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u062d\u064a\u0631\u0647 \u0648\u064a\u0646\u062f\u0631\u0645\u064a\u0631"
+    ],
     "name:bre_x_preferred":[
         "Windermere"
     ],
@@ -73,6 +79,9 @@
     "name:hrv_x_preferred":[
         "Windermere"
     ],
+    "name:isl_x_preferred":[
+        "Windermere"
+    ],
     "name:ita_x_preferred":[
         "Windermere"
     ],
@@ -110,8 +119,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079371
+        102079371,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,7 +146,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149760,
+    "wof:lastmodified":1603230197,
     "wof:name":"Windermere",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

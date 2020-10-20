@@ -24,6 +24,12 @@
     "name:eng_x_preferred":[
         "Seatoun"
     ],
+    "name:fra_x_preferred":[
+        "Seatoun"
+    ],
+    "name:mri_x_preferred":[
+        "Kirikiri-tatangi"
+    ],
     "nz-linz:name":"Seatoun",
     "nz-linz:type":"SUBURB",
     "qs:gn_adm0_cc":"NZ",
@@ -53,11 +59,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238583,
         85633345,
-        102079339
+        102079339,
+        1729238583,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +96,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144170,
+    "wof:lastmodified":1603230054,
     "wof:name":"Seatoun",
     "wof:parent_id":1729238583,
     "wof:placetype":"locality",

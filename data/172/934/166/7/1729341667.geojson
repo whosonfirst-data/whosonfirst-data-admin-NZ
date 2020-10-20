@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Catherine Island"
+    ],
     "name:eng_x_preferred":[
         "Catherine Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Catherine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0440\u0438\u043d"
     ],
     "nz-linz:name":"Catherine Island",
     "nz-linz:type":"ISLAND",
@@ -29,8 +38,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687211,
-        102079391
+        102079391,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +66,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603146140,
+    "wof:lastmodified":1603229541,
     "wof:name":"Catherine Island",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

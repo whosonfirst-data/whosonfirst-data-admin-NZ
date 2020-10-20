@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0646\u0641\u0631\u0643\u0627\u0631\u062c\u0644"
     ],
+    "name:bel_x_preferred":[
+        "\u0406\u043d\u0432\u0435\u0440\u043a\u0430\u0440\u0433\u0456\u043b"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09a8\u09ad\u09c7\u0995\u09be\u0997\u09bf\u09b2"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03bd\u03b2\u03ad\u03c1\u03ba\u03b1\u03c1\u03b3\u03ba\u03b9\u03bb"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Invercargill"
     ],
     "name:eng_x_preferred":[
         "Invercargill"
@@ -131,6 +137,9 @@
     ],
     "name:mri_x_preferred":[
         "Waihopai"
+    ],
+    "name:mri_x_variant":[
+        "Waih\u014dpai"
     ],
     "name:msa_x_preferred":[
         "Invercargill"
@@ -227,11 +236,11 @@
     "wd:longitude":168.266667,
     "wd:wordcount":3975,
     "wof:belongsto":[
-        85687211,
         102191583,
-        1729238483,
         85633345,
-        102079397
+        102079397,
+        1729238483,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -269,7 +278,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139888,
+    "wof:lastmodified":1603230285,
     "wof:name":"Invercargill",
     "wof:parent_id":1729238483,
     "wof:placetype":"locality",

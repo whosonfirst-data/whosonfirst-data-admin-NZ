@@ -48,6 +48,9 @@
     "name:kor_x_preferred":[
         "\uc6e8\uc2a4\ud2b8\ud3ec\ud2b8"
     ],
+    "name:mri_x_preferred":[
+        "Kawatiri"
+    ],
     "name:msa_x_preferred":[
         "Westport"
     ],
@@ -88,11 +91,11 @@
     "src:population":"geonames",
     "wd:wordcount":1387,
     "wof:belongsto":[
-        85687165,
         102191583,
-        1729238585,
         85633345,
-        102079357
+        102079357,
+        1729238585,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140548,
+    "wof:lastmodified":1603230274,
     "wof:name":"Westport",
     "wof:parent_id":1729238585,
     "wof:placetype":"locality",

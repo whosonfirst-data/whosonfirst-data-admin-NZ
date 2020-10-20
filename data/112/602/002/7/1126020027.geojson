@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Kaitoke"
     ],
+    "name:fra_x_preferred":[
+        "kaitoke"
+    ],
     "nz-linz:id":1191,
     "nz-linz:name":"Kaitoke",
     "nz-linz:type":"SUBURB",
@@ -59,11 +62,11 @@
     "woe:name_adm1":"Wellington",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238597,
         85633345,
-        102079335
+        102079335,
+        1729238597,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140627,
+    "wof:lastmodified":1603230492,
     "wof:name":"Kaitoke",
     "wof:parent_id":1729238597,
     "wof:placetype":"locality",

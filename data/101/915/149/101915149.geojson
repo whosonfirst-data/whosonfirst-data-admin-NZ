@@ -29,11 +29,20 @@
     "name:eng_x_preferred":[
         "Whangamata"
     ],
+    "name:eng_x_variant":[
+        "Whangamat\u0101"
+    ],
     "name:fra_x_preferred":[
         "Whangamata"
     ],
     "name:ita_x_preferred":[
         "Whangamata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30f3\u30ac\u30de\u30bf"
+    ],
+    "name:mri_x_preferred":[
+        "Whangamat\u0101"
     ],
     "name:msa_x_preferred":[
         "Whangamata"
@@ -71,8 +80,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079261
+        102079261,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +117,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136383,
+    "wof:lastmodified":1603230284,
     "wof:name":"Whangamata",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

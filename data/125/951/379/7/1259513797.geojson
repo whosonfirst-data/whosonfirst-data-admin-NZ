@@ -42,6 +42,9 @@
     "name:ceb_x_preferred":[
         "Rutherglen"
     ],
+    "name:cym_x_preferred":[
+        "Rutherglen"
+    ],
     "name:deu_x_preferred":[
         "Rutherglen"
     ],
@@ -81,6 +84,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0442\u0435\u0440\u0433\u043b\u0435\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0420\u0430\u0442\u0435\u0440\u0433\u043b\u0435\u043d"
+    ],
     "nz-linz:id":1458,
     "nz-linz:name":"Rutherglen",
     "nz-linz:type":"SUBURB",
@@ -89,11 +95,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687165,
         102191583,
-        1729238491,
         85633345,
-        102079361
+        102079361,
+        1729238491,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +130,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139917,
+    "wof:lastmodified":1603230770,
     "wof:name":"Rutherglen",
     "wof:parent_id":1729238491,
     "wof:placetype":"locality",

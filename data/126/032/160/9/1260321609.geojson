@@ -73,13 +73,16 @@
     "name:swe_x_preferred":[
         "Norwood"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u0432\u0443\u0434"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238431,
         85633345,
-        102079369
+        102079369,
+        1729238431,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +109,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149768,
+    "wof:lastmodified":1603230201,
     "wof:name":"Norwood",
     "wof:parent_id":1729238431,
     "wof:placetype":"locality",

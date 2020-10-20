@@ -37,6 +37,9 @@
     "name:deu_x_preferred":[
         "Mino"
     ],
+    "name:fin_x_preferred":[
+        "Mino"
+    ],
     "name:fra_x_preferred":[
         "Mino"
     ],
@@ -64,12 +67,15 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u043e"
     ],
+    "name:vie_x_preferred":[
+        "Mino"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687189,
-        102079329
+        102079329,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603150157,
+    "wof:lastmodified":1603229277,
     "wof:name":"Mino",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

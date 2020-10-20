@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0632\u0648\u0648\u062a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0632\u0648\u0648\u062a\u0631"
+    ],
     "name:ceb_x_preferred":[
         "Bayswater"
     ],
@@ -122,11 +125,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,7 +162,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139406,
+    "wof:lastmodified":1603229293,
     "wof:name":"Bayswater",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

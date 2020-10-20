@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Tapora"
     ],
+    "name:mri_x_preferred":[
+        "Tapora"
+    ],
+    "name:msa_x_preferred":[
+        "Tapora"
+    ],
     "nz-linz:name":"Tapora",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +35,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687243,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +63,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145701,
+    "wof:lastmodified":1603229536,
     "wof:name":"Tapora",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

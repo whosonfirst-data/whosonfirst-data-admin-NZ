@@ -42,6 +42,9 @@
     "name:eng_x_preferred":[
         "Kaikoura"
     ],
+    "name:eng_x_variant":[
+        "Kaik\u014dura"
+    ],
     "name:epo_x_preferred":[
         "Kaikoura"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0438\u043a\u043e\u0443\u0440\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Kaik\u014dura"
     ],
     "name:msa_x_preferred":[
         "Daerah Kaikoura"
@@ -225,11 +231,11 @@
     "wd:longitude":173.681358,
     "wd:wordcount":1164,
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238537,
         85633345,
-        102079355
+        102079355,
+        1729238537,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -268,7 +274,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140237,
+    "wof:lastmodified":1603230341,
     "wof:name":"Kaikoura",
     "wof:parent_id":1729238537,
     "wof:placetype":"locality",

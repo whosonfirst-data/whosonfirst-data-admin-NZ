@@ -75,6 +75,9 @@
     "name:swe_x_preferred":[
         "Picton"
     ],
+    "name:zho_x_preferred":[
+        "\u76ae\u514b\u9813"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"New Zealand",
     "ne:ADM0_A3":"NZL",
@@ -191,11 +194,11 @@
     "wd:longitude":174.0,
     "wd:wordcount":1107,
     "wof:belongsto":[
-        85687185,
         102191583,
-        1729238561,
         85633345,
-        102079353
+        102079353,
+        1729238561,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -235,7 +238,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140457,
+    "wof:lastmodified":1603230242,
     "wof:name":"Picton",
     "wof:parent_id":1729238561,
     "wof:placetype":"locality",

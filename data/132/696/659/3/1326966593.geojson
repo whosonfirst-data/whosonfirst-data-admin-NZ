@@ -31,12 +31,15 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:mri_x_preferred":[
+        "Aylesbury"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079369
+        102079369,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +66,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603150064,
+    "wof:lastmodified":1603229204,
     "wof:name":"Aylesbury",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

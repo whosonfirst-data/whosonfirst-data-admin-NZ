@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Mechanics Bay"
     ],
+    "name:zho_x_preferred":[
+        "\u5bc6\u6b47\u5c3c\u514b\u6e7e"
+    ],
     "nz-linz:name":"Mechanics Bay",
     "nz-linz:type":"SUBURB",
     "qs:gn_adm0_cc":"NZ",
@@ -51,11 +54,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +91,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143942,
+    "wof:lastmodified":1603229937,
     "wof:name":"Mechanics Bay",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

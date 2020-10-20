@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218533,
-    "geom:area_square_m":2002786714.854753,
+    "geom:area_square_m":2002786714.854769,
     "geom:bbox":"171.699734,-42.506222,172.359334,-41.78967",
     "geom:latitude":-42.168641,
     "geom:longitude":172.057862,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Victoria Forest Park"
+    ],
     "name:eng_x_preferred":[
         "Victoria Forest Park"
     ],
@@ -30,8 +33,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687165,
-        102079357
+        102079357,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +61,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603221011,
+    "wof:lastmodified":1603229833,
     "wof:name":"Victoria Forest Park",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "Stillwater"
     ],
+    "name:glg_x_preferred":[
+        "Stillwater"
+    ],
+    "name:mri_x_preferred":[
+        "Stillwater"
+    ],
     "name:nld_x_preferred":[
         "Stillwater"
     ],
@@ -68,11 +74,11 @@
     "woe:name_adm1":"West Coast",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687165,
         102191583,
-        1729238491,
         85633345,
-        102079361
+        102079361,
+        1729238491,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +113,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139918,
+    "wof:lastmodified":1603230536,
     "wof:name":"Stillwater",
     "wof:parent_id":1729238491,
     "wof:placetype":"locality",

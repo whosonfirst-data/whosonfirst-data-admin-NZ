@@ -19,11 +19,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Blumine Island"
+    ],
+    "name:deu_x_preferred":[
+        "Blumine Island"
+    ],
     "name:eng_x_preferred":[
         "Blumine Island"
     ],
+    "name:epo_x_preferred":[
+        "Insulo Blumine"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Blumine"
+    ],
     "name:mri_x_preferred":[
         "Oruawairua"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Blumine"
     ],
     "nz-linz:name":"Blumine Island (Oruawairua)",
     "nz-linz:type":"ISLAND",
@@ -32,8 +47,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687185,
-        102079353
+        102079353,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +75,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603146114,
+    "wof:lastmodified":1603229708,
     "wof:name":"Blumine Island",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

@@ -19,7 +19,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Wairau Valley"
+    ],
     "name:eng_x_preferred":[
+        "Wairau Valley"
+    ],
+    "name:fra_x_preferred":[
+        "Wairau Valley"
+    ],
+    "name:mri_x_preferred":[
+        "Wairau Valley"
+    ],
+    "name:msa_x_preferred":[
+        "Lembah Wairau"
+    ],
+    "name:pol_x_preferred":[
         "Wairau Valley"
     ],
     "nz-linz:name":"Wairau Valley",
@@ -27,11 +42,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +74,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143844,
+    "wof:lastmodified":1603229959,
     "wof:name":"Wairau Valley",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

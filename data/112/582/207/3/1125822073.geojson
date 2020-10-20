@@ -23,8 +23,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Raumati South"
+    ],
     "name:eng_x_preferred":[
         "Raumati South"
+    ],
+    "name:msa_x_preferred":[
+        "Raumati"
     ],
     "nz-linz:id":1377,
     "nz-linz:name":"Raumati South",
@@ -59,11 +65,11 @@
     "woe:name_adm1":"Wellington",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238465,
         85633345,
-        102079315
+        102079315,
+        1729238465,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +103,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139791,
+    "wof:lastmodified":1603230656,
     "wof:name":"Raumati South",
     "wof:parent_id":1729238465,
     "wof:placetype":"locality",

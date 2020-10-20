@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "Burleigh"
     ],
+    "name:nds_x_preferred":[
+        "Burleigh"
+    ],
     "name:pol_x_preferred":[
         "Burleigh"
     ],
@@ -68,11 +71,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687185,
         102191583,
-        1729238455,
         85633345,
-        102079353
+        102079353,
+        1729238455,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +106,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144199,
+    "wof:lastmodified":1603229878,
     "wof:name":"Burleigh",
     "wof:parent_id":1729238455,
     "wof:placetype":"locality",

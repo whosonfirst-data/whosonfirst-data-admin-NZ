@@ -39,6 +39,9 @@
     "name:ind_x_preferred":[
         "Whakarewarewa"
     ],
+    "name:ita_x_preferred":[
+        "Whakarewarewa"
+    ],
     "name:kor_x_preferred":[
         "\uc640\uce74\ub808\uc640\ub808\uc640"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:und_x_variant":[
         "Whaka"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u83ef\u5361\u96f7\u74e6\u96f7\u74e6"
     ],
     "name:zho_x_preferred":[
         "\u83ef\u5361\u96f7\u74e6\u96f7\u74e6"
@@ -83,11 +89,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238557,
         85633345,
-        102079289
+        102079289,
+        1729238557,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +125,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143432,
+    "wof:lastmodified":1603230073,
     "wof:name":"Whakarewarewa",
     "wof:parent_id":1729238557,
     "wof:placetype":"locality",

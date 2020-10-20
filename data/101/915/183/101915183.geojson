@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0643\u064a\u062a\u064a\u0643\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u043a\u0456\u0442\u044b\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u043a\u0438\u0442\u0438\u043a\u0430"
     ],
@@ -198,11 +201,11 @@
     "src:population":"geonames",
     "wd:wordcount":1283,
     "wof:belongsto":[
-        85687165,
         102191583,
-        1729238479,
         85633345,
-        102079363
+        102079363,
+        1729238479,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -242,7 +245,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139874,
+    "wof:lastmodified":1603230281,
     "wof:name":"Hokitika",
     "wof:parent_id":1729238479,
     "wof:placetype":"locality",

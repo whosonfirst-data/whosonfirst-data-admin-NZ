@@ -36,6 +36,9 @@
     "name:bar_x_preferred":[
         "Timaru"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u044b\u043c\u0430\u0440\u0443"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09bf\u09ae\u09be\u09b0\u09c1"
     ],
@@ -199,6 +202,9 @@
     "name:pol_x_preferred":[
         "Timaru"
     ],
+    "name:por_br_x_preferred":[
+        "Timaru"
+    ],
     "name:por_x_preferred":[
         "Timaru"
     ],
@@ -280,11 +286,11 @@
     "wd:longitude":171.25,
     "wd:wordcount":2736,
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238593,
         85633345,
-        102079373
+        102079373,
+        1729238593,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -324,7 +330,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140562,
+    "wof:lastmodified":1603230258,
     "wof:name":"Timaru",
     "wof:parent_id":1729238593,
     "wof:placetype":"locality",

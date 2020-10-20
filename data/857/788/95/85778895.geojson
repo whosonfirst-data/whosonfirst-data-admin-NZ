@@ -27,6 +27,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "New Brighton"
+    ],
     "name:ceb_x_preferred":[
         "New Brighton"
     ],
@@ -41,11 +44,23 @@
         "South New Brighton",
         "New Brighton"
     ],
+    "name:fra_x_preferred":[
+        "New Brighton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e5\u30fc\u30fb\u30d6\u30e9\u30a4\u30c8\u30f3"
+    ],
     "name:msa_x_preferred":[
         "New Brighton"
     ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e-\u0411\u0440\u0430\u0439\u0442\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "New Brighton"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e03\u83b1\u987f"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPL",
@@ -80,10 +95,10 @@
     "wd:wordcount":1402,
     "wof:belongsto":[
         102191583,
-        1729238507,
         85633345,
-        1729338637,
         102079401,
+        1729238507,
+        1729338637,
         85687179
     ],
     "wof:breaches":[],
@@ -120,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210259,
+    "wof:lastmodified":1603229358,
     "wof:name":"New Brighton South",
     "wof:parent_id":1729338637,
     "wof:placetype":"neighbourhood",

@@ -33,11 +33,17 @@
     "name:eng_x_preferred":[
         "Mapua"
     ],
+    "name:eng_x_variant":[
+        "M\u0101pua"
+    ],
     "name:fra_x_preferred":[
         "Mapua"
     ],
     "name:mri_x_preferred":[
         "Mapua"
+    ],
+    "name:mri_x_variant":[
+        "M\u0101pua"
     ],
     "name:msa_x_preferred":[
         "Mapua"
@@ -70,11 +76,11 @@
     "src:population":"geonames",
     "wd:wordcount":867,
     "wof:belongsto":[
-        85687219,
         102191583,
-        1729238609,
         85633345,
-        102079349
+        102079349,
+        1729238609,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +120,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140737,
+    "wof:lastmodified":1603230314,
     "wof:name":"Mapua",
     "wof:parent_id":1729238609,
     "wof:placetype":"locality",

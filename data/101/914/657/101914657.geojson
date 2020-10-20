@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Turangi"
     ],
+    "name:eng_x_variant":[
+        "T\u016brangi"
+    ],
     "name:fra_x_preferred":[
         "Turangi"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30e9\u30f3\u30ae"
+    ],
+    "name:mri_x_preferred":[
+        "T\u016brangi"
     ],
     "name:msa_x_preferred":[
         "Turangi"
@@ -82,11 +88,11 @@
     "src:population":"geonames",
     "wd:wordcount":1770,
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238595,
         85633345,
-        102079281
+        102079281,
+        1729238595,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +131,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140597,
+    "wof:lastmodified":1603230318,
     "wof:name":"Turangi",
     "wof:parent_id":1729238595,
     "wof:placetype":"locality",

@@ -23,17 +23,26 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Te Hapua"
+    ],
     "name:deu_x_preferred":[
         "Te Hapua"
     ],
     "name:eng_x_preferred":[
         "Te Hapua"
     ],
+    "name:eng_x_variant":[
+        "Te H\u0101pua"
+    ],
     "name:est_x_preferred":[
         "Te Hapua"
     ],
     "name:mri_x_preferred":[
         "Te Hapua"
+    ],
+    "name:mri_x_variant":[
+        "Te H\u0101pua"
     ],
     "name:msa_x_preferred":[
         "Te Hapua"
@@ -109,7 +118,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137465,
+    "wof:lastmodified":1603230664,
     "wof:name":"Te Hapua",
     "wof:parent_id":85687149,
     "wof:placetype":"locality",

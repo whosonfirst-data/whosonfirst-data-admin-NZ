@@ -46,6 +46,9 @@
     "name:swe_x_preferred":[
         "Woodridge"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u0434\u0440\u0438\u0434\u0436"
+    ],
     "name:vol_x_preferred":[
         "Woodridge"
     ],
@@ -78,11 +81,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238583,
         85633345,
-        102079339
+        102079339,
+        1729238583,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +114,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143255,
+    "wof:lastmodified":1603229871,
     "wof:name":"Woodridge",
     "wof:parent_id":1729238583,
     "wof:placetype":"locality",

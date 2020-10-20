@@ -22,16 +22,19 @@
     "name:eng_x_preferred":[
         "Otamatea"
     ],
+    "name:fra_x_preferred":[
+        "Otamatea"
+    ],
     "nz-linz:name":"Otamatea",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238581,
         85633345,
-        102079299
+        102079299,
+        1729238581,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144212,
+    "wof:lastmodified":1603229873,
     "wof:name":"Otamatea",
     "wof:parent_id":1729238581,
     "wof:placetype":"locality",

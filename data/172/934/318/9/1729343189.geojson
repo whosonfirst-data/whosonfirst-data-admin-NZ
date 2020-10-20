@@ -20,8 +20,14 @@
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Remutaka Forest Park"
+    ],
     "name:eng_x_preferred":[
         "Remutaka Forest Park"
+    ],
+    "name:fra_x_preferred":[
+        "Parc forestier du Rimutaka"
     ],
     "nz-linz:name":"Remutaka Forest Park",
     "nz-linz:type":"PARK_RESERVE",
@@ -30,8 +36,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687233,
-        102079337
+        102079337,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +64,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140925,
+    "wof:lastmodified":1603229836,
     "wof:name":"Remutaka Forest Park",
     "wof:parent_id":102079337,
     "wof:placetype":"locality",

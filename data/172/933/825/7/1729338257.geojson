@@ -19,7 +19,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Riversdale"
+    ],
+    "name:deu_x_preferred":[
+        "Riversdale"
+    ],
     "name:eng_x_preferred":[
+        "Riversdale"
+    ],
+    "name:fra_x_preferred":[
+        "Riversdale"
+    ],
+    "name:nds_x_preferred":[
+        "Riversdale"
+    ],
+    "name:swe_x_preferred":[
         "Riversdale"
     ],
     "nz-linz:name":"Riversdale",
@@ -27,11 +42,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687185,
         102191583,
-        1729238455,
         85633345,
-        102079353
+        102079353,
+        1729238455,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +74,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143519,
+    "wof:lastmodified":1603230095,
     "wof:name":"Riversdale",
     "wof:parent_id":1729238455,
     "wof:placetype":"locality",

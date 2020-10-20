@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0434\u0430\u043b\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Taradale"
+    ],
     "name:ceb_x_preferred":[
         "Taradale"
     ],
@@ -68,11 +71,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687189,
         102191583,
-        1729238511,
         85633345,
-        102079331
+        102079331,
+        1729238511,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +108,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143815,
+    "wof:lastmodified":1603230107,
     "wof:name":"Taradale",
     "wof:parent_id":1729238511,
     "wof:placetype":"locality",

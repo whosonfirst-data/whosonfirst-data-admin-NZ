@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
         "Gordon"
     ],
@@ -72,6 +75,9 @@
         "Gordon"
     ],
     "name:mlg_x_preferred":[
+        "Gordon"
+    ],
+    "name:nds_x_preferred":[
         "Gordon"
     ],
     "name:nld_x_preferred":[
@@ -139,8 +145,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079267
+        102079267,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +179,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137294,
+    "wof:lastmodified":1603230530,
     "wof:name":"Gordon",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

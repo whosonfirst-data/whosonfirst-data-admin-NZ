@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Beachlands"
     ],
+    "name:fra_x_preferred":[
+        "Beachlands"
+    ],
     "name:msa_x_preferred":[
         "Beachlands"
     ],
@@ -53,11 +56,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136285,
+    "wof:lastmodified":1603230310,
     "wof:name":"Beachlands",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

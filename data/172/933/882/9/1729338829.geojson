@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:cat_x_preferred":[
+        "Point Chevalier"
+    ],
     "name:eng_x_preferred":[
         "Point Chevalier"
     ],
@@ -56,11 +59,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143954,
+    "wof:lastmodified":1603230074,
     "wof:name":"Point Chevalier",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

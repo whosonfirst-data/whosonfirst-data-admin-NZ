@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Saddleback"
+    ],
     "name:eng_x_preferred":[
         "Saddleback"
     ],
     "name:mri_x_preferred":[
         "Motumahanga"
+    ],
+    "name:swe_x_preferred":[
+        "Saddleback"
     ],
     "nz-linz:name":"Motumahanga (Saddleback)",
     "nz-linz:type":"ISLAND",
@@ -32,8 +38,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687195,
-        102079311
+        102079311,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603146377,
+    "wof:lastmodified":1603229812,
     "wof:name":"Saddleback",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

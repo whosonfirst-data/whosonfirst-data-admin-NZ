@@ -28,6 +28,12 @@
     "name:fas_x_preferred":[
         "\u0645\u0646\u06af\u0627\u0631\u0648\u0627"
     ],
+    "name:fra_x_preferred":[
+        "Mangaroa"
+    ],
+    "name:mri_x_preferred":[
+        "Mangaroa"
+    ],
     "nz-linz:id":8692,
     "nz-linz:name":"Mangaroa",
     "nz-linz:type":"SUBURB",
@@ -48,11 +54,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":87,
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238597,
         85633345,
-        102079335
+        102079335,
+        1729238597,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140624,
+    "wof:lastmodified":1603230415,
     "wof:name":"Mangaroa",
     "wof:parent_id":1729238597,
     "wof:placetype":"locality",

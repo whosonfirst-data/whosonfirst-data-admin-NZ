@@ -22,7 +22,16 @@
     "name:eng_x_preferred":[
         "Spencerville"
     ],
+    "name:fra_x_preferred":[
+        "Spencerville"
+    ],
+    "name:mri_x_preferred":[
+        "Spencerville"
+    ],
     "name:nld_x_preferred":[
+        "Spencerville"
+    ],
+    "name:pol_x_preferred":[
         "Spencerville"
     ],
     "name:rus_x_preferred":[
@@ -49,11 +58,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238507,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +96,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136714,
+    "wof:lastmodified":1603230370,
     "wof:name":"Spencerville",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

@@ -23,7 +23,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Waimana"
+    ],
     "name:eng_x_preferred":[
+        "Waimana"
+    ],
+    "name:mri_x_preferred":[
         "Waimana"
     ],
     "nz-linz:id":1804,
@@ -60,8 +66,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687175,
-        102079291
+        102079291,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +100,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138153,
+    "wof:lastmodified":1603230635,
     "wof:name":"Waimana",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

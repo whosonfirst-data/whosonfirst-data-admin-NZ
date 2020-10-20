@@ -48,6 +48,9 @@
     "name:hrv_x_preferred":[
         "Glenwood"
     ],
+    "name:hun_x_preferred":[
+        "Glenwood"
+    ],
     "name:ita_x_preferred":[
         "Glenwood"
     ],
@@ -109,11 +112,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238593,
         85633345,
-        102079373
+        102079373,
+        1729238593,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143662,
+    "wof:lastmodified":1603229918,
     "wof:name":"Glenwood",
     "wof:parent_id":1729238593,
     "wof:placetype":"locality",

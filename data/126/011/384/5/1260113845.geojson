@@ -31,6 +31,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:als_x_preferred":[
+        "Kiwi"
+    ],
     "name:ang_x_preferred":[
         "Fi\u00f0erl\u0113asere"
     ],
@@ -67,11 +70,20 @@
     "name:ceb_x_preferred":[
         "Apteryx"
     ],
+    "name:ceb_x_variant":[
+        "Kiwi"
+    ],
     "name:dan_x_preferred":[
         "Kiwier"
     ],
+    "name:dan_x_variant":[
+        "Kiwi"
+    ],
     "name:deu_x_preferred":[
         "Kiwis"
+    ],
+    "name:deu_x_variant":[
+        "Kiwi"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03af\u03bf\u03c5\u03b9"
@@ -91,11 +103,23 @@
     "name:fin_x_preferred":[
         "Kiivit"
     ],
+    "name:fin_x_variant":[
+        "Kiivi"
+    ],
+    "name:fra_x_preferred":[
+        "Kiwi"
+    ],
+    "name:frr_x_preferred":[
+        "Kiiwi"
+    ],
     "name:gle_x_preferred":[
         "C\u00edobha\u00ed"
     ],
     "name:glg_x_preferred":[
         "Kiwis"
+    ],
+    "name:glg_x_variant":[
+        "Kiwi"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05d5\u05d5\u05d9"
@@ -112,6 +136,9 @@
     "name:hye_x_preferred":[
         "\u053f\u056b\u057e\u056b\u0576\u0565\u0580"
     ],
+    "name:hye_x_variant":[
+        "\u053f\u056b\u057e\u056b"
+    ],
     "name:ina_x_preferred":[
         "Apteryx"
     ],
@@ -123,6 +150,9 @@
     ],
     "name:ita_x_preferred":[
         "Apteryx"
+    ],
+    "name:ita_x_variant":[
+        "Kiwi"
     ],
     "name:jav_x_preferred":[
         "Kiwi"
@@ -151,6 +181,9 @@
     "name:lit_x_preferred":[
         "Kiviai"
     ],
+    "name:ltz_x_preferred":[
+        "Kiwi"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3f\u0d35\u0d3f"
     ],
@@ -172,11 +205,20 @@
     "name:nld_x_preferred":[
         "Apteryx"
     ],
+    "name:nld_x_variant":[
+        "Kiwi"
+    ],
     "name:nno_x_preferred":[
         "Kiviar"
     ],
+    "name:nno_x_variant":[
+        "Kiwi"
+    ],
     "name:nor_x_preferred":[
         "Kivifamilien"
+    ],
+    "name:nor_x_variant":[
+        "Kiwi"
     ],
     "name:oci_x_preferred":[
         "Kiwi"
@@ -190,6 +232,9 @@
     "name:pol_x_preferred":[
         "Apteryx"
     ],
+    "name:pol_x_variant":[
+        "Kiwi"
+    ],
     "name:por_x_preferred":[
         "Apteryx"
     ],
@@ -198,6 +243,9 @@
     ],
     "name:ron_x_preferred":[
         "Pas\u0103rea Kiwi"
+    ],
+    "name:ron_x_variant":[
+        "Kiwi"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0432\u0438"
@@ -208,14 +256,23 @@
     "name:spa_x_preferred":[
         "Apteryx"
     ],
+    "name:spa_x_variant":[
+        "Kiwi"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0432\u0438\u0458\u0438"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0438\u0432\u0438"
     ],
     "name:sun_x_preferred":[
         "Kiwi"
     ],
     "name:swe_x_preferred":[
         "Kivier"
+    ],
+    "name:swe_x_variant":[
+        "Kiwi"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb5\u0bbf"
@@ -225,6 +282,9 @@
     ],
     "name:tgl_x_preferred":[
         "Apteryx"
+    ],
+    "name:tgl_x_variant":[
+        "Kiwi"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e01\u0e01\u0e35\u0e27\u0e35"
@@ -257,8 +317,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687219,
-        102079349
+        102079349,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -284,7 +344,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149751,
+    "wof:lastmodified":1603230194,
     "wof:name":"Kiwi",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

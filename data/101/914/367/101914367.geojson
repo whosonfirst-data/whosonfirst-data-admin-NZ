@@ -36,6 +36,9 @@
     "name:fra_x_preferred":[
         "Foxton"
     ],
+    "name:mri_x_preferred":[
+        "Te Awahou"
+    ],
     "name:msa_x_preferred":[
         "Foxton"
     ],
@@ -70,11 +73,11 @@
     "src:population":"geonames",
     "wd:wordcount":1214,
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238485,
         85633345,
-        102079313
+        102079313,
+        1729238485,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +117,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139893,
+    "wof:lastmodified":1603230332,
     "wof:name":"Foxton",
     "wof:parent_id":1729238485,
     "wof:placetype":"locality",

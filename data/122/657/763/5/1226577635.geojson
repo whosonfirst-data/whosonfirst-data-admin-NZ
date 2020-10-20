@@ -51,6 +51,9 @@
     "name:ita_x_preferred":[
         "Longwood"
     ],
+    "name:nds_x_preferred":[
+        "Longwood"
+    ],
     "name:pol_x_preferred":[
         "Longwood"
     ],
@@ -63,6 +66,9 @@
     "name:swe_x_preferred":[
         "Longwood"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043d\u0433\u0432\u0443\u0434"
+    ],
     "nz-linz:id":769,
     "nz-linz:name":"Longwood",
     "nz-linz:type":"SUBURB",
@@ -71,11 +77,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687211,
         102191583,
-        1729238551,
         85633345,
-        102079391
+        102079391,
+        1729238551,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140389,
+    "wof:lastmodified":1603230789,
     "wof:name":"Longwood",
     "wof:parent_id":1729238551,
     "wof:placetype":"locality",

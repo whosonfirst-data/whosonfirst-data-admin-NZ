@@ -31,12 +31,21 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Port Craig"
+    ],
+    "name:fra_x_preferred":[
+        "Port Craig"
+    ],
+    "name:mri_x_preferred":[
+        "Port Craig"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687211,
-        102079391
+        102079391,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +71,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149524,
+    "wof:lastmodified":1603229479,
     "wof:name":"Port Craig",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

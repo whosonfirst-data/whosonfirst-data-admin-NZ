@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Huia"
     ],
+    "name:fra_x_preferred":[
+        "Huai"
+    ],
     "name:por_x_preferred":[
         "Huia"
     ],
@@ -46,11 +49,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":437,
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +89,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136831,
+    "wof:lastmodified":1603230373,
     "wof:name":"Huia",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

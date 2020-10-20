@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Paroa"
     ],
+    "name:mri_x_preferred":[
+        "Paroa"
+    ],
     "name:msa_x_preferred":[
         "Paroa"
     ],
@@ -47,11 +50,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687165,
         102191583,
-        1729238491,
         85633345,
-        102079361
+        102079361,
+        1729238491,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +86,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139924,
+    "wof:lastmodified":1603230810,
     "wof:name":"Paroa",
     "wof:parent_id":1729238491,
     "wof:placetype":"locality",

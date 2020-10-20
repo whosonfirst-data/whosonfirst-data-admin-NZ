@@ -20,8 +20,17 @@
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Craigieburn Forest Park"
+    ],
     "name:eng_x_preferred":[
         "Craigieburn Forest Park"
+    ],
+    "name:nld_x_preferred":[
+        "Craigieburn Forest Park"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bc8\u0b95\u0bbf\u0baa\u0bb0\u0bcd\u0ba9\u0bcd \u0bb5\u0ba9\u0baa\u0bcd \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe"
     ],
     "nz-linz:name":"Craigieburn Forest Park",
     "nz-linz:type":"PARK_RESERVE",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079369
+        102079369,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +67,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603141003,
+    "wof:lastmodified":1603229700,
     "wof:name":"Craigieburn Forest Park",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

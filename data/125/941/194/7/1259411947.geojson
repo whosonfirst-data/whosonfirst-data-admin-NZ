@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "Pamapuria"
     ],
+    "name:fra_x_preferred":[
+        "Pamapuria"
+    ],
     "name:mri_x_preferred":[
         "Pamapuria"
     ],
@@ -42,11 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687149,
         102191583,
-        1729238539,
         85633345,
-        102079255
+        102079255,
+        1729238539,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149689,
+    "wof:lastmodified":1603230760,
     "wof:name":"Pamapuria",
     "wof:parent_id":1729238539,
     "wof:placetype":"locality",

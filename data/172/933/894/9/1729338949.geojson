@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Tauhara"
     ],
+    "name:fra_x_preferred":[
+        "Tauhara"
+    ],
     "nz-linz:name":"Tauhara",
     "nz-linz:type":"SUBURB",
     "qs:gn_adm0_cc":"NZ",
@@ -51,11 +54,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238601,
         85633345,
-        102079281
+        102079281,
+        1729238601,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +88,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144119,
+    "wof:lastmodified":1603229963,
     "wof:name":"Tauhara",
     "wof:parent_id":1729238601,
     "wof:placetype":"locality",

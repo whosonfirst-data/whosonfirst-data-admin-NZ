@@ -24,11 +24,17 @@
     "name:deu_x_preferred":[
         "Birdling\u2019s Flat"
     ],
+    "name:deu_x_variant":[
+        "Birdlings Flat"
+    ],
     "name:eng_x_preferred":[
         "Birdlings Flat"
     ],
     "name:eng_x_variant":[
         "Birdling's Flat"
+    ],
+    "name:mri_x_preferred":[
+        "Birdlings Flat"
     ],
     "name:nld_x_preferred":[
         "Birdling's Flat"
@@ -65,8 +71,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079401
+        102079401,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +105,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137495,
+    "wof:lastmodified":1603230521,
     "wof:name":"Birdlings Flat",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

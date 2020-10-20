@@ -19,7 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Aotea"
+    ],
     "name:eng_x_preferred":[
+        "Aotea"
+    ],
+    "name:mri_x_preferred":[
         "Aotea"
     ],
     "nz-linz:name":"Aotea",
@@ -27,11 +33,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238563,
         85633345,
-        102079317
+        102079317,
+        1729238563,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +65,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144075,
+    "wof:lastmodified":1603229919,
     "wof:name":"Aotea",
     "wof:parent_id":1729238563,
     "wof:placetype":"locality",

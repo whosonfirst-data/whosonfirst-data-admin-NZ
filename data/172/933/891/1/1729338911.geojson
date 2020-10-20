@@ -23,6 +23,12 @@
     "name:deu_x_preferred":[
         "Totara Heights"
     ],
+    "name:eng_ca_x_preferred":[
+        "Totara Heights"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Totara Heights"
+    ],
     "name:eng_x_preferred":[
         "Totara Heights"
     ],
@@ -68,11 +74,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +109,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144089,
+    "wof:lastmodified":1603230108,
     "wof:name":"Totara Heights",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

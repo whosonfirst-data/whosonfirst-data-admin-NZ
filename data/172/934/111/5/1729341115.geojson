@@ -22,6 +22,15 @@
     "name:eng_x_preferred":[
         "Waipango"
     ],
+    "name:fra_x_preferred":[
+        "Waipango"
+    ],
+    "name:mri_x_preferred":[
+        "Waipango"
+    ],
+    "name:msa_x_preferred":[
+        "Waipango"
+    ],
     "nz-linz:name":"Waipango",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +38,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687211,
-        102079391
+        102079391,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +66,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145760,
+    "wof:lastmodified":1603229676,
     "wof:name":"Waipango",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

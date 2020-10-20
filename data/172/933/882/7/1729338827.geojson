@@ -22,16 +22,25 @@
     "name:eng_x_preferred":[
         "Otaika"
     ],
+    "name:fra_x_preferred":[
+        "Otaika"
+    ],
+    "name:mri_x_preferred":[
+        "Otaika"
+    ],
+    "name:msa_x_preferred":[
+        "Otaika"
+    ],
     "nz-linz:name":"Otaika",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687149,
         102191583,
-        1729238617,
         85633345,
-        102079257
+        102079257,
+        1729238617,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +68,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143950,
+    "wof:lastmodified":1603230074,
     "wof:name":"Otaika",
     "wof:parent_id":1729238617,
     "wof:placetype":"locality",

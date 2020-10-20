@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Shiel Hill"
     ],
+    "name:fra_x_preferred":[
+        "Shiel Hill"
+    ],
     "name:nld_x_preferred":[
         "Shiel Hill"
     ],
@@ -52,11 +55,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687201,
         102191583,
-        1729238495,
         85633345,
-        102079387
+        102079387,
+        1729238495,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +89,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143795,
+    "wof:lastmodified":1603230106,
     "wof:name":"Shiel Hill",
     "wof:parent_id":1729238495,
     "wof:placetype":"locality",

@@ -36,6 +36,15 @@
     "name:eng_x_preferred":[
         "Kennington"
     ],
+    "name:fra_x_preferred":[
+        "Kennington"
+    ],
+    "name:mri_x_preferred":[
+        "Kennington"
+    ],
+    "name:pol_x_preferred":[
+        "Kennington"
+    ],
     "nz-linz:id":677,
     "nz-linz:name":"Kennington",
     "nz-linz:type":"LOCALITY",
@@ -46,8 +55,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687211,
-        102079391
+        102079391,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138315,
+    "wof:lastmodified":1603230183,
     "wof:name":"Kennington",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

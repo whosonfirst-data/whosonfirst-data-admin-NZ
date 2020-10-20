@@ -22,16 +22,19 @@
     "name:eng_x_preferred":[
         "Karaka Bays"
     ],
+    "name:fra_x_preferred":[
+        "Karaka Bays"
+    ],
     "nz-linz:name":"Karaka Bays",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238583,
         85633345,
-        102079339
+        102079339,
+        1729238583,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143935,
+    "wof:lastmodified":1603229921,
     "wof:name":"Karaka Bays",
     "wof:parent_id":1729238583,
     "wof:placetype":"locality",

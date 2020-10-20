@@ -27,7 +27,8 @@
         "East Tamaki"
     ],
     "name:eng_x_variant":[
-        "E Tamaki"
+        "E Tamaki",
+        "East T\u0101maki"
     ],
     "nz-linz:id":6542,
     "nz-linz:name":"East Tamaki",
@@ -72,11 +73,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +113,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136620,
+    "wof:lastmodified":1603230259,
     "wof:name":"East Tamaki",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

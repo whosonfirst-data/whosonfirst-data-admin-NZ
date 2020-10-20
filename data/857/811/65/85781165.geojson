@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Townsend"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d5\u05e0\u05e1\u05e0\u05d3"
+    ],
     "name:ita_x_preferred":[
         "Townsend"
     ],
@@ -108,10 +111,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
-        1729238455,
         85633345,
-        101915709,
         102079353,
+        1729238455,
+        101915709,
         85687185
     ],
     "wof:breaches":[],
@@ -145,7 +148,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210231,
+    "wof:lastmodified":1603229322,
     "wof:name":"Townsend",
     "wof:parent_id":101915709,
     "wof:placetype":"neighbourhood",

@@ -34,6 +34,12 @@
     "name:deu_x_preferred":[
         "Devonport"
     ],
+    "name:eng_ca_x_preferred":[
+        "Devonport"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Devonport"
+    ],
     "name:eng_x_preferred":[
         "Devonport"
     ],
@@ -45,6 +51,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0534\u0565\u057e\u0578\u0576\u057a\u0578\u0580\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Devonport"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\ubc88\ud3ec\ud2b8"
     ],
     "name:mlg_x_preferred":[
         "Devonport"
@@ -72,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Devonport"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5fb7\u6587\u6e2f"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u6587\u6e2f"
@@ -117,11 +132,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +170,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136178,
+    "wof:lastmodified":1603230361,
     "wof:name":"Devonport",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

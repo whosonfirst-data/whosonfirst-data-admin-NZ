@@ -32,6 +32,9 @@
     "name:deu_x_preferred":[
         "Southgate"
     ],
+    "name:fra_x_preferred":[
+        "Southgate"
+    ],
     "name:ita_x_preferred":[
         "Southgate"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:swe_x_preferred":[
         "Southgate"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0443\u0442\u0433\u0435\u0439\u0442"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0624\u062a\u06be \u06af\u06cc\u0679"
@@ -90,10 +96,10 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191583,
-        1729238583,
         85633345,
-        101914575,
         102079339,
+        1729238583,
+        101914575,
         85687233
     ],
     "wof:breaches":[],
@@ -124,7 +130,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210343,
+    "wof:lastmodified":1603230624,
     "wof:name":"Southgate",
     "wof:parent_id":101914575,
     "wof:placetype":"neighbourhood",

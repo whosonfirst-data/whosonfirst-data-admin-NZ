@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Lake Sumner Forest Park"
+    ],
     "name:eng_x_preferred":[
         "Lake Sumner Forest Park"
     ],
@@ -30,8 +33,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079365
+        102079365,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +61,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140906,
+    "wof:lastmodified":1603229853,
     "wof:name":"Lake Sumner Forest Park",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

@@ -22,16 +22,19 @@
     "name:eng_x_preferred":[
         "Maori Hill"
     ],
+    "name:fra_x_preferred":[
+        "Maori Hill"
+    ],
     "nz-linz:name":"Maori Hill",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687201,
         102191583,
-        1729238495,
         85633345,
-        102079387
+        102079387,
+        1729238495,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143172,
+    "wof:lastmodified":1603229994,
     "wof:name":"Maori Hill",
     "wof:parent_id":1729238495,
     "wof:placetype":"locality",

@@ -19,7 +19,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:aze_x_preferred":[
+        "Balaklava"
+    ],
+    "name:bcl_x_preferred":[
+        "Balaklaba"
+    ],
+    "name:ceb_x_preferred":[
+        "Balaclava"
+    ],
     "name:eng_x_preferred":[
+        "Balaclava"
+    ],
+    "name:ita_x_preferred":[
+        "Balaclava"
+    ],
+    "name:mlg_x_preferred":[
+        "Balaclava"
+    ],
+    "name:swe_x_preferred":[
         "Balaclava"
     ],
     "nz-linz:name":"Balaclava",
@@ -27,11 +45,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687201,
         102191583,
-        1729238495,
         85633345,
-        102079387
+        102079387,
+        1729238495,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +77,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143570,
+    "wof:lastmodified":1603230102,
     "wof:name":"Balaclava",
     "wof:parent_id":1729238495,
     "wof:placetype":"locality",

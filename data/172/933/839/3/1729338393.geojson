@@ -33,6 +33,9 @@
     "name:fra_x_preferred":[
         "Parnell"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30fc\u30cd\u30eb"
+    ],
     "name:zho_x_preferred":[
         "\u5e15\u5948\u5c14"
     ],
@@ -63,11 +66,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +103,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143641,
+    "wof:lastmodified":1603230120,
     "wof:name":"Parnell",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

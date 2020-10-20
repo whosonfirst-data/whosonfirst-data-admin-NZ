@@ -99,6 +99,9 @@
     "name:ind_x_preferred":[
         "Georgetown"
     ],
+    "name:isl_x_preferred":[
+        "Georgetown"
+    ],
     "name:ita_x_preferred":[
         "Georgetown"
     ],
@@ -217,11 +220,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687211,
         102191583,
-        1729238483,
         85633345,
-        102079397
+        102079397,
+        1729238483,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,7 +255,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143653,
+    "wof:lastmodified":1603230091,
     "wof:name":"Georgetown",
     "wof:parent_id":1729238483,
     "wof:placetype":"locality",

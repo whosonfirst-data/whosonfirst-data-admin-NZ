@@ -23,8 +23,17 @@
     "name:eng_x_preferred":[
         "Te Marua"
     ],
+    "name:eng_x_variant":[
+        "Te M\u0101rua"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u06cc \u0645\u0627\u0631\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Te Marua"
+    ],
+    "name:mri_x_preferred":[
+        "Te M\u0101rua"
     ],
     "nz-linz:id":1633,
     "nz-linz:name":"Te Marua",
@@ -69,11 +78,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":279,
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238597,
         85633345,
-        102079335
+        102079335,
+        1729238597,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +115,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140626,
+    "wof:lastmodified":1603230375,
     "wof:name":"Te Marua",
     "wof:parent_id":1729238597,
     "wof:placetype":"locality",

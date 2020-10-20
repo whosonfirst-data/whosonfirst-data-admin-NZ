@@ -50,6 +50,9 @@
     "name:fra_x_preferred":[
         "Rockville"
     ],
+    "name:hun_x_preferred":[
+        "Rockville"
+    ],
     "name:ita_x_preferred":[
         "Rockville"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Rockville"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043a\u0432\u0456\u043b\u043b"
     ],
     "name:vol_x_preferred":[
         "Rockville"
@@ -118,8 +124,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687219,
-        102079349
+        102079349,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,7 +158,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137935,
+    "wof:lastmodified":1603230598,
     "wof:name":"Rockville",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

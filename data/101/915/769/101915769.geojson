@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Winchester"
     ],
+    "name:pol_x_preferred":[
+        "Winchester"
+    ],
     "name:urd_x_preferred":[
         "\u0648\u0646\u0686\u06cc\u0633\u0679\u0631\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
     ],
@@ -57,8 +60,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079373
+        102079373,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136567,
+    "wof:lastmodified":1603230263,
     "wof:name":"Winchester",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

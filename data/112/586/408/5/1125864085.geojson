@@ -24,6 +24,9 @@
     "name:ang_x_preferred":[
         "Liccidfeld"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0634\u0641\u064a\u0644\u062f"
+    ],
     "name:ast_x_preferred":[
         "Lichfield"
     ],
@@ -48,10 +51,16 @@
     "name:cym_x_preferred":[
         "Lichfield"
     ],
+    "name:cym_x_variant":[
+        "Caerlwytgoed"
+    ],
     "name:dan_x_preferred":[
         "Lichfield"
     ],
     "name:deu_x_preferred":[
+        "Lichfield"
+    ],
+    "name:diq_x_preferred":[
         "Lichfield"
     ],
     "name:eng_x_preferred":[
@@ -141,6 +150,9 @@
     "name:tur_x_preferred":[
         "Lichfield"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0447\u0444\u0456\u043b\u0434"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0686\u0641\u06cc\u0644\u0688"
     ],
@@ -185,8 +197,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079277
+        102079277,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -218,7 +230,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137520,
+    "wof:lastmodified":1603230516,
     "wof:name":"Lichfield",
     "wof:parent_id":102079277,
     "wof:placetype":"locality",

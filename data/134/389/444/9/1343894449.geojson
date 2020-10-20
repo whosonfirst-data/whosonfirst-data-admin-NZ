@@ -55,6 +55,9 @@
     "name:arg_x_preferred":[
         "Verano"
     ],
+    "name:ary_x_preferred":[
+        "\u0635\u064a\u0641"
+    ],
     "name:ast_x_preferred":[
         "Branu"
     ],
@@ -213,6 +216,9 @@
     ],
     "name:ido_x_preferred":[
         "Somero"
+    ],
+    "name:iku_x_preferred":[
+        "\u140a\u1405\u152d\u1585"
     ],
     "name:ile_x_preferred":[
         "Estive"
@@ -415,6 +421,9 @@
     "name:sqi_x_preferred":[
         "Vera"
     ],
+    "name:srd_x_preferred":[
+        "Istadiai"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u0442\u043e"
     ],
@@ -498,11 +507,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238507,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -529,7 +538,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603150164,
+    "wof:lastmodified":1603229310,
     "wof:name":"Summer",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

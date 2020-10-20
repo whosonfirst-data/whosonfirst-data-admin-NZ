@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Mount Victoria"
+    ],
     "name:deu_x_preferred":[
         "Mount Victoria"
     ],
@@ -76,11 +79,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238583,
         85633345,
-        102079339
+        102079339,
+        1729238583,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +116,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143732,
+    "wof:lastmodified":1603230125,
     "wof:name":"Mount Victoria",
     "wof:parent_id":1729238583,
     "wof:placetype":"locality",

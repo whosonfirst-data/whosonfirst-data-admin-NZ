@@ -98,6 +98,9 @@
     "name:ltz_x_preferred":[
         "Kingston"
     ],
+    "name:mri_x_preferred":[
+        "Takerehaka"
+    ],
     "name:msa_x_preferred":[
         "Kingston"
     ],
@@ -143,6 +146,9 @@
     "name:wln_x_preferred":[
         "Kingston"
     ],
+    "name:zho_x_preferred":[
+        "\u91d1\u65af\u987f"
+    ],
     "nz-linz:id":104081,
     "nz-linz:name":"Kingston",
     "nz-linz:type":"LOCALITY",
@@ -179,8 +185,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079385
+        102079385,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -214,7 +220,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137416,
+    "wof:lastmodified":1603230703,
     "wof:name":"Kingston",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

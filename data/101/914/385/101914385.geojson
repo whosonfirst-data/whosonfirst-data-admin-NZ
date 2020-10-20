@@ -24,21 +24,34 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0648\u0628\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u045e\u043f\u0430"
+    ],
     "name:cat_x_preferred":[
         "Taupo"
     ],
     "name:ceb_x_preferred":[
         "Taupo"
     ],
+    "name:deu_ch_x_preferred":[
+        "Taupo"
+    ],
     "name:deu_x_preferred":[
         "Taupo"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Taup\u014d"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Taup\u014d"
     ],
     "name:eng_x_preferred":[
         "Taupo"
     ],
     "name:eng_x_variant":[
         "TUO",
-        "Taupo Town District"
+        "Taupo Town District",
+        "Taup\u014d"
     ],
     "name:epo_x_preferred":[
         "Taupo"
@@ -142,11 +155,11 @@
     "wd:longitude":176.08,
     "wd:wordcount":1271,
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238601,
         85633345,
-        102079281
+        102079281,
+        1729238601,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,7 +197,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140662,
+    "wof:lastmodified":1603230321,
     "wof:name":"Taupo",
     "wof:parent_id":1729238601,
     "wof:placetype":"locality",

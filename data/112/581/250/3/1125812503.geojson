@@ -32,10 +32,16 @@
     "name:eng_x_preferred":[
         "Ward"
     ],
+    "name:mri_x_preferred":[
+        "Ward"
+    ],
     "name:msa_x_preferred":[
         "Ward"
     ],
     "name:nld_x_preferred":[
+        "Ward"
+    ],
+    "name:pol_x_preferred":[
         "Ward"
     ],
     "name:urd_x_preferred":[
@@ -79,8 +85,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687185,
-        102079353
+        102079353,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +120,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137305,
+    "wof:lastmodified":1603230525,
     "wof:name":"Ward",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "mz:note":"extra directional",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:cat_x_preferred":[
+        "Point Chevalier"
+    ],
     "name:eng_x_preferred":[
         "Point Chevalier North"
     ],
@@ -72,10 +75,10 @@
     "wd:wordcount":1791,
     "wof:belongsto":[
         102191583,
-        1729238453,
         85633345,
-        1729338833,
         102079403,
+        1729238453,
+        1729338833,
         85687243
     ],
     "wof:breaches":[],
@@ -112,7 +115,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210260,
+    "wof:lastmodified":1603229361,
     "wof:name":"Point Chevalier North",
     "wof:parent_id":1729338833,
     "wof:placetype":"neighbourhood",

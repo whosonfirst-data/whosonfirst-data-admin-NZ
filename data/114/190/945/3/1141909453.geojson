@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0648\u0641\u064a"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u0644\u0648\u0641\u064a"
+    ],
     "name:ast_x_preferred":[
         "Alofi"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0410\u043b\u043e\u0444\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043b\u043e\u0444\u0456"
     ],
     "name:bos_x_preferred":[
         "Alofi"
@@ -51,6 +57,9 @@
     ],
     "name:ces_x_preferred":[
         "Alofi"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u043b\u043e\u0444\u0438"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06d5\u0644\u06c6\u0641\u06cc"
@@ -133,6 +142,9 @@
     "name:lav_x_preferred":[
         "Alofi"
     ],
+    "name:lij_x_preferred":[
+        "Alofi"
+    ],
     "name:lit_x_preferred":[
         "Alofis"
     ],
@@ -178,6 +190,9 @@
     "name:por_x_preferred":[
         "Alofi"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0644\u0648\u0641\u064a"
+    ],
     "name:ron_x_preferred":[
         "Alofi"
     ],
@@ -214,11 +229,17 @@
     "name:swe_x_preferred":[
         "Alofi"
     ],
+    "name:szl_x_preferred":[
+        "Alofi"
+    ],
     "name:tah_x_preferred":[
         "Alofi"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb2\u0bcb\u0b83\u0baa\u0bbf"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043b\u043e\u0444\u0438"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e42\u0e25\u0e1f\u0e35"
@@ -240,6 +261,9 @@
     ],
     "name:war_x_preferred":[
         "Alofi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u6d1b\u83f2"
     ],
     "name:yue_x_preferred":[
         "\u963f\u6d1b\u83f2"
@@ -344,8 +368,8 @@
     "reversegeo:longitude":-169.913625,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        85632493,
         102191583,
+        85632493,
         136253053
     ],
     "wof:breaches":[],
@@ -374,7 +398,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149421,
+    "wof:lastmodified":1603230816,
     "wof:name":"Alofi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

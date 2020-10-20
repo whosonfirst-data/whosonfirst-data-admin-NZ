@@ -19,19 +19,31 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Shamrock Park"
+    ],
     "name:eng_x_preferred":[
         "Shamrock Park"
+    ],
+    "name:fra_x_preferred":[
+        "Shamrock Park"
+    ],
+    "name:pol_x_preferred":[
+        "Shamrock Park"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043c\u0440\u043e\u043a \u041f\u0430\u0440\u043a"
     ],
     "nz-linz:name":"Shamrock Park",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +71,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144080,
+    "wof:lastmodified":1603230126,
     "wof:name":"Shamrock Park",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

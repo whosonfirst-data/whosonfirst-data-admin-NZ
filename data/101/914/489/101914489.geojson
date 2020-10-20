@@ -25,8 +25,14 @@
     "name:eng_x_variant":[
         "Henderson"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30f3\u30c0\u30fc\u30bd\u30f3"
+    ],
     "name:nob_x_preferred":[
         "Henderson"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u06cc\u0646\u0688\u0631\u0633\u0646"
     ],
     "nz-linz:id":2166,
     "nz-linz:name":"Henderson Valley",
@@ -48,11 +54,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":632,
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +89,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136018,
+    "wof:lastmodified":1603230343,
     "wof:name":"Henderson Valley",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

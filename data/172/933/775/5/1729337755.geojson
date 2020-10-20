@@ -27,6 +27,9 @@
     "name:eng_x_variant":[
         "Cashmere Central"
     ],
+    "name:hun_x_preferred":[
+        "Cashmere"
+    ],
     "name:kor_x_preferred":[
         "\uce90\uc2dc\ubbf8\uc5b4"
     ],
@@ -65,11 +68,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238507,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +103,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143091,
+    "wof:lastmodified":1603230137,
     "wof:name":"Cashmere",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

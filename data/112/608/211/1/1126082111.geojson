@@ -73,6 +73,9 @@
     "name:tur_x_preferred":[
         "Helvetia"
     ],
+    "name:urd_x_preferred":[
+        "\u06c1\u06cc\u0644\u0648\u0679\u06cc\u0627"
+    ],
     "name:vie_x_preferred":[
         "Helvetia"
     ],
@@ -106,11 +109,11 @@
     "woe:name_adm1":"Waikato",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
+        102079403,
         101914379,
-        102079403
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +143,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210325,
+    "wof:lastmodified":1603230621,
     "wof:name":"Helvetia",
     "wof:parent_id":101914379,
     "wof:placetype":"neighbourhood",

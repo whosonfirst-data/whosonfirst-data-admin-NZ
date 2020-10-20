@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Te Rapa Park"
     ],
+    "name:eng_x_variant":[
+        "Te Rapa"
+    ],
     "name:msa_x_preferred":[
         "Te Rapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u62c9\u5e15"
     ],
     "nz-linz:name":"Te Rapa Park",
     "nz-linz:type":"SUBURB",
@@ -54,11 +60,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238493,
         85633345,
-        102079271
+        102079271,
+        1729238493,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +94,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143246,
+    "wof:lastmodified":1603229896,
     "wof:name":"Te Rapa Park",
     "wof:parent_id":1729238493,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Victoria Valley"
     ],
+    "name:ita_x_preferred":[
+        "Valle Victoria"
+    ],
     "name:nno_x_preferred":[
         "Victoria Valley"
     ],
@@ -48,11 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687149,
         102191583,
-        1729238539,
         85633345,
-        102079255
+        102079255,
+        1729238539,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149755,
+    "wof:lastmodified":1603230196,
     "wof:name":"Victoria Valley",
     "wof:parent_id":1729238539,
     "wof:placetype":"locality",

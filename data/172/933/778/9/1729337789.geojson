@@ -36,6 +36,9 @@
     "name:fra_x_preferred":[
         "Moana"
     ],
+    "name:fry_x_preferred":[
+        "Moana"
+    ],
     "name:ita_x_preferred":[
         "Moana"
     ],
@@ -58,6 +61,9 @@
         "Moana"
     ],
     "name:tah_x_preferred":[
+        "Moana"
+    ],
+    "name:tur_x_preferred":[
         "Moana"
     ],
     "nz-linz:name":"Moana",
@@ -89,11 +95,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687157,
         102191583,
-        1729238513,
         85633345,
-        102079351
+        102079351,
+        1729238513,
+        85687157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +130,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143119,
+    "wof:lastmodified":1603229991,
     "wof:name":"Moana",
     "wof:parent_id":1729238513,
     "wof:placetype":"locality",

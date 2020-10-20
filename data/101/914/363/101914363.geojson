@@ -27,6 +27,12 @@
     "name:deu_x_preferred":[
         "Levin"
     ],
+    "name:eng_ca_x_preferred":[
+        "Levin"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Levin"
+    ],
     "name:eng_x_preferred":[
         "Levin"
     ],
@@ -35,6 +41,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d5\u05d9\u05d9\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d5\u05d5\u05d9\u05df"
     ],
     "name:ita_x_preferred":[
         "Levin"
@@ -82,11 +91,11 @@
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238529,
         85633345,
-        102079313
+        102079313,
+        1729238529,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +134,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140225,
+    "wof:lastmodified":1603230295,
     "wof:name":"Levin",
     "wof:parent_id":1729238529,
     "wof:placetype":"locality",

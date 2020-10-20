@@ -57,6 +57,9 @@
     "name:eng_x_variant":[
         "Gisborne"
     ],
+    "name:epo_x_preferred":[
+        "Gisborne Regiono"
+    ],
     "name:fin_x_preferred":[
         "Gisbornen maakunta"
     ],
@@ -111,6 +114,9 @@
     "name:mri_x_preferred":[
         "T\u016branga-nui-a-Kiwa"
     ],
+    "name:mri_x_variant":[
+        "Te Tair\u0101whiti"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Gisborne"
     ],
@@ -164,6 +170,18 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Gisborne"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5409\u65af\u4f2f\u6069\u5927\u533a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5409\u65af\u4f2f\u6069\u5927\u5340"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5409\u65af\u4f2f\u6069\u5927\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5409\u65af\u4f2f\u6069\u5927\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5409\u65af\u4f2f\u6069\u5927\u533a"
@@ -226,7 +244,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603156219,
+    "wof:lastmodified":1603229236,
     "wof:name":"Gisborne District",
     "wof:parent_id":85687237,
     "wof:placetype":"county",

@@ -90,6 +90,9 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u0433\u0456\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0415\u043b\u0434\u0436\u0456\u043d"
+    ],
     "name:vol_x_preferred":[
         "Elgin"
     ],
@@ -104,11 +107,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238451,
         85633345,
-        102079371
+        102079371,
+        1729238451,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,7 +142,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139713,
+    "wof:lastmodified":1603230729,
     "wof:name":"Elgin",
     "wof:parent_id":1729238451,
     "wof:placetype":"locality",

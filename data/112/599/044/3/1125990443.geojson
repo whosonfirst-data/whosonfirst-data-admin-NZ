@@ -32,6 +32,9 @@
     "name:eng_x_variant":[
         "Wairau valley"
     ],
+    "name:fra_x_preferred":[
+        "Wairau Valley"
+    ],
     "name:mri_x_preferred":[
         "Wairau Valley"
     ],
@@ -40,6 +43,12 @@
     ],
     "name:nld_x_preferred":[
         "Wairau Valley"
+    ],
+    "name:pol_x_preferred":[
+        "Wairau Valley"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0439\u0440\u0430\u0443"
     ],
     "nz-linz:id":2260,
     "nz-linz:name":"Wairau Valley",
@@ -74,8 +83,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687185,
-        102079353
+        102079353,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +118,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138091,
+    "wof:lastmodified":1603230569,
     "wof:name":"Wairau Valley",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

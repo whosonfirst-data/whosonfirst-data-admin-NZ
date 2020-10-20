@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Plimmerton"
+    ],
     "name:deu_x_preferred":[
         "Plimmerton"
     ],
     "name:eng_x_preferred":[
         "Plimmerton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30de\u30fc\u30c8\u30f3"
     ],
     "name:msa_x_preferred":[
         "Plimmerton"
@@ -52,11 +58,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1496,
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238563,
         85633345,
-        102079317
+        102079317,
+        1729238563,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +99,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603135895,
+    "wof:lastmodified":1603230348,
     "wof:name":"Plimmerton",
     "wof:parent_id":1729238563,
     "wof:placetype":"locality",

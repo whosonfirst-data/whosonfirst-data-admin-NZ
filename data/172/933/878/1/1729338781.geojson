@@ -21,12 +21,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:bre_x_preferred":[
+        "Saint Clair"
+    ],
+    "name:cat_x_preferred":[
+        "Saint Clair"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint Clair"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Clair"
+    ],
     "name:eng_x_preferred":[
         "Saint Clair"
     ],
     "name:eng_x_variant":[
         "Saint Clair",
         "St. Clair"
+    ],
+    "name:fra_x_preferred":[
+        "Saint Clair"
+    ],
+    "name:hrv_x_preferred":[
+        "Saint Clair"
+    ],
+    "name:ita_x_preferred":[
+        "Saint Clair"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Clair"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Clair"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043d\u0442 \u041a\u043b\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041a\u043b\u0435\u0440"
     ],
     "nz-linz:name":"Saint Clair",
     "nz-linz:type":"SUBURB",
@@ -56,11 +89,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687201,
         102191583,
-        1729238495,
         85633345,
-        102079387
+        102079387,
+        1729238495,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +124,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143912,
+    "wof:lastmodified":1603230085,
     "wof:name":"Saint Clair",
     "wof:parent_id":1729238495,
     "wof:placetype":"locality",

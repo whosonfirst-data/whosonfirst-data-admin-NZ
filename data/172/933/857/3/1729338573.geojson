@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Port Taranaki"
+    ],
     "name:eng_x_preferred":[
         "Port Taranaki"
     ],
@@ -27,11 +30,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687195,
         102191583,
-        1729238515,
         85633345,
-        102079311
+        102079311,
+        1729238515,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143763,
+    "wof:lastmodified":1603229951,
     "wof:name":"Port Taranaki",
     "wof:parent_id":1729238515,
     "wof:placetype":"locality",

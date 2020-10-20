@@ -20,7 +20,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Beachville"
+    ],
     "name:eng_x_preferred":[
+        "Beachville"
+    ],
+    "name:fra_x_preferred":[
         "Beachville"
     ],
     "nz-linz:name":"Beachville",
@@ -28,11 +34,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687157,
         102191583,
-        1729238513,
         85633345,
-        102079351
+        102079351,
+        1729238513,
+        85687157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +68,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143571,
+    "wof:lastmodified":1603230103,
     "wof:name":"Beachville",
     "wof:parent_id":1729238513,
     "wof:placetype":"locality",

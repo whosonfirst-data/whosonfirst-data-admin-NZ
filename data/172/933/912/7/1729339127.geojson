@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Houghton Bay"
     ],
+    "name:fra_x_preferred":[
+        "Houghton Bay"
+    ],
     "nz-linz:name":"Houghton Bay",
     "nz-linz:type":"SUBURB",
     "qs:gn_adm0_cc":"NZ",
@@ -56,11 +59,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238583,
         85633345,
-        102079339
+        102079339,
+        1729238583,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144233,
+    "wof:lastmodified":1603229992,
     "wof:name":"Houghton Bay",
     "wof:parent_id":1729238583,
     "wof:placetype":"locality",

@@ -64,6 +64,9 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e0\u05d3\u05df"
     ],
+    "name:hun_x_preferred":[
+        "Linden"
+    ],
     "name:ita_x_preferred":[
         "Linden"
     ],
@@ -111,11 +114,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238583,
         85633345,
-        102079339
+        102079339,
+        1729238583,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,7 +145,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149789,
+    "wof:lastmodified":1603229444,
     "wof:name":"Linden",
     "wof:parent_id":1729238583,
     "wof:placetype":"locality",

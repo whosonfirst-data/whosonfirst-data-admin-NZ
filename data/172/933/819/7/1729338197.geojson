@@ -50,6 +50,9 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u0443\u0442 \u0425\u0438\u043b"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0443\u0442-\u0413\u0456\u043b\u043b"
+    ],
     "name:vol_x_preferred":[
         "South Hill"
     ],
@@ -78,11 +81,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687201,
         102191583,
-        1729238521,
         85633345,
-        102079381
+        102079381,
+        1729238521,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +115,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143469,
+    "wof:lastmodified":1603229930,
     "wof:name":"South Hill",
     "wof:parent_id":1729238521,
     "wof:placetype":"locality",

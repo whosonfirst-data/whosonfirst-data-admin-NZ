@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Dansey Pass"
+    ],
+    "name:deu_x_preferred":[
+        "Dansey Pass"
+    ],
     "name:eng_x_preferred":[
         "Danseys Pass"
+    ],
+    "name:fra_x_preferred":[
+        "Col Danseys"
     ],
     "nz-linz:name":"Danseys Pass",
     "nz-linz:type":"LOCALITY",
@@ -29,8 +38,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079381
+        102079381,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +66,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144315,
+    "wof:lastmodified":1603229998,
     "wof:name":"Danseys Pass",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

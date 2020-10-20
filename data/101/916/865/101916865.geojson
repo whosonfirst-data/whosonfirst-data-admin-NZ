@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Ahipara"
     ],
+    "name:ita_x_preferred":[
+        "Ahipara"
+    ],
+    "name:mri_x_preferred":[
+        "Ahipara"
+    ],
     "name:msa_x_preferred":[
         "Ahipara"
     ],
@@ -69,11 +75,11 @@
     "src:population":"geonames",
     "wd:wordcount":401,
     "wof:belongsto":[
-        85687149,
         102191583,
-        1729238539,
         85633345,
-        102079255
+        102079255,
+        1729238539,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +115,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140247,
+    "wof:lastmodified":1603230395,
     "wof:name":"Ahipara",
     "wof:parent_id":1729238539,
     "wof:placetype":"locality",

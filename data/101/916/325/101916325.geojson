@@ -36,6 +36,9 @@
     "name:fra_x_preferred":[
         "Bulls"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d0\u05d5\u05d5\u05d9\u05e1 \u05d1\u05e0\u05e7\u05e1"
+    ],
     "name:hun_x_preferred":[
         "Bulls"
     ],
@@ -46,6 +49,9 @@
         "Bulls"
     ],
     "name:nld_x_preferred":[
+        "Bulls"
+    ],
+    "name:pol_x_preferred":[
         "Bulls"
     ],
     "name:rus_x_preferred":[
@@ -82,11 +88,11 @@
     "src:population":"geonames",
     "wd:wordcount":596,
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238501,
         85633345,
-        102079301
+        102079301,
+        1729238501,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +131,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139938,
+    "wof:lastmodified":1603230380,
     "wof:name":"Bulls",
     "wof:parent_id":1729238501,
     "wof:placetype":"locality",

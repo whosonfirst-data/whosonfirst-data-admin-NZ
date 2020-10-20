@@ -25,7 +25,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Riversdale"
+    ],
+    "name:deu_x_preferred":[
+        "Riversdale"
+    ],
     "name:eng_x_preferred":[
+        "Riversdale"
+    ],
+    "name:fra_x_preferred":[
+        "Riversdale"
+    ],
+    "name:nds_x_preferred":[
+        "Riversdale"
+    ],
+    "name:swe_x_preferred":[
         "Riversdale"
     ],
     "qs:gn_adm0_cc":"NZ",
@@ -59,10 +74,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
-        1729238455,
         85633345,
-        101916541,
         102079353,
+        1729238455,
+        101916541,
         85687185
     ],
     "wof:breaches":[],
@@ -94,7 +109,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210216,
+    "wof:lastmodified":1603229346,
     "wof:name":"Riversdale",
     "wof:parent_id":101916541,
     "wof:placetype":"neighbourhood",

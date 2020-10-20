@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Greenstreet"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u043d\u0441\u0442\u0440\u0438\u0442"
+    ],
     "nz-linz:name":"Greenstreet",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +32,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079371
+        102079371,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +60,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145469,
+    "wof:lastmodified":1603229809,
     "wof:name":"Greenstreet",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

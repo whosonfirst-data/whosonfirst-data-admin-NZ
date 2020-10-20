@@ -19,7 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Nelson Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Nelson Airport"
+    ],
     "name:eng_x_preferred":[
+        "Nelson Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0644\u0633\u0648\u0646"
+    ],
+    "name:swe_x_preferred":[
         "Nelson Airport"
     ],
     "nz-linz:name":"Nelson Airport",
@@ -27,11 +39,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687157,
         102191583,
-        1729238513,
         85633345,
-        102079351
+        102079351,
+        1729238513,
+        85687157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +71,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143293,
+    "wof:lastmodified":1603229954,
     "wof:name":"Nelson Airport",
     "wof:parent_id":1729238513,
     "wof:placetype":"locality",

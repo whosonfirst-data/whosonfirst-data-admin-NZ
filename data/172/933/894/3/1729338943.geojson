@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Long Bay"
     ],
+    "name:fra_x_preferred":[
+        "Long Bay"
+    ],
     "name:swe_x_preferred":[
         "Long Bay"
     ],
@@ -56,11 +59,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144114,
+    "wof:lastmodified":1603229965,
     "wof:name":"Long Bay",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

@@ -38,8 +38,17 @@
     "name:deu_x_preferred":[
         "Tahunanui"
     ],
+    "name:eng_ca_x_preferred":[
+        "Tahunanui"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Tahunanui"
+    ],
     "name:eng_x_preferred":[
         "Tahunanui"
+    ],
+    "name:eng_x_variant":[
+        "T\u0101hunanui"
     ],
     "name:fra_x_preferred":[
         "Tahunanui"
@@ -91,11 +100,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687157,
         102191583,
-        1729238513,
         85633345,
-        102079351
+        102079351,
+        1729238513,
+        85687157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +139,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139978,
+    "wof:lastmodified":1603229205,
     "wof:name":"Tahunanui",
     "wof:parent_id":1729238513,
     "wof:placetype":"locality",

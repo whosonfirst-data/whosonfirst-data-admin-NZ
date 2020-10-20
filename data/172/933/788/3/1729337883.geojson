@@ -39,6 +39,9 @@
     "name:ces_x_preferred":[
         "Mayfair"
     ],
+    "name:cor_x_preferred":[
+        "Mayfair"
+    ],
     "name:cym_x_preferred":[
         "Mayfair"
     ],
@@ -57,8 +60,14 @@
     "name:epo_x_preferred":[
         "Mayfair"
     ],
+    "name:eus_x_preferred":[
+        "Mayfair"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u200c\u0641\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Mayfair"
     ],
     "name:fra_x_preferred":[
         "Mayfair"
@@ -126,6 +135,9 @@
     "name:urd_x_preferred":[
         "\u0645\u06d2 \u0641\u06cc\u0626\u0631"
     ],
+    "name:vie_x_preferred":[
+        "Mayfair"
+    ],
     "name:zho_x_preferred":[
         "\u6885\u8d39\u5c14"
     ],
@@ -134,11 +146,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687189,
         102191583,
-        1729238473,
         85633345,
-        102079329
+        102079329,
+        1729238473,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,7 +181,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143194,
+    "wof:lastmodified":1603230133,
     "wof:name":"Mayfair",
     "wof:parent_id":1729238473,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Wakefield"
     ],
+    "name:fra_x_preferred":[
+        "Wakefield"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a7\u30a4\u30af\u30d5\u30a3\u30fc\u30eb\u30c9"
     ],
@@ -63,11 +66,11 @@
     "src:population":"geonames",
     "wd:wordcount":235,
     "wof:belongsto":[
-        85687219,
         102191583,
-        1729238579,
         85633345,
-        102079349
+        102079349,
+        1729238579,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +109,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140530,
+    "wof:lastmodified":1603230283,
     "wof:name":"Wakefield",
     "wof:parent_id":1729238579,
     "wof:placetype":"locality",

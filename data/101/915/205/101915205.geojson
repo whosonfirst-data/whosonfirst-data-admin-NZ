@@ -44,6 +44,9 @@
     "name:por_x_preferred":[
         "Pahiatua"
     ],
+    "name:swe_x_preferred":[
+        "Pahiatua"
+    ],
     "nz-linz:id":2223,
     "nz-linz:name":"Pahiatua",
     "nz-linz:type":"SUBURB",
@@ -65,11 +68,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3052,
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238573,
         85633345,
-        102079309
+        102079309,
+        1729238573,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +111,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140500,
+    "wof:lastmodified":1603230254,
     "wof:name":"Pahiatua",
     "wof:parent_id":1729238573,
     "wof:placetype":"locality",

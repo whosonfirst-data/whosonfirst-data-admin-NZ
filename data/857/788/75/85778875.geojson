@@ -27,6 +27,9 @@
     "mz:note":"extra directional",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:cat_x_preferred":[
+        "Point Chevalier"
+    ],
     "name:eng_x_preferred":[
         "Point Chevalier South"
     ],
@@ -68,10 +71,10 @@
     "wd:wordcount":1791,
     "wof:belongsto":[
         102191583,
-        1729238453,
         85633345,
-        1729338829,
         102079403,
+        1729238453,
+        1729338829,
         85687243
     ],
     "wof:breaches":[],
@@ -104,7 +107,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210261,
+    "wof:lastmodified":1603229360,
     "wof:name":"Point Chevalier South",
     "wof:parent_id":1729338829,
     "wof:placetype":"neighbourhood",

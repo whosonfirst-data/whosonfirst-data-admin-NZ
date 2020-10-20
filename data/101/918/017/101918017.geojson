@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0648\u0631\u0647"
     ],
+    "name:arc_x_preferred":[
+        "\u0715\u0712\u0718\u072a\u0710"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u0628\u0648\u0631\u0647"
+    ],
     "name:aze_x_preferred":[
         "Debora"
     ],
@@ -51,6 +57,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b5\u03b2\u03b2\u03ce\u03c1\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Deborah"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Deborah"
     ],
     "name:eng_x_preferred":[
         "Deborah"
@@ -118,6 +130,9 @@
     "name:pol_x_preferred":[
         "Debora"
     ],
+    "name:por_br_x_preferred":[
+        "D\u00e9bora"
+    ],
     "name:por_x_preferred":[
         "D\u00e9bora"
     ],
@@ -151,6 +166,18 @@
     "name:urd_x_preferred":[
         "\u062f\u0628\u0648\u0631\u06c1"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5e95\u6ce2\u62c9"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5e95\u6ce2\u62c9"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5e95\u6ce2\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e95\u6ce2\u62c9"
+    ],
     "name:zho_x_preferred":[
         "\u5e95\u6ce2\u62c9"
     ],
@@ -176,8 +203,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079381
+        102079381,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -210,7 +237,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137074,
+    "wof:lastmodified":1603230406,
     "wof:name":"Deborah",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "Glenfield"
     ],
+    "name:fra_x_preferred":[
+        "Glenfield"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05dc\u05e0\u05e4\u05d9\u05dc\u05d3"
+    ],
     "name:ita_x_preferred":[
         "Glenfield"
     ],
@@ -99,11 +105,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,7 +144,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137095,
+    "wof:lastmodified":1603230407,
     "wof:name":"Glenfield",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

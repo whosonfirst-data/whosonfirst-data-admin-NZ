@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:bar_x_preferred":[
+        "Green Bay"
+    ],
     "name:ceb_x_preferred":[
         "Green Bay"
     ],
@@ -86,11 +89,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +122,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143126,
+    "wof:lastmodified":1603230020,
     "wof:name":"Green Bay",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

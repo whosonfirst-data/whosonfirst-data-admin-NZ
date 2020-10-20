@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002561,
-    "geom:area_square_m":25044437.883927,
+    "geom:area_square_m":25044437.884237,
     "geom:bbox":"176.164588,-37.784776,176.230609,-37.711254",
     "geom:latitude":-37.742167,
     "geom:longitude":176.201073,
@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
+        "Welcome Bay"
+    ],
+    "name:mri_x_preferred":[
         "Welcome Bay"
     ],
     "nz-linz:name":"Welcome Bay",
@@ -51,11 +54,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238603,
         85633345,
-        102079285
+        102079285,
+        1729238603,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +88,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603221022,
+    "wof:lastmodified":1603230061,
     "wof:name":"Welcome Bay",
     "wof:parent_id":1729238603,
     "wof:placetype":"locality",

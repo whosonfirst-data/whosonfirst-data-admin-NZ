@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Eyrewell Forest"
     ],
+    "name:mri_x_preferred":[
+        "Eyrewell"
+    ],
+    "name:msa_x_preferred":[
+        "Eyrewell Forest"
+    ],
     "nz-linz:name":"Eyrewell Forest",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +35,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079367
+        102079367,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +63,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145427,
+    "wof:lastmodified":1603229618,
     "wof:name":"Eyrewell Forest",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

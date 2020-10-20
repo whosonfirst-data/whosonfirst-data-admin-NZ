@@ -22,16 +22,25 @@
     "name:eng_x_preferred":[
         "Longlands"
     ],
+    "name:gle_x_preferred":[
+        "Longlands"
+    ],
+    "name:pol_x_preferred":[
+        "Longlands"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0646\u06af\u0644\u06cc\u0646\u0688\u0632"
+    ],
     "nz-linz:name":"Longlands",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687189,
         102191583,
-        1729238473,
         85633345,
-        102079329
+        102079329,
+        1729238473,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +68,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143162,
+    "wof:lastmodified":1603230019,
     "wof:name":"Longlands",
     "wof:parent_id":1729238473,
     "wof:placetype":"locality",

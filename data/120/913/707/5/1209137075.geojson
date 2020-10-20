@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032482,
-    "geom:area_square_m":315425965.237335,
+    "geom:area_square_m":315425965.237217,
     "geom:bbox":"177.471258,-38.38488,177.763828,-38.128206",
     "geom:latitude":-38.249244,
     "geom:longitude":177.60676,
@@ -42,6 +42,9 @@
     "name:fin_x_preferred":[
         "Motu"
     ],
+    "name:pol_x_preferred":[
+        "Motu"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0442\u0443"
     ],
@@ -61,8 +64,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687237,
-        102079325
+        102079325,
+        85687237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603220972,
+    "wof:lastmodified":1603229488,
     "wof:name":"Motu",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",

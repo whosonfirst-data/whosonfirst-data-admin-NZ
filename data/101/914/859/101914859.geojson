@@ -57,7 +57,19 @@
     "name:dan_x_preferred":[
         "Cambridge"
     ],
+    "name:deu_at_x_preferred":[
+        "Cambridge"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Cambridge"
+    ],
     "name:deu_x_preferred":[
+        "Cambridge"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Cambridge"
+    ],
+    "name:eng_gb_x_preferred":[
         "Cambridge"
     ],
     "name:eng_x_preferred":[
@@ -180,6 +192,9 @@
     "name:pol_x_preferred":[
         "Cambridge"
     ],
+    "name:por_br_x_preferred":[
+        "Cambridge"
+    ],
     "name:por_x_preferred":[
         "Cambridge"
     ],
@@ -208,6 +223,9 @@
         "Cambridge"
     ],
     "name:srd_x_preferred":[
+        "Cambridge"
+    ],
+    "name:srp_el_x_preferred":[
         "Cambridge"
     ],
     "name:swa_x_preferred":[
@@ -266,11 +284,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238503,
         85633345,
-        102079273
+        102079273,
+        1729238503,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -307,7 +325,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139963,
+    "wof:lastmodified":1603230309,
     "wof:name":"Cambridge",
     "wof:parent_id":1729238503,
     "wof:placetype":"locality",

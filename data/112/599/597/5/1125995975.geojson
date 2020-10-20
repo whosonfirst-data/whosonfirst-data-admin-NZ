@@ -23,6 +23,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:mri_x_preferred":[
+        "Waimata"
+    ],
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
     "qs_pg:gn_fcode":"PPL",
@@ -50,11 +53,11 @@
     "woe:name_adm1":"Waikato",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238599,
         85633345,
-        102079263
+        102079263,
+        1729238599,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149335,
+    "wof:lastmodified":1603230566,
     "wof:name":"Waimata",
     "wof:parent_id":1729238599,
     "wof:placetype":"locality",

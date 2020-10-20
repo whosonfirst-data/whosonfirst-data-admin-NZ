@@ -35,6 +35,12 @@
     "name:eng_x_variant":[
         "Richmond"
     ],
+    "name:fra_x_preferred":[
+        "Richmond"
+    ],
+    "name:nld_x_preferred":[
+        "Richmond"
+    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
     "qs:gn_local":2192362,
@@ -66,10 +72,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
-        1729238507,
         85633345,
-        1729338013,
         102079401,
+        1729238507,
+        1729338013,
         85687179
     ],
     "wof:breaches":[],
@@ -108,7 +114,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210204,
+    "wof:lastmodified":1603229330,
     "wof:name":"Richmond South",
     "wof:parent_id":1729338013,
     "wof:placetype":"neighbourhood",

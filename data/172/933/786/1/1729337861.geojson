@@ -30,6 +30,9 @@
     "name:eng_x_variant":[
         "Mt Albert"
     ],
+    "name:nds_x_preferred":[
+        "Mount Albert"
+    ],
     "name:swe_x_preferred":[
         "Mount Albert"
     ],
@@ -60,11 +63,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +98,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143175,
+    "wof:lastmodified":1603230141,
     "wof:name":"Mount Albert",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

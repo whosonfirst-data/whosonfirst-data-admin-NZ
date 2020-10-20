@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kumara"
+    ],
     "name:ceb_x_preferred":[
         "Kumara"
     ],
@@ -38,10 +41,16 @@
     "name:mri_x_preferred":[
         "Kumara Junction"
     ],
+    "name:mri_x_variant":[
+        "Kohimara"
+    ],
     "name:msa_x_preferred":[
         "Kumara"
     ],
     "name:nld_x_preferred":[
+        "Kumara"
+    ],
+    "name:pol_x_preferred":[
         "Kumara"
     ],
     "name:spa_x_preferred":[
@@ -80,11 +89,11 @@
     "woe:name_adm1":"West Coast",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687165,
         102191583,
-        1729238491,
         85633345,
-        102079361
+        102079361,
+        1729238491,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +128,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139922,
+    "wof:lastmodified":1603230523,
     "wof:name":"Kumara",
     "wof:parent_id":1729238491,
     "wof:placetype":"locality",

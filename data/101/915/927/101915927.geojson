@@ -22,7 +22,13 @@
     "name:eng_x_preferred":[
         "Waikino"
     ],
+    "name:mri_x_preferred":[
+        "Waikino"
+    ],
     "name:nld_x_preferred":[
+        "Waikino"
+    ],
+    "name:pol_x_preferred":[
         "Waikino"
     ],
     "nz-linz:id":8663,
@@ -46,11 +52,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1193,
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238599,
         85633345,
-        102079263
+        102079263,
+        1729238599,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140657,
+    "wof:lastmodified":1603230280,
     "wof:name":"Waikino",
     "wof:parent_id":1729238599,
     "wof:placetype":"locality",

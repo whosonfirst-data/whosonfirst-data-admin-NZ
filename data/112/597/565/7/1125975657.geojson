@@ -23,6 +23,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:mri_x_preferred":[
+        "Piriaka"
+    ],
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
     "qs_pg:gn_fcode":"PPL",
@@ -50,11 +53,11 @@
     "woe:name_adm1":"Manawatu Wanganui",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238547,
         85633345,
-        102079297
+        102079297,
+        1729238547,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149294,
+    "wof:lastmodified":1603230590,
     "wof:name":"Piriaka",
     "wof:parent_id":1729238547,
     "wof:placetype":"locality",

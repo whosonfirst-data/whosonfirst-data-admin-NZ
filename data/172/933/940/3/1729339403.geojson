@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007678,
-    "geom:area_square_m":71484671.065928,
+    "geom:area_square_m":71484671.065971,
     "geom:bbox":"175.564777,-41.211948,175.675684,-41.090469",
     "geom:latitude":-41.152099,
     "geom:longitude":175.619047,
@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Longbush"
     ],
+    "name:fra_x_preferred":[
+        "Longbush"
+    ],
     "nz-linz:name":"Longbush",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +32,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687233,
-        102079345
+        102079345,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +60,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603221019,
+    "wof:lastmodified":1603230003,
     "wof:name":"Longbush",
     "wof:parent_id":102079345,
     "wof:placetype":"locality",

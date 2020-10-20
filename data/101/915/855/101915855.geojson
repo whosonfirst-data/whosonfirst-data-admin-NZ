@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Takaka"
+    ],
     "name:ceb_x_preferred":[
         "Takaka"
     ],
@@ -30,13 +33,17 @@
         "Takaka"
     ],
     "name:eng_x_variant":[
-        "Takaka Town District"
+        "Takaka Town District",
+        "T\u0101kaka"
     ],
     "name:fra_x_preferred":[
         "Takaka"
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30ab\u30ab"
+    ],
+    "name:mri_x_preferred":[
+        "T\u0101kaka"
     ],
     "name:msa_x_preferred":[
         "Takaka"
@@ -74,8 +81,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687219,
-        102079349
+        102079349,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +118,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136585,
+    "wof:lastmodified":1603230277,
     "wof:name":"Takaka",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

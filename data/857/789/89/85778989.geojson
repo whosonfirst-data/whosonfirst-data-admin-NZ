@@ -33,6 +33,9 @@
     "name:eng_x_variant":[
         "Glen Eden"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ec\u30f3\u30fb\u30a4\u30fc\u30c7\u30f3"
+    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
     "qs:gn_local":7302484,
@@ -64,10 +67,10 @@
     "wd:wordcount":516,
     "wof:belongsto":[
         102191583,
-        1729238453,
         85633345,
-        1260010579,
         102079403,
+        1729238453,
+        1260010579,
         85687243
     ],
     "wof:breaches":[],
@@ -102,7 +105,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210250,
+    "wof:lastmodified":1603229369,
     "wof:name":"Glen Eden West",
     "wof:parent_id":1260010579,
     "wof:placetype":"neighbourhood",

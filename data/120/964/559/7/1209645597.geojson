@@ -43,6 +43,9 @@
     "name:cym_x_preferred":[
         "Bexley"
     ],
+    "name:eus_x_preferred":[
+        "Bexley"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06a9\u0633\u0644\u06cc"
     ],
@@ -76,12 +79,15 @@
     "name:urd_x_preferred":[
         "\u0628\u06cc\u06a9\u0632\u0644\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u06a9\u0632\u0644\u06cc\u060c \u0644\u0646\u062f\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079367
+        102079367,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +113,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149500,
+    "wof:lastmodified":1603229475,
     "wof:name":"Bexley",
     "wof:parent_id":102079367,
     "wof:placetype":"locality",

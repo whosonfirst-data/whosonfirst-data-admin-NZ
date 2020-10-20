@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "Roslyn"
     ],
+    "name:hun_x_preferred":[
+        "Roslyn"
+    ],
     "name:ita_x_preferred":[
         "Roslyn"
     ],
@@ -43,6 +46,9 @@
         "Roslyn"
     ],
     "name:srp_x_preferred":[
+        "\u0420\u043e\u0437\u043b\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
         "\u0420\u043e\u0437\u043b\u0438\u043d"
     ],
     "name:vol_x_preferred":[
@@ -76,11 +82,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238575,
         85633345,
-        102079307
+        102079307,
+        1729238575,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +117,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143786,
+    "wof:lastmodified":1603229950,
     "wof:name":"Roslyn",
     "wof:parent_id":1729238575,
     "wof:placetype":"locality",

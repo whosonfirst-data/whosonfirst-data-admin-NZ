@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Otway"
+    ],
     "name:eng_x_preferred":[
         "Otway"
+    ],
+    "name:fra_x_preferred":[
+        "Otway"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c8\u30a6\u30a7\u30a4"
     ],
     "nz-linz:name":"Otway",
     "nz-linz:type":"LOCALITY",
@@ -29,8 +38,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079267
+        102079267,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +66,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145603,
+    "wof:lastmodified":1603229773,
     "wof:name":"Otway",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

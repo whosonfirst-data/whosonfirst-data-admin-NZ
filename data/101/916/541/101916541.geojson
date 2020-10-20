@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Grovetown"
     ],
+    "name:pol_x_preferred":[
+        "Grovetown"
+    ],
     "nz-linz:id":481,
     "nz-linz:name":"Grovetown",
     "nz-linz:type":"SUBURB",
@@ -51,11 +54,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687185,
         102191583,
-        1729238455,
         85633345,
-        102079353
+        102079353,
+        1729238455,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139766,
+    "wof:lastmodified":1603230401,
     "wof:name":"Grovetown",
     "wof:parent_id":1729238455,
     "wof:placetype":"locality",

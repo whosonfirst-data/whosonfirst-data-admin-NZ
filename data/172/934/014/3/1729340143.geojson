@@ -19,11 +19,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u043b\u0441\u044a\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Nelson Island"
+    ],
+    "name:ces_x_preferred":[
+        "Nelson\u016fv ostrov"
+    ],
+    "name:deu_x_preferred":[
+        "Nelson Island"
+    ],
     "name:eng_x_preferred":[
         "Nelson Island"
     ],
     "name:eng_x_variant":[
         "Peter Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Nelson"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30eb\u30bd\u30f3\u5cf6"
+    ],
+    "name:pol_x_preferred":[
+        "Nelson Island"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u043b\u0441\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Nelson Island"
     ],
     "nz-linz:name":"Nelson Island (Peter Island)",
     "nz-linz:type":"ISLAND",
@@ -32,8 +59,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687243,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145064,
+    "wof:lastmodified":1603229590,
     "wof:name":"Nelson Island",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

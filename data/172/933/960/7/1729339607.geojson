@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Totara Valley"
     ],
+    "name:fra_x_preferred":[
+        "Totara Valley"
+    ],
+    "name:mri_x_preferred":[
+        "Totara Valley"
+    ],
     "nz-linz:name":"Totara Valley",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +35,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079373
+        102079373,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +63,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144628,
+    "wof:lastmodified":1603230048,
     "wof:name":"Totara Valley",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

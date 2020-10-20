@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Wainuiomata"
+    ],
     "name:ceb_x_preferred":[
         "Wainuiomata"
     ],
@@ -74,11 +77,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238533,
         85633345,
-        102079337
+        102079337,
+        1729238533,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +117,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603135944,
+    "wof:lastmodified":1603230328,
     "wof:name":"Wainuiomata",
     "wof:parent_id":1729238533,
     "wof:placetype":"locality",

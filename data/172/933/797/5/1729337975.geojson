@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Turnbull Thomson Park"
+    ],
     "name:eng_x_preferred":[
         "Turnbull Thomson Park"
     ],
@@ -27,11 +30,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687211,
         102191583,
-        1729238483,
         85633345,
-        102079397
+        102079397,
+        1729238483,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143254,
+    "wof:lastmodified":1603229872,
     "wof:name":"Turnbull Thomson Park",
     "wof:parent_id":1729238483,
     "wof:placetype":"locality",

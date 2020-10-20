@@ -35,11 +35,17 @@
     "name:eng_x_preferred":[
         "Ohura"
     ],
+    "name:eng_x_variant":[
+        "\u014chura"
+    ],
     "name:fra_x_preferred":[
         "Ohura"
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10f0\u10e3\u10e0\u10d0"
+    ],
+    "name:mri_x_preferred":[
+        "\u014chura"
     ],
     "name:msa_x_preferred":[
         "Ohura"
@@ -48,6 +54,9 @@
         "Ohura"
     ],
     "name:nno_x_preferred":[
+        "Ohura"
+    ],
+    "name:pol_x_preferred":[
         "Ohura"
     ],
     "name:und_x_variant":[
@@ -89,8 +98,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687251,
-        102079297
+        102079297,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +133,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138036,
+    "wof:lastmodified":1603230585,
     "wof:name":"Ohura",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

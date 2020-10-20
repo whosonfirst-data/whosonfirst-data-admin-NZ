@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Northcross"
     ],
+    "name:fra_x_preferred":[
+        "Northcross"
+    ],
     "nz-linz:id":1061,
     "nz-linz:name":"Northcross",
     "nz-linz:type":"SUBURB",
@@ -64,11 +67,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +105,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139402,
+    "wof:lastmodified":1603229292,
     "wof:name":"North Cross",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

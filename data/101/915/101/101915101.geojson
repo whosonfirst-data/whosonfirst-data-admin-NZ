@@ -22,11 +22,17 @@
     "name:ceb_x_preferred":[
         "Lake Okareka"
     ],
+    "name:cym_x_preferred":[
+        "Llyn Okareka"
+    ],
     "name:deu_x_preferred":[
         "Lake Okareka"
     ],
     "name:eng_x_preferred":[
         "Lake Okareka"
+    ],
+    "name:eng_x_variant":[
+        "Lake \u014ckareka"
     ],
     "name:fra_x_preferred":[
         "Lac Okaraka"
@@ -61,11 +67,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":974,
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238557,
         85633345,
-        102079289
+        102079289,
+        1729238557,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +105,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140424,
+    "wof:lastmodified":1603230266,
     "wof:name":"Lake Okareka",
     "wof:parent_id":1729238557,
     "wof:placetype":"locality",

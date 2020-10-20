@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Riverton/Aparima"
     ],
+    "name:fra_x_preferred":[
+        "Riverton"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d9\u05d1\u05e8\u05d8\u05d5\u05df"
     ],
@@ -73,11 +76,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2365,
     "wof:belongsto":[
-        85687211,
         102191583,
-        1729238551,
         85633345,
-        102079391
+        102079391,
+        1729238551,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +116,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140390,
+    "wof:lastmodified":1603230250,
     "wof:name":"Riverton/Aparima",
     "wof:parent_id":1729238551,
     "wof:placetype":"locality",

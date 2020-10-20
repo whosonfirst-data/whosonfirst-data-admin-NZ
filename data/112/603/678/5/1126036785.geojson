@@ -23,6 +23,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:mri_x_preferred":[
+        "Mataroa"
+    ],
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
     "qs_pg:gn_fcode":"PPL",
@@ -50,11 +53,11 @@
     "woe:name_adm1":"Manawatu Wanganui",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238543,
         85633345,
-        102079301
+        102079301,
+        1729238543,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149383,
+    "wof:lastmodified":1603230508,
     "wof:name":"Mataroa",
     "wof:parent_id":1729238543,
     "wof:placetype":"locality",

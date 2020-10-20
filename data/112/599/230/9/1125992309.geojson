@@ -30,11 +30,17 @@
     "name:eng_x_preferred":[
         "Mount Nicholas"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8 \u05e0\u05d9\u05e7\u05d5\u05dc\u05d0\u05e1"
+    ],
     "name:nno_x_preferred":[
         "Mount Nicholas"
     ],
     "name:swe_x_preferred":[
         "Nicholas"
+    ],
+    "name:swe_x_variant":[
+        "Mount Nicholas"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u53e4\u62c9\u65af\u5c71"
@@ -71,8 +77,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079385
+        102079385,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +110,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138097,
+    "wof:lastmodified":1603230571,
     "wof:name":"Mount Nicholas",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

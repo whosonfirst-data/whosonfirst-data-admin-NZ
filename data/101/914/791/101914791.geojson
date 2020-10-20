@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Coromandel"
+    ],
     "name:ceb_x_preferred":[
         "Coromandel"
     ],
@@ -28,6 +31,9 @@
         "Coromandel"
     ],
     "name:deu_x_preferred":[
+        "Coromandel"
+    ],
+    "name:eng_gb_x_preferred":[
         "Coromandel"
     ],
     "name:eng_x_preferred":[
@@ -41,6 +47,9 @@
     ],
     "name:ita_x_preferred":[
         "Coromandel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30fc\u30e9\u30de\u30f3\u30c7\u30eb"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043c\u0430\u043d\u0434\u0435\u043b"
@@ -61,6 +70,9 @@
         "Coromandel"
     ],
     "name:nor_x_preferred":[
+        "Coromandel"
+    ],
+    "name:pol_x_preferred":[
         "Coromandel"
     ],
     "name:por_x_preferred":[
@@ -95,11 +107,11 @@
     "wd:longitude":175.5,
     "wd:wordcount":366,
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238509,
         85633345,
-        102079261
+        102079261,
+        1729238509,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,7 +149,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139970,
+    "wof:lastmodified":1603230292,
     "wof:name":"Coromandel",
     "wof:parent_id":1729238509,
     "wof:placetype":"locality",

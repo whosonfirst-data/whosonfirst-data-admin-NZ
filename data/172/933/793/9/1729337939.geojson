@@ -91,6 +91,9 @@
     "name:tur_x_preferred":[
         "Riverside"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0432\u0435\u0440\u0441\u0430\u0439\u0434"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0631\u0633\u0627\u0626\u06cc\u0688"
     ],
@@ -129,11 +132,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687149,
         102191583,
-        1729238617,
         85633345,
-        102079257
+        102079257,
+        1729238617,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,7 +165,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143231,
+    "wof:lastmodified":1603230037,
     "wof:name":"Riverside",
     "wof:parent_id":1729238617,
     "wof:placetype":"locality",

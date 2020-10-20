@@ -26,6 +26,15 @@
     "name:eng_x_preferred":[
         "Papakowhai"
     ],
+    "name:eng_x_variant":[
+        "Papak\u014dwhai"
+    ],
+    "name:fra_x_preferred":[
+        "Papakowhai"
+    ],
+    "name:mri_x_preferred":[
+        "Papak\u014dwhai"
+    ],
     "nz-linz:id":1195,
     "nz-linz:name":"Papakowhai",
     "nz-linz:type":"SUBURB",
@@ -59,11 +68,11 @@
     "woe:name_adm1":"Wellington",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238563,
         85633345,
-        102079317
+        102079317,
+        1729238563,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +107,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137104,
+    "wof:lastmodified":1603230203,
     "wof:name":"Papakowhai",
     "wof:parent_id":1729238563,
     "wof:placetype":"locality",

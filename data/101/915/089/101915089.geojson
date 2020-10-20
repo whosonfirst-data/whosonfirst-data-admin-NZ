@@ -33,6 +33,12 @@
     "name:fra_x_preferred":[
         "Russell"
     ],
+    "name:ind_x_preferred":[
+        "Russell"
+    ],
+    "name:ita_x_preferred":[
+        "Russell"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30c3\u30bb\u30eb"
     ],
@@ -82,11 +88,11 @@
     "src:population":"geonames",
     "wd:wordcount":897,
     "wof:belongsto":[
-        85687149,
         102191583,
-        1729238559,
         85633345,
-        102079255
+        102079255,
+        1729238559,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +131,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140445,
+    "wof:lastmodified":1603230268,
     "wof:name":"Russell",
     "wof:parent_id":1729238559,
     "wof:placetype":"locality",

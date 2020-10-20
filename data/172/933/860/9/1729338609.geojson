@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Rockdale"
     ],
+    "name:hun_x_preferred":[
+        "Rockdale"
+    ],
     "name:ita_x_preferred":[
         "Rockdale"
     ],
@@ -55,6 +58,9 @@
     "name:swe_x_preferred":[
         "Rockdale"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043a\u0434\u0435\u0439\u043b"
+    ],
     "name:vol_x_preferred":[
         "Rockdale"
     ],
@@ -63,11 +69,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687211,
         102191583,
-        1729238483,
         85633345,
-        102079397
+        102079397,
+        1729238483,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +104,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143784,
+    "wof:lastmodified":1603229961,
     "wof:name":"Rockdale",
     "wof:parent_id":1729238483,
     "wof:placetype":"locality",

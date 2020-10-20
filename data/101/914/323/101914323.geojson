@@ -56,6 +56,12 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0443\u043c\u0430\u0440\u0443\u043d\u0438"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u9676\u9a6c\u9c81\u52aa\u4f0a"
+    ],
+    "name:zho_x_preferred":[
+        "\u9676\u9a6c\u9c81\u52aa\u4f0a"
+    ],
     "nz-linz:id":1604,
     "nz-linz:name":"Taumarunui",
     "nz-linz:type":"SUBURB",
@@ -77,11 +83,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3107,
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238547,
         85633345,
-        102079297
+        102079297,
+        1729238547,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +126,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140316,
+    "wof:lastmodified":1603230320,
     "wof:name":"Taumarunui",
     "wof:parent_id":1729238547,
     "wof:placetype":"locality",

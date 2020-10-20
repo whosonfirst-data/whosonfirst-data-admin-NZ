@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003746,
-    "geom:area_square_m":36473125.044926,
+    "geom:area_square_m":36473125.044934,
     "geom:bbox":"175.320617,-38.095504,175.421529,-38.018246",
     "geom:latitude":-38.055976,
     "geom:longitude":175.370494,
@@ -28,10 +28,16 @@
     "name:eng_x_variant":[
         "Kihikihi Town District"
     ],
+    "name:mri_x_preferred":[
+        "Kihikihi"
+    ],
     "name:msa_x_preferred":[
         "Kihikihi"
     ],
     "name:nld_x_preferred":[
+        "Kihikihi"
+    ],
+    "name:pol_x_preferred":[
         "Kihikihi"
     ],
     "nz-linz:id":688,
@@ -54,11 +60,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":326,
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238605,
         85633345,
-        102079273
+        102079273,
+        1729238605,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +99,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603221038,
+    "wof:lastmodified":1603230357,
     "wof:name":"Kihikihi",
     "wof:parent_id":1729238605,
     "wof:placetype":"locality",

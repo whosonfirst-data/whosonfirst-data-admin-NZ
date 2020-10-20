@@ -46,6 +46,9 @@
     "name:spa_x_preferred":[
         "Newfield"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044c\u044e\u0444\u0456\u043b\u0434"
+    ],
     "name:vol_x_preferred":[
         "Newfield"
     ],
@@ -54,11 +57,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687211,
         102191583,
-        1729238483,
         85633345,
-        102079397
+        102079397,
+        1729238483,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143733,
+    "wof:lastmodified":1603230125,
     "wof:name":"Newfield",
     "wof:parent_id":1729238483,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Bishopdale"
     ],
+    "name:fra_x_preferred":[
+        "Bishopdale"
+    ],
     "name:swe_x_preferred":[
         "Bishopdale"
     ],
@@ -59,11 +62,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238507,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143075,
+    "wof:lastmodified":1603230142,
     "wof:name":"Bishopdale",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

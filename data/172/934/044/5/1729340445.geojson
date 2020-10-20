@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Macraes Flat"
+    ],
     "name:eng_x_preferred":[
         "Macraes"
+    ],
+    "name:mri_x_preferred":[
+        "Macraes Flat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0631\u0627\u0626\u06cc\u0633 \u0641\u0644\u06cc\u0679"
     ],
     "nz-linz:name":"Macraes",
     "nz-linz:type":"LOCALITY",
@@ -29,8 +38,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079381
+        102079381,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +66,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145273,
+    "wof:lastmodified":1603229773,
     "wof:name":"Macraes",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

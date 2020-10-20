@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Pipiwai"
     ],
+    "name:mri_x_preferred":[
+        "Pipiwai"
+    ],
+    "name:msa_x_preferred":[
+        "Pipiwai"
+    ],
     "nz-linz:name":"Pipiwai",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +35,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079257
+        102079257,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +63,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144526,
+    "wof:lastmodified":1603230026,
     "wof:name":"Pipiwai",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

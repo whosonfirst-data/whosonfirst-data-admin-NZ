@@ -23,10 +23,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Rahotu"
+    ],
     "name:ceb_x_preferred":[
         "Rahotu"
     ],
     "name:eng_x_preferred":[
+        "Rahotu"
+    ],
+    "name:fra_x_preferred":[
         "Rahotu"
     ],
     "name:jpn_x_preferred":[
@@ -77,8 +83,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687195,
-        102079295
+        102079295,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +118,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137555,
+    "wof:lastmodified":1603230551,
     "wof:name":"Rahotu",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

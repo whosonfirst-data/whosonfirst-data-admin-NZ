@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062e\u0644\u064a\u062c \u0628\u0627\u0646\u062a\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0440\u044d\u0433\u0456\u0451\u043d \u0411\u044d\u0439-\u043e\u0444-\u041f\u043b\u0435\u043d\u0446\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b2\u09c7\u09a8\u09cd\u099f\u09bf \u0989\u09aa\u09b8\u09be\u0997\u09b0 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -57,6 +60,12 @@
     ],
     "name:ell_x_variant":[
         "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03a0\u03bb\u03ad\u03bd\u03c4\u03c5"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Bay of Plenty"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Bay of Plenty"
     ],
     "name:eng_x_preferred":[
         "Bay of Plenty Region"
@@ -187,6 +196,9 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Bay Of Plenty"
     ],
+    "name:vie_x_variant":[
+        "Khu v\u1ef1c v\u1ecbnh Plenty"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Bay of Plenty T\u014da-khu"
     ],
@@ -250,7 +262,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603194759,
+    "wof:lastmodified":1603229384,
     "wof:name":"Bay of Plenty Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

@@ -25,16 +25,19 @@
     "name:eng_x_preferred":[
         "Greerton"
     ],
+    "name:mri_x_preferred":[
+        "Greerton"
+    ],
     "nz-linz:name":"Greerton",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238603,
         85633345,
-        102079285
+        102079285,
+        1729238603,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +68,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143683,
+    "wof:lastmodified":1603229939,
     "wof:name":"Greerton",
     "wof:parent_id":1729238603,
     "wof:placetype":"locality",

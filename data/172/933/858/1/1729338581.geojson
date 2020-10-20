@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Upper Riccarton"
     ],
+    "name:fra_x_preferred":[
+        "Upper Riccarton"
+    ],
     "nz-linz:name":"Upper Riccarton",
     "nz-linz:type":"SUBURB",
     "qs:gn_adm0_cc":"NZ",
@@ -53,11 +56,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238507,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143766,
+    "wof:lastmodified":1603229965,
     "wof:name":"Upper Riccarton",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

@@ -22,16 +22,19 @@
     "name:eng_x_preferred":[
         "Clover Park"
     ],
+    "name:sco_x_preferred":[
+        "Clover Park"
+    ],
     "nz-linz:name":"Clover Park",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143438,
+    "wof:lastmodified":1603229914,
     "wof:name":"Clover Park",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

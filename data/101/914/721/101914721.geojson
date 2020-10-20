@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Hawera"
     ],
+    "name:eng_x_variant":[
+        "H\u0101wera"
+    ],
     "name:fra_x_preferred":[
         "Hawera"
     ],
@@ -185,11 +188,11 @@
     "wd:longitude":174.283333,
     "wd:wordcount":1295,
     "wof:belongsto":[
-        85687195,
         102191583,
-        1729238475,
         85633345,
-        102079295
+        102079295,
+        1729238475,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -229,7 +232,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139857,
+    "wof:lastmodified":1603230356,
     "wof:name":"Hawera",
     "wof:parent_id":1729238475,
     "wof:placetype":"locality",

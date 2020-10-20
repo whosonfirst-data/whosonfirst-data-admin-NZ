@@ -34,6 +34,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a\u062f\u0644\u0628\u0631\u063a"
     ],
+    "name:arg_x_preferred":[
+        "Heidelberg"
+    ],
+    "name:arz_x_preferred":[
+        "\u0647\u0627\u064a\u062f\u064a\u0644\u0628\u064a\u0631\u062c"
+    ],
     "name:ast_x_preferred":[
         "Heidelberg"
     ],
@@ -80,6 +86,9 @@
         "Heidelberg"
     ],
     "name:deu_x_preferred":[
+        "Heidelberg"
+    ],
+    "name:diq_x_preferred":[
         "Heidelberg"
     ],
     "name:dsb_x_preferred":[
@@ -181,6 +190,9 @@
     "name:lav_x_preferred":[
         "Heidelberga"
     ],
+    "name:lim_x_preferred":[
+        "Heidelberg"
+    ],
     "name:lit_x_preferred":[
         "Heidelbergas"
     ],
@@ -189,6 +201,9 @@
     ],
     "name:ltz_x_preferred":[
         "Heidelberg"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d48\u0d21\u0d7d\u0d2c\u0d7c\u0d17\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093e\u092f\u0921\u0947\u0932\u092c\u0930\u094d\u0917"
@@ -319,6 +334,9 @@
     "name:war_x_preferred":[
         "Heidelberg"
     ],
+    "name:wuu_x_preferred":[
+        "\u6d77\u5fb7\u5821"
+    ],
     "name:yid_x_preferred":[
         "\u05d4\u05d9\u05d9\u05d3\u05dc\u05d1\u05e2\u05e8\u05d2"
     ],
@@ -333,11 +351,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687211,
         102191583,
-        1729238483,
         85633345,
-        102079397
+        102079397,
+        1729238483,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -368,7 +386,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143690,
+    "wof:lastmodified":1603229943,
     "wof:name":"Heidelberg",
     "wof:parent_id":1729238483,
     "wof:placetype":"locality",

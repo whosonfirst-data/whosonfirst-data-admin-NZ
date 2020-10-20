@@ -23,6 +23,9 @@
     "name:afr_x_preferred":[
         "Waiuku"
     ],
+    "name:cat_x_preferred":[
+        "Waiuku"
+    ],
     "name:ceb_x_preferred":[
         "Waiuku"
     ],
@@ -53,6 +56,12 @@
     "name:pol_x_preferred":[
         "Waiuku"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6000\u4e4c\u5e93"
+    ],
+    "name:zho_x_preferred":[
+        "\u6000\u4e4c\u5e93"
+    ],
     "nz-linz:id":1865,
     "nz-linz:name":"Waiuku",
     "nz-linz:type":"SUBURB",
@@ -77,8 +86,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687243,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +123,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136126,
+    "wof:lastmodified":1603230305,
     "wof:name":"Waiuku",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

@@ -73,6 +73,9 @@
     "name:swe_x_preferred":[
         "Ferndale"
     ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u0440\u043d\u0434\u0435\u0439\u043b"
+    ],
     "name:vol_x_preferred":[
         "Ferndale"
     ],
@@ -104,10 +107,10 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191583,
-        1729238515,
         85633345,
-        1729337865,
         102079311,
+        1729238515,
+        1729337865,
         85687195
     ],
     "wof:breaches":[],
@@ -139,7 +142,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210330,
+    "wof:lastmodified":1603230639,
     "wof:name":"Ferndale",
     "wof:parent_id":1729337865,
     "wof:placetype":"neighbourhood",

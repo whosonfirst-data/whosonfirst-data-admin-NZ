@@ -75,6 +75,9 @@
     "name:kor_x_preferred":[
         "\uc624\ud074\ub79c\ub4dc \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ud074\ub79c\ub4dc \uacf5\ud56d"
+    ],
     "name:mal_x_preferred":[
         "\u0d13\u0d15\u0d4d\u200c\u0d32\u0d7b\u0d21\u0d4d \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
     ],
@@ -119,11 +122,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,7 +157,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139211,
+    "wof:lastmodified":1603230205,
     "wof:name":"Auckland Airport",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

@@ -67,6 +67,9 @@
     "name:por_x_preferred":[
         "Highland Park"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u043b\u0435\u043d\u0434-\u041f\u0430\u0440\u043a"
+    ],
     "name:spa_x_preferred":[
         "Highland Park"
     ],
@@ -87,11 +90,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +125,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143992,
+    "wof:lastmodified":1603230082,
     "wof:name":"Highland Park",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

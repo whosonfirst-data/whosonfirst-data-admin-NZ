@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0635\u064a \u0627\u0644\u0639\u0631\u0634"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0626\u06cc\u0628\u200c\u0627\u0644\u0633\u0644\u0637\u0646\u0647"
+    ],
     "name:aze_x_preferred":[
         "Regent"
     ],
@@ -116,11 +119,17 @@
     "name:rus_x_preferred":[
         "\u0420\u0435\u0433\u0435\u043d\u0442"
     ],
+    "name:sco_x_preferred":[
+        "Regent"
+    ],
     "name:slk_x_preferred":[
         "Regent"
     ],
     "name:slv_x_preferred":[
         "Regent"
+    ],
+    "name:spa_x_preferred":[
+        "Regente"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u0433\u0435\u043d\u0442"
@@ -137,6 +146,9 @@
     "name:tha_x_preferred":[
         "\u0e1c\u0e39\u0e49\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e41\u0e17\u0e19\u0e1e\u0e23\u0e30\u0e2d\u0e07\u0e04\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "Naip"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0435\u043d\u0442"
     ],
@@ -151,11 +163,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687149,
         102191583,
-        1729238617,
         85633345,
-        102079257
+        102079257,
+        1729238617,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -185,7 +197,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144241,
+    "wof:lastmodified":1603230025,
     "wof:name":"Regent",
     "wof:parent_id":1729238617,
     "wof:placetype":"locality",

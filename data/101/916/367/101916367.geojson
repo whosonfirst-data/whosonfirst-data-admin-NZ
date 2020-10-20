@@ -25,6 +25,9 @@
     "name:eng_x_variant":[
         "Manunui Town District"
     ],
+    "name:mri_x_preferred":[
+        "Manunui"
+    ],
     "nz-linz:id":842,
     "nz-linz:name":"Manunui",
     "nz-linz:type":"SUBURB",
@@ -46,11 +49,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":292,
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238547,
         85633345,
-        102079297
+        102079297,
+        1729238547,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +90,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140318,
+    "wof:lastmodified":1603230385,
     "wof:name":"Manunui",
     "wof:parent_id":1729238547,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ces_x_preferred":[
         "Fitzroy"
     ],
+    "name:dan_x_preferred":[
+        "Fitzroy"
+    ],
     "name:deu_x_preferred":[
         "Fitzroy"
     ],
@@ -108,11 +111,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238493,
         85633345,
-        102079271
+        102079271,
+        1729238493,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,7 +145,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143549,
+    "wof:lastmodified":1603229910,
     "wof:name":"Fitzroy",
     "wof:parent_id":1729238493,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_landuse_aoi":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Waipoua Forest"
+    ],
     "name:deu_x_preferred":[
         "Waipoua Forest"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ef\u30a4\u30dd\u30a6\u30a2\u68ee\u6797\u4fdd\u8b77\u533a"
+    ],
+    "name:mri_x_preferred":[
+        "Waipoua Forest"
     ],
     "name:nno_x_preferred":[
         "Waipoua Forest"
@@ -72,8 +78,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +111,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137450,
+    "wof:lastmodified":1603230682,
     "wof:name":"Waipoua Forest",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

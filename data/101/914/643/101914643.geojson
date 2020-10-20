@@ -23,6 +23,9 @@
     "name:bos_x_preferred":[
         "Te Kauwhata"
     ],
+    "name:cat_x_preferred":[
+        "Te Kauwhata"
+    ],
     "name:ceb_x_preferred":[
         "Te Kauwhata"
     ],
@@ -36,11 +39,20 @@
         "Te Kaiwhata",
         "Te Kauwhata Town District"
     ],
+    "name:mri_x_preferred":[
+        "Te Kauwhata"
+    ],
     "name:nld_x_preferred":[
+        "Te Kauwhata"
+    ],
+    "name:pol_x_preferred":[
         "Te Kauwhata"
     ],
     "name:und_x_variant":[
         "Kauwhata"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u8003\u6cd5\u5854"
     ],
     "nz-linz:id":2270,
     "nz-linz:name":"Te Kauwhata",
@@ -66,8 +78,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079265
+        102079265,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +115,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136138,
+    "wof:lastmodified":1603230297,
     "wof:name":"Te Kauwhata",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

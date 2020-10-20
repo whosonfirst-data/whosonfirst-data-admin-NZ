@@ -34,6 +34,12 @@
     "name:deu_x_preferred":[
         "Waikato-Tainui"
     ],
+    "name:deu_x_variant":[
+        "Tainui"
+    ],
+    "name:mri_x_preferred":[
+        "Tainui"
+    ],
     "name:msa_x_preferred":[
         "Tainui"
     ],
@@ -44,8 +50,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687165,
-        102079363
+        102079363,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +77,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149661,
+    "wof:lastmodified":1603230719,
     "wof:name":"Tainui",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",

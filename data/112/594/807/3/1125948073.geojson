@@ -27,6 +27,12 @@
     "name:eng_x_preferred":[
         "Mount Bruce"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8 \u05d1\u05e8\u05d5\u05e1"
+    ],
+    "name:nds_x_preferred":[
+        "Mount Bruce"
+    ],
     "name:swe_x_preferred":[
         "Mount Bruce"
     ],
@@ -62,8 +68,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687251,
-        102079309
+        102079309,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137835,
+    "wof:lastmodified":1603230445,
     "wof:name":"Mount Bruce",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",

@@ -31,11 +31,17 @@
     "name:arg_x_preferred":[
         "Napier"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0628\u064a\u0627\u0631"
+    ],
     "name:ast_x_preferred":[
         "Napier"
     ],
     "name:bar_x_preferred":[
         "Napier"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u0439\u043f\u0456\u0440"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09aa\u09bf\u09af\u09bc\u09be\u09b0"
@@ -50,6 +56,9 @@
         "Napier"
     ],
     "name:cat_x_preferred":[
+        "Napier"
+    ],
+    "name:ceb_x_preferred":[
         "Napier"
     ],
     "name:ces_x_preferred":[
@@ -199,6 +208,9 @@
     "name:pol_x_preferred":[
         "Napier"
     ],
+    "name:por_br_x_preferred":[
+        "Napier"
+    ],
     "name:por_x_preferred":[
         "Napier"
     ],
@@ -228,6 +240,12 @@
     ],
     "name:sqi_x_preferred":[
         "Napier"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041d\u0435\u0458\u043f\u0438\u0458\u0435\u0440"
+    ],
+    "name:srp_el_x_preferred":[
+        "Nejpijer"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0435\u0458\u043f\u0438\u0458\u0435\u0440"
@@ -271,6 +289,18 @@
     "name:yue_x_preferred":[
         "\u7d0d\u76ae\u723e"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5185\u76ae\u5c14"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5167\u76ae\u723e"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5185\u76ae\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5167\u76ae\u723e"
+    ],
     "name:zho_x_preferred":[
         "\u5167\u76ae\u723e"
     ],
@@ -291,8 +321,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687189,
-        102079331
+        102079331,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -323,7 +353,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603135799,
+    "wof:lastmodified":1603229524,
     "wof:name":"Napier",
     "wof:parent_id":102079331,
     "wof:placetype":"localadmin",

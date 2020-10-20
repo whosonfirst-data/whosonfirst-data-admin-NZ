@@ -20,8 +20,56 @@
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Kahurangi National Park"
+    ],
+    "name:ces_x_preferred":[
+        "N\u00e1rodn\u00ed park Kahurangi"
+    ],
+    "name:deu_x_preferred":[
+        "Kahurangi-Nationalpark"
+    ],
     "name:eng_x_preferred":[
         "Kahurangi National Park"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e4\u05d0\u05e8\u05e7 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9 \u05e7\u05d4\u05d5\u05e8\u05e0\u05d2\u05d9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d5\u30e9\u30f3\u30ae\u56fd\u7acb\u516c\u5712"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10f0\u10e3\u10e0\u10d0\u10dc\u10d2\u10d8\u10e1 \u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10de\u10d0\u10e0\u10d9\u10d8"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d39\u0d41\u0d30\u0d3e\u0d02\u0d17\u0d3f \u0d26\u0d47\u0d36\u0d40\u0d2f\u0d4b\u0d26\u0d4d\u0d2f\u0d3e\u0d28\u0d02"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u043f\u0430\u0440\u043a \u041a\u0430\u0445\u0443\u0440\u0430\u043d\u0433\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Nationaal park Kahurangi"
+    ],
+    "name:nno_x_preferred":[
+        "Kahurangi National Park"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0627\u06c1\u0648\u0631\u0627\u0646\u06af\u06cc \u0646\u06cc\u0634\u0646\u0644 \u067e\u0627\u0631\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Kahurangi National Park"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0445\u0443\u0440\u0430\u043d\u0433\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kahurangi nationalpark"
+    ],
+    "name:vie_x_preferred":[
+        "V\u01b0\u1eddn qu\u1ed1c gia Kahurangi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u80e1\u6717\u5409\u570b\u5bb6\u516c\u5712"
     ],
     "nz-linz:name":"Kahurangi National Park",
     "nz-linz:type":"PARK_RESERVE",
@@ -30,8 +78,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687165,
-        102079357
+        102079357,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +106,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603141050,
+    "wof:lastmodified":1603229672,
     "wof:name":"Kahurangi National Park",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

@@ -19,7 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Wairakei"
+    ],
     "name:eng_x_preferred":[
+        "Wairakei"
+    ],
+    "name:fra_x_preferred":[
+        "Wairakei"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\uc774\ub77c\ucf00\uc774"
+    ],
+    "name:msa_x_preferred":[
         "Wairakei"
     ],
     "nz-linz:name":"Wairakei",
@@ -27,11 +39,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238601,
         85633345,
-        102079281
+        102079281,
+        1729238601,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +71,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143863,
+    "wof:lastmodified":1603229933,
     "wof:name":"Wairakei",
     "wof:parent_id":1729238601,
     "wof:placetype":"locality",

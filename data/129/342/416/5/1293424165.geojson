@@ -43,15 +43,21 @@
     "name:eng_x_variant":[
         "Aoraki / Mount Cook"
     ],
+    "name:fra_x_preferred":[
+        "Mount Cook Village"
+    ],
     "name:mri_x_preferred":[
         "Aoraki"
+    ],
+    "name:mri_x_variant":[
+        "Aoraki/Mount Cook"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079375
+        102079375,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +84,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149900,
+    "wof:lastmodified":1603229432,
     "wof:name":"Mount Cook Village",
     "wof:parent_id":102079375,
     "wof:placetype":"locality",

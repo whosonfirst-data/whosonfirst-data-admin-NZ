@@ -24,6 +24,9 @@
     "name:ceb_x_preferred":[
         "Grey Lynn"
     ],
+    "name:deu_x_preferred":[
+        "Grey Lynn"
+    ],
     "name:eng_x_preferred":[
         "Grey Lynn"
     ],
@@ -66,11 +69,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +106,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143686,
+    "wof:lastmodified":1603229944,
     "wof:name":"Grey Lynn",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

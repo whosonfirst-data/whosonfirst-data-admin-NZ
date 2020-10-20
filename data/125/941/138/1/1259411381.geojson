@@ -31,13 +31,16 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:mri_x_preferred":[
+        "Ladbrooks"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238507,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +68,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149684,
+    "wof:lastmodified":1603230761,
     "wof:name":"Ladbrooks",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

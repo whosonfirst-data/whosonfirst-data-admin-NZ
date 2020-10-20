@@ -23,8 +23,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Orepuki"
+    ],
     "name:eng_x_preferred":[
         "Orepuki"
+    ],
+    "name:fra_x_preferred":[
+        "Orepuki"
+    ],
+    "name:mri_x_preferred":[
+        "Aropaki"
     ],
     "name:nld_x_preferred":[
         "Orepuki"
@@ -67,8 +76,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687211,
-        102079391
+        102079391,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +111,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137376,
+    "wof:lastmodified":1603230706,
     "wof:name":"Orepuki",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

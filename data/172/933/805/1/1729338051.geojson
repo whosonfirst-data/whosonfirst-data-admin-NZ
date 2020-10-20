@@ -21,7 +21,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Campbells Bay"
+    ],
     "name:eng_x_preferred":[
+        "Campbells Bay"
+    ],
+    "name:mri_x_preferred":[
         "Campbells Bay"
     ],
     "nz-linz:name":"Campbells Bay",
@@ -50,11 +56,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143310,
+    "wof:lastmodified":1603229977,
     "wof:name":"Campbells Bay",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Lincoln"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30ab\u30f3"
+    ],
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Lincoln",
@@ -48,11 +51,11 @@
     "woe:name_adm1":"Auckland Region",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149303,
+    "wof:lastmodified":1603230617,
     "wof:name":"Lincoln",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

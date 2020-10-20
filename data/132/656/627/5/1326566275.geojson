@@ -31,12 +31,15 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:mri_x_preferred":[
+        "Kiwitahi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079267
+        102079267,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603150029,
+    "wof:lastmodified":1603229188,
     "wof:name":"Kiwitahi",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

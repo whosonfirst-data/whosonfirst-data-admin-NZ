@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Oratia"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30e9\u30c6\u30a3\u30a2"
+    ],
     "name:msa_x_preferred":[
         "Oratia"
     ],
@@ -55,11 +58,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143745,
+    "wof:lastmodified":1603230113,
     "wof:name":"Oratia",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

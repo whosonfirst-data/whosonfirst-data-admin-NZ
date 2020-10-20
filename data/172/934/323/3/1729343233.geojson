@@ -20,8 +20,56 @@
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u062a\u0632\u0647 \u0646\u064a\u0644\u0633\u0648\u0646 \u0644\u064a\u0643\u0633 \u0627\u0644\u0648\u0637\u0646\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Nelson Lakes National Park"
+    ],
     "name:eng_x_preferred":[
         "Nelson Lakes National Park"
+    ],
+    "name:epo_x_preferred":[
+        "Nacia Parko Lagoj Nelson"
+    ],
+    "name:fra_x_preferred":[
+        "Parc national des lacs Nelson"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e4\u05d0\u05e8\u05e7 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9 \u05e0\u05dc\u05e1\u05d5\u05df \u05dc\u05d9\u05d9\u05e7\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Nelson Lakes Nemzeti Park"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d4\u10da\u10e1\u10dd\u10dc\u10d8\u10e1 \u10e2\u10d1\u10d4\u10d1\u10d8\u10e1 \u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10de\u10d0\u10e0\u10d9\u10d8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u043f\u0430\u0440\u043a \u041d\u0435\u043b\u0441\u043e\u043d\u0441\u043a\u0438 \u0415\u0437\u0435\u0440\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Nationaal park Nelson Lakes"
+    ],
+    "name:nno_x_preferred":[
+        "Nelson Lakes National Park"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u06cc\u0644\u0633 \u0644\u06cc\u06a9\u0633 \u0646\u06cc\u0634\u0646\u0644 \u067e\u0627\u0631\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Nelson Lakes National Park"
+    ],
+    "name:por_x_preferred":[
+        "Nelson Lakes National Park"
+    ],
+    "name:ron_x_preferred":[
+        "Parcul Na\u021bional Lacul Nelson"
+    ],
+    "name:swe_x_preferred":[
+        "Nelson Lakes nationalpark"
+    ],
+    "name:vie_x_preferred":[
+        "V\u01b0\u1eddn qu\u1ed1c gia c\u00e1c h\u1ed3 Nelson"
     ],
     "nz-linz:name":"Nelson Lakes National Park",
     "nz-linz:type":"PARK_RESERVE",
@@ -30,8 +78,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687219,
-        102079349
+        102079349,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +106,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603141023,
+    "wof:lastmodified":1603229675,
     "wof:name":"Nelson Lakes National Park",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

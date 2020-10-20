@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0648\u0627\u0647\u064a\u0643\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0647 \u0648\u0627\u0647\u064a\u0643\u0649"
+    ],
+    "name:ces_x_preferred":[
+        "Waiheke"
+    ],
     "name:cym_x_preferred":[
         "Ynys Waiheke"
     ],
@@ -65,6 +71,9 @@
     "name:mkd_x_preferred":[
         "\u0412\u0430\u0438\u0445\u0435\u043a\u0435"
     ],
+    "name:mri_x_preferred":[
+        "Waiheke"
+    ],
     "name:msa_x_preferred":[
         "Pulau Waiheke"
     ],
@@ -86,6 +95,9 @@
     "name:rus_x_preferred":[
         "\u0423\u0430\u0438\u0445\u0435\u043a\u0435"
     ],
+    "name:slk_x_preferred":[
+        "Waiheke"
+    ],
     "name:slv_x_preferred":[
         "otok Waiheke"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Waiheke Island"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u61f7\u5e0c\u57fa\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u6000\u5e0c\u57fa\u5c9b"
@@ -118,11 +133,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4923,
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238441,
         85633345,
-        102079403
+        102079403,
+        1729238441,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,7 +171,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139607,
+    "wof:lastmodified":1603230386,
     "wof:name":"Waiheke Island",
     "wof:parent_id":1729238441,
     "wof:placetype":"locality",

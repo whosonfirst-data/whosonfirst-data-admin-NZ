@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Taitapu"
+    ],
     "name:ceb_x_preferred":[
         "Tai Tapu"
     ],
@@ -29,7 +32,16 @@
     "name:eng_x_variant":[
         "Taitapu"
     ],
+    "name:fra_x_preferred":[
+        "Tai Tapu"
+    ],
+    "name:mri_x_preferred":[
+        "Taitapu"
+    ],
     "name:nld_x_preferred":[
+        "Tai Tapu"
+    ],
+    "name:pol_x_preferred":[
         "Tai Tapu"
     ],
     "nz-linz:id":1571,
@@ -56,8 +68,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079369
+        102079369,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +104,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136708,
+    "wof:lastmodified":1603230374,
     "wof:name":"Taitapu",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

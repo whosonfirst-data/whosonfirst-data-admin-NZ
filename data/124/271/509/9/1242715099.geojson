@@ -31,12 +31,18 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:fra_x_preferred":[
+        "Lynnford"
+    ],
+    "name:mri_x_preferred":[
+        "Lynnford"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079371
+        102079371,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +69,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149613,
+    "wof:lastmodified":1603230737,
     "wof:name":"Lynnford",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:ita_x_preferred":[
         "Pukerua Bay"
     ],
+    "name:mri_x_preferred":[
+        "Pukerua Bay"
+    ],
     "name:msa_x_preferred":[
         "Teluk Pukerua"
     ],
@@ -64,6 +67,12 @@
     "name:tur_x_preferred":[
         "Pukerua Bay"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u666e\u514b\u62c9\u6d77\u7063"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u514b\u62c9\u6d77\u6e7e"
+    ],
     "nz-linz:id":1317,
     "nz-linz:name":"Pukerua Bay",
     "nz-linz:type":"SUBURB",
@@ -84,11 +93,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1130,
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238563,
         85633345,
-        102079317
+        102079317,
+        1729238563,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +132,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136224,
+    "wof:lastmodified":1603230298,
     "wof:name":"Pukerua Bay",
     "wof:parent_id":1729238563,
     "wof:placetype":"locality",

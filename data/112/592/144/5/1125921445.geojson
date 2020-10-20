@@ -21,6 +21,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0647\u064a\u0643\u0633\u062a\u0648\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Hexton"
     ],
@@ -63,11 +66,11 @@
     "woe:name_adm1":"Gisborne",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687237,
         102191583,
-        1729238487,
         85633345,
-        102079325
+        102079325,
+        1729238487,
+        85687237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +99,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149162,
+    "wof:lastmodified":1603230462,
     "wof:name":"Hexton",
     "wof:parent_id":1729238487,
     "wof:placetype":"locality",

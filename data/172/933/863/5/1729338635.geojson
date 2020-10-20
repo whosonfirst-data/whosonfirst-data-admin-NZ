@@ -50,6 +50,9 @@
     "name:ita_x_preferred":[
         "Somerville"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30de\u30f4\u30a3\u30eb"
+    ],
     "name:kor_x_preferred":[
         "\uc11c\uba38\ube4c"
     ],
@@ -110,11 +113,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143801,
+    "wof:lastmodified":1603230128,
     "wof:name":"Somerville",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

@@ -66,6 +66,9 @@
     "name:swe_x_preferred":[
         "Summerhill"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u043c\u0435\u0440\u0433\u0456\u043b\u043b"
+    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2185018,
@@ -97,10 +100,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
-        1729238575,
         85633345,
-        101914815,
         102079307,
+        1729238575,
+        101914815,
         85687251
     ],
     "wof:breaches":[],
@@ -135,7 +138,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210233,
+    "wof:lastmodified":1603229323,
     "wof:name":"Summerhill",
     "wof:parent_id":101914815,
     "wof:placetype":"neighbourhood",

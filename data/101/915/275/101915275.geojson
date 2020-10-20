@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0430\u0439\u0445\u0430\u0443"
+    ],
     "name:ceb_x_preferred":[
         "Okaihau"
     ],
@@ -29,6 +32,15 @@
     "name:eng_x_preferred":[
         "Okaihau"
     ],
+    "name:eng_x_variant":[
+        "\u014ckaihau"
+    ],
+    "name:fra_x_preferred":[
+        "Okaihau"
+    ],
+    "name:mri_x_preferred":[
+        "\u014ckaihau"
+    ],
     "name:msa_x_preferred":[
         "Okaihau"
     ],
@@ -36,6 +48,9 @@
         "Okaihau"
     ],
     "name:nno_x_preferred":[
+        "Okaihau"
+    ],
+    "name:pol_x_preferred":[
         "Okaihau"
     ],
     "name:rus_x_preferred":[
@@ -64,8 +79,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +113,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136429,
+    "wof:lastmodified":1603230249,
     "wof:name":"Okaihau",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

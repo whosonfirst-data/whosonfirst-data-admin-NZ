@@ -20,8 +20,80 @@
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
     "mz:min_zoom":9.0,
+    "name:ang_x_preferred":[
+        "S\u01e3earmlandes R\u012bcisc Edisc"
+    ],
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u064a\u0642\u0629 \u0641\u064a\u0648\u0631\u062f\u0644\u0627\u0646\u062f \u0627\u0644\u0648\u0637\u0646\u064a\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Fiordland National Park"
+    ],
+    "name:ces_x_preferred":[
+        "N\u00e1rodn\u00ed park Fiordland"
+    ],
+    "name:deu_x_preferred":[
+        "Fiordland-Nationalpark"
+    ],
     "name:eng_x_preferred":[
         "Fiordland National Park"
+    ],
+    "name:eus_x_preferred":[
+        "Fiordland Parke Nazionala"
+    ],
+    "name:fin_x_preferred":[
+        "Fiordlandin kansallispuisto"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e4\u05d0\u05e8\u05e7 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9 \u05e4\u05d9\u05d5\u05e8\u05d3\u05dc\u05e0\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Parco nazionale del Fiordland"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30e8\u30eb\u30c9\u30e9\u30f3\u30c9\u56fd\u7acb\u516c\u5712"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d8\u10dd\u10e0\u10d3\u10da\u10d0\u10dc\u10d3\u10d8\u10e1 \u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10de\u10d0\u10e0\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud53c\uc624\ub974\ub4dc\ub79c\ub4dc \uad6d\ub9bd\uacf5\uc6d0"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u043f\u0430\u0440\u043a \u0424\u0458\u043e\u0440\u0434\u043b\u0435\u043d\u0434"
+    ],
+    "name:nld_x_preferred":[
+        "Nationaal park Fiordland"
+    ],
+    "name:nno_x_preferred":[
+        "Fiordland National Park"
+    ],
+    "name:nor_x_preferred":[
+        "Fiordland nasjonalpark"
+    ],
+    "name:pol_x_preferred":[
+        "Fiordland National Park"
+    ],
+    "name:ron_x_preferred":[
+        "Parcul Na\u021bional Fiordland"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u044c\u043e\u0440\u0434\u043b\u0435\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Fiordland nationalpark"
+    ],
+    "name:tur_x_preferred":[
+        "Fiordland Mill\u00ee Park\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u0424\u0456\u043e\u0440\u0434\u043b\u0435\u043d\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "V\u01b0\u1eddn qu\u1ed1c gia Fiordland"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ce1\u6e7e\u56fd\u5bb6\u516c\u56ed"
     ],
     "nz-linz:name":"Fiordland National Park",
     "nz-linz:type":"PARK_RESERVE",
@@ -30,8 +102,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687211,
-        102079391
+        102079391,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +130,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603141139,
+    "wof:lastmodified":1603229666,
     "wof:name":"Fiordland National Park",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

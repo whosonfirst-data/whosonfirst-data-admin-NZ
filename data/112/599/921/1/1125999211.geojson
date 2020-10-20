@@ -23,7 +23,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Colville"
+    ],
     "name:eng_x_preferred":[
+        "Colville"
+    ],
+    "name:mri_x_preferred":[
         "Colville"
     ],
     "name:msa_x_preferred":[
@@ -67,8 +73,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079261
+        102079261,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +108,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138143,
+    "wof:lastmodified":1603230573,
     "wof:name":"Colville",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

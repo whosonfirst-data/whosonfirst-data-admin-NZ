@@ -26,14 +26,29 @@
     "name:eng_x_preferred":[
         "Okato"
     ],
+    "name:eng_x_variant":[
+        "\u014ckato"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30ab\u30c8"
+    ],
+    "name:mri_x_preferred":[
+        "\u014ckato"
     ],
     "name:msa_x_preferred":[
         "Okato"
     ],
     "name:nld_x_preferred":[
         "Okato"
+    ],
+    "name:pol_x_preferred":[
+        "Okato"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5965\u5361\u6258"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5361\u6258"
     ],
     "nz-linz:id":2950,
     "nz-linz:name":"Okato",
@@ -58,8 +73,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687195,
-        102079311
+        102079311,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +110,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136730,
+    "wof:lastmodified":1603230364,
     "wof:name":"Okato",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

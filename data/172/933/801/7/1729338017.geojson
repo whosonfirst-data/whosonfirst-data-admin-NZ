@@ -103,6 +103,9 @@
     "name:sco_x_preferred":[
         "Eelansburgh"
     ],
+    "name:sco_x_variant":[
+        "Milligs Mill"
+    ],
     "name:spa_x_preferred":[
         "Helensburgh"
     ],
@@ -120,11 +123,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687201,
         102191583,
-        1729238495,
         85633345,
-        102079387
+        102079387,
+        1729238495,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +158,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143282,
+    "wof:lastmodified":1603230121,
     "wof:name":"Helensburgh",
     "wof:parent_id":1729238495,
     "wof:placetype":"locality",

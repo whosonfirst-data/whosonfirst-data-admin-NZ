@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Pahurehure"
     ],
+    "name:fra_x_preferred":[
+        "Pahurehure"
+    ],
     "name:nld_x_preferred":[
         "Pahurehure"
     ],
@@ -55,11 +58,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238577,
         85633345,
-        102079403
+        102079403,
+        1729238577,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143748,
+    "wof:lastmodified":1603230112,
     "wof:name":"Pahurehure",
     "wof:parent_id":1729238577,
     "wof:placetype":"locality",

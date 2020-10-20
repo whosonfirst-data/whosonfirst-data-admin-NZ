@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Havelock"
+    ],
     "name:ceb_x_preferred":[
         "Havelock"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_variant":[
         "Havelock Town District"
+    ],
+    "name:fra_x_preferred":[
+        "Havelock"
     ],
     "name:msa_x_preferred":[
         "Havelock"
@@ -65,8 +71,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687185,
-        102079353
+        102079353,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +108,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136789,
+    "wof:lastmodified":1603230365,
     "wof:name":"Havelock",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

@@ -57,6 +57,9 @@
     "name:fra_x_preferred":[
         "Leamington"
     ],
+    "name:nds_x_preferred":[
+        "Leamington"
+    ],
     "name:pol_x_preferred":[
         "Leamington"
     ],
@@ -86,11 +89,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238503,
         85633345,
-        102079273
+        102079273,
+        1729238503,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +126,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139962,
+    "wof:lastmodified":1603229183,
     "wof:name":"Leamington",
     "wof:parent_id":1729238503,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Manukau"
+    ],
+    "name:cat_x_preferred":[
+        "Manukau"
+    ],
     "name:ceb_x_preferred":[
         "Manukau City"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:eng_x_variant":[
         "Manukau City"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u06a9\u0627 \u0633\u06cc\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Manukau City"
@@ -80,6 +89,9 @@
     "name:war_x_preferred":[
         "Manukau"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u66fc\u52aa\u8003"
+    ],
     "name:zho_x_preferred":[
         "\u66fc\u52aa\u8003"
     ],
@@ -111,11 +123,11 @@
     "woe:name_adm1":"Auckland Region",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +158,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149306,
+    "wof:lastmodified":1603230620,
     "wof:name":"Manukau City",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

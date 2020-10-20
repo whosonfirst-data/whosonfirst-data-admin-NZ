@@ -118,6 +118,9 @@
     "name:lav_x_preferred":[
         "J\u016bdeja"
     ],
+    "name:lit_x_preferred":[
+        "Jud\u0117ja"
+    ],
     "name:mar_x_preferred":[
         "\u091c\u0941\u0926\u0947\u0906"
     ],
@@ -154,6 +157,9 @@
     "name:por_x_preferred":[
         "Judeia"
     ],
+    "name:rue_x_preferred":[
+        "\u042e\u0434\u0435\u044f"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0443\u0434\u0435\u044f"
     ],
@@ -178,6 +184,9 @@
     "name:tam_x_preferred":[
         "\u0baf\u0bc2\u0ba4\u0bc7\u0baf\u0bbe"
     ],
+    "name:tur_x_preferred":[
+        "Yahudiye"
+    ],
     "name:ukr_x_preferred":[
         "\u042e\u0434\u0435\u044f"
     ],
@@ -187,8 +196,17 @@
     "name:vec_x_preferred":[
         "Zudia"
     ],
+    "name:vec_x_variant":[
+        "Xudea"
+    ],
     "name:vie_x_preferred":[
         "Judea"
+    ],
+    "name:war_x_preferred":[
+        "Judea"
+    ],
+    "name:wuu_x_preferred":[
+        "\u72b9\u5730\u4e9a"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05e8\u05e5 \u05d9\u05d4\u05d5\u05d3\u05d4"
@@ -201,11 +219,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238603,
         85633345,
-        102079285
+        102079285,
+        1729238603,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -236,7 +254,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143146,
+    "wof:lastmodified":1603230138,
     "wof:name":"Judea",
     "wof:parent_id":1729238603,
     "wof:placetype":"locality",

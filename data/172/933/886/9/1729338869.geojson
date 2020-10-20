@@ -26,6 +26,9 @@
     "name:hun_x_preferred":[
         "Armier Bay"
     ],
+    "name:mri_x_preferred":[
+        "Army Bay"
+    ],
     "name:nno_x_preferred":[
         "Armierbukta"
     ],
@@ -56,11 +59,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238555,
         85633345,
-        102079403
+        102079403,
+        1729238555,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144011,
+    "wof:lastmodified":1603229934,
     "wof:name":"Army Bay",
     "wof:parent_id":1729238555,
     "wof:placetype":"locality",

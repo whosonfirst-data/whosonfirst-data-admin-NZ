@@ -22,16 +22,25 @@
     "name:eng_x_preferred":[
         "Ngongotaha"
     ],
+    "name:eng_x_variant":[
+        "Ngongotah\u0101"
+    ],
     "name:fra_x_preferred":[
         "Ngongotaha"
     ],
     "name:jpn_x_preferred":[
         "\u30f3\u30b4\u30f3\u30b4\u30bf\u30cf"
     ],
+    "name:mri_x_preferred":[
+        "Ngongotah\u0101"
+    ],
     "name:msa_x_preferred":[
         "Ngongotaha"
     ],
     "name:nld_x_preferred":[
+        "Ngongotaha"
+    ],
+    "name:pol_x_preferred":[
         "Ngongotaha"
     ],
     "nz-linz:id":4027,
@@ -55,11 +64,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":457,
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238557,
         85633345,
-        102079289
+        102079289,
+        1729238557,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +104,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140424,
+    "wof:lastmodified":1603230332,
     "wof:name":"Ngongotaha",
     "wof:parent_id":1729238557,
     "wof:placetype":"locality",

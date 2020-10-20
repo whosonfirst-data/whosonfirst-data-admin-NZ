@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Middleton"
     ],
+    "name:cym_x_preferred":[
+        "Middleton"
+    ],
     "name:dan_x_preferred":[
         "Middleton"
     ],
@@ -125,11 +128,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238507,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -160,7 +163,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143728,
+    "wof:lastmodified":1603229959,
     "wof:name":"Middleton",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

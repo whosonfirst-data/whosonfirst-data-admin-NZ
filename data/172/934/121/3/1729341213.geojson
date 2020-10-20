@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Whitikahu"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062a\u06cc\u200c\u06a9\u0627\u0647\u0648"
+    ],
+    "name:mri_x_preferred":[
+        "Whitikahu"
+    ],
     "nz-linz:name":"Whitikahu",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +35,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079265
+        102079265,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +63,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145828,
+    "wof:lastmodified":1603229694,
     "wof:name":"Whitikahu",
     "wof:parent_id":102079265,
     "wof:placetype":"locality",

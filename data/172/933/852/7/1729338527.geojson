@@ -36,6 +36,9 @@
     "name:fra_x_preferred":[
         "Newlands"
     ],
+    "name:kor_x_preferred":[
+        "\ub274\ub79c\uc988"
+    ],
     "name:pol_x_preferred":[
         "Newlands"
     ],
@@ -74,11 +77,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238583,
         85633345,
-        102079339
+        102079339,
+        1729238583,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +112,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143734,
+    "wof:lastmodified":1603230125,
     "wof:name":"Newlands",
     "wof:parent_id":1729238583,
     "wof:placetype":"locality",

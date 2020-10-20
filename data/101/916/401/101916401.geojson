@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:dan_x_preferred":[
+        "Kawhia Harbour"
+    ],
     "name:deu_x_preferred":[
         "K\u0101whia Harbour"
     ],
@@ -28,7 +31,8 @@
     ],
     "name:eng_x_variant":[
         "Kawhia Town District",
-        "K\u0101whia Harbour"
+        "K\u0101whia Harbour",
+        "Kawhia Harbour"
     ],
     "name:fra_x_preferred":[
         "K\u0101whia Harbour"
@@ -40,6 +44,9 @@
         "Kawhia Harbour"
     ],
     "name:spa_x_preferred":[
+        "Kawhia Harbour"
+    ],
+    "name:swe_x_preferred":[
         "Kawhia Harbour"
     ],
     "nz-linz:id":6530,
@@ -66,8 +73,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079275
+        102079275,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +109,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136744,
+    "wof:lastmodified":1603230371,
     "wof:name":"Kawhia",
     "wof:parent_id":102079275,
     "wof:placetype":"locality",

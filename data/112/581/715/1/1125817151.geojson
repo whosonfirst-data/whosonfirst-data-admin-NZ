@@ -32,11 +32,17 @@
     "name:eng_x_preferred":[
         "Ohaeawai"
     ],
+    "name:eng_x_variant":[
+        "\u014chaeawai"
+    ],
     "name:fra_x_preferred":[
         "Ohaeawai"
     ],
     "name:mri_x_preferred":[
         "Ohaeawai"
+    ],
+    "name:mri_x_variant":[
+        "\u014chaeawai"
     ],
     "name:msa_x_preferred":[
         "Ohaeawai"
@@ -45,6 +51,9 @@
         "Ohaeawai"
     ],
     "name:nno_x_preferred":[
+        "Ohaeawai"
+    ],
+    "name:pol_x_preferred":[
         "Ohaeawai"
     ],
     "nz-linz:id":4015,
@@ -83,8 +92,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +127,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137313,
+    "wof:lastmodified":1603230526,
     "wof:name":"Ohaeawai",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

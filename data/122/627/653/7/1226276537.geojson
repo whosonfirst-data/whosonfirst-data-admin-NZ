@@ -31,12 +31,15 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:mri_x_preferred":[
+        "Waikokopu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687189,
-        102079327
+        102079327,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149568,
+    "wof:lastmodified":1603230783,
     "wof:name":"Waikokopu",
     "wof:parent_id":102079327,
     "wof:placetype":"locality",

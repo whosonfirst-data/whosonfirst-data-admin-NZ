@@ -21,6 +21,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Opotiki"
+    ],
+    "name:ceb_x_preferred":[
+        "Opotiki"
+    ],
     "name:cym_x_preferred":[
         "Opotiki"
     ],
@@ -30,6 +36,9 @@
     "name:eng_x_preferred":[
         "Opotiki"
     ],
+    "name:eng_x_variant":[
+        "\u014cp\u014dtiki"
+    ],
     "name:fra_x_preferred":[
         "District d'Opotiki"
     ],
@@ -38,6 +47,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30dd\u30c6\u30a3\u30ad"
+    ],
+    "name:mri_x_preferred":[
+        "\u014cp\u014dtiki"
     ],
     "name:msa_x_preferred":[
         "Opotiki"
@@ -56,6 +68,12 @@
     ],
     "name:spa_x_preferred":[
         "Opotiki"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5965\u6ce2\u8482\u57fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u6ce2\u8482\u57fa"
     ],
     "nz-linz:id":1120,
     "nz-linz:name":"Opotiki",
@@ -77,11 +95,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238523,
         85633345,
-        102079321
+        102079321,
+        1729238523,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +137,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140132,
+    "wof:lastmodified":1603230340,
     "wof:name":"Opotiki",
     "wof:parent_id":1729238523,
     "wof:placetype":"locality",

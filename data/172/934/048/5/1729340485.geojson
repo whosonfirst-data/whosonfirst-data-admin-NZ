@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Waimarino"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u043c\u0430\u0440\u0438\u043d\u043e"
+    ],
     "nz-linz:name":"Waimarino",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +32,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687251,
-        102079297
+        102079297,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +60,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145312,
+    "wof:lastmodified":1603229579,
     "wof:name":"Waimarino",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

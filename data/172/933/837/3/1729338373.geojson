@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Elsdon"
     ],
+    "name:nds_x_preferred":[
+        "Elsdon"
+    ],
     "name:swe_x_preferred":[
         "Elsdon"
     ],
@@ -60,11 +63,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238563,
         85633345,
-        102079317
+        102079317,
+        1729238563,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +96,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143603,
+    "wof:lastmodified":1603230114,
     "wof:name":"Elsdon",
     "wof:parent_id":1729238563,
     "wof:placetype":"locality",

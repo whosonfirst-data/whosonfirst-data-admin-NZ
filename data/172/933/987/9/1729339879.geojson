@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Te Arai"
     ],
+    "name:mri_x_preferred":[
+        "Te Arai"
+    ],
+    "name:msa_x_preferred":[
+        "Te Arai"
+    ],
     "nz-linz:name":"Te Arai",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +35,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687243,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +63,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144880,
+    "wof:lastmodified":1603230145,
     "wof:name":"Te Arai",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

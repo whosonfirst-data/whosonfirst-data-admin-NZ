@@ -21,11 +21,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:deu_ch_x_preferred":[
+        "Albany"
+    ],
     "name:deu_x_preferred":[
         "Albany"
     ],
     "name:ell_x_preferred":[
         "\u038c\u03bb\u03bc\u03c0\u03b1\u03bd\u03b9"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Albany"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Albany"
     ],
     "name:eng_x_preferred":[
         "Albany"
@@ -38,6 +47,9 @@
     ],
     "name:mri_x_preferred":[
         "Albany Village"
+    ],
+    "name:mri_x_variant":[
+        "Okahukura"
     ],
     "name:msa_x_preferred":[
         "Albany"
@@ -80,11 +92,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +129,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143995,
+    "wof:lastmodified":1603230083,
     "wof:name":"Albany",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

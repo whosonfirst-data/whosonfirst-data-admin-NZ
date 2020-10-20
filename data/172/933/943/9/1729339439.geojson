@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "McNab"
     ],
+    "name:slv_x_preferred":[
+        "Macnab"
+    ],
     "nz-linz:name":"McNab",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +32,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687211,
-        102079393
+        102079393,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +60,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144476,
+    "wof:lastmodified":1603230169,
     "wof:name":"McNab",
     "wof:parent_id":102079393,
     "wof:placetype":"locality",

@@ -22,6 +22,15 @@
     "name:eng_x_preferred":[
         "Purua"
     ],
+    "name:mri_x_preferred":[
+        "Purua"
+    ],
+    "name:msa_x_preferred":[
+        "Purua"
+    ],
+    "name:spa_x_preferred":[
+        "Purua"
+    ],
     "nz-linz:name":"Purua",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +38,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079257
+        102079257,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +66,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144565,
+    "wof:lastmodified":1603229902,
     "wof:name":"Purua",
     "wof:parent_id":102079257,
     "wof:placetype":"locality",

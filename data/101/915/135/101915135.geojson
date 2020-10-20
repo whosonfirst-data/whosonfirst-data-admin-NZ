@@ -26,6 +26,12 @@
     "name:arg_x_preferred":[
         "Matamata"
     ],
+    "name:bar_x_preferred":[
+        "Matamata"
+    ],
+    "name:cat_x_preferred":[
+        "Matamata"
+    ],
     "name:ceb_x_preferred":[
         "Matamata"
     ],
@@ -36,6 +42,9 @@
         "Matamata"
     ],
     "name:est_x_preferred":[
+        "Matamata"
+    ],
+    "name:eus_x_preferred":[
         "Matamata"
     ],
     "name:fra_x_preferred":[
@@ -55,6 +64,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0442\u0430\u043c\u0430\u0442\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Matamata"
     ],
     "name:msa_x_preferred":[
         "Matamata"
@@ -107,8 +119,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079267
+        102079267,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,7 +155,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136374,
+    "wof:lastmodified":1603230238,
     "wof:name":"Matamata",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",

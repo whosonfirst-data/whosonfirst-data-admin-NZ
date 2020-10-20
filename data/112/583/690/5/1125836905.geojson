@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0420\u0430\u0451\u043d \u0412\u0430\u0439\u0442\u0430\u043d\u0433\u0456"
     ],
+    "name:cat_x_preferred":[
+        "Waitangi"
+    ],
     "name:ceb_x_preferred":[
         "Waitangi"
     ],
@@ -71,6 +74,12 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u0439\u0442\u0430\u043d\u0433\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Waitangi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0439\u0442\u0430\u043d\u0433\u0456"
+    ],
     "nz-linz:id":2813,
     "nz-linz:name":"Waitangi",
     "nz-linz:type":"LOCALITY",
@@ -107,8 +116,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,7 +151,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137412,
+    "wof:lastmodified":1603230711,
     "wof:name":"Waitangi",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

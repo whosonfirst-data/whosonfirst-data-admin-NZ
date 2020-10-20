@@ -25,6 +25,9 @@
     "name:eng_x_variant":[
         "Waiwhet\u016b"
     ],
+    "name:mri_x_preferred":[
+        "Waiwhet\u016b"
+    ],
     "nz-linz:name":"Waiwhetu",
     "nz-linz:type":"SUBURB",
     "qs:gn_adm0_cc":"NZ",
@@ -54,11 +57,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238533,
         85633345,
-        102079337
+        102079337,
+        1729238533,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +91,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143846,
+    "wof:lastmodified":1603230065,
     "wof:name":"Waiwhetu",
     "wof:parent_id":1729238533,
     "wof:placetype":"locality",

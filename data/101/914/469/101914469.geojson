@@ -22,7 +22,13 @@
     "name:eng_x_preferred":[
         "Turua"
     ],
+    "name:mri_x_preferred":[
+        "Turua"
+    ],
     "name:nld_x_preferred":[
+        "Turua"
+    ],
+    "name:pol_x_preferred":[
         "Turua"
     ],
     "name:spa_x_preferred":[
@@ -49,11 +55,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
-        85687229,
         102191583,
-        1729238613,
         85633345,
-        102079263
+        102079263,
+        1729238613,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +96,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140813,
+    "wof:lastmodified":1603230345,
     "wof:name":"Turua",
     "wof:parent_id":1729238613,
     "wof:placetype":"locality",

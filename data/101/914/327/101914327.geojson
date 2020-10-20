@@ -24,16 +24,37 @@
     "name:afr_x_preferred":[
         "Whakatane"
     ],
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0643\u062a\u0627\u0646\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Whakatane"
+    ],
     "name:ceb_x_preferred":[
         "Whakatane"
     ],
     "name:cym_x_preferred":[
         "Whakatane"
     ],
+    "name:deu_ch_x_preferred":[
+        "Whakatane"
+    ],
     "name:deu_x_preferred":[
         "Whakat\u0101ne"
     ],
+    "name:eng_ca_x_preferred":[
+        "Whakatane"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Whakatane"
+    ],
     "name:eng_x_preferred":[
+        "Whakatane"
+    ],
+    "name:eng_x_variant":[
+        "Whakat\u0101ne"
+    ],
+    "name:epo_x_preferred":[
         "Whakatane"
     ],
     "name:fas_x_preferred":[
@@ -59,6 +80,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud654\uce74\ud0c0\ub124"
+    ],
+    "name:mri_x_preferred":[
+        "Whakat\u0101ne"
     ],
     "name:msa_x_preferred":[
         "Whakatane"
@@ -90,8 +114,14 @@
     "name:swe_x_preferred":[
         "Whakatane"
     ],
+    "name:szl_x_preferred":[
+        "Whakatane"
+    ],
     "name:tur_x_preferred":[
         "Whakatane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u043a\u0430\u0442\u0430\u043d\u0435"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u06a9\u0627\u062a\u0627\u0646\u06cc"
@@ -119,11 +149,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238615,
         85633345,
-        102079291
+        102079291,
+        1729238615,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,7 +191,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140816,
+    "wof:lastmodified":1603230353,
     "wof:name":"Whakatane",
     "wof:parent_id":1729238615,
     "wof:placetype":"locality",

@@ -22,16 +22,22 @@
     "name:eng_x_preferred":[
         "Hairini"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06cc\u0631\u06cc\u0646\u06cc"
+    ],
+    "name:mri_x_preferred":[
+        "Hairini"
+    ],
     "nz-linz:name":"Hairini",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238603,
         85633345,
-        102079285
+        102079285,
+        1729238603,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +65,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144027,
+    "wof:lastmodified":1603229922,
     "wof:name":"Hairini",
     "wof:parent_id":1729238603,
     "wof:placetype":"locality",

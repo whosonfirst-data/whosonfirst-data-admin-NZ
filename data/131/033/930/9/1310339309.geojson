@@ -52,8 +52,14 @@
     "name:nor_x_preferred":[
         "Cricklewood"
     ],
+    "name:spa_x_preferred":[
+        "Cricklewood"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u06a9\u0644\u0648\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0631\u06a9\u0644\u0648\u0688\u060c \u0644\u0646\u062f\u0646"
     ],
     "name:vie_x_preferred":[
         "Cricklewood"
@@ -65,8 +71,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079373
+        102079373,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149985,
+    "wof:lastmodified":1603230221,
     "wof:name":"Cricklewood",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

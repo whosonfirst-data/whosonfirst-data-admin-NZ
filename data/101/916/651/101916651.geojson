@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Waiau"
+    ],
     "name:ceb_x_preferred":[
         "Waiau"
     ],
@@ -28,10 +31,16 @@
     "name:eng_x_preferred":[
         "Waiau"
     ],
+    "name:fra_x_preferred":[
+        "Waiau"
+    ],
     "name:jpn_x_preferred":[
         "\u30ef\u30a4\u30a2\u30a6"
     ],
     "name:nld_x_preferred":[
+        "Waiau"
+    ],
+    "name:pol_x_preferred":[
         "Waiau"
     ],
     "nz-linz:id":1770,
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079365
+        102079365,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +103,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136818,
+    "wof:lastmodified":1603230372,
     "wof:name":"Waiau",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

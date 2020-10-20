@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0645\u064a\u0631\u0633\u062a\u0648\u0646 \u0646\u0648\u0631\u062b"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0435\u0440\u0441\u0442\u0430\u043d-\u041d\u043e\u0440\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2\u09ae\u09c7\u09b0\u09b8\u09cd\u099f\u09cb\u09a8 \u09a8\u09b0\u09cd\u09a5"
     ],
@@ -34,6 +37,9 @@
         "Palmerston North"
     ],
     "name:ceb_x_preferred":[
+        "Palmerston North"
+    ],
+    "name:ces_x_preferred":[
         "Palmerston North"
     ],
     "name:cym_x_preferred":[
@@ -128,6 +134,9 @@
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043b\u043c\u0435\u0440\u0441\u0442\u043e\u043d \u041d\u043e\u0440\u0442"
     ],
+    "name:mlg_x_preferred":[
+        "Palmerston North"
+    ],
     "name:mri_x_preferred":[
         "Te Papa-i-oea"
     ],
@@ -158,6 +167,12 @@
     "name:spa_x_preferred":[
         "Palmerston Norte"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0435\u0440\u0441\u0442\u043e\u043d \u041d\u043e\u0440\u0442"
+    ],
+    "name:srp_el_x_preferred":[
+        "Palmerston Nort"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043b\u043c\u0435\u0440\u0441\u0442\u043e\u043d \u041d\u043e\u0440\u0442"
     ],
@@ -165,6 +180,9 @@
         "Palmerston North"
     ],
     "name:swe_x_preferred":[
+        "Palmerston North"
+    ],
+    "name:szl_x_preferred":[
         "Palmerston North"
     ],
     "name:tam_x_preferred":[
@@ -197,6 +215,18 @@
     "name:yue_x_preferred":[
         "\u5317\u5e15\u9ea5\u65af\u9813"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5317\u5e15\u83ab\u65af\u987f"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5317\u5e15\u83ab\u65af\u9813"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5317\u5e15\u83ab\u65af\u987f"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5317\u5e15\u83ab\u65af\u9813"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u5e15\u83ab\u65af\u987f"
     ],
@@ -223,11 +253,11 @@
     "wd:longitude":175.609511,
     "wd:wordcount":6180,
     "wof:belongsto":[
-        85687251,
         102191583,
-        1729238575,
         85633345,
-        102079307
+        102079307,
+        1729238575,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -265,7 +295,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140506,
+    "wof:lastmodified":1603230311,
     "wof:name":"Palmerston North",
     "wof:parent_id":1729238575,
     "wof:placetype":"locality",

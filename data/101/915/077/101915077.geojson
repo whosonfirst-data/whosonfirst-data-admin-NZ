@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u0634\u064a\u0633\u0648\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Murchison"
+    ],
     "name:ceb_x_preferred":[
         "Murchison"
     ],
@@ -70,8 +76,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687219,
-        102079349
+        102079349,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136342,
+    "wof:lastmodified":1603230245,
     "wof:name":"Murchison",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

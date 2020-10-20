@@ -50,7 +50,19 @@
     "name:dan_x_preferred":[
         "Waikanae"
     ],
+    "name:deu_at_x_preferred":[
+        "Waikanae"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Waikanae"
+    ],
     "name:deu_x_preferred":[
+        "Waikanae"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Waikanae"
+    ],
+    "name:eng_gb_x_preferred":[
         "Waikanae"
     ],
     "name:eng_x_preferred":[
@@ -87,6 +99,9 @@
         "Waikanae"
     ],
     "name:gsw_x_preferred":[
+        "Waikanae"
+    ],
+    "name:haw_x_preferred":[
         "Waikanae"
     ],
     "name:hrv_x_preferred":[
@@ -164,6 +179,9 @@
     "name:pol_x_preferred":[
         "Waikanae"
     ],
+    "name:por_br_x_preferred":[
+        "Waikanae"
+    ],
     "name:por_x_preferred":[
         "Waikanae"
     ],
@@ -191,6 +209,9 @@
     "name:srd_x_preferred":[
         "Waikanae"
     ],
+    "name:srp_el_x_preferred":[
+        "Waikanae"
+    ],
     "name:swa_x_preferred":[
         "Waikanae"
     ],
@@ -215,6 +236,9 @@
     "name:wol_x_preferred":[
         "Waikanae"
     ],
+    "name:zho_x_preferred":[
+        "\u6000\u5361\u5948"
+    ],
     "name:zul_x_preferred":[
         "Waikanae"
     ],
@@ -238,11 +262,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1100,
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238461,
         85633345,
-        102079315
+        102079315,
+        1729238461,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -281,7 +305,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139788,
+    "wof:lastmodified":1603230346,
     "wof:name":"Waikanae",
     "wof:parent_id":1729238461,
     "wof:placetype":"locality",

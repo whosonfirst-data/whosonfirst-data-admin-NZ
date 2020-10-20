@@ -28,10 +28,16 @@
     "name:eng_x_preferred":[
         "Shannon"
     ],
+    "name:fra_x_preferred":[
+        "Shannon"
+    ],
     "name:msa_x_preferred":[
         "Shannon"
     ],
     "name:nld_x_preferred":[
+        "Shannon"
+    ],
+    "name:pol_x_preferred":[
         "Shannon"
     ],
     "name:urd_x_preferred":[
@@ -62,8 +68,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687251,
-        102079313
+        102079313,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +102,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136575,
+    "wof:lastmodified":1603230247,
     "wof:name":"Shannon",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

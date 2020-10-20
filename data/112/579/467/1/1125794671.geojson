@@ -26,8 +26,14 @@
     "name:eng_x_preferred":[
         "Saint Bathans"
     ],
+    "name:eng_x_variant":[
+        "St Bathans"
+    ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30fb\u30d0\u30b5\u30f3\u30ba"
+    ],
+    "name:mri_x_preferred":[
+        "Saint Bathans"
     ],
     "name:msa_x_preferred":[
         "Saint Bathans"
@@ -64,8 +70,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079383
+        102079383,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603148963,
+    "wof:lastmodified":1603230678,
     "wof:name":"St Bathans",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

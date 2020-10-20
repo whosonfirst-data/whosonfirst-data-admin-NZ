@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0628\u0648\u0646\u0627\u0643\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Opunake"
+    ],
     "name:ceb_x_preferred":[
         "Opunake"
     ],
@@ -32,6 +38,9 @@
     "name:eng_x_preferred":[
         "Opunake"
     ],
+    "name:eng_x_variant":[
+        "\u014cpunake"
+    ],
     "name:fra_x_preferred":[
         "Opunake"
     ],
@@ -40,6 +49,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30d7\u30ca\u30b1"
+    ],
+    "name:mri_x_preferred":[
+        "\u014cpunake"
     ],
     "name:msa_x_preferred":[
         "Opunake"
@@ -51,6 +63,15 @@
         "Opunake"
     ],
     "name:pol_x_preferred":[
+        "Opunake"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043f\u0443\u043d\u0435\u0439\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Opunake"
+    ],
+    "name:szl_x_preferred":[
         "Opunake"
     ],
     "nz-linz:id":2948,
@@ -77,8 +98,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687195,
-        102079295
+        102079295,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136400,
+    "wof:lastmodified":1603230266,
     "wof:name":"Opunake",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

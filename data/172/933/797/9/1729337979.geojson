@@ -119,6 +119,12 @@
     "name:dan_x_preferred":[
         "Yelverton"
     ],
+    "name:deu_at_x_preferred":[
+        "Yelverton"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Yelverton"
+    ],
     "name:deu_x_preferred":[
         "Yelverton"
     ],
@@ -135,6 +141,12 @@
         "Yelverton"
     ],
     "name:eml_x_preferred":[
+        "Yelverton"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Yelverton"
+    ],
+    "name:eng_gb_x_preferred":[
         "Yelverton"
     ],
     "name:eng_x_preferred":[
@@ -294,6 +306,9 @@
         "Yelverton"
     ],
     "name:kau_x_preferred":[
+        "Yelverton"
+    ],
+    "name:kaz_tr_x_preferred":[
         "Yelverton"
     ],
     "name:kbp_x_preferred":[
@@ -476,6 +491,9 @@
     "name:pol_x_preferred":[
         "Yelverton"
     ],
+    "name:por_br_x_preferred":[
+        "Yelverton"
+    ],
     "name:por_x_preferred":[
         "Yelverton"
     ],
@@ -567,6 +585,9 @@
         "Yelverton"
     ],
     "name:srn_x_preferred":[
+        "Yelverton"
+    ],
+    "name:srp_el_x_preferred":[
         "Yelverton"
     ],
     "name:srq_x_preferred":[
@@ -687,11 +708,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687185,
         102191583,
-        1729238455,
         85633345,
-        102079353
+        102079353,
+        1729238455,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -722,7 +743,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143256,
+    "wof:lastmodified":1603229871,
     "wof:name":"Yelverton",
     "wof:parent_id":1729238455,
     "wof:placetype":"locality",

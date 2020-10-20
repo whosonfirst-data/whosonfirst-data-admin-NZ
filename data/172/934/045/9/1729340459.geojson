@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Marybank"
     ],
+    "name:eus_x_preferred":[
+        "Marybank"
+    ],
+    "name:swe_x_preferred":[
+        "Marybank"
+    ],
     "nz-linz:name":"Marybank",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -29,8 +35,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687251,
-        102079299
+        102079299,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +63,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145287,
+    "wof:lastmodified":1603229742,
     "wof:name":"Marybank",
     "wof:parent_id":102079299,
     "wof:placetype":"locality",

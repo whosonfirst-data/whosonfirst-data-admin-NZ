@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "Ponsonby"
     ],
+    "name:ita_x_preferred":[
+        "Ponsonby"
+    ],
     "name:jpn_x_preferred":[
         "\u30dd\u30f3\u30bd\u30f3\u30d3\u30fc"
     ],
@@ -66,11 +69,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +104,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603144202,
+    "wof:lastmodified":1603229878,
     "wof:name":"Ponsonby",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

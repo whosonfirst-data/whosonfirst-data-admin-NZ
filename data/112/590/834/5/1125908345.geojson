@@ -42,6 +42,12 @@
     "name:ita_x_preferred":[
         "Portage"
     ],
+    "name:jpn_x_preferred":[
+        "\u9023\u6c34\u9678\u8def"
+    ],
+    "name:lat_x_preferred":[
+        "Tractus navium"
+    ],
     "name:nor_x_preferred":[
         "B\u00e5tdrag"
     ],
@@ -95,8 +101,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687185,
-        102079353
+        102079353,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +134,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137671,
+    "wof:lastmodified":1603230577,
     "wof:name":"Portage",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

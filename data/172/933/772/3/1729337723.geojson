@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "Blockhouse Bay"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ed\u30c3\u30af\u30cf\u30a6\u30b9\u30fb\u30d9\u30a4"
+    ],
     "nz-linz:name":"Blockhouse Bay",
     "nz-linz:type":"SUBURB",
     "qs:gn_adm0_cc":"NZ",
@@ -57,11 +60,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238453,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143069,
+    "wof:lastmodified":1603230143,
     "wof:name":"Blockhouse Bay",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

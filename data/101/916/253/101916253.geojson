@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Rolleston"
+    ],
     "name:ceb_x_preferred":[
         "Rolleston"
     ],
@@ -27,6 +30,9 @@
         "Rolleston"
     ],
     "name:eng_x_preferred":[
+        "Rolleston"
+    ],
+    "name:fra_x_preferred":[
         "Rolleston"
     ],
     "name:jpn_x_preferred":[
@@ -68,8 +74,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079369
+        102079369,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +111,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136709,
+    "wof:lastmodified":1603230394,
     "wof:name":"Rolleston",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Kumeu"
     ],
+    "name:eng_x_variant":[
+        "Kume\u016b"
+    ],
     "name:fra_x_preferred":[
         "Kumeu"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:lmo_x_preferred":[
         "Kumeu"
+    ],
+    "name:mri_x_preferred":[
+        "Kume\u016b"
     ],
     "name:msa_x_preferred":[
         "Kumeu"
@@ -68,11 +74,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":752,
     "wof:belongsto":[
-        85687243,
         102191583,
-        1729238443,
         85633345,
-        102079403
+        102079403,
+        1729238443,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +117,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139644,
+    "wof:lastmodified":1603230408,
     "wof:name":"Kumeu",
     "wof:parent_id":1729238443,
     "wof:placetype":"locality",

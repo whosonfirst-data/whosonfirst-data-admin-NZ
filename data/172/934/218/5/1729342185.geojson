@@ -19,11 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Double Island"
+    ],
+    "name:deu_x_preferred":[
+        "Double Island"
+    ],
     "name:eng_x_preferred":[
         "Double Island"
     ],
     "name:mri_x_preferred":[
         "Motuwi Island"
+    ],
+    "name:swe_x_preferred":[
+        "Double Island"
     ],
     "nz-linz:name":"Motuwi Island (Double Island)",
     "nz-linz:type":"ISLAND",
@@ -32,8 +41,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079261
+        102079261,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +69,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603146440,
+    "wof:lastmodified":1603229570,
     "wof:name":"Double Island",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

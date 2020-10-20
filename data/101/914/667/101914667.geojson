@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Lyttelton"
+    ],
     "name:ceb_x_preferred":[
         "Lyttelton"
     ],
@@ -62,6 +65,9 @@
     "name:kor_x_preferred":[
         "\ub9ac\ud2c0\ud134"
     ],
+    "name:mri_x_preferred":[
+        "\u014chinehou"
+    ],
     "name:msa_x_preferred":[
         "Lyttelton"
     ],
@@ -82,6 +88,9 @@
     ],
     "name:swe_x_preferred":[
         "Lyttelton"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5229\u7279\u723e\u9813"
     ],
     "name:zho_x_preferred":[
         "\u5229\u7279\u723e\u9813"
@@ -109,11 +118,11 @@
     "wd:longitude":172.716667,
     "wd:wordcount":2073,
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238459,
         85633345,
-        102079401
+        102079401,
+        1729238459,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,7 +162,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139784,
+    "wof:lastmodified":1603230313,
     "wof:name":"Lyttlelton",
     "wof:parent_id":1729238459,
     "wof:placetype":"locality",

@@ -19,8 +19,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:arg_x_preferred":[
+        "Muriwai"
+    ],
+    "name:ceb_x_preferred":[
+        "Muriwai Beach"
+    ],
+    "name:deu_x_preferred":[
+        "Muriwai Beach"
+    ],
     "name:eng_x_preferred":[
         "Muriwai"
+    ],
+    "name:epo_x_preferred":[
+        "Muriwai"
+    ],
+    "name:pol_x_preferred":[
+        "Muriwai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0438\u0432\u0430\u0439"
     ],
     "nz-linz:name":"Muriwai",
     "nz-linz:type":"LOCALITY",
@@ -29,8 +47,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687243,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +75,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603146921,
+    "wof:lastmodified":1603229830,
     "wof:name":"Muriwai",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

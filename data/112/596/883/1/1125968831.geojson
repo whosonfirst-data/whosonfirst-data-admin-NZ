@@ -26,11 +26,17 @@
     "name:ceb_x_preferred":[
         "Burkes Pass"
     ],
+    "name:deu_x_preferred":[
+        "Burkes Pass"
+    ],
     "name:eng_x_preferred":[
         "Burkes Pass"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30af\u30b9\u5ce0"
+    ],
+    "name:mri_x_preferred":[
+        "Burkes Pass"
     ],
     "nz-linz:id":4011,
     "nz-linz:name":"Burkes Pass",
@@ -67,8 +73,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079375
+        102079375,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +107,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137942,
+    "wof:lastmodified":1603230602,
     "wof:name":"Burkes Pass",
     "wof:parent_id":102079375,
     "wof:placetype":"locality",

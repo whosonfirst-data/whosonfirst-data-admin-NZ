@@ -63,6 +63,9 @@
     "name:heb_x_preferred":[
         "\u05e9\u05d3\u05e8\u05ea \u05e4\u05d0\u05e8\u05e7"
     ],
+    "name:heb_x_variant":[
+        "\u05d4\u05e9\u05d3\u05e8\u05d4 \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea"
+    ],
     "name:hun_x_preferred":[
         "Park Avenue"
     ],
@@ -111,6 +114,9 @@
     "name:zho_x_preferred":[
         "\u516c\u56ed\u5927\u9053"
     ],
+    "name:zho_x_variant":[
+        "\u516c\u5712\u5927\u9053"
+    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
     "qs:gn_local":2188164,
@@ -142,10 +148,10 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191583,
-        1729238533,
         85633345,
-        1729338297,
         102079337,
+        1729238533,
+        1729338297,
         85687233
     ],
     "wof:breaches":[],
@@ -179,7 +185,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603210236,
+    "wof:lastmodified":1603229324,
     "wof:name":"Park Avenue",
     "wof:parent_id":1729338297,
     "wof:placetype":"neighbourhood",

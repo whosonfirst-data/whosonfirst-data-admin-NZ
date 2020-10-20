@@ -23,11 +23,20 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Atiamuri"
+    ],
     "name:deu_x_preferred":[
         "Lake Atiamuri"
     ],
     "name:eng_x_preferred":[
         "Atiamuri"
+    ],
+    "name:eng_x_variant":[
+        "\u0100tiamuri"
+    ],
+    "name:mri_x_preferred":[
+        "\u0100tiamuri"
     ],
     "name:nld_x_preferred":[
         "Atiamuri"
@@ -70,8 +79,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687229,
-        102079277
+        102079277,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +114,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137205,
+    "wof:lastmodified":1603230674,
     "wof:name":"Atiamuri",
     "wof:parent_id":102079277,
     "wof:placetype":"locality",

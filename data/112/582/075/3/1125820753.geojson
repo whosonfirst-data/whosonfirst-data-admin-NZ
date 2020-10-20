@@ -21,6 +21,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Kapiro"
+    ],
+    "name:mri_x_preferred":[
+        "Kapiro"
+    ],
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kapiro",
@@ -47,8 +53,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +82,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603148982,
+    "wof:lastmodified":1603230655,
     "wof:name":"Kapiro",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

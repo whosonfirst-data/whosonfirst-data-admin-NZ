@@ -19,8 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Maud Island"
+    ],
+    "name:deu_x_preferred":[
+        "Maud Island"
+    ],
     "name:eng_x_preferred":[
         "Maud Island"
+    ],
+    "name:fin_x_preferred":[
+        "Maud"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Maud"
     ],
     "name:mri_x_preferred":[
         "Te Hoiere"
@@ -32,8 +44,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687185,
-        102079353
+        102079353,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +72,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603145019,
+    "wof:lastmodified":1603229625,
     "wof:name":"Maud Island",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

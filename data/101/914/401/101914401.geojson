@@ -19,10 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Temuka"
+    ],
     "name:deu_x_preferred":[
         "Temuka"
     ],
     "name:eng_x_preferred":[
+        "Temuka"
+    ],
+    "name:fin_x_preferred":[
         "Temuka"
     ],
     "name:fra_x_preferred":[
@@ -55,6 +61,9 @@
     "name:spa_x_preferred":[
         "Temuka"
     ],
+    "name:swe_x_preferred":[
+        "Temuka"
+    ],
     "name:zho_x_preferred":[
         "\u7279\u59c6\u5361"
     ],
@@ -80,8 +89,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079373
+        102079373,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +124,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603135956,
+    "wof:lastmodified":1603230309,
     "wof:name":"Temuka",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

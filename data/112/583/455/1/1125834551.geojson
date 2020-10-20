@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Tikitere"
     ],
+    "name:mri_x_preferred":[
+        "Tikitere"
+    ],
     "nz-linz:id":2444,
     "nz-linz:name":"Tikitere",
     "nz-linz:type":"SUBURB",
@@ -59,11 +62,11 @@
     "woe:name_adm1":"Bay of Plenty",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238557,
         85633345,
-        102079289
+        102079289,
+        1729238557,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +100,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140426,
+    "wof:lastmodified":1603230708,
     "wof:name":"Tikitere",
     "wof:parent_id":1729238557,
     "wof:placetype":"locality",

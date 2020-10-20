@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Eastbourne"
     ],
+    "name:fra_x_preferred":[
+        "Eastbourne"
+    ],
     "name:mri_x_preferred":[
         "\u014ckiwi"
     ],
@@ -61,11 +64,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":915,
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238533,
         85633345,
-        102079337
+        102079337,
+        1729238533,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +105,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603135938,
+    "wof:lastmodified":1603230355,
     "wof:name":"Eastbourne",
     "wof:parent_id":1729238533,
     "wof:placetype":"locality",

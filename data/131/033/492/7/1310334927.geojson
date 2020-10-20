@@ -50,6 +50,9 @@
     "name:fra_x_preferred":[
         "Abbotsford"
     ],
+    "name:ita_x_preferred":[
+        "Abbotsford"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30dc\u30c3\u30c4\u30d5\u30a9\u30fc\u30c9"
     ],
@@ -88,11 +91,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687201,
         102191583,
-        1729238495,
         85633345,
-        102079387
+        102079387,
+        1729238495,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +128,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139218,
+    "wof:lastmodified":1603230223,
     "wof:name":"Abbotsford",
     "wof:parent_id":1729238495,
     "wof:placetype":"locality",

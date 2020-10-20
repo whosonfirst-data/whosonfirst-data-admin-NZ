@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Hillcrest"
     ],
+    "name:fra_x_preferred":[
+        "Hillcrest"
+    ],
     "name:ita_x_preferred":[
         "Hillcrest"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0438\u043b\u043a\u0440\u0435\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Hillcrest"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043b\u043b\u043a\u0440\u0435\u0441\u0442"
@@ -85,11 +91,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238557,
         85633345,
-        102079289
+        102079289,
+        1729238557,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +125,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143283,
+    "wof:lastmodified":1603230121,
     "wof:name":"Hillcrest",
     "wof:parent_id":1729238557,
     "wof:placetype":"locality",

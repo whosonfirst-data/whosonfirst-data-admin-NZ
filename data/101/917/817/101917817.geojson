@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Portland"
+    ],
     "name:eng_x_preferred":[
         "Portland"
     ],
@@ -57,11 +60,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":958,
     "wof:belongsto":[
-        85687149,
         102191583,
-        1729238617,
         85633345,
-        102079257
+        102079257,
+        1729238617,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140859,
+    "wof:lastmodified":1603230410,
     "wof:name":"Portland",
     "wof:parent_id":1729238617,
     "wof:placetype":"locality",

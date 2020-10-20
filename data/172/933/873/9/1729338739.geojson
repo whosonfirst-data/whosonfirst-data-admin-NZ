@@ -22,16 +22,19 @@
     "name:eng_x_preferred":[
         "Pencarrow Head"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u06a9\u06cc\u0631\u0648 \u06c1\u06cc\u0688"
+    ],
     "nz-linz:name":"Pencarrow Head",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238533,
         85633345,
-        102079337
+        102079337,
+        1729238533,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143871,
+    "wof:lastmodified":1603229923,
     "wof:name":"Pencarrow Head",
     "wof:parent_id":1729238533,
     "wof:placetype":"locality",

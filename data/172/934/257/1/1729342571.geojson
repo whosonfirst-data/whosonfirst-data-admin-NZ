@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Stephenson Island"
+    ],
     "name:eng_x_preferred":[
         "Stephenson Island"
     ],
     "name:mri_x_preferred":[
         "Mahinepua Island"
+    ],
+    "name:swe_x_preferred":[
+        "Stephenson Island"
     ],
     "nz-linz:name":"Stephenson Island (Mahinepua Island)",
     "nz-linz:type":"ISLAND",
@@ -32,8 +38,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687149,
-        102079255
+        102079255,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603146673,
+    "wof:lastmodified":1603229612,
     "wof:name":"Stephenson Island",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

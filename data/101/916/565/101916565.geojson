@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Mourea"
     ],
+    "name:mri_x_preferred":[
+        "Mourea"
+    ],
+    "name:pol_x_preferred":[
+        "Mourea"
+    ],
     "nz-linz:id":4025,
     "nz-linz:name":"Mourea",
     "nz-linz:type":"SUBURB",
@@ -41,11 +47,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687175,
         102191583,
-        1729238557,
         85633345,
-        102079289
+        102079289,
+        1729238557,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +84,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140429,
+    "wof:lastmodified":1603230385,
     "wof:name":"Mourea",
     "wof:parent_id":1729238557,
     "wof:placetype":"locality",

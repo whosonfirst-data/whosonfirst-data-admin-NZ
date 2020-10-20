@@ -35,6 +35,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d9\u05d9\u05d8\u05d5\u05d5\u05d8\u05e8"
     ],
+    "name:ita_x_preferred":[
+        "Brightwater"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30a4\u30c8\u30a6\u30a9\u30fc\u30bf\u30fc"
     ],
@@ -59,8 +62,17 @@
     "name:sco_x_preferred":[
         "Brightwater"
     ],
+    "name:spa_x_preferred":[
+        "Brightwater"
+    ],
     "name:swe_x_preferred":[
         "Brightwater"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e03\u8d56\u7279\u6c83\u7279"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8d56\u7279\u6c83\u7279"
     ],
     "nz-linz:id":155,
     "nz-linz:name":"Brightwater",
@@ -84,8 +96,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687219,
-        102079349
+        102079349,
+        85687219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +131,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136414,
+    "wof:lastmodified":1603230245,
     "wof:name":"Brightwater",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

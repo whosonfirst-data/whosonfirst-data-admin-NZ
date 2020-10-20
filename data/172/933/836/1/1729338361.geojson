@@ -22,16 +22,19 @@
     "name:eng_x_preferred":[
         "Corstorphine"
     ],
+    "name:eus_x_preferred":[
+        "Corstorphine"
+    ],
     "nz-linz:name":"Corstorphine",
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687201,
         102191583,
-        1729238495,
         85633345,
-        102079387
+        102079387,
+        1729238495,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143596,
+    "wof:lastmodified":1603230104,
     "wof:name":"Corstorphine",
     "wof:parent_id":1729238495,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Bluff"
+    ],
     "name:ceb_x_preferred":[
         "Bluff"
     ],
@@ -88,11 +91,11 @@
     "src:population":"geonames",
     "wd:wordcount":923,
     "wof:belongsto":[
-        85687211,
         102191583,
-        1729238497,
         85633345,
-        102079397
+        102079397,
+        1729238497,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139936,
+    "wof:lastmodified":1603230253,
     "wof:name":"Bluff",
     "wof:parent_id":1729238497,
     "wof:placetype":"locality",

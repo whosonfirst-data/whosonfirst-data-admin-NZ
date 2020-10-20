@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u062a \u0627\u0644\u0639\u0644\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u062a \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09aa\u09be\u09b0 \u09b9\u09be\u099f"
+    ],
+    "name:cat_x_preferred":[
+        "Upper Hutt"
     ],
     "name:ceb_x_preferred":[
         "Upper Hutt"
@@ -75,6 +81,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0caa\u0ccd\u0caa\u0cb0\u0ccd \u0cb9\u0c9f\u0ccd\u0c9f\u0ccd"
+    ],
+    "name:kan_x_variant":[
+        "\u0c85\u0caa\u0ccd\u0caa\u0cb0\u0ccd  \u0cb9\u0c9f\u0ccd\u0c9f\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10de\u10d4\u10e0-\u10f0\u10d0\u10e2\u10d8"
@@ -153,6 +162,9 @@
     ],
     "name:vol_x_preferred":[
         "Upper Hutt"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e0a\u54c8\u7279"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u4f2f\u4ea8\u7279"
@@ -292,11 +304,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238597,
         85633345,
-        102079335
+        102079335,
+        1729238597,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -335,7 +347,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140626,
+    "wof:lastmodified":1603230346,
     "wof:name":"Upper Hutt",
     "wof:parent_id":1729238597,
     "wof:placetype":"locality",

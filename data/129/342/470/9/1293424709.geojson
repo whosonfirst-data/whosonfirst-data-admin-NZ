@@ -42,6 +42,9 @@
     "name:eng_x_preferred":[
         "Fendalton"
     ],
+    "name:zho_x_preferred":[
+        "\u82ac\u8fbe\u5c14\u987f"
+    ],
     "nz-linz:id":375,
     "nz-linz:name":"Fendalton",
     "nz-linz:type":"SUBURB",
@@ -74,11 +77,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238507,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +116,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139051,
+    "wof:lastmodified":1603229429,
     "wof:name":"Fendalton",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

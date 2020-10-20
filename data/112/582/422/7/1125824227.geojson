@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Becks"
+    ],
     "name:eng_x_preferred":[
         "Becks"
     ],
@@ -64,8 +67,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079383
+        102079383,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +102,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137335,
+    "wof:lastmodified":1603230648,
     "wof:name":"Becks",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

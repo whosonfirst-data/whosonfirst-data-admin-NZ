@@ -35,10 +35,22 @@
     "name:eng_x_variant":[
         "Edendale Town District"
     ],
+    "name:fra_x_preferred":[
+        "Edendale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c7\u30f3\u30c7\u30fc\u30eb"
+    ],
+    "name:mri_x_preferred":[
+        "Maorirua"
+    ],
     "name:msa_x_preferred":[
         "Edendale"
     ],
     "name:nld_x_preferred":[
+        "Edendale"
+    ],
+    "name:pol_x_preferred":[
         "Edendale"
     ],
     "name:rus_x_preferred":[
@@ -68,8 +80,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687211,
-        102079391
+        102079391,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +117,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603136556,
+    "wof:lastmodified":1603230260,
     "wof:name":"Edendale",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

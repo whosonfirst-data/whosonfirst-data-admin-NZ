@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Annesbrook"
     ],
+    "name:fra_x_preferred":[
+        "Annesbrook"
+    ],
     "name:sco_x_preferred":[
         "Annesbrook"
     ],
@@ -56,11 +59,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687157,
         102191583,
-        1729238513,
         85633345,
-        102079351
+        102079351,
+        1729238513,
+        85687157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603143054,
+    "wof:lastmodified":1603230018,
     "wof:name":"Annesbrook",
     "wof:parent_id":1729238513,
     "wof:placetype":"locality",
