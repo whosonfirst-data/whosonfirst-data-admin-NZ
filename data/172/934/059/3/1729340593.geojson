@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":288
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622088,
     "wof:geomhash":"9f3161739036039229cc1eac0acfd574",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":1729340593,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729340593,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804234,
+    "wof:lastmodified":1603145401,
     "wof:name":"Desert Road",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079281,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

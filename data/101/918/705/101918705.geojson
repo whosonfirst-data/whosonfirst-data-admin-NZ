@@ -52,10 +52,11 @@
     "src:population":"geonames",
     "wd:wordcount":596,
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238501,
         85633345,
-        102079301,
-        85687251
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,6 +72,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079301,
+            "localadmin_id":1729238501,
             "locality_id":101918705,
             "region_id":85687251
         }
@@ -84,9 +86,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803253,
+    "wof:lastmodified":1603148861,
     "wof:name":"Bulls",
-    "wof:parent_id":102079301,
+    "wof:parent_id":1729238501,
     "wof:placetype":"locality",
     "wof:population":1781,
     "wof:population_rank":3,

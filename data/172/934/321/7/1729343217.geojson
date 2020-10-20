@@ -27,7 +27,12 @@
     "nz-linz:type":"PARK_RESERVE",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079321
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2235
@@ -35,7 +40,15 @@
     "wof:country":"NZ",
     "wof:created":1602623213,
     "wof:geomhash":"7712b95196089c8ee8955ecc8e162f2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079321,
+            "locality_id":1729343217,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729343217,
     "wof:lang_x_official":[
         "eng",
@@ -45,9 +58,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804251,
+    "wof:lastmodified":1603140987,
     "wof:name":"Raukumara Forest Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079321,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "campus"

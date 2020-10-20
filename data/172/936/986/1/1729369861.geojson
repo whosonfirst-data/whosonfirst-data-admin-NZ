@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888786,
     "wof:geomhash":"e1cbf033e01037be374c553d19f52387",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369861,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729369861,
-    "wof:lastmodified":1602889689,
+    "wof:lastmodified":1603142913,
     "wof:name":"Man-o-war Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -70,10 +70,11 @@
     "src:population":"geonames",
     "wd:wordcount":727,
     "wof:belongsto":[
+        85687179,
         102191583,
+        1729238531,
         85633345,
-        102079369,
-        85687179
+        102079369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +91,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079369,
+            "localadmin_id":1729238531,
             "locality_id":101916249,
             "region_id":85687179
         }
@@ -103,9 +105,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803241,
+    "wof:lastmodified":1603147777,
     "wof:name":"Lincoln",
-    "wof:parent_id":102079369,
+    "wof:parent_id":1729238531,
     "wof:placetype":"locality",
     "wof:population":2235,
     "wof:population_rank":4,

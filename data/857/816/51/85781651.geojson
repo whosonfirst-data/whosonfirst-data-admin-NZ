@@ -64,11 +64,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687211,
         102191583,
+        1729238497,
         85633345,
-        102079397,
         101915603,
-        85687211
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +88,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079397,
+            "localadmin_id":1729238497,
             "locality_id":101915603,
             "neighbourhood_id":85781651,
             "region_id":85687211
@@ -101,7 +103,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802941,
+    "wof:lastmodified":1603200886,
     "wof:name":"East End",
     "wof:parent_id":101915603,
     "wof:placetype":"neighbourhood",

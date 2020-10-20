@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687251,
+        102079309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"57d94acc27c4dc826a020703e2550b86",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209345501
+            "county_id":102079309,
+            "locality_id":1209345501,
+            "region_id":85687251
         }
     ],
     "wof:id":1209345501,
@@ -55,9 +61,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802986,
+    "wof:lastmodified":1603149463,
     "wof:name":"Makotuku",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -364,10 +364,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191583,
-        85633345,
-        102079271,
-        85687229
+        1729238493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -381,11 +378,10 @@
     "wof:geomhash":"27e4988a6379e37c5866291ff8e6eda1",
     "wof:hierarchy":[
         {
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":102079271,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101914271,
-            "region_id":85687229
+            "region_id":-1
         }
     ],
     "wof:id":101914271,
@@ -397,9 +393,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803218,
+    "wof:lastmodified":1603135043,
     "wof:name":"Hamilton",
-    "wof:parent_id":102079271,
+    "wof:parent_id":1729238493,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

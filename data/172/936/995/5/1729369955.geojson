@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888823,
     "wof:geomhash":"d231ef95d702d8a2147c0d06c7984254",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369955,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729369955,
-    "wof:lastmodified":1602889661,
+    "wof:lastmodified":1603142958,
     "wof:name":"Fitzroy Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

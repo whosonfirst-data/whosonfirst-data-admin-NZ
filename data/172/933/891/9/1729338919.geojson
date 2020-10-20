@@ -29,7 +29,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687175,
+        102191583,
+        1729238557,
+        85633345,
+        102079289
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6241326,
@@ -40,7 +46,16 @@
     "wof:country":"NZ",
     "wof:created":1602621385,
     "wof:geomhash":"baac0de4cdad49f2af17aee2471919fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "localadmin_id":1729238557,
+            "locality_id":1729338919,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729338919,
     "wof:lang_x_official":[
         "eng",
@@ -50,9 +65,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804306,
+    "wof:lastmodified":1603144094,
     "wof:name":"Fenton Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238557,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

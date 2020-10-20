@@ -83,10 +83,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":881,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238449,
         85633345,
-        102079383,
-        85687201
+        102079383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,6 +112,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079383,
+            "localadmin_id":1729238449,
             "locality_id":101914247,
             "region_id":85687201
         }
@@ -124,9 +126,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805019,
+    "wof:lastmodified":1603139663,
     "wof:name":"Alexandra",
-    "wof:parent_id":102079383,
+    "wof:parent_id":1729238449,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

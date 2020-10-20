@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887664,
     "wof:geomhash":"694d6e29127096a7d08c04731a4192ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367067,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729367067,
-    "wof:lastmodified":1602889638,
+    "wof:lastmodified":1603141536,
     "wof:name":"Awana Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

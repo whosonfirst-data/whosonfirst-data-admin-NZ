@@ -53,7 +53,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        1729238453,
+        85633345,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2185477,
@@ -66,7 +72,16 @@
     "wof:country":"NZ",
     "wof:created":1602621353,
     "wof:geomhash":"66ad622daa4a4cad75527a60fcdc0308",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "localadmin_id":1729238453,
+            "locality_id":1729338843,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729338843,
     "wof:lang_x_official":[
         "eng",
@@ -76,9 +91,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804298,
+    "wof:lastmodified":1603143979,
     "wof:name":"Orakei",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238453,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

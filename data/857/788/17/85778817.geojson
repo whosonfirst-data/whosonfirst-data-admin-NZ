@@ -65,6 +65,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        101915581,
         102079285,
         85687175
     ],
@@ -83,7 +84,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079285,
-            "locality_id":-1,
+            "locality_id":101915581,
             "neighbourhood_id":85778817,
             "region_id":85687175
         }
@@ -97,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802951,
+    "wof:lastmodified":1603200671,
     "wof:name":"Mount Maunganui South",
-    "wof:parent_id":-1,
+    "wof:parent_id":101915581,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

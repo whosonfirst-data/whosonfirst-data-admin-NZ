@@ -266,10 +266,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238503,
         85633345,
-        102079273,
-        85687229
+        102079273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -292,6 +293,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079273,
+            "localadmin_id":1729238503,
             "locality_id":101914859,
             "region_id":85687229
         }
@@ -305,9 +307,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805016,
+    "wof:lastmodified":1603139963,
     "wof:name":"Cambridge",
-    "wof:parent_id":102079273,
+    "wof:parent_id":1729238503,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":15192,

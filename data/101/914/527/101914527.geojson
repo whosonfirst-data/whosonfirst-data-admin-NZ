@@ -44,10 +44,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":323,
     "wof:belongsto":[
+        85687195,
         102191583,
+        1729238475,
         85633345,
-        102079295,
-        85687195
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,6 +65,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079295,
+            "localadmin_id":1729238475,
             "locality_id":101914527,
             "region_id":85687195
         }
@@ -77,9 +79,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803211,
+    "wof:lastmodified":1603147137,
     "wof:name":"Normanby",
-    "wof:parent_id":102079295,
+    "wof:parent_id":1729238475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

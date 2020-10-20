@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8894
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602623136,
     "wof:geomhash":"82aac932e1026e07d8a9148212b222ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":1729343051,
+            "region_id":85687237
+        }
+    ],
     "wof:id":1729343051,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804220,
+    "wof:lastmodified":1603146957,
     "wof:name":"Hangaroa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079325,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

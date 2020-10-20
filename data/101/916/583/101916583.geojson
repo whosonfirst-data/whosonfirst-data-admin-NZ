@@ -64,10 +64,11 @@
     "src:population":"geonames",
     "wd:wordcount":590,
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238425,
         85633345,
-        102079277,
-        85687229
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +94,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079277,
+            "localadmin_id":1729238425,
             "locality_id":101916583,
             "region_id":85687229
         }
@@ -106,9 +108,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805023,
+    "wof:lastmodified":1603139558,
     "wof:name":"Tirau",
-    "wof:parent_id":102079277,
+    "wof:parent_id":1729238425,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":778,

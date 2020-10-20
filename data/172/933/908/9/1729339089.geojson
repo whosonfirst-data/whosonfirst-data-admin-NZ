@@ -70,7 +70,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687251,
+        102191583,
+        1729238581,
+        85633345,
+        102079299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6224554,
@@ -81,7 +87,16 @@
     "wof:country":"NZ",
     "wof:created":1602621461,
     "wof:geomhash":"adb4a930014cb19c9507d6fa0c1375c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "localadmin_id":1729238581,
+            "locality_id":1729339089,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729339089,
     "wof:lang_x_official":[
         "eng",
@@ -91,9 +106,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804260,
+    "wof:lastmodified":1603144208,
     "wof:name":"Springvale",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238581,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

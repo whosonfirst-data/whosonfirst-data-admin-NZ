@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888900,
     "wof:geomhash":"10c7fd00f4a38fff77a55464278b52f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729370153,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729370153,
-    "wof:lastmodified":1602889689,
+    "wof:lastmodified":1603143051,
     "wof:name":"Fannin Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,12 +25,25 @@
     "nz-linz:name":"Three Sisters",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623105,
     "wof:geomhash":"c6d71e961dd9b20a4236a9bc75ce94cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729342977,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729342977,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804237,
+    "wof:lastmodified":1603146905,
     "wof:name":"Three Sisters",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

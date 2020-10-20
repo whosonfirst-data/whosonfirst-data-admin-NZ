@@ -42,10 +42,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238575,
         85633345,
-        102079307,
-        85687251
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,6 +66,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079307,
+            "localadmin_id":1729238575,
             "locality_id":101914815,
             "region_id":85687251
         }
@@ -78,9 +80,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804365,
+    "wof:lastmodified":1603140506,
     "wof:name":"Linton",
-    "wof:parent_id":102079307,
+    "wof:parent_id":1729238575,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

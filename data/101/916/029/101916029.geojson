@@ -39,10 +39,11 @@
     "src:population":"geonames",
     "wd:wordcount":1699,
     "wof:belongsto":[
+        85687211,
         102191583,
+        1729238489,
         85633345,
-        102079393,
-        85687211
+        102079393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,6 +61,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079393,
+            "localadmin_id":1729238489,
             "locality_id":101916029,
             "region_id":85687211
         }
@@ -73,9 +75,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803241,
+    "wof:lastmodified":1603147719,
     "wof:name":"Gore",
-    "wof:parent_id":102079393,
+    "wof:parent_id":1729238489,
     "wof:placetype":"locality",
     "wof:population":12108,
     "wof:population_rank":6,

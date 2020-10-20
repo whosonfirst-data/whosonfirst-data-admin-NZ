@@ -107,10 +107,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687185,
         102191583,
+        1729238455,
         85633345,
-        102079353,
-        85687185
+        101915709,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +130,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079353,
-            "locality_id":-1,
+            "localadmin_id":1729238455,
+            "locality_id":101915709,
             "neighbourhood_id":85781165,
             "region_id":85687185
         }
@@ -142,9 +145,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802941,
+    "wof:lastmodified":1603200791,
     "wof:name":"Townsend",
-    "wof:parent_id":-1,
+    "wof:parent_id":101915709,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

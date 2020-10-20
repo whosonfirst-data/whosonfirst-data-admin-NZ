@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238583,
+        85633345,
+        102079339
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2568
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621337,
     "wof:geomhash":"48a561a285d787a4aa5f67a7ebbd00c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "localadmin_id":1729238583,
+            "locality_id":1729338803,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729338803,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804265,
+    "wof:lastmodified":1603143935,
     "wof:name":"Karaka Bays",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238583,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

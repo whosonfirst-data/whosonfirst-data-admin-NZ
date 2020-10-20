@@ -27,7 +27,12 @@
     "nz-linz:type":"PARK_RESERVE",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2351
@@ -35,7 +40,15 @@
     "wof:country":"NZ",
     "wof:created":1602623218,
     "wof:geomhash":"214b435e131066a2d604963c9d6bfe4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":1729343229,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729343229,
     "wof:lang_x_official":[
         "eng",
@@ -45,9 +58,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804213,
+    "wof:lastmodified":1603141007,
     "wof:name":"Lake Sumner National Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079365,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "campus"

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887538,
     "wof:geomhash":"4ec7570cfbd7150db732966b2c09cb98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366753,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729366753,
-    "wof:lastmodified":1602889643,
+    "wof:lastmodified":1603141378,
     "wof:name":"Kauri Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

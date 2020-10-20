@@ -44,7 +44,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687211,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +61,11 @@
     "wof:geomhash":"e2f3bedd99131ee10f5da57b094453f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209651343
+            "county_id":102079391,
+            "locality_id":1209651343,
+            "region_id":85687211
         }
     ],
     "wof:id":1209651343,
@@ -71,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804166,
+    "wof:lastmodified":1603138415,
     "wof:name":"South Hillend",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079391,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

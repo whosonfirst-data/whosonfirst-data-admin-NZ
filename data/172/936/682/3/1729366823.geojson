@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887566,
     "wof:geomhash":"c32f2fff7964af45ea4aa5a7d895d040",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366823,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729366823,
-    "wof:lastmodified":1602889667,
+    "wof:lastmodified":1603141413,
     "wof:name":"Ohauhunga Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

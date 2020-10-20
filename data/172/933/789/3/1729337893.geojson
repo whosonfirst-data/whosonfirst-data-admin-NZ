@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687165,
+        102191583,
+        1729238491,
+        85633345,
+        102079361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":1044
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602620959,
     "wof:geomhash":"41cb250767adc9d597720cf940695291",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "localadmin_id":1729238491,
+            "locality_id":1729337893,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729337893,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804320,
+    "wof:lastmodified":1603143201,
     "wof:name":"Nine Mile",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238491,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

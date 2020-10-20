@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883023,
     "wof:geomhash":"32a21f6368495004ea2c2f25f59e8c2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366541
+        }
+    ],
     "wof:id":1729366541,
-    "wof:lastmodified":1602889681,
+    "wof:lastmodified":1603141269,
     "wof:name":"Eastern Passage",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

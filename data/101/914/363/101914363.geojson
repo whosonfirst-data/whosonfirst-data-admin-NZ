@@ -82,10 +82,11 @@
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238529,
         85633345,
-        102079313,
-        85687251
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,6 +111,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079313,
+            "localadmin_id":1729238529,
             "locality_id":101914363,
             "region_id":85687251
         }
@@ -123,9 +125,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805015,
+    "wof:lastmodified":1603140225,
     "wof:name":"Levin",
-    "wof:parent_id":102079313,
+    "wof:parent_id":1729238529,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":19789,

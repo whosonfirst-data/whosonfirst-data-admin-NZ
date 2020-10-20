@@ -38,10 +38,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":2200,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238457,
         85633345,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,6 +60,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
+            "localadmin_id":1729238457,
             "locality_id":101917003,
             "region_id":85687201
         }
@@ -72,9 +74,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803269,
+    "wof:lastmodified":1603148082,
     "wof:name":"Mosgiel",
-    "wof:parent_id":102079387,
+    "wof:parent_id":1729238457,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

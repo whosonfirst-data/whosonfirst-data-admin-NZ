@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887495,
     "wof:geomhash":"ab4cfae5c5b5268dc382f659cd129674",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366647,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729366647,
-    "wof:lastmodified":1602889676,
+    "wof:lastmodified":1603141322,
     "wof:name":"Waikareao Estuary",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

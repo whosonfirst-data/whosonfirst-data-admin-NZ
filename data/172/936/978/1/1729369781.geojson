@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888755,
     "wof:geomhash":"8e81eb9b6d41592ed4bd5dac0c1a69e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369781,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369781,
-    "wof:lastmodified":1602889657,
+    "wof:lastmodified":1603142873,
     "wof:name":"Sailors Rest",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

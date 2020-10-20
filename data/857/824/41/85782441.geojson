@@ -60,10 +60,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403,
-        85687243
+        1729338011,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +83,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "localadmin_id":1729238453,
+            "locality_id":1729338011,
             "neighbourhood_id":85782441,
             "region_id":85687243
         }
@@ -95,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802947,
+    "wof:lastmodified":1603200969,
     "wof:name":"Manukau City Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338011,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

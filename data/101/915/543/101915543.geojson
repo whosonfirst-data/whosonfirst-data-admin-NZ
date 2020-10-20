@@ -279,10 +279,11 @@
     "wd:longitude":175.65,
     "wd:wordcount":2258,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238527,
         85633345,
-        102079343,
-        85687233
+        102079343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -308,6 +309,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079343,
+            "localadmin_id":1729238527,
             "locality_id":101915543,
             "region_id":85687233
         }
@@ -321,9 +323,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805012,
+    "wof:lastmodified":1603140219,
     "wof:name":"Masterton",
-    "wof:parent_id":102079343,
+    "wof:parent_id":1729238527,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":20698,

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887885,
     "wof:geomhash":"32c17d63aeaccd7cef2c817d69794236",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367603,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729367603,
-    "wof:lastmodified":1602889662,
+    "wof:lastmodified":1603141805,
     "wof:name":"Dowling Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

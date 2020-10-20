@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4431
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602622649,
     "wof:geomhash":"295bb2bfcebf4c712d58563a30c1a815",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341857,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729341857,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804253,
+    "wof:lastmodified":1603146251,
     "wof:name":"Kinakina Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687201,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

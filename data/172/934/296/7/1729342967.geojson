@@ -28,12 +28,23 @@
     "nz-linz:name":"The Pigeons (Piroque Rocks)",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623101,
     "wof:geomhash":"bfd09535a0d6574f7eafa8ea66462df1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342967,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729342967,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +54,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804234,
+    "wof:lastmodified":1603146899,
     "wof:name":"The Pigeons",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

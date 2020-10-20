@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888178,
     "wof:geomhash":"d93858d1d30a4acf60828c7c497a3b83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368335,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729368335,
-    "wof:lastmodified":1602889652,
+    "wof:lastmodified":1603142164,
     "wof:name":"Port Robinson",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

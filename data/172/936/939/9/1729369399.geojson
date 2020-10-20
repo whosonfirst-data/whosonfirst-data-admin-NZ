@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888606,
     "wof:geomhash":"3a2126189682188e36c1bc84eb5ed2d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369399,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369399,
-    "wof:lastmodified":1602889640,
+    "wof:lastmodified":1603142688,
     "wof:name":"Oyster Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887886,
     "wof:geomhash":"89b4470e95fd9371392d2d3830350160",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367607,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729367607,
-    "wof:lastmodified":1602889662,
+    "wof:lastmodified":1603141808,
     "wof:name":"English Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

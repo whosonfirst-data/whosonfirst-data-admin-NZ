@@ -45,10 +45,11 @@
     "woe:name_adm1":"Waikato",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238509,
         85633345,
-        102079261,
-        85687229
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079261,
+            "localadmin_id":1729238509,
             "locality_id":1126014391,
             "region_id":85687229
         }
@@ -76,9 +78,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803319,
+    "wof:lastmodified":1603149352,
     "wof:name":"Oamaru Bay",
-    "wof:parent_id":102079261,
+    "wof:parent_id":1729238509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

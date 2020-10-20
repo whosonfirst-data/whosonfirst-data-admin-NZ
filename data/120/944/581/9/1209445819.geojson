@@ -42,7 +42,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687165,
+        102079361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +55,11 @@
     "wof:geomhash":"3552582e05f26a486bba9424a07d7234",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209445819
+            "county_id":102079361,
+            "locality_id":1209445819,
+            "region_id":85687165
         }
     ],
     "wof:id":1209445819,
@@ -65,9 +71,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802987,
+    "wof:lastmodified":1603149475,
     "wof:name":"Kaimata",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

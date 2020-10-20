@@ -52,7 +52,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238533,
+        85633345,
+        102079337
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244869,
@@ -65,7 +71,16 @@
     "wof:country":"NZ",
     "wof:created":1602620957,
     "wof:geomhash":"b5bfd4cb1feb3ca83dd8faf3a6f71a82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "localadmin_id":1729238533,
+            "locality_id":1729337889,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729337889,
     "wof:lang_x_official":[
         "eng",
@@ -75,9 +90,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804311,
+    "wof:lastmodified":1603143198,
     "wof:name":"Naenae",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238533,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

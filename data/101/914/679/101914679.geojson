@@ -295,10 +295,7 @@
     "wd:longitude":176.864375,
     "wd:wordcount":4738,
     "wof:belongsto":[
-        102191583,
-        85633345,
-        102079331,
-        85687189
+        1729238511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -312,11 +309,10 @@
     "wof:geomhash":"8cd374fb383b3483324602f6b7c63692",
     "wof:hierarchy":[
         {
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":102079331,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101914679,
-            "region_id":85687189
+            "region_id":-1
         }
     ],
     "wof:id":101914679,
@@ -328,9 +324,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803219,
+    "wof:lastmodified":1603135078,
     "wof:name":"Napier",
-    "wof:parent_id":102079331,
+    "wof:parent_id":1729238511,
     "wof:placetype":"locality",
     "wof:population":56787,
     "wof:population_rank":8,

@@ -36,10 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85687165,
         102191583,
+        1729238585,
         85633345,
-        102079357,
-        85687165
+        102079357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +54,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079357,
+            "localadmin_id":1729238585,
             "locality_id":1343390653,
             "region_id":85687165
         }
@@ -66,9 +68,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802932,
+    "wof:lastmodified":1603150113,
     "wof:name":"Sergeants Hill",
-    "wof:parent_id":102079357,
+    "wof:parent_id":1729238585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

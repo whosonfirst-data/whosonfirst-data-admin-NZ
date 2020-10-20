@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887772,
     "wof:geomhash":"39b48842c06d3aff3bb1b7b08d3ee48a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367339,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729367339,
-    "wof:lastmodified":1602889661,
+    "wof:lastmodified":1603141671,
     "wof:name":"All Day Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

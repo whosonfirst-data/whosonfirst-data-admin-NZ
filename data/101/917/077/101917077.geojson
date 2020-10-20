@@ -40,10 +40,11 @@
     "src:population":"geonames",
     "wd:wordcount":359,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238439,
         85633345,
-        102079381,
-        85687179
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +61,9 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079381,
+            "localadmin_id":1729238439,
             "locality_id":101917077,
-            "region_id":85687179
+            "region_id":85687201
         }
     ],
     "wof:id":101917077,
@@ -73,9 +75,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803260,
+    "wof:lastmodified":1603148110,
     "wof:name":"Kurow",
-    "wof:parent_id":102079381,
+    "wof:parent_id":1729238439,
     "wof:placetype":"locality",
     "wof:population":422,
     "wof:population_rank":2,

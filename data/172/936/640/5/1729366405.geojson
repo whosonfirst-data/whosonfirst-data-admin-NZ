@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882964,
     "wof:geomhash":"9b7a7fc7c8cc47d26109ca0a1e9e2865",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366405
+        }
+    ],
     "wof:id":1729366405,
-    "wof:lastmodified":1602889671,
+    "wof:lastmodified":1603141193,
     "wof:name":"Paterson Inlet",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

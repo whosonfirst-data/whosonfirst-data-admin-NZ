@@ -40,10 +40,11 @@
     "src:population":"geonames",
     "wd:wordcount":1770,
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238595,
         85633345,
-        102079281,
-        85687229
+        102079281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,6 +60,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079281,
+            "localadmin_id":1729238595,
             "locality_id":101915401,
             "region_id":85687229
         }
@@ -72,9 +74,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803181,
+    "wof:lastmodified":1603147413,
     "wof:name":"Turangi",
-    "wof:parent_id":102079281,
+    "wof:parent_id":1729238595,
     "wof:placetype":"locality",
     "wof:population":3401,
     "wof:population_rank":4,

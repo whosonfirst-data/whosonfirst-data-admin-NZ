@@ -65,7 +65,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        1729238593,
+        85633345,
+        102079373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6214568,
@@ -76,7 +82,16 @@
     "wof:country":"NZ",
     "wof:created":1602621424,
     "wof:geomhash":"74dba4a993f355c70e15202ed1af3476",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "localadmin_id":1729238593,
+            "locality_id":1729338997,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729338997,
     "wof:lang_x_official":[
         "eng",
@@ -86,9 +101,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804309,
+    "wof:lastmodified":1603144156,
     "wof:name":"West End",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238593,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

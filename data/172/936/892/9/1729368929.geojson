@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888420,
     "wof:geomhash":"1e31b3824e8f946a493d5c607faaaf00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368929,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729368929,
-    "wof:lastmodified":1602889648,
+    "wof:lastmodified":1603142454,
     "wof:name":"Acheron Anchorage",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

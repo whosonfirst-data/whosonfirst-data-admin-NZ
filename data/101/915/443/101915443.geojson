@@ -41,10 +41,11 @@
     "wd:longitude":170.966111,
     "wd:wordcount":3681,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238521,
         85633345,
-        102079381,
-        85687179
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +60,9 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079381,
+            "localadmin_id":1729238521,
             "locality_id":101915443,
-            "region_id":85687179
+            "region_id":85687201
         }
     ],
     "wof:id":101915443,
@@ -72,9 +74,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803191,
+    "wof:lastmodified":1603147433,
     "wof:name":"Oamaru",
-    "wof:parent_id":102079381,
+    "wof:parent_id":1729238521,
     "wof:placetype":"locality",
     "wof:population":13000,
     "wof:population_rank":6,

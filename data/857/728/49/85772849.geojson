@@ -314,11 +314,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238583,
         85633345,
-        102079339,
-        101914285,
-        85687233
+        1126026579,
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -336,7 +337,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
-            "locality_id":101914285,
+            "localadmin_id":1729238583,
+            "locality_id":1126026579,
             "neighbourhood_id":85772849,
             "region_id":85687233
         }
@@ -350,9 +352,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802953,
+    "wof:lastmodified":1603200442,
     "wof:name":"Brooklyn",
-    "wof:parent_id":101914285,
+    "wof:parent_id":1126026579,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

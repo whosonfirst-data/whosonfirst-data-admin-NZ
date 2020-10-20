@@ -28,12 +28,23 @@
     "nz-linz:name":"The Beef Barrels (Kahikatoa)",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623095,
     "wof:geomhash":"2399801b2f302e22f18115ed5ec903ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342955,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729342955,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +54,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804193,
+    "wof:lastmodified":1603146889,
     "wof:name":"The Beef Barrels",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

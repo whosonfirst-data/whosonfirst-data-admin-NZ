@@ -696,9 +696,12 @@
     "woe:name_adm1":"Nelson",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687157,
         102191583,
+        1729238513,
         85633345,
-        85687157
+        1729338031,
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -713,7 +716,9 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":-1,
+            "county_id":102079351,
+            "localadmin_id":1729238513,
+            "locality_id":1729338031,
             "neighbourhood_id":1126074817,
             "region_id":85687157
         }
@@ -727,9 +732,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803322,
+    "wof:lastmodified":1603175139,
     "wof:name":"Monaco",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338031,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

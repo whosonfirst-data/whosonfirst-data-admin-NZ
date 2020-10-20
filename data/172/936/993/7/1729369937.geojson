@@ -22,14 +22,28 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        1108564573,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888816,
     "wof:geomhash":"77e6342cd77285118453d996f486f6c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":1108564573,
+            "locality_id":-1,
+            "neighbourhood_id":1729369937,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729369937,
-    "wof:lastmodified":1602889663,
+    "wof:lastmodified":1603142949,
     "wof:name":"Tapatu Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

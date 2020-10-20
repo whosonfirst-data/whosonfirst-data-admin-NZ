@@ -51,10 +51,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
+        85687195,
         102191583,
+        1729238515,
         85633345,
-        102079311,
-        85687195
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,6 +75,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079311,
+            "localadmin_id":1729238515,
             "locality_id":101915837,
             "region_id":85687195
         }
@@ -87,9 +89,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804349,
+    "wof:lastmodified":1603140044,
     "wof:name":"Bell Block",
-    "wof:parent_id":102079311,
+    "wof:parent_id":1729238515,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

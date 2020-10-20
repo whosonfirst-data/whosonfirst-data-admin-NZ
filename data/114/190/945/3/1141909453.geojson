@@ -344,10 +344,9 @@
     "reversegeo:longitude":-169.913625,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        102191583,
         85632493,
-        136253053,
-        85681315
+        102191583,
+        136253053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -363,7 +362,7 @@
             "dependency_id":85632493,
             "empire_id":136253053,
             "locality_id":1141909453,
-            "region_id":85681315
+            "region_id":-1
         }
     ],
     "wof:id":1141909453,
@@ -375,9 +374,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803360,
+    "wof:lastmodified":1603149421,
     "wof:name":"Alofi",
-    "wof:parent_id":85681315,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

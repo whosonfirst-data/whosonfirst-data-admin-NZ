@@ -26,7 +26,12 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079355
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8699
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602623257,
     "wof:geomhash":"d6bfdfcd8f27ea78e87790369c887ddf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079355,
+            "locality_id":1729343309,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729343309,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804178,
+    "wof:lastmodified":1603147079,
     "wof:name":"Puhi Puhi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079355,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

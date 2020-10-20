@@ -72,7 +72,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687201,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,8 +85,11 @@
     "wof:geomhash":"c9dd62857d2d1a276b57693423f1cdba",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209248341
+            "county_id":102079385,
+            "locality_id":1209248341,
+            "region_id":85687201
         }
     ],
     "wof:id":1209248341,
@@ -95,9 +101,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802982,
+    "wof:lastmodified":1603149452,
     "wof:name":"Creighton",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

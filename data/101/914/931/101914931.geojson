@@ -76,10 +76,11 @@
     "src:population":"geonames",
     "wd:wordcount":482,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238569,
         85633345,
-        102079315,
-        85687233
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,6 +106,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079315,
+            "localadmin_id":1729238569,
             "locality_id":101914931,
             "region_id":85687233
         }
@@ -118,9 +120,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805015,
+    "wof:lastmodified":1603140497,
     "wof:name":"Otaki",
-    "wof:parent_id":102079315,
+    "wof:parent_id":1729238569,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":6086,

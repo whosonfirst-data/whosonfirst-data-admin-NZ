@@ -73,10 +73,11 @@
     "wd:longitude":175.316667,
     "wd:wordcount":1083,
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238605,
         85633345,
-        102079273,
-        85687229
+        102079273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,6 +102,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079273,
+            "localadmin_id":1729238605,
             "locality_id":101914417,
             "region_id":85687229
         }
@@ -114,9 +116,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805019,
+    "wof:lastmodified":1603140730,
     "wof:name":"Te Awamutu",
-    "wof:parent_id":102079273,
+    "wof:parent_id":1729238605,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

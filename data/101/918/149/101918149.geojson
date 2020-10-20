@@ -45,10 +45,11 @@
     "wd:longitude":175.609511,
     "wd:wordcount":6180,
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238575,
         85633345,
-        102079307,
-        85687251
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,6 +66,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079307,
+            "localadmin_id":1729238575,
             "locality_id":101918149,
             "region_id":85687251
         }
@@ -78,9 +80,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803258,
+    "wof:lastmodified":1603148606,
     "wof:name":"Palmerston North",
-    "wof:parent_id":102079307,
+    "wof:parent_id":1729238575,
     "wof:placetype":"locality",
     "wof:population":75996,
     "wof:population_rank":8,

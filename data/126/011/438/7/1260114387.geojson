@@ -46,7 +46,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201
+        85687201,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
+            "county_id":102079387,
             "locality_id":1260114387,
             "region_id":85687201
         }
@@ -75,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804329,
+    "wof:lastmodified":1603138837,
     "wof:name":"Mihiwaka",
-    "wof:parent_id":85687201,
+    "wof:parent_id":102079387,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

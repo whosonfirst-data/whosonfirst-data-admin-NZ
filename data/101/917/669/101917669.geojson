@@ -74,10 +74,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":282,
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +97,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
+            "localadmin_id":1729238453,
             "locality_id":101917669,
             "region_id":85687243
         }
@@ -109,9 +111,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804388,
+    "wof:lastmodified":1603137030,
     "wof:name":"Laingholm",
-    "wof:parent_id":102079403,
+    "wof:parent_id":1729238453,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101914745
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724640,
     "wof:geomhash":"e6c67d47882ab1310fcfb8fb6506920c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "localadmin_id":1729238515,
+            "region_id":85687195
+        }
+    ],
     "wof:id":1729238515,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803000,
+    "wof:lastmodified":1603140047,
     "wof:name":"New Plymouth",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079311,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

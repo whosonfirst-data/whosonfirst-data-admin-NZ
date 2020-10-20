@@ -48,7 +48,8 @@
     "statoids:timezone":"+12:45~",
     "statoids:type":"territorial authority",
     "wof:belongsto":[
-        136253053,
+        102191583,
+        85633345,
         85687215
     ],
     "wof:breaches":[],
@@ -60,10 +61,9 @@
     "wof:geomhash":"22becc1b926a4bd5ca14275d942ac7b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
             "county_id":1108564567,
-            "empire_id":136253053,
             "region_id":85687215
         }
     ],
@@ -76,7 +76,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803166,
+    "wof:lastmodified":1603188591,
     "wof:name":"Chatham Islands Territory",
     "wof:parent_id":85687215,
     "wof:placetype":"county",

@@ -54,10 +54,11 @@
     "woe:name_adm1":"West Coast",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85687165,
         102191583,
+        1729238491,
         85633345,
-        102079363,
-        85687165
+        102079361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +76,8 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":102079363,
+            "county_id":102079361,
+            "localadmin_id":1729238491,
             "locality_id":1125879603,
             "region_id":85687165
         }
@@ -89,9 +91,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804413,
+    "wof:lastmodified":1603139929,
     "wof:name":"Kumara Junction",
-    "wof:parent_id":102079363,
+    "wof:parent_id":1729238491,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

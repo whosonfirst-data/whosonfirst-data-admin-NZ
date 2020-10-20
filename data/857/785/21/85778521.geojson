@@ -62,10 +62,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1054,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238495,
         85633345,
-        102079387,
-        85687201
+        1729338931,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +88,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
-            "locality_id":-1,
+            "localadmin_id":1729238495,
+            "locality_id":1729338931,
             "neighbourhood_id":85778521,
             "region_id":85687201
         }
@@ -100,9 +103,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802944,
+    "wof:lastmodified":1603200620,
     "wof:name":"Opoho",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338931,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

@@ -59,11 +59,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687195,
         102191583,
+        1729238475,
         85633345,
-        102079295,
         101914721,
-        85687195
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +82,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079295,
+            "localadmin_id":1729238475,
             "locality_id":101914721,
             "neighbourhood_id":85782415,
             "region_id":85687195
@@ -95,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802947,
+    "wof:lastmodified":1603200963,
     "wof:name":"Hawera Central",
     "wof:parent_id":101914721,
     "wof:placetype":"neighbourhood",

@@ -60,11 +60,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238557,
         85633345,
-        102079289,
-        101914629,
-        85687175
+        1729338743,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +84,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079289,
-            "locality_id":101914629,
+            "localadmin_id":1729238557,
+            "locality_id":1729338743,
             "neighbourhood_id":85773009,
             "region_id":85687175
         }
@@ -97,9 +99,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802939,
+    "wof:lastmodified":1603200474,
     "wof:name":"Koutu",
-    "wof:parent_id":101914629,
+    "wof:parent_id":1729338743,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

@@ -359,7 +359,12 @@
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"020dfada-8f76-11e1-848f-cfd5bf3ef515",
@@ -371,7 +376,15 @@
     "wof:country":"NZ",
     "wof:created":1600724636,
     "wof:geomhash":"a6b9ff367fb5386c49ff30cad68b48aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "localadmin_id":1729238507,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729238507,
     "wof:lang_x_official":[
         "eng",
@@ -381,9 +394,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802998,
+    "wof:lastmodified":1603135788,
     "wof:name":"Christchurch",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079401,
     "wof:placetype":"localadmin",
     "wof:population":362000,
     "wof:population_rank":10,

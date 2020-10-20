@@ -50,7 +50,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687175,
+        102191583,
+        1729238557,
+        85633345,
+        102079289
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644807,
@@ -59,7 +65,16 @@
     "wof:country":"NZ",
     "wof:created":1602621102,
     "wof:geomhash":"da4b8723a016c82cc5619b13ad4fa7f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "localadmin_id":1729238557,
+            "locality_id":1729338229,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729338229,
     "wof:lang_x_official":[
         "eng",
@@ -69,9 +84,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804303,
+    "wof:lastmodified":1603143493,
     "wof:name":"Ngapuna",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238557,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

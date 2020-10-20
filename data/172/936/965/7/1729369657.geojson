@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888706,
     "wof:geomhash":"c6fb21539fb78c5fbb76ba31e1ff5d36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369657,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729369657,
-    "wof:lastmodified":1602889639,
+    "wof:lastmodified":1603142812,
     "wof:name":"Waipapa Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

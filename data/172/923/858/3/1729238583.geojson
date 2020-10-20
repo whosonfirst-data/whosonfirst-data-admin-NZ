@@ -477,7 +477,12 @@
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079339
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"020e116e-8f76-11e1-848f-cfd5bf3ef515",
@@ -489,7 +494,15 @@
     "wof:country":"NZ",
     "wof:created":1600724671,
     "wof:geomhash":"dc5fe157e2e1de6fe8d6a29f9f00dc9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "localadmin_id":1729238583,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729238583,
     "wof:lang_x_official":[
         "eng",
@@ -499,9 +512,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803004,
+    "wof:lastmodified":1603135856,
     "wof:name":"Wellington",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079339,
     "wof:placetype":"localadmin",
     "wof:population":381900,
     "wof:population_rank":10,

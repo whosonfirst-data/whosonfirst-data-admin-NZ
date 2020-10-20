@@ -102,11 +102,12 @@
     "woe:name_adm1":"Taranaki",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687195,
         102191583,
+        1729238515,
         85633345,
-        102079311,
-        101914745,
-        85687195
+        1729337865,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +123,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079311,
-            "locality_id":101914745,
+            "localadmin_id":1729238515,
+            "locality_id":1729337865,
             "neighbourhood_id":1126077545,
             "region_id":85687195
         }
@@ -136,9 +138,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803321,
+    "wof:lastmodified":1603175146,
     "wof:name":"Ferndale",
-    "wof:parent_id":101914745,
+    "wof:parent_id":1729337865,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

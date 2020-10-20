@@ -22,14 +22,28 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079391,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887785,
     "wof:geomhash":"f45914f10051d9ff672a07043b2fa21d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":-1,
+            "neighbourhood_id":1729367367,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729367367,
-    "wof:lastmodified":1602889641,
+    "wof:lastmodified":1603141685,
     "wof:name":"Anchorage Arm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

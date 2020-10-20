@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4969
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602622948,
     "wof:geomhash":"d2cd614139e41bd0b8e6caf107cc89ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342591,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729342591,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804193,
+    "wof:lastmodified":1603146684,
     "wof:name":"Tangihana Shell Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687149,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

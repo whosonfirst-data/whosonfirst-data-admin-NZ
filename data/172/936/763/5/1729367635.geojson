@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887897,
     "wof:geomhash":"30b5a0c0dd897a8b56da47e31b37e875",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367635,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729367635,
-    "wof:lastmodified":1602889637,
+    "wof:lastmodified":1603141822,
     "wof:name":"Gates Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

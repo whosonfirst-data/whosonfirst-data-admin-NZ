@@ -67,7 +67,13 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687189,
+        102191583,
+        1729238511,
+        85633345,
+        102079331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6246634,
@@ -80,7 +86,16 @@
     "wof:country":"NZ",
     "wof:created":1602621279,
     "wof:geomhash":"0c26ca1f690425536002e87db7e5407e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "localadmin_id":1729238511,
+            "locality_id":1729338659,
+            "region_id":85687189
+        }
+    ],
     "wof:id":1729338659,
     "wof:lang_x_official":[
         "eng",
@@ -90,9 +105,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804306,
+    "wof:lastmodified":1603143815,
     "wof:name":"Taradale",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238511,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":16599,

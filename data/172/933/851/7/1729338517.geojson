@@ -52,7 +52,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238533,
+        85633345,
+        102079337
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244861,
@@ -65,7 +71,16 @@
     "wof:country":"NZ",
     "wof:created":1602621221,
     "wof:geomhash":"37ee838d4a9c53b05c287114f94ea12b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "localadmin_id":1729238533,
+            "locality_id":1729338517,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729338517,
     "wof:lang_x_official":[
         "eng",
@@ -75,9 +90,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804272,
+    "wof:lastmodified":1603143730,
     "wof:name":"Moera",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238533,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

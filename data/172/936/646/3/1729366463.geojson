@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882988,
     "wof:geomhash":"1a9ee70f4e675603e24a7c2c3c2e771f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366463
+        }
+    ],
     "wof:id":1729366463,
-    "wof:lastmodified":1602889673,
+    "wof:lastmodified":1603141225,
     "wof:name":"Rangaunu Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

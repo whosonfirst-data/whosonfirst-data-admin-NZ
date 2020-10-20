@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882991,
     "wof:geomhash":"c32dde8e63de852102b55ce24449fa0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366469
+        }
+    ],
     "wof:id":1729366469,
-    "wof:lastmodified":1602889673,
+    "wof:lastmodified":1603141229,
     "wof:name":"Rangaunu Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

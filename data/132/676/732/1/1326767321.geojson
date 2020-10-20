@@ -61,10 +61,11 @@
         "geonames"
     ],
     "wof:belongsto":[
+        85687211,
         102191583,
+        1729238483,
         85633345,
-        102079397,
-        85687211
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +84,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079397,
+            "localadmin_id":1729238483,
             "locality_id":1326767321,
             "region_id":85687211
         }
@@ -96,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804140,
+    "wof:lastmodified":1603139890,
     "wof:name":"Tisbury",
-    "wof:parent_id":102079397,
+    "wof:parent_id":1729238483,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

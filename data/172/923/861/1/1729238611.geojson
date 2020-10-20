@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101915359
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724683,
     "wof:geomhash":"d1a29451d28752c4970ba06e16fae6d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "localadmin_id":1729238611,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729238611,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802997,
+    "wof:lastmodified":1603140796,
     "wof:name":"Hikurangi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079257,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

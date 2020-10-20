@@ -49,10 +49,11 @@
     "src:population":"geonames",
     "wd:wordcount":286,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238495,
         85633345,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,6 +70,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
+            "localadmin_id":1729238495,
             "locality_id":101916097,
             "region_id":85687201
         }
@@ -82,9 +84,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803233,
+    "wof:lastmodified":1603147737,
     "wof:name":"Portobello",
-    "wof:parent_id":102079387,
+    "wof:parent_id":1729238495,
     "wof:placetype":"locality",
     "wof:population":1200,
     "wof:population_rank":3,

@@ -44,7 +44,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687149,
+        102079259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +61,11 @@
     "wof:geomhash":"bcb8618255fb6bd02e38f8df4ccf920d",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209248503
+            "county_id":102079259,
+            "locality_id":1209248503,
+            "region_id":85687149
         }
     ],
     "wof:id":1209248503,
@@ -71,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804167,
+    "wof:lastmodified":1603138364,
     "wof:name":"Whakapirau",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079259,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

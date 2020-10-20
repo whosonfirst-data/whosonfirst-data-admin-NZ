@@ -61,10 +61,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687157,
         102191583,
+        1729238513,
         85633345,
-        102079351,
-        85687157
+        1292934619,
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +85,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079351,
-            "locality_id":-1,
+            "localadmin_id":1729238513,
+            "locality_id":1292934619,
             "neighbourhood_id":85781585,
             "region_id":85687157
         }
@@ -97,9 +100,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802948,
+    "wof:lastmodified":1603200877,
     "wof:name":"Dodson Valley",
-    "wof:parent_id":-1,
+    "wof:parent_id":1292934619,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

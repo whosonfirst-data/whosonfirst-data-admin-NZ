@@ -29,7 +29,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4244
@@ -37,7 +41,14 @@
     "wof:country":"NZ",
     "wof:created":1602622558,
     "wof:geomhash":"20cb03c97ca6b3d56ecd3ac171d1a08f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341673,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729341673,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +58,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804182,
+    "wof:lastmodified":1603146144,
     "wof:name":"Challenger Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687243,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

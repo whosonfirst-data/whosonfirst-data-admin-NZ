@@ -27,7 +27,13 @@
     "nz-linz:type":"PARK_RESERVE",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        1729238471,
+        85633345,
+        102079365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":496
@@ -35,7 +41,16 @@
     "wof:country":"NZ",
     "wof:created":1602623202,
     "wof:geomhash":"c7ec407b411bd28a2d5e8b92ae0da386",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "localadmin_id":1729238471,
+            "locality_id":1729343195,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729343195,
     "wof:lang_x_official":[
         "eng",
@@ -45,9 +60,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804250,
+    "wof:lastmodified":1603140940,
     "wof:name":"Hanmer Forest Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238471,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "campus"

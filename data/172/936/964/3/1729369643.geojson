@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888701,
     "wof:geomhash":"bf08279e086efcf254cf0edab07745b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369643,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729369643,
-    "wof:lastmodified":1602889641,
+    "wof:lastmodified":1603142806,
     "wof:name":"Von Luckners Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

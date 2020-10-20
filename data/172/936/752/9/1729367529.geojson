@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887854,
     "wof:geomhash":"3fa21c3bc11df0e378003b6a949b7e99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367529,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729367529,
-    "wof:lastmodified":1602889637,
+    "wof:lastmodified":1603141767,
     "wof:name":"Cherry Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

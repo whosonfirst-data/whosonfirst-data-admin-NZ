@@ -52,7 +52,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238533,
+        85633345,
+        102079337
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244904,
@@ -65,7 +71,16 @@
     "wof:country":"NZ",
     "wof:created":1602621141,
     "wof:geomhash":"450e2cfa2ed2a89876d7492be0594dc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "localadmin_id":1729238533,
+            "locality_id":1729338321,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729338321,
     "wof:lang_x_official":[
         "eng",
@@ -75,9 +90,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804272,
+    "wof:lastmodified":1603143577,
     "wof:name":"Belmont",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238533,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

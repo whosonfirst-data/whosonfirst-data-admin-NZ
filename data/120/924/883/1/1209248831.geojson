@@ -43,7 +43,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687201,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +60,11 @@
     "wof:geomhash":"45992e25131a788c3fde849bd6450f0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209248831
+            "county_id":102079381,
+            "locality_id":1209248831,
+            "region_id":85687201
         }
     ],
     "wof:id":1209248831,
@@ -70,9 +76,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804167,
+    "wof:lastmodified":1603138365,
     "wof:name":"Hilderthorpe",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079381,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

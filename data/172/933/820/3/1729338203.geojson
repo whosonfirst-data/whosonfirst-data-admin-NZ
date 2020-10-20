@@ -52,7 +52,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687251,
+        102191583,
+        1729238581,
+        85633345,
+        102079299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6224556,
@@ -63,7 +69,16 @@
     "wof:country":"NZ",
     "wof:created":1602621091,
     "wof:geomhash":"432f438051c7e4cab840909900b0ea53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "localadmin_id":1729238581,
+            "locality_id":1729338203,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729338203,
     "wof:lang_x_official":[
         "eng",
@@ -73,9 +88,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804263,
+    "wof:lastmodified":1603143472,
     "wof:name":"Gonville",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238581,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

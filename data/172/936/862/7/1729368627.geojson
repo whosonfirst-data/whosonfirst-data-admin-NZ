@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888294,
     "wof:geomhash":"e67c0c24447e53189f2bdf29ce1af839",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368627,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368627,
-    "wof:lastmodified":1602889677,
+    "wof:lastmodified":1603142304,
     "wof:name":"Te Uenga Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

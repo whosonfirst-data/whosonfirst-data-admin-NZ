@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079273
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101914417
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724681,
     "wof:geomhash":"101be91d81f70cbe54b4059f47bcbd6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "localadmin_id":1729238605,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729238605,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803003,
+    "wof:lastmodified":1603140735,
     "wof:name":"Te Awamutu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079273,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

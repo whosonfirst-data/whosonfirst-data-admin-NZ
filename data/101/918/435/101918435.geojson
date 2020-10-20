@@ -44,10 +44,11 @@
     "wd:longitude":176.166667,
     "wd:wordcount":3068,
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238603,
         85633345,
-        102079285,
-        85687175
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,6 +65,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079285,
+            "localadmin_id":1729238603,
             "locality_id":101918435,
             "region_id":85687175
         }
@@ -77,9 +79,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803256,
+    "wof:lastmodified":1603148721,
     "wof:name":"Tauranga",
-    "wof:parent_id":102079285,
+    "wof:parent_id":1729238603,
     "wof:placetype":"locality",
     "wof:population":110338,
     "wof:population_rank":9,

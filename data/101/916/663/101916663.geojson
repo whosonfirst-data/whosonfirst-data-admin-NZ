@@ -49,10 +49,11 @@
     "src:population":"geonames",
     "wd:wordcount":475,
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238477,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,6 +68,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
+            "localadmin_id":1729238477,
             "locality_id":101916663,
             "region_id":85687243
         }
@@ -80,9 +82,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803242,
+    "wof:lastmodified":1603147898,
     "wof:name":"Parakai",
-    "wof:parent_id":102079403,
+    "wof:parent_id":1729238477,
     "wof:placetype":"locality",
     "wof:population":1390,
     "wof:population_rank":3,

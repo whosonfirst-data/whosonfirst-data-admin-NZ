@@ -111,10 +111,11 @@
     "woe:name_adm1":"Auckland Region",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,6 +132,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
+            "localadmin_id":1729238453,
             "locality_id":1125983815,
             "region_id":85687243
         }
@@ -144,9 +146,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803316,
+    "wof:lastmodified":1603149306,
     "wof:name":"Manukau City",
-    "wof:parent_id":102079403,
+    "wof:parent_id":1729238453,
     "wof:placetype":"locality",
     "wof:population":362000,
     "wof:population_rank":10,

@@ -266,10 +266,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":6245,
     "wof:belongsto":[
+        85687189,
         102191583,
+        1729238511,
         85633345,
-        102079331,
-        85687189
+        1729338789,
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -288,7 +290,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079331,
-            "locality_id":-1,
+            "localadmin_id":1729238511,
+            "locality_id":1729338789,
             "neighbourhood_id":85781361,
             "region_id":85687189
         }
@@ -302,9 +305,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802949,
+    "wof:lastmodified":1603200832,
     "wof:name":"Pandora",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338789,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

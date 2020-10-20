@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888863,
     "wof:geomhash":"71d08703cab823bb6bbb64abd599f3a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729370057,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729370057,
-    "wof:lastmodified":1602889691,
+    "wof:lastmodified":1603143005,
     "wof:name":"Robin Hood Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -269,7 +269,12 @@
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"020adf08-8f76-11e1-848f-cfd5bf3ef515",
@@ -281,7 +286,15 @@
     "wof:country":"NZ",
     "wof:created":1600724662,
     "wof:geomhash":"e586b8c1250fa2aa7c6bbb8bd1628da7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "localadmin_id":1729238563,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729238563,
     "wof:lang_x_official":[
         "eng",
@@ -291,9 +304,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803001,
+    "wof:lastmodified":1603135833,
     "wof:name":"Porirua",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079317,
     "wof:placetype":"localadmin",
     "wof:population":50914,
     "wof:population_rank":8,

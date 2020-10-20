@@ -40,10 +40,11 @@
     "src:population":"geonames",
     "wd:wordcount":1214,
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238485,
         85633345,
-        102079313,
-        85687251
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,6 +62,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079313,
+            "localadmin_id":1729238485,
             "locality_id":101916293,
             "region_id":85687251
         }
@@ -74,9 +76,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803233,
+    "wof:lastmodified":1603147787,
     "wof:name":"Foxton",
-    "wof:parent_id":102079313,
+    "wof:parent_id":1729238485,
     "wof:placetype":"locality",
     "wof:population":4780,
     "wof:population_rank":4,

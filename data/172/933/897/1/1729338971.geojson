@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238563,
+        85633345,
+        102079317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8938
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621414,
     "wof:geomhash":"ba2b5dbd19bd222a1e2345c4cebe821f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "localadmin_id":1729238563,
+            "locality_id":1729338971,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729338971,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804310,
+    "wof:lastmodified":1603144134,
     "wof:name":"Ranui",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238563,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

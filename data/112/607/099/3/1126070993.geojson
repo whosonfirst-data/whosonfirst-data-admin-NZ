@@ -50,6 +50,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        1729343127,
         102079373,
         85687179
     ],
@@ -67,7 +68,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079373,
-            "locality_id":-1,
+            "locality_id":1729343127,
             "neighbourhood_id":1126070993,
             "region_id":85687179
         }
@@ -81,9 +82,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803322,
+    "wof:lastmodified":1603175116,
     "wof:name":"Puhuka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729343127,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

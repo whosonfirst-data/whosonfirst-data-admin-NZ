@@ -25,12 +25,25 @@
     "nz-linz:name":"Paddock Rocks",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623077,
     "wof:geomhash":"fce85f9fcaf0238ede2d033772136bd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":1729342909,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729342909,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804237,
+    "wof:lastmodified":1603146865,
     "wof:name":"Paddock Rocks",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

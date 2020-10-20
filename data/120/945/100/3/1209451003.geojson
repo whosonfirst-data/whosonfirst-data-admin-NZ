@@ -46,7 +46,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        85687179,
+        102191583,
+        1729238593,
+        85633345,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +67,12 @@
     "wof:geomhash":"3614a096dcfa5628d5b43c691e99c5f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209451003
+            "county_id":102079373,
+            "localadmin_id":1729238593,
+            "locality_id":1209451003,
+            "region_id":85687179
         }
     ],
     "wof:id":1209451003,
@@ -76,9 +84,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804171,
+    "wof:lastmodified":1603140558,
     "wof:name":"Washdyke",
-    "wof:parent_id":85633345,
+    "wof:parent_id":1729238593,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

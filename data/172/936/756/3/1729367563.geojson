@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887869,
     "wof:geomhash":"9d2f6391553a28d774ec716df04499bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367563,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729367563,
-    "wof:lastmodified":1602889662,
+    "wof:lastmodified":1603141785,
     "wof:name":"Constant Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

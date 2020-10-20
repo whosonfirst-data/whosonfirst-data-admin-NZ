@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887611,
     "wof:geomhash":"d850d75818a87ed6f812ef0eb6a81be3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366937,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729366937,
-    "wof:lastmodified":1602889651,
+    "wof:lastmodified":1603141469,
     "wof:name":"Short Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

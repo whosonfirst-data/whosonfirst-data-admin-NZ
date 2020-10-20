@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4718
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602622806,
     "wof:geomhash":"e7fc1a7fb5a385661d319dc848bd71ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342239,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729342239,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804225,
+    "wof:lastmodified":1603146472,
     "wof:name":"New Chums Rock",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687185,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

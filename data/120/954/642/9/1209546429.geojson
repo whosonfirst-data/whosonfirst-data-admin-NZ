@@ -44,7 +44,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        85687175,
+        102191583,
+        1729238615,
+        85633345,
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +62,12 @@
     "wof:geomhash":"cc4e88cc27b6ac1fce860416e4ac529b",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209546429
+            "county_id":102079291,
+            "localadmin_id":1729238615,
+            "locality_id":1209546429,
+            "region_id":85687175
         }
     ],
     "wof:id":1209546429,
@@ -71,9 +79,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804166,
+    "wof:lastmodified":1603140816,
     "wof:name":"Poroporo",
-    "wof:parent_id":85633345,
+    "wof:parent_id":1729238615,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

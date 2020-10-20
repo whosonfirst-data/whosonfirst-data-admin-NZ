@@ -63,7 +63,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238527,
+        85633345,
+        102079343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6241104,
@@ -74,7 +80,16 @@
     "wof:country":"NZ",
     "wof:created":1602621267,
     "wof:geomhash":"8f1fa3e6b134768a1b30566da60536c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
+            "localadmin_id":1729238527,
+            "locality_id":1729338629,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729338629,
     "wof:lang_x_official":[
         "eng",
@@ -84,9 +99,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804306,
+    "wof:lastmodified":1603143796,
     "wof:name":"Solway",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238527,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

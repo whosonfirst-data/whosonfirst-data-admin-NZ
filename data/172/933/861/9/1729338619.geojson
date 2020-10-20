@@ -85,7 +85,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687201,
+        102191583,
+        1729238495,
+        85633345,
+        102079387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2208239,
@@ -96,7 +102,16 @@
     "wof:country":"NZ",
     "wof:created":1602621263,
     "wof:geomhash":"8ae91c1b1de2a07d2bd455cadc318c33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "localadmin_id":1729238495,
+            "locality_id":1729338619,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729338619,
     "wof:lang_x_official":[
         "eng",
@@ -106,9 +121,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804271,
+    "wof:lastmodified":1603143790,
     "wof:name":"Saint Kilda",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238495,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

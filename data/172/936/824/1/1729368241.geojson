@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888139,
     "wof:geomhash":"f46bacc1cd93b2d49d30fc227f51d4bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368241,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368241,
-    "wof:lastmodified":1602889668,
+    "wof:lastmodified":1603142120,
     "wof:name":"Orongo Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

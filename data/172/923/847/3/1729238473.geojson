@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101914313
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724622,
     "wof:geomhash":"153478d839a5eb7d34a63d4115bae63d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "localadmin_id":1729238473,
+            "region_id":85687189
+        }
+    ],
     "wof:id":1729238473,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803007,
+    "wof:lastmodified":1603139853,
     "wof:name":"Hastings",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079329,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

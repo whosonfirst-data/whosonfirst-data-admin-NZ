@@ -481,10 +481,7 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191583,
-        85633345,
-        102079339,
-        85687233
+        1729238583
     ],
     "wof:breaches":[],
     "wof:capital_of":85633345,
@@ -499,11 +496,10 @@
     "wof:geomhash":"8c00584d5ca8a7b7db92568d95234ceb",
     "wof:hierarchy":[
         {
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":102079339,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101914285,
-            "region_id":85687233
+            "region_id":-1
         }
     ],
     "wof:id":101914285,
@@ -515,9 +511,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803218,
+    "wof:lastmodified":1603135052,
     "wof:name":"Wellington",
-    "wof:parent_id":102079339,
+    "wof:parent_id":1729238583,
     "wof:placetype":"locality",
     "wof:population":381900,
     "wof:population_rank":10,

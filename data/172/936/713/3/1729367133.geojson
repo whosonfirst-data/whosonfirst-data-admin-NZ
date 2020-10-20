@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887690,
     "wof:geomhash":"5dc9adccae084e8825c55851f416dd02",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367133,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729367133,
-    "wof:lastmodified":1602889655,
+    "wof:lastmodified":1603141570,
     "wof:name":"Long Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

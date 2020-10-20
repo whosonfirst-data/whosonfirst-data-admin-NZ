@@ -29,7 +29,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238597,
+        85633345,
+        102079335
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244887,
@@ -40,7 +46,16 @@
     "wof:country":"NZ",
     "wof:created":1602620993,
     "wof:geomhash":"852b6322e456030016f1e76006e06497",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "localadmin_id":1729238597,
+            "locality_id":1729337969,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729337969,
     "wof:lang_x_official":[
         "eng",
@@ -50,9 +65,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804260,
+    "wof:lastmodified":1603143251,
     "wof:name":"Timberlea",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238597,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

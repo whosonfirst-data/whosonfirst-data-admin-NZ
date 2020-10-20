@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883007,
     "wof:geomhash":"3c98fea1e8e7597c838d440c2cd3f083",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366503
+        }
+    ],
     "wof:id":1729366503,
-    "wof:lastmodified":1602889654,
+    "wof:lastmodified":1603141248,
     "wof:name":"Manuhakapakapa",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

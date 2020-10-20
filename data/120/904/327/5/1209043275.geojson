@@ -47,7 +47,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687229,
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +64,11 @@
     "wof:geomhash":"442c39bff875511122381022c6037c87",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209043275
+            "county_id":102079265,
+            "locality_id":1209043275,
+            "region_id":85687229
         }
     ],
     "wof:id":1209043275,
@@ -74,9 +80,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804170,
+    "wof:lastmodified":1603138341,
     "wof:name":"Te Kohanga",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079265,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

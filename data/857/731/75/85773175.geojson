@@ -66,11 +66,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":1619,
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403,
-        101914257,
-        85687243
+        1729339121,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +91,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":101914257,
+            "localadmin_id":1729238453,
+            "locality_id":1729339121,
             "neighbourhood_id":85773175,
             "region_id":85687243
         }
@@ -104,9 +106,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802940,
+    "wof:lastmodified":1603200509,
     "wof:name":"St Heliers",
-    "wof:parent_id":101914257,
+    "wof:parent_id":1729339121,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

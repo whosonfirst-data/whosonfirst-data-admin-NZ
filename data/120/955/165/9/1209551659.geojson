@@ -47,7 +47,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687179,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +64,11 @@
     "wof:geomhash":"a0ec50fa84fcf8d3a569be69d70a002d",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209551659
+            "county_id":102079373,
+            "locality_id":1209551659,
+            "region_id":85687179
         }
     ],
     "wof:id":1209551659,
@@ -74,9 +80,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804167,
+    "wof:lastmodified":1603138410,
     "wof:name":"Rangitata Island",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079373,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

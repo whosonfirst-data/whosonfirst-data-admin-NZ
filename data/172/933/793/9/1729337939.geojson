@@ -128,7 +128,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687149,
+        102191583,
+        1729238617,
+        85633345,
+        102079257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644031,
@@ -137,7 +143,16 @@
     "wof:country":"NZ",
     "wof:created":1602620981,
     "wof:geomhash":"439daedc2dcaf0b553dc4a663e42d15c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "localadmin_id":1729238617,
+            "locality_id":1729337939,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729337939,
     "wof:lang_x_official":[
         "eng",
@@ -147,9 +162,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804291,
+    "wof:lastmodified":1603143231,
     "wof:name":"Riverside",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238617,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

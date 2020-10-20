@@ -44,7 +44,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687179,
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +61,11 @@
     "wof:geomhash":"9487cc240b9c3a040839cc67b063b4ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209451359
+            "county_id":102079371,
+            "locality_id":1209451359,
+            "region_id":85687179
         }
     ],
     "wof:id":1209451359,
@@ -71,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804171,
+    "wof:lastmodified":1603138400,
     "wof:name":"Mitcham",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079371,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -82,11 +82,12 @@
     "woe:name_adm1":"Southland",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687211,
         102191583,
+        1729238483,
         85633345,
-        102079397,
-        101915515,
-        85687211
+        1729338523,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +103,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079397,
-            "locality_id":101915515,
+            "localadmin_id":1729238483,
+            "locality_id":1729338523,
             "neighbourhood_id":1126089931,
             "region_id":85687211
         }
@@ -116,9 +118,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803317,
+    "wof:lastmodified":1603175204,
     "wof:name":"Rockdale",
-    "wof:parent_id":101915515,
+    "wof:parent_id":1729338523,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

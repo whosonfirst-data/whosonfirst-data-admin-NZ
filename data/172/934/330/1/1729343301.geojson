@@ -54,7 +54,12 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2207667,
@@ -67,7 +72,15 @@
     "wof:country":"NZ",
     "wof:created":1602623254,
     "wof:geomhash":"3781aeeb51746b317510a4c33e43ea1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729343301,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729343301,
     "wof:lang_x_official":[
         "eng",
@@ -77,9 +90,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804178,
+    "wof:lastmodified":1603147072,
     "wof:name":"Red Beach",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887994,
     "wof:geomhash":"ce417e7f31b8bd0baae29bed0f37176e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367879,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729367879,
-    "wof:lastmodified":1602889686,
+    "wof:lastmodified":1603141945,
     "wof:name":"Korua Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

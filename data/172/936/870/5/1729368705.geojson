@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888332,
     "wof:geomhash":"972f50548dd2182e6b35215ac9de17e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368705,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729368705,
-    "wof:lastmodified":1602889667,
+    "wof:lastmodified":1603142343,
     "wof:name":"Turnbulls Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

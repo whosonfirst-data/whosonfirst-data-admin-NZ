@@ -47,10 +47,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238493,
         85633345,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,6 +71,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079271,
+            "localadmin_id":1729238493,
             "locality_id":101916421,
             "region_id":85687229
         }
@@ -83,9 +85,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804380,
+    "wof:lastmodified":1603136745,
     "wof:name":"Temple View",
-    "wof:parent_id":102079271,
+    "wof:parent_id":1729238493,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

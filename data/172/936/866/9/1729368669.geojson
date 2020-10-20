@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888318,
     "wof:geomhash":"ecc6e4c4f34f134e3d8eb11dcf1cd24d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368669,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729368669,
-    "wof:lastmodified":1602889648,
+    "wof:lastmodified":1603142324,
     "wof:name":"Camping Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

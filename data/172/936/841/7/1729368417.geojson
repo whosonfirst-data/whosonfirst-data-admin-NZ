@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888211,
     "wof:geomhash":"d359d9c7865657e6f24eaca9890982d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368417,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729368417,
-    "wof:lastmodified":1602889666,
+    "wof:lastmodified":1603142204,
     "wof:name":"Rocky Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

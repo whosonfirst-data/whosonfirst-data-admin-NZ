@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888435,
     "wof:geomhash":"57d31fe7a87214c376fecc740a18e161",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368967,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729368967,
-    "wof:lastmodified":1602889677,
+    "wof:lastmodified":1603142474,
     "wof:name":"Elephant Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

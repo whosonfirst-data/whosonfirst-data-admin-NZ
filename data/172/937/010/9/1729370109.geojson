@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888883,
     "wof:geomhash":"5d68c56b61b575734e01a78b537457d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729370109,
+            "region_id":85687189
+        }
+    ],
     "wof:id":1729370109,
-    "wof:lastmodified":1602889690,
+    "wof:lastmodified":1603143028,
     "wof:name":"Port Of Napier",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

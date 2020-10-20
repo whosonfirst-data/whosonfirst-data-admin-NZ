@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887840,
     "wof:geomhash":"b2c7a758a3cb7d9a1141be8ecc9a0729",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367497,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729367497,
-    "wof:lastmodified":1602889657,
+    "wof:lastmodified":1603141750,
     "wof:name":"Caroline Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

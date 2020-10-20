@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":424
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621542,
     "wof:geomhash":"203d5f70c41f226436fabc90c14e5a52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1729339285,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729339285,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804321,
+    "wof:lastmodified":1603144354,
     "wof:name":"Glenbervie",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079257,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

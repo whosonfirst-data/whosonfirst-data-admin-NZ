@@ -119,11 +119,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238521,
         85633345,
-        102079381,
-        101914699,
-        85687201
+        1729338875,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -141,7 +142,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079381,
-            "locality_id":101914699,
+            "localadmin_id":1729238521,
+            "locality_id":1729338875,
             "neighbourhood_id":85781633,
             "region_id":85687201
         }
@@ -155,9 +157,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802941,
+    "wof:lastmodified":1603200883,
     "wof:name":"Casa Nova",
-    "wof:parent_id":101914699,
+    "wof:parent_id":1729338875,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

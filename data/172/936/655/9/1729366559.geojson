@@ -22,16 +22,24 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602883030,
     "wof:geomhash":"a66d5e269b147534b29db9b59ae3b253",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "marinearea_id":1729366559
+        }
+    ],
     "wof:id":1729366559,
-    "wof:lastmodified":1602889675,
+    "wof:lastmodified":1603141279,
     "wof:name":"Broad Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"marinearea",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

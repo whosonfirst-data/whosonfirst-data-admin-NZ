@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888731,
     "wof:geomhash":"8a27ec222b0a5abbf8f3ed83b588e21b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369721,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369721,
-    "wof:lastmodified":1602889689,
+    "wof:lastmodified":1603142842,
     "wof:name":"Goose Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -151,10 +151,11 @@
     "wd:longitude":174.083333,
     "wd:wordcount":3463,
     "wof:belongsto":[
+        85687195,
         102191583,
+        1729238515,
         85633345,
-        102079311,
-        85687195
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,6 +176,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079311,
+            "localadmin_id":1729238515,
             "locality_id":101915551,
             "region_id":85687195
         }
@@ -188,9 +190,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803175,
+    "wof:lastmodified":1603147533,
     "wof:name":"New Plymouth",
-    "wof:parent_id":102079311,
+    "wof:parent_id":1729238515,
     "wof:placetype":"locality",
     "wof:population":49168,
     "wof:population_rank":7,

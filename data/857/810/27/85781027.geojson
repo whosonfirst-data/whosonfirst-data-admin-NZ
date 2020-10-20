@@ -66,6 +66,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        101914545,
         102079327,
         85687189
     ],
@@ -86,7 +87,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079327,
-            "locality_id":-1,
+            "locality_id":101914545,
             "neighbourhood_id":85781027,
             "region_id":85687189
         }
@@ -100,9 +101,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802942,
+    "wof:lastmodified":1603200763,
     "wof:name":"North Clyde",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914545,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

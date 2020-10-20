@@ -119,7 +119,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687201,
+        102191583,
+        1729238495,
+        85633345,
+        102079387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6212261,
@@ -130,7 +136,16 @@
     "wof:country":"NZ",
     "wof:created":1602621015,
     "wof:geomhash":"a5da79dbc6930e107f6079343aa94330",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "localadmin_id":1729238495,
+            "locality_id":1729338017,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729338017,
     "wof:lang_x_official":[
         "eng",
@@ -140,9 +155,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804309,
+    "wof:lastmodified":1603143282,
     "wof:name":"Helensburgh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238495,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

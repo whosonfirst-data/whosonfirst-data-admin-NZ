@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888719,
     "wof:geomhash":"5ea6a43fa9eea521df320f21c57e729d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369689,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729369689,
-    "wof:lastmodified":1602889660,
+    "wof:lastmodified":1603142827,
     "wof:name":"Wharekupenga Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

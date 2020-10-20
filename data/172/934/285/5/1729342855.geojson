@@ -28,12 +28,23 @@
     "nz-linz:name":"David Rocks (The Four Islands)",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623055,
     "wof:geomhash":"bc9c4b47f260d3a9c5c8d0040cea5ff3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342855,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729342855,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +54,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804229,
+    "wof:lastmodified":1603146835,
     "wof:name":"David Rocks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -29,7 +29,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4950
@@ -37,7 +42,15 @@
     "wof:country":"NZ",
     "wof:created":1602621952,
     "wof:geomhash":"d3a768f3e4b001eb04428f7a63d7eeab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":1729340259,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729340259,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804187,
+    "wof:lastmodified":1603145156,
     "wof:name":"Stephens Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079353,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

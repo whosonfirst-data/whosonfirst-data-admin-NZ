@@ -29,7 +29,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687149,
+        102191583,
+        1729238617,
+        85633345,
+        102079257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6230838,
@@ -40,7 +46,16 @@
     "wof:country":"NZ",
     "wof:created":1602620962,
     "wof:geomhash":"b6b383d86a79f92d8c863f14acb6e042",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "localadmin_id":1729238617,
+            "locality_id":1729337901,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729337901,
     "wof:lang_x_official":[
         "eng",
@@ -50,9 +65,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804254,
+    "wof:lastmodified":1603143204,
     "wof:name":"Otangarei",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238617,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -25,12 +25,23 @@
     "nz-linz:name":"Simmonds Islands",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623078,
     "wof:geomhash":"ac6ffb29027cd3b8493bf6bd44409117",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342911,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729342911,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +51,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804234,
+    "wof:lastmodified":1603146866,
     "wof:name":"Simmonds Islands",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

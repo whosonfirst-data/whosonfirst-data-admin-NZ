@@ -89,7 +89,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687211,
+        102191583,
+        1729238483,
+        85633345,
+        102079397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6205165,
@@ -100,7 +106,16 @@
     "wof:country":"NZ",
     "wof:created":1602621147,
     "wof:geomhash":"8e2a145ac768ece0f3608cb912bb291d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "localadmin_id":1729238483,
+            "locality_id":1729338337,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729338337,
     "wof:lang_x_official":[
         "eng",
@@ -110,9 +125,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804274,
+    "wof:lastmodified":1603143584,
     "wof:name":"Clifton",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238483,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

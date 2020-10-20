@@ -50,6 +50,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        1242904345,
         102079255,
         85687149
     ],
@@ -67,7 +68,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079255,
-            "locality_id":-1,
+            "locality_id":1242904345,
             "neighbourhood_id":1126080847,
             "region_id":85687149
         }
@@ -81,9 +82,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803316,
+    "wof:lastmodified":1603175161,
     "wof:name":"Taikawhana",
-    "wof:parent_id":-1,
+    "wof:parent_id":1242904345,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

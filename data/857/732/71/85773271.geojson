@@ -63,6 +63,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        1729339647,
         102079265,
         85687229
     ],
@@ -82,7 +83,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079265,
-            "locality_id":-1,
+            "locality_id":1729339647,
             "neighbourhood_id":85773271,
             "region_id":85687229
         }
@@ -96,9 +97,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802946,
+    "wof:lastmodified":1603200528,
     "wof:name":"Waerenga",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729339647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

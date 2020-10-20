@@ -22,14 +22,28 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079391,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887514,
     "wof:geomhash":"2873cd37786923346295755c51138561",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":-1,
+            "neighbourhood_id":1729366693,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729366693,
-    "wof:lastmodified":1602889650,
+    "wof:lastmodified":1603141349,
     "wof:name":"Helen Arch",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

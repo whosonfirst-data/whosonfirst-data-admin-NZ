@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4547
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602622716,
     "wof:geomhash":"0e72ae36a5c28ababa167f2609919491",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342021,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729342021,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804198,
+    "wof:lastmodified":1603146352,
     "wof:name":"Motukahakaha Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687175,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

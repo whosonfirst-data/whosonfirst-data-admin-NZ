@@ -39,10 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85687149,
         102191583,
+        1729238617,
         85633345,
-        102079257,
-        85687149
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,6 +57,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
+            "localadmin_id":1729238617,
             "locality_id":1309939831,
             "region_id":85687149
         }
@@ -69,9 +71,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803273,
+    "wof:lastmodified":1603149962,
     "wof:name":"Tauraroa",
-    "wof:parent_id":102079257,
+    "wof:parent_id":1729238617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -333,7 +333,8 @@
     "statoids:type":"special territorial authority",
     "wd:wordcount":4484,
     "wof:belongsto":[
-        136253053
+        102191583,
+        85633345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -349,9 +350,8 @@
     "wof:geomhash":"a2879efc6d841c89bc467f2586d7c16c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "empire_id":136253053,
+            "continent_id":102191583,
+            "country_id":85633345,
             "region_id":85687215
         }
     ],
@@ -364,9 +364,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802958,
+    "wof:lastmodified":1603197827,
     "wof:name":"Chatham Islands",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633345,
     "wof:placetype":"region",
     "wof:placetype_local":"special territorial authority",
     "wof:population":600,

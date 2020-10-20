@@ -61,6 +61,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        1242613937,
         102079255,
         85687149
     ],
@@ -81,7 +82,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079255,
-            "locality_id":-1,
+            "locality_id":1242613937,
             "neighbourhood_id":85773149,
             "region_id":85687149
         }
@@ -95,9 +96,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802940,
+    "wof:lastmodified":1603200504,
     "wof:name":"Rangi Point",
-    "wof:parent_id":-1,
+    "wof:parent_id":1242613937,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -59,10 +59,11 @@
     "woe:name_adm1":"Bay of Plenty",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238557,
         85633345,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,6 +83,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079289,
+            "localadmin_id":1729238557,
             "locality_id":1125834551,
             "region_id":85687175
         }
@@ -95,9 +97,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804442,
+    "wof:lastmodified":1603140426,
     "wof:name":"Tikitere",
-    "wof:parent_id":102079289,
+    "wof:parent_id":1729238557,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

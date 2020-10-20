@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888067,
     "wof:geomhash":"c5e3f3845bc5f077889d31ec2df8aa8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368061,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729368061,
-    "wof:lastmodified":1602889681,
+    "wof:lastmodified":1603142036,
     "wof:name":"Moikarurangi Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888047,
     "wof:geomhash":"974e115ba438340a734d8fa5d38a7f32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368015,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368015,
-    "wof:lastmodified":1602889681,
+    "wof:lastmodified":1603142012,
     "wof:name":"Matauwhi Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

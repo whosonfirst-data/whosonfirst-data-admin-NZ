@@ -66,10 +66,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":79,
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238581,
         85633345,
-        102079299,
-        85687251
+        1310537641,
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +89,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079299,
-            "locality_id":-1,
+            "localadmin_id":1729238581,
+            "locality_id":1310537641,
             "neighbourhood_id":85781821,
             "region_id":85687251
         }
@@ -101,9 +104,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802940,
+    "wof:lastmodified":1603200921,
     "wof:name":"Marybank",
-    "wof:parent_id":-1,
+    "wof:parent_id":1310537641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

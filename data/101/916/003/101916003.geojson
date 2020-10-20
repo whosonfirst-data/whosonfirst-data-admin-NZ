@@ -42,10 +42,11 @@
     "src:population":"geonames",
     "wd:wordcount":2267,
     "wof:belongsto":[
+        85687185,
         102191583,
+        1729238455,
         85633345,
-        102079353,
-        85687185
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079353,
+            "localadmin_id":1729238455,
             "locality_id":101916003,
             "region_id":85687185
         }
@@ -76,9 +78,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803242,
+    "wof:lastmodified":1603147708,
     "wof:name":"Blenheim",
-    "wof:parent_id":102079353,
+    "wof:parent_id":1729238455,
     "wof:placetype":"locality",
     "wof:population":26550,
     "wof:population_rank":7,

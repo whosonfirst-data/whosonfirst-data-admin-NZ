@@ -33,10 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85687149,
         102191583,
+        1729238539,
         85633345,
-        102079255,
-        85687149
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +50,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079255,
+            "localadmin_id":1729238539,
             "locality_id":1292942251,
             "region_id":85687149
         }
@@ -62,9 +64,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802967,
+    "wof:lastmodified":1603149850,
     "wof:name":"Rangitihi",
-    "wof:parent_id":102079255,
+    "wof:parent_id":1729238539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

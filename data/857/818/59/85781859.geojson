@@ -65,10 +65,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":54,
     "wof:belongsto":[
+        85687237,
         102191583,
+        1729238487,
         85633345,
-        102079325,
-        85687237
+        1729338791,
+        102079325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +91,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079325,
-            "locality_id":-1,
+            "localadmin_id":1729238487,
+            "locality_id":1729338791,
             "neighbourhood_id":85781859,
             "region_id":85687237
         }
@@ -103,9 +106,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802940,
+    "wof:lastmodified":1603200929,
     "wof:name":"Awapuni",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338791,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

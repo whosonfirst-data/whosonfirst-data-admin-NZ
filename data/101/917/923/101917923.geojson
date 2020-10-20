@@ -51,10 +51,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
+        85687185,
         102191583,
+        1729238455,
         85633345,
-        102079353,
-        85687185
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,6 +75,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079353,
+            "localadmin_id":1729238455,
             "locality_id":101917923,
             "region_id":85687185
         }
@@ -87,9 +89,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804389,
+    "wof:lastmodified":1603139776,
     "wof:name":"Woodbourne",
-    "wof:parent_id":102079353,
+    "wof:parent_id":1729238455,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

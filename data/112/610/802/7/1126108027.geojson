@@ -43,10 +43,12 @@
     "woe:name_adm1":"Auckland Region",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403,
-        85687243
+        101914267,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "localadmin_id":1729238453,
+            "locality_id":101914267,
             "neighbourhood_id":1126108027,
             "region_id":85687243
         }
@@ -75,9 +78,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803285,
+    "wof:lastmodified":1603175257,
     "wof:name":"Papatoetoe East",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914267,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

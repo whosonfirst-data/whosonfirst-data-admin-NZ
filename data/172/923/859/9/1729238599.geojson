@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079263
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101915083
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724677,
     "wof:geomhash":"63b7b4179c9de2537257a4e3f9a4af4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "localadmin_id":1729238599,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729238599,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802996,
+    "wof:lastmodified":1603140660,
     "wof:name":"Waihi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079263,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882967,
     "wof:geomhash":"748a30288b16322d3132f2412a459acc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366413
+        }
+    ],
     "wof:id":1729366413,
-    "wof:lastmodified":1602889672,
+    "wof:lastmodified":1603141199,
     "wof:name":"Doubtful Sound",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

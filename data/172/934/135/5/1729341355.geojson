@@ -32,7 +32,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2187441,
@@ -43,7 +48,15 @@
     "wof:country":"NZ",
     "wof:created":1602622408,
     "wof:geomhash":"acc3e37abdbbbf8b7a776c5256adaa30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":1729341355,
+            "region_id":85687195
+        }
+    ],
     "wof:id":1729341355,
     "wof:lang_x_official":[
         "eng",
@@ -53,9 +66,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804174,
+    "wof:lastmodified":1603145940,
     "wof:name":"Mangorei",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079311,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

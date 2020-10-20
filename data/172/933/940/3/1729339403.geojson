@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":764
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621592,
     "wof:geomhash":"d2c4515231a18df7eeb9d7bba13412c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079345,
+            "locality_id":1729339403,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729339403,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804281,
+    "wof:lastmodified":1603144450,
     "wof:name":"Longbush",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079345,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

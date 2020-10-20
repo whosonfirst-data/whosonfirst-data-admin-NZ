@@ -62,10 +62,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238557,
         85633345,
-        102079289,
-        85687175
+        1729338023,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +86,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079289,
-            "locality_id":-1,
+            "localadmin_id":1729238557,
+            "locality_id":1729338023,
             "neighbourhood_id":85782009,
             "region_id":85687175
         }
@@ -98,9 +101,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802940,
+    "wof:lastmodified":1603200935,
     "wof:name":"Hannahs Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338023,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

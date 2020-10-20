@@ -61,10 +61,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687149,
         102191583,
+        1729238617,
         85633345,
-        102079257,
-        85687149
+        1729338857,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +84,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
-            "locality_id":-1,
+            "localadmin_id":1729238617,
+            "locality_id":1729338857,
             "neighbourhood_id":85781249,
             "region_id":85687149
         }
@@ -96,9 +99,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802948,
+    "wof:lastmodified":1603200809,
     "wof:name":"Parahaki",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338857,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

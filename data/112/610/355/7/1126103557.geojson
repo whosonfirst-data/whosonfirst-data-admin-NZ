@@ -43,10 +43,12 @@
     "woe:name_adm1":"Wellington",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238563,
         85633345,
-        102079317,
-        85687233
+        1729338565,
+        102079317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079317,
-            "locality_id":-1,
+            "localadmin_id":1729238563,
+            "locality_id":1729338565,
             "neighbourhood_id":1126103557,
             "region_id":85687233
         }
@@ -75,9 +78,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803285,
+    "wof:lastmodified":1603175244,
     "wof:name":"Porirua Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338565,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

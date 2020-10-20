@@ -59,10 +59,11 @@
     "woe:name_adm1":"Wellington",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238597,
         85633345,
-        102079335,
-        85687233
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +84,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079335,
+            "localadmin_id":1729238597,
             "locality_id":1126020027,
             "region_id":85687233
         }
@@ -96,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804402,
+    "wof:lastmodified":1603140627,
     "wof:name":"Kaitoke",
-    "wof:parent_id":102079335,
+    "wof:parent_id":1729238597,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

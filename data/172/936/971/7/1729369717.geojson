@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888730,
     "wof:geomhash":"3da35acd866251df95f55fae9a18a441",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369717,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369717,
-    "wof:lastmodified":1602889658,
+    "wof:lastmodified":1603142841,
     "wof:name":"Fisherman Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

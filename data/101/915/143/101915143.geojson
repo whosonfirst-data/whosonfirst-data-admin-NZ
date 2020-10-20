@@ -42,10 +42,11 @@
     "src:population":"geonames",
     "wd:wordcount":1423,
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238599,
         85633345,
-        102079263,
-        85687229
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,6 +67,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079263,
+            "localadmin_id":1729238599,
             "locality_id":101915143,
             "region_id":85687229
         }
@@ -79,9 +81,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803185,
+    "wof:lastmodified":1603147327,
     "wof:name":"Waihi",
-    "wof:parent_id":102079263,
+    "wof:parent_id":1729238599,
     "wof:placetype":"locality",
     "wof:population":4619,
     "wof:population_rank":4,

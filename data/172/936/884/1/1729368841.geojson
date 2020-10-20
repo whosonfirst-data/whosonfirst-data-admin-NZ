@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888386,
     "wof:geomhash":"5a98412b239f25ef725ae1a888d355e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368841,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729368841,
-    "wof:lastmodified":1602889667,
+    "wof:lastmodified":1603142410,
     "wof:name":"Wattle Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

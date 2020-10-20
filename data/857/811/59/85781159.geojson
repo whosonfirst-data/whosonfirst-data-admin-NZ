@@ -60,11 +60,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":55,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238563,
         85633345,
-        102079317,
         101914355,
-        85687233
+        102079317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +81,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079317,
+            "localadmin_id":1729238563,
             "locality_id":101914355,
             "neighbourhood_id":85781159,
             "region_id":85687233
@@ -94,7 +96,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802941,
+    "wof:lastmodified":1603200789,
     "wof:name":"Onepoto",
     "wof:parent_id":101914355,
     "wof:placetype":"neighbourhood",

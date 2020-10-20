@@ -191,10 +191,11 @@
     "wd:longitude":174.0,
     "wd:wordcount":1107,
     "wof:belongsto":[
+        85687185,
         102191583,
+        1729238561,
         85633345,
-        102079353,
-        85687185
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -220,6 +221,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079353,
+            "localadmin_id":1729238561,
             "locality_id":101915339,
             "region_id":85687185
         }
@@ -233,9 +235,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805011,
+    "wof:lastmodified":1603140457,
     "wof:name":"Picton",
-    "wof:parent_id":102079353,
+    "wof:parent_id":1729238561,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":3000,

@@ -56,10 +56,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238521,
         85633345,
-        102079381,
-        85687201
+        101914699,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +79,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079381,
-            "locality_id":-1,
+            "localadmin_id":1729238521,
+            "locality_id":101914699,
             "neighbourhood_id":85782475,
             "region_id":85687201
         }
@@ -91,9 +94,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802947,
+    "wof:lastmodified":1603200976,
     "wof:name":"Oamaru Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

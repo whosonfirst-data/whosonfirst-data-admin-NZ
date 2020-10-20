@@ -26,7 +26,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4415
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622134,
     "wof:geomhash":"f1d45b3532c72b512a12ee73ba1841f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1729340705,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729340705,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804186,
+    "wof:lastmodified":1603145479,
     "wof:name":"Kaka Rock",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079257,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

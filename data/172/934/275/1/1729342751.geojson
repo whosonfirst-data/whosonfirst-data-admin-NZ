@@ -26,7 +26,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":5095
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602623013,
     "wof:geomhash":"c4eaeb9e21e9bca19fde566098f7cc94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729342751,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729342751,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804190,
+    "wof:lastmodified":1603146778,
     "wof:name":"Waikauri Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

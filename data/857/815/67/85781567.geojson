@@ -697,10 +697,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":137,
     "wof:belongsto":[
+        85687185,
         102191583,
+        1729238455,
         85633345,
-        102079353,
-        85687185
+        1729337979,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -719,7 +721,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079353,
-            "locality_id":-1,
+            "localadmin_id":1729238455,
+            "locality_id":1729337979,
             "neighbourhood_id":85781567,
             "region_id":85687185
         }
@@ -733,9 +736,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802948,
+    "wof:lastmodified":1603200874,
     "wof:name":"Yelverton",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729337979,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

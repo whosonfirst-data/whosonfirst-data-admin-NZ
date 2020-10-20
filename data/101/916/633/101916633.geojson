@@ -44,10 +44,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238587,
         85633345,
-        102079283,
-        85687175
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,6 +69,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079283,
+            "localadmin_id":1729238587,
             "locality_id":101916633,
             "region_id":85687175
         }
@@ -81,9 +83,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804375,
+    "wof:lastmodified":1603140552,
     "wof:name":"Athenree",
-    "wof:parent_id":102079283,
+    "wof:parent_id":1729238587,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":563,

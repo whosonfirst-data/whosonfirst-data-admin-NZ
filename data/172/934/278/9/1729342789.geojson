@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":5124
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602623029,
     "wof:geomhash":"02231c29d9441b13b0f0fb8982323b62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342789,
+            "region_id":85687237
+        }
+    ],
     "wof:id":1729342789,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804226,
+    "wof:lastmodified":1603146799,
     "wof:name":"Whangara Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687237,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

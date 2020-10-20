@@ -68,11 +68,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":239,
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238575,
         85633345,
-        102079307,
-        101914259,
-        85687251
+        1729337997,
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +94,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079307,
-            "locality_id":101914259,
+            "localadmin_id":1729238575,
+            "locality_id":1729337997,
             "neighbourhood_id":85781231,
             "region_id":85687251
         }
@@ -107,9 +109,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802948,
+    "wof:lastmodified":1603200805,
     "wof:name":"West End",
-    "wof:parent_id":101914259,
+    "wof:parent_id":1729337997,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

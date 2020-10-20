@@ -155,11 +155,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403,
-        101915597,
-        85687243
+        1729338065,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +176,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":101915597,
+            "localadmin_id":1729238453,
+            "locality_id":1729338065,
             "neighbourhood_id":85778157,
             "region_id":85687243
         }
@@ -189,9 +191,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802951,
+    "wof:lastmodified":1603200544,
     "wof:name":"Belmont",
-    "wof:parent_id":101915597,
+    "wof:parent_id":1729338065,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

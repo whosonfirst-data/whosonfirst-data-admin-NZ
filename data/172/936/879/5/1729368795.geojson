@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888368,
     "wof:geomhash":"06d34f05485f540d1569f0a2678ec15f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368795,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729368795,
-    "wof:lastmodified":1602889667,
+    "wof:lastmodified":1603142386,
     "wof:name":"Waipuna Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

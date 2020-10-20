@@ -42,10 +42,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238615,
         85633345,
-        102079291,
-        85687175
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,6 +65,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079291,
+            "localadmin_id":1729238615,
             "locality_id":101917623,
             "region_id":85687175
         }
@@ -77,9 +79,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804390,
+    "wof:lastmodified":1603140817,
     "wof:name":"Coastlands",
-    "wof:parent_id":102079291,
+    "wof:parent_id":1729238615,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

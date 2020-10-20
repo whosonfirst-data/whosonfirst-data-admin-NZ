@@ -98,10 +98,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238533,
         85633345,
-        102079337,
-        85687233
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,6 +127,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079337,
+            "localadmin_id":1729238533,
             "locality_id":101914411,
             "region_id":85687233
         }
@@ -139,9 +141,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804366,
+    "wof:lastmodified":1603135957,
     "wof:name":"Petone",
-    "wof:parent_id":102079337,
+    "wof:parent_id":1729238533,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":6609,

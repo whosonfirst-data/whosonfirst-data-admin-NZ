@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888145,
     "wof:geomhash":"b730892231296d6f05db696cb8ff0855",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368255,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368255,
-    "wof:lastmodified":1602889674,
+    "wof:lastmodified":1603142126,
     "wof:name":"Otamure Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

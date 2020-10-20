@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888240,
     "wof:geomhash":"31d8dd7f4e2b32608f91ee8c8ca567a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368489,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368489,
-    "wof:lastmodified":1602889667,
+    "wof:lastmodified":1603142239,
     "wof:name":"West Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -61,10 +61,11 @@
     "src:population":"geonames",
     "wd:wordcount":324,
     "wof:belongsto":[
+        85687149,
         102191583,
+        1729238541,
         85633345,
-        102079255,
-        85687149
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +80,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079255,
+            "localadmin_id":1729238541,
             "locality_id":101917897,
             "region_id":85687149
         }
@@ -92,9 +94,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803271,
+    "wof:lastmodified":1603148507,
     "wof:name":"Kawakawa",
-    "wof:parent_id":102079255,
+    "wof:parent_id":1729238541,
     "wof:placetype":"locality",
     "wof:population":1399,
     "wof:population_rank":3,

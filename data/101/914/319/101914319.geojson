@@ -208,10 +208,7 @@
     "wd:population":102000,
     "wd:wordcount":2727,
     "wof:belongsto":[
-        102191583,
-        85633345,
-        102079337,
-        85687233
+        1729238533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -225,11 +222,10 @@
     "wof:geomhash":"c96cbac1133431e23e042bfe9ea6b987",
     "wof:hierarchy":[
         {
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":102079337,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101914319,
-            "region_id":85687233
+            "region_id":-1
         }
     ],
     "wof:id":101914319,
@@ -241,9 +237,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803226,
+    "wof:lastmodified":1603135055,
     "wof:name":"Lower Hutt",
-    "wof:parent_id":102079337,
+    "wof:parent_id":1729238533,
     "wof:placetype":"locality",
     "wof:population":102000,
     "wof:population_rank":9,

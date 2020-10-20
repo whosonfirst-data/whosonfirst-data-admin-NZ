@@ -77,7 +77,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687201,
+        102191583,
+        1729238521,
+        85633345,
+        102079381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644554,
@@ -87,7 +93,16 @@
     "wof:country":"NZ",
     "wof:created":1602621089,
     "wof:geomhash":"7442a58aa7e9129b22e9059ed44ce917",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "localadmin_id":1729238521,
+            "locality_id":1729338197,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729338197,
     "wof:lang_x_official":[
         "eng",
@@ -97,9 +112,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804268,
+    "wof:lastmodified":1603143469,
     "wof:name":"South Hill",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238521,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

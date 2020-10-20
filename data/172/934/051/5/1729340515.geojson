@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":85
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622056,
     "wof:geomhash":"42d95093e10ff8178632b683248a5d18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1729340515,
+            "region_id":85687219
+        }
+    ],
     "wof:id":1729340515,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804238,
+    "wof:lastmodified":1603145336,
     "wof:name":"Awaroa Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079349,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

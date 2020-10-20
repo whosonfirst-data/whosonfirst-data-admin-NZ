@@ -77,6 +77,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        1729343303,
         102079403,
         85687243
     ],
@@ -99,7 +100,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "locality_id":1729343303,
             "neighbourhood_id":85773185,
             "region_id":85687243
         }
@@ -113,9 +114,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802940,
+    "wof:lastmodified":1603200511,
     "wof:name":"Silverdale",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729343303,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

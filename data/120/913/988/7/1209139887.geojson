@@ -50,7 +50,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687195,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +68,11 @@
     "wof:geomhash":"d39d7bfb50cc83a86e2d501e92b2624e",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209139887
+            "county_id":102079311,
+            "locality_id":1209139887,
+            "region_id":85687195
         }
     ],
     "wof:id":1209139887,
@@ -78,9 +84,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804168,
+    "wof:lastmodified":1603138352,
     "wof:name":"Ratapiko",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079311,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

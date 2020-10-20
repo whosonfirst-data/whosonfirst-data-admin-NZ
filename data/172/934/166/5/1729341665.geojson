@@ -29,7 +29,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4238
@@ -37,7 +42,15 @@
     "wof:country":"NZ",
     "wof:created":1602622554,
     "wof:geomhash":"e60cc258cec73cc70c872f11135ca677",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1729341665,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729341665,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804178,
+    "wof:lastmodified":1603146138,
     "wof:name":"Cathedral Rock",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079261,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2192
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622030,
     "wof:geomhash":"247c03605fa9f1ce0f1da55f45f257f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":1729340453,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729340453,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804223,
+    "wof:lastmodified":1603145283,
     "wof:name":"Lake Hayes",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079385,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

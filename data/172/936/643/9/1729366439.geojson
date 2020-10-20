@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882979,
     "wof:geomhash":"f5760661c0e5b6fc79f85b009decd605",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366439
+        }
+    ],
     "wof:id":1729366439,
-    "wof:lastmodified":1602889643,
+    "wof:lastmodified":1603141213,
     "wof:name":"Poverty Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

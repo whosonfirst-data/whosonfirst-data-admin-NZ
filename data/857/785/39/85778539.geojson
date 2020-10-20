@@ -86,10 +86,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":260,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238597,
         85633345,
-        102079335,
-        85687233
+        1729338557,
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +110,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079335,
-            "locality_id":-1,
+            "localadmin_id":1729238597,
+            "locality_id":1729338557,
             "neighbourhood_id":85778539,
             "region_id":85687233
         }
@@ -122,9 +125,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802944,
+    "wof:lastmodified":1603200624,
     "wof:name":"Pinehaven",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338557,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

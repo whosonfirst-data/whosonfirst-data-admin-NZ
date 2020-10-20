@@ -22,14 +22,28 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079349,
+        85687219
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887804,
     "wof:geomhash":"ccd26db0f8426e82413a900e8b084e41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":-1,
+            "neighbourhood_id":1729367409,
+            "region_id":85687219
+        }
+    ],
     "wof:id":1729367409,
-    "wof:lastmodified":1602889656,
+    "wof:lastmodified":1603141706,
     "wof:name":"Awaroa Inlet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

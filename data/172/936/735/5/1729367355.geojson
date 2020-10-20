@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887779,
     "wof:geomhash":"34a2b66ee57560b02f63247de5adca69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367355,
+            "region_id":85687219
+        }
+    ],
     "wof:id":1729367355,
-    "wof:lastmodified":1602889664,
+    "wof:lastmodified":1603141678,
     "wof:name":"Akersten Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

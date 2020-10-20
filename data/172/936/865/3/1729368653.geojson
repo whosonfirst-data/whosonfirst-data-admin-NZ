@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888311,
     "wof:geomhash":"c3b34e4a528ad7766692e8652c7f49fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368653,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729368653,
-    "wof:lastmodified":1602889677,
+    "wof:lastmodified":1603142316,
     "wof:name":"Thompson Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

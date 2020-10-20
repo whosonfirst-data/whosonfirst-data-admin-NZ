@@ -66,7 +66,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687251,
+        102191583,
+        1729238575,
+        85633345,
+        102079307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6227745,
@@ -79,7 +85,16 @@
     "wof:country":"NZ",
     "wof:created":1602621467,
     "wof:geomhash":"2c8f3a62b712f615521d4a9d4ae93e1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "localadmin_id":1729238575,
+            "locality_id":1729339105,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729339105,
     "wof:lang_x_official":[
         "eng",
@@ -89,9 +104,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804321,
+    "wof:lastmodified":1603144215,
     "wof:name":"Milson",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238575,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

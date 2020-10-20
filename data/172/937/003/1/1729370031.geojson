@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888853,
     "wof:geomhash":"c4c0a37bf981843f538191f6b5e469d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729370031,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729370031,
-    "wof:lastmodified":1602889690,
+    "wof:lastmodified":1603142993,
     "wof:name":"Fighting Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

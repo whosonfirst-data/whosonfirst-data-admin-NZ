@@ -41,10 +41,11 @@
     "wd:longitude":168.266667,
     "wd:wordcount":3975,
     "wof:belongsto":[
+        85687211,
         102191583,
+        1729238483,
         85633345,
-        102079397,
-        85687211
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,6 +62,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079397,
+            "localadmin_id":1729238483,
             "locality_id":101917941,
             "region_id":85687211
         }
@@ -74,9 +76,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803264,
+    "wof:lastmodified":1603148521,
     "wof:name":"Invercargill",
-    "wof:parent_id":102079397,
+    "wof:parent_id":1729238483,
     "wof:placetype":"locality",
     "wof:population":47287,
     "wof:population_rank":7,

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888158,
     "wof:geomhash":"68f69aff7ba52b4d8e14c1702dc51da1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368287,
+            "region_id":85687219
+        }
+    ],
     "wof:id":1729368287,
-    "wof:lastmodified":1602889646,
+    "wof:lastmodified":1603142141,
     "wof:name":"Parapara Inlet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883026,
     "wof:geomhash":"27a632d5b027765fc0403952b73e960c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366547
+        }
+    ],
     "wof:id":1729366547,
-    "wof:lastmodified":1602889681,
+    "wof:lastmodified":1603141273,
     "wof:name":"Current Basin",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

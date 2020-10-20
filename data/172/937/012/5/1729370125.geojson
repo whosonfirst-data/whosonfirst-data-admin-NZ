@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888890,
     "wof:geomhash":"12e4ed538ca03151780bb617b5009a9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729370125,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729370125,
-    "wof:lastmodified":1602889689,
+    "wof:lastmodified":1603143037,
     "wof:name":"Luncheon Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

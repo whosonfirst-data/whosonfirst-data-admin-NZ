@@ -59,7 +59,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687149,
+        102191583,
+        1729238617,
+        85633345,
+        102079257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2349858,
@@ -69,7 +75,16 @@
     "wof:country":"NZ",
     "wof:created":1602621358,
     "wof:geomhash":"b6ca470496b07d79ff5af0432afd6ed0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "localadmin_id":1729238617,
+            "locality_id":1729338855,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729338855,
     "wof:lang_x_official":[
         "eng",
@@ -79,9 +94,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804302,
+    "wof:lastmodified":1603143997,
     "wof:name":"Onerahi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238617,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

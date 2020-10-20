@@ -27,7 +27,12 @@
     "nz-linz:type":"PARK_RESERVE",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2179
@@ -35,7 +40,15 @@
     "wof:country":"NZ",
     "wof:created":1602623211,
     "wof:geomhash":"645a6288a5994cf9f61783033403ee2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":1729343213,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729343213,
     "wof:lang_x_official":[
         "eng",
@@ -45,9 +58,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804252,
+    "wof:lastmodified":1603140978,
     "wof:name":"Kaimai-Mamaku Forest Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079263,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "campus"

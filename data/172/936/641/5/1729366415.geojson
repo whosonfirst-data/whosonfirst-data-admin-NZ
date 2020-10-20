@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882968,
     "wof:geomhash":"3d00b19f4aa787893d7c5bd324f93e9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366415
+        }
+    ],
     "wof:id":1729366415,
-    "wof:lastmodified":1602889672,
+    "wof:lastmodified":1603141200,
     "wof:name":"Croisilles Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

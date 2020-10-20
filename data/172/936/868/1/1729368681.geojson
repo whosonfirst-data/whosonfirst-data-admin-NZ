@@ -22,14 +22,28 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079391,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888322,
     "wof:geomhash":"ceb368d4c3d80973c199d34597a9c9c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":-1,
+            "neighbourhood_id":1729368681,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729368681,
-    "wof:lastmodified":1602889649,
+    "wof:lastmodified":1603142331,
     "wof:name":"Toetoes Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

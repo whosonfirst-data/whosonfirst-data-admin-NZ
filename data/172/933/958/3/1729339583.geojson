@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":1489
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621668,
     "wof:geomhash":"c4704d0705cb1c9134bba2d11c2c9e7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079375,
+            "locality_id":1729339583,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729339583,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804293,
+    "wof:lastmodified":1603144611,
     "wof:name":"Sibbald",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079375,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

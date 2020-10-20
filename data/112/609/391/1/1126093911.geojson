@@ -99,11 +99,12 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403,
-        101914257,
-        85687243
+        1729338071,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +119,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":101914257,
+            "localadmin_id":1729238453,
+            "locality_id":1729338071,
             "neighbourhood_id":1126093911,
             "region_id":85687243
         }
@@ -132,9 +134,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803322,
+    "wof:lastmodified":1603175216,
     "wof:name":"North Shore",
-    "wof:parent_id":101914257,
+    "wof:parent_id":1729338071,
     "wof:placetype":"neighbourhood",
     "wof:population":207865,
     "wof:population_rank":10,

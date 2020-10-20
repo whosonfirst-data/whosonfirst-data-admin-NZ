@@ -61,10 +61,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238533,
         85633345,
-        102079337,
-        85687233
+        1327267825,
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +85,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079337,
-            "locality_id":-1,
+            "localadmin_id":1729238533,
+            "locality_id":1327267825,
             "neighbourhood_id":85773005,
             "region_id":85687233
         }
@@ -97,9 +100,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802939,
+    "wof:lastmodified":1603200473,
     "wof:name":"Korokoro",
-    "wof:parent_id":-1,
+    "wof:parent_id":1327267825,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

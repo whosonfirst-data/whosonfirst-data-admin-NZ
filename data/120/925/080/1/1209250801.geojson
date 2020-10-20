@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687175,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"f774861e20d53be7da193f776289df98",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209250801
+            "county_id":102079289,
+            "locality_id":1209250801,
+            "region_id":85687175
         }
     ],
     "wof:id":1209250801,
@@ -60,9 +66,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802982,
+    "wof:lastmodified":1603149459,
     "wof:name":"Tahorakui",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

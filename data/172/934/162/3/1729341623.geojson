@@ -26,7 +26,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4343
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622529,
     "wof:geomhash":"cf662464c156fe339dd35a0511cdefe0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729341623,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729341623,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804215,
+    "wof:lastmodified":1603146111,
     "wof:name":"Hamaruru Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079255,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

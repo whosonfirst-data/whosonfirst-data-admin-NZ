@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101914699
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724643,
     "wof:geomhash":"0a6eb846133eb68a031e1888a5bf12c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "localadmin_id":1729238521,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729238521,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803010,
+    "wof:lastmodified":1603140130,
     "wof:name":"Oamaru",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079381,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

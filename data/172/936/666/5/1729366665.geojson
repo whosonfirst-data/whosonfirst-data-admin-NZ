@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687157
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887502,
     "wof:geomhash":"f4ab3fb38112fb9ed343b1e7ad643a51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366665,
+            "region_id":85687157
+        }
+    ],
     "wof:id":1729366665,
-    "wof:lastmodified":1602889653,
+    "wof:lastmodified":1603141332,
     "wof:name":"Fall Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

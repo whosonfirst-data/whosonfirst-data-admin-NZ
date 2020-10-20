@@ -29,7 +29,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687237,
+        102191583,
+        1729238487,
+        85633345,
+        102079325
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6240062,
@@ -40,7 +46,16 @@
     "wof:country":"NZ",
     "wof:created":1602621334,
     "wof:geomhash":"6776445e8790f98bc633f522058bf806",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "localadmin_id":1729238487,
+            "locality_id":1729338797,
+            "region_id":85687237
+        }
+    ],
     "wof:id":1729338797,
     "wof:lang_x_official":[
         "eng",
@@ -50,9 +65,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804298,
+    "wof:lastmodified":1603143920,
     "wof:name":"Tamarau",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238487,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

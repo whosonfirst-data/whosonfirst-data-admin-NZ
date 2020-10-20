@@ -137,11 +137,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687149,
         102191583,
+        1729238617,
         85633345,
-        102079257,
-        101914253,
-        85687149
+        1729337939,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,7 +158,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
-            "locality_id":101914253,
+            "localadmin_id":1729238617,
+            "locality_id":1729337939,
             "neighbourhood_id":85781103,
             "region_id":85687149
         }
@@ -171,9 +173,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802941,
+    "wof:lastmodified":1603200778,
     "wof:name":"Riverside",
-    "wof:parent_id":101914253,
+    "wof:parent_id":1729337939,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

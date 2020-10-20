@@ -59,6 +59,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        101914753,
         102079397,
         85687211
     ],
@@ -78,7 +79,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079397,
-            "locality_id":-1,
+            "locality_id":101914753,
             "neighbourhood_id":85778905,
             "region_id":85687211
         }
@@ -92,9 +93,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802953,
+    "wof:lastmodified":1603200689,
     "wof:name":"Invercargill West",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

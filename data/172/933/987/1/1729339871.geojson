@@ -29,7 +29,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2180199,
@@ -40,7 +45,15 @@
     "wof:country":"NZ",
     "wof:created":1602621796,
     "wof:geomhash":"37de593263af3d3c72f3e509f33fa055",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729339871,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729339871,
     "wof:lang_x_official":[
         "eng",
@@ -50,9 +63,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804314,
+    "wof:lastmodified":1603144870,
     "wof:name":"Waimamaku",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079255,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

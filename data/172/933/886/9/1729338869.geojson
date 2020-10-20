@@ -55,7 +55,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        1729238555,
+        85633345,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28645487,
@@ -65,7 +71,16 @@
     "wof:country":"NZ",
     "wof:created":1602621364,
     "wof:geomhash":"60fb5e0439b74cabc88f49f239492a5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "localadmin_id":1729238555,
+            "locality_id":1729338869,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729338869,
     "wof:lang_x_official":[
         "eng",
@@ -75,9 +90,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804269,
+    "wof:lastmodified":1603144011,
     "wof:name":"Army Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238555,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

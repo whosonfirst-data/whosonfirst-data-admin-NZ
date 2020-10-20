@@ -41,10 +41,11 @@
     "wd:longitude":171.745556,
     "wd:wordcount":1429,
     "wof:belongsto":[
+        85687179,
         102191583,
+        1729238451,
         85633345,
-        102079371,
-        85687179
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079371,
+            "localadmin_id":1729238451,
             "locality_id":101918663,
             "region_id":85687179
         }
@@ -75,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803256,
+    "wof:lastmodified":1603148845,
     "wof:name":"Ashburton",
-    "wof:parent_id":102079371,
+    "wof:parent_id":1729238451,
     "wof:placetype":"locality",
     "wof:population":30100,
     "wof:population_rank":7,

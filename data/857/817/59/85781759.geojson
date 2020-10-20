@@ -72,10 +72,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":81,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238597,
         85633345,
-        102079335,
-        85687233
+        101914665,
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +94,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079335,
-            "locality_id":-1,
+            "localadmin_id":1729238597,
+            "locality_id":101914665,
             "neighbourhood_id":85781759,
             "region_id":85687233
         }
@@ -106,9 +109,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802943,
+    "wof:lastmodified":1603200909,
     "wof:name":"Emerald Hill",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914665,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

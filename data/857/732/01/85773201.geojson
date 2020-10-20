@@ -98,11 +98,12 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687157,
         102191583,
+        1729238513,
         85633345,
-        102079351,
         101915661,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,6 +122,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079351,
+            "localadmin_id":1729238513,
             "locality_id":101915661,
             "neighbourhood_id":85773201,
             "region_id":85687157
@@ -135,7 +137,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802946,
+    "wof:lastmodified":1603200514,
     "wof:name":"Stoke",
     "wof:parent_id":101915661,
     "wof:placetype":"neighbourhood",

@@ -66,11 +66,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1113,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238495,
         85633345,
-        102079387,
-        101914269,
-        85687201
+        1276151279,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +91,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
-            "locality_id":101914269,
+            "localadmin_id":1729238495,
+            "locality_id":1276151279,
             "neighbourhood_id":85773063,
             "region_id":85687201
         }
@@ -104,9 +106,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802939,
+    "wof:lastmodified":1603200485,
     "wof:name":"North East Valley",
-    "wof:parent_id":101914269,
+    "wof:parent_id":1276151279,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

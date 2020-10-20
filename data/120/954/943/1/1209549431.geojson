@@ -44,7 +44,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687229,
+        102079275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +61,11 @@
     "wof:geomhash":"54b84043ae3ad45184c21d220775ee49",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209549431
+            "county_id":102079275,
+            "locality_id":1209549431,
+            "region_id":85687229
         }
     ],
     "wof:id":1209549431,
@@ -71,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804166,
+    "wof:lastmodified":1603138406,
     "wof:name":"Puketotara",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079275,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

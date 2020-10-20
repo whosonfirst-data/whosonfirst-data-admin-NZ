@@ -25,12 +25,23 @@
     "nz-linz:name":"Triplets",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623108,
     "wof:geomhash":"e21b78c732065c76ca453d0cf5381d22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342985,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729342985,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +51,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804233,
+    "wof:lastmodified":1603146911,
     "wof:name":"Triplets",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

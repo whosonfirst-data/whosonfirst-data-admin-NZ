@@ -41,10 +41,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":326,
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238605,
         85633345,
-        102079273,
-        85687229
+        102079273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,6 +62,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079273,
+            "localadmin_id":1729238605,
             "locality_id":101918279,
             "region_id":85687229
         }
@@ -74,9 +76,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803254,
+    "wof:lastmodified":1603148658,
     "wof:name":"Kihikihi",
-    "wof:parent_id":102079273,
+    "wof:parent_id":1729238605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

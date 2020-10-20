@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888160,
     "wof:geomhash":"16bbf4a0cd315fc877381138f1a0508d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368289,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368289,
-    "wof:lastmodified":1602889646,
+    "wof:lastmodified":1603142142,
     "wof:name":"Pareparea Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

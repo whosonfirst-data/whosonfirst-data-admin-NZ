@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882999,
     "wof:geomhash":"6ba625a1e663758fb755037f756cdc11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366487
+        }
+    ],
     "wof:id":1729366487,
-    "wof:lastmodified":1602889674,
+    "wof:lastmodified":1603141240,
     "wof:name":"Parengarenga Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887524,
     "wof:geomhash":"9d44478fbe7b7404c4a85e42765dba33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366719,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729366719,
-    "wof:lastmodified":1602889668,
+    "wof:lastmodified":1603141361,
     "wof:name":"Irimahuwheri Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

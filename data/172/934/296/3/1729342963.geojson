@@ -25,12 +25,23 @@
     "nz-linz:name":"The Knobbys",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623099,
     "wof:geomhash":"ab242d21c3c6253d96f24b2c11ca350d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342963,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729342963,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +51,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804234,
+    "wof:lastmodified":1603146896,
     "wof:name":"The Knobbys",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

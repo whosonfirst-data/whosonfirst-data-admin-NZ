@@ -96,10 +96,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238575,
         85633345,
-        102079307,
-        85687251
+        101914815,
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +120,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079307,
-            "locality_id":-1,
+            "localadmin_id":1729238575,
+            "locality_id":101914815,
             "neighbourhood_id":85781149,
             "region_id":85687251
         }
@@ -132,9 +135,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802942,
+    "wof:lastmodified":1603200788,
     "wof:name":"Summerhill",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914815,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

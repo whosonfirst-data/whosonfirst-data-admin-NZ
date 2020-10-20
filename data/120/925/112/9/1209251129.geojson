@@ -47,7 +47,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687175,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +64,11 @@
     "wof:geomhash":"1d8422feeccc429c9a11261e9c7b06d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209251129
+            "county_id":102079283,
+            "locality_id":1209251129,
+            "region_id":85687175
         }
     ],
     "wof:id":1209251129,
@@ -74,9 +80,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804168,
+    "wof:lastmodified":1603138381,
     "wof:name":"Pongakawa",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079283,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

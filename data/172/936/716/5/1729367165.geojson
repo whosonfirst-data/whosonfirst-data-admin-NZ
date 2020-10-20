@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887703,
     "wof:geomhash":"22e6165d4db98dd2ee33057acfd3313e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367165,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729367165,
-    "wof:lastmodified":1602889688,
+    "wof:lastmodified":1603141585,
     "wof:name":"Second Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

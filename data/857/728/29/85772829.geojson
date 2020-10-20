@@ -84,10 +84,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238581,
         85633345,
-        102079299,
-        85687251
+        1729339079,
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +107,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079299,
-            "locality_id":-1,
+            "localadmin_id":1729238581,
+            "locality_id":1729339079,
             "neighbourhood_id":85772829,
             "region_id":85687251
         }
@@ -119,9 +122,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802952,
+    "wof:lastmodified":1603200438,
     "wof:name":"Aramoho",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729339079,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

@@ -59,10 +59,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238493,
         85633345,
-        102079265,
-        85687229
+        1729339017,
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,8 +81,9 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":102079265,
-            "locality_id":-1,
+            "county_id":102079271,
+            "localadmin_id":1729238493,
+            "locality_id":1729339017,
             "neighbourhood_id":85781739,
             "region_id":85687229
         }
@@ -94,9 +97,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802943,
+    "wof:lastmodified":1603200904,
     "wof:name":"Nawton North",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729339017,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

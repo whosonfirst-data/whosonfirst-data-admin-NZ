@@ -48,7 +48,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687251,
+        102191583,
+        1729238575,
+        85633345,
+        102079307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643827,
@@ -59,7 +65,16 @@
     "wof:country":"NZ",
     "wof:created":1602620911,
     "wof:geomhash":"698e0893ef9ad40568762399c14ce139",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "localadmin_id":1729238575,
+            "locality_id":1729337779,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729337779,
     "wof:lang_x_official":[
         "eng",
@@ -69,9 +84,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804285,
+    "wof:lastmodified":1603143112,
     "wof:name":"Fitzherbert",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238575,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

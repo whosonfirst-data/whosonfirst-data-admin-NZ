@@ -106,11 +106,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":204,
     "wof:belongsto":[
+        85687179,
         102191583,
+        1729238507,
         85633345,
-        102079401,
-        101914521,
-        85687179
+        1729338185,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,7 +130,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079401,
-            "locality_id":101914521,
+            "localadmin_id":1729238507,
+            "locality_id":1729338185,
             "neighbourhood_id":85773047,
             "region_id":85687179
         }
@@ -143,9 +145,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802939,
+    "wof:lastmodified":1603200482,
     "wof:name":"New Brighton",
-    "wof:parent_id":101914521,
+    "wof:parent_id":1729338185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

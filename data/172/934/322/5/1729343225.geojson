@@ -27,7 +27,12 @@
     "nz-linz:type":"PARK_RESERVE",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2337
@@ -35,7 +40,15 @@
     "wof:country":"NZ",
     "wof:created":1602623216,
     "wof:geomhash":"8b8044306c7ee88e17b7a99426a81fb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":1729343225,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729343225,
     "wof:lang_x_official":[
         "eng",
@@ -45,9 +58,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804213,
+    "wof:lastmodified":1603140999,
     "wof:name":"Ruahine Forest Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079301,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "campus"

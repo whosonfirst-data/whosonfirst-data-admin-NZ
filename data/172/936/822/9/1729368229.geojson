@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888134,
     "wof:geomhash":"55ee6df52d737e00e9e6325f9558ff09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368229,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368229,
-    "wof:lastmodified":1602889674,
+    "wof:lastmodified":1603142114,
     "wof:name":"Oregon Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

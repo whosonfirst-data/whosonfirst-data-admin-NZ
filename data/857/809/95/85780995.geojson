@@ -63,6 +63,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        101914663,
         102079259,
         85687149
     ],
@@ -83,7 +84,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079259,
-            "locality_id":-1,
+            "locality_id":101914663,
             "neighbourhood_id":85780995,
             "region_id":85687149
         }
@@ -97,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802950,
+    "wof:lastmodified":1603200756,
     "wof:name":"Mangawhare",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914663,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -64,8 +64,8 @@
     "wd:wordcount":6039,
     "wof:belongsto":[
         102191583,
+        1125921137,
         85633345,
-        102079403,
         85687243
     ],
     "wof:breaches":[],
@@ -86,8 +86,7 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":102079403,
-            "locality_id":-1,
+            "locality_id":1125921137,
             "neighbourhood_id":85778813,
             "region_id":85687243
         }
@@ -101,9 +100,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802951,
+    "wof:lastmodified":1603200670,
     "wof:name":"Bucklands Beach North",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125921137,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

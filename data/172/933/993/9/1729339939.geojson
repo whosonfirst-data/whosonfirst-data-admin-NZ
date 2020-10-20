@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4217
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602621824,
     "wof:geomhash":"fa3b1e46d25f384f796df234df3393bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729339939,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729339939,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804293,
+    "wof:lastmodified":1603144933,
     "wof:name":"Brazier Rock",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687243,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888692,
     "wof:geomhash":"0510b2d71c564f5305a55e79076dd3ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369619,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729369619,
-    "wof:lastmodified":1602889661,
+    "wof:lastmodified":1603142794,
     "wof:name":"Wairanaki Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

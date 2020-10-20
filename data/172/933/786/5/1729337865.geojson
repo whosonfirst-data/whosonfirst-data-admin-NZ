@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687195,
+        102191583,
+        1729238515,
+        85633345,
+        102079311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":860
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602620947,
     "wof:geomhash":"788b57dcfa45c80419e47cf7abc84087",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "localadmin_id":1729238515,
+            "locality_id":1729337865,
+            "region_id":85687195
+        }
+    ],
     "wof:id":1729337865,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804313,
+    "wof:lastmodified":1603143177,
     "wof:name":"Marfell",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238515,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

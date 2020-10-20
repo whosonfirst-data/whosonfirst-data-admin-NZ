@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888733,
     "wof:geomhash":"69980ad43e7aef0bc96f42784488a464",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369725,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729369725,
-    "wof:lastmodified":1602889689,
+    "wof:lastmodified":1603142845,
     "wof:name":"Elmslie Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

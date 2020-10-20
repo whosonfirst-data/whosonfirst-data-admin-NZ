@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687165,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,8 +54,11 @@
     "wof:geomhash":"561e20fe1ee68c7665abb23f6cc6ee4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209549797
+            "county_id":102079363,
+            "locality_id":1209549797,
+            "region_id":85687165
         }
     ],
     "wof:id":1209549797,
@@ -64,9 +70,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802979,
+    "wof:lastmodified":1603149491,
     "wof:name":"Lower Kokatahi",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

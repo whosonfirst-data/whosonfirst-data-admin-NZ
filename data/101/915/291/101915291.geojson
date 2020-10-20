@@ -52,10 +52,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
+        85687189,
         102191583,
+        1729238511,
         85633345,
-        102079331,
-        85687189
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +78,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079331,
+            "localadmin_id":1729238511,
             "locality_id":101915291,
             "region_id":85687189
         }
@@ -90,9 +92,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804348,
+    "wof:lastmodified":1603136431,
     "wof:name":"Bay View",
-    "wof:parent_id":102079331,
+    "wof:parent_id":1729238511,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

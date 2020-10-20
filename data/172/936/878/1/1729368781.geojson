@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888362,
     "wof:geomhash":"4412e775db04eaf65665070f51a8d3ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368781,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729368781,
-    "wof:lastmodified":1602889672,
+    "wof:lastmodified":1603142380,
     "wof:name":"Whale Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

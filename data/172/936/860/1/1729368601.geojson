@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888284,
     "wof:geomhash":"f39c55f0b14f7a95bb83ac3e41e038e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368601,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729368601,
-    "wof:lastmodified":1602889652,
+    "wof:lastmodified":1603142292,
     "wof:name":"Te Okoriki Inlet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

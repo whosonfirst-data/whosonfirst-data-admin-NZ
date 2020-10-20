@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883031,
     "wof:geomhash":"9f94527997da0648ea877c178806977e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366561
+        }
+    ],
     "wof:id":1729366561,
-    "wof:lastmodified":1602889650,
+    "wof:lastmodified":1603141280,
     "wof:name":"Bream Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

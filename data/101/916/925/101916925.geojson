@@ -37,10 +37,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687211,
         102191583,
+        1729238519,
         85633345,
-        102079391,
-        85687211
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +54,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079391,
+            "localadmin_id":1729238519,
             "locality_id":101916925,
             "region_id":85687211
         }
@@ -66,9 +68,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803236,
+    "wof:lastmodified":1603148052,
     "wof:name":"Halfmoon Bay (Oban)",
-    "wof:parent_id":102079391,
+    "wof:parent_id":1729238519,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

@@ -25,12 +25,25 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1600724641,
     "wof:geomhash":"424f5c522bfb072e0349ba2df49b71e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "localadmin_id":1729238519,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729238519,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802999,
+    "wof:lastmodified":1603140089,
     "wof:name":"Stewart Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079391,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

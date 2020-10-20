@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888269,
     "wof:geomhash":"9e9171adf667c2ccff295e7b7ae2e05a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368565,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368565,
-    "wof:lastmodified":1602889651,
+    "wof:lastmodified":1603142275,
     "wof:name":"Tauwhara Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

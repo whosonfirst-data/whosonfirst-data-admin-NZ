@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079367
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101914361
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724657,
     "wof:geomhash":"90208a43b075266e6b03982bdbd59e4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "localadmin_id":1729238549,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729238549,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803008,
+    "wof:lastmodified":1603140341,
     "wof:name":"Rangiora",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079367,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -42,10 +42,11 @@
     "src:population":"geonames",
     "wd:wordcount":235,
     "wof:belongsto":[
+        85687219,
         102191583,
+        1729238579,
         85633345,
-        102079349,
-        85687219
+        102079349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,6 +67,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079349,
+            "localadmin_id":1729238579,
             "locality_id":101915845,
             "region_id":85687219
         }
@@ -79,9 +81,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803179,
+    "wof:lastmodified":1603147651,
     "wof:name":"Wakefield",
-    "wof:parent_id":102079349,
+    "wof:parent_id":1729238579,
     "wof:placetype":"locality",
     "wof:population":1663,
     "wof:population_rank":3,

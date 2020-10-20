@@ -150,7 +150,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687149,
+        102191583,
+        1729238617,
+        85633345,
+        102079257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644025,
@@ -160,7 +166,16 @@
     "wof:country":"NZ",
     "wof:created":1602621483,
     "wof:geomhash":"2245fe7f77c2c7a1e0f7396667f4abd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "localadmin_id":1729238617,
+            "locality_id":1729339145,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729339145,
     "wof:lang_x_official":[
         "eng",
@@ -170,9 +185,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804287,
+    "wof:lastmodified":1603144241,
     "wof:name":"Regent",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238617,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

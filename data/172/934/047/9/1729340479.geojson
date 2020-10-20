@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2742
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622041,
     "wof:geomhash":"73e61dd1b1b23d5c1d1debdc3c9bb4cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":1729340479,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729340479,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804190,
+    "wof:lastmodified":1603145306,
     "wof:name":"Rangiwaea",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079301,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

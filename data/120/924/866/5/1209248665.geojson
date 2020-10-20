@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687175,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"79785546d9b47c6040bfb0622e70255a",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209248665
+            "county_id":102079289,
+            "locality_id":1209248665,
+            "region_id":85687175
         }
     ],
     "wof:id":1209248665,
@@ -56,9 +62,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802982,
+    "wof:lastmodified":1603149453,
     "wof:name":"Te Pu",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

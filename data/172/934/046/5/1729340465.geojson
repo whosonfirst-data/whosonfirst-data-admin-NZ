@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":658
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622035,
     "wof:geomhash":"cf29ec3e069effef3b5e9e591472866f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729340465,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729340465,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804184,
+    "wof:lastmodified":1603145294,
     "wof:name":"Karaka",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

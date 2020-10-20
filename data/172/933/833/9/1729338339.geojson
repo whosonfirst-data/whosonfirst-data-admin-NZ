@@ -62,7 +62,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        1729238507,
+        85633345,
+        102079401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220342,
@@ -73,7 +79,16 @@
     "wof:country":"NZ",
     "wof:created":1602621148,
     "wof:geomhash":"2dbe181f6907b04b4d630e6cf2dae12c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "localadmin_id":1729238507,
+            "locality_id":1729338339,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729338339,
     "wof:lang_x_official":[
         "eng",
@@ -83,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804274,
+    "wof:lastmodified":1603143585,
     "wof:name":"Broomfield",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238507,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

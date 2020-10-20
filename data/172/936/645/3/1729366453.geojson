@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882985,
     "wof:geomhash":"2d01eb0086025a81bc7c9d2288ce9578",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366453
+        }
+    ],
     "wof:id":1729366453,
-    "wof:lastmodified":1602889646,
+    "wof:lastmodified":1603141221,
     "wof:name":"Spirits Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

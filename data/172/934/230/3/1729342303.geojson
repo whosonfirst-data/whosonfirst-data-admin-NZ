@@ -26,7 +26,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079289
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4770
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622832,
     "wof:geomhash":"0952e7ede696f566f7d7e57f38d8aeb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":1729342303,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729342303,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804236,
+    "wof:lastmodified":1603146509,
     "wof:name":"Otumutu Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079289,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -103,7 +103,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687185
+        85687185,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,6 +120,7 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
+            "county_id":102079353,
             "locality_id":1327467925,
             "region_id":85687185
         }
@@ -132,9 +134,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804140,
+    "wof:lastmodified":1603139361,
     "wof:name":"Saint Omer",
-    "wof:parent_id":85687185,
+    "wof:parent_id":102079353,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

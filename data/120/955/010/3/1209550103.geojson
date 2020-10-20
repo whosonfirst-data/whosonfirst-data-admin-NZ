@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687201,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +52,11 @@
     "wof:geomhash":"1e0edd7c0c1692e7681913211a5fc17c",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209550103
+            "county_id":102079385,
+            "locality_id":1209550103,
+            "region_id":85687201
         }
     ],
     "wof:id":1209550103,
@@ -62,9 +68,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802981,
+    "wof:lastmodified":1603149492,
     "wof:name":"Closeburn",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

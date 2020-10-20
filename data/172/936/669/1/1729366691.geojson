@@ -22,14 +22,28 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079391,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887513,
     "wof:geomhash":"12257c56ceda7b59e93be5184d60ad9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":-1,
+            "neighbourhood_id":1729366691,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729366691,
-    "wof:lastmodified":1602889650,
+    "wof:lastmodified":1603141347,
     "wof:name":"Heel Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

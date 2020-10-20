@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887837,
     "wof:geomhash":"a3d1eb7998a770e1d8e4b778f2d4d32b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367491,
+            "region_id":85687189
+        }
+    ],
     "wof:id":1729367491,
-    "wof:lastmodified":1602889657,
+    "wof:lastmodified":1603141747,
     "wof:name":"Happy Jacks Boat Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

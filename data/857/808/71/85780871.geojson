@@ -76,11 +76,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":60,
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403,
         101915169,
-        85687243
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +99,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
+            "localadmin_id":1729238453,
             "locality_id":101915169,
             "neighbourhood_id":85780871,
             "region_id":85687243
@@ -112,7 +114,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802951,
+    "wof:lastmodified":1603200732,
     "wof:name":"Dannemora",
     "wof:parent_id":101915169,
     "wof:placetype":"neighbourhood",

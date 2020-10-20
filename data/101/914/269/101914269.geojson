@@ -269,10 +269,7 @@
     "wd:longitude":170.5,
     "wd:wordcount":8479,
     "wof:belongsto":[
-        102191583,
-        85633345,
-        102079387,
-        85687201
+        1729238495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -285,11 +282,10 @@
     "wof:geomhash":"60eeec15cd0b40051f635137af149531",
     "wof:hierarchy":[
         {
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":102079387,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101914269,
-            "region_id":85687201
+            "region_id":-1
         }
     ],
     "wof:id":101914269,
@@ -301,9 +297,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803209,
+    "wof:lastmodified":1603135040,
     "wof:name":"Dunedin",
-    "wof:parent_id":102079387,
+    "wof:parent_id":1729238495,
     "wof:placetype":"locality",
     "wof:population":114347,
     "wof:population_rank":9,

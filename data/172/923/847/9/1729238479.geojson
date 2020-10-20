@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101915183
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724625,
     "wof:geomhash":"9850a907c2cf2d9c41980b5a7416b42a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "localadmin_id":1729238479,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729238479,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803006,
+    "wof:lastmodified":1603139877,
     "wof:name":"Hokitika",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079363,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

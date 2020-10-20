@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883006,
     "wof:geomhash":"0e4c007b3ff4860dba5826aae202176d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366501
+        }
+    ],
     "wof:id":1729366501,
-    "wof:lastmodified":1602889654,
+    "wof:lastmodified":1603141247,
     "wof:name":"Mercury Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

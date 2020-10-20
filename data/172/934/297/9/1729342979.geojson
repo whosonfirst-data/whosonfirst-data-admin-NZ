@@ -25,12 +25,23 @@
     "nz-linz:name":"Three Steeples",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623105,
     "wof:geomhash":"a80b00ab076d5958d92392f4ee432059",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342979,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729342979,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +51,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804237,
+    "wof:lastmodified":1603146907,
     "wof:name":"Three Steeples",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687165,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

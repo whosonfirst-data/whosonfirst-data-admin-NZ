@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        85687243,
+        102191583,
+        1729238453,
+        85633345,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"1162b38cb9095efeb7dc8386ab5457e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209140099
+            "county_id":102079403,
+            "localadmin_id":1729238453,
+            "locality_id":1209140099,
+            "region_id":85687243
         }
     ],
     "wof:id":1209140099,
@@ -56,9 +64,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802983,
+    "wof:lastmodified":1603149446,
     "wof:name":"Mahia Park",
-    "wof:parent_id":85633345,
+    "wof:parent_id":1729238453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

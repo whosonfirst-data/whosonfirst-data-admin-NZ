@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":508
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621549,
     "wof:geomhash":"d0fcba270a524bfa2925ef95bb5669ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":1729339303,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729339303,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804260,
+    "wof:lastmodified":1603144370,
     "wof:name":"Hautere",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079315,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

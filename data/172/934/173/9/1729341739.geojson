@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4298
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602622590,
     "wof:geomhash":"3c3af710990a41acf7634353d6d6a835",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341739,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729341739,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804199,
+    "wof:lastmodified":1603146183,
     "wof:name":"Fergusson Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687211,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

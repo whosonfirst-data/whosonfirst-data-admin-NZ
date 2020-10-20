@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888722,
     "wof:geomhash":"9638af0780ea2fb32f1693c256f6738d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369697,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369697,
-    "wof:lastmodified":1602889664,
+    "wof:lastmodified":1603142831,
     "wof:name":"Whalers Base",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

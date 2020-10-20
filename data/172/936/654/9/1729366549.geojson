@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883027,
     "wof:geomhash":"6baf933d22c73e446ac37e408fbd10cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366549
+        }
+    ],
     "wof:id":1729366549,
-    "wof:lastmodified":1602889681,
+    "wof:lastmodified":1603141274,
     "wof:name":"Cunaris Sound",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687229,
+        102191583,
+        1729238601,
+        85633345,
+        102079281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2442
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621306,
     "wof:geomhash":"82ecc1e023b4d266b571944024c0b994",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "localadmin_id":1729238601,
+            "locality_id":1729338727,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729338727,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804268,
+    "wof:lastmodified":1603143863,
     "wof:name":"Wairakei",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238601,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

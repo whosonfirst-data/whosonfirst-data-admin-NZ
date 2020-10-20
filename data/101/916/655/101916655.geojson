@@ -57,10 +57,11 @@
     "src:population":"geonames",
     "wd:wordcount":1178,
     "wof:belongsto":[
+        85687165,
         102191583,
+        1729238491,
         85633345,
-        102079361,
-        85687165
+        102079361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +84,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079361,
+            "localadmin_id":1729238491,
             "locality_id":101916655,
             "region_id":85687165
         }
@@ -96,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804382,
+    "wof:lastmodified":1603139927,
     "wof:name":"Blackball",
-    "wof:parent_id":102079361,
+    "wof:parent_id":1729238491,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":321,

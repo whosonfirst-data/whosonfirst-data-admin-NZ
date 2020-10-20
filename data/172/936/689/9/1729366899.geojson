@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887596,
     "wof:geomhash":"83fca397d9e942355504dd9ef8f1577d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366899,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729366899,
-    "wof:lastmodified":1602889646,
+    "wof:lastmodified":1603141449,
     "wof:name":"Rakaunui Inlet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238527,
+        85633345,
+        102079343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8770
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621054,
     "wof:geomhash":"a8955021f32fef1a87b7ab094850430a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
+            "localadmin_id":1729238527,
+            "locality_id":1729338113,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729338113,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804264,
+    "wof:lastmodified":1603143398,
     "wof:name":"Kuripuni",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238527,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4286
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602621843,
     "wof:geomhash":"16f7f0c1fcfabbe485f101a7bc890550",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729339987,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729339987,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804257,
+    "wof:lastmodified":1603144962,
     "wof:name":"Egg Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687175,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -49,10 +49,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238613,
         85633345,
-        102079263,
-        85687229
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,6 +76,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079263,
+            "localadmin_id":1729238613,
             "locality_id":101914469,
             "region_id":85687229
         }
@@ -88,9 +90,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804368,
+    "wof:lastmodified":1603140813,
     "wof:name":"Turua",
-    "wof:parent_id":102079263,
+    "wof:parent_id":1729238613,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888534,
     "wof:geomhash":"1f703e9f8a4cea807900a554e6c97904",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369213,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369213,
-    "wof:lastmodified":1602889686,
+    "wof:lastmodified":1603142597,
     "wof:name":"Leask Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

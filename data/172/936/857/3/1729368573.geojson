@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888272,
     "wof:geomhash":"1cafec69967a7dd2d64440176f822edc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368573,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729368573,
-    "wof:lastmodified":1602889649,
+    "wof:lastmodified":1603142278,
     "wof:name":"Te Haruhi Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

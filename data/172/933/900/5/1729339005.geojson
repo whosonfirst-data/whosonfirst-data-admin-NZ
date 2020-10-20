@@ -27,7 +27,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687175,
+        102191583,
+        1729238435,
+        85633345,
+        102079283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":1197
@@ -38,7 +44,16 @@
     "wof:country":"NZ",
     "wof:created":1602621428,
     "wof:geomhash":"64369a1f42d32bd148b5135015124e65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "localadmin_id":1729238435,
+            "locality_id":1729339005,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729339005,
     "wof:lang_x_official":[
         "eng",
@@ -48,9 +63,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805004,
+    "wof:lastmodified":1603144160,
     "wof:name":"Papamoa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238435,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

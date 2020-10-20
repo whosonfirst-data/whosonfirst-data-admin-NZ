@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101914705
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724607,
     "wof:geomhash":"dc421e5ef2cbf3cae7720b22514e0fd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "localadmin_id":1729238451,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729238451,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802987,
+    "wof:lastmodified":1603139717,
     "wof:name":"Ashburton",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079371,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

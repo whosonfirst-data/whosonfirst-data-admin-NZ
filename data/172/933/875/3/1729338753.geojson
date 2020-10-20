@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687165,
+        102191583,
+        1729238491,
+        85633345,
+        102079361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2148
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621317,
     "wof:geomhash":"2c9fa5f3ecf068f869e2cbce5e6f63b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "localadmin_id":1729238491,
+            "locality_id":1729338753,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729338753,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804269,
+    "wof:lastmodified":1603143899,
     "wof:name":"Dillmanstown",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238491,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

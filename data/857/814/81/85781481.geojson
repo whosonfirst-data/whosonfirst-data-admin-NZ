@@ -87,11 +87,12 @@
     "wd:longitude":1.1666,
     "wd:wordcount":256,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238495,
         85633345,
-        102079387,
-        101914269,
-        85687201
+        1729337771,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +110,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
-            "locality_id":101914269,
+            "localadmin_id":1729238495,
+            "locality_id":1729337771,
             "neighbourhood_id":85781481,
             "region_id":85687201
         }
@@ -123,9 +125,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802949,
+    "wof:lastmodified":1603200856,
     "wof:name":"Littlebourne",
-    "wof:parent_id":101914269,
+    "wof:parent_id":1729337771,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

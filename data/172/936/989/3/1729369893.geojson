@@ -22,14 +22,28 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        1108564573,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888798,
     "wof:geomhash":"186f6ba742222544296f8db54ad0d4bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":1108564573,
+            "locality_id":-1,
+            "neighbourhood_id":1729369893,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729369893,
-    "wof:lastmodified":1602889685,
+    "wof:lastmodified":1603142928,
     "wof:name":"Tasman Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

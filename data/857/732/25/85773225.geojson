@@ -79,11 +79,12 @@
     "src:population":"geonames",
     "wd:wordcount":4111,
     "wof:belongsto":[
+        85687189,
         102191583,
+        1729238511,
         85633345,
-        102079331,
-        101914679,
-        85687189
+        1729338659,
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +105,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079331,
-            "locality_id":101914679,
+            "localadmin_id":1729238511,
+            "locality_id":1729338659,
             "neighbourhood_id":85773225,
             "region_id":85687189
         }
@@ -118,9 +120,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802946,
+    "wof:lastmodified":1603200519,
     "wof:name":"Taradale",
-    "wof:parent_id":101914679,
+    "wof:parent_id":1729338659,
     "wof:placetype":"neighbourhood",
     "wof:population":16599,
     "wof:population_rank":6,

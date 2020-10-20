@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883038,
     "wof:geomhash":"6b27d46343248b43c01ef7dea53390d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366577
+        }
+    ],
     "wof:id":1729366577,
-    "wof:lastmodified":1602889653,
+    "wof:lastmodified":1603141288,
     "wof:name":"Bad Passage",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

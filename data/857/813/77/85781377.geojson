@@ -62,10 +62,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":122,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238583,
         85633345,
-        102079339,
-        85687233
+        1729338459,
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +86,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
-            "locality_id":-1,
+            "localadmin_id":1729238583,
+            "locality_id":1729338459,
             "neighbourhood_id":85781377,
             "region_id":85687233
         }
@@ -98,9 +101,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802949,
+    "wof:lastmodified":1603200836,
     "wof:name":"Horokiwi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338459,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

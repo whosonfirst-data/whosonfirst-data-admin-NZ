@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888280,
     "wof:geomhash":"2816c3a2ac09982e6f2993db34980901",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368593,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729368593,
-    "wof:lastmodified":1602889648,
+    "wof:lastmodified":1603142288,
     "wof:name":"Te Karo Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

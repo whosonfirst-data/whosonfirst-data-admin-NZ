@@ -25,12 +25,25 @@
     "nz-linz:name":"The Noises",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623100,
     "wof:geomhash":"1dee0c856022b8c9e6350598bc8ffddd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729342965,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729342965,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804234,
+    "wof:lastmodified":1603146898,
     "wof:name":"The Noises",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

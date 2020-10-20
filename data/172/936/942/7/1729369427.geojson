@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888617,
     "wof:geomhash":"fefd8634b15a6494cce5b01fe15ac66d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369427,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729369427,
-    "wof:lastmodified":1602889685,
+    "wof:lastmodified":1603142702,
     "wof:name":"Puriri Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

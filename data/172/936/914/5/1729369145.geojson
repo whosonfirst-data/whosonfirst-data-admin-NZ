@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888507,
     "wof:geomhash":"41f7872b32e9da8ddd4ac0cf883f2a74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369145,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729369145,
-    "wof:lastmodified":1602889660,
+    "wof:lastmodified":1603142563,
     "wof:name":"Haumai Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

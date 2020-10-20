@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101915339
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724661,
     "wof:geomhash":"1fc9847e18f5182151a319354c734a8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "localadmin_id":1729238561,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729238561,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803001,
+    "wof:lastmodified":1603140463,
     "wof:name":"Picton",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079353,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

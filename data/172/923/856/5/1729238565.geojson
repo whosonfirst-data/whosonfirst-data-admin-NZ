@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079385
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101914507
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724663,
     "wof:geomhash":"336c29a16cc9c57468715e235c2c97da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "localadmin_id":1729238565,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729238565,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803001,
+    "wof:lastmodified":1603140489,
     "wof:name":"Queenstown",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079385,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

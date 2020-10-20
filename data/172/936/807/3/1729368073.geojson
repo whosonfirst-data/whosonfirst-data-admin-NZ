@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888072,
     "wof:geomhash":"0f5c34b7594ec6aad33a4619dafed56f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368073,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729368073,
-    "wof:lastmodified":1602889675,
+    "wof:lastmodified":1603142041,
     "wof:name":"Ngahere Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

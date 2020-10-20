@@ -22,16 +22,24 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602883018,
     "wof:geomhash":"a636d05633fa00fed62475c98e740b47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "marinearea_id":1729366527
+        }
+    ],
     "wof:id":1729366527,
-    "wof:lastmodified":1602889675,
+    "wof:lastmodified":1603141263,
     "wof:name":"Halfmoon Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"marinearea",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

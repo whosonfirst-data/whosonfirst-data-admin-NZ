@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888486,
     "wof:geomhash":"38a787eb262f5a88dddf598bc616f2f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369095,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729369095,
-    "wof:lastmodified":1602889636,
+    "wof:lastmodified":1603142538,
     "wof:name":"Fitzgerald Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

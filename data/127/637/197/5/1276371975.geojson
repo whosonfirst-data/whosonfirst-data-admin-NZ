@@ -63,10 +63,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85687179,
         102191583,
+        1729238549,
         85633345,
-        102079367,
-        85687179
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +80,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079367,
+            "localadmin_id":1729238549,
             "locality_id":1276371975,
             "region_id":85687179
         }
@@ -92,9 +94,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802978,
+    "wof:lastmodified":1603149794,
     "wof:name":"Bells",
-    "wof:parent_id":102079367,
+    "wof:parent_id":1729238549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

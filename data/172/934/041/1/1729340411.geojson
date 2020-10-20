@@ -26,7 +26,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687215,
+        1108564567
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8677
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622012,
     "wof:geomhash":"1a98e1596dbfcd9ea263ae838a389ddc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":1108564567,
+            "locality_id":1729340411,
+            "region_id":85687215
+        }
+    ],
     "wof:id":1729340411,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804184,
+    "wof:lastmodified":1603190920,
     "wof:name":"Pitt Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108564567,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888053,
     "wof:geomhash":"4704bb1c448c6b29ee1ab298a1eb8591",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368029,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729368029,
-    "wof:lastmodified":1602889653,
+    "wof:lastmodified":1603142019,
     "wof:name":"McPhee Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

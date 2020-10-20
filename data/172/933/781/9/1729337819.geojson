@@ -50,7 +50,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687165,
+        102191583,
+        1729238491,
+        85633345,
+        102079361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28644583,
@@ -59,7 +65,16 @@
     "wof:country":"NZ",
     "wof:created":1602620928,
     "wof:geomhash":"87db5ece7833a0cf78f3abdae9f91395",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "localadmin_id":1729238491,
+            "locality_id":1729337819,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729337819,
     "wof:lang_x_official":[
         "eng",
@@ -69,9 +84,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804312,
+    "wof:lastmodified":1603143147,
     "wof:name":"Karoro",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238491,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

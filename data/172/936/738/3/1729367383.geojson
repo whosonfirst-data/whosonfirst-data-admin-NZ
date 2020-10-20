@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887792,
     "wof:geomhash":"782d2a5fe2c0f9bf51354e5ab56a7328",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367383,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729367383,
-    "wof:lastmodified":1602889642,
+    "wof:lastmodified":1603141693,
     "wof:name":"Anita Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

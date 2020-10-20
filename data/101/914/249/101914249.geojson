@@ -77,10 +77,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238523,
         85633345,
-        102079321,
-        85687175
+        102079321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,6 +105,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079321,
+            "localadmin_id":1729238523,
             "locality_id":101914249,
             "region_id":85687175
         }
@@ -117,9 +119,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805019,
+    "wof:lastmodified":1603140132,
     "wof:name":"Opotiki",
-    "wof:parent_id":102079321,
+    "wof:parent_id":1729238523,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

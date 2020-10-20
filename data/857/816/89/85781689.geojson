@@ -91,11 +91,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":195,
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238555,
         85633345,
-        102079403,
-        101914559,
-        85687243
+        1729338189,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +117,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":101914559,
+            "localadmin_id":1729238555,
+            "locality_id":1729338189,
             "neighbourhood_id":85781689,
             "region_id":85687243
         }
@@ -130,9 +132,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802941,
+    "wof:lastmodified":1603200894,
     "wof:name":"Manly",
-    "wof:parent_id":101914559,
+    "wof:parent_id":1729338189,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

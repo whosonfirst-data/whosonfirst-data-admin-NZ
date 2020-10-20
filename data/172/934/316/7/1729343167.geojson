@@ -27,7 +27,12 @@
     "nz-linz:type":"PARK_RESERVE",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4005
@@ -35,7 +40,15 @@
     "wof:country":"NZ",
     "wof:created":1602623189,
     "wof:geomhash":"7cf0ea4c6c872cb4926262b5324400bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":1729343167,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729343167,
     "wof:lang_x_official":[
         "eng",
@@ -45,9 +58,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804244,
+    "wof:lastmodified":1603140897,
     "wof:name":"Kaimanawa Forest Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079301,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "campus"

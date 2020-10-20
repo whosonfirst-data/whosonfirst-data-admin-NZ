@@ -32,7 +32,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        1729238507,
+        85633345,
+        102079401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6220901,
@@ -43,7 +49,16 @@
     "wof:country":"NZ",
     "wof:created":1602621052,
     "wof:geomhash":"8638bc70e8b38ca8113b26eed3994414",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "localadmin_id":1729238507,
+            "locality_id":1729338105,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729338105,
     "wof:lang_x_official":[
         "eng",
@@ -53,9 +68,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804267,
+    "wof:lastmodified":1603143390,
     "wof:name":"Hillmorton",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238507,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

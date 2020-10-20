@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687195,
+        102079293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":127
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621509,
     "wof:geomhash":"5dedf681195f78bee8d124ff3b1a18b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079293,
+            "locality_id":1729339205,
+            "region_id":85687195
+        }
+    ],
     "wof:id":1729339205,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804312,
+    "wof:lastmodified":1603144291,
     "wof:name":"Bird Road",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079293,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

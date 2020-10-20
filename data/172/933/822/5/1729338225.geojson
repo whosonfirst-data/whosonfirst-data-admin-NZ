@@ -52,7 +52,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687189,
+        102191583,
+        1729238473,
+        85633345,
+        102079329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6246622,
@@ -63,7 +69,16 @@
     "wof:country":"NZ",
     "wof:created":1602621100,
     "wof:geomhash":"321f61033c89f7a67632f742cf9a20ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "localadmin_id":1729238473,
+            "locality_id":1729338225,
+            "region_id":85687189
+        }
+    ],
     "wof:id":1729338225,
     "wof:lang_x_official":[
         "eng",
@@ -73,9 +88,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804304,
+    "wof:lastmodified":1603143488,
     "wof:name":"Parkvale",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238473,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

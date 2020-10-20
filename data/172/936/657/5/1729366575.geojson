@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883037,
     "wof:geomhash":"76635dafb94b4368037915eeddfdc511",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366575
+        }
+    ],
     "wof:id":1729366575,
-    "wof:lastmodified":1602889653,
+    "wof:lastmodified":1603141287,
     "wof:name":"Admiralty Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

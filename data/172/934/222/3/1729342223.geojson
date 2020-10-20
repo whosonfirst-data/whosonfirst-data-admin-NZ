@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4725
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602622800,
     "wof:geomhash":"533f8b9b19fcf6d5e057c0d48f5de10b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342223,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729342223,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804230,
+    "wof:lastmodified":1603146462,
     "wof:name":"Ngatokakairiri Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687229,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

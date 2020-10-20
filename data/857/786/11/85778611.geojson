@@ -114,11 +114,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":159,
     "wof:belongsto":[
+        85687179,
         102191583,
+        1729238507,
         85633345,
-        102079401,
-        101914521,
-        85687179
+        1729338177,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,7 +138,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079401,
-            "locality_id":101914521,
+            "localadmin_id":1729238507,
+            "locality_id":1729338177,
             "neighbourhood_id":85778611,
             "region_id":85687179
         }
@@ -151,9 +153,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802952,
+    "wof:lastmodified":1603200638,
     "wof:name":"Shirley",
-    "wof:parent_id":101914521,
+    "wof:parent_id":1729338177,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

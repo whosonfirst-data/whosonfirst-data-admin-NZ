@@ -63,7 +63,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687229,
+        102191583,
+        1729238493,
+        85633345,
+        102079271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28643841,
@@ -73,7 +79,16 @@
     "wof:country":"NZ",
     "wof:created":1602621108,
     "wof:geomhash":"30ed8c86fe7795b8b2aee81f02e07df3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "localadmin_id":1729238493,
+            "locality_id":1729338243,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729338243,
     "wof:lang_x_official":[
         "eng",
@@ -83,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804299,
+    "wof:lastmodified":1603143511,
     "wof:name":"Glenview",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238493,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

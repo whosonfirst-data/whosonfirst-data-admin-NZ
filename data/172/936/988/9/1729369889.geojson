@@ -22,14 +22,28 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        1108564573,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888796,
     "wof:geomhash":"020a334e556da7a2bd0b291c2ea9fa9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":1108564573,
+            "locality_id":-1,
+            "neighbourhood_id":1729369889,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729369889,
-    "wof:lastmodified":1602889688,
+    "wof:lastmodified":1603142926,
     "wof:name":"South East Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

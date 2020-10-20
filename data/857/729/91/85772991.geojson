@@ -70,11 +70,12 @@
     "src:population":"geonames",
     "wd:wordcount":825,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238583,
         85633345,
-        102079339,
-        101914285,
-        85687233
+        1729339019,
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +95,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
-            "locality_id":101914285,
+            "localadmin_id":1729238583,
+            "locality_id":1729339019,
             "neighbourhood_id":85772991,
             "region_id":85687233
         }
@@ -108,9 +110,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802954,
+    "wof:lastmodified":1603200470,
     "wof:name":"Kelburn",
-    "wof:parent_id":101914285,
+    "wof:parent_id":1729339019,
     "wof:placetype":"neighbourhood",
     "wof:population":3642,
     "wof:population_rank":4,

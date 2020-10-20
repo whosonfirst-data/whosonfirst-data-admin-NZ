@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882975,
     "wof:geomhash":"ace3b6e682d2bc31b62edf4f83626bb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366429
+        }
+    ],
     "wof:id":1729366429,
-    "wof:lastmodified":1602889646,
+    "wof:lastmodified":1603141208,
     "wof:name":"Whangaroa Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

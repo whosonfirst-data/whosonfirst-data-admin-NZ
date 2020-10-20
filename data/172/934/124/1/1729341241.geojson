@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":1998
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622356,
     "wof:geomhash":"937f2fd8b3287541364e999f1986e1cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":1729341241,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729341241,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804244,
+    "wof:lastmodified":1603145850,
     "wof:name":"Rotokawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079281,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

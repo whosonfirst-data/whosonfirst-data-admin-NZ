@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887907,
     "wof:geomhash":"5e2112a8a593525affe71cb4b06fedbf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367659,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729367659,
-    "wof:lastmodified":1602889640,
+    "wof:lastmodified":1603141835,
     "wof:name":"Garden Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -63,10 +63,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238601,
         85633345,
-        102079281,
-        85687229
+        1729338083,
+        102079281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +87,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079281,
-            "locality_id":-1,
+            "localadmin_id":1729238601,
+            "locality_id":1729338083,
             "neighbourhood_id":85781797,
             "region_id":85687229
         }
@@ -99,9 +102,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802943,
+    "wof:lastmodified":1603200917,
     "wof:name":"Nukuhau",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338083,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

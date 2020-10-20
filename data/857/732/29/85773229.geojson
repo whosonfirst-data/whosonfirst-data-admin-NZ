@@ -63,6 +63,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        1310136319,
         102079257,
         85687149
     ],
@@ -82,7 +83,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
-            "locality_id":-1,
+            "locality_id":1310136319,
             "neighbourhood_id":85773229,
             "region_id":85687149
         }
@@ -96,9 +97,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802946,
+    "wof:lastmodified":1603200520,
     "wof:name":"Taurikura",
-    "wof:parent_id":-1,
+    "wof:parent_id":1310136319,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

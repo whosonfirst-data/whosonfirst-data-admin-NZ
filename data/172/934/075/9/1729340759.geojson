@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2691
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622156,
     "wof:geomhash":"f8e4d659a211bce33ef6aaf723253a48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1729340759,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729340759,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804226,
+    "wof:lastmodified":1603145512,
     "wof:name":"Kuaotunu West",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079261,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

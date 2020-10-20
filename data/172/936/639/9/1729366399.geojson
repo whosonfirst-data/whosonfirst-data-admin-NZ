@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882959,
     "wof:geomhash":"0d3a05e96c3e874dfa9e7ed262ef8861",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366399
+        }
+    ],
     "wof:id":1729366399,
-    "wof:lastmodified":1602889677,
+    "wof:lastmodified":1603141183,
     "wof:name":"Waitata Reach",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

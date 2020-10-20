@@ -58,7 +58,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687165,
+        102191583,
+        1729238491,
+        85633345,
+        102079361
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6212558,
@@ -71,7 +77,16 @@
     "wof:country":"NZ",
     "wof:created":1602620886,
     "wof:geomhash":"57b441646999bbb527c83b4498617b17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "localadmin_id":1729238491,
+            "locality_id":1729337721,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729337721,
     "wof:lang_x_official":[
         "eng",
@@ -81,9 +96,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804314,
+    "wof:lastmodified":1603143064,
     "wof:name":"Blaketown",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238491,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

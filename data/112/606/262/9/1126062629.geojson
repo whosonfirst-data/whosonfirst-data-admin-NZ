@@ -48,10 +48,12 @@
     "woe:name_adm1":"Northland",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687149,
         102191583,
+        1729238617,
         85633345,
-        102079257,
-        85687149
+        1729338859,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +69,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
-            "locality_id":-1,
+            "localadmin_id":1729238617,
+            "locality_id":1729338859,
             "neighbourhood_id":1126062629,
             "region_id":85687149
         }
@@ -81,9 +84,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803318,
+    "wof:lastmodified":1603175079,
     "wof:name":"Kioreroa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338859,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

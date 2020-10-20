@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887896,
     "wof:geomhash":"7ea7e2694a330e1a36f49b66b6dea48c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367633,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729367633,
-    "wof:lastmodified":1602889637,
+    "wof:lastmodified":1603141821,
     "wof:name":"Freemans Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

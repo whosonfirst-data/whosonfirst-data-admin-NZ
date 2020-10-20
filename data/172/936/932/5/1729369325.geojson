@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888576,
     "wof:geomhash":"9b9c02a8ef8a041218c4114f81f785ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369325,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729369325,
-    "wof:lastmodified":1602889662,
+    "wof:lastmodified":1603142652,
     "wof:name":"Ohana Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

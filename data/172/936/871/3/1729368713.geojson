@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888335,
     "wof:geomhash":"ea42017d8ad6e0f0ff351ad93f4007fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368713,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729368713,
-    "wof:lastmodified":1602889671,
+    "wof:lastmodified":1603142346,
     "wof:name":"Two Thumb Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

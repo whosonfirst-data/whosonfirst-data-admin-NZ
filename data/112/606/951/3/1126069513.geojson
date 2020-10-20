@@ -91,10 +91,12 @@
     "woe:name_adm1":"Otago",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238495,
         85633345,
-        102079387,
-        85687201
+        1310334927,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +112,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
-            "locality_id":-1,
+            "localadmin_id":1729238495,
+            "locality_id":1310334927,
             "neighbourhood_id":1126069513,
             "region_id":85687201
         }
@@ -124,9 +127,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803318,
+    "wof:lastmodified":1603175106,
     "wof:name":"Abbotsford",
-    "wof:parent_id":-1,
+    "wof:parent_id":1310334927,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

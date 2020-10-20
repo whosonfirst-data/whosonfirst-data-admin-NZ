@@ -42,10 +42,11 @@
     "src:population":"geonames",
     "wd:wordcount":4464,
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238581,
         85633345,
-        102079299,
-        85687251
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079299,
+            "localadmin_id":1729238581,
             "locality_id":101915827,
             "region_id":85687251
         }
@@ -75,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803178,
+    "wof:lastmodified":1603147647,
     "wof:name":"Wanganui",
-    "wof:parent_id":102079299,
+    "wof:parent_id":1729238581,
     "wof:placetype":"locality",
     "wof:population":40268,
     "wof:population_rank":7,

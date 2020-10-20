@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888415,
     "wof:geomhash":"1456157f5b2ce735468377d262604dc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368915,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729368915,
-    "wof:lastmodified":1602889677,
+    "wof:lastmodified":1603142448,
     "wof:name":"Woodpecker Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

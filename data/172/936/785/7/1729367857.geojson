@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887984,
     "wof:geomhash":"534742e9e268121cbdc25f22cf27a2e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367857,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729367857,
-    "wof:lastmodified":1602889656,
+    "wof:lastmodified":1603141934,
     "wof:name":"Motueka Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

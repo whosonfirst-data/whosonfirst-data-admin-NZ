@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883036,
     "wof:geomhash":"32a6b4033c69779d38d914adcd6b2c3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366573
+        }
+    ],
     "wof:id":1729366573,
-    "wof:lastmodified":1602889653,
+    "wof:lastmodified":1603141286,
     "wof:name":"Ahipara Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

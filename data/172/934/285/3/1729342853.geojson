@@ -25,12 +25,25 @@
     "nz-linz:name":"Chetwode Islands",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623054,
     "wof:geomhash":"18412bc719227cad1021daec3f5fc5ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":1729342853,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729342853,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804229,
+    "wof:lastmodified":1603146834,
     "wof:name":"Chetwode Islands",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

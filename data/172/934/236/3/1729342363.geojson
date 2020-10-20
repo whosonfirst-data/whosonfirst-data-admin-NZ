@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4802
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602622856,
     "wof:geomhash":"11e134b7a207b586666d1d176c6ac3f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342363,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729342363,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804231,
+    "wof:lastmodified":1603146542,
     "wof:name":"Philip Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687149,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

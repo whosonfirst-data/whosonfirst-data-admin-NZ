@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887749,
     "wof:geomhash":"33135cc697e583616ea4e6cc55e84337",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367283,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729367283,
-    "wof:lastmodified":1602889685,
+    "wof:lastmodified":1603141644,
     "wof:name":"The Basin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

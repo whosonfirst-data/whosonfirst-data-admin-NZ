@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887829,
     "wof:geomhash":"fd6b55dbff9458d919d0bcaa887e27fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367471,
+            "region_id":85687185
+        }
+    ],
     "wof:id":1729367471,
-    "wof:lastmodified":1602889656,
+    "wof:lastmodified":1603141737,
     "wof:name":"Camp Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

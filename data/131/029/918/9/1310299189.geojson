@@ -32,7 +32,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        136253053,
+        102191583,
+        85633345,
         85687215
     ],
     "wof:breaches":[],
@@ -43,9 +44,8 @@
     "wof:geomhash":"48eafb700d70d1f4d907627f59f14725",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "empire_id":136253053,
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":1310299189,
             "region_id":85687215
         }
@@ -59,7 +59,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803169,
+    "wof:lastmodified":1603197826,
     "wof:name":"Tupuangi",
     "wof:parent_id":85687215,
     "wof:placetype":"locality",

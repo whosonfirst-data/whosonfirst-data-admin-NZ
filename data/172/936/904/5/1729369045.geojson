@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888466,
     "wof:geomhash":"96a4d2c6030c598397f2f3c86e7e604c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369045,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369045,
-    "wof:lastmodified":1602889663,
+    "wof:lastmodified":1603142514,
     "wof:name":"Christmas Village Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

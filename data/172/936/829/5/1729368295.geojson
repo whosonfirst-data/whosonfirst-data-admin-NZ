@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888163,
     "wof:geomhash":"1b11bc4a30ec735886393be7fe4476a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368295,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368295,
-    "wof:lastmodified":1602889643,
+    "wof:lastmodified":1603142146,
     "wof:name":"Parorenui Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

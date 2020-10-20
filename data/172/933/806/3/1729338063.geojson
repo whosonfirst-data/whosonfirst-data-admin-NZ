@@ -52,7 +52,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        1729238453,
+        85633345,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6232153,
@@ -65,7 +71,16 @@
     "wof:country":"NZ",
     "wof:created":1602621033,
     "wof:geomhash":"4bf11941bab837a766c49d74c4588189",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "localadmin_id":1729238453,
+            "locality_id":1729338063,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729338063,
     "wof:lang_x_official":[
         "eng",
@@ -75,9 +90,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804308,
+    "wof:lastmodified":1603143328,
     "wof:name":"Hauraki",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238453,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

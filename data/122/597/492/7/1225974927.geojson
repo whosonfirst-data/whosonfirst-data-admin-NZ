@@ -34,10 +34,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191583,
-        85633345,
-        102079391,
-        85687211
+        1729238519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +44,10 @@
     "wof:geomhash":"233d75f939af31919292578f0acecb32",
     "wof:hierarchy":[
         {
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":102079391,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1225974927,
-            "region_id":85687211
+            "region_id":-1
         }
     ],
     "wof:id":1225974927,
@@ -63,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803357,
+    "wof:lastmodified":1603138489,
     "wof:name":"Halfmoon Bay",
-    "wof:parent_id":102079391,
+    "wof:parent_id":1729238519,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

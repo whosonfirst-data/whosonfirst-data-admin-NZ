@@ -369,10 +369,7 @@
     "wd:population":362000,
     "wd:wordcount":8478,
     "wof:belongsto":[
-        102191583,
-        85633345,
-        102079401,
-        85687179
+        1729238507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -386,11 +383,10 @@
     "wof:geomhash":"99a94ed89a70988cd1b7d9ac15401df1",
     "wof:hierarchy":[
         {
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":102079401,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101914521,
-            "region_id":85687179
+            "region_id":-1
         }
     ],
     "wof:id":101914521,
@@ -402,10 +398,10 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803210,
+    "wof:lastmodified":1603135073,
     "wof:megacity":0,
     "wof:name":"Christchurch",
-    "wof:parent_id":102079401,
+    "wof:parent_id":1729238507,
     "wof:placetype":"locality",
     "wof:population":362000,
     "wof:population_rank":10,

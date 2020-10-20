@@ -77,10 +77,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":110,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238495,
         85633345,
-        102079387,
-        85687201
+        1729338529,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +101,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
-            "locality_id":-1,
+            "localadmin_id":1729238495,
+            "locality_id":1729338529,
             "neighbourhood_id":85778495,
             "region_id":85687201
         }
@@ -113,9 +116,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802945,
+    "wof:lastmodified":1603200614,
     "wof:name":"Normanby",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338529,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

@@ -107,6 +107,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        101914379,
         102079403,
         85687243
     ],
@@ -124,7 +125,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "locality_id":101914379,
             "neighbourhood_id":1126082111,
             "region_id":85687243
         }
@@ -138,9 +139,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803316,
+    "wof:lastmodified":1603175166,
     "wof:name":"Helvetia",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914379,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -29,7 +29,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687195,
+        102191583,
+        1729238515,
+        85633345,
+        102079311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6222895,
@@ -40,7 +46,16 @@
     "wof:country":"NZ",
     "wof:created":1602621301,
     "wof:geomhash":"88987cef871b1be2595f1a89fdbeb9d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "localadmin_id":1729238515,
+            "locality_id":1729338713,
+            "region_id":85687195
+        }
+    ],
     "wof:id":1729338713,
     "wof:lang_x_official":[
         "eng",
@@ -50,9 +65,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804301,
+    "wof:lastmodified":1603143851,
     "wof:name":"Hurdon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238515,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

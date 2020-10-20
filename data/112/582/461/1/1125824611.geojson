@@ -59,10 +59,11 @@
     "woe:name_adm1":"Canterbury",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85687179,
         102191583,
+        1729238507,
         85633345,
-        102079401,
-        85687179
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,6 +83,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079401,
+            "localadmin_id":1729238507,
             "locality_id":1125824611,
             "region_id":85687179
         }
@@ -95,9 +97,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804431,
+    "wof:lastmodified":1603137365,
     "wof:name":"Yaldhurst",
-    "wof:parent_id":102079401,
+    "wof:parent_id":1729238507,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

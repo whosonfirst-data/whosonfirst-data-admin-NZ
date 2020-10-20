@@ -47,10 +47,11 @@
     "wd:longitude":170.5,
     "wd:wordcount":8479,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238495,
         85633345,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,6 +71,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
+            "localadmin_id":1729238495,
             "locality_id":101915519,
             "region_id":85687201
         }
@@ -83,9 +85,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803184,
+    "wof:lastmodified":1603147516,
     "wof:name":"Dunedin",
-    "wof:parent_id":102079387,
+    "wof:parent_id":1729238495,
     "wof:placetype":"locality",
     "wof:population":114347,
     "wof:population_rank":9,

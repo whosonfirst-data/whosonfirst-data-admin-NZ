@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888502,
     "wof:geomhash":"dc4cd145f37bbaeb21a47d3f8a194eef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369131,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729369131,
-    "wof:lastmodified":1602889660,
+    "wof:lastmodified":1603142556,
     "wof:name":"Garden Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

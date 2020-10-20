@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888419,
     "wof:geomhash":"f712a87f482c3693e3ccfea73aa7e366",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368925,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729368925,
-    "wof:lastmodified":1602889648,
+    "wof:lastmodified":1603142453,
     "wof:name":"Abrahams Bosom",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -52,7 +52,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687175,
+        102191583,
+        1729238557,
+        85633345,
+        102079289
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6241223,
@@ -63,7 +69,16 @@
     "wof:country":"NZ",
     "wof:created":1602621386,
     "wof:geomhash":"a1e2d0a8baf8557e6c085dd9684e0791",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "localadmin_id":1729238557,
+            "locality_id":1729338923,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729338923,
     "wof:lang_x_official":[
         "eng",
@@ -73,9 +88,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804270,
+    "wof:lastmodified":1603144095,
     "wof:name":"Hannahs Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238557,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

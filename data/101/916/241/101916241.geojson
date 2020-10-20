@@ -61,10 +61,11 @@
     "src:population":"geonames",
     "wd:wordcount":349,
     "wof:belongsto":[
+        85687179,
         102191583,
+        1729238431,
         85633345,
-        102079369,
-        85687179
+        102079369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +91,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079369,
+            "localadmin_id":1729238431,
             "locality_id":101916241,
             "region_id":85687179
         }
@@ -103,9 +105,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602805023,
+    "wof:lastmodified":1603139574,
     "wof:name":"Burnham",
-    "wof:parent_id":102079369,
+    "wof:parent_id":1729238431,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:population":1239,

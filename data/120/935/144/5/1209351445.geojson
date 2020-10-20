@@ -60,7 +60,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687179,
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,8 +73,11 @@
     "wof:geomhash":"567959a1e4c6a3d444f6ea28621e2473",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209351445
+            "county_id":102079367,
+            "locality_id":1209351445,
+            "region_id":85687179
         }
     ],
     "wof:id":1209351445,
@@ -83,9 +89,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802984,
+    "wof:lastmodified":1603149472,
     "wof:name":"Wetheral",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

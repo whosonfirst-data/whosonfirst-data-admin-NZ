@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887882,
     "wof:geomhash":"96a3421f3a6fcf34d2fd7cd236d0fd88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367597,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729367597,
-    "wof:lastmodified":1602889666,
+    "wof:lastmodified":1603141802,
     "wof:name":"Doctor Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

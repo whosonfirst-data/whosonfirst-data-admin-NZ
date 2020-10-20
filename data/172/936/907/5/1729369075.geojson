@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888478,
     "wof:geomhash":"91c5ee3aee20fb455194ed5a817308ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369075,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729369075,
-    "wof:lastmodified":1602889637,
+    "wof:lastmodified":1603142529,
     "wof:name":"Cooks Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

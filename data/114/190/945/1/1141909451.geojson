@@ -164,9 +164,10 @@
     "reversegeo:longitude":-176.369579,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        1108564567,
-        136253053,
-        85687215
+        102191583,
+        85633345,
+        85687215,
+        1108564567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -177,10 +178,9 @@
     "wof:geomhash":"efdfa750d00846674b5eca4e5f211186",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
             "county_id":1108564567,
-            "empire_id":136253053,
             "locality_id":1141909451,
             "region_id":85687215
         }
@@ -194,7 +194,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803360,
+    "wof:lastmodified":1603189533,
     "wof:name":"Waitangi",
     "wof:parent_id":1108564567,
     "wof:placetype":"locality",

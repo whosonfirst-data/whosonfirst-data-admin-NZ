@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888633,
     "wof:geomhash":"eb14c75b9883cb991f4d2f92364b9b0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369469,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729369469,
-    "wof:lastmodified":1602889655,
+    "wof:lastmodified":1603142721,
     "wof:name":"Rocklily Inlet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

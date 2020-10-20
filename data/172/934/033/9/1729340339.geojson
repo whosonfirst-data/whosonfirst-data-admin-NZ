@@ -25,12 +25,25 @@
     "nz-linz:name":"Breaksea Islands",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602621984,
     "wof:geomhash":"8d34ce1ac4f940e3467a68817867bdad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729340339,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729340339,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804236,
+    "wof:lastmodified":1603145199,
     "wof:name":"Breaksea Islands",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

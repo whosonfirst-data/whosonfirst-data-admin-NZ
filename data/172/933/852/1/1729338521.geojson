@@ -75,7 +75,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238583,
+        85633345,
+        102079339
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6244819,
@@ -88,7 +94,16 @@
     "wof:country":"NZ",
     "wof:created":1602621223,
     "wof:geomhash":"6a6bd0b6279054523bdd6c969d28d926",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "localadmin_id":1729238583,
+            "locality_id":1729338521,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729338521,
     "wof:lang_x_official":[
         "eng",
@@ -98,9 +113,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804310,
+    "wof:lastmodified":1603143732,
     "wof:name":"Mount Victoria",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238583,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

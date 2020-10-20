@@ -26,7 +26,13 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687211,
+        102191583,
+        1729238519,
+        85633345,
+        102079391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":6525
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621369,
     "wof:geomhash":"0c05cdd9c452749e5db1e26e3de6af0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "localadmin_id":1729238519,
+            "locality_id":1729338879,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729338879,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804265,
+    "wof:lastmodified":1603144060,
     "wof:name":"Stewart Island / Rakiura",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238519,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

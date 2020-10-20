@@ -56,10 +56,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238601,
         85633345,
-        102079281,
-        85687229
+        102079281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +79,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079281,
+            "localadmin_id":1729238601,
             "locality_id":101916539,
             "region_id":85687229
         }
@@ -91,9 +93,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803237,
+    "wof:lastmodified":1603147858,
     "wof:name":"Wairakei Village",
-    "wof:parent_id":102079281,
+    "wof:parent_id":1729238601,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

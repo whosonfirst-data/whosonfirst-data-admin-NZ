@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":825
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622161,
     "wof:geomhash":"9dd41bb07cd889e93b2f006f1eef2452",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079279,
+            "locality_id":1729340771,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729340771,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804185,
+    "wof:lastmodified":1603145521,
     "wof:name":"Mangaokewa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079279,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

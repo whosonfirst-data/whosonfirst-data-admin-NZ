@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888112,
     "wof:geomhash":"65b28cd7b51ba3f621215d6a91f37740",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368173,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368173,
-    "wof:lastmodified":1602889646,
+    "wof:lastmodified":1603142089,
     "wof:name":"Omakiwi Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

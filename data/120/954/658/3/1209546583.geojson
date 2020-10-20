@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687195,
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"04e66e9675587fd835fb244f31481c63",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209546583
+            "county_id":102079295,
+            "locality_id":1209546583,
+            "region_id":85687195
         }
     ],
     "wof:id":1209546583,
@@ -56,9 +62,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802979,
+    "wof:lastmodified":1603149485,
     "wof:name":"Orangimea",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

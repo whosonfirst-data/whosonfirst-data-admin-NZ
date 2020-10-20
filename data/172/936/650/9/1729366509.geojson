@@ -22,16 +22,24 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602883010,
     "wof:geomhash":"62b1dcf04b39c4d294c0b3206977ecc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "marinearea_id":1729366509
+        }
+    ],
     "wof:id":1729366509,
-    "wof:lastmodified":1602889654,
+    "wof:lastmodified":1603141252,
     "wof:name":"Lyttelton Harbour",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"marinearea",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

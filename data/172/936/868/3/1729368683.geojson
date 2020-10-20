@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888323,
     "wof:geomhash":"6800c3f7ae042dce51a9bd0c125cb0ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368683,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368683,
-    "wof:lastmodified":1602889649,
+    "wof:lastmodified":1603142332,
     "wof:name":"Touwai Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

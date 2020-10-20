@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238465,
+        85633345,
+        102079315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":1043
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621210,
     "wof:geomhash":"847bf0f168981e3f3fd20d0898598386",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "localadmin_id":1729238465,
+            "locality_id":1729338493,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729338493,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804301,
+    "wof:lastmodified":1603143716,
     "wof:name":"Nikau Valley",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238465,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

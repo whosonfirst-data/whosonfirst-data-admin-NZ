@@ -35,7 +35,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        1729238593,
+        85633345,
+        102079373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6214596,
@@ -46,7 +52,16 @@
     "wof:country":"NZ",
     "wof:created":1602621195,
     "wof:geomhash":"ce43021da9f02c3d251a701eb9aa40cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "localadmin_id":1729238593,
+            "locality_id":1729338455,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729338455,
     "wof:lang_x_official":[
         "eng",
@@ -56,9 +71,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804264,
+    "wof:lastmodified":1603143696,
     "wof:name":"Highfield",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238593,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

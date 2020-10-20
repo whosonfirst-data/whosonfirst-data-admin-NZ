@@ -41,7 +41,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687211,
+        102191583,
+        1729238483,
+        85633345,
+        102079397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6205083,
@@ -52,7 +58,16 @@
     "wof:country":"NZ",
     "wof:created":1602621183,
     "wof:geomhash":"d458d4dcecce24cd370eca0627823ee1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "localadmin_id":1729238483,
+            "locality_id":1729338427,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729338427,
     "wof:lang_x_official":[
         "eng",
@@ -62,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804264,
+    "wof:lastmodified":1603143665,
     "wof:name":"Grasmere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238483,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

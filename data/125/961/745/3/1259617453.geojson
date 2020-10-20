@@ -56,10 +56,11 @@
         "geonames"
     ],
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238581,
         85633345,
-        102079299,
-        85687251
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +77,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079299,
+            "localadmin_id":1729238581,
             "locality_id":1259617453,
             "region_id":85687251
         }
@@ -89,9 +91,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804451,
+    "wof:lastmodified":1603140534,
     "wof:name":"Westmere",
-    "wof:parent_id":102079299,
+    "wof:parent_id":1729238581,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

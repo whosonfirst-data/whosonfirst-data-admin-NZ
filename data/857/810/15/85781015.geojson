@@ -77,10 +77,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":352,
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238575,
         85633345,
-        102079307,
-        85687251
+        1729339105,
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +103,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079307,
-            "locality_id":-1,
+            "localadmin_id":1729238575,
+            "locality_id":1729339105,
             "neighbourhood_id":85781015,
             "region_id":85687251
         }
@@ -115,9 +118,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802942,
+    "wof:lastmodified":1603200761,
     "wof:name":"Milson",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729339105,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

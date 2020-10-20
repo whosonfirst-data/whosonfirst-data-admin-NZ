@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887963,
     "wof:geomhash":"f990a2909d23baa517e442895b3b2034",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367801,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729367801,
-    "wof:lastmodified":1602889686,
+    "wof:lastmodified":1603141906,
     "wof:name":"Jacksons Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -55,10 +55,12 @@
     "woe:name_adm1":"Canterbury",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687179,
         102191583,
+        1729238593,
         85633345,
-        102079373,
-        85687179
+        1729338455,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +76,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079373,
-            "locality_id":-1,
+            "localadmin_id":1729238593,
+            "locality_id":1729338455,
             "neighbourhood_id":1126073645,
             "region_id":85687179
         }
@@ -88,9 +91,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803322,
+    "wof:lastmodified":1603175137,
     "wof:name":"Seaview",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

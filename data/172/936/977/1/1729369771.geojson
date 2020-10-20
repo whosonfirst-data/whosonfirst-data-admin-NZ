@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888751,
     "wof:geomhash":"54da81357863686a7a73de255f0315f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369771,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729369771,
-    "wof:lastmodified":1602889654,
+    "wof:lastmodified":1603142868,
     "wof:name":"Peachgrove Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

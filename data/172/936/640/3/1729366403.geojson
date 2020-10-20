@@ -22,16 +22,24 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602882963,
     "wof:geomhash":"7058e0c2dcc9ac924619b9b39e72cf2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "marinearea_id":1729366403
+        }
+    ],
     "wof:id":1729366403,
-    "wof:lastmodified":1602889671,
+    "wof:lastmodified":1603141192,
     "wof:name":"Port Pegasus",
-    "wof:parent_id":-1,
+    "wof:parent_id":102191583,
     "wof:placetype":"marinearea",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

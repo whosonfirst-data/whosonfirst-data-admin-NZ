@@ -56,9 +56,11 @@
         "geonames"
     ],
     "wof:belongsto":[
+        85687211,
         102191583,
+        1729238497,
         85633345,
-        85687211
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,6 +76,8 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
+            "county_id":102079397,
+            "localadmin_id":1729238497,
             "locality_id":1360115879,
             "region_id":85687211
         }
@@ -87,9 +91,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804336,
+    "wof:lastmodified":1603139936,
     "wof:name":"Ocean Beach",
-    "wof:parent_id":85687211,
+    "wof:parent_id":1729238497,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

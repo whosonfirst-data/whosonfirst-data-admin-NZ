@@ -41,10 +41,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":513,
     "wof:belongsto":[
+        85687201,
         102191583,
+        1729238495,
         85633345,
-        102079387,
-        85687201
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
+            "localadmin_id":1729238495,
             "locality_id":101916083,
             "region_id":85687201
         }
@@ -75,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803230,
+    "wof:lastmodified":1603147733,
     "wof:name":"Macandrew Bay",
-    "wof:parent_id":102079387,
+    "wof:parent_id":1729238495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

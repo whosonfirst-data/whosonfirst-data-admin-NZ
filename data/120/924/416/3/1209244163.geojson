@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687179,
+        102079369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"4b93968aa0e951fa72314979d624c4ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209244163
+            "county_id":102079369,
+            "locality_id":1209244163,
+            "region_id":85687179
         }
     ],
     "wof:id":1209244163,
@@ -56,9 +62,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802982,
+    "wof:lastmodified":1603149450,
     "wof:name":"Sandy Knolls",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

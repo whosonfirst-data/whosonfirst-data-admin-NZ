@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888820,
     "wof:geomhash":"1806dc638f79644e950f628331e5bacc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369947,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729369947,
-    "wof:lastmodified":1602889664,
+    "wof:lastmodified":1603142955,
     "wof:name":"Waimapu Estuary",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

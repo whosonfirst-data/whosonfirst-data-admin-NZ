@@ -26,7 +26,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687215,
+        1108564567
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8676
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602623121,
     "wof:geomhash":"49256a96c63a6e739c5352dd35f3144d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":1108564567,
+            "locality_id":1729343017,
+            "region_id":85687215
+        }
+    ],
     "wof:id":1729343017,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804180,
+    "wof:lastmodified":1603190550,
     "wof:name":"Mangere Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108564567,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

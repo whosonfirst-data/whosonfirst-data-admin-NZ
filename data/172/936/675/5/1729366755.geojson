@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887539,
     "wof:geomhash":"39c4b121b1afa916ba7520973692d921",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366755,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729366755,
-    "wof:lastmodified":1602889643,
+    "wof:lastmodified":1603141379,
     "wof:name":"Kellys Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

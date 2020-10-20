@@ -64,10 +64,11 @@
     "src:population":"geonames",
     "wd:wordcount":897,
     "wof:belongsto":[
+        85687149,
         102191583,
+        1729238559,
         85633345,
-        102079255,
-        85687149
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +84,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079255,
+            "localadmin_id":1729238559,
             "locality_id":101916893,
             "region_id":85687149
         }
@@ -96,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803233,
+    "wof:lastmodified":1603148041,
     "wof:name":"Russell",
-    "wof:parent_id":102079255,
+    "wof:parent_id":1729238559,
     "wof:placetype":"locality",
     "wof:population":839,
     "wof:population_rank":2,

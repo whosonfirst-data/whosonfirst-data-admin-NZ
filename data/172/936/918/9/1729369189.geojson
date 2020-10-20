@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888524,
     "wof:geomhash":"82c60a2bd2ee561c01037c1fa3a640c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369189,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729369189,
-    "wof:lastmodified":1602889684,
+    "wof:lastmodified":1603142585,
     "wof:name":"Kauakarau Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

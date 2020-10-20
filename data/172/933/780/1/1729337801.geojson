@@ -85,7 +85,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687229,
+        102191583,
+        1729238493,
+        85633345,
+        102079271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6241331,
@@ -96,7 +102,16 @@
     "wof:country":"NZ",
     "wof:created":1602620920,
     "wof:geomhash":"01ea61138a954fb6a84063e3291c963a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "localadmin_id":1729238493,
+            "locality_id":1729337801,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729337801,
     "wof:lang_x_official":[
         "eng",
@@ -106,9 +121,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804319,
+    "wof:lastmodified":1603143129,
     "wof:name":"Hillcrest",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238493,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

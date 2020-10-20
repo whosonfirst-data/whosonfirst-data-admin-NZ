@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887672,
     "wof:geomhash":"603a4bdd61f02412a8c3b753c3772d79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367087,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729367087,
-    "wof:lastmodified":1602889639,
+    "wof:lastmodified":1603141547,
     "wof:name":"Cecilia Sudden Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

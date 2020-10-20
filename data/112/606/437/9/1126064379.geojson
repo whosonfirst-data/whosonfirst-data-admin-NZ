@@ -88,11 +88,12 @@
     "woe:name_adm1":"Wellington",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238583,
         85633345,
-        102079339,
         101914575,
-        85687233
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,6 +108,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
+            "localadmin_id":1729238583,
             "locality_id":101914575,
             "neighbourhood_id":1126064379,
             "region_id":85687233
@@ -121,7 +123,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803317,
+    "wof:lastmodified":1603175082,
     "wof:name":"Southgate",
     "wof:parent_id":101914575,
     "wof:placetype":"neighbourhood",

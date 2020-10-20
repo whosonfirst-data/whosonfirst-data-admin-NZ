@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888417,
     "wof:geomhash":"6d43a2436317c43e6f88fa6e7f87d1f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368919,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729368919,
-    "wof:lastmodified":1602889677,
+    "wof:lastmodified":1603142450,
     "wof:name":"Wyuna Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

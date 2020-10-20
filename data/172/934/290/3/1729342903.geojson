@@ -25,12 +25,23 @@
     "nz-linz:name":"Nee Islets",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623075,
     "wof:geomhash":"77813e266d1d9dd7b51e8b07881c9a47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342903,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729342903,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +51,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804237,
+    "wof:lastmodified":1603146862,
     "wof:name":"Nee Islets",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

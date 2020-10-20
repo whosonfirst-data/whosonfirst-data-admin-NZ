@@ -29,7 +29,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4785
@@ -37,7 +41,14 @@
     "wof:country":"NZ",
     "wof:created":1602622843,
     "wof:geomhash":"64e64cf4947c449c36d5dc33f98d3f4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342333,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729342333,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +58,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804199,
+    "wof:lastmodified":1603146526,
     "wof:name":"The Outpost",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687243,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

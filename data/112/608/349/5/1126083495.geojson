@@ -49,11 +49,12 @@
     "woe:name_adm1":"Waikato",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238493,
         85633345,
-        102079271,
-        101914271,
-        85687229
+        1276473481,
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +70,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079271,
-            "locality_id":101914271,
+            "localadmin_id":1729238493,
+            "locality_id":1276473481,
             "neighbourhood_id":1126083495,
             "region_id":85687229
         }
@@ -83,9 +85,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803316,
+    "wof:lastmodified":1603175175,
     "wof:name":"Claudelands",
-    "wof:parent_id":101914271,
+    "wof:parent_id":1276473481,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

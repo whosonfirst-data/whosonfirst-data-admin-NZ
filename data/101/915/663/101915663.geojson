@@ -45,10 +45,11 @@
     "wd:longitude":173.238056,
     "wd:wordcount":6507,
     "wof:belongsto":[
+        85687157,
         102191583,
+        1729238513,
         85633345,
-        102079351,
-        85687157
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,6 +66,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079351,
+            "localadmin_id":1729238513,
             "locality_id":101915663,
             "region_id":85687157
         }
@@ -78,9 +80,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803193,
+    "wof:lastmodified":1603147594,
     "wof:name":"Nelson",
-    "wof:parent_id":102079351,
+    "wof:parent_id":1729238513,
     "wof:placetype":"locality",
     "wof:population":59200,
     "wof:population_rank":8,

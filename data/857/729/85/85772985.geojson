@@ -70,11 +70,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":338,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238583,
         85633345,
-        102079339,
-        101914285,
-        85687233
+        1226683257,
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +95,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
-            "locality_id":101914285,
+            "localadmin_id":1729238583,
+            "locality_id":1226683257,
             "neighbourhood_id":85772985,
             "region_id":85687233
         }
@@ -108,9 +110,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802954,
+    "wof:lastmodified":1603200469,
     "wof:name":"Kaiwharawhara",
-    "wof:parent_id":101914285,
+    "wof:parent_id":1226683257,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

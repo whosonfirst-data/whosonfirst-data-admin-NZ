@@ -25,12 +25,23 @@
     "nz-linz:name":"Te Paepae O Aotea",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602622004,
     "wof:geomhash":"f449c8041e5f79a1f641bb2b253f5b91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340391,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729340391,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +51,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804199,
+    "wof:lastmodified":1603145228,
     "wof:name":"Te Paepae O Aotea",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687175,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

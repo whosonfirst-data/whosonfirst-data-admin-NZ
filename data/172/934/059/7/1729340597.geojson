@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":290
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622089,
     "wof:geomhash":"0ab23dcb3466feebe62fca186012dca3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079393,
+            "locality_id":1729340597,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729340597,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804234,
+    "wof:lastmodified":1603145403,
     "wof:name":"Diamond Peak",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079393,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

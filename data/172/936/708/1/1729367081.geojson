@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887669,
     "wof:geomhash":"524c610f3f91c5727a7e0516f9a1268b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367081,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729367081,
-    "wof:lastmodified":1602889639,
+    "wof:lastmodified":1603141543,
     "wof:name":"Bradshaw Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

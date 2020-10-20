@@ -37,10 +37,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238529,
         85633345,
-        102079313,
-        85687251
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,6 +57,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079313,
+            "localadmin_id":1729238529,
             "locality_id":101918145,
             "region_id":85687251
         }
@@ -69,9 +71,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803252,
+    "wof:lastmodified":1603148604,
     "wof:name":"Waitarere",
-    "wof:parent_id":102079313,
+    "wof:parent_id":1729238529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

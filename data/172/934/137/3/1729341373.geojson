@@ -26,7 +26,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4161
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622416,
     "wof:geomhash":"f9b2f8f74661bb512e72333130238947",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":1729341373,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729341373,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804220,
+    "wof:lastmodified":1603145957,
     "wof:name":"Ayers Rock",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079297,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887560,
     "wof:geomhash":"20bb171c003eac19c9a6b4f8d379efdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366807,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729366807,
-    "wof:lastmodified":1602889646,
+    "wof:lastmodified":1603141405,
     "wof:name":"Mellons Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

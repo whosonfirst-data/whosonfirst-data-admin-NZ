@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888622,
     "wof:geomhash":"af4ca5920801f9a48655ae07364a8317",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369439,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369439,
-    "wof:lastmodified":1602889688,
+    "wof:lastmodified":1603142708,
     "wof:name":"Pinch Gut",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

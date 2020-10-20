@@ -46,10 +46,11 @@
     "wd:longitude":178.017778,
     "wd:wordcount":2874,
     "wof:belongsto":[
+        85687237,
         102191583,
+        1729238487,
         85633345,
-        102079325,
-        85687237
+        102079325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,6 +72,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079325,
+            "localadmin_id":1729238487,
             "locality_id":101915153,
             "region_id":85687237
         }
@@ -84,9 +86,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803187,
+    "wof:lastmodified":1603147329,
     "wof:name":"Gisborne",
-    "wof:parent_id":102079325,
+    "wof:parent_id":1729238487,
     "wof:placetype":"locality",
     "wof:population":34274,
     "wof:population_rank":7,

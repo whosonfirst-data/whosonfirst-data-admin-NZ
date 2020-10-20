@@ -43,7 +43,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        85687251,
+        102191583,
+        1729238573,
+        85633345,
+        102079309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +61,12 @@
     "wof:geomhash":"f195daf22fec3d5377bd02ef1953f06a",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209546763
+            "county_id":102079309,
+            "localadmin_id":1729238573,
+            "locality_id":1209546763,
+            "region_id":85687251
         }
     ],
     "wof:id":1209546763,
@@ -70,9 +78,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804166,
+    "wof:lastmodified":1603140503,
     "wof:name":"Makuri",
-    "wof:parent_id":85633345,
+    "wof:parent_id":1729238573,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

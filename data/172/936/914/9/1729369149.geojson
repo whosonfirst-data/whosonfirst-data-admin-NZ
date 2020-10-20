@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888509,
     "wof:geomhash":"109e8d49201e5181b96b3eed1138a0ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369149,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729369149,
-    "wof:lastmodified":1602889660,
+    "wof:lastmodified":1603142565,
     "wof:name":"Ladies Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

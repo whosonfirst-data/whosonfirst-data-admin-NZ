@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882977,
     "wof:geomhash":"ea19d24b951c4306c679a16ac180202b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366435
+        }
+    ],
     "wof:id":1729366435,
-    "wof:lastmodified":1602889644,
+    "wof:lastmodified":1603141211,
     "wof:name":"Western Passage",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -25,12 +25,23 @@
     "nz-linz:name":"Hares Ears",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623064,
     "wof:geomhash":"8276ea0255cf869445939ff076b5e1c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342877,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729342877,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +51,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804185,
+    "wof:lastmodified":1603146849,
     "wof:name":"Hares Ears",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

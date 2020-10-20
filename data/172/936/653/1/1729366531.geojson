@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883019,
     "wof:geomhash":"bcc6a0a5199522a296bf31244bb32698",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366531
+        }
+    ],
     "wof:id":1729366531,
-    "wof:lastmodified":1602889681,
+    "wof:lastmodified":1603141265,
     "wof:name":"Greville Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -59,7 +59,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687201,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,8 +72,11 @@
     "wof:geomhash":"77b77583e0e514407ae02e4f0b927a2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209651997
+            "county_id":102079387,
+            "locality_id":1209651997,
+            "region_id":85687201
         }
     ],
     "wof:id":1209651997,
@@ -82,9 +88,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802980,
+    "wof:lastmodified":1603149510,
     "wof:name":"Clarks",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

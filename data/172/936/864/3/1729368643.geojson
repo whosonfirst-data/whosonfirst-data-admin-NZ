@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888307,
     "wof:geomhash":"d9b3841ef25f09c3c37bc4df16f0f075",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368643,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368643,
-    "wof:lastmodified":1602889682,
+    "wof:lastmodified":1603142310,
     "wof:name":"Te Waite Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

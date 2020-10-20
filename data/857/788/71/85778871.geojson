@@ -60,9 +60,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687243,
         102191583,
+        1729238453,
         85633345,
-        85687243
+        101914651,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,9 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":-1,
+            "county_id":102079403,
+            "localadmin_id":1729238453,
+            "locality_id":101914651,
             "neighbourhood_id":85778871,
             "region_id":85687243
         }
@@ -93,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802951,
+    "wof:lastmodified":1603200682,
     "wof:name":"Otahuhu East",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914651,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

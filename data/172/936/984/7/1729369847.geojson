@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888780,
     "wof:geomhash":"de5c6cf79e77ee195e524408db66bd61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369847,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729369847,
-    "wof:lastmodified":1602889655,
+    "wof:lastmodified":1603142905,
     "wof:name":"Waikopou Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

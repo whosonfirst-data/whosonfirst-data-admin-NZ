@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":1952
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622348,
     "wof:geomhash":"c2aa93cbcd8e7b1037ee74b0fd90b5ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1729341223,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729341223,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804249,
+    "wof:lastmodified":1603145834,
     "wof:name":"Windsor Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079381,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

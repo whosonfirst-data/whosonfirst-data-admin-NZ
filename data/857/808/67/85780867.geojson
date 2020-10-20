@@ -64,11 +64,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":43,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238597,
         85633345,
-        102079335,
-        101914809,
-        85687233
+        1729338887,
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +89,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079335,
-            "locality_id":101914809,
+            "localadmin_id":1729238597,
+            "locality_id":1729338887,
             "neighbourhood_id":85780867,
             "region_id":85687233
         }
@@ -102,9 +104,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802950,
+    "wof:lastmodified":1603200731,
     "wof:name":"Riverstone Terraces",
-    "wof:parent_id":101914809,
+    "wof:parent_id":1729338887,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887711,
     "wof:geomhash":"90f3a0380b7eece3f76b7284b90243b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367185,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729367185,
-    "wof:lastmodified":1602889689,
+    "wof:lastmodified":1603141595,
     "wof:name":"Takutairaroa Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

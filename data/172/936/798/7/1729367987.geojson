@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888036,
     "wof:geomhash":"4822c06cb8dc4b6ffd661c386faf4b69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367987,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729367987,
-    "wof:lastmodified":1602889640,
+    "wof:lastmodified":1603142000,
     "wof:name":"Marble Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

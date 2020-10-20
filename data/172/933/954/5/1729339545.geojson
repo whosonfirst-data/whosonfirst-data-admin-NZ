@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179,
+        102079371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":1549
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621652,
     "wof:geomhash":"161ce4e74fac24ec9d05bbf25bc398ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":1729339545,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729339545,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804257,
+    "wof:lastmodified":1603144578,
     "wof:name":"Surrey Hills",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079371,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

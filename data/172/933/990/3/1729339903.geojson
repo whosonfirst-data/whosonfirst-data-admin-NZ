@@ -26,7 +26,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4134
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621809,
     "wof:geomhash":"6bf0734980cd89c9cb6b96a0bdd83b0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729339903,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729339903,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804261,
+    "wof:lastmodified":1603144902,
     "wof:name":"Ahoroa Rock",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079255,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

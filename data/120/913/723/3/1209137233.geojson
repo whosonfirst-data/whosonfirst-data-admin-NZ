@@ -44,7 +44,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687211,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +61,11 @@
     "wof:geomhash":"1dfdfdaf14d739ec8a343b3c0dfcf3ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209137233
+            "county_id":102079391,
+            "locality_id":1209137233,
+            "region_id":85687211
         }
     ],
     "wof:id":1209137233,
@@ -71,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804168,
+    "wof:lastmodified":1603138349,
     "wof:name":"Menzies Ferry",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079391,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

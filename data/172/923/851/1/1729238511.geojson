@@ -288,7 +288,12 @@
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"020dda14-8f76-11e1-848f-cfd5bf3ef515",
@@ -300,7 +305,15 @@
     "wof:country":"NZ",
     "wof:created":1600724638,
     "wof:geomhash":"5d75ec7c52c46353c1d17fbab9b8b082",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "localadmin_id":1729238511,
+            "region_id":85687189
+        }
+    ],
     "wof:id":1729238511,
     "wof:lang_x_official":[
         "eng",
@@ -310,9 +323,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803000,
+    "wof:lastmodified":1603135799,
     "wof:name":"Napier",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079331,
     "wof:placetype":"localadmin",
     "wof:population":56787,
     "wof:population_rank":8,

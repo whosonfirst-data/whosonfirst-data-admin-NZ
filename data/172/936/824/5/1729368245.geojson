@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888140,
     "wof:geomhash":"d2fdc56e3c5240c2ce72d0d7d0e0ab52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368245,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729368245,
-    "wof:lastmodified":1602889668,
+    "wof:lastmodified":1603142121,
     "wof:name":"Orpheus Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883012,
     "wof:geomhash":"fab6fe7db6d7c5979aba0a29a2093913",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366513
+        }
+    ],
     "wof:id":1729366513,
-    "wof:lastmodified":1602889650,
+    "wof:lastmodified":1603141255,
     "wof:name":"Kenepuru Sound",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

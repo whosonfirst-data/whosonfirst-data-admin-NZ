@@ -137,10 +137,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238493,
         85633345,
-        102079271,
-        85687229
+        1729338251,
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,7 +159,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079271,
-            "locality_id":-1,
+            "localadmin_id":1729238493,
+            "locality_id":1729338251,
             "neighbourhood_id":85780887,
             "region_id":85687229
         }
@@ -171,9 +174,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802950,
+    "wof:lastmodified":1603200735,
     "wof:name":"Fairfield",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338251,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

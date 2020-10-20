@@ -59,10 +59,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687149,
         102191583,
+        1729238617,
         85633345,
-        102079257,
-        85687149
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +82,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
-            "locality_id":-1,
+            "localadmin_id":1729238617,
+            "locality_id":101914253,
             "neighbourhood_id":85782533,
             "region_id":85687149
         }
@@ -94,9 +97,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802949,
+    "wof:lastmodified":1603200993,
     "wof:name":"Whangarei Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914253,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

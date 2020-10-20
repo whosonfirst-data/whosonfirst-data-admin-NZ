@@ -22,14 +22,28 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079349,
+        85687219
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888146,
     "wof:geomhash":"5533b9bb158eaff9b3c6be6379ae340e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":-1,
+            "neighbourhood_id":1729368259,
+            "region_id":85687219
+        }
+    ],
     "wof:id":1729368259,
-    "wof:lastmodified":1602889674,
+    "wof:lastmodified":1603142128,
     "wof:name":"Otuwhero Inlet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

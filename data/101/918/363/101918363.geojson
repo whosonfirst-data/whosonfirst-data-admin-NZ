@@ -41,10 +41,11 @@
     "wd:longitude":176.833333,
     "wd:wordcount":4493,
     "wof:belongsto":[
+        85687189,
         102191583,
+        1729238473,
         85633345,
-        102079329,
-        85687189
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,6 +62,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079329,
+            "localadmin_id":1729238473,
             "locality_id":101918363,
             "region_id":85687189
         }
@@ -74,9 +76,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803249,
+    "wof:lastmodified":1603148693,
     "wof:name":"Hastings",
-    "wof:parent_id":102079329,
+    "wof:parent_id":1729238473,
     "wof:placetype":"locality",
     "wof:population":61696,
     "wof:population_rank":8,

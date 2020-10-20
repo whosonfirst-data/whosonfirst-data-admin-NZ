@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219,
+        102079349
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":1511
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622262,
     "wof:geomhash":"944433f7e99444842d25fd28ab6c769c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1729341017,
+            "region_id":85687219
+        }
+    ],
     "wof:id":1729341017,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804220,
+    "wof:lastmodified":1603145689,
     "wof:name":"Spooners Range",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079349,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

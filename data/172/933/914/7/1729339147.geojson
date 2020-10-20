@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        1729238531,
+        85633345,
+        102079369
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8792
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621484,
     "wof:geomhash":"f9d34568d5a9ab454974dd2086ca459f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "localadmin_id":1729238531,
+            "locality_id":1729339147,
+            "region_id":85687179
+        }
+    ],
     "wof:id":1729339147,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804287,
+    "wof:lastmodified":1603144242,
     "wof:name":"Lincoln University",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238531,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

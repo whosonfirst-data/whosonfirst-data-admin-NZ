@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":386
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621534,
     "wof:geomhash":"d8ea22e72366debc525b1f281b98e1bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729339267,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729339267,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804318,
+    "wof:lastmodified":1603144340,
     "wof:name":"Five Roads",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079391,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

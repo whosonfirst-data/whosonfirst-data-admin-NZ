@@ -107,7 +107,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687233,
+        102079343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,8 +124,11 @@
     "wof:geomhash":"f3432b0363550bc3acb1e3965579f7de",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209345605
+            "county_id":102079343,
+            "locality_id":1209345605,
+            "region_id":85687233
         }
     ],
     "wof:id":1209345605,
@@ -134,9 +140,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804170,
+    "wof:lastmodified":1603138386,
     "wof:name":"Bideford",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079343,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

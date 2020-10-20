@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888330,
     "wof:geomhash":"4055613b4b22e7d8e31efab21eba5eca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368701,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368701,
-    "wof:lastmodified":1602889667,
+    "wof:lastmodified":1603142341,
     "wof:name":"Tupou Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -86,9 +86,10 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1108564567,
-        136253053,
-        85687215
+        102191583,
+        85633345,
+        85687215,
+        1108564567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,10 +102,9 @@
     "wof:geomhash":"5950df41baf5bca8b1b0d530915b21e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
             "county_id":1108564567,
-            "empire_id":136253053,
             "locality_id":1125823577,
             "region_id":85687215
         }
@@ -118,7 +118,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803325,
+    "wof:lastmodified":1603190003,
     "wof:name":"Waitangi",
     "wof:parent_id":1108564567,
     "wof:placetype":"locality",

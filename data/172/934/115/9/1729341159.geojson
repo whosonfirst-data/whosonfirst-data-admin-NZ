@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2022
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622320,
     "wof:geomhash":"0cc9a85e5f738e0d15f88bac4b9572ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":1729341159,
+            "region_id":85687189
+        }
+    ],
     "wof:id":1729341159,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804242,
+    "wof:lastmodified":1603145788,
     "wof:name":"Kereru",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079329,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

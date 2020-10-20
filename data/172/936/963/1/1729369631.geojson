@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888696,
     "wof:geomhash":"54f3bcc2a6a7f46bcaf2ab47c3f73a29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369631,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729369631,
-    "wof:lastmodified":1602889641,
+    "wof:lastmodified":1603142799,
     "wof:name":"Wairere Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -47,7 +47,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687251,
+        102079309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +65,11 @@
     "wof:geomhash":"8354f9e02a1706289a0ed9ebf8fcead2",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209248425
+            "county_id":102079309,
+            "locality_id":1209248425,
+            "region_id":85687251
         }
     ],
     "wof:id":1209248425,
@@ -75,9 +81,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804167,
+    "wof:lastmodified":1603138361,
     "wof:name":"Herbertville",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079309,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888200,
     "wof:geomhash":"d2ec95c5daa16ebbb42b24c07853ce2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368391,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729368391,
-    "wof:lastmodified":1602889681,
+    "wof:lastmodified":1603142191,
     "wof:name":"Raynbirds Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

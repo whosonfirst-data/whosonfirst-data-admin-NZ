@@ -50,7 +50,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687229,
+        102191583,
+        1729238601,
+        85633345,
+        102079281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28645599,
@@ -60,7 +66,16 @@
     "wof:country":"NZ",
     "wof:created":1602621417,
     "wof:geomhash":"dbf5df132b01d3c70246a5e40c540b6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "localadmin_id":1729238601,
+            "locality_id":1729338979,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729338979,
     "wof:lang_x_official":[
         "eng",
@@ -70,9 +85,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804310,
+    "wof:lastmodified":1603144138,
     "wof:name":"Two Mile Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238601,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

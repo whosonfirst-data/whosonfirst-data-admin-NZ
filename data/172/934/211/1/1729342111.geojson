@@ -26,7 +26,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4631
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622753,
     "wof:geomhash":"e65b15ef4227463db063e8f241d1d181",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":1729342111,
+            "region_id":85687175
+        }
+    ],
     "wof:id":1729342111,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804182,
+    "wof:lastmodified":1603146402,
     "wof:name":"Moturiki Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079285,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

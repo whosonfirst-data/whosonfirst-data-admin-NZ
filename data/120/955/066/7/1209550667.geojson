@@ -87,7 +87,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687179,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,8 +100,11 @@
     "wof:geomhash":"e1919e0265fa9cebd2801a8efb2487c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209550667
+            "county_id":102079373,
+            "locality_id":1209550667,
+            "region_id":85687179
         }
     ],
     "wof:id":1209550667,
@@ -110,9 +116,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802981,
+    "wof:lastmodified":1603149497,
     "wof:name":"Claremont",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

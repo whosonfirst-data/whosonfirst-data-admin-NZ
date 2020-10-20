@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687251,
+        102191583,
+        1729238437,
+        85633345,
+        102079301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8871
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621066,
     "wof:geomhash":"3b5f34e091ee64e0c6b083a1a4f8171f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "localadmin_id":1729238437,
+            "locality_id":1729338141,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729338141,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804303,
+    "wof:lastmodified":1603143424,
     "wof:name":"Parewanui",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238437,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

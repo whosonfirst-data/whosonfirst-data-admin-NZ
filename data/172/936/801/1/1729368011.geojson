@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888045,
     "wof:geomhash":"03d2b795bf8043dfd9f723296aab6b1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368011,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368011,
-    "wof:lastmodified":1602889681,
+    "wof:lastmodified":1603142010,
     "wof:name":"Matapouri Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

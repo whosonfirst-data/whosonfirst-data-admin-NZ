@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237,
+        102079325
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8907
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602623130,
     "wof:geomhash":"24f17f75b097c77603f0662080b92944",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":1729343037,
+            "region_id":85687237
+        }
+    ],
     "wof:id":1729343037,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804216,
+    "wof:lastmodified":1603146948,
     "wof:name":"Waipiro",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079325,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887558,
     "wof:geomhash":"15ef6008c8b7ff978f5374199a67be88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366801,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729366801,
-    "wof:lastmodified":1602889646,
+    "wof:lastmodified":1603141402,
     "wof:name":"Marks Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

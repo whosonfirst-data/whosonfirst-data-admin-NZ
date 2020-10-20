@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687251,
+        102191583,
+        1729238581,
+        85633345,
+        102079299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8685
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621448,
     "wof:geomhash":"903f013c44acac5d042fc1ddec9c2393",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "localadmin_id":1729238581,
+            "locality_id":1729339057,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729339057,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804295,
+    "wof:lastmodified":1603144190,
     "wof:name":"Papaiti",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238581,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

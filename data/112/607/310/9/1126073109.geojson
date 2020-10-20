@@ -50,6 +50,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        101914295,
         102079265,
         85687229
     ],
@@ -67,7 +68,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079265,
-            "locality_id":-1,
+            "locality_id":101914295,
             "neighbourhood_id":1126073109,
             "region_id":85687229
         }
@@ -81,9 +82,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803322,
+    "wof:lastmodified":1603175132,
     "wof:name":"Starrto",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914295,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887559,
     "wof:geomhash":"b432d6d69d3f6f03d0b60c40e0faac61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366805,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729366805,
-    "wof:lastmodified":1602889647,
+    "wof:lastmodified":1603141403,
     "wof:name":"Matakatia Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -58,10 +58,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
+        1729238511,
         85633345,
-        102079331,
-        85687189
+        101917491,
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +81,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079331,
-            "locality_id":-1,
+            "localadmin_id":1729238511,
+            "locality_id":101917491,
             "neighbourhood_id":85780957,
             "region_id":85687189
         }
@@ -93,9 +96,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802950,
+    "wof:lastmodified":1603200749,
     "wof:name":"Jervoistown",
-    "wof:parent_id":-1,
+    "wof:parent_id":101917491,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

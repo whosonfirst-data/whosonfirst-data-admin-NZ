@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882970,
     "wof:geomhash":"85c7c80c4ce13500fdfd83c55f46076b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366417
+        }
+    ],
     "wof:id":1729366417,
-    "wof:lastmodified":1602889672,
+    "wof:lastmodified":1603141201,
     "wof:name":"Bradshaw Sound",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

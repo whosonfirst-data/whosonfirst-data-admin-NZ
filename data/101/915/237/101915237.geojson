@@ -41,10 +41,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238557,
         85633345,
-        102079289,
-        85687175
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079289,
+            "localadmin_id":1729238557,
             "locality_id":101915237,
             "region_id":85687175
         }
@@ -75,9 +77,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803195,
+    "wof:lastmodified":1603147358,
     "wof:name":"Rotorua",
-    "wof:parent_id":102079289,
+    "wof:parent_id":1729238557,
     "wof:placetype":"locality",
     "wof:population":65901,
     "wof:population_rank":8,

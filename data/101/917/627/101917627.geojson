@@ -38,10 +38,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238615,
         85633345,
-        102079291,
-        85687175
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,6 +59,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079291,
+            "localadmin_id":1729238615,
             "locality_id":101917627,
             "region_id":85687175
         }
@@ -71,9 +73,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803261,
+    "wof:lastmodified":1603148320,
     "wof:name":"Whakatane",
-    "wof:parent_id":102079291,
+    "wof:parent_id":1729238615,
     "wof:placetype":"locality",
     "wof:population":18602,
     "wof:population_rank":6,

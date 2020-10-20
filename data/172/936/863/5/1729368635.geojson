@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888304,
     "wof:geomhash":"a1bce05b23d004e1e29d99c0c14aed7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368635,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729368635,
-    "wof:lastmodified":1602889682,
+    "wof:lastmodified":1603142308,
     "wof:name":"Teparapara Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -45,10 +45,11 @@
     "woe:name_adm1":"Manawatu Wanganui",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238543,
         85633345,
-        102079297,
-        85687251
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +63,8 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":102079297,
+            "county_id":102079301,
+            "localadmin_id":1729238543,
             "locality_id":1125888289,
             "region_id":85687251
         }
@@ -76,9 +78,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803295,
+    "wof:lastmodified":1603149105,
     "wof:name":"Irirangi",
-    "wof:parent_id":102079297,
+    "wof:parent_id":1729238543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

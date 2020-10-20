@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882993,
     "wof:geomhash":"157b7f515e957f0c46a0a049bca1f138",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366473
+        }
+    ],
     "wof:id":1729366473,
-    "wof:lastmodified":1602889668,
+    "wof:lastmodified":1603141231,
     "wof:name":"Port Gore",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

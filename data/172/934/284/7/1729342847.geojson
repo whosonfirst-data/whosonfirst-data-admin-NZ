@@ -25,12 +25,23 @@
     "nz-linz:name":"Black Rocks",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602623051,
     "wof:geomhash":"d0315124554c436a332b2683e29b1d2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342847,
+            "region_id":85687229
+        }
+    ],
     "wof:id":1729342847,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +51,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804223,
+    "wof:lastmodified":1603146829,
     "wof:name":"Black Rocks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883019,
     "wof:geomhash":"2fee07bff71c94ebfafa3b094746f95f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366529
+        }
+    ],
     "wof:id":1729366529,
-    "wof:lastmodified":1602889675,
+    "wof:lastmodified":1603141264,
     "wof:name":"Guards Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

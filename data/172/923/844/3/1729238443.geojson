@@ -25,7 +25,12 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101917739
@@ -33,7 +38,15 @@
     "wof:country":"NZ",
     "wof:created":1600724604,
     "wof:geomhash":"18c4e5621faf436a4847e6a7e60058ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "localadmin_id":1729238443,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729238443,
     "wof:lang_x_official":[
         "eng",
@@ -43,9 +56,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802996,
+    "wof:lastmodified":1603139647,
     "wof:name":"Kumeu",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079403,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602882956,
     "wof:geomhash":"99fe4c7f14afd7c07d2a2122463b4070",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366393
+        }
+    ],
     "wof:id":1729366393,
-    "wof:lastmodified":1602889678,
+    "wof:lastmodified":1603141174,
     "wof:name":"Port Hardy",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

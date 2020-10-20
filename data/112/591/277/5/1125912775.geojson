@@ -77,10 +77,11 @@
     "woe:name_adm1":"West Coast",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85687165,
         102191583,
+        1729238479,
         85633345,
-        102079363,
-        85687165
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,6 +102,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079363,
+            "localadmin_id":1729238479,
             "locality_id":1125912775,
             "region_id":85687165
         }
@@ -114,9 +116,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804423,
+    "wof:lastmodified":1603139873,
     "wof:name":"Kaniere",
-    "wof:parent_id":102079363,
+    "wof:parent_id":1729238479,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

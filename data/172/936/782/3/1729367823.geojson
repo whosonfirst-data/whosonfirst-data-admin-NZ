@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887971,
     "wof:geomhash":"0c0b8d1698ab3025b96732c156cad566",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367823,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729367823,
-    "wof:lastmodified":1602889657,
+    "wof:lastmodified":1603141918,
     "wof:name":"Kaitarakihi Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

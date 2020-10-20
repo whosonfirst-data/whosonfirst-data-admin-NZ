@@ -57,7 +57,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687251,
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +70,11 @@
     "wof:geomhash":"27d551ffb75deea74bad85d3853a4667",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209445429
+            "county_id":102079301,
+            "locality_id":1209445429,
+            "region_id":85687251
         }
     ],
     "wof:id":1209445429,
@@ -80,9 +86,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802987,
+    "wof:lastmodified":1603149474,
     "wof:name":"Rata",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

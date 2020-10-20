@@ -44,10 +44,11 @@
     "wd:longitude":175.5,
     "wd:wordcount":366,
     "wof:belongsto":[
+        85687229,
         102191583,
+        1729238509,
         85633345,
-        102079261,
-        85687229
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,6 +69,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079261,
+            "localadmin_id":1729238509,
             "locality_id":101915965,
             "region_id":85687229
         }
@@ -81,9 +83,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803176,
+    "wof:lastmodified":1603147692,
     "wof:name":"Coromandel",
-    "wof:parent_id":102079261,
+    "wof:parent_id":1729238509,
     "wof:placetype":"locality",
     "wof:population":1502,
     "wof:population_rank":3,

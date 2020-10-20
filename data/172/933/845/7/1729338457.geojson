@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687201,
+        102191583,
+        1729238521,
+        85633345,
+        102079381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":560
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602621196,
     "wof:geomhash":"199444eb71193912ba1d3d90c610254d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "localadmin_id":1729238521,
+            "locality_id":1729338457,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729338457,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804264,
+    "wof:lastmodified":1603143697,
     "wof:name":"Holmes Hill",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238521,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

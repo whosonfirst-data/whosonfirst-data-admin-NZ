@@ -27,9 +27,15 @@
     "wof:country":"NZ",
     "wof:created":1602883030,
     "wof:geomhash":"78e1165b6d1bbbc5243c5449e3b76a97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":1729366557
+        }
+    ],
     "wof:id":1729366557,
-    "wof:lastmodified":1602889675,
+    "wof:lastmodified":1603141278,
     "wof:name":"Catherine Cove",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

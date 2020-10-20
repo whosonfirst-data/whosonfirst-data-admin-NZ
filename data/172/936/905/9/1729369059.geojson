@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888472,
     "wof:geomhash":"6526629f803a9cef89d68b39c0d8cd7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369059,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369059,
-    "wof:lastmodified":1602889665,
+    "wof:lastmodified":1603142521,
     "wof:name":"Deas Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

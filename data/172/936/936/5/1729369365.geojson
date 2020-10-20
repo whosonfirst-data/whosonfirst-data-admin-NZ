@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888592,
     "wof:geomhash":"5b580ae2a0e7f3b11cc110f1dfe4b39f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369365,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729369365,
-    "wof:lastmodified":1602889637,
+    "wof:lastmodified":1603142672,
     "wof:name":"Opopo Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

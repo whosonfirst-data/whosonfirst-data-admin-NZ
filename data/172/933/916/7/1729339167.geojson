@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687251,
+        102079303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":31
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621493,
     "wof:geomhash":"71cfd7a39a3e8dfdf4ecd75d3e5fe16f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":1729339167,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729339167,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804311,
+    "wof:lastmodified":1603144258,
     "wof:name":"Aorangi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079303,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

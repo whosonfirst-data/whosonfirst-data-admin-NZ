@@ -60,11 +60,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687175,
         102191583,
+        1729238603,
         85633345,
-        102079285,
-        101914325,
-        85687175
+        1729337905,
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +83,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079285,
-            "locality_id":101914325,
+            "localadmin_id":1729238603,
+            "locality_id":1729337905,
             "neighbourhood_id":85781323,
             "region_id":85687175
         }
@@ -96,9 +98,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802949,
+    "wof:lastmodified":1603200825,
     "wof:name":"Parkvale",
-    "wof:parent_id":101914325,
+    "wof:parent_id":1729337905,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

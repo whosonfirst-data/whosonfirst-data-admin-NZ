@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079347
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4003
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622502,
     "wof:geomhash":"821490a260d4cf1b1d460ad018fdc43f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":1729341559,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729341559,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804218,
+    "wof:lastmodified":1603146072,
     "wof:name":"Western Lake",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079347,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

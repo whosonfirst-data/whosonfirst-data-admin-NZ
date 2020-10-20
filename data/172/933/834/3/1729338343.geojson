@@ -54,7 +54,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687251,
+        102191583,
+        1729238575,
+        85633345,
+        102079307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6225522,
@@ -67,7 +73,16 @@
     "wof:country":"NZ",
     "wof:created":1602621150,
     "wof:geomhash":"971ef7d43fc087ae95bc9b5f4c09cc41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "localadmin_id":1729238575,
+            "locality_id":1729338343,
+            "region_id":85687251
+        }
+    ],
     "wof:id":1729338343,
     "wof:lang_x_official":[
         "eng",
@@ -77,9 +92,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804274,
+    "wof:lastmodified":1603143588,
     "wof:name":"Cloverlea",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238575,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

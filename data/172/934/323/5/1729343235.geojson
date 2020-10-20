@@ -27,7 +27,12 @@
     "nz-linz:type":"PARK_RESERVE",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165,
+        102079363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":2509
@@ -35,7 +40,15 @@
     "wof:country":"NZ",
     "wof:created":1602623222,
     "wof:geomhash":"928ec19b9d1012fcaf4bb6962650bf01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":1729343235,
+            "region_id":85687165
+        }
+    ],
     "wof:id":1729343235,
     "wof:lang_x_official":[
         "eng",
@@ -45,9 +58,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804207,
+    "wof:lastmodified":1603141029,
     "wof:name":"Westland National Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079363,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "campus"

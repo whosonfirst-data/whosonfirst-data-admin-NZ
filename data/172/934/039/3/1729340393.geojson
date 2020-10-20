@@ -25,12 +25,23 @@
     "nz-linz:name":"White Islands",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602622005,
     "wof:geomhash":"81b2bba703a87169300bfb2b80722e77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340393,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729340393,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +51,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804199,
+    "wof:lastmodified":1603145229,
     "wof:name":"White Islands",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

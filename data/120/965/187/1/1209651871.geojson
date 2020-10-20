@@ -47,7 +47,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687179,
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +64,11 @@
     "wof:geomhash":"35851219e22f1dffaae99418be9a3b07",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209651871
+            "county_id":102079371,
+            "locality_id":1209651871,
+            "region_id":85687179
         }
     ],
     "wof:id":1209651871,
@@ -74,9 +80,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804166,
+    "wof:lastmodified":1603138418,
     "wof:name":"Lauriston",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079371,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

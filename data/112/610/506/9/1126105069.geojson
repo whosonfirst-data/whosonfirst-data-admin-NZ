@@ -49,10 +49,12 @@
     "woe:name_adm1":"Taranaki",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687195,
         102191583,
+        1729238515,
         85633345,
-        102079311,
-        85687195
+        1729338323,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +70,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079311,
-            "locality_id":-1,
+            "localadmin_id":1729238515,
+            "locality_id":1729338323,
             "neighbourhood_id":1126105069,
             "region_id":85687195
         }
@@ -82,9 +85,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803285,
+    "wof:lastmodified":1603175248,
     "wof:name":"Brooklands",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

@@ -29,7 +29,12 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":5063
@@ -37,7 +42,15 @@
     "wof:country":"NZ",
     "wof:created":1602622459,
     "wof:geomhash":"e5e94a477cf915c9b1d7fbe8541f54b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":1729341475,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729341475,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804252,
+    "wof:lastmodified":1603146022,
     "wof:name":"Aeroplane Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079315,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",

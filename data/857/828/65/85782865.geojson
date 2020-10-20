@@ -59,11 +59,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687251,
         102191583,
+        1729238529,
         85633345,
-        102079313,
         101914363,
-        85687251
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +82,7 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079313,
+            "localadmin_id":1729238529,
             "locality_id":101914363,
             "neighbourhood_id":85782865,
             "region_id":85687251
@@ -95,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802943,
+    "wof:lastmodified":1603201002,
     "wof:name":"Levin West",
     "wof:parent_id":101914363,
     "wof:placetype":"neighbourhood",

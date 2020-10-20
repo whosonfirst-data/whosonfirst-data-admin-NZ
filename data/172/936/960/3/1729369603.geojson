@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888685,
     "wof:geomhash":"73e2f4ae207410fc0de5fbbede68e068",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369603,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729369603,
-    "wof:lastmodified":1602889664,
+    "wof:lastmodified":1603142786,
     "wof:name":"Three Legged Woodhen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,7 +26,13 @@
     "nz-linz:type":"SUBURB",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687195,
+        102191583,
+        1729238515,
+        85633345,
+        102079311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":398
@@ -34,7 +40,16 @@
     "wof:country":"NZ",
     "wof:created":1602620914,
     "wof:geomhash":"d8c3064f19651966deaa5b018723e1e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "localadmin_id":1729238515,
+            "locality_id":1729337785,
+            "region_id":85687195
+        }
+    ],
     "wof:id":1729337785,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +59,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804279,
+    "wof:lastmodified":1603143118,
     "wof:name":"Frankleigh Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238515,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

@@ -64,11 +64,12 @@
     "woe:name_adm1":"Canterbury",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687179,
         102191583,
+        1729238593,
         85633345,
-        102079373,
-        101915527,
-        85687179
+        1729338997,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +85,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079373,
-            "locality_id":101915527,
+            "localadmin_id":1729238593,
+            "locality_id":1729338997,
             "neighbourhood_id":1126071931,
             "region_id":85687179
         }
@@ -98,9 +100,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803322,
+    "wof:lastmodified":1603175122,
     "wof:name":"Watlington",
-    "wof:parent_id":101915527,
+    "wof:parent_id":1729338997,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

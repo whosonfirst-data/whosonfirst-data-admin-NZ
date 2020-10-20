@@ -48,7 +48,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687201,
+        102191583,
+        1729238495,
+        85633345,
+        102079387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676726,
@@ -59,7 +65,16 @@
     "wof:country":"NZ",
     "wof:created":1602620907,
     "wof:geomhash":"ead0faef9afe7d4ff7d139849a555ca1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "localadmin_id":1729238495,
+            "locality_id":1729337771,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729337771,
     "wof:lang_x_official":[
         "eng",
@@ -69,9 +84,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804285,
+    "wof:lastmodified":1603143106,
     "wof:name":"Dunedin Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238495,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

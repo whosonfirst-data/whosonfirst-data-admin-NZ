@@ -25,12 +25,25 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1600724658,
     "wof:geomhash":"fed50d515ad1998e2879a8330fbc53b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "localadmin_id":1729238555,
+            "region_id":85687243
+        }
+    ],
     "wof:id":1729238555,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602803010,
+    "wof:lastmodified":1603140418,
     "wof:name":"Whangaparaoa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079403,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

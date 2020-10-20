@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602888225,
     "wof:geomhash":"e28bacfda5b2ca7d79443e06a2e9f554",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368453,
+            "region_id":85687219
+        }
+    ],
     "wof:id":1729368453,
-    "wof:lastmodified":1602889645,
+    "wof:lastmodified":1603142221,
     "wof:name":"Shag Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

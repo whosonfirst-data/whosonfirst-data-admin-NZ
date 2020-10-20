@@ -50,7 +50,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        1729238583,
+        85633345,
+        102079339
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28676779,
@@ -60,7 +66,16 @@
     "wof:country":"NZ",
     "wof:created":1602621340,
     "wof:geomhash":"e6a285c527ad652b1d3628cc896a47d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "localadmin_id":1729238583,
+            "locality_id":1729338809,
+            "region_id":85687233
+        }
+    ],
     "wof:id":1729338809,
     "wof:lang_x_official":[
         "eng",
@@ -70,9 +85,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804265,
+    "wof:lastmodified":1603143938,
     "wof:name":"Wellington Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729238583,
     "wof:placetype":"locality",
     "wof:placetype_local":"suburb",
     "wof:repo":"whosonfirst-data-admin-nz",

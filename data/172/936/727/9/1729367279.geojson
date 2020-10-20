@@ -22,14 +22,26 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
     "wof:breaches":[],
     "wof:country":"NZ",
     "wof:created":1602887748,
     "wof:geomhash":"4b680d14b870a57ab0d76239bb9aca38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367279,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729367279,
-    "wof:lastmodified":1602889688,
+    "wof:lastmodified":1603141641,
     "wof:name":"Sportsman Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

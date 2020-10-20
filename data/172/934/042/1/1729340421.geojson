@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":8855
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602622016,
     "wof:geomhash":"b1b9ef06bd14d3991568e259f7907158",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1729340421,
+            "region_id":85687201
+        }
+    ],
     "wof:id":1729340421,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804222,
+    "wof:lastmodified":1603145253,
     "wof:name":"Hopkins Valley",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079381,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

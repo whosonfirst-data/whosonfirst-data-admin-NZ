@@ -26,7 +26,12 @@
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":907
@@ -34,7 +39,15 @@
     "wof:country":"NZ",
     "wof:created":1602621606,
     "wof:geomhash":"e6545f1e4328979a066dd03c456ec246",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079393,
+            "locality_id":1729339439,
+            "region_id":85687211
+        }
+    ],
     "wof:id":1729339439,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +57,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804322,
+    "wof:lastmodified":1603144476,
     "wof:name":"McNab",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079393,
     "wof:placetype":"locality",
     "wof:placetype_local":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",

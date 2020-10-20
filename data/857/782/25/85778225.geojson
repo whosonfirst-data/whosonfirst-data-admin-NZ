@@ -72,10 +72,12 @@
     "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":81,
     "wof:belongsto":[
+        85687233,
         102191583,
+        1729238583,
         85633345,
-        102079339,
-        85687233
+        1259915875,
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,6 +96,8 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
+            "localadmin_id":1729238583,
+            "locality_id":1259915875,
             "neighbourhood_id":85778225,
             "region_id":85687233
         }
@@ -107,9 +111,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602802944,
+    "wof:lastmodified":1603200554,
     "wof:name":"Cashmere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1259915875,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -26,7 +26,11 @@
     "nz-linz:type":"ISLAND",
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "nz-linz:id":4145
@@ -34,7 +38,14 @@
     "wof:country":"NZ",
     "wof:created":1602622514,
     "wof:geomhash":"93a102bf5572f695d7489d0382eaf913",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341589,
+            "region_id":85687149
+        }
+    ],
     "wof:id":1729341589,
     "wof:lang_x_official":[
         "eng",
@@ -44,9 +55,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1602804181,
+    "wof:lastmodified":1603146091,
     "wof:name":"Arakaninihi Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687149,
     "wof:placetype":"locality",
     "wof:placetype_local":"island",
     "wof:repo":"whosonfirst-data-admin-nz",
