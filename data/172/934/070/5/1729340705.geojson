@@ -1,0 +1,77 @@
+{
+  "id": 1729340705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1929.30671,
+    "geom:bbox":"174.730352,-35.47353,174.730887,-35.472917",
+    "geom:latitude":-35.473201,
+    "geom:longitude":174.730587,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.473189,
+    "lbl:longitude":174.730583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.473189,
+    "mps:longitude":174.730583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kaka Rock"
+    ],
+    "nz-linz:name":"Kaka Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4415
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622134,
+    "wof:geomhash":"f1d45b3532c72b512a12ee73ba1841f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1729340705,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340705,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145479,
+    "wof:name":"Kaka Rock",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.730352,
+    -35.47353,
+    174.730887,
+    -35.472917
+],
+  "geometry": {"coordinates":[[[174.730887,-35.472917],[174.730763,-35.473277],[174.73049499999999,-35.47353],[174.73035400000001,-35.473443],[174.73035200000001,-35.473375],[174.730425,-35.473013],[174.730887,-35.472917]]],"type":"Polygon"}
+}

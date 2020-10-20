@@ -1,0 +1,87 @@
+{
+  "id": 1729342471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":74579.652496,
+    "geom:bbox":"174.36862,-35.786935,174.373033,-35.784137",
+    "geom:latitude":-35.785636,
+    "geom:longitude":174.370739,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.785821,
+    "lbl:longitude":174.371002,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.785821,
+    "mps:longitude":174.371002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Rat Island"
+    ],
+    "name:deu_x_preferred":[
+        "Rat Island"
+    ],
+    "name:eng_x_preferred":[
+        "Rat Island"
+    ],
+    "name:nld_x_preferred":[
+        "Rat Island"
+    ],
+    "name:swe_x_preferred":[
+        "Rat Island"
+    ],
+    "nz-linz:name":"Rat Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4879
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622898,
+    "wof:geomhash":"b8820fe8f11fbf9cff0b80b4940a26a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342471,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342471,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229766,
+    "wof:name":"Rat Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.36862,
+    -35.786935,
+    174.373033,
+    -35.784137
+],
+  "geometry": {"coordinates":[[[174.36861999999999,-35.785427],[174.36872299999999,-35.785131],[174.369235,-35.784649],[174.36944800000001,-35.784352],[174.36963800000001,-35.784213],[174.36985799999999,-35.784141],[174.37010599999999,-35.784137],[174.37033199999999,-35.784291],[174.370507,-35.784648],[174.37064899999999,-35.784758],[174.371118,-35.784726],[174.37176099999999,-35.784963],[174.372602,-35.785352],[174.37285700000001,-35.785528],[174.37299999999999,-35.785728],[174.37303299999999,-35.785908],[174.37295599999999,-35.786113],[174.37263100000001,-35.786389],[174.372331,-35.786552],[174.372029,-35.786625],[174.37167500000001,-35.786835],[174.37140199999999,-35.78693],[174.37112500000001,-35.786935],[174.370846,-35.786873],[174.37025800000001,-35.786591],[174.369923,-35.786507],[174.36899600000001,-35.786006],[174.368855,-35.785896],[174.368652,-35.785561],[174.36861999999999,-35.785427]]],"type":"Polygon"}
+}

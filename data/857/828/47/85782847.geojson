@@ -18,8 +18,8 @@
     "mps:latitude":-43.6031,
     "mps:longitude":172.647247,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -89,6 +89,9 @@
     "name:ido_x_preferred":[
         "Kashmiro"
     ],
+    "name:ind_x_preferred":[
+        "Wol kasmir"
+    ],
     "name:ita_x_preferred":[
         "Cashmere"
     ],
@@ -149,6 +152,12 @@
     "name:spa_x_variant":[
         "cachemira"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041a\u0430\u0448\u043c\u0438\u0440"
+    ],
+    "name:srp_el_x_preferred":[
+        "Ka\u0161mir"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0448\u043c\u0438\u0440"
     ],
@@ -163,6 +172,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0448\u0435\u043c\u0456\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Len Cashmere"
     ],
     "name:yue_x_preferred":[
         "\u8304\u58eb\u54a9"
@@ -204,10 +216,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2296,
     "wof:belongsto":[
-        85687179,
         102191583,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        1729337755,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -217,8 +231,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7285ca0545dee193240e94b5b3583e52",
     "wof:hierarchy":[
@@ -226,18 +240,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079401,
-            "locality_id":-1,
+            "localadmin_id":1729238507,
+            "locality_id":1729337755,
             "neighbourhood_id":85782847,
             "region_id":85687179
         }
     ],
     "wof:id":85782847,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316520,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229328,
     "wof:name":"Cashmere South",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729337755,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

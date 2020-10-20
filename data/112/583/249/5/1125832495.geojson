@@ -16,8 +16,9 @@
     "lbl:longitude":171.181616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -44,9 +45,10 @@
     "woe:name_adm1":"West Coast",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687165,
+        102191583,
+        1729238491,
+        85633345,
         102079361
     ],
     "wof:breaches":[],
@@ -62,14 +64,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079361,
+            "localadmin_id":1729238491,
             "locality_id":1125832495,
             "region_id":85687165
         }
     ],
     "wof:id":1125832495,
-    "wof:lastmodified":1566672655,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149009,
     "wof:name":"Shantytown",
-    "wof:parent_id":102079361,
+    "wof:parent_id":1729238491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

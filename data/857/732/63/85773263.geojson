@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-41.135718,
     "lbl:longitude":175.04597,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-41.143394,
     "mps:longitude":175.043015,
     "mz:hierarchy_label":0,
@@ -66,7 +67,9 @@
     "wof:belongsto":[
         85687233,
         102191583,
+        1729238597,
         85633345,
+        1293819941,
         102079335
     ],
     "wof:breaches":[],
@@ -86,18 +89,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079335,
-            "locality_id":-1,
+            "localadmin_id":1729238597,
+            "locality_id":1293819941,
             "neighbourhood_id":85773263,
             "region_id":85687233
         }
     ],
     "wof:id":85773263,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200527,
     "wof:name":"Trentham",
-    "wof:parent_id":-1,
+    "wof:parent_id":1293819941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

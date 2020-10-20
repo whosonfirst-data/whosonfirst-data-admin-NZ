@@ -27,8 +27,9 @@
     "lbl:bbox":"169.84667,-46.27,169.88667,-46.23",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Brycg\u0101\u00f0exe"
@@ -84,6 +85,9 @@
     "name:fra_x_preferred":[
         "Sphenodon"
     ],
+    "name:frr_x_preferred":[
+        "Braghaagedisje"
+    ],
     "name:glg_x_preferred":[
         "Tuatara"
     ],
@@ -117,6 +121,9 @@
     "name:kor_x_preferred":[
         "\ud22c\uc544\ud0c0\ub77c"
     ],
+    "name:lfn_x_preferred":[
+        "Tuatara"
+    ],
     "name:lim_x_preferred":[
         "Br\u00f6gkherdisse"
     ],
@@ -143,6 +150,9 @@
     ],
     "name:ron_x_preferred":[
         "Tuatara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0442\u0442\u0435\u0440\u0438\u0438"
     ],
     "name:sco_x_preferred":[
         "Tuatara"
@@ -187,8 +197,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687201,
-        102079389
+        102079389,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,7 +216,15 @@
         }
     ],
     "wof:id":1293037343,
-    "wof:lastmodified":1566672316,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229420,
     "wof:name":"Tuatara",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

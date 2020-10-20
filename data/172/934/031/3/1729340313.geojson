@@ -1,0 +1,81 @@
+{
+  "id": 1729340313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2349.244352,
+    "geom:bbox":"174.731682,-36.835142,174.732439,-36.83471",
+    "geom:latitude":-36.834955,
+    "geom:longitude":174.732029,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.834924,
+    "lbl:longitude":174.731984,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.834924,
+    "mps:longitude":174.731984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Watchman Island"
+    ],
+    "name:deu_x_preferred":[
+        "Watchman Island"
+    ],
+    "name:eng_x_preferred":[
+        "Watchman Island"
+    ],
+    "nz-linz:name":"Watchman Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5109
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621973,
+    "wof:geomhash":"3ee2a7aec7d9a639807307d0c9867ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340313,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729340313,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229631,
+    "wof:name":"Watchman Island",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.731682,
+    -36.835142,
+    174.732439,
+    -36.83471
+],
+  "geometry": {"coordinates":[[[174.732439,-36.835041],[174.732384,-36.835087],[174.73224500000001,-36.835134],[174.731797,-36.835142],[174.73168200000001,-36.835054],[174.73170500000001,-36.834873],[174.73173199999999,-36.834828],[174.73192499999999,-36.834711],[174.73200900000001,-36.83471],[174.73206500000001,-36.834732],[174.73232200000001,-36.834885],[174.732438,-36.834996],[174.732439,-36.835041]]],"type":"Polygon"}
+}

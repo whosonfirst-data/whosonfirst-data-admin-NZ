@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "mps:latitude":-43.542984,
     "mps:longitude":172.612288,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -94,7 +95,9 @@
     "wof:belongsto":[
         85687179,
         102191583,
+        1729238507,
         85633345,
+        1729337703,
         102079401
     ],
     "wof:breaches":[],
@@ -105,8 +108,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"f8f3748b6b87beea6f792c4b8b3bad61",
     "wof:hierarchy":[
@@ -114,21 +117,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079401,
-            "locality_id":-1,
+            "localadmin_id":1729238507,
+            "locality_id":1729337703,
             "neighbourhood_id":85772821,
             "region_id":85687179
         }
     ],
     "wof:id":85772821,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316531,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200436,
     "wof:name":"Addington",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729337703,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729337703
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

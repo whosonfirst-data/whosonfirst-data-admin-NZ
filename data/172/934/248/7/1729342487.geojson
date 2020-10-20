@@ -1,0 +1,89 @@
+{
+  "id": 1729342487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15821.620604,
+    "geom:bbox":"173.393039,-34.775926,173.394784,-34.774027",
+    "geom:latitude":-34.77503,
+    "geom:longitude":173.393965,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.775421,
+    "lbl:longitude":173.394316,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.775421,
+    "mps:longitude":173.394316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Rocky Island"
+    ],
+    "name:deu_x_preferred":[
+        "Rocky Island"
+    ],
+    "name:eng_x_preferred":[
+        "Rocky Island"
+    ],
+    "name:fra_x_preferred":[
+        "Rocky Island"
+    ],
+    "name:swe_x_preferred":[
+        "Rocky Island"
+    ],
+    "nz-linz:name":"Rocky Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079255,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4893
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622904,
+    "wof:geomhash":"f428bf9b44b60380051f903f92e6680b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729342487,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342487,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229742,
+    "wof:name":"Rocky Island",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.393039,
+    -34.775926,
+    173.394784,
+    -34.774027
+],
+  "geometry": {"coordinates":[[[173.394544,-34.775926],[173.39435599999999,-34.775918],[173.39424299999999,-34.775909],[173.39404999999999,-34.775821],[173.393855,-34.775644],[173.393822,-34.775329],[173.393573,-34.775054],[173.393348,-34.774849],[173.39318,-34.774681],[173.39307099999999,-34.774594],[173.39303899999999,-34.774346],[173.39311799999999,-34.774142],[173.39330699999999,-34.774027],[173.393416,-34.774048],[173.39372399999999,-34.774383],[173.39402799999999,-34.774627],[173.39438699999999,-34.774803],[173.394553,-34.774936],[173.394722,-34.775182],[173.39478099999999,-34.775384],[173.39478399999999,-34.775587],[173.394678,-34.775791],[173.39459500000001,-34.775887],[173.394544,-34.775926]]],"type":"Polygon"}
+}

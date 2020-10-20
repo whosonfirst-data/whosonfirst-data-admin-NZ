@@ -1,0 +1,90 @@
+{
+  "id": 1729340323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":593.398772,
+    "geom:bbox":"172.809842,-43.883583,172.810246,-43.883312",
+    "geom:latitude":-43.883445,
+    "geom:longitude":172.810038,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.883444,
+    "lbl:longitude":172.810038,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-43.883444,
+    "mps:longitude":172.810038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Whale Island"
+    ],
+    "name:deu_x_preferred":[
+        "Whale Island"
+    ],
+    "name:eng_x_preferred":[
+        "Whale Island"
+    ],
+    "name:fra_x_preferred":[
+        "Whale Island"
+    ],
+    "name:slk_x_preferred":[
+        "Whale Island"
+    ],
+    "name:swe_x_preferred":[
+        "Whale Island"
+    ],
+    "nz-linz:name":"Whale Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5118
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621978,
+    "wof:geomhash":"23f76a8366fc24f37990f5b53c53a328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340323,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1729340323,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229794,
+    "wof:name":"Whale Island",
+    "wof:parent_id":85687179,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.809842,
+    -43.883583,
+    172.810246,
+    -43.883312
+],
+  "geometry": {"coordinates":[[[172.80990499999999,-43.883583],[172.809842,-43.883448],[172.810059,-43.883312],[172.81015199999999,-43.883312],[172.81024600000001,-43.883424],[172.81006099999999,-43.88356],[172.80990499999999,-43.883583]]],"type":"Polygon"}
+}

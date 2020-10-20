@@ -1,0 +1,60 @@
+{
+  "id": 1729367033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":77574.937098,
+    "geom:bbox":"174.119475,-41.213802,174.124408,-41.211",
+    "geom:latitude":-41.212375,
+    "geom:longitude":174.121823,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.212413,
+    "lbl:longitude":174.121823,
+    "mps:latitude":-41.212413,
+    "mps:longitude":174.121823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Wairakau Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887651,
+    "wof:geomhash":"1d3f6d49addeb185ac5a7b10b9e07a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367033,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729367033,
+    "wof:lastmodified":1603141520,
+    "wof:name":"Wairakau Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.119475,
+    -41.213802,
+    174.124408,
+    -41.211
+],
+  "geometry": {"coordinates":[[[174.12207599999999,-41.213704],[174.12189599999999,-41.213638],[174.12163000000001,-41.213776],[174.12130199999999,-41.213802],[174.12118100000001,-41.213758],[174.120969,-41.213568],[174.12057200000001,-41.21302],[174.119989,-41.213007],[174.11983799999999,-41.212768],[174.119721,-41.212059],[174.11947499999999,-41.211634],[174.12254999999999,-41.211],[174.12440799999999,-41.212695],[174.12207599999999,-41.213704]]],"type":"Polygon"}
+}

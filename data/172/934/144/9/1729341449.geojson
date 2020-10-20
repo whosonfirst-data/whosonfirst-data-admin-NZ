@@ -1,0 +1,80 @@
+{
+  "id": 1729341449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21637.456359,
+    "geom:bbox":"174.901546,-40.890038,174.903975,-40.888661",
+    "geom:latitude":-40.889339,
+    "geom:longitude":174.902578,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.889399,
+    "lbl:longitude":174.90248,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-40.889399,
+    "mps:longitude":174.90248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Browns Island"
+    ],
+    "name:mri_x_preferred":[
+        "Tahoramaurea Island"
+    ],
+    "nz-linz:name":"Tahoramaurea Island (Browns Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233,
+        102079315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4960
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622448,
+    "wof:geomhash":"80418d510036b21bac771ac12347ca9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":1729341449,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1729341449,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146008,
+    "wof:name":"Browns Island",
+    "wof:parent_id":102079315,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.901546,
+    -40.890038,
+    174.903975,
+    -40.888661
+],
+  "geometry": {"coordinates":[[[174.90161699999999,-40.889543],[174.90155100000001,-40.889461],[174.901546,-40.889349],[174.901668,-40.889171],[174.90168800000001,-40.889143],[174.90159,-40.888919],[174.90160700000001,-40.888802],[174.901613,-40.888761],[174.901758,-40.888668],[174.902085,-40.888661],[174.90219500000001,-40.888692],[174.90268800000001,-40.888828],[174.90283500000001,-40.888869],[174.90342899999999,-40.888878],[174.90369899999999,-40.888963],[174.90391399999999,-40.889115],[174.903975,-40.889204],[174.90374700000001,-40.889435],[174.90370300000001,-40.889461],[174.90293399999999,-40.889904],[174.90258299999999,-40.890025],[174.90199000000001,-40.890038],[174.90168600000001,-40.889887],[174.90167600000001,-40.889616],[174.90161699999999,-40.889543]]],"type":"Polygon"}
+}

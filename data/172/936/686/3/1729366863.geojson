@@ -1,0 +1,60 @@
+{
+  "id": 1729366863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":201545.616929,
+    "geom:bbox":"173.849713,-41.211165,173.857237,-41.206614",
+    "geom:latitude":-41.208779,
+    "geom:longitude":173.854013,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.208872,
+    "lbl:longitude":173.854013,
+    "mps:latitude":-41.208872,
+    "mps:longitude":173.854013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Paradise Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887582,
+    "wof:geomhash":"92454fde013252f37b6b96ad38a0e1e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366863,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729366863,
+    "wof:lastmodified":1603141432,
+    "wof:name":"Paradise Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.849713,
+    -41.211165,
+    173.857237,
+    -41.206614
+],
+  "geometry": {"coordinates":[[[173.852791,-41.210539],[173.852609,-41.210303],[173.85243600000001,-41.209998],[173.851235,-41.209365],[173.85067000000001,-41.209067],[173.85008500000001,-41.208869],[173.85007400000001,-41.208857],[173.84988799999999,-41.208656],[173.84983600000001,-41.208169],[173.84971300000001,-41.207767],[173.84988999999999,-41.207631],[173.85030499999999,-41.207649],[173.851204,-41.207689],[173.85215400000001,-41.207299],[173.853388,-41.206986],[173.85380499999999,-41.206949],[173.85459599999999,-41.206989],[173.85574299999999,-41.206901],[173.856145,-41.20682],[173.85659100000001,-41.206614],[173.857237,-41.209302],[173.85591099999999,-41.211165],[173.852791,-41.210539]]],"type":"Polygon"}
+}

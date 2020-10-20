@@ -1,0 +1,75 @@
+{
+  "id": 1729342327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21778.975047,
+    "geom:bbox":"175.484898,-36.224925,175.487173,-36.222611",
+    "geom:latitude":-36.223729,
+    "geom:longitude":175.486126,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.223546,
+    "lbl:longitude":175.486014,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.223546,
+    "mps:longitude":175.486014,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Palmers Island"
+    ],
+    "nz-linz:name":"Palmers Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4782
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622841,
+    "wof:geomhash":"9f7cbc8bce8d52bc0f745b774ab05670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342327,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729342327,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146523,
+    "wof:name":"Palmers Island",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.484898,
+    -36.224925,
+    175.487173,
+    -36.222611
+],
+  "geometry": {"coordinates":[[[175.48698899999999,-36.224897],[175.48676699999999,-36.224925],[175.48654099999999,-36.224841],[175.48631,-36.224621],[175.48630199999999,-36.224441],[175.48621,-36.224196],[175.486008,-36.223997],[175.48581200000001,-36.22398],[175.485614,-36.223917],[175.48543599999999,-36.223606],[175.48523399999999,-36.223431],[175.48492899999999,-36.22303],[175.484916,-36.223013],[175.48489799999999,-36.22299],[175.48497699999999,-36.222874],[175.48496700000001,-36.222611],[175.48547500000001,-36.222772],[175.48573300000001,-36.222969],[175.48576800000001,-36.222993],[175.485793,-36.223011],[175.48588799999999,-36.223076],[175.48605699999999,-36.223095],[175.48635999999999,-36.222998],[175.48653200000001,-36.223172],[175.48672199999999,-36.223731],[175.487078,-36.224331],[175.48717300000001,-36.224622],[175.48715000000001,-36.224757],[175.48698899999999,-36.224897]]],"type":"Polygon"}
+}

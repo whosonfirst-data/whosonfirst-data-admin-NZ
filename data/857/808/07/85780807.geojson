@@ -18,8 +18,8 @@
     "mps:latitude":-38.67205,
     "mps:longitude":178.009199,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -149,6 +149,9 @@
     "name:msa_x_preferred":[
         "Victoria"
     ],
+    "name:nds_x_preferred":[
+        "Victoria"
+    ],
     "name:nld_x_preferred":[
         "Victoria"
     ],
@@ -224,6 +227,9 @@
     "name:war_x_preferred":[
         "Victoria"
     ],
+    "name:wuu_x_preferred":[
+        "\u7ef4\u591a\u5229\u4e9a"
+    ],
     "name:zho_x_preferred":[
         "\u7ef4\u591a\u5229\u4e9a"
     ],
@@ -266,8 +272,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"8334e1f92f8ab15b2a11309037e7e01f",
     "wof:hierarchy":[
@@ -280,10 +286,15 @@
         }
     ],
     "wof:id":85780807,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316529,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229357,
     "wof:name":"Victoria",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

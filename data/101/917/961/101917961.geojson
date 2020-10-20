@@ -5,18 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
-    "geom:area_square_m":40263.679414,
-    "geom:bbox":"168.94222814,-46.097609402,168.945217459,-46.0957082452",
+    "geom:area_square_m":40259.160464,
+    "geom:bbox":"168.942228,-46.097609,168.945217,-46.095708",
     "geom:latitude":-46.096599,
     "geom:longitude":168.943553,
     "gn:population":12108,
     "iso:country":"NZ",
     "lbl:latitude":-46.096654,
     "lbl:longitude":168.94322,
+    "lbl:max_zoom":15.0,
     "mps:latitude":-46.096654,
     "mps:longitude":168.94322,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Gore"
     ],
@@ -36,9 +39,10 @@
     "src:population":"geonames",
     "wd:wordcount":1699,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687211,
+        102191583,
+        1729238489,
+        85633345,
         102079393
     ],
     "wof:breaches":[],
@@ -50,20 +54,29 @@
         "wk:page":"Gore, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4cbf7a92fb1b58c7cc78230e96f19681",
+    "wof:geomhash":"4eda3e416e59684d90ae32580a03eced",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079393,
+            "localadmin_id":1729238489,
             "locality_id":101917961,
             "region_id":85687211
         }
     ],
     "wof:id":101917961,
-    "wof:lastmodified":1527715910,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148534,
     "wof:name":"Gore",
-    "wof:parent_id":102079393,
+    "wof:parent_id":1729238489,
     "wof:placetype":"locality",
     "wof:population":12108,
     "wof:population_rank":6,
@@ -75,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    168.9422281403363,
-    -46.09760940204887,
-    168.94521745882452,
-    -46.09570824516953
+    168.942228,
+    -46.097609,
+    168.945217,
+    -46.095708
 ],
-  "geometry": {"coordinates":[[[168.94222814033631,-46.09571203901605],[168.94474944169488,-46.09570824516953],[168.94521745882452,-46.09716556339637],[168.94392686354837,-46.09721509309737],[168.94391082910565,-46.09758838377769],[168.94231405812022,-46.09760940204887],[168.94227214494859,-46.09670084290619],[168.94226903478202,-46.09663497667417],[168.94222814033631,-46.09571203901605]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[168.942228,-46.095712],[168.944749,-46.095708],[168.94521700000001,-46.097166],[168.943927,-46.097215],[168.94391100000001,-46.097588],[168.94231400000001,-46.097609],[168.942272,-46.096701],[168.94226900000001,-46.096635],[168.942228,-46.095712]]],"type":"Polygon"}
 }

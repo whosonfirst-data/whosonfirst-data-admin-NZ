@@ -1,0 +1,77 @@
+{
+  "id": 1729342601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9144.664458,
+    "geom:bbox":"174.580665,-35.837525,174.581762,-35.836123",
+    "geom:latitude":-35.83688,
+    "geom:longitude":174.58119,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.836892,
+    "lbl:longitude":174.58131,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.836892,
+    "mps:longitude":174.58131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Tarakanahi Island"
+    ],
+    "nz-linz:name":"Tarakanahi Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4974
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622952,
+    "wof:geomhash":"a845ea40ac1141163ec9dde9fc108831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1729342601,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342601,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146689,
+    "wof:name":"Tarakanahi Island",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.580665,
+    -35.837525,
+    174.581762,
+    -35.836123
+],
+  "geometry": {"coordinates":[[[174.580783,-35.837525],[174.580669,-35.837415],[174.58066500000001,-35.83728],[174.580907,-35.837049],[174.58095900000001,-35.836936],[174.58095399999999,-35.836778],[174.58077800000001,-35.836466],[174.58077299999999,-35.836309],[174.581017,-35.836123],[174.58115699999999,-35.836166],[174.58167299999999,-35.836764],[174.581762,-35.836942],[174.581739,-35.837101],[174.58163200000001,-35.837238],[174.58103199999999,-35.837498],[174.580783,-35.837525]]],"type":"Polygon"}
+}

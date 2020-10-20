@@ -5,18 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":14405.960192,
-    "geom:bbox":"174.784943143,-36.982886407,174.78720018,-36.9817612287",
+    "geom:area_square_m":14401.179674,
+    "geom:bbox":"174.784943,-36.982886,174.7872,-36.981761",
     "geom:latitude":-36.982355,
     "geom:longitude":174.786082,
     "gn:population":55266,
     "iso:country":"NZ",
     "lbl:latitude":-36.982337,
     "lbl:longitude":174.786068,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-36.982337,
     "mps:longitude":174.786068,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Mangere"
     ],
@@ -36,9 +39,10 @@
     "src:population":"geonames",
     "wd:wordcount":539,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687243,
+        102191583,
+        1729238453,
+        85633345,
         102079403
     ],
     "wof:breaches":[],
@@ -48,20 +52,29 @@
         "wk:page":"M\u0101ngere"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c8bc6e978738f1d6c056dee6b0f9929f",
+    "wof:geomhash":"c42050e82ccec0051ea9429bb77a2e52",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
+            "localadmin_id":1729238453,
             "locality_id":101915283,
             "region_id":85687243
         }
     ],
     "wof:id":101915283,
-    "wof:lastmodified":1527643138,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603147385,
     "wof:name":"Mangere",
-    "wof:parent_id":102079403,
+    "wof:parent_id":1729238453,
     "wof:placetype":"locality",
     "wof:population":55266,
     "wof:population_rank":8,
@@ -73,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.78494314329788,
-    -36.98288640696514,
-    174.78720017964957,
-    -36.98176122869386
+    174.784943,
+    -36.982886,
+    174.7872,
+    -36.981761
 ],
-  "geometry": {"coordinates":[[[174.78546781584785,-36.98176122869386],[174.78720017964957,-36.982263762946],[174.78687391980188,-36.98288640696514],[174.78494314329788,-36.98253211629395],[174.78546781584785,-36.98176122869386]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[174.78546800000001,-36.981761],[174.78720000000001,-36.982264],[174.78687400000001,-36.982886],[174.784943,-36.982532],[174.78546800000001,-36.981761]]],"type":"Polygon"}
 }

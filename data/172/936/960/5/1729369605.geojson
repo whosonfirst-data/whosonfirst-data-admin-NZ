@@ -1,0 +1,60 @@
+{
+  "id": 1729369605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18196.342464,
+    "geom:bbox":"168.115611,-46.905587,168.117799,-46.90372",
+    "geom:latitude":-46.904748,
+    "geom:longitude":168.116927,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.904849,
+    "lbl:longitude":168.117002,
+    "mps:latitude":-46.904849,
+    "mps:longitude":168.117002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Thule Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888686,
+    "wof:geomhash":"c428717116342e921ea09877019a35cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369605,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729369605,
+    "wof:lastmodified":1603142787,
+    "wof:name":"Thule Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.115611,
+    -46.905587,
+    168.117799,
+    -46.90372
+],
+  "geometry": {"coordinates":[[[168.11775900000001,-46.90372],[168.11779899999999,-46.90484],[168.11722800000001,-46.905587],[168.11629500000001,-46.905269],[168.11582300000001,-46.904982],[168.11563699999999,-46.90484],[168.115611,-46.904749],[168.11575199999999,-46.904619],[168.116187,-46.904521],[168.11659700000001,-46.904311],[168.11700099999999,-46.904189],[168.11775900000001,-46.90372]]],"type":"Polygon"}
+}

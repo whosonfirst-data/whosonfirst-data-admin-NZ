@@ -1,0 +1,75 @@
+{
+  "id": 1729342441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6130.163718,
+    "geom:bbox":"173.622549,-34.945201,173.623629,-34.944261",
+    "geom:latitude":-34.944751,
+    "geom:longitude":173.623028,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.944723,
+    "lbl:longitude":173.622985,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.944723,
+    "mps:longitude":173.622985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Rahui Rock"
+    ],
+    "nz-linz:name":"Rahui Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4864
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622887,
+    "wof:geomhash":"3ee59b859ccb75a0803bd68cda77bc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342441,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342441,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146593,
+    "wof:name":"Rahui Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.622549,
+    -34.945201,
+    173.623629,
+    -34.944261
+],
+  "geometry": {"coordinates":[[[173.62362899999999,-34.945152],[173.623548,-34.945199],[173.62332900000001,-34.945201],[173.62288799999999,-34.945072],[173.62266600000001,-34.944895],[173.62255200000001,-34.944693],[173.62254899999999,-34.944513],[173.62262799999999,-34.944377],[173.62284500000001,-34.944261],[173.62309200000001,-34.944302],[173.62325999999999,-34.944503],[173.62332000000001,-34.944751],[173.62360000000001,-34.945062],[173.62362899999999,-34.945152]]],"type":"Polygon"}
+}

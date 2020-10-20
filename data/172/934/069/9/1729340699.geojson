@@ -1,0 +1,77 @@
+{
+  "id": 1729340699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":29126.560218,
+    "geom:bbox":"174.18769,-36.24141,174.189828,-36.239187",
+    "geom:latitude":-36.24036,
+    "geom:longitude":174.188829,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.240353,
+    "lbl:longitude":174.18885,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.240353,
+    "mps:longitude":174.18885,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kaiwhitu Island"
+    ],
+    "nz-linz:name":"Kaiwhitu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4413
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622132,
+    "wof:geomhash":"9f56e9701059a75eaed217ba695cec4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":1729340699,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340699,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145477,
+    "wof:name":"Kaiwhitu Island",
+    "wof:parent_id":102079259,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.18769,
+    -36.24141,
+    174.189828,
+    -36.239187
+],
+  "geometry": {"coordinates":[[[174.187951,-36.239789],[174.18831599999999,-36.239633],[174.188671,-36.239379],[174.189222,-36.239189],[174.189333,-36.239187],[174.189447,-36.239252],[174.18947600000001,-36.239342],[174.18931900000001,-36.239683],[174.189325,-36.239908],[174.189673,-36.240465],[174.18979200000001,-36.240712],[174.18982800000001,-36.241004],[174.18961200000001,-36.241233],[174.18908400000001,-36.241288],[174.18880899999999,-36.241405],[174.188503,-36.24141],[174.18836200000001,-36.241322],[174.188275,-36.241189],[174.188346,-36.240759],[174.18825899999999,-36.240604],[174.188163,-36.240551],[174.188061,-36.240494],[174.187838,-36.240453],[174.18769599999999,-36.240343],[174.18769,-36.240185],[174.18787499999999,-36.239821],[174.187951,-36.239789]]],"type":"Polygon"}
+}

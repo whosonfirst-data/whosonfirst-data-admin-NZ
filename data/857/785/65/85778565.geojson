@@ -19,8 +19,8 @@
     "mps:latitude":-41.177549,
     "mps:longitude":174.817042,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -61,11 +61,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":252,
     "wof:belongsto":[
-        85687233,
         102191583,
+        1729238583,
         85633345,
         101914575,
-        102079339
+        102079339,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,16 +87,22 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
+            "localadmin_id":1729238583,
             "locality_id":101914575,
             "neighbourhood_id":85778565,
             "region_id":85687233
         }
     ],
     "wof:id":85778565,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316521,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210272,
     "wof:name":"Redwood",
     "wof:parent_id":101914575,
     "wof:placetype":"neighbourhood",

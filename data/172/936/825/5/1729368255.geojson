@@ -1,0 +1,60 @@
+{
+  "id": 1729368255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":111701.920447,
+    "geom:bbox":"174.460365,-35.491062,174.465625,-35.488315",
+    "geom:latitude":-35.489702,
+    "geom:longitude":174.463243,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.489705,
+    "lbl:longitude":174.463243,
+    "mps:latitude":-35.489705,
+    "mps:longitude":174.463243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Otamure Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888145,
+    "wof:geomhash":"b730892231296d6f05db696cb8ff0855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368255,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729368255,
+    "wof:lastmodified":1603142126,
+    "wof:name":"Otamure Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.460365,
+    -35.491062,
+    174.465625,
+    -35.488315
+],
+  "geometry": {"coordinates":[[[174.46525099999999,-35.488436],[174.46562499999999,-35.490477],[174.46530300000001,-35.490754],[174.465172,-35.490787],[174.464865,-35.490865],[174.46440899999999,-35.490953],[174.46390500000001,-35.491051],[174.46216899999999,-35.491062],[174.46184400000001,-35.490957],[174.461646,-35.490892],[174.46154999999999,-35.490525],[174.46151599999999,-35.490399],[174.461094,-35.490115],[174.46065200000001,-35.490078],[174.460488,-35.490126],[174.460373,-35.489994],[174.46036899999999,-35.489824],[174.460365,-35.489678],[174.460444,-35.489564],[174.462256,-35.488315],[174.46525099999999,-35.488436]]],"type":"Polygon"}
+}

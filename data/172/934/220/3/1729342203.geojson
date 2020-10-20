@@ -1,0 +1,75 @@
+{
+  "id": 1729342203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9394.961349,
+    "geom:bbox":"174.322693,-36.256463,174.324198,-36.255435",
+    "geom:latitude":-36.256028,
+    "geom:longitude":174.323405,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.255949,
+    "lbl:longitude":174.323344,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.255949,
+    "mps:longitude":174.323344,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Ngamotu Island"
+    ],
+    "nz-linz:name":"Ngamotu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4722
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622792,
+    "wof:geomhash":"272a83963d43229165ccdab3470f7788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342203,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342203,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146449,
+    "wof:name":"Ngamotu Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.322693,
+    -36.256463,
+    174.324198,
+    -36.255435
+],
+  "geometry": {"coordinates":[[[174.32344699999999,-36.255497],[174.323565,-36.255566],[174.32416900000001,-36.256254],[174.324198,-36.256299],[174.324118,-36.25639],[174.324083,-36.256399],[174.32384099999999,-36.256463],[174.32350700000001,-36.256446],[174.32330899999999,-36.25636],[174.322836,-36.256346],[174.32269299999999,-36.256213],[174.32276999999999,-36.255986],[174.32298399999999,-36.255666],[174.32314700000001,-36.255506],[174.323339,-36.255435],[174.32344699999999,-36.255497]]],"type":"Polygon"}
+}

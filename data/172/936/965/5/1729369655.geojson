@@ -1,0 +1,60 @@
+{
+  "id": 1729369655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27059.652624,
+    "geom:bbox":"174.188983,-35.229932,174.191128,-35.227808",
+    "geom:latitude":-35.229009,
+    "geom:longitude":174.190119,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.229092,
+    "lbl:longitude":174.190135,
+    "mps:latitude":-35.229092,
+    "mps:longitude":174.190135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Waipao Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888706,
+    "wof:geomhash":"c516a9f181c797b8d8b616b44802899b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369655,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729369655,
+    "wof:lastmodified":1603142811,
+    "wof:name":"Waipao Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.188983,
+    -35.229932,
+    174.191128,
+    -35.227808
+],
+  "geometry": {"coordinates":[[[174.190011,-35.227808],[174.19062099999999,-35.228045],[174.19084699999999,-35.228244],[174.19086899999999,-35.228383],[174.190856,-35.228502],[174.19084799999999,-35.228872],[174.19098399999999,-35.229307],[174.19112799999999,-35.229548],[174.18982199999999,-35.229932],[174.18898300000001,-35.22975],[174.190011,-35.227808]]],"type":"Polygon"}
+}

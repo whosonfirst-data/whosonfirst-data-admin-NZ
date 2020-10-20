@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.860188,
-    "geom:area_square_m":8349173311.347577,
+    "geom:area_square_m":8349172339.540645,
     "geom:bbox":"177.122171,-38.972812,178.577244,-37.534249",
     "geom:latitude":-38.281528,
     "geom:longitude":177.920863,
@@ -56,6 +56,9 @@
     ],
     "name:eng_x_variant":[
         "Gisborne"
+    ],
+    "name:epo_x_preferred":[
+        "Gisborne Regiono"
     ],
     "name:fin_x_preferred":[
         "Gisbornen maakunta"
@@ -111,6 +114,9 @@
     "name:mri_x_preferred":[
         "T\u016branga-nui-a-Kiwa"
     ],
+    "name:mri_x_variant":[
+        "Te Tair\u0101whiti"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Gisborne"
     ],
@@ -165,6 +171,18 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Gisborne"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5409\u65af\u4f2f\u6069\u5927\u533a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5409\u65af\u4f2f\u6069\u5927\u5340"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5409\u65af\u4f2f\u6069\u5927\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5409\u65af\u4f2f\u6069\u5927\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u5409\u65af\u4f2f\u6069\u5927\u533a"
     ],
@@ -218,7 +236,15 @@
         }
     ],
     "wof:id":102079325,
-    "wof:lastmodified":1583950777,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229236,
     "wof:name":"Gisborne District",
     "wof:parent_id":85687237,
     "wof:placetype":"county",

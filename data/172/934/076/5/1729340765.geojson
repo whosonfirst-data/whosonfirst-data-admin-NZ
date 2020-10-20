@@ -1,0 +1,75 @@
+{
+  "id": 1729340765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5379.579774,
+    "geom:bbox":"173.817776,-34.990732,173.818571,-34.989719",
+    "geom:latitude":-34.99022,
+    "geom:longitude":173.818222,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.990133,
+    "lbl:longitude":173.818229,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.990133,
+    "mps:longitude":173.818229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Karaka Island"
+    ],
+    "nz-linz:name":"Karaka Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4419
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622159,
+    "wof:geomhash":"bad53fd9263731b3d296ae404577bd8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340765,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340765,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145515,
+    "wof:name":"Karaka Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.817776,
+    -34.990732,
+    173.818571,
+    -34.989719
+],
+  "geometry": {"coordinates":[[[173.81839500000001,-34.990732],[173.81809200000001,-34.990669],[173.81797900000001,-34.990558],[173.81797399999999,-34.990333],[173.81780499999999,-34.990132],[173.81777600000001,-34.990065],[173.81785500000001,-34.989952],[173.818288,-34.989719],[173.818455,-34.989829],[173.81857099999999,-34.990075],[173.81847500000001,-34.990663],[173.81839500000001,-34.990732]]],"type":"Polygon"}
+}

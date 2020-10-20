@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.040614,
-    "geom:area_square_m":9644343795.869965,
+    "geom:area_square_m":9644344068.574627,
     "geom:bbox":"172.050586,-42.305574,173.304418,-40.498029",
     "geom:latitude":-41.449472,
     "geom:longitude":172.648642,
@@ -147,6 +147,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bbe\u0bb8\u0bcd\u0bae\u0bbe\u0ba9\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b9f\u0bbe\u0bb8\u0bcd\u0bae\u0bbe\u0ba9\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c38\u0c4d\u0c2e\u0c3e\u0c28\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -218,7 +221,15 @@
         }
     ],
     "wof:id":102079349,
-    "wof:lastmodified":1583950779,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229234,
     "wof:name":"Tasman District",
     "wof:parent_id":85687219,
     "wof:placetype":"county",

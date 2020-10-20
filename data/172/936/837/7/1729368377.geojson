@@ -1,0 +1,60 @@
+{
+  "id": 1729368377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":103715.914763,
+    "geom:bbox":"174.112452,-41.207817,174.118088,-41.204209",
+    "geom:latitude":-41.205948,
+    "geom:longitude":174.115126,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.206131,
+    "lbl:longitude":174.115639,
+    "mps:latitude":-41.206131,
+    "mps:longitude":174.115639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Ratimera Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888195,
+    "wof:geomhash":"ad0d47df98d1991b37c089c586f61f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368377,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729368377,
+    "wof:lastmodified":1603142185,
+    "wof:name":"Ratimera Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.112452,
+    -41.207817,
+    174.118088,
+    -41.204209
+],
+  "geometry": {"coordinates":[[[174.118088,-41.206679],[174.11568299999999,-41.207817],[174.114656,-41.207015],[174.11417499999999,-41.206816],[174.113606,-41.206732],[174.11336499999999,-41.206576],[174.11324099999999,-41.206307],[174.11302900000001,-41.206084],[174.11295000000001,-41.205781],[174.112854,-41.205678],[174.11281199999999,-41.205635],[174.112663,-41.205592],[174.11251300000001,-41.205548],[174.11245199999999,-41.205481],[174.112504,-41.205008],[174.112943,-41.204474],[174.11329599999999,-41.204211],[174.113505,-41.204209],[174.11368999999999,-41.204294],[174.114858,-41.204827],[174.11557999999999,-41.204763],[174.115813,-41.204656],[174.115959,-41.204546],[174.118088,-41.206679]]],"type":"Polygon"}
+}

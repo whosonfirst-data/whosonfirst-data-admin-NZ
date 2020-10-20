@@ -1,0 +1,75 @@
+{
+  "id": 1729340697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2125.108714,
+    "geom:bbox":"174.503066,-37.050624,174.503914,-37.050224",
+    "geom:latitude":-37.050404,
+    "geom:longitude":174.503478,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.050376,
+    "lbl:longitude":174.503443,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.050376,
+    "mps:longitude":174.503443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Ninepin Rock"
+    ],
+    "nz-linz:name":"Ninepin Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4728
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622132,
+    "wof:geomhash":"1d095d0e778aadd985704651cbfceaaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340697,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729340697,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145476,
+    "wof:name":"Ninepin Rock",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.503066,
+    -37.050624,
+    174.503914,
+    -37.050224
+],
+  "geometry": {"coordinates":[[[174.503118,-37.050229],[174.503456,-37.050224],[174.50353999999999,-37.050245],[174.50379599999999,-37.050354],[174.503882,-37.050443],[174.50391400000001,-37.0506],[174.50382999999999,-37.050624],[174.50380200000001,-37.050624],[174.50363100000001,-37.050514],[174.50323800000001,-37.050543],[174.50306599999999,-37.05041],[174.503118,-37.050229]]],"type":"Polygon"}
+}

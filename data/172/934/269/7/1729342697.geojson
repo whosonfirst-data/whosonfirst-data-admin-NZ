@@ -1,0 +1,78 @@
+{
+  "id": 1729342697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":490.291808,
+    "geom:bbox":"173.936491,-34.96649,173.936876,-34.966287",
+    "geom:latitude":-34.966379,
+    "geom:longitude":173.936685,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.966373,
+    "lbl:longitude":173.936689,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.966373,
+    "mps:longitude":173.936689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "True Love Reef"
+    ],
+    "name:mri_x_preferred":[
+        "Tokananohia Reef"
+    ],
+    "nz-linz:name":"Tokananohia Reef (True Love Reef)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5055
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622991,
+    "wof:geomhash":"185a44fa551fc06c39bec89dbda6ab72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342697,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342697,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146744,
+    "wof:name":"True Love Reef",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.936491,
+    -34.96649,
+    173.936876,
+    -34.966287
+],
+  "geometry": {"coordinates":[[[173.93687600000001,-34.96642],[173.93679599999999,-34.96649],[173.936575,-34.966426],[173.93649099999999,-34.966359],[173.936544,-34.966291],[173.936736,-34.966287],[173.93687600000001,-34.96642]]],"type":"Polygon"}
+}

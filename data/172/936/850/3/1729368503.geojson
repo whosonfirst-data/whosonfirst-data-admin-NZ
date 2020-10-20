@@ -1,0 +1,60 @@
+{
+  "id": 1729368503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":152604.674617,
+    "geom:bbox":"173.041107,-40.97693,173.048171,-40.973007",
+    "geom:latitude":-40.974879,
+    "geom:longitude":173.044306,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.974826,
+    "lbl:longitude":173.044238,
+    "mps:latitude":-40.974826,
+    "mps:longitude":173.044238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Stilwell Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888245,
+    "wof:geomhash":"9c1efbb026716e276d1195cba47a9efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368503,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1729368503,
+    "wof:lastmodified":1603142246,
+    "wof:name":"Stilwell Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.041107,
+    -40.97693,
+    173.048171,
+    -40.973007
+],
+  "geometry": {"coordinates":[[[173.04110700000001,-40.97693],[173.04147900000001,-40.976487],[173.04162500000001,-40.976238],[173.04168100000001,-40.97599],[173.041617,-40.975495],[173.04161400000001,-40.975157],[173.04175699999999,-40.974729],[173.04245900000001,-40.973599],[173.04289,-40.973162],[173.043226,-40.973055],[173.043612,-40.973007],[173.04393999999999,-40.97305],[173.044566,-40.973362],[173.044805,-40.973428],[173.04530500000001,-40.973411],[173.04560799999999,-40.9734],[173.04611600000001,-40.973532],[173.046559,-40.973349],[173.046797,-40.973416],[173.047606,-40.973928],[173.04790399999999,-40.974038],[173.048171,-40.974036],[173.046064,-40.975962],[173.04374999999999,-40.976585],[173.04110700000001,-40.97693]]],"type":"Polygon"}
+}

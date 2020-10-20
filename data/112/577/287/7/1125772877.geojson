@@ -16,8 +16,9 @@
     "lbl:longitude":170.926837,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:abk_x_preferred":[
@@ -125,6 +126,9 @@
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0627\u0646\u200c\u0631\u0648\u062f\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0646 \u0627\u0644\u0646\u0647\u0631\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Mesopotamia"
     ],
@@ -139,6 +143,9 @@
     ],
     "name:gan_x_preferred":[
         "\u7f8e\u7d22\u4e0d\u9054\u7c73\u4e9e"
+    ],
+    "name:gcr_x_preferred":[
+        "M\u00e9zopotami"
     ],
     "name:gle_x_preferred":[
         "An Mheaspat\u00e1im"
@@ -175,6 +182,9 @@
     ],
     "name:hyw_x_preferred":[
         "\u0544\u056b\u057b\u0561\u0563\u0565\u057f\u0584"
+    ],
+    "name:ido_x_preferred":[
+        "Mezopotamia"
     ],
     "name:ilo_x_preferred":[
         "Mesopotamia"
@@ -239,6 +249,9 @@
     "name:lit_x_preferred":[
         "Mesopotamija"
     ],
+    "name:lld_x_preferred":[
+        "Mesopotamia"
+    ],
     "name:ltz_x_preferred":[
         "Mesopotamien"
     ],
@@ -257,8 +270,14 @@
     "name:mlg_x_preferred":[
         "Mesopotamia"
     ],
+    "name:mlg_x_variant":[
+        "Mes\u00f4p\u00f4tamia"
+    ],
     "name:mon_x_preferred":[
         "\u041c\u0435\u0441\u043e\u043f\u043e\u0442\u0430\u043c"
+    ],
+    "name:mon_x_variant":[
+        "\u041c\u0435\u0441\u043e\u043f\u043e\u0442\u0430\u043c\u0438"
     ],
     "name:msa_x_preferred":[
         "Mesopotamia"
@@ -442,8 +461,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079373
+        102079373,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -463,7 +482,15 @@
         }
     ],
     "wof:id":1125772877,
-    "wof:lastmodified":1566672649,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230692,
     "wof:name":"Mesopotamia",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

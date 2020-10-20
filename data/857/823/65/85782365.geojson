@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +19,7 @@
     "mps:latitude":-36.864925,
     "mps:longitude":174.90822,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -60,11 +61,10 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":6039,
     "wof:belongsto":[
-        85687243,
         102191583,
+        1125921137,
         85633345,
-        101914257,
-        102079403
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,30 +74,36 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"0dc7665a1a1ad496f13612ef15a1493a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":102079403,
-            "locality_id":101914257,
+            "locality_id":1125921137,
             "neighbourhood_id":85782365,
             "region_id":85687243
         }
     ],
     "wof:id":85782365,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200953,
     "wof:name":"Bucklands Beach",
-    "wof:parent_id":101914257,
+    "wof:parent_id":1125921137,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125921137
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

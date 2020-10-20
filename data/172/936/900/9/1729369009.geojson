@@ -1,0 +1,60 @@
+{
+  "id": 1729369009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":59866.25897,
+    "geom:bbox":"175.130024,-36.767735,175.133135,-36.765085",
+    "geom:latitude":-36.766488,
+    "geom:longitude":175.13152,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.766467,
+    "lbl:longitude":175.13152,
+    "mps:latitude":-36.766467,
+    "mps:longitude":175.13152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Cactus Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888452,
+    "wof:geomhash":"c34359a6f81c8340e3ce2ff27f349eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369009,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369009,
+    "wof:lastmodified":1603142496,
+    "wof:name":"Cactus Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.130024,
+    -36.767735,
+    175.133135,
+    -36.765085
+],
+  "geometry": {"coordinates":[[[175.13002399999999,-36.767068],[175.13022799999999,-36.765619],[175.131912,-36.765085],[175.13313500000001,-36.766171],[175.133039,-36.766575],[175.132936,-36.767009],[175.13276099999999,-36.767227],[175.132533,-36.767386],[175.13237699999999,-36.767494],[175.13206,-36.767658],[175.131584,-36.767735],[175.130675,-36.7676],[175.130515,-36.767576],[175.130314,-36.767423],[175.13021900000001,-36.767278],[175.130213,-36.76727],[175.13013799999999,-36.767156],[175.13002399999999,-36.767068]]],"type":"Polygon"}
+}

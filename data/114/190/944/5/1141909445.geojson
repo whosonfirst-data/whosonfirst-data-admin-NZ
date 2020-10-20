@@ -8,14 +8,18 @@
     "edtf:superseded":"2018-08-17",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.90330651,-37.2014924476,174.90330651,-37.2014924476",
+    "geom:bbox":"174.903307,-37.201492,174.903307,-37.201492",
     "geom:latitude":-37.201492,
     "geom:longitude":174.903307,
     "iso:country":"NZ",
     "lbl:latitude":-37.201492,
     "lbl:longitude":174.903307,
-    "mz:hierarchy_label":1,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Pukekohe"
     ],
@@ -241,7 +245,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1499131080,
-    "wof:geomhash":"bcb6bc2f50025ff65fb548063e829af5",
+    "wof:geomhash":"b811732b66c9f4e1cca3233ee4e08ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -252,7 +256,15 @@
         }
     ],
     "wof:id":1141909445,
-    "wof:lastmodified":1561775530,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149417,
     "wof:name":"Pukekohe",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
@@ -264,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.90330650954624,
-    -37.20149244756647,
-    174.90330650954624,
-    -37.20149244756647
+    174.903307,
+    -37.201492,
+    174.903307,
+    -37.201492
 ],
-  "geometry": {"coordinates":[174.90330650954624,-37.20149244756647],"type":"Point"}
+  "geometry": {"coordinates":[174.90330700000001,-37.201492],"type":"Point"}
 }

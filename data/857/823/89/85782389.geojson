@@ -11,13 +11,14 @@
     "geom:longitude":174.780889,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.800889,-36.871024,174.800889,-36.871024",
     "lbl:latitude":-36.891024,
     "lbl:longitude":174.780889,
     "lbl:max_zoom":18.0,
     "mps:latitude":-36.886598,
     "mps:longitude":174.777523,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -55,10 +56,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403
+        1126057993,
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,18 +79,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "localadmin_id":1729238453,
+            "locality_id":1126057993,
             "neighbourhood_id":85782389,
             "region_id":85687243
         }
     ],
     "wof:id":85782389,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210196,
     "wof:name":"Epsom Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":1126057993,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

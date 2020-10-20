@@ -1,0 +1,77 @@
+{
+  "id": 1729342381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26665.259472,
+    "geom:bbox":"173.933274,-35.030114,173.935357,-35.028247",
+    "geom:latitude":-35.029116,
+    "geom:longitude":173.934369,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.029107,
+    "lbl:longitude":173.934454,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.029107,
+    "mps:longitude":173.934454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Piraunui Island"
+    ],
+    "nz-linz:name":"Piraunui Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4817
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622863,
+    "wof:geomhash":"e81f3e2eaccbe5a6b5a8c041ac58dd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729342381,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342381,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146553,
+    "wof:name":"Piraunui Island",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.933274,
+    -35.030114,
+    173.935357,
+    -35.028247
+],
+  "geometry": {"coordinates":[[[173.93339800000001,-35.028415],[173.933617,-35.028434],[173.93385900000001,-35.028249],[173.934023,-35.028247],[173.934247,-35.0284],[173.93463,-35.028394],[173.93482499999999,-35.028526],[173.93488099999999,-35.028547],[173.93507,-35.028432],[173.935237,-35.02852],[173.93535199999999,-35.028765],[173.93535700000001,-35.028946],[173.93519699999999,-35.029128],[173.93523300000001,-35.029466],[173.93504999999999,-35.029808],[173.93508,-35.029943],[173.935,-35.030011],[173.934754,-35.03006],[173.934507,-35.030019],[173.93437299999999,-35.030112],[173.934235,-35.030114],[173.93404000000001,-35.030005],[173.934033,-35.029712],[173.93375,-35.029356],[173.933583,-35.029246],[173.93341899999999,-35.029249],[173.93330700000001,-35.029183],[173.93327400000001,-35.028936],[173.933379,-35.028753],[173.93334400000001,-35.028461],[173.93339800000001,-35.028415]]],"type":"Polygon"}
+}

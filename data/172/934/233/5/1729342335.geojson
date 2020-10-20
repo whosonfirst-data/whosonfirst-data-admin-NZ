@@ -1,0 +1,75 @@
+{
+  "id": 1729342335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1945.817306,
+    "geom:bbox":"174.366436,-35.343761,174.367017,-35.343327",
+    "geom:latitude":-35.343567,
+    "geom:longitude":174.366738,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.34356,
+    "lbl:longitude":174.366762,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.34356,
+    "mps:longitude":174.366762,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Parerangi Island"
+    ],
+    "nz-linz:name":"Parerangi Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4790
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622844,
+    "wof:geomhash":"086171a549b9533f5353085dca57f612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342335,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342335,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146527,
+    "wof:name":"Parerangi Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.366436,
+    -35.343761,
+    174.367017,
+    -35.343327
+],
+  "geometry": {"coordinates":[[[174.36655300000001,-35.343761],[174.36644000000001,-35.343673],[174.36643599999999,-35.343538],[174.36673200000001,-35.343329],[174.36684199999999,-35.343327],[174.366983,-35.343437],[174.367017,-35.343662],[174.36690999999999,-35.343755],[174.36655300000001,-35.343761]]],"type":"Polygon"}
+}

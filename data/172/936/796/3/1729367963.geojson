@@ -1,0 +1,60 @@
+{
+  "id": 1729367963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":38956.374153,
+    "geom:bbox":"174.528053,-37.033594,174.530762,-37.031256",
+    "geom:latitude":-37.032511,
+    "geom:longitude":174.529471,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.032551,
+    "lbl:longitude":174.529445,
+    "mps:latitude":-37.032551,
+    "mps:longitude":174.529445,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Makaka Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888027,
+    "wof:geomhash":"92f742a90f9bace2249755d547e76d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367963,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729367963,
+    "wof:lastmodified":1603141988,
+    "wof:name":"Makaka Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.528053,
+    -37.033594,
+    174.530762,
+    -37.031256
+],
+  "geometry": {"coordinates":[[[174.528053,-37.031911],[174.528448,-37.031951],[174.528808,-37.031764],[174.528919,-37.031695],[174.529358,-37.031306],[174.52947,-37.031259],[174.52963800000001,-37.031256],[174.529752,-37.031299],[174.52994699999999,-37.031459],[174.530069,-37.03161],[174.530134,-37.031992],[174.53076200000001,-37.03241],[174.53027499999999,-37.033594],[174.52879100000001,-37.033466],[174.528053,-37.031911]]],"type":"Polygon"}
+}

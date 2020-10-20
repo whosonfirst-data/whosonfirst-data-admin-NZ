@@ -5,18 +5,22 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":15755.433373,
-    "geom:bbox":"172.247841135,-43.8073653655,172.249959319,-43.8056790604",
-    "geom:latitude":-43.806518,
+    "geom:area_square_m":15754.630817,
+    "geom:bbox":"172.247841,-43.807365,172.249959,-43.805679",
+    "geom:latitude":-43.806517,
     "geom:longitude":172.248906,
     "gn:population":785,
     "iso:country":"NZ",
     "lbl:latitude":-43.806533,
     "lbl:longitude":172.248891,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-43.806533,
     "mps:longitude":172.248891,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Southbridge"
     ],
@@ -54,7 +58,7 @@
         "wk:page":"Southbridge, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3344893f319041e68d6bb3c21d92b329",
+    "wof:geomhash":"ba38ca80f2110230e18fdb70b4cf1f64",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +69,15 @@
         }
     ],
     "wof:id":101918035,
-    "wof:lastmodified":1527715677,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148563,
     "wof:name":"Southbridge",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",
@@ -79,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    172.24784113508022,
-    -43.80736536549237,
-    172.24995931925696,
-    -43.80567906040566
+    172.247841,
+    -43.807365,
+    172.249959,
+    -43.805679
 ],
-  "geometry": {"coordinates":[[[172.24995931925696,-43.8069463495739],[172.24893489573321,-43.80736536549237],[172.24784113508022,-43.80602990313298],[172.24867065804585,-43.80567906040566],[172.24897781745659,-43.80605325630374],[172.24920859982637,-43.80596336284761],[172.24995931925696,-43.8069463495739]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[172.24995899999999,-43.806946],[172.24893499999999,-43.807365],[172.24784099999999,-43.80603],[172.248671,-43.805679],[172.24897799999999,-43.806053],[172.24920900000001,-43.805963],[172.24995899999999,-43.806946]]],"type":"Polygon"}
 }

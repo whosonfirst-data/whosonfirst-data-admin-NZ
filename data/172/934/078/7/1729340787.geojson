@@ -1,0 +1,78 @@
+{
+  "id": 1729340787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18469.95266,
+    "geom:bbox":"176.987321,-39.859055,176.989415,-39.857415",
+    "geom:latitude":-39.858211,
+    "geom:longitude":176.988402,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.858216,
+    "lbl:longitude":176.988386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-39.858216,
+    "mps:longitude":176.988386,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Red Island"
+    ],
+    "name:mri_x_preferred":[
+        "Karamea"
+    ],
+    "nz-linz:name":"Karamea (Red Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4420
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622168,
+    "wof:geomhash":"c3855fb7186d9d57c871cea1176c1411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340787,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1729340787,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145530,
+    "wof:name":"Red Island",
+    "wof:parent_id":85687189,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.987321,
+    -39.859055,
+    176.989415,
+    -39.857415
+],
+  "geometry": {"coordinates":[[[176.987506,-39.857451],[176.98762199999999,-39.857423],[176.98782600000001,-39.857415],[176.988246,-39.857556],[176.98879700000001,-39.857917],[176.989127,-39.858039],[176.98931200000001,-39.85819],[176.98941500000001,-39.858411],[176.98929999999999,-39.858866],[176.98910900000001,-39.859055],[176.98881399999999,-39.859044],[176.98854299999999,-39.85892],[176.988169,-39.858596],[176.987619,-39.858236],[176.98736600000001,-39.857952],[176.98732100000001,-39.857728],[176.987368,-39.857569],[176.987506,-39.857451]]],"type":"Polygon"}
+}

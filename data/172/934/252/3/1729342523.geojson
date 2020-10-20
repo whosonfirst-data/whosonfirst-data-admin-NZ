@@ -1,0 +1,92 @@
+{
+  "id": 1729342523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":32767.958689,
+    "geom:bbox":"171.36604,-42.033944,171.367909,-42.030481",
+    "geom:latitude":-42.032569,
+    "geom:longitude":171.366935,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.03296,
+    "lbl:longitude":171.366921,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-42.03296,
+    "mps:longitude":171.366921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Seal Island"
+    ],
+    "name:deu_x_preferred":[
+        "Seal Island"
+    ],
+    "name:eng_x_preferred":[
+        "Seal Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele aux Phoques"
+    ],
+    "name:pol_x_preferred":[
+        "Seal Island"
+    ],
+    "name:swe_x_preferred":[
+        "Seal Island"
+    ],
+    "nz-linz:name":"Seal Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079357,
+        85687165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4917
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622919,
+    "wof:geomhash":"e5c4f2057813370b98e649501a078418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":1729342523,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1729342523,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229829,
+    "wof:name":"Seal Island",
+    "wof:parent_id":102079357,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.36604,
+    -42.033944,
+    171.367909,
+    -42.030481
+],
+  "geometry": {"coordinates":[[[171.36617899999999,-42.033737],[171.366187,-42.033264],[171.36604,-42.033014],[171.36604299999999,-42.032789],[171.366443,-42.032411],[171.36650499999999,-42.032321],[171.36650800000001,-42.032141],[171.366479,-42.032073],[171.36606599999999,-42.031506],[171.36615699999999,-42.03144],[171.36627799999999,-42.03144],[171.366848,-42.031671],[171.36701400000001,-42.030817],[171.367108,-42.03057],[171.3672,-42.030481],[171.36734999999999,-42.030505],[171.36737199999999,-42.031068],[171.36744999999999,-42.031767],[171.36750799999999,-42.031902],[171.36764700000001,-42.032669],[171.36764199999999,-42.032984],[171.36767,-42.033075],[171.367909,-42.03328],[171.367786,-42.033413],[171.36745099999999,-42.0335],[171.367448,-42.033726],[171.36741699999999,-42.033793],[171.36726300000001,-42.033905],[171.36690200000001,-42.033856],[171.36666,-42.033944],[171.366568,-42.033943],[171.36641700000001,-42.033919],[171.36623800000001,-42.033828],[171.36617899999999,-42.033737]]],"type":"Polygon"}
+}

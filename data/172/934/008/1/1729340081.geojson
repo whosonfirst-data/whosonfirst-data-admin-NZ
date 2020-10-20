@@ -1,0 +1,78 @@
+{
+  "id": 1729340081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":789.822924,
+    "geom:bbox":"173.731888,-35.050351,173.732326,-35.050101",
+    "geom:latitude":-35.050219,
+    "geom:longitude":173.732126,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.050226,
+    "lbl:longitude":173.732126,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.050226,
+    "mps:longitude":173.732126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Red Island"
+    ],
+    "name:mri_x_preferred":[
+        "Motu Wai Island"
+    ],
+    "nz-linz:name":"Motu Wai Island (Red Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4524
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621881,
+    "wof:geomhash":"5ec6e922f5da1c0aa6536d5063a42ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340081,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340081,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145024,
+    "wof:name":"Red Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.731888,
+    -35.050351,
+    173.732326,
+    -35.050101
+],
+  "geometry": {"coordinates":[[[173.732326,-35.050167],[173.732248,-35.050349],[173.73208399999999,-35.050351],[173.731888,-35.050218],[173.732023,-35.050103],[173.73224200000001,-35.050101],[173.732326,-35.050167]]],"type":"Polygon"}
+}

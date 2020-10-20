@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "mps:latitude":-39.62188,
     "mps:longitude":176.847377,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -70,7 +71,9 @@
     "wof:belongsto":[
         85687189,
         102191583,
+        1729238473,
         85633345,
+        101914313,
         102079329
     ],
     "wof:breaches":[],
@@ -90,21 +93,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079329,
-            "locality_id":-1,
+            "localadmin_id":1729238473,
+            "locality_id":101914313,
             "neighbourhood_id":85780985,
             "region_id":85687189
         }
     ],
     "wof:id":85780985,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316528,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200755,
     "wof:name":"Mahora",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914313,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729339103
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

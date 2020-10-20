@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30685,
-    "geom:area_square_m":2728007475.939997,
+    "geom:area_square_m":2728007415.350816,
     "geom:bbox":"170.582292,-44.501025,171.506753,-43.451478",
     "geom:latitude":-44.028849,
     "geom:longitude":171.086051,
@@ -44,6 +44,12 @@
     ],
     "name:eng_x_variant":[
         "Timaru"
+    ],
+    "name:fra_x_preferred":[
+        "Timaru"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u0430\u0440\u0443"
     ],
     "qs:a0":"New Zealand",
     "qs:a2":"Timaru District",
@@ -95,7 +101,15 @@
         }
     ],
     "wof:id":102079373,
-    "wof:lastmodified":1583950786,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229259,
     "wof:name":"Timaru District",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

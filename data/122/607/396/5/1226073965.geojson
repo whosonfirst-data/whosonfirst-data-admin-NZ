@@ -27,8 +27,9 @@
     "lbl:bbox":"170.06333,-45.67,170.10333,-45.63",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +43,7 @@
         "gn:id":2186407
     },
     "wof:country":"NZ",
-    "wof:geomhash":"44cf1247c43fd4bc2816a4cc077ddfe7",
+    "wof:geomhash":"f2ec91b8f1e4eaaa42a0132b02fa2bab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,15 @@
         }
     ],
     "wof:id":1226073965,
-    "wof:lastmodified":1566672694,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149556,
     "wof:name":"Mowhiti",
     "wof:parent_id":102079387,
     "wof:placetype":"locality",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    170.08333000000005,
+    170.08333,
     -45.65,
-    170.08333000000005,
+    170.08333,
     -45.65
 ],
-  "geometry": {"coordinates":[170.08333000000005,-45.65],"type":"Point"}
+  "geometry": {"coordinates":[170.08332999999999,-45.65],"type":"Point"}
 }

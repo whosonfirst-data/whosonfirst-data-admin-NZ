@@ -1,0 +1,60 @@
+{
+  "id": 1729368213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":127054.494907,
+    "geom:bbox":"174.264879,-35.226922,174.270005,-35.223196",
+    "geom:latitude":-35.225121,
+    "geom:longitude":174.267293,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.224898,
+    "lbl:longitude":174.267086,
+    "mps:latitude":-35.224898,
+    "mps:longitude":174.267086,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Opourua Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888128,
+    "wof:geomhash":"f9eaeeb538969e6811425bd68586f2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368213,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729368213,
+    "wof:lastmodified":1603142106,
+    "wof:name":"Opourua Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.264879,
+    -35.226922,
+    174.270005,
+    -35.223196
+],
+  "geometry": {"coordinates":[[[174.26981000000001,-35.225976],[174.265006,-35.226922],[174.265039,-35.226747],[174.26502300000001,-35.226575],[174.26487900000001,-35.226287],[174.264884,-35.225858],[174.264948,-35.225754],[174.26521,-35.225257],[174.26566600000001,-35.223873],[174.26587900000001,-35.223653],[174.266198,-35.223636],[174.26647199999999,-35.223486],[174.266693,-35.223334],[174.26678699999999,-35.223302],[174.267077,-35.223288],[174.267257,-35.223196],[174.270005,-35.224646],[174.26981000000001,-35.225976]]],"type":"Polygon"}
+}

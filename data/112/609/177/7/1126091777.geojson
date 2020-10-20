@@ -18,9 +18,13 @@
     "lbl:longitude":174.53333,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:mri_x_preferred":[
+        "Taurikura"
+    ],
     "name:nno_x_preferred":[
         "Taurikura"
     ],
@@ -51,10 +55,11 @@
     "woe:name_adm1":"Northland",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687149,
         102191583,
         85633345,
-        102079257
+        102079257,
+        1310136319,
+        85687149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,15 +75,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
-            "locality_id":-1,
+            "locality_id":1310136319,
             "neighbourhood_id":1126091777,
             "region_id":85687149
         }
     ],
     "wof:id":1126091777,
-    "wof:lastmodified":1566672635,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230646,
     "wof:name":"Taurikura",
-    "wof:parent_id":-1,
+    "wof:parent_id":1310136319,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

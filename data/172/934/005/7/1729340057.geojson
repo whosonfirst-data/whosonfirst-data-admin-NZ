@@ -1,0 +1,75 @@
+{
+  "id": 1729340057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3034.909092,
+    "geom:bbox":"173.412057,-35.463324,173.412608,-35.462535",
+    "geom:latitude":-35.462904,
+    "geom:longitude":173.412344,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.462893,
+    "lbl:longitude":173.41235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.462893,
+    "mps:longitude":173.41235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Mahena Island"
+    ],
+    "nz-linz:name":"Mahena Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4473
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621871,
+    "wof:geomhash":"dbf7fca1517282edfdea2c43d15deb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340057,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340057,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145012,
+    "wof:name":"Mahena Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.412057,
+    -35.463324,
+    173.412608,
+    -35.462535
+],
+  "geometry": {"coordinates":[[[173.41233199999999,-35.463324],[173.412195,-35.463189],[173.412057,-35.46267],[173.41222200000001,-35.462535],[173.41241500000001,-35.462535],[173.41260700000001,-35.462874],[173.41260800000001,-35.463076],[173.412553,-35.463188],[173.41233199999999,-35.463324]]],"type":"Polygon"}
+}

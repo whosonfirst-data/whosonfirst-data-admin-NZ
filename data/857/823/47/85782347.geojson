@@ -18,8 +18,8 @@
     "mps:latitude":-43.898737,
     "mps:longitude":171.746278,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -56,10 +56,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687179,
         102191583,
+        1729238451,
         85633345,
-        102079371
+        101914705,
+        102079371,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,18 +78,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079371,
-            "locality_id":-1,
+            "localadmin_id":1729238451,
+            "locality_id":101914705,
             "neighbourhood_id":85782347,
             "region_id":85687179
         }
     ],
     "wof:id":85782347,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210199,
     "wof:name":"Ashburton Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914705,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

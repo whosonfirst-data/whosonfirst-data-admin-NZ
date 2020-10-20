@@ -1,0 +1,83 @@
+{
+  "id": 1729341187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27372.482032,
+    "geom:bbox":"167.840428,-45.120782,167.84298,-45.118599",
+    "geom:latitude":-45.119647,
+    "geom:longitude":167.841788,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.119624,
+    "lbl:longitude":167.841807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-45.119624,
+    "mps:longitude":167.841807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Dot Island"
+    ],
+    "name:eng_x_preferred":[
+        "Dot Island"
+    ],
+    "name:swe_x_preferred":[
+        "Dot Island"
+    ],
+    "nz-linz:name":"Dot Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079391,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4279
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622333,
+    "wof:geomhash":"b86ef5704363f7a54ed2180246ec6322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729341187,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729341187,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229677,
+    "wof:name":"Dot Island",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.840428,
+    -45.120782,
+    167.84298,
+    -45.118599
+],
+  "geometry": {"coordinates":[[[167.84097399999999,-45.120607],[167.841072,-45.120161],[167.84109599999999,-45.119846],[167.841037,-45.119776],[167.84062900000001,-45.119716],[167.84047899999999,-45.119597],[167.840428,-45.119437],[167.840664,-45.119266],[167.84098800000001,-45.119189],[167.84148300000001,-45.11896],[167.84205299999999,-45.118599],[167.842209,-45.118627],[167.842544,-45.118821],[167.842782,-45.119033],[167.84298000000001,-45.119356],[167.84292400000001,-45.119669],[167.84248299999999,-45.120013],[167.84233900000001,-45.120233],[167.84196600000001,-45.120534],[167.841497,-45.120753],[167.84140500000001,-45.120782],[167.84121500000001,-45.120774],[167.84097399999999,-45.120607]]],"type":"Polygon"}
+}

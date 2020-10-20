@@ -19,8 +19,8 @@
     "mps:latitude":-36.813626,
     "mps:longitude":174.725114,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -29,6 +29,9 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
+        "Highbury"
+    ],
+    "name:fra_x_preferred":[
         "Highbury"
     ],
     "qs:gn_fcode":"PPLX",
@@ -60,10 +63,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":31,
     "wof:belongsto":[
-        85687243,
         102191583,
         85633345,
-        102079403
+        102079403,
+        1729238453,
+        101915347,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,18 +89,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "localadmin_id":1729238453,
+            "locality_id":101915347,
             "neighbourhood_id":85778355,
             "region_id":85687243
         }
     ],
     "wof:id":85778355,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316522,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229334,
     "wof:name":"Highbury",
-    "wof:parent_id":-1,
+    "wof:parent_id":101915347,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

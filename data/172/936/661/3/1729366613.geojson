@@ -1,0 +1,60 @@
+{
+  "id": 1729366613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":64260.507178,
+    "geom:bbox":"174.25384,-35.223832,174.257276,-35.220935",
+    "geom:latitude":-35.222429,
+    "geom:longitude":174.255435,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.222383,
+    "lbl:longitude":174.255402,
+    "mps:latitude":-35.222383,
+    "mps:longitude":174.255402,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Kaimarama Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887482,
+    "wof:geomhash":"b482a398bf159d9782193da761b72ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366613,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729366613,
+    "wof:lastmodified":1603141304,
+    "wof:name":"Kaimarama Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.25384,
+    -35.223832,
+    174.257276,
+    -35.220935
+],
+  "geometry": {"coordinates":[[[174.254097,-35.221714],[174.25427300000001,-35.221677],[174.254401,-35.221621],[174.25457700000001,-35.221485],[174.254627,-35.22138],[174.25470899999999,-35.221123],[174.25486799999999,-35.22094],[174.25514200000001,-35.220935],[174.25558799999999,-35.221129],[174.25591900000001,-35.221168],[174.25608700000001,-35.221278],[174.25639899999999,-35.221655],[174.25667999999999,-35.221876],[174.25693999999999,-35.222322],[174.25720100000001,-35.222571],[174.25727599999999,-35.222703],[174.25726900000001,-35.222767],[174.257228,-35.222996],[174.25511599999999,-35.223832],[174.25384,-35.22304],[174.254097,-35.221714]]],"type":"Polygon"}
+}

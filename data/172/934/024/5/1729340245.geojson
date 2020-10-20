@@ -1,0 +1,75 @@
+{
+  "id": 1729340245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3411.917019,
+    "geom:bbox":"166.66173,-46.066112,166.66245,-46.065335",
+    "geom:latitude":-46.065702,
+    "geom:longitude":166.662114,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.065679,
+    "lbl:longitude":166.662114,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.065679,
+    "mps:longitude":166.662114,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Single Tree Island"
+    ],
+    "nz-linz:name":"Single Tree Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4936
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621946,
+    "wof:geomhash":"4716bef753a46372d07711b0aa6cd8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340245,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729340245,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145149,
+    "wof:name":"Single Tree Island",
+    "wof:parent_id":85687211,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.66173,
+    -46.066112,
+    166.66245,
+    -46.065335
+],
+  "geometry": {"coordinates":[[[166.662194,-46.066112],[166.66205199999999,-46.066082],[166.66173000000001,-46.065771],[166.661866,-46.065418],[166.66200499999999,-46.065335],[166.66224600000001,-46.065359],[166.66241299999999,-46.065448],[166.66245000000001,-46.065709],[166.66233700000001,-46.065996],[166.66228000000001,-46.066072],[166.662194,-46.066112]]],"type":"Polygon"}
+}

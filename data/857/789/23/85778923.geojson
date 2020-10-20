@@ -18,8 +18,8 @@
     "mps:latitude":-40.18307,
     "mps:longitude":175.580749,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -58,6 +58,7 @@
         85687251,
         102191583,
         85633345,
+        101914717,
         102079303
     ],
     "wof:breaches":[],
@@ -75,18 +76,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079303,
-            "locality_id":-1,
+            "locality_id":101914717,
             "neighbourhood_id":85778923,
             "region_id":85687251
         }
     ],
     "wof:id":85778923,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316532,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210255,
     "wof:name":"Feilding North",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914717,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

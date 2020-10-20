@@ -11,13 +11,14 @@
     "geom:longitude":174.663177,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.683177,-36.890758,174.683177,-36.890758",
     "lbl:latitude":-36.910758,
     "lbl:longitude":174.663177,
     "lbl:max_zoom":18.0,
     "mps:latitude":-36.907287,
     "mps:longitude":174.652441,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,11 +60,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687243,
         102191583,
+        1729238453,
         85633345,
-        101914257,
-        102079403
+        1260010579,
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,18 +83,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":101914257,
+            "localadmin_id":1729238453,
+            "locality_id":1260010579,
             "neighbourhood_id":85778985,
             "region_id":85687243
         }
     ],
     "wof:id":85778985,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316532,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210250,
     "wof:name":"Glen Eden East",
-    "wof:parent_id":101914257,
+    "wof:parent_id":1260010579,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

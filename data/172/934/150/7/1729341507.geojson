@@ -1,0 +1,77 @@
+{
+  "id": 1729341507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":24176.134605,
+    "geom:bbox":"175.306048,-36.229225,175.307868,-36.227369",
+    "geom:latitude":-36.228377,
+    "geom:longitude":175.306993,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.228416,
+    "lbl:longitude":175.306993,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.228416,
+    "mps:longitude":175.306993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Little Mahuki Island"
+    ],
+    "nz-linz:name":"Little Mahuki Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4458
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622477,
+    "wof:geomhash":"dd9d3495932f9792fe612eb43334945e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729341507,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729341507,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146041,
+    "wof:name":"Little Mahuki Island",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.306048,
+    -36.229225,
+    175.307868,
+    -36.227369
+],
+  "geometry": {"coordinates":[[[175.30702199999999,-36.229225],[175.30668600000001,-36.229165],[175.30640299999999,-36.229037],[175.30630199999999,-36.22895],[175.306173,-36.22884],[175.306085,-36.228684],[175.306048,-36.228437],[175.30609799999999,-36.2283],[175.306229,-36.228094],[175.306499,-36.227839],[175.306601,-36.227589],[175.30670799999999,-36.227496],[175.30701099999999,-36.227399],[175.30731599999999,-36.227369],[175.307489,-36.227523],[175.307523,-36.22768],[175.30765099999999,-36.227982],[175.30786800000001,-36.228753],[175.30779200000001,-36.228959],[175.30768399999999,-36.229051],[175.307412,-36.229215],[175.30702199999999,-36.229225]]],"type":"Polygon"}
+}

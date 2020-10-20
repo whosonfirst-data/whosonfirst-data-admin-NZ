@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "mps:latitude":-43.506329,
     "mps:longitude":172.663398,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -115,8 +116,9 @@
     "wof:belongsto":[
         85687179,
         102191583,
+        1729238507,
         85633345,
-        101914521,
+        1729338177,
         102079401
     ],
     "wof:breaches":[],
@@ -136,21 +138,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079401,
-            "locality_id":101914521,
+            "localadmin_id":1729238507,
+            "locality_id":1729338177,
             "neighbourhood_id":85778611,
             "region_id":85687179
         }
     ],
     "wof:id":85778611,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316530,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200638,
     "wof:name":"Shirley",
-    "wof:parent_id":101914521,
+    "wof:parent_id":1729338177,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729338177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

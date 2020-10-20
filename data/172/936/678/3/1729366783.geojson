@@ -1,0 +1,60 @@
+{
+  "id": 1729366783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":130798.107175,
+    "geom:bbox":"172.938687,-43.790496,172.945692,-43.787536",
+    "geom:latitude":-43.789177,
+    "geom:longitude":172.94177,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.789183,
+    "lbl:longitude":172.94177,
+    "mps:latitude":-43.789183,
+    "mps:longitude":172.94177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Lushington Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887551,
+    "wof:geomhash":"ed0a7f68b4778a540a55676e638e71a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366783,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1729366783,
+    "wof:lastmodified":1603141394,
+    "wof:name":"Lushington Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.938687,
+    -43.790496,
+    172.945692,
+    -43.787536
+],
+  "geometry": {"coordinates":[[[172.942386,-43.788098],[172.943163,-43.788117],[172.943319,-43.788228],[172.94335100000001,-43.788341],[172.94341299999999,-43.788386],[172.943724,-43.788272],[172.943972,-43.788271],[172.944221,-43.788359],[172.944692,-43.788852],[172.944942,-43.789031],[172.945472,-43.789253],[172.94547600000001,-43.789256],[172.945629,-43.789365],[172.94569200000001,-43.789455],[172.94563199999999,-43.789635],[172.94555,-43.78969],[172.94526200000001,-43.789885],[172.944828,-43.790067],[172.94464300000001,-43.790271],[172.94464500000001,-43.790496],[172.938875,-43.790226],[172.93868699999999,-43.787536],[172.942386,-43.788098]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1729342499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21966.219621,
+    "geom:bbox":"173.580727,-35.351497,173.58651,-35.350647",
+    "geom:latitude":-35.351053,
+    "geom:longitude":173.583731,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.351099,
+    "lbl:longitude":173.584016,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.351099,
+    "mps:longitude":173.584016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Ruapapaka Island"
+    ],
+    "nz-linz:name":"Ruapapaka Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4904
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622910,
+    "wof:geomhash":"40b619ad6c39c6117a7f8ff47eda05a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729342499,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342499,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146634,
+    "wof:name":"Ruapapaka Island",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.580727,
+    -35.351497,
+    173.58651,
+    -35.350647
+],
+  "geometry": {"coordinates":[[[173.580727,-35.351115],[173.58083600000001,-35.351001],[173.58099899999999,-35.350908],[173.581546,-35.350743],[173.581751,-35.350705],[173.582066,-35.350647],[173.582425,-35.350665],[173.582922,-35.350794],[173.58349899999999,-35.350741],[173.58385699999999,-35.350759],[173.58418900000001,-35.350867],[173.58498700000001,-35.350902],[173.585429,-35.350964],[173.586288,-35.351246],[173.58651,-35.351356],[173.58634599999999,-35.35147],[173.586071,-35.351497],[173.58565899999999,-35.35148],[173.585354,-35.351393],[173.58483100000001,-35.35131],[173.58425399999999,-35.351385],[173.58395200000001,-35.351389],[173.58353500000001,-35.351169],[173.58303699999999,-35.35104],[173.582458,-35.351025],[173.582213,-35.351141],[173.58196599999999,-35.351167],[173.58169000000001,-35.35108],[173.58124900000001,-35.351063],[173.58097599999999,-35.351157],[173.580838,-35.351158],[173.580727,-35.351115]]],"type":"Polygon"}
+}

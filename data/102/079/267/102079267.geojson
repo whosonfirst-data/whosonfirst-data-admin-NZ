@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179168,
-    "geom:area_square_m":1753646698.979784,
+    "geom:area_square_m":1753647156.915435,
     "geom:bbox":"175.373231,-37.95214,175.971834,-37.418768",
     "geom:latitude":-37.668997,
     "geom:longitude":175.663677,
@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "District de Matamata-Piako"
     ],
+    "name:fra_x_variant":[
+        "Matamata-Piako"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Matamata-Piako"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0633\u0679\u0631\u06cc\u0679\u0641\u0648\u0631\u0688"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u043c\u0430\u0442\u0430-\u041f\u0438\u0430\u043a\u043e"
     ],
     "name:zho_x_preferred":[
         "\u746a\u5854\u746a\u5854\uff0d\u76ae\u96c5\u5eab\u90e1"
@@ -119,7 +125,15 @@
         }
     ],
     "wof:id":102079267,
-    "wof:lastmodified":1583950773,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229230,
     "wof:name":"Matamata-Piako District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

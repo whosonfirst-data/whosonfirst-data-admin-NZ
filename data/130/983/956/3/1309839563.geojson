@@ -27,8 +27,9 @@
     "lbl:bbox":"171.84667,-43.12,171.88667,-43.08",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Craigieburn"
@@ -62,7 +63,15 @@
         }
     ],
     "wof:id":1309839563,
-    "wof:lastmodified":1566672534,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149954,
     "wof:name":"Craigieburn",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

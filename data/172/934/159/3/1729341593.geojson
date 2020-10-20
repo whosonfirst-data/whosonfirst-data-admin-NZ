@@ -1,0 +1,75 @@
+{
+  "id": 1729341593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":80.170864,
+    "geom:bbox":"174.836352,-36.451014,174.836435,-36.450902",
+    "geom:latitude":-36.450958,
+    "geom:longitude":174.836391,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.450958,
+    "lbl:longitude":174.836391,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.450958,
+    "mps:longitude":174.836391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Archway Island"
+    ],
+    "nz-linz:name":"Archway Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4148
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622516,
+    "wof:geomhash":"06ecdfdc30b54ee3e1e073ad4d9ef4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341593,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729341593,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146093,
+    "wof:name":"Archway Island",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.836352,
+    -36.451014,
+    174.836435,
+    -36.450902
+],
+  "geometry": {"coordinates":[[[174.83643499999999,-36.451007],[174.83635599999999,-36.451014],[174.83635200000001,-36.450902],[174.836421,-36.450902],[174.83643499999999,-36.451007]]],"type":"Polygon"}
+}

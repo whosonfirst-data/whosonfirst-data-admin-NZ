@@ -1,0 +1,60 @@
+{
+  "id": 1729369439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27474.05358,
+    "geom:bbox":"168.157171,-46.919007,168.15967,-46.917253",
+    "geom:latitude":-46.918118,
+    "geom:longitude":168.158405,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.918131,
+    "lbl:longitude":168.158405,
+    "mps:latitude":-46.918131,
+    "mps:longitude":168.158405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Pinch Gut"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888622,
+    "wof:geomhash":"af4ca5920801f9a48655ae07364a8317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369439,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729369439,
+    "wof:lastmodified":1603142708,
+    "wof:name":"Pinch Gut",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.157171,
+    -46.919007,
+    168.15967,
+    -46.917253
+],
+  "geometry": {"coordinates":[[[168.15903800000001,-46.917253],[168.15967000000001,-46.918063],[168.15919500000001,-46.919007],[168.15757400000001,-46.918802],[168.15755100000001,-46.918666],[168.157251,-46.918295],[168.15717100000001,-46.918044],[168.157196,-46.917707],[168.157307,-46.917531],[168.157512,-46.917425],[168.15784600000001,-46.917369],[168.158604,-46.917351],[168.15903800000001,-46.917253]]],"type":"Polygon"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1729367989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":104034.345267,
+    "geom:bbox":"172.907528,-43.839113,172.912053,-43.834978",
+    "geom:latitude":-43.836999,
+    "geom:longitude":172.909537,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.837144,
+    "lbl:longitude":172.909311,
+    "mps:latitude":-43.837144,
+    "mps:longitude":172.909311,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Ohinepaka Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888037,
+    "wof:geomhash":"0f580993b5e6c5fae95720341fb00a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367989,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1729367989,
+    "wof:lastmodified":1603142001,
+    "wof:name":"Ohinepaka Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.907528,
+    -43.839113,
+    172.912053,
+    -43.834978
+],
+  "geometry": {"coordinates":[[[172.909719,-43.839113],[172.90947,-43.83898],[172.90909600000001,-43.838846],[172.90840900000001,-43.838692],[172.90816000000001,-43.838557],[172.907669,-43.838211],[172.907533,-43.837953],[172.90752800000001,-43.837502],[172.90770599999999,-43.836444],[172.907579,-43.836084],[172.91024400000001,-43.834978],[172.91205299999999,-43.836497],[172.909719,-43.839113]]],"type":"Polygon"}
+}

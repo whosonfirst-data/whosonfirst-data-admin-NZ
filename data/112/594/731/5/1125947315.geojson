@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.6563065,-37.286267,174.6563065,-37.286267",
+    "geom:bbox":"174.656306,-37.286267,174.656306,-37.286267",
     "geom:latitude":-37.286267,
     "geom:longitude":174.656306,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":174.656306,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497297332,
-    "wof:geomhash":"17179ca3319a3bdd2ea10f682bcc0999",
+    "wof:geomhash":"f819dc7482f78649e6d41c61feb3aa54",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,15 @@
         }
     ],
     "wof:id":1125947315,
-    "wof:lastmodified":1566672538,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149238,
     "wof:name":"Whiriwhiri",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
@@ -77,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.6563065,
+    174.656306,
     -37.286267,
-    174.6563065,
+    174.656306,
     -37.286267
 ],
-  "geometry": {"coordinates":[174.6563065,-37.286267],"type":"Point"}
+  "geometry": {"coordinates":[174.656306,-37.286267],"type":"Point"}
 }

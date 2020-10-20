@@ -1,0 +1,60 @@
+{
+  "id": 1729369259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":102931.453405,
+    "geom:bbox":"175.199892,-36.819788,175.203344,-36.815695",
+    "geom:latitude":-36.817661,
+    "geom:longitude":175.201645,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.817671,
+    "lbl:longitude":175.201678,
+    "mps:latitude":-36.817671,
+    "mps:longitude":175.201678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Mens Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888552,
+    "wof:geomhash":"be59764a0370d6f8768b339beabb85eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369259,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369259,
+    "wof:lastmodified":1603142619,
+    "wof:name":"Mens Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.199892,
+    -36.819788,
+    175.203344,
+    -36.815695
+],
+  "geometry": {"coordinates":[[[175.201877,-36.815695],[175.203226,-36.816742],[175.20334399999999,-36.818894],[175.20180300000001,-36.819788],[175.201572,-36.819611],[175.20147299999999,-36.819535],[175.20086000000001,-36.81921],[175.20074399999999,-36.819099],[175.20048399999999,-36.818822],[175.20016200000001,-36.818366],[175.20005699999999,-36.81804],[175.20002199999999,-36.817929],[175.19994,-36.81727],[175.19989200000001,-36.816883],[175.19992500000001,-36.816578],[175.200176,-36.816066],[175.20032900000001,-36.816006],[175.200886,-36.815894],[175.201435,-36.815951],[175.20154199999999,-36.815905],[175.20171199999999,-36.815833],[175.201877,-36.815695]]],"type":"Polygon"}
+}

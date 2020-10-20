@@ -1,0 +1,70 @@
+{
+  "id": 1729342869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1360.547839,
+    "geom:bbox":"168.184172,-44.181966,168.188733,-44.180717",
+    "geom:latitude":-44.181148,
+    "geom:longitude":168.187402,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.180904,
+    "lbl:longitude":168.188491,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-44.180904,
+    "mps:longitude":168.188491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Gorge Islands"
+    ],
+    "nz-linz:name":"Gorge Islands",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602623061,
+    "wof:geomhash":"a896ca06fc0610818318d02ca0d8f975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342869,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1729342869,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146843,
+    "wof:name":"Gorge Islands",
+    "wof:parent_id":85687165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.184172,
+    -44.181966,
+    168.188733,
+    -44.180717
+],
+  "geometry": {"coordinates":[[[[168.18856199999999,-44.181064],[168.188469,-44.181061],[168.18840800000001,-44.181035],[168.18834899999999,-44.180988],[168.18826799999999,-44.180827],[168.18827400000001,-44.180759],[168.18834000000001,-44.180717],[168.18849399999999,-44.180746],[168.188615,-44.180796],[168.18873300000001,-44.180891],[168.188726,-44.180981],[168.18869100000001,-44.181025],[168.18856199999999,-44.181064]]],[[[168.184291,-44.181966],[168.18425999999999,-44.181965],[168.18417199999999,-44.181894],[168.18417700000001,-44.181826],[168.18427600000001,-44.181763],[168.18437,-44.181767],[168.18442899999999,-44.181814],[168.18445600000001,-44.181861],[168.18438800000001,-44.181925],[168.184291,-44.181966]]]],"type":"MultiPolygon"}
+}

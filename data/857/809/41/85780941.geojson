@@ -20,7 +20,7 @@
     "mps:longitude":174.985862,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -75,6 +75,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0578\u056c\u0562\u0578\u0580\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Holborn"
     ],
     "name:ita_x_preferred":[
         "Holborn"
@@ -144,10 +147,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":1955,
     "wof:belongsto":[
-        85687233,
         102191583,
         85633345,
-        102079337
+        102079337,
+        1729238533,
+        101915621,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,8 +162,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"6cd8c9a7797c2c77af96c359435f669d",
     "wof:hierarchy":[
@@ -166,18 +171,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079337,
-            "locality_id":-1,
+            "localadmin_id":1729238533,
+            "locality_id":101915621,
             "neighbourhood_id":85780941,
             "region_id":85687233
         }
     ],
     "wof:id":85780941,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316528,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229355,
     "wof:name":"Holborn",
-    "wof:parent_id":-1,
+    "wof:parent_id":101915621,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

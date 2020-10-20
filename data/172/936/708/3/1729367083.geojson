@@ -1,0 +1,60 @@
+{
+  "id": 1729367083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":12928.679765,
+    "geom:bbox":"168.192598,-46.921153,168.194089,-46.919677",
+    "geom:latitude":-46.920504,
+    "geom:longitude":168.193239,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.920528,
+    "lbl:longitude":168.193224,
+    "mps:latitude":-46.920528,
+    "mps:longitude":168.193224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Buller Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887670,
+    "wof:geomhash":"fdcb127b66a4499eefa658e159afdb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367083,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729367083,
+    "wof:lastmodified":1603141544,
+    "wof:name":"Buller Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.192598,
+    -46.921153,
+    168.194089,
+    -46.919677
+],
+  "geometry": {"coordinates":[[[168.192598,-46.919677],[168.19394600000001,-46.920228],[168.193938,-46.920318],[168.19408899999999,-46.920503],[168.193929,-46.920903],[168.19361499999999,-46.92114],[168.19341900000001,-46.921112],[168.193318,-46.921153],[168.19299699999999,-46.921051],[168.19280000000001,-46.921044],[168.19262900000001,-46.921128],[168.192598,-46.919677]]],"type":"Polygon"}
+}

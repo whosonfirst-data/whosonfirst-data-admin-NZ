@@ -1,0 +1,60 @@
+{
+  "id": 1729367945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":94934.852051,
+    "geom:bbox":"172.918925,-43.870565,172.923929,-43.867606",
+    "geom:latitude":-43.869,
+    "geom:longitude":172.921384,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.869035,
+    "lbl:longitude":172.921384,
+    "mps:latitude":-43.869035,
+    "mps:longitude":172.921384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Lucas Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888019,
+    "wof:geomhash":"159b5fd2acf56cd5a3a815b9cfbd424b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367945,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1729367945,
+    "wof:lastmodified":1603141979,
+    "wof:name":"Lucas Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.918925,
+    -43.870565,
+    172.923929,
+    -43.867606
+],
+  "geometry": {"coordinates":[[[172.92275599999999,-43.870565],[172.922192,-43.870342],[172.92166399999999,-43.870344],[172.921167,-43.870414],[172.920761,-43.870281],[172.91979699999999,-43.870286],[172.91904600000001,-43.87049],[172.918925,-43.870244],[172.91908900000001,-43.869916],[172.91978800000001,-43.869251],[172.91975500000001,-43.869048],[172.91934800000001,-43.868802],[172.91931600000001,-43.868712],[172.91931,-43.868082],[172.91977499999999,-43.867787],[172.91989699999999,-43.867606],[172.92392899999999,-43.867823],[172.92275599999999,-43.870565]]],"type":"Polygon"}
+}

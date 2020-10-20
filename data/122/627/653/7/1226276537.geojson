@@ -27,15 +27,19 @@
     "lbl:bbox":"177.80509,-39.09294,177.84509,-39.05294",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:mri_x_preferred":[
+        "Waikokopu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687189,
-        102079327
+        102079327,
+        85687189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +57,15 @@
         }
     ],
     "wof:id":1226276537,
-    "wof:lastmodified":1566672682,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230783,
     "wof:name":"Waikokopu",
     "wof:parent_id":102079327,
     "wof:placetype":"locality",

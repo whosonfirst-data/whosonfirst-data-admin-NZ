@@ -1,0 +1,75 @@
+{
+  "id": 1729342165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18601.903811,
+    "geom:bbox":"174.121296,-35.171964,174.123086,-35.170444",
+    "geom:latitude":-35.171245,
+    "geom:longitude":174.122199,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.171247,
+    "lbl:longitude":174.122272,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.171247,
+    "mps:longitude":174.122272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Motutui Island"
+    ],
+    "nz-linz:name":"Motutui Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4669
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622776,
+    "wof:geomhash":"36e8c266a25a25b7cc04b66d4090c4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342165,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342165,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146431,
+    "wof:name":"Motutui Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.121296,
+    -35.171964,
+    174.123086,
+    -35.170444
+],
+  "geometry": {"coordinates":[[[174.12255200000001,-35.17047],[174.12276600000001,-35.170645],[174.123086,-35.171339],[174.123062,-35.171452],[174.12238600000001,-35.171893],[174.12216799999999,-35.171964],[174.12167299999999,-35.171927],[174.121296,-35.171557],[174.121422,-35.171133],[174.121781,-35.170857],[174.12193099999999,-35.170558],[174.12198100000001,-35.170524],[174.12207100000001,-35.170482],[174.12244200000001,-35.170444],[174.12255200000001,-35.17047]]],"type":"Polygon"}
+}

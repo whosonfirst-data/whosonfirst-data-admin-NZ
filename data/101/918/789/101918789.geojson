@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":11934.964428,
-    "geom:bbox":"176.867068062,-39.5407367343,176.868980359,-39.5392950229",
-    "geom:latitude":-39.540097,
+    "geom:area_square_m":11937.998953,
+    "geom:bbox":"176.867068,-39.540737,176.86898,-39.539295",
+    "geom:latitude":-39.540098,
     "geom:longitude":176.867704,
     "iso:country":"NZ",
     "lbl:latitude":-39.539865,
     "lbl:longitude":176.867462,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.539865,
     "mps:longitude":176.867462,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Jervoistown"
     ],
@@ -33,28 +37,38 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687189,
+        102191583,
+        1729238511,
+        85633345,
         102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NZ",
-    "wof:geomhash":"6c8efd2929ebcd78291ca927d7c2b387",
+    "wof:geomhash":"5bdfd269fd70a98517515ab86ee46bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079331,
+            "localadmin_id":1729238511,
             "locality_id":101918789,
             "region_id":85687189
         }
     ],
     "wof:id":101918789,
-    "wof:lastmodified":1487270018,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148895,
     "wof:name":"Jervoistown",
-    "wof:parent_id":102079331,
+    "wof:parent_id":1729238511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[
@@ -64,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    176.86706806166634,
-    -39.5407367342714,
-    176.86898035909866,
-    -39.53929502292591
+    176.867068,
+    -39.540737,
+    176.86898,
+    -39.539295
 ],
-  "geometry": {"coordinates":[[[176.86784493749801,-39.53991732601335],[176.86773466519136,-39.54029671344723],[176.86898035909866,-39.5404910523164],[176.86892232853964,-39.54073325143074],[176.86892149401496,-39.5407367342714],[176.86706806166634,-39.5405366468115],[176.86708297038774,-39.53974278559304],[176.86723486942452,-39.53929502292591],[176.86798198561132,-39.53939162688096],[176.86784493749801,-39.53991732601335]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[176.86784499999999,-39.539917],[176.86773500000001,-39.540297],[176.86897999999999,-39.540491],[176.868922,-39.540733],[176.868921,-39.540737],[176.86706799999999,-39.540537],[176.86708300000001,-39.539743],[176.86723499999999,-39.539295],[176.86798200000001,-39.539392],[176.86784499999999,-39.539917]]],"type":"Polygon"}
 }

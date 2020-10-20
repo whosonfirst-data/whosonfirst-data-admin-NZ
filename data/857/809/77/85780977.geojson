@@ -19,8 +19,8 @@
     "mps:latitude":-41.161447,
     "mps:longitude":174.810492,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -60,11 +60,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687233,
         102191583,
+        1729238583,
         85633345,
         101914575,
-        102079339
+        102079339,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +75,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"72a5096d0d0585698dd1ee5ee2c3c983",
     "wof:hierarchy":[
@@ -83,16 +84,22 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
+            "localadmin_id":1729238583,
             "locality_id":101914575,
             "neighbourhood_id":85780977,
             "region_id":85687233
         }
     ],
     "wof:id":85780977,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316528,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210239,
     "wof:name":"Lindenvale",
     "wof:parent_id":101914575,
     "wof:placetype":"neighbourhood",

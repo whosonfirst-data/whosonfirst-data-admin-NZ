@@ -17,8 +17,10 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.06824,
     "lbl:longitude":174.0802,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":"NZ",
@@ -49,7 +51,9 @@
     "wof:belongsto":[
         85687195,
         102191583,
+        1729238515,
         85633345,
+        1729338323,
         102079311
     ],
     "wof:breaches":[],
@@ -66,15 +70,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079311,
-            "locality_id":-1,
+            "localadmin_id":1729238515,
+            "locality_id":1729338323,
             "neighbourhood_id":1126105069,
             "region_id":85687195
         }
     ],
     "wof:id":1126105069,
-    "wof:lastmodified":1534379390,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603175248,
     "wof:name":"Brooklands",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

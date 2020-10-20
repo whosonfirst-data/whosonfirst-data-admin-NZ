@@ -1,0 +1,60 @@
+{
+  "id": 1729369469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":41330.389421,
+    "geom:bbox":"174.740276,-35.463011,174.743786,-35.460895",
+    "geom:latitude":-35.461823,
+    "geom:longitude":174.742328,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.461637,
+    "lbl:longitude":174.742475,
+    "mps:latitude":-35.461637,
+    "mps:longitude":174.742475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Rocklily Inlet"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888633,
+    "wof:geomhash":"eb14c75b9883cb991f4d2f92364b9b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369469,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729369469,
+    "wof:lastmodified":1603142721,
+    "wof:name":"Rocklily Inlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.740276,
+    -35.463011,
+    174.743786,
+    -35.460895
+],
+  "geometry": {"coordinates":[[[174.743786,-35.461283],[174.7432,-35.463011],[174.74207200000001,-35.463007],[174.742389,-35.462527],[174.742358,-35.462438],[174.74227400000001,-35.462349],[174.74205000000001,-35.46224],[174.74138300000001,-35.462029],[174.74033299999999,-35.461914],[174.74027599999999,-35.461847],[174.740298,-35.461666],[174.74045699999999,-35.461483],[174.740621,-35.461412],[174.741524,-35.461192],[174.742178,-35.460954],[174.74248,-35.460903],[174.74289300000001,-35.460895],[174.743258,-35.461113],[174.74367599999999,-35.461285],[174.743786,-35.461283]]],"type":"Polygon"}
+}

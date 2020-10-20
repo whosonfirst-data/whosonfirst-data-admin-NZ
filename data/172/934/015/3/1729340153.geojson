@@ -1,0 +1,75 @@
+{
+  "id": 1729340153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2207.639892,
+    "geom:bbox":"173.823216,-34.993127,173.823961,-34.992673",
+    "geom:latitude":-34.992905,
+    "geom:longitude":173.823612,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.992907,
+    "lbl:longitude":173.823612,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.992907,
+    "mps:longitude":173.823612,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Ohaureko Island"
+    ],
+    "nz-linz:name":"Ohaureko Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4740
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621909,
+    "wof:geomhash":"cd0a324cb2ab1ae395927d4f3e0b77e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340153,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340153,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145068,
+    "wof:name":"Ohaureko Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.823216,
+    -34.993127,
+    173.823961,
+    -34.992673
+],
+  "geometry": {"coordinates":[[[173.823216,-34.993044],[173.82351,-34.992724],[173.823646,-34.992676],[173.82386500000001,-34.992673],[173.823961,-34.992769],[173.82387199999999,-34.992966],[173.82362900000001,-34.993127],[173.82329999999999,-34.99311],[173.823216,-34.993044]]],"type":"Polygon"}
+}

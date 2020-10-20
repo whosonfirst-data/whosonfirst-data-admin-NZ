@@ -1,0 +1,60 @@
+{
+  "id": 1729367801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":114463.207087,
+    "geom:bbox":"174.431004,-35.796791,174.43661,-35.793697",
+    "geom:latitude":-35.795251,
+    "geom:longitude":174.433505,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.795071,
+    "lbl:longitude":174.433452,
+    "mps:latitude":-35.795071,
+    "mps:longitude":174.433452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Jacksons Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887963,
+    "wof:geomhash":"f990a2909d23baa517e442895b3b2034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367801,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729367801,
+    "wof:lastmodified":1603141906,
+    "wof:name":"Jacksons Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.431004,
+    -35.796791,
+    174.43661,
+    -35.793697
+],
+  "geometry": {"coordinates":[[[174.431004,-35.794014],[174.431477,-35.794096],[174.43180899999999,-35.794089],[174.432085,-35.794038],[174.432795,-35.793754],[174.43307100000001,-35.793704],[174.433458,-35.793697],[174.43368000000001,-35.793738],[174.43412499999999,-35.79395],[174.43508399999999,-35.794409],[174.43562900000001,-35.795098],[174.43599699999999,-35.795407],[174.43638899999999,-35.795557],[174.43661,-35.795553],[174.435339,-35.796791],[174.431082,-35.79601],[174.431004,-35.794014]]],"type":"Polygon"}
+}

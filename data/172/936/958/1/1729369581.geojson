@@ -1,0 +1,60 @@
+{
+  "id": 1729369581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":69497.0505,
+    "geom:bbox":"175.098328,-36.829762,175.10192,-36.826724",
+    "geom:latitude":-36.828337,
+    "geom:longitude":175.09988,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.828368,
+    "lbl:longitude":175.099666,
+    "mps:latitude":-36.828368,
+    "mps:longitude":175.099666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Waimanga Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888677,
+    "wof:geomhash":"ab8eda47c7048c9d726d55d9c3336cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369581,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369581,
+    "wof:lastmodified":1603142776,
+    "wof:name":"Waimanga Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.098328,
+    -36.829762,
+    175.10192,
+    -36.826724
+],
+  "geometry": {"coordinates":[[[175.09832800000001,-36.829144],[175.09841800000001,-36.82886],[175.09846999999999,-36.828238],[175.09841700000001,-36.827361],[175.098579,-36.827141],[175.09910400000001,-36.826852],[175.09950599999999,-36.826743],[175.09991299999999,-36.826724],[175.10017199999999,-36.826967],[175.10029599999999,-36.827348],[175.10048399999999,-36.827559],[175.10081199999999,-36.827744],[175.10120900000001,-36.827872],[175.10192000000001,-36.829045],[175.10018299999999,-36.829762],[175.09832800000001,-36.829144]]],"type":"Polygon"}
+}

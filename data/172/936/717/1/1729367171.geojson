@@ -1,0 +1,60 @@
+{
+  "id": 1729367171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21166.265198,
+    "geom:bbox":"174.696427,-35.95809,174.69834,-35.956415",
+    "geom:latitude":-35.957315,
+    "geom:longitude":174.69734,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.957375,
+    "lbl:longitude":174.69734,
+    "mps:latitude":-35.957375,
+    "mps:longitude":174.69734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Stead Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887706,
+    "wof:geomhash":"e9d941fedbf10c037aab26e2b73e9d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367171,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729367171,
+    "wof:lastmodified":1603141588,
+    "wof:name":"Stead Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.696427,
+    -35.95809,
+    174.69834,
+    -35.956415
+],
+  "geometry": {"coordinates":[[[174.696427,-35.95746],[174.69645,-35.956677],[174.69699700000001,-35.956415],[174.69716399999999,-35.956456],[174.69727900000001,-35.956567],[174.69736700000001,-35.956791],[174.698013,-35.957027],[174.69820999999999,-35.957159],[174.69834,-35.957542],[174.69831099999999,-35.95781],[174.69812300000001,-35.958016],[174.69782000000001,-35.95809],[174.69745700000001,-35.958029],[174.69734600000001,-35.958031],[174.696427,-35.95746]]],"type":"Polygon"}
+}

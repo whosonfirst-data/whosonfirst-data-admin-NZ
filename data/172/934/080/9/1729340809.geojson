@@ -1,0 +1,75 @@
+{
+  "id": 1729340809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":51900.67254,
+    "geom:bbox":"176.129507,-37.530977,176.133354,-37.52909",
+    "geom:latitude":-37.53001,
+    "geom:longitude":176.131485,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.5301,
+    "lbl:longitude":176.131522,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.5301,
+    "mps:longitude":176.131522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Karewa Island"
+    ],
+    "nz-linz:name":"Karewa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4423
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622177,
+    "wof:geomhash":"895dff95e4775421b74a7e6c2ac984a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340809,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1729340809,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145546,
+    "wof:name":"Karewa Island",
+    "wof:parent_id":85687175,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.129507,
+    -37.530977,
+    176.133354,
+    -37.52909
+],
+  "geometry": {"coordinates":[[[176.133321,-37.529384],[176.133354,-37.529537],[176.13330400000001,-37.529972],[176.13314199999999,-37.530155],[176.13264799999999,-37.530475],[176.13241600000001,-37.530863],[176.132215,-37.530977],[176.13198,-37.530887],[176.131562,-37.530933],[176.131101,-37.530823],[176.13085000000001,-37.530826],[176.130653,-37.530921],[176.130483,-37.530933],[176.130314,-37.530872],[176.129741,-37.530392],[176.129571,-37.530175],[176.12950699999999,-37.530039],[176.129513,-37.529924],[176.12977599999999,-37.529558],[176.12990600000001,-37.529465],[176.13005899999999,-37.529274],[176.13051400000001,-37.529423],[176.13088099999999,-37.529414],[176.13235700000001,-37.529097],[176.13298700000001,-37.52909],[176.13323800000001,-37.529264],[176.133321,-37.529384]]],"type":"Polygon"}
+}

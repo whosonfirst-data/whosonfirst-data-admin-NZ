@@ -11,13 +11,14 @@
     "geom:longitude":174.894104,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.914104,-36.954033,174.914104,-36.954033",
     "lbl:latitude":-36.974033,
     "lbl:longitude":174.894104,
     "lbl:max_zoom":18.0,
     "mps:latitude":-36.974032,
     "mps:longitude":174.892664,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -60,10 +61,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":77,
     "wof:belongsto":[
-        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403
+        101918825,
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,18 +85,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "localadmin_id":1729238453,
+            "locality_id":101918825,
             "neighbourhood_id":85780857,
             "region_id":85687243
         }
     ],
     "wof:id":85780857,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316529,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210243,
     "wof:name":"Chapel Downs",
-    "wof:parent_id":-1,
+    "wof:parent_id":101918825,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

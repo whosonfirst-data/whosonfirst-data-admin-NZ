@@ -1,0 +1,77 @@
+{
+  "id": 1729341375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7927.288834,
+    "geom:bbox":"174.199383,-35.231579,174.201102,-35.230656",
+    "geom:latitude":-35.231124,
+    "geom:longitude":174.200208,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.231013,
+    "lbl:longitude":174.200006,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.231013,
+    "mps:longitude":174.200006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Pakatahi Island"
+    ],
+    "nz-linz:name":"Pakatahi Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4779
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622417,
+    "wof:geomhash":"cba0dfb2f3ed0ad2dfe0cb8d231123e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729341375,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341375,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145959,
+    "wof:name":"Pakatahi Island",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.199383,
+    -35.231579,
+    174.201102,
+    -35.230656
+],
+  "geometry": {"coordinates":[[[174.19938300000001,-35.230944],[174.19940700000001,-35.230796],[174.19964999999999,-35.230656],[174.19984299999999,-35.230675],[174.20012,-35.23076],[174.20042599999999,-35.230971],[174.20054099999999,-35.231068],[174.20075299999999,-35.231148],[174.200864,-35.231192],[174.200986,-35.23124],[174.201097,-35.231329],[174.20110199999999,-35.231487],[174.20096599999999,-35.231579],[174.20066199999999,-35.231575],[174.20055400000001,-35.231542],[174.20040499999999,-35.231438],[174.20027400000001,-35.231366],[174.20016699999999,-35.231332],[174.20008100000001,-35.231325],[174.19971699999999,-35.23121],[174.19950800000001,-35.231119],[174.19938300000001,-35.230944]]],"type":"Polygon"}
+}

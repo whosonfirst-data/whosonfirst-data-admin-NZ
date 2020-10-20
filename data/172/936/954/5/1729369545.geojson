@@ -1,0 +1,60 @@
+{
+  "id": 1729369545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":212643.933609,
+    "geom:bbox":"168.132519,-46.931061,168.141114,-46.926576",
+    "geom:latitude":-46.928879,
+    "geom:longitude":168.136656,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.928747,
+    "lbl:longitude":168.136574,
+    "mps:latitude":-46.928747,
+    "mps:longitude":168.136574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Sydney Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888663,
+    "wof:geomhash":"5dbe3fc167ead05b2a081a60e32b1c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369545,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729369545,
+    "wof:lastmodified":1603142758,
+    "wof:name":"Sydney Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.132519,
+    -46.931061,
+    168.141114,
+    -46.926576
+],
+  "geometry": {"coordinates":[[[168.132519,-46.926576],[168.13710699999999,-46.926992],[168.13995,-46.928316],[168.14111399999999,-46.930845],[168.140817,-46.930857],[168.14021,-46.931061],[168.139195,-46.931003],[168.13886099999999,-46.931059],[168.13853700000001,-46.931002],[168.13825700000001,-46.93079],[168.13761,-46.930632],[168.13718600000001,-46.930572],[168.13594000000001,-46.930528],[168.13557599999999,-46.93056],[168.13475500000001,-46.930531],[168.13446400000001,-46.930476],[168.13413299999999,-46.930316],[168.13411400000001,-46.930306],[168.134052,-46.930259],[168.133928,-46.930164],[168.13369700000001,-46.929682],[168.13296099999999,-46.928147],[168.13265699999999,-46.927369],[168.132519,-46.926576]]],"type":"Polygon"}
+}

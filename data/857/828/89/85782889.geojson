@@ -19,14 +19,20 @@
     "mps:latitude":-37.989911,
     "mps:longitude":175.327857,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a \u0623\u0648\u0627\u0645\u0648\u062a\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Te Awamutu"
+    ],
     "name:ceb_x_preferred":[
         "Beach Haven South"
     ],
@@ -37,6 +43,9 @@
         "Te Awamutu"
     ],
     "name:deu_x_preferred":[
+        "Te Awamutu"
+    ],
+    "name:eng_gb_x_preferred":[
         "Te Awamutu"
     ],
     "name:eng_x_preferred":[
@@ -59,6 +68,9 @@
     ],
     "name:pol_x_preferred":[
         "Te Awamutu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435 \u0410\u0432\u0430\u043c\u0443\u0442\u0443"
     ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPL",
@@ -91,10 +103,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687229,
         102191583,
         85633345,
-        102079273
+        102079273,
+        1729238605,
+        101914417,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,18 +129,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079273,
-            "locality_id":-1,
+            "localadmin_id":1729238605,
+            "locality_id":101914417,
             "neighbourhood_id":85782889,
             "region_id":85687229
         }
     ],
     "wof:id":85782889,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316520,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229326,
     "wof:name":"Te Awamutu East",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914417,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

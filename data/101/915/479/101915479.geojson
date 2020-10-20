@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":20422.558156,
-    "geom:bbox":"171.881645912,-41.6091743449,171.884646092,-41.6070953864",
+    "geom:area_square_m":20416.003734,
+    "geom:bbox":"171.881646,-41.609174,171.884646,-41.607095",
     "geom:latitude":-41.608155,
     "geom:longitude":171.883115,
     "iso:country":"NZ",
     "lbl:latitude":-41.608176,
     "lbl:longitude":171.883099,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.608176,
     "mps:longitude":171.883099,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hector"
     ],
@@ -33,9 +37,10 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687165,
+        102191583,
+        1729238433,
+        85633345,
         102079357
     ],
     "wof:breaches":[],
@@ -47,20 +52,29 @@
         "wk:page":"Hector and Ngakawau"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b83ce39d1460a542b3706a24d7d8c8c1",
+    "wof:geomhash":"13bce941968fe886cd26f0deff0317dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079357,
+            "localadmin_id":1729238433,
             "locality_id":101915479,
             "region_id":85687165
         }
     ],
     "wof:id":101915479,
-    "wof:lastmodified":1487269860,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603147453,
     "wof:name":"Hector",
-    "wof:parent_id":102079357,
+    "wof:parent_id":1729238433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[
@@ -70,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    171.88164591199316,
-    -41.60917434486239,
-    171.8846460917075,
-    -41.6070953864295
+    171.881646,
+    -41.609174,
+    171.884646,
+    -41.607095
 ],
-  "geometry": {"coordinates":[[[171.88464609170751,-41.60857087643426],[171.88421326217411,-41.60917434486239],[171.88164591199316,-41.60781199646956],[171.88219950047247,-41.6070953864295],[171.88268324037389,-41.60728383249528],[171.88263337363742,-41.6075282345198],[171.88464609170751,-41.60857087643426]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[171.884646,-41.608571],[171.88421299999999,-41.609174],[171.88164599999999,-41.607812],[171.88220000000001,-41.607095],[171.88268299999999,-41.607284],[171.882633,-41.607528],[171.884646,-41.608571]]],"type":"Polygon"}
 }

@@ -5,18 +5,22 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":7182.277042,
-    "geom:bbox":"173.112498372,-41.3791772089,173.114246542,-41.3777676418",
+    "geom:area_square_m":7180.393509,
+    "geom:bbox":"173.112498,-41.379177,173.114247,-41.377768",
     "geom:latitude":-41.378467,
     "geom:longitude":173.113375,
     "gn:population":1677,
     "iso:country":"NZ",
     "lbl:latitude":-41.378481,
     "lbl:longitude":173.113395,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-41.378481,
     "mps:longitude":173.113395,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Brightwater"
     ],
@@ -49,7 +53,7 @@
         "wk:page":"Brightwater"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b04672d1da322dd923348890b01185ff",
+    "wof:geomhash":"257e7c7caab5d13e08cb828a061748f2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +64,15 @@
         }
     ],
     "wof:id":101918243,
-    "wof:lastmodified":1505338687,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148643,
     "wof:name":"Brightwater",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",
@@ -74,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.11249837191764,
-    -41.37917720890869,
-    173.11424654165117,
-    -41.37776764183548
+    173.112498,
+    -41.379177,
+    173.114247,
+    -41.377768
 ],
-  "geometry": {"coordinates":[[[173.11424654165117,-41.37894499852622],[173.11387954425004,-41.37917720890869],[173.11249837191764,-41.37800330802828],[173.11290684515697,-41.37776764183548],[173.11424654165117,-41.37894499852622]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[173.11424700000001,-41.378945],[173.11387999999999,-41.379177],[173.11249799999999,-41.378003],[173.11290700000001,-41.377768],[173.11424700000001,-41.378945]]],"type":"Polygon"}
 }

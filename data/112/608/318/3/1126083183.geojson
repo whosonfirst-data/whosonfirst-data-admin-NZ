@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -20,7 +21,7 @@
     "lbl:longitude":171.76011,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
@@ -61,8 +62,9 @@
     "wof:belongsto":[
         85687179,
         102191583,
+        1729238451,
         85633345,
-        101914705,
+        1729339063,
         102079371
     ],
     "wof:breaches":[],
@@ -79,18 +81,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079371,
-            "locality_id":101914705,
+            "localadmin_id":1729238451,
+            "locality_id":1729339063,
             "neighbourhood_id":1126083183,
             "region_id":85687179
         }
     ],
     "wof:id":1126083183,
-    "wof:lastmodified":1566672618,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603175172,
     "wof:name":"Netherby",
-    "wof:parent_id":101914705,
+    "wof:parent_id":1729339063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729339063
+    ],
     "wof:supersedes":[
         85781501
     ],

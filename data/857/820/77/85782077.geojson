@@ -11,6 +11,7 @@
     "geom:longitude":174.653302,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.673302,-36.814124,174.673302,-36.814124",
     "lbl:latitude":-36.834124,
     "lbl:longitude":174.653302,
     "lbl:max_zoom":18.0,
@@ -60,11 +61,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":550,
     "wof:belongsto":[
-        85687243,
         102191583,
+        1729238453,
         85633345,
-        101914257,
-        102079403
+        1729338077,
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,8 +75,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7fec63823cb0d61a2355b0772951b5db",
     "wof:hierarchy":[
@@ -82,18 +84,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":101914257,
+            "localadmin_id":1729238453,
+            "locality_id":1729338077,
             "neighbourhood_id":85782077,
             "region_id":85687243
         }
     ],
     "wof:id":85782077,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316517,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210200,
     "wof:name":"Waimanu Bay",
-    "wof:parent_id":101914257,
+    "wof:parent_id":1729338077,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

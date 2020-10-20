@@ -1,0 +1,77 @@
+{
+  "id": 1729340165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":40177.251626,
+    "geom:bbox":"175.297277,-36.203329,175.29963,-36.20057",
+    "geom:latitude":-36.201896,
+    "geom:longitude":175.298352,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.20185,
+    "lbl:longitude":175.298374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.20185,
+    "mps:longitude":175.298374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Opakau Island"
+    ],
+    "nz-linz:name":"Opakau Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4758
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621913,
+    "wof:geomhash":"5d3d073ab17641192cbefcef699b6bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729340165,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729340165,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145075,
+    "wof:name":"Opakau Island",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.297277,
+    -36.203329,
+    175.29963,
+    -36.20057
+],
+  "geometry": {"coordinates":[[[175.29842099999999,-36.203323],[175.298171,-36.203329],[175.29783,-36.203111],[175.29768100000001,-36.202845],[175.297697,-36.202506],[175.29729699999999,-36.201433],[175.29727700000001,-36.20087],[175.29746499999999,-36.200664],[175.297573,-36.20057],[175.29774,-36.200589],[175.29808299999999,-36.200829],[175.29872599999999,-36.201016],[175.29886999999999,-36.201058],[175.29906700000001,-36.201144],[175.29935499999999,-36.201408],[175.29963000000001,-36.202101],[175.29961,-36.202326],[175.29931300000001,-36.202581],[175.299035,-36.202587],[175.29879199999999,-36.202774],[175.298597,-36.202778],[175.29851600000001,-36.202848],[175.29860600000001,-36.203048],[175.29858400000001,-36.203185],[175.29842099999999,-36.203323]]],"type":"Polygon"}
+}

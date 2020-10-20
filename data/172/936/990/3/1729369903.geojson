@@ -1,0 +1,60 @@
+{
+  "id": 1729369903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":96741.606191,
+    "geom:bbox":"174.816119,-36.430156,174.820421,-36.426289",
+    "geom:latitude":-36.428188,
+    "geom:longitude":174.818393,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.428153,
+    "lbl:longitude":174.818426,
+    "mps:latitude":-36.428153,
+    "mps:longitude":174.818426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Mansion House Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888803,
+    "wof:geomhash":"90e9d3190b648bcee3eb595bacd776ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369903,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369903,
+    "wof:lastmodified":1603142932,
+    "wof:name":"Mansion House Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.816119,
+    -36.430156,
+    174.820421,
+    -36.426289
+],
+  "geometry": {"coordinates":[[[174.81611899999999,-36.428144],[174.81696199999999,-36.426455],[174.818434,-36.426289],[174.820167,-36.42826],[174.820145,-36.428418],[174.82042100000001,-36.429178],[174.82037,-36.429314],[174.82018099999999,-36.429499],[174.81949900000001,-36.429965],[174.81945099999999,-36.42999],[174.81922499999999,-36.430106],[174.819031,-36.430156],[174.81861000000001,-36.430097],[174.81827000000001,-36.429946],[174.81801300000001,-36.429727],[174.81786399999999,-36.429482],[174.81754000000001,-36.428948],[174.817161,-36.42846],[174.81696099999999,-36.428329],[174.81642600000001,-36.42816],[174.81611899999999,-36.428144]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729341755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":849.793376,
+    "geom:bbox":"174.725991,-36.46329,174.726578,-36.463083",
+    "geom:latitude":-36.4632,
+    "geom:longitude":174.726288,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.463185,
+    "lbl:longitude":174.726294,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.463185,
+    "mps:longitude":174.726294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Grants Island"
+    ],
+    "nz-linz:name":"Grants Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4329
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622597,
+    "wof:geomhash":"1c01208246d7b35fb972a610b6944421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341755,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729341755,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146192,
+    "wof:name":"Grants Island",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.725991,
+    -36.46329,
+    174.726578,
+    -36.463083
+],
+  "geometry": {"coordinates":[[[174.72599099999999,-36.463225],[174.726044,-36.463156],[174.726294,-36.463083],[174.72651999999999,-36.463146],[174.72657799999999,-36.463235],[174.726495,-36.463282],[174.72610499999999,-36.46329],[174.72599099999999,-36.463225]]],"type":"Polygon"}
+}

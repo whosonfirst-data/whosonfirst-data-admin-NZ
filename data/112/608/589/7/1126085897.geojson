@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"173.3900905,-35.5074955,173.3900905,-35.5074955",
+    "geom:bbox":"173.390091,-35.507495,173.390091,-35.507495",
     "geom:latitude":-35.507495,
     "geom:longitude":173.390091,
     "gn:country":null,
@@ -16,7 +16,8 @@
     "lbl:longitude":173.390091,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -46,6 +47,7 @@
         85687149,
         102191583,
         85633345,
+        1729340481,
         102079255
     ],
     "wof:breaches":[],
@@ -55,21 +57,29 @@
     },
     "wof:country":"NZ",
     "wof:created":1497312785,
-    "wof:geomhash":"b614fe27c0294998eeb92f60955d4ca7",
+    "wof:geomhash":"b1da3f9b10e5ddbd03b3de6892ccf76b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079255,
-            "locality_id":-1,
+            "locality_id":1729340481,
             "neighbourhood_id":1126085897,
             "region_id":85687149
         }
     ],
     "wof:id":1126085897,
-    "wof:lastmodified":1566672616,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210322,
     "wof:name":"Oraora",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729340481,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
@@ -77,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.3900905,
-    -35.5074955,
-    173.3900905,
-    -35.5074955
+    173.390091,
+    -35.507495,
+    173.390091,
+    -35.507495
 ],
-  "geometry": {"coordinates":[173.39009050000001,-35.5074955],"type":"Point"}
+  "geometry": {"coordinates":[173.39009100000001,-35.507495],"type":"Point"}
 }

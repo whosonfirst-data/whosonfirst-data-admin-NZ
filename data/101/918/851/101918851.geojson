@@ -5,18 +5,22 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":5688.617666,
-    "geom:bbox":"174.062316535,-35.3805218335,174.063660486,-35.3796759307",
-    "geom:latitude":-35.380079,
+    "geom:area_square_m":5686.761367,
+    "geom:bbox":"174.062317,-35.380522,174.06366,-35.379676",
+    "geom:latitude":-35.38008,
     "geom:longitude":174.062979,
     "gn:population":1399,
     "iso:country":"NZ",
     "lbl:latitude":-35.380088,
     "lbl:longitude":174.062958,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-35.380088,
     "mps:longitude":174.062958,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kawakawa"
     ],
@@ -36,9 +40,10 @@
     "src:population":"geonames",
     "wd:wordcount":324,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687149,
+        102191583,
+        1729238541,
+        85633345,
         102079255
     ],
     "wof:breaches":[],
@@ -50,20 +55,29 @@
         "wk:page":"Kawakawa, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"232f2a056d56ce3b2a45edd2e63a870d",
+    "wof:geomhash":"7fb68aa863110ea7b7c604bb2e52001f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079255,
+            "localadmin_id":1729238541,
             "locality_id":101918851,
             "region_id":85687149
         }
     ],
     "wof:id":101918851,
-    "wof:lastmodified":1527715671,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148924,
     "wof:name":"Kawakawa",
-    "wof:parent_id":102079255,
+    "wof:parent_id":1729238541,
     "wof:placetype":"locality",
     "wof:population":1399,
     "wof:population_rank":3,
@@ -75,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.06231653457397,
-    -35.3805218335443,
-    174.06366048566036,
-    -35.37967593073387
+    174.062317,
+    -35.380522,
+    174.06366,
+    -35.379676
 ],
-  "geometry": {"coordinates":[[[174.06343039907821,-35.37967593073387],[174.06366048566036,-35.38004055106961],[174.06254761406618,-35.3805218335443],[174.06231653457397,-35.38009603263689],[174.0633307984119,-35.37967701963202],[174.06343039907821,-35.37967593073387]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[174.06343000000001,-35.379676],[174.06366,-35.380041],[174.06254799999999,-35.380522],[174.06231700000001,-35.380096],[174.06333100000001,-35.379677],[174.06343000000001,-35.379676]]],"type":"Polygon"}
 }

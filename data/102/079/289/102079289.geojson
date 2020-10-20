@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2691,
-    "geom:area_square_m":2614077114.211802,
+    "geom:area_square_m":2614076539.505324,
     "geom:bbox":"175.981746,-38.568698,176.615174,-37.936964",
     "geom:latitude":-38.223025,
     "geom:longitude":176.326459,
@@ -35,6 +35,9 @@
     ],
     "name:arg_x_preferred":[
         "Rotorua"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0442\u0430\u0440\u0443\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u099f\u09c1\u09b0\u09be"
@@ -74,6 +77,9 @@
     ],
     "name:eus_x_preferred":[
         "Rotorua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062a\u0648\u0631\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Rotorua"
@@ -177,6 +183,12 @@
     "name:spa_x_preferred":[
         "Rotorua"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0420\u043e\u0442\u043e\u0440\u0443\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Rotorua"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u043e\u0442\u043e\u0440\u0443\u0430"
     ],
@@ -212,6 +224,18 @@
     ],
     "name:yue_x_preferred":[
         "\u9b6f\u591a\u52aa\u4e9e"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7f57\u6258\u8def\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u7f85\u6258\u8def\u4e9e"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u7f57\u6258\u8def\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7f85\u6258\u8def\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u7f57\u6258\u8def\u4e9a"
@@ -266,7 +290,15 @@
         }
     ],
     "wof:id":102079289,
-    "wof:lastmodified":1583950774,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229223,
     "wof:name":"Rotorua District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

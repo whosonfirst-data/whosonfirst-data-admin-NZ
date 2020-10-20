@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126357,
-    "geom:area_square_m":1178007940.900378,
+    "geom:area_square_m":1178007749.942586,
     "geom:bbox":"175.270183,-41.362367,175.992405,-40.745143",
     "geom:latitude":-41.065068,
     "geom:longitude":175.620302,
@@ -60,7 +60,19 @@
     "name:dan_x_preferred":[
         "Carterton"
     ],
+    "name:deu_at_x_preferred":[
+        "Carterton"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Carterton"
+    ],
     "name:deu_x_preferred":[
+        "Carterton"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Carterton"
+    ],
+    "name:eng_gb_x_preferred":[
         "Carterton"
     ],
     "name:eng_x_preferred":[
@@ -180,6 +192,9 @@
     "name:pol_x_preferred":[
         "Carterton"
     ],
+    "name:por_br_x_preferred":[
+        "Carterton"
+    ],
     "name:por_x_preferred":[
         "Carterton"
     ],
@@ -188,6 +203,9 @@
     ],
     "name:ron_x_preferred":[
         "Carterton"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0435\u0440\u0442\u043e\u043d"
     ],
     "name:scn_x_preferred":[
         "Carterton"
@@ -205,6 +223,9 @@
         "Carterton"
     ],
     "name:srd_x_preferred":[
+        "Carterton"
+    ],
+    "name:srp_el_x_preferred":[
         "Carterton"
     ],
     "name:swa_x_preferred":[
@@ -284,7 +305,15 @@
         }
     ],
     "wof:id":102079345,
-    "wof:lastmodified":1583950779,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229259,
     "wof:name":"Carterton District",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

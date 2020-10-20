@@ -1,0 +1,75 @@
+{
+  "id": 1729340053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":331.996739,
+    "geom:bbox":"171.859839,-41.617241,171.86011,-41.617016",
+    "geom:latitude":-41.617132,
+    "geom:longitude":171.859993,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.617136,
+    "lbl:longitude":171.859991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-41.617136,
+    "mps:longitude":171.859991,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Lovers Rock"
+    ],
+    "nz-linz:name":"Lovers Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4469
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621870,
+    "wof:geomhash":"8b97b91f0fda19715e3178c1d7cbfbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340053,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1729340053,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145011,
+    "wof:name":"Lovers Rock",
+    "wof:parent_id":85687165,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.859839,
+    -41.617241,
+    171.86011,
+    -41.617016
+],
+  "geometry": {"coordinates":[[[171.85989499999999,-41.617101],[171.85999000000001,-41.617016],[171.86007000000001,-41.617061],[171.86010999999999,-41.617084],[171.86010999999999,-41.617174],[171.85998900000001,-41.617241],[171.85983899999999,-41.617151],[171.85989499999999,-41.617101]]],"type":"Polygon"}
+}

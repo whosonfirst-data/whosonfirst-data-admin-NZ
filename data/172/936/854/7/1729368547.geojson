@@ -1,0 +1,60 @@
+{
+  "id": 1729368547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":32184.991952,
+    "geom:bbox":"174.050161,-35.166551,174.052223,-35.164263",
+    "geom:latitude":-35.165297,
+    "geom:longitude":174.05119,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.165217,
+    "lbl:longitude":174.05117,
+    "mps:latitude":-35.165217,
+    "mps:longitude":174.05117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Tangitu Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888262,
+    "wof:geomhash":"8157c02bf4335b704840547d47503569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368547,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729368547,
+    "wof:lastmodified":1603142267,
+    "wof:name":"Tangitu Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.050161,
+    -35.166551,
+    174.052223,
+    -35.164263
+],
+  "geometry": {"coordinates":[[[174.05139600000001,-35.166551],[174.050161,-35.165738],[174.05033800000001,-35.164642],[174.05053000000001,-35.164617],[174.05082400000001,-35.16434],[174.05106799999999,-35.164268],[174.051399,-35.164263],[174.051647,-35.164349],[174.05195599999999,-35.16459],[174.052212,-35.164925],[174.052223,-35.165353],[174.05209300000001,-35.165429],[174.05184199999999,-35.165754],[174.05174400000001,-35.166184],[174.051579,-35.166358],[174.05139600000001,-35.166551]]],"type":"Polygon"}
+}

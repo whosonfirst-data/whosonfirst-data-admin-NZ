@@ -17,8 +17,8 @@
     "mps:latitude":-36.823577,
     "mps:longitude":174.804832,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -187,11 +187,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687243,
         102191583,
+        1729238453,
         85633345,
         101914729,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -207,16 +208,22 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
+            "localadmin_id":1729238453,
             "locality_id":101914729,
             "neighbourhood_id":85778237,
             "region_id":85687243
         }
     ],
     "wof:id":85778237,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316521,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210278,
     "wof:name":"Cheltenham",
     "wof:parent_id":101914729,
     "wof:placetype":"neighbourhood",

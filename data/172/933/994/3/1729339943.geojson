@@ -1,0 +1,81 @@
+{
+  "id": 1729339943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2072.086914,
+    "geom:bbox":"168.250825,-44.141685,168.251634,-44.141266",
+    "geom:latitude":-44.141486,
+    "geom:longitude":168.251177,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.141473,
+    "lbl:longitude":168.251063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-44.141473,
+    "mps:longitude":168.251063,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Browne Island"
+    ],
+    "name:deu_x_preferred":[
+        "Browne Island"
+    ],
+    "name:eng_x_preferred":[
+        "Browne Island"
+    ],
+    "nz-linz:name":"Browne Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4221
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621826,
+    "wof:geomhash":"7276f8d492dee2b074994887a2f31ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729339943,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1729339943,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230049,
+    "wof:name":"Browne Island",
+    "wof:parent_id":85687165,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.250825,
+    -44.141685,
+    168.251634,
+    -44.141266
+],
+  "geometry": {"coordinates":[[[168.25160199999999,-44.141594],[168.25151199999999,-44.141611],[168.25143299999999,-44.141612],[168.25104099999999,-44.141685],[168.25097,-44.141681],[168.25091699999999,-44.141655],[168.250867,-44.141611],[168.25082499999999,-44.1415],[168.25084799999999,-44.141369],[168.25086899999999,-44.141325],[168.25090599999999,-44.141287],[168.251036,-44.141266],[168.25113099999999,-44.141266],[168.25114600000001,-44.141281],[168.251182,-44.141304],[168.251251,-44.141331],[168.251294,-44.141374],[168.251497,-44.141404],[168.251588,-44.141439],[168.251632,-44.141476],[168.251634,-44.141522],[168.25160199999999,-44.141594]]],"type":"Polygon"}
+}

@@ -5,18 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":7449.146639,
-    "geom:bbox":"174.358448642,-35.764658091,174.359502163,-35.7633612377",
+    "geom:area_square_m":7444.06903,
+    "geom:bbox":"174.358449,-35.764658,174.359502,-35.763361",
     "geom:latitude":-35.763999,
     "geom:longitude":174.359042,
     "gn:population":50900,
     "iso:country":"NZ",
     "lbl:latitude":-35.764021,
     "lbl:longitude":174.35912,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-35.764021,
     "mps:longitude":174.35912,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Whangarei"
     ],
@@ -41,9 +44,10 @@
     "wd:longitude":174.3,
     "wd:wordcount":2680,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687149,
+        102191583,
+        1729238617,
+        85633345,
         102079257
     ],
     "wof:breaches":[],
@@ -55,20 +59,29 @@
         "wk:page":"Whangarei"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"34cec55780cb5eda6357cc6ab0dcf211",
+    "wof:geomhash":"2995c274e255080646000dc567d94ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
+            "localadmin_id":1729238617,
             "locality_id":101914873,
             "region_id":85687149
         }
     ],
     "wof:id":101914873,
-    "wof:lastmodified":1527688580,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603147232,
     "wof:name":"Whangarei",
-    "wof:parent_id":102079257,
+    "wof:parent_id":1729238617,
     "wof:placetype":"locality",
     "wof:population":50900,
     "wof:population_rank":8,
@@ -80,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.35844864187123,
-    -35.76465809102154,
-    174.35950216273295,
-    -35.76336123773162
+    174.358449,
+    -35.764658,
+    174.359502,
+    -35.763361
 ],
-  "geometry": {"coordinates":[[[174.35937872534677,-35.76464730658146],[174.35904276375859,-35.76465809102154],[174.35844864187123,-35.76343033551517],[174.358832085714,-35.76336123773162],[174.35904594279151,-35.76365851873447],[174.35950216273295,-35.76374437263367],[174.35937872534677,-35.76464730658146]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[174.35937899999999,-35.764647],[174.35904300000001,-35.764658],[174.35844900000001,-35.76343],[174.35883200000001,-35.763361],[174.35904600000001,-35.763659],[174.35950199999999,-35.763744],[174.35937899999999,-35.764647]]],"type":"Polygon"}
 }

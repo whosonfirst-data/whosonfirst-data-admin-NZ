@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":6415.891571,
-    "geom:bbox":"176.604668489,-39.9476794829,176.606264203,-39.945752237",
+    "geom:area_square_m":6418.491161,
+    "geom:bbox":"176.604668,-39.947679,176.606264,-39.945752",
     "geom:latitude":-39.9468,
     "geom:longitude":176.605426,
     "iso:country":"NZ",
     "lbl:latitude":-39.946821,
     "lbl:longitude":176.6054,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.946821,
     "mps:longitude":176.6054,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Waipawa"
     ],
@@ -48,7 +52,7 @@
         "wk:page":"Waipawa"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7d49958daee17e8979dc4c964ae42f92",
+    "wof:geomhash":"52843503632c55994ed9d3e7a87700d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -59,7 +63,15 @@
         }
     ],
     "wof:id":101918351,
-    "wof:lastmodified":1527715674,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148688,
     "wof:name":"Waipawa",
     "wof:parent_id":102079333,
     "wof:placetype":"locality",
@@ -71,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    176.60466848895265,
-    -39.94767948285767,
-    176.60626420320204,
-    -39.94575223704459
+    176.604668,
+    -39.947679,
+    176.606264,
+    -39.945752
 ],
-  "geometry": {"coordinates":[[[176.60622364521225,-39.94579932700501],[176.60626420320204,-39.94581338224849],[176.60504401571453,-39.94767948285767],[176.60466848895265,-39.94746497602693],[176.60608648752688,-39.94575223704459],[176.60622364521225,-39.94579932700501]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[176.606224,-39.945799],[176.60626400000001,-39.945813],[176.60504399999999,-39.947679],[176.604668,-39.947465],[176.606086,-39.945752],[176.606224,-39.945799]]],"type":"Polygon"}
 }

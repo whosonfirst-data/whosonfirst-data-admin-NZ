@@ -1,0 +1,75 @@
+{
+  "id": 1729341645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3442.310919,
+    "geom:bbox":"175.420315,-36.733998,175.421098,-36.733411",
+    "geom:latitude":-36.73369,
+    "geom:longitude":175.420696,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.73369,
+    "lbl:longitude":175.420696,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.73369,
+    "mps:longitude":175.420696,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Hautapu Rocks"
+    ],
+    "nz-linz:name":"Hautapu Rocks",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4356
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622541,
+    "wof:geomhash":"8fa7499100a57d34a95f9bb83ae14d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341645,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729341645,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146126,
+    "wof:name":"Hautapu Rocks",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.420315,
+    -36.733998,
+    175.421098,
+    -36.733411
+],
+  "geometry": {"coordinates":[[[175.42038400000001,-36.733959],[175.42031499999999,-36.733622],[175.42044999999999,-36.733483],[175.42064400000001,-36.733411],[175.420953,-36.733427],[175.421098,-36.733559],[175.421076,-36.73374],[175.420941,-36.733878],[175.42060900000001,-36.733998],[175.42038400000001,-36.733959]]],"type":"Polygon"}
+}

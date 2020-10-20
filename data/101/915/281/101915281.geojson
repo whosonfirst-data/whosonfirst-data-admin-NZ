@@ -5,18 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":8043.981452,
-    "geom:bbox":"178.056983127,-38.6883738073,178.05820512,-38.6871983929",
+    "geom:area_square_m":8047.131507,
+    "geom:bbox":"178.056983,-38.688374,178.058205,-38.687198",
     "geom:latitude":-38.687773,
     "geom:longitude":178.057652,
     "gn:population":34274,
     "iso:country":"NZ",
     "lbl:latitude":-38.687758,
     "lbl:longitude":178.057663,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-38.687758,
     "mps:longitude":178.057663,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "East Cape"
     ],
@@ -41,9 +44,10 @@
     "wd:longitude":178.017778,
     "wd:wordcount":2874,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687237,
+        102191583,
+        1729238487,
+        85633345,
         102079325
     ],
     "wof:breaches":[],
@@ -55,20 +59,29 @@
         "wk:page":"Gisborne, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"48cbddd9d26f61b2308f23f578ee8a47",
+    "wof:geomhash":"49f442627e56c5c97f3e34f8082d429b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079325,
+            "localadmin_id":1729238487,
             "locality_id":101915281,
             "region_id":85687237
         }
     ],
     "wof:id":101915281,
-    "wof:lastmodified":1527643130,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603147382,
     "wof:name":"Gisborne",
-    "wof:parent_id":102079325,
+    "wof:parent_id":1729238487,
     "wof:placetype":"locality",
     "wof:population":34274,
     "wof:population_rank":7,
@@ -80,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    178.05698312700036,
-    -38.68837380729057,
-    178.0582051200568,
-    -38.68719839287535
+    178.056983,
+    -38.688374,
+    178.058205,
+    -38.687198
 ],
-  "geometry": {"coordinates":[[[178.05820512005681,-38.68754091283006],[178.05803827738472,-38.68837380729057],[178.05698312700036,-38.68790493681351],[178.05740512401968,-38.68719839287535],[178.05820512005681,-38.68754091283006]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[178.05820499999999,-38.687541],[178.05803800000001,-38.688374],[178.056983,-38.687905],[178.05740499999999,-38.687198],[178.05820499999999,-38.687541]]],"type":"Polygon"}
 }

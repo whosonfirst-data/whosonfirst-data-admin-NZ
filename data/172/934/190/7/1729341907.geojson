@@ -1,0 +1,75 @@
+{
+  "id": 1729341907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4646.286803,
+    "geom:bbox":"175.892503,-37.21834,175.893379,-37.217578",
+    "geom:latitude":-37.217961,
+    "geom:longitude":175.892973,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.217951,
+    "lbl:longitude":175.892981,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.217951,
+    "mps:longitude":175.892981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Maukaha Rocks"
+    ],
+    "nz-linz:name":"Maukaha Rocks",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4497
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622670,
+    "wof:geomhash":"4faa328936619b23b801d2aa15de975b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341907,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729341907,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146283,
+    "wof:name":"Maukaha Rocks",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.892503,
+    -37.21834,
+    175.893379,
+    -37.217578
+],
+  "geometry": {"coordinates":[[[175.89319800000001,-37.21834],[175.892887,-37.218305],[175.89268300000001,-37.218155],[175.892652,-37.218132],[175.892503,-37.217956],[175.89255199999999,-37.217819],[175.89256599999999,-37.217807],[175.892796,-37.217609],[175.89304899999999,-37.217578],[175.89312699999999,-37.217624],[175.893193,-37.217663],[175.89326399999999,-37.217755],[175.893314,-37.217818],[175.89337900000001,-37.217996],[175.893359,-37.218177],[175.89331300000001,-37.218225],[175.89319800000001,-37.21834]]],"type":"Polygon"}
+}

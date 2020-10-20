@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245947,
-    "geom:area_square_m":2215151748.375856,
+    "geom:area_square_m":2215151597.353782,
     "geom:bbox":"171.928402,-43.460782,172.737317,-42.954221",
     "geom:latitude":-43.248777,
     "geom:longitude":172.311483,
@@ -44,6 +44,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Waimakariri"
+    ],
+    "name:fra_x_variant":[
+        "Waimakariri"
     ],
     "name:ita_x_preferred":[
         "Distretto di Waimakariri"
@@ -113,7 +116,15 @@
         }
     ],
     "wof:id":102079367,
-    "wof:lastmodified":1583950786,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229239,
     "wof:name":"Waimakariri District",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

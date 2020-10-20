@@ -1,0 +1,75 @@
+{
+  "id": 1729342749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6852.461232,
+    "geom:bbox":"175.817219,-36.822507,175.819004,-36.821843",
+    "geom:latitude":-36.822135,
+    "geom:longitude":175.818043,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.822118,
+    "lbl:longitude":175.818043,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.822118,
+    "mps:longitude":175.818043,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Waikaranga Island"
+    ],
+    "nz-linz:name":"Waikaranga Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5094
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623013,
+    "wof:geomhash":"5425d3b9d1a7dc3242d8e35b291cebfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342749,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729342749,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146776,
+    "wof:name":"Waikaranga Island",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.817219,
+    -36.822507,
+    175.819004,
+    -36.821843
+],
+  "geometry": {"coordinates":[[[175.817227,-36.822442],[175.81721899999999,-36.822261],[175.81743399999999,-36.82203],[175.81775200000001,-36.821941],[175.81827100000001,-36.82187],[175.81846400000001,-36.821843],[175.818758,-36.821846],[175.81899999999999,-36.821919],[175.81900400000001,-36.822031],[175.818578,-36.822234],[175.81788399999999,-36.822366],[175.81748200000001,-36.822502],[175.81731400000001,-36.822507],[175.817227,-36.822442]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729341655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4915.140856,
+    "geom:bbox":"174.526528,-35.842546,174.527663,-35.841896",
+    "geom:latitude":-35.84226,
+    "geom:longitude":174.52712,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.842213,
+    "lbl:longitude":174.52713,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.842213,
+    "mps:longitude":174.52713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Calliope Island"
+    ],
+    "nz-linz:name":"Calliope Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4233
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622546,
+    "wof:geomhash":"8b7579695ddcc2953f013fc3463ce5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341655,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341655,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146133,
+    "wof:name":"Calliope Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.526528,
+    -35.842546,
+    174.527663,
+    -35.841896
+],
+  "geometry": {"coordinates":[[[174.52766299999999,-35.842403],[174.527557,-35.84254],[174.527252,-35.842546],[174.52658400000001,-35.842424],[174.52652800000001,-35.84238],[174.526578,-35.842222],[174.52706599999999,-35.841896],[174.52726100000001,-35.841915],[174.52745999999999,-35.842069],[174.52766299999999,-35.842403]]],"type":"Polygon"}
+}

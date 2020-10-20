@@ -1,0 +1,75 @@
+{
+  "id": 1729342285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5865.392631,
+    "geom:bbox":"167.734631,-46.366075,167.736379,-46.365431",
+    "geom:latitude":-46.365733,
+    "geom:longitude":167.735452,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.365793,
+    "lbl:longitude":167.735348,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.365793,
+    "mps:longitude":167.735348,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Old Man Rock"
+    ],
+    "nz-linz:name":"Old Man Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4752
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622825,
+    "wof:geomhash":"1d11d0d5f3d777dc74fb083a53d4adc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342285,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729342285,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146498,
+    "wof:name":"Old Man Rock",
+    "wof:parent_id":85687211,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.734631,
+    -46.366075,
+    167.736379,
+    -46.365431
+],
+  "geometry": {"coordinates":[[[167.736379,-46.365506],[167.736166,-46.365723],[167.73579100000001,-46.365934],[167.735356,-46.366075],[167.735162,-46.366067],[167.73478399999999,-46.365894],[167.73463100000001,-46.365776],[167.73467500000001,-46.365642],[167.734813,-46.365557],[167.73524,-46.365506],[167.735694,-46.365525],[167.73619099999999,-46.365431],[167.73635100000001,-46.36546],[167.736379,-46.365506]]],"type":"Polygon"}
+}

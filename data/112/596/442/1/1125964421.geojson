@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,8 +19,9 @@
     "lbl:longitude":172.71572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
@@ -58,9 +60,10 @@
     "woe:name_adm1":"Canterbury",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687179,
+        102191583,
+        1729238507,
+        85633345,
         102079401
     ],
     "wof:breaches":[],
@@ -78,17 +81,28 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079401,
+            "localadmin_id":1729238507,
             "locality_id":1125964421,
             "region_id":85687179
         }
     ],
     "wof:id":1125964421,
-    "wof:lastmodified":1566672605,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603137919,
     "wof:name":"Mount Pleasant",
-    "wof:parent_id":102079401,
+    "wof:parent_id":1729238507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101914669
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

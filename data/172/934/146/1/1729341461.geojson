@@ -1,0 +1,75 @@
+{
+  "id": 1729341461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4181.867161,
+    "geom:bbox":"175.586073,-36.623989,175.586951,-36.623118",
+    "geom:latitude":-36.623596,
+    "geom:longitude":175.586529,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.623658,
+    "lbl:longitude":175.586536,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.623658,
+    "mps:longitude":175.586536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Tokaroa Rock"
+    ],
+    "nz-linz:name":"Tokaroa Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5057
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622453,
+    "wof:geomhash":"6cda80a87e6f01b6165ead24a9f082f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341461,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729341461,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146014,
+    "wof:name":"Tokaroa Rock",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.586073,
+    -36.623989,
+    175.586951,
+    -36.623118
+],
+  "geometry": {"coordinates":[[[175.58613600000001,-36.623902],[175.58607699999999,-36.623815],[175.586073,-36.623725],[175.58617799999999,-36.623563],[175.58639600000001,-36.623445],[175.586692,-36.623165],[175.58677299999999,-36.623118],[175.58694499999999,-36.62318],[175.586951,-36.623338],[175.58679100000001,-36.623501],[175.58680200000001,-36.623749],[175.58674999999999,-36.623863],[175.586308,-36.623989],[175.58613600000001,-36.623902]]],"type":"Polygon"}
+}

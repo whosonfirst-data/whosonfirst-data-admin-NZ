@@ -1,0 +1,75 @@
+{
+  "id": 1729340745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2342.758576,
+    "geom:bbox":"174.727135,-37.540559,174.727899,-37.539999",
+    "geom:latitude":-37.540277,
+    "geom:longitude":174.727591,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.540326,
+    "lbl:longitude":174.727623,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.540326,
+    "mps:longitude":174.727623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kapiapia Rock"
+    ],
+    "nz-linz:name":"Kapiapia Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4418
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622150,
+    "wof:geomhash":"925c4e6a0bf3c610410c5f5ae55804d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340745,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729340745,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145504,
+    "wof:name":"Kapiapia Rock",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.727135,
+    -37.540559,
+    174.727899,
+    -37.539999
+],
+  "geometry": {"coordinates":[[[174.72776300000001,-37.540532],[174.72753700000001,-37.540559],[174.72744900000001,-37.540494],[174.72735599999999,-37.540248],[174.727135,-37.539999],[174.72763399999999,-37.540106],[174.72777400000001,-37.540058],[174.72786099999999,-37.540124],[174.72789900000001,-37.540394],[174.72776300000001,-37.540532]]],"type":"Polygon"}
+}

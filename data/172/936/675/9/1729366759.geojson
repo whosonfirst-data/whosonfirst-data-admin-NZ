@@ -1,0 +1,60 @@
+{
+  "id": 1729366759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":185960.632905,
+    "geom:bbox":"174.427494,-36.861077,174.43259,-36.855513",
+    "geom:latitude":-36.858705,
+    "geom:longitude":174.430011,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.858926,
+    "lbl:longitude":174.430217,
+    "mps:latitude":-36.858926,
+    "mps:longitude":174.430217,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Kirikiri Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887541,
+    "wof:geomhash":"bd2c39b9d475c517ad0ee452f7a46acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366759,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729366759,
+    "wof:lastmodified":1603141381,
+    "wof:name":"Kirikiri Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.427494,
+    -36.861077,
+    174.43259,
+    -36.855513
+],
+  "geometry": {"coordinates":[[[174.427494,-36.858132],[174.427854,-36.855513],[174.42850799999999,-36.855931],[174.428709,-36.856109],[174.42902599999999,-36.856464],[174.429169,-36.856597],[174.429654,-36.856951],[174.429767,-36.856994],[174.42990699999999,-36.857015],[174.42996299999999,-36.857014],[174.430103,-36.856967],[174.43024,-36.856897],[174.43062699999999,-36.856621],[174.43099100000001,-36.856616],[174.431218,-36.856748],[174.43234899999999,-36.858353],[174.43233699999999,-36.859029],[174.432368,-36.859186],[174.432546,-36.859611],[174.43257700000001,-36.859746],[174.43259,-36.860286],[174.43256600000001,-36.860489],[174.43243899999999,-36.861077],[174.428845,-36.86086],[174.427494,-36.858132]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729340895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9295.507409,
+    "geom:bbox":"173.797342,-34.99314,173.798235,-34.991584",
+    "geom:latitude":-34.992334,
+    "geom:longitude":173.797758,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.992322,
+    "lbl:longitude":173.797811,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.992322,
+    "mps:longitude":173.797811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Oruatemanu Island"
+    ],
+    "nz-linz:name":"Oruatemanu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4763
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622212,
+    "wof:geomhash":"da84bdf20e4a48448c875b59eb63fcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340895,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340895,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145606,
+    "wof:name":"Oruatemanu Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.797342,
+    -34.99314,
+    173.798235,
+    -34.991584
+],
+  "geometry": {"coordinates":[[[173.79754800000001,-34.99314],[173.797436,-34.993052],[173.79748599999999,-34.992826],[173.79734199999999,-34.992535],[173.79741899999999,-34.992308],[173.79738399999999,-34.992038],[173.79746399999999,-34.991901],[173.79748599999999,-34.991653],[173.79759300000001,-34.991584],[173.79789700000001,-34.99167],[173.798012,-34.991916],[173.79823500000001,-34.992115],[173.79816700000001,-34.992657],[173.79792499999999,-34.992865],[173.79790700000001,-34.992878],[173.79754800000001,-34.99314]]],"type":"Polygon"}
+}

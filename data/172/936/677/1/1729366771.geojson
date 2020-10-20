@@ -1,0 +1,60 @@
+{
+  "id": 1729366771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":203841.038453,
+    "geom:bbox":"166.7375,-46.017802,166.743843,-46.012604",
+    "geom:latitude":-46.015291,
+    "geom:longitude":166.740497,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.0153,
+    "lbl:longitude":166.740497,
+    "mps:latitude":-46.0153,
+    "mps:longitude":166.740497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Lady Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887545,
+    "wof:geomhash":"732e81736686e2127ce13e1bd813fe76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366771,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729366771,
+    "wof:lastmodified":1603141387,
+    "wof:name":"Lady Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.7375,
+    -46.017802,
+    166.743843,
+    -46.012604
+],
+  "geometry": {"coordinates":[[[166.741938,-46.017802],[166.73796400000001,-46.017661],[166.73765700000001,-46.017216],[166.73750000000001,-46.016723],[166.73755600000001,-46.015914],[166.73794100000001,-46.015054],[166.737968,-46.014954],[166.73808199999999,-46.014514],[166.73824500000001,-46.013909],[166.738497,-46.013663],[166.73875799999999,-46.013507],[166.739777,-46.013065],[166.74039300000001,-46.01288],[166.74082799999999,-46.012751],[166.74086600000001,-46.01274],[166.741075,-46.012604],[166.743843,-46.013266],[166.741938,-46.017802]]],"type":"Polygon"}
+}

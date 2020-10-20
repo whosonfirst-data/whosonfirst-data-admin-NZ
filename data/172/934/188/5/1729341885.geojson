@@ -1,0 +1,77 @@
+{
+  "id": 1729341885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15816.616389,
+    "geom:bbox":"173.778367,-40.948446,173.780838,-40.946664",
+    "geom:latitude":-40.947583,
+    "geom:longitude":173.779589,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.947691,
+    "lbl:longitude":173.779365,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-40.947691,
+    "mps:longitude":173.779365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Le Brun Island"
+    ],
+    "nz-linz:name":"Le Brun Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4445
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622661,
+    "wof:geomhash":"86be77fb2f1b19b2f17b17f116633e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":1729341885,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729341885,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146270,
+    "wof:name":"Le Brun Island",
+    "wof:parent_id":102079353,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.778367,
+    -40.948446,
+    173.780838,
+    -40.946664
+],
+  "geometry": {"coordinates":[[[173.780798,-40.946731],[173.78083799999999,-40.946844],[173.780832,-40.946874],[173.780776,-40.947187],[173.780079,-40.947482],[173.77981700000001,-40.947612],[173.77972399999999,-40.947847],[173.77940699999999,-40.948303],[173.779291,-40.948417],[173.779143,-40.94844],[173.778999,-40.948423],[173.77850699999999,-40.948446],[173.77846500000001,-40.948411],[173.778367,-40.948338],[173.778424,-40.948202],[173.77883299999999,-40.947881],[173.77889099999999,-40.947814],[173.778828,-40.947634],[173.77891199999999,-40.947452],[173.77903000000001,-40.94736],[173.77959000000001,-40.947196],[173.77988400000001,-40.947057],[173.78026399999999,-40.946714],[173.78058999999999,-40.946665],[173.780709,-40.946664],[173.780798,-40.946731]]],"type":"Polygon"}
+}

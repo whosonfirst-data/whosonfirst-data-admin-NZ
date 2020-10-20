@@ -1,0 +1,75 @@
+{
+  "id": 1729341467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1485.085915,
+    "geom:bbox":"176.863091,-37.828045,176.863957,-37.827659",
+    "geom:latitude":-37.827855,
+    "geom:longitude":176.863521,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.827868,
+    "lbl:longitude":176.863528,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.827868,
+    "mps:longitude":176.863528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Tokata Island"
+    ],
+    "nz-linz:name":"Tokata Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5059
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622455,
+    "wof:geomhash":"b1c93a7585d0a9f906bd2f8cf9d453bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341467,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1729341467,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146018,
+    "wof:name":"Tokata Island",
+    "wof:parent_id":85687175,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.863091,
+    -37.828045,
+    176.863957,
+    -37.827659
+],
+  "geometry": {"coordinates":[[[176.863957,-37.827702],[176.86371299999999,-37.827893],[176.86346499999999,-37.828015],[176.86326700000001,-37.828045],[176.863091,-37.827962],[176.86317,-37.827869],[176.86342300000001,-37.827813],[176.86367000000001,-37.827669],[176.86389700000001,-37.827659],[176.863957,-37.827702]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729342603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2216.329126,
+    "geom:bbox":"174.013229,-35.204033,174.013971,-35.203599",
+    "geom:latitude":-35.203789,
+    "geom:longitude":174.013627,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.203818,
+    "lbl:longitude":174.013627,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.203818,
+    "mps:longitude":174.013627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Taranaki Island"
+    ],
+    "nz-linz:name":"Taranaki Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4975
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622953,
+    "wof:geomhash":"f50644f8cbc67214f4e17a569128a93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342603,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342603,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146690,
+    "wof:name":"Taranaki Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.013229,
+    -35.204033,
+    174.013971,
+    -35.203599
+],
+  "geometry": {"coordinates":[[[174.013229,-35.203791],[174.01333600000001,-35.203677],[174.01352700000001,-35.203605],[174.01391100000001,-35.203599],[174.01396800000001,-35.203643],[174.013971,-35.203756],[174.013757,-35.203985],[174.01367500000001,-35.204032],[174.013565,-35.204033],[174.013229,-35.203791]]],"type":"Polygon"}
+}

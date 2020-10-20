@@ -1,0 +1,60 @@
+{
+  "id": 1729367287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":195178.127423,
+    "geom:bbox":"174.934843,-36.726186,174.94402,-36.723549",
+    "geom:latitude":-36.724819,
+    "geom:longitude":174.93915,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.724823,
+    "lbl:longitude":174.939152,
+    "mps:latitude":-36.724823,
+    "mps:longitude":174.939152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Fowlhouse Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887751,
+    "wof:geomhash":"cb8a96a5d82512eab5d01b3412a1f73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367287,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729367287,
+    "wof:lastmodified":1603141646,
+    "wof:name":"Fowlhouse Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.934843,
+    -36.726186,
+    174.94402,
+    -36.723549
+],
+  "geometry": {"coordinates":[[[174.94284099999999,-36.723549],[174.942882,-36.723977],[174.94291100000001,-36.724021],[174.94305399999999,-36.724131],[174.94347500000001,-36.724168],[174.94395700000001,-36.724385],[174.94401999999999,-36.724609],[174.94391300000001,-36.724768],[174.94372100000001,-36.72493],[174.943693,-36.72493],[174.94311999999999,-36.725437],[174.94306700000001,-36.725528],[174.94304099999999,-36.725596],[174.94304700000001,-36.725822],[174.935191,-36.726186],[174.934843,-36.723753],[174.94284099999999,-36.723549]]],"type":"Polygon"}
+}

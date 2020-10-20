@@ -1,0 +1,75 @@
+{
+  "id": 1729340139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10234.515197,
+    "geom:bbox":"178.380083,-38.069299,178.381387,-38.068096",
+    "geom:latitude":-38.068748,
+    "geom:longitude":178.380684,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.068784,
+    "lbl:longitude":178.380632,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-38.068784,
+    "mps:longitude":178.380632,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Moutahiauru Island"
+    ],
+    "nz-linz:name":"Moutahiauru Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4684
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621904,
+    "wof:geomhash":"ac1de9d2e290a79e8cf04342529aacce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340139,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1729340139,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145061,
+    "wof:name":"Moutahiauru Island",
+    "wof:parent_id":85687237,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.380083,
+    -38.069299,
+    178.381387,
+    -38.068096
+],
+  "geometry": {"coordinates":[[[178.38103000000001,-38.069299],[178.38067599999999,-38.06916],[178.38036700000001,-38.069221],[178.38025200000001,-38.069205],[178.38012800000001,-38.069099],[178.38008300000001,-38.068559],[178.380154,-38.068397],[178.38052999999999,-38.068106],[178.380729,-38.068096],[178.380818,-38.068136],[178.38069300000001,-38.068346],[178.380786,-38.068432],[178.38122000000001,-38.068499],[178.381372,-38.068604],[178.38138699999999,-38.068783],[178.38121599999999,-38.069132],[178.38103000000001,-38.069299]]],"type":"Polygon"}
+}

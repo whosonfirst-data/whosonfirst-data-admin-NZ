@@ -1,0 +1,60 @@
+{
+  "id": 1729367555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":81933.883149,
+    "geom:bbox":"174.607146,-36.995229,174.610798,-36.992002",
+    "geom:latitude":-36.993392,
+    "geom:longitude":174.609195,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.993409,
+    "lbl:longitude":174.60916,
+    "mps:latitude":-36.993409,
+    "mps:longitude":174.60916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Duncan Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887866,
+    "wof:geomhash":"d3c4c6edd74e445b9a2c34643e708604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367555,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729367555,
+    "wof:lastmodified":1603141781,
+    "wof:name":"Duncan Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.607146,
+    -36.995229,
+    174.610798,
+    -36.992002
+],
+  "geometry": {"coordinates":[[[174.608565,-36.995229],[174.607146,-36.992592],[174.60795300000001,-36.992264],[174.60816299999999,-36.992189],[174.60828699999999,-36.992146],[174.60888700000001,-36.992002],[174.609465,-36.992082],[174.60959199999999,-36.99208],[174.610195,-36.99207],[174.61075600000001,-36.992017],[174.61079799999999,-36.994321],[174.608565,-36.995229]]],"type":"Polygon"}
+}

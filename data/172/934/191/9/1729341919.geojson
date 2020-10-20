@@ -1,0 +1,77 @@
+{
+  "id": 1729341919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15145.998519,
+    "geom:bbox":"174.170272,-35.30755,174.172928,-35.306533",
+    "geom:latitude":-35.307017,
+    "geom:longitude":174.171589,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.306946,
+    "lbl:longitude":174.17172,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.306946,
+    "mps:longitude":174.17172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Marriott Island"
+    ],
+    "nz-linz:name":"Marriott Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4486
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622675,
+    "wof:geomhash":"c1e661ff00b6c4947d0e39e63e4f0a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729341919,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341919,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146291,
+    "wof:name":"Marriott Island",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.170272,
+    -35.30755,
+    174.172928,
+    -35.306533
+],
+  "geometry": {"coordinates":[[[174.17030399999999,-35.307443],[174.17027200000001,-35.307263],[174.17080999999999,-35.306825],[174.17143999999999,-35.306724],[174.17182,-35.306537],[174.17204000000001,-35.306533],[174.17262199999999,-35.306658],[174.172788,-35.306723],[174.17292800000001,-35.306833],[174.17285200000001,-35.307036],[174.17263500000001,-35.307176],[174.172168,-35.307184],[174.17173,-35.307305],[174.171401,-35.30731],[174.170637,-35.30755],[174.170388,-35.307509],[174.17030399999999,-35.307443]]],"type":"Polygon"}
+}

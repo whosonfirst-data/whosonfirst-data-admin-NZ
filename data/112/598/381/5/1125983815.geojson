@@ -18,10 +18,17 @@
     "lbl:longitude":174.87986,
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Manukau"
+    ],
+    "name:cat_x_preferred":[
+        "Manukau"
+    ],
     "name:ceb_x_preferred":[
         "Manukau City"
     ],
@@ -36,6 +43,9 @@
     ],
     "name:eng_x_variant":[
         "Manukau City"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u06a9\u0627 \u0633\u06cc\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Manukau City"
@@ -79,6 +89,9 @@
     "name:war_x_preferred":[
         "Manukau"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u66fc\u52aa\u8003"
+    ],
     "name:zho_x_preferred":[
         "\u66fc\u52aa\u8003"
     ],
@@ -112,8 +125,9 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687243,
-        102079403
+        102079403,
+        1729238453,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,14 +144,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
+            "localadmin_id":1729238453,
             "locality_id":1125983815,
             "region_id":85687243
         }
     ],
     "wof:id":1125983815,
-    "wof:lastmodified":1566672612,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230620,
     "wof:name":"Manukau City",
-    "wof:parent_id":102079403,
+    "wof:parent_id":1729238453,
     "wof:placetype":"locality",
     "wof:population":362000,
     "wof:population_rank":10,

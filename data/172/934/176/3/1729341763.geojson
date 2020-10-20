@@ -1,0 +1,107 @@
+{
+  "id": 1729341763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25001.249664,
+    "geom:bbox":"175.846727,-36.644469,175.849938,-36.642692",
+    "geom:latitude":-36.64371,
+    "geom:longitude":175.848405,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.643857,
+    "lbl:longitude":175.848405,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.643857,
+    "mps:longitude":175.848405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:bre_x_preferred":[
+        "Green Island"
+    ],
+    "name:ceb_x_preferred":[
+        "Green Island"
+    ],
+    "name:deu_x_preferred":[
+        "Green Island"
+    ],
+    "name:eng_x_preferred":[
+        "Green Island"
+    ],
+    "name:fra_x_preferred":[
+        "Green Island"
+    ],
+    "name:hrv_x_preferred":[
+        "Green Island"
+    ],
+    "name:ita_x_preferred":[
+        "Green Island"
+    ],
+    "name:nld_x_preferred":[
+        "Green Island"
+    ],
+    "name:pol_x_preferred":[
+        "Green Island"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u043e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Green Island"
+    ],
+    "nz-linz:name":"Green Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079261,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4334
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622601,
+    "wof:geomhash":"9af2f7e539514ce6075729b0953f50b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1729341763,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729341763,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229868,
+    "wof:name":"Green Island",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.846727,
+    -36.644469,
+    175.849938,
+    -36.642692
+],
+  "geometry": {"coordinates":[[[175.84868399999999,-36.643101],[175.848771,-36.642999],[175.84904,-36.642765],[175.84920399999999,-36.642692],[175.849434,-36.64282],[175.849816,-36.643192],[175.84993800000001,-36.643392],[175.84991600000001,-36.643527],[175.84936200000001,-36.643657],[175.84906899999999,-36.643982],[175.84879799999999,-36.644171],[175.84849500000001,-36.644274],[175.84774899999999,-36.644346],[175.84718899999999,-36.644469],[175.84696500000001,-36.644453],[175.84676300000001,-36.644324],[175.84672699999999,-36.644167],[175.84688299999999,-36.643914],[175.84704400000001,-36.643774],[175.84740400000001,-36.643672],[175.84779399999999,-36.643638],[175.84815399999999,-36.643559],[175.8484,-36.643438],[175.84868399999999,-36.643101]]],"type":"Polygon"}
+}

@@ -18,8 +18,8 @@
     "mps:latitude":-37.779476,
     "mps:longitude":175.315664,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -58,10 +58,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687229,
         102191583,
+        1729238493,
         85633345,
-        102079271
+        1729337801,
+        102079271,
+        85687229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,18 +80,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079271,
-            "locality_id":-1,
+            "localadmin_id":1729238493,
+            "locality_id":1729337801,
             "neighbourhood_id":85782885,
             "region_id":85687229
         }
     ],
     "wof:id":85782885,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316520,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210176,
     "wof:name":"Silverdale West",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729337801,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

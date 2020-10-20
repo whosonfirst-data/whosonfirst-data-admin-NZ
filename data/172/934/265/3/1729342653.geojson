@@ -1,0 +1,77 @@
+{
+  "id": 1729342653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27186.262365,
+    "geom:bbox":"177.172869,-38.708775,177.175381,-38.706973",
+    "geom:latitude":-38.707824,
+    "geom:longitude":177.174111,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.707783,
+    "lbl:longitude":177.174087,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-38.707783,
+    "mps:longitude":177.174087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Te Oneatahu Island"
+    ],
+    "nz-linz:name":"Te Oneatahu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687189,
+        102079327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5007
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622973,
+    "wof:geomhash":"d56fdee0aa0265b97b7ed6f68f62c7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079327,
+            "locality_id":1729342653,
+            "region_id":85687189
+        }
+    ],
+    "wof:id":1729342653,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146718,
+    "wof:name":"Te Oneatahu Island",
+    "wof:parent_id":102079327,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.172869,
+    -38.708775,
+    177.175381,
+    -38.706973
+],
+  "geometry": {"coordinates":[[[177.172966,-38.708728],[177.17286899999999,-38.708574],[177.17288300000001,-38.708348],[177.173427,-38.707445],[177.173754,-38.707183],[177.17400599999999,-38.707083],[177.17454799999999,-38.706993],[177.17503600000001,-38.706973],[177.175274,-38.707098],[177.17538099999999,-38.70741],[177.175364,-38.707568],[177.17526100000001,-38.707753],[177.17499000000001,-38.708012],[177.17424099999999,-38.708427],[177.17345900000001,-38.708775],[177.17314200000001,-38.708766],[177.172966,-38.708728]]],"type":"Polygon"}
+}

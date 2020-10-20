@@ -27,8 +27,9 @@
     "lbl:bbox":"172.23,-43.67,172.27,-43.63",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Norwood"
@@ -72,12 +73,16 @@
     "name:swe_x_preferred":[
         "Norwood"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u0432\u0443\u0434"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079369
+        102079369,
+        1729238431,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,14 +95,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079369,
+            "localadmin_id":1729238431,
             "locality_id":1260321609,
             "region_id":85687179
         }
     ],
     "wof:id":1260321609,
-    "wof:lastmodified":1566672362,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230201,
     "wof:name":"Norwood",
-    "wof:parent_id":102079369,
+    "wof:parent_id":1729238431,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

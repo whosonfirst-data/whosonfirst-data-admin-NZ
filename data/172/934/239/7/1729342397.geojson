@@ -1,0 +1,75 @@
+{
+  "id": 1729342397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1974.761499,
+    "geom:bbox":"173.077938,-43.853961,173.079061,-43.853359",
+    "geom:latitude":-43.853677,
+    "geom:longitude":173.078498,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.853677,
+    "lbl:longitude":173.078498,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-43.853677,
+    "mps:longitude":173.078498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Pompeys Pillar"
+    ],
+    "nz-linz:name":"Pompeys Pillar",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4825
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622869,
+    "wof:geomhash":"f4c18441186bae9c95dc2d8c4033ae83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342397,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1729342397,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146564,
+    "wof:name":"Pompeys Pillar",
+    "wof:parent_id":85687179,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.077938,
+    -43.853961,
+    173.079061,
+    -43.853359
+],
+  "geometry": {"coordinates":[[[173.07903200000001,-43.853937],[173.07887600000001,-43.853961],[173.07821899999999,-43.85365],[173.078126,-43.85365],[173.07793799999999,-43.853494],[173.07799900000001,-43.853359],[173.078936,-43.853758],[173.079061,-43.853847],[173.07903200000001,-43.853937]]],"type":"Polygon"}
+}

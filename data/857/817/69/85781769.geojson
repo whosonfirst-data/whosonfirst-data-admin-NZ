@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "mps:latitude":-41.521655,
     "mps:longitude":173.919468,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -78,7 +79,9 @@
     "wof:belongsto":[
         85687185,
         102191583,
+        1729238455,
         85633345,
+        1729339075,
         102079353
     ],
     "wof:breaches":[],
@@ -89,8 +92,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"59f7ffb1bb3e56750ca9b361975fddaf",
     "wof:hierarchy":[
@@ -98,21 +101,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079353,
-            "locality_id":-1,
+            "localadmin_id":1729238455,
+            "locality_id":1729339075,
             "neighbourhood_id":85781769,
             "region_id":85687185
         }
     ],
     "wof:id":85781769,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316520,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200911,
     "wof:name":"Burleigh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729339075,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729339075
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

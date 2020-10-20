@@ -24,16 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Auckland",
     "iso:country":"NZ",
-    "mz:hierarchy_label":1,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:und_x_variant":[
         "Takapuwahia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687233,
+        102191583,
+        1729238563,
+        85633345,
         102079317
     ],
     "wof:breaches":[],
@@ -47,14 +52,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079317,
+            "localadmin_id":1729238563,
             "locality_id":1293623625,
             "region_id":85687233
         }
     ],
     "wof:id":1293623625,
-    "wof:lastmodified":1537676142,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149918,
     "wof:name":"Porirua Pa",
-    "wof:parent_id":102079317,
+    "wof:parent_id":1729238563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -1,0 +1,75 @@
+{
+  "id": 1729340877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10371.596958,
+    "geom:bbox":"174.247301,-35.228153,174.248601,-35.226954",
+    "geom:latitude":-35.227577,
+    "geom:longitude":174.247922,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.227587,
+    "lbl:longitude":174.247922,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.227587,
+    "mps:longitude":174.247922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Mahenotiti Island"
+    ],
+    "nz-linz:name":"Mahenotiti Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4474
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622204,
+    "wof:geomhash":"3e1893c8635a626147b2444dfcfc1e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340877,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340877,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145593,
+    "wof:name":"Mahenotiti Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.247301,
+    -35.228153,
+    174.248601,
+    -35.226954
+],
+  "geometry": {"coordinates":[[[174.247536,-35.228133],[174.24748099999999,-35.22809],[174.24750299999999,-35.227908],[174.24730400000001,-35.227665],[174.24730099999999,-35.227551],[174.247488,-35.227368],[174.247589,-35.227027],[174.24783400000001,-35.226956],[174.24794399999999,-35.226954],[174.24813900000001,-35.22704],[174.24825200000001,-35.227128],[174.24834100000001,-35.227397],[174.24859599999999,-35.227663],[174.24860100000001,-35.227843],[174.24830299999999,-35.228006],[174.24808300000001,-35.228011],[174.247702,-35.228153],[174.247536,-35.228133]]],"type":"Polygon"}
+}

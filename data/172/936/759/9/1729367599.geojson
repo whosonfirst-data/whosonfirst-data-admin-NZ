@@ -1,0 +1,60 @@
+{
+  "id": 1729367599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":59355.476191,
+    "geom:bbox":"173.424475,-41.13816,173.427432,-41.13517",
+    "geom:latitude":-41.136434,
+    "geom:longitude":173.425989,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.136371,
+    "lbl:longitude":173.425989,
+    "mps:latitude":-41.136371,
+    "mps:longitude":173.425989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Echinus Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687157
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887883,
+    "wof:geomhash":"fa03e7f889e3e9c64366850abb88c07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367599,
+            "region_id":85687157
+        }
+    ],
+    "wof:id":1729367599,
+    "wof:lastmodified":1603141803,
+    "wof:name":"Echinus Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.424475,
+    -41.13816,
+    173.427432,
+    -41.13517
+],
+  "geometry": {"coordinates":[[[173.42722599999999,-41.137682],[173.427018,-41.137684],[173.42697100000001,-41.137732],[173.42684299999999,-41.13784],[173.42681400000001,-41.137885],[173.42671100000001,-41.138157],[173.42669799999999,-41.13816],[173.42657700000001,-41.138116],[173.426367,-41.137961],[173.42618200000001,-41.137556],[173.426061,-41.137445],[173.42552499999999,-41.137472],[173.425105,-41.13734],[173.42459400000001,-41.137075],[173.424475,-41.137076],[173.42457899999999,-41.13517],[173.42743200000001,-41.135419],[173.42722599999999,-41.137682]]],"type":"Polygon"}
+}

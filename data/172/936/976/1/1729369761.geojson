@@ -1,0 +1,60 @@
+{
+  "id": 1729369761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":204736.488117,
+    "geom:bbox":"176.229068,-37.294426,176.235657,-37.289695",
+    "geom:latitude":-37.291983,
+    "geom:longitude":176.232631,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.292065,
+    "lbl:longitude":176.232694,
+    "mps:latitude":-37.292065,
+    "mps:longitude":176.232694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "North West Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888747,
+    "wof:geomhash":"f7ecb372c313d1f155d9aeff70150ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369761,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1729369761,
+    "wof:lastmodified":1603142863,
+    "wof:name":"North West Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.229068,
+    -37.294426,
+    176.235657,
+    -37.289695
+],
+  "geometry": {"coordinates":[[[176.234478,-37.289695],[176.234791,-37.290111],[176.23510899999999,-37.290306],[176.23532599999999,-37.290517],[176.235432,-37.290726],[176.23551599999999,-37.291212],[176.23562999999999,-37.291501],[176.235657,-37.291727],[176.23556199999999,-37.292158],[176.23541499999999,-37.292477],[176.23499799999999,-37.293092],[176.23467600000001,-37.293728],[176.234542,-37.293901],[176.23414299999999,-37.29429],[176.233836,-37.294426],[176.23366799999999,-37.294413],[176.233588,-37.294371],[176.23344700000001,-37.29417],[176.23332300000001,-37.294082],[176.23315299999999,-37.294141],[176.229692,-37.293162],[176.22906800000001,-37.290978],[176.234478,-37.289695]]],"type":"Polygon"}
+}

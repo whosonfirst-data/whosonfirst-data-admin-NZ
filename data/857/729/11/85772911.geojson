@@ -14,6 +14,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.040606,
     "lbl:longitude":174.107841,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.038057,
     "mps:longitude":174.111522,
     "mz:hierarchy_label":0,
@@ -64,7 +65,9 @@
     "wof:belongsto":[
         85687195,
         102191583,
+        1729238515,
         85633345,
+        1225981147,
         102079311
     ],
     "wof:breaches":[],
@@ -83,18 +86,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079311,
-            "locality_id":-1,
+            "localadmin_id":1729238515,
+            "locality_id":1225981147,
             "neighbourhood_id":85772911,
             "region_id":85687195
         }
     ],
     "wof:id":85772911,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316533,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200454,
     "wof:name":"Fitzroy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1225981147,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

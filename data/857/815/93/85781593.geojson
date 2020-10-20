@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +19,7 @@
     "mps:latitude":-41.25471,
     "mps:longitude":173.249075,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -61,7 +62,9 @@
     "wof:belongsto":[
         85687157,
         102191583,
+        1729238513,
         85633345,
+        1729338787,
         102079351
     ],
     "wof:breaches":[],
@@ -71,8 +74,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7870fde85fa685ebf52450d24211671e",
     "wof:hierarchy":[
@@ -80,21 +83,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079351,
-            "locality_id":-1,
+            "localadmin_id":1729238513,
+            "locality_id":1729338787,
             "neighbourhood_id":85781593,
             "region_id":85687157
         }
     ],
     "wof:id":85781593,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316526,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200879,
     "wof:name":"Stepneyville",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338787,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729338787
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

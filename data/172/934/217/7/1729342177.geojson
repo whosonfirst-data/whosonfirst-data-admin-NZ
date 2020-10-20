@@ -1,0 +1,77 @@
+{
+  "id": 1729342177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18990.660578,
+    "geom:bbox":"175.796382,-36.60065,175.79815,-36.599245",
+    "geom:latitude":-36.59994,
+    "geom:longitude":175.79726,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.599962,
+    "lbl:longitude":175.79726,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.599962,
+    "mps:longitude":175.79726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Motuwharangi Island"
+    ],
+    "nz-linz:name":"Motuwharangi Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4675
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622781,
+    "wof:geomhash":"955d6d0a34714f31ac67d951e182a392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1729342177,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729342177,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146437,
+    "wof:name":"Motuwharangi Island",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.796382,
+    -36.60065,
+    175.79815,
+    -36.599245
+],
+  "geometry": {"coordinates":[[[175.796604,-36.600522],[175.79639399999999,-36.600213],[175.79638199999999,-36.599964],[175.79656,-36.599576],[175.796639,-36.599483],[175.796942,-36.599361],[175.797496,-36.599254],[175.79780299999999,-36.599245],[175.79803100000001,-36.599328],[175.79811799999999,-36.599393],[175.79814999999999,-36.599482],[175.79799700000001,-36.599802],[175.798011,-36.600118],[175.79794000000001,-36.600368],[175.79780500000001,-36.600485],[175.79719800000001,-36.600639],[175.79683299999999,-36.60065],[175.796604,-36.600522]]],"type":"Polygon"}
+}

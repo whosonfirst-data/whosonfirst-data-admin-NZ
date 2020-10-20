@@ -19,8 +19,8 @@
     "mps:latitude":-40.391994,
     "mps:longitude":175.641675,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -66,6 +66,9 @@
     "name:swe_x_preferred":[
         "Summerhill"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u043c\u0435\u0440\u0433\u0456\u043b\u043b"
+    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2185018,
@@ -96,10 +99,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687251,
         102191583,
         85633345,
-        102079307
+        102079307,
+        1729238575,
+        101914815,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,8 +114,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"24d9217260d9ffe658224169adaef5c6",
     "wof:hierarchy":[
@@ -118,18 +123,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079307,
-            "locality_id":-1,
+            "localadmin_id":1729238575,
+            "locality_id":101914815,
             "neighbourhood_id":85781149,
             "region_id":85687251
         }
     ],
     "wof:id":85781149,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316519,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229323,
     "wof:name":"Summerhill",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914815,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

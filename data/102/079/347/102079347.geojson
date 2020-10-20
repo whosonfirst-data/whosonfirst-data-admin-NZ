@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.264208,
-    "geom:area_square_m":2454235562.280255,
+    "geom:area_square_m":2454235600.223941,
     "geom:bbox":"174.958653,-41.613549,175.809775,-40.921064",
     "geom:latitude":-41.303369,
     "geom:longitude":175.3925,
@@ -44,6 +44,9 @@
     ],
     "name:fra_x_preferred":[
         "District de South Wairarapa"
+    ],
+    "name:fra_x_variant":[
+        "South Wairarapa"
     ],
     "name:ita_x_preferred":[
         "Distretto di South Wairarapa"
@@ -110,7 +113,15 @@
         }
     ],
     "wof:id":102079347,
-    "wof:lastmodified":1583950779,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229235,
     "wof:name":"South Wairarapa District",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

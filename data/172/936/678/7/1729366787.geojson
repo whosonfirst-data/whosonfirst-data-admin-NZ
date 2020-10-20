@@ -1,0 +1,60 @@
+{
+  "id": 1729366787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":105669.794193,
+    "geom:bbox":"174.100651,-41.216584,174.106853,-41.213476",
+    "geom:latitude":-41.214716,
+    "geom:longitude":174.103964,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.214838,
+    "lbl:longitude":174.103965,
+    "mps:latitude":-41.214838,
+    "mps:longitude":174.103965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Macalister Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887552,
+    "wof:geomhash":"10f06e9be662a897d5a4709ffb1afd53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366787,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729366787,
+    "wof:lastmodified":1603141395,
+    "wof:name":"Macalister Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.100651,
+    -41.216584,
+    174.106853,
+    -41.213476
+],
+  "geometry": {"coordinates":[[[174.10476700000001,-41.213506],[174.10488799999999,-41.213595],[174.105572,-41.213476],[174.105841,-41.213519],[174.10596200000001,-41.213608],[174.10608400000001,-41.21381],[174.10621599999999,-41.213907],[174.10623699999999,-41.213921],[174.10662600000001,-41.21403],[174.10677699999999,-41.214141],[174.106853,-41.214287],[174.106843,-41.214546],[174.10652200000001,-41.214988],[174.10609600000001,-41.215409],[174.10581500000001,-41.215547],[174.105425,-41.215677],[174.105118,-41.215779],[174.10477800000001,-41.215962],[174.10397399999999,-41.216105],[174.103812,-41.216196],[174.103296,-41.216584],[174.100651,-41.213807],[174.10476700000001,-41.213506]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729342319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3330.344913,
+    "geom:bbox":"173.386221,-35.44051,173.387117,-35.439647",
+    "geom:latitude":-35.440086,
+    "geom:longitude":173.386651,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.440083,
+    "lbl:longitude":173.386644,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.440083,
+    "mps:longitude":173.386644,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Paekawa Island"
+    ],
+    "nz-linz:name":"Paekawa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4778
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622838,
+    "wof:geomhash":"67a376777e8aff5c81ca0671488ae987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342319,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342319,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146517,
+    "wof:name":"Paekawa Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.386221,
+    -35.44051,
+    173.387117,
+    -35.439647
+],
+  "geometry": {"coordinates":[[[173.38711699999999,-35.439758],[173.38690299999999,-35.440099],[173.38665900000001,-35.440327],[173.386359,-35.44051],[173.38622100000001,-35.440444],[173.38627099999999,-35.440196],[173.38648800000001,-35.439968],[173.38700499999999,-35.439647],[173.387089,-35.439668],[173.38711699999999,-35.439758]]],"type":"Polygon"}
+}

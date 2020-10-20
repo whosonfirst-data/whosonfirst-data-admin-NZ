@@ -1,0 +1,75 @@
+{
+  "id": 1729340031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4023.475647,
+    "geom:bbox":"173.715635,-34.971867,173.716483,-34.971147",
+    "geom:latitude":-34.971479,
+    "geom:longitude":173.716043,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.971485,
+    "lbl:longitude":173.716051,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.971485,
+    "mps:longitude":173.716051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kawa Rock"
+    ],
+    "nz-linz:name":"Kawa Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4426
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621861,
+    "wof:geomhash":"7359e97cbd466ce74ec8e0a15932502a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340031,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340031,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603144999,
+    "wof:name":"Kawa Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.715635,
+    -34.971867,
+    173.716483,
+    -34.971147
+],
+  "geometry": {"coordinates":[[[173.716218,-34.971865],[173.716081,-34.971867],[173.71563499999999,-34.971536],[173.71568400000001,-34.971265],[173.71579199999999,-34.971173],[173.71598299999999,-34.971147],[173.71642499999999,-34.971321],[173.71648300000001,-34.971478],[173.716296,-34.971661],[173.716218,-34.971865]]],"type":"Polygon"}
+}

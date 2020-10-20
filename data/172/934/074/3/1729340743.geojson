@@ -1,0 +1,77 @@
+{
+  "id": 1729340743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":23665.000429,
+    "geom:bbox":"167.576277,-47.275433,167.578931,-47.27349",
+    "geom:latitude":-47.274459,
+    "geom:longitude":167.577582,
+    "iso:country":"NZ",
+    "lbl:latitude":-47.274443,
+    "lbl:longitude":167.577582,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-47.274443,
+    "mps:longitude":167.577582,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kaninihi Island"
+    ],
+    "nz-linz:name":"Kaninihi Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4417
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622149,
+    "wof:geomhash":"50878f2c8c5f5baa84921345800bd9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729340743,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729340743,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145503,
+    "wof:name":"Kaninihi Island",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.576277,
+    -47.275433,
+    167.578931,
+    -47.27349
+],
+  "geometry": {"coordinates":[[[167.578621,-47.274384],[167.578656,-47.274472],[167.57863599999999,-47.274696],[167.57890399999999,-47.275045],[167.57893100000001,-47.275114],[167.57878600000001,-47.275265],[167.57844,-47.275433],[167.57811000000001,-47.27542],[167.57798399999999,-47.275346],[167.577899,-47.275186],[167.577743,-47.275067],[167.57738499999999,-47.274978],[167.57709399999999,-47.274906],[167.57674499999999,-47.274734],[167.57662500000001,-47.274594],[167.57628800000001,-47.273882],[167.576277,-47.273634],[167.57645099999999,-47.273528],[167.57662099999999,-47.27349],[167.576944,-47.27357],[167.57745399999999,-47.273816],[167.578419,-47.274147],[167.578574,-47.274266],[167.578621,-47.274384]]],"type":"Polygon"}
+}

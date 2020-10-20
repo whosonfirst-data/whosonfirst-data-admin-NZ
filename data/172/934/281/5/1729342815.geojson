@@ -1,0 +1,77 @@
+{
+  "id": 1729342815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":4865.60933,
+    "geom:bbox":"168.205684,-46.913399,168.206834,-46.912596",
+    "geom:latitude":-46.913033,
+    "geom:longitude":168.206292,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.913038,
+    "lbl:longitude":168.206338,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.913038,
+    "mps:longitude":168.206338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Whero Rock"
+    ],
+    "nz-linz:name":"Whero Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5135
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623039,
+    "wof:geomhash":"a04c7e0c74b5237da5939dead80f3d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729342815,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729342815,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146812,
+    "wof:name":"Whero Rock",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.205684,
+    -46.913399,
+    168.206834,
+    -46.912596
+],
+  "geometry": {"coordinates":[[[168.20668499999999,-46.91328],[168.206379,-46.913373],[168.20629,-46.913399],[168.206132,-46.913303],[168.205839,-46.913271],[168.20568399999999,-46.91313],[168.20569399999999,-46.912996],[168.20590300000001,-46.912845],[168.20623900000001,-46.912744],[168.206513,-46.912596],[168.206638,-46.91269],[168.20683399999999,-46.913148],[168.206761,-46.913257],[168.20668499999999,-46.91328]]],"type":"Polygon"}
+}

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.3216665,-35.7176845,174.3216665,-35.7176845",
+    "geom:bbox":"174.321666,-35.717684,174.321666,-35.717684",
     "geom:latitude":-35.717684,
     "geom:longitude":174.321666,
     "gn:country":null,
@@ -16,7 +17,7 @@
     "lbl:longitude":174.321666,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -168,8 +169,9 @@
     "wof:belongsto":[
         85687149,
         102191583,
+        1729238617,
         85633345,
-        101914253,
+        1729339145,
         102079257
     ],
     "wof:breaches":[],
@@ -179,32 +181,43 @@
     },
     "wof:country":"NZ",
     "wof:created":1497310098,
-    "wof:geomhash":"17a933edfb681fe87928646298cec44d",
+    "wof:geomhash":"4d2b398c389c47d783810afd6952fff9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
-            "locality_id":101914253,
+            "localadmin_id":1729238617,
+            "locality_id":1729339145,
             "neighbourhood_id":1126071943,
             "region_id":85687149
         }
     ],
     "wof:id":1126071943,
-    "wof:lastmodified":1566672628,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603175124,
     "wof:name":"Regent",
-    "wof:parent_id":101914253,
+    "wof:parent_id":1729339145,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729339145
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    174.3216665,
-    -35.7176845,
-    174.3216665,
-    -35.7176845
+    174.321666,
+    -35.717684,
+    174.321666,
+    -35.717684
 ],
-  "geometry": {"coordinates":[174.32166649999999,-35.7176845],"type":"Point"}
+  "geometry": {"coordinates":[174.32166599999999,-35.717684],"type":"Point"}
 }

@@ -1,0 +1,108 @@
+{
+  "id": 1729340855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":13571.254258,
+    "geom:bbox":"167.889303,-44.422478,167.89146,-44.42122",
+    "geom:latitude":-44.421903,
+    "geom:longitude":167.890352,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.421874,
+    "lbl:longitude":167.890156,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-44.421874,
+    "mps:longitude":167.890156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0644 \u0644\u064a\u0648\u0646 \u0631\u0648\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Sz Tsz Shan"
+    ],
+    "name:deu_x_preferred":[
+        "Lion Rock"
+    ],
+    "name:eng_x_preferred":[
+        "Lion Rock"
+    ],
+    "name:fra_x_preferred":[
+        "Roche du Lion"
+    ],
+    "name:hak_x_preferred":[
+        "S\u1e73\u0302-\u00e9-s\u00e2n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7345\u5b50\u5c71"
+    ],
+    "name:msa_x_preferred":[
+        "Lion Rock"
+    ],
+    "name:swe_x_preferred":[
+        "Sz Tsz Shan"
+    ],
+    "name:vie_x_preferred":[
+        "S\u01b0 T\u1eed S\u01a1n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7345\u5b50\u5c71"
+    ],
+    "name:zho_x_preferred":[
+        "\u7345\u5b50\u5c71"
+    ],
+    "nz-linz:name":"Lion Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4454
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622195,
+    "wof:geomhash":"7e3f3ae82bbfdfce6aa8ea71c1793ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340855,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729340855,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229600,
+    "wof:name":"Lion Rock",
+    "wof:parent_id":85687211,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.889303,
+    -44.422478,
+    167.89146,
+    -44.42122
+],
+  "geometry": {"coordinates":[[[167.89146,-44.422193],[167.891187,-44.422428],[167.89077399999999,-44.422478],[167.88972200000001,-44.422272],[167.88957500000001,-44.422153],[167.889736,-44.421754],[167.88930300000001,-44.421307],[167.889374,-44.42122],[167.890278,-44.421305],[167.890488,-44.421427],[167.890545,-44.421497],[167.890535,-44.42161],[167.89055999999999,-44.421678],[167.890648,-44.42175],[167.89086900000001,-44.42176],[167.89102399999999,-44.42179],[167.89138399999999,-44.421986],[167.89146,-44.422193]]],"type":"Polygon"}
+}

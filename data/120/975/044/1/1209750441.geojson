@@ -27,8 +27,9 @@
     "lbl:bbox":"168.89973,-43.91576,168.93973,-43.87576",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +43,7 @@
         "gn:id":9694409
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6f45837d7796ffab22e2fb378f35852d",
+    "wof:geomhash":"513140e853d1fc13a89d813e4fe3dd6e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,15 @@
         }
     ],
     "wof:id":1209750441,
-    "wof:lastmodified":1566672351,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149518,
     "wof:name":"Johnston Cres",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    168.91973000000004,
+    168.91973,
     -43.89576,
-    168.91973000000004,
+    168.91973,
     -43.89576
 ],
-  "geometry": {"coordinates":[168.91973000000004,-43.89576],"type":"Point"}
+  "geometry": {"coordinates":[168.91972999999999,-43.89576],"type":"Point"}
 }

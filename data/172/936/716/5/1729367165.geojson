@@ -1,0 +1,60 @@
+{
+  "id": 1729367165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":254028.03137,
+    "geom:bbox":"175.194577,-36.901509,175.201754,-36.896021",
+    "geom:latitude":-36.899128,
+    "geom:longitude":175.198145,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.899185,
+    "lbl:longitude":175.198145,
+    "mps:latitude":-36.899185,
+    "mps:longitude":175.198145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Second Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887703,
+    "wof:geomhash":"22e6165d4db98dd2ee33057acfd3313e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367165,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729367165,
+    "wof:lastmodified":1603141585,
+    "wof:name":"Second Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.194577,
+    -36.901509,
+    175.201754,
+    -36.896021
+],
+  "geometry": {"coordinates":[[[175.20036200000001,-36.897171],[175.20175399999999,-36.899874],[175.19886099999999,-36.901509],[175.194579,-36.901388],[175.19457700000001,-36.901343],[175.19466499999999,-36.901058],[175.195165,-36.899415],[175.195538,-36.898765],[175.19682399999999,-36.897009],[175.19699499999999,-36.896775],[175.19736399999999,-36.896441],[175.19792899999999,-36.896114],[175.19827799999999,-36.896028],[175.19869800000001,-36.896021],[175.19889599999999,-36.896073],[175.19905700000001,-36.896186],[175.199254,-36.896326],[175.19961900000001,-36.896747],[175.20036200000001,-36.897171]]],"type":"Polygon"}
+}

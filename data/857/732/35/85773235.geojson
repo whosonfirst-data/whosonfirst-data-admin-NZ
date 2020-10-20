@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "mps:latitude":-37.751441,
     "mps:longitude":175.229351,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -64,7 +65,9 @@
     "wof:belongsto":[
         85687229,
         102191583,
+        1729238493,
         85633345,
+        1729338121,
         102079271
     ],
     "wof:breaches":[],
@@ -82,21 +85,30 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079271,
-            "locality_id":-1,
+            "localadmin_id":1729238493,
+            "locality_id":1729338121,
             "neighbourhood_id":85773235,
             "region_id":85687229
         }
     ],
     "wof:id":85773235,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316523,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200521,
     "wof:name":"Te Rapa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338121,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729337961,
+        1729338665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

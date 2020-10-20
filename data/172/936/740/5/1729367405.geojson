@@ -1,0 +1,60 @@
+{
+  "id": 1729367405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":146114.935438,
+    "geom:bbox":"174.229132,-36.137467,174.234313,-36.132808",
+    "geom:latitude":-36.13519,
+    "geom:longitude":174.231548,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.135187,
+    "lbl:longitude":174.231548,
+    "mps:latitude":-36.135187,
+    "mps:longitude":174.231548,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Aute Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887803,
+    "wof:geomhash":"c689db4cd7ef90682a01d65d9c78d5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367405,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729367405,
+    "wof:lastmodified":1603141704,
+    "wof:name":"Aute Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.229132,
+    -36.137467,
+    174.234313,
+    -36.132808
+],
+  "geometry": {"coordinates":[[[174.23262399999999,-36.132808],[174.23431299999999,-36.135945],[174.23055600000001,-36.137467],[174.230209,-36.136977],[174.22986599999999,-36.136623],[174.22923,-36.135732],[174.229139,-36.135464],[174.22913199999999,-36.135193],[174.22927899999999,-36.13447],[174.22941,-36.134197],[174.229545,-36.134059],[174.230782,-36.133563],[174.231719,-36.133253],[174.23262399999999,-36.132808]]],"type":"Polygon"}
+}

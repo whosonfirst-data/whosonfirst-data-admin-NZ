@@ -1,0 +1,60 @@
+{
+  "id": 1729368169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":45799.342741,
+    "geom:bbox":"174.527207,-35.615423,174.529378,-35.612547",
+    "geom:latitude":-35.614095,
+    "geom:longitude":174.528259,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.614123,
+    "lbl:longitude":174.528238,
+    "mps:latitude":-35.614123,
+    "mps:longitude":174.528238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Oturu Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888111,
+    "wof:geomhash":"e06d74b8db0d04a1309d7af38fdd60ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368169,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729368169,
+    "wof:lastmodified":1603142088,
+    "wof:name":"Oturu Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.527207,
+    -35.615423,
+    174.529378,
+    -35.612547
+],
+  "geometry": {"coordinates":[[[174.529099,-35.615211],[174.52888300000001,-35.615395],[174.52866299999999,-35.615423],[174.528538,-35.615391],[174.528414,-35.61536],[174.528244,-35.615376],[174.528111,-35.615388],[174.52771999999999,-35.615261],[174.527579,-35.615151],[174.527376,-35.61484],[174.527207,-35.614114],[174.52724499999999,-35.61383],[174.52728200000001,-35.613557],[174.52738400000001,-35.613261],[174.52762200000001,-35.612919],[174.52810700000001,-35.612547],[174.52888200000001,-35.61298],[174.52937800000001,-35.614486],[174.529099,-35.615211]]],"type":"Polygon"}
+}

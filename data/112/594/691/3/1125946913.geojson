@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"178.1545025,-37.5674535,178.1545025,-37.5674535",
+    "geom:bbox":"178.154503,-37.567453,178.154503,-37.567453",
     "geom:latitude":-37.567453,
     "geom:longitude":178.154503,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":178.154503,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497297318,
-    "wof:geomhash":"2bb11c8efd3e66aaa28d6c0c9b07d283",
+    "wof:geomhash":"20c781952a1cd7b938ccf21eeb0d1fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,15 @@
         }
     ],
     "wof:id":1125946913,
-    "wof:lastmodified":1566672541,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149228,
     "wof:name":"Potaka",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",
@@ -77,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    178.1545025,
-    -37.5674535,
-    178.1545025,
-    -37.5674535
+    178.154503,
+    -37.567453,
+    178.154503,
+    -37.567453
 ],
-  "geometry": {"coordinates":[178.15450250000001,-37.5674535],"type":"Point"}
+  "geometry": {"coordinates":[178.15450300000001,-37.567453],"type":"Point"}
 }

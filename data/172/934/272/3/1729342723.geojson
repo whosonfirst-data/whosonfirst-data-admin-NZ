@@ -1,0 +1,77 @@
+{
+  "id": 1729342723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11576.621654,
+    "geom:bbox":"170.160114,-44.538295,170.161854,-44.536918",
+    "geom:latitude":-44.537629,
+    "geom:longitude":170.160986,
+    "iso:country":"NZ",
+    "lbl:latitude":-44.537637,
+    "lbl:longitude":170.160999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-44.537637,
+    "mps:longitude":170.160999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Turnagain Island"
+    ],
+    "nz-linz:name":"Turnagain Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201,
+        102079381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5080
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623001,
+    "wof:geomhash":"f019d4d6b01b86de6ef4dc3bce27550a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":1729342723,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1729342723,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146758,
+    "wof:name":"Turnagain Island",
+    "wof:parent_id":102079381,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.160114,
+    -44.538295,
+    170.161854,
+    -44.536918
+],
+  "geometry": {"coordinates":[[[170.16020399999999,-44.538241],[170.16011399999999,-44.538127],[170.160123,-44.537924],[170.160223,-44.537768],[170.16119800000001,-44.536977],[170.16161,-44.536918],[170.16173499999999,-44.536942],[170.16185400000001,-44.537103],[170.16178300000001,-44.537326],[170.16145,-44.537793],[170.16102699999999,-44.538122],[170.160674,-44.538295],[170.160359,-44.538289],[170.16020399999999,-44.538241]]],"type":"Polygon"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1729369487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28987.937683,
+    "geom:bbox":"168.141832,-46.890071,168.145145,-46.888534",
+    "geom:latitude":-46.889305,
+    "geom:longitude":168.143712,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.889316,
+    "lbl:longitude":168.143744,
+    "mps:latitude":-46.889316,
+    "mps:longitude":168.143744,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Sarah Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888640,
+    "wof:geomhash":"eed40ca4f59dd46c67040d6edc814136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369487,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729369487,
+    "wof:lastmodified":1603142730,
+    "wof:name":"Sarah Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.141832,
+    -46.890071,
+    168.145145,
+    -46.888534
+],
+  "geometry": {"coordinates":[[[168.14514500000001,-46.888865],[168.14489699999999,-46.889894],[168.14356000000001,-46.890071],[168.14222699999999,-46.889641],[168.142304,-46.889487],[168.14192600000001,-46.88927],[168.14183199999999,-46.889199],[168.14190400000001,-46.889112],[168.142641,-46.888934],[168.14286100000001,-46.888906],[168.143586,-46.888608],[168.14408499999999,-46.888534],[168.144476,-46.888571],[168.144766,-46.888649],[168.14514500000001,-46.888865]]],"type":"Polygon"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1729366725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":60751.336442,
+    "geom:bbox":"173.022835,-43.876334,173.0265,-43.873238",
+    "geom:latitude":-43.874725,
+    "geom:longitude":173.024622,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.874645,
+    "lbl:longitude":173.024588,
+    "mps:latitude":-43.874645,
+    "mps:longitude":173.024588,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Island Nook"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887527,
+    "wof:geomhash":"7f3aac6534c1ff5e5b8af65c00ad75f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366725,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1729366725,
+    "wof:lastmodified":1603141364,
+    "wof:name":"Island Nook",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.022835,
+    -43.876334,
+    173.0265,
+    -43.873238
+],
+  "geometry": {"coordinates":[[[173.025398,-43.876334],[173.02283499999999,-43.875177],[173.02295599999999,-43.874929],[173.02295100000001,-43.874411],[173.023134,-43.874073],[173.02359799999999,-43.873755],[173.02387200000001,-43.873325],[173.02410599999999,-43.873242],[173.02411699999999,-43.873238],[173.024463,-43.873278],[173.024901,-43.873432],[173.02521400000001,-43.87361],[173.025622,-43.873968],[173.02596700000001,-43.874147],[173.02631299999999,-43.874505],[173.0265,-43.874571],[173.025398,-43.876334]]],"type":"Polygon"}
+}

@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1647.03808,
-    "geom:bbox":"175.696205248,-40.647712105,175.696529675,-40.6471578698",
+    "geom:area_square_m":1649.769621,
+    "geom:bbox":"175.696205,-40.647712,175.69653,-40.647158",
     "geom:latitude":-40.647436,
     "geom:longitude":175.696367,
     "iso:country":"NZ",
     "lbl:latitude":-40.647456,
     "lbl:longitude":175.696425,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.647456,
     "mps:longitude":175.696425,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Eketahuna"
     ],
@@ -47,7 +51,7 @@
         "wk:page":"Eketahuna"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9d0893a6d8e92fa0a9085f23cbe1fc48",
+    "wof:geomhash":"7903de8ed0d24ea1e5e745b4e5cd4803",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +62,15 @@
         }
     ],
     "wof:id":101918695,
-    "wof:lastmodified":1527715672,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148857,
     "wof:name":"Eketahuna",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",
@@ -70,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.6962052482751,
-    -40.64771210497926,
-    175.69652967451455,
-    -40.64715786979095
+    175.696205,
+    -40.647712,
+    175.69653,
+    -40.647158
 ],
-  "geometry": {"coordinates":[[[175.69652357167149,-40.64771210497926],[175.69620524827511,-40.64770872203161],[175.69620602408457,-40.64716902653271],[175.69652967451455,-40.64715786979095],[175.69652357167149,-40.64771210497926]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[175.69652400000001,-40.647712],[175.69620499999999,-40.647709],[175.69620599999999,-40.647169],[175.69653,-40.647158],[175.69652400000001,-40.647712]]],"type":"Polygon"}
 }

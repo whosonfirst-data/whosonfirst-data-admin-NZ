@@ -1,0 +1,75 @@
+{
+  "id": 1729340251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1157.978304,
+    "geom:bbox":"166.615259,-45.766479,166.615842,-45.76615",
+    "geom:latitude":-45.766313,
+    "geom:longitude":166.615543,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.766326,
+    "lbl:longitude":166.615537,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-45.766326,
+    "mps:longitude":166.615537,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Station Island"
+    ],
+    "nz-linz:name":"Station Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4947
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621949,
+    "wof:geomhash":"7c45e6ecdcf2a9c995ece5a1daed7636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340251,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729340251,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145152,
+    "wof:name":"Station Island",
+    "wof:parent_id":85687211,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.615259,
+    -45.766479,
+    166.615842,
+    -45.76615
+],
+  "geometry": {"coordinates":[[[166.61579800000001,-45.766399],[166.61562799999999,-45.766479],[166.615467,-45.766471],[166.61525900000001,-45.766313],[166.61527100000001,-45.766212],[166.615374,-45.76615],[166.61575400000001,-45.766216],[166.61584199999999,-45.766288],[166.61579800000001,-45.766399]]],"type":"Polygon"}
+}

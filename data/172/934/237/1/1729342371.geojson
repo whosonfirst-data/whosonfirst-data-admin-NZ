@@ -1,0 +1,83 @@
+{
+  "id": 1729342371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3914.160458,
+    "geom:bbox":"168.109752,-46.930954,168.11069,-46.930173",
+    "geom:latitude":-46.930556,
+    "geom:longitude":168.110199,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.930547,
+    "lbl:longitude":168.110199,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.930547,
+    "mps:longitude":168.110199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Pillar Rock"
+    ],
+    "name:eng_x_preferred":[
+        "Pillar Rock"
+    ],
+    "name:swe_x_preferred":[
+        "Pillar Rock"
+    ],
+    "nz-linz:name":"Pillar Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079391,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4812
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622859,
+    "wof:geomhash":"6d4f697682e06b99bd76f650d5d8266b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729342371,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729342371,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229816,
+    "wof:name":"Pillar Rock",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.109752,
+    -46.930954,
+    168.11069,
+    -46.930173
+],
+  "geometry": {"coordinates":[[[168.110345,-46.930954],[168.109903,-46.930712],[168.10975199999999,-46.930527],[168.109769,-46.930302],[168.10994299999999,-46.930173],[168.11014,-46.93018],[168.11045300000001,-46.930394],[168.110636,-46.930581],[168.11069000000001,-46.930741],[168.11048,-46.930913],[168.110345,-46.930954]]],"type":"Polygon"}
+}

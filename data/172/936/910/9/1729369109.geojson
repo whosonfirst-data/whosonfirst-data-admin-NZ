@@ -1,0 +1,60 @@
+{
+  "id": 1729369109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":37200.213098,
+    "geom:bbox":"168.146922,-46.902101,168.150142,-46.899876",
+    "geom:latitude":-46.90098,
+    "geom:longitude":168.148629,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.900996,
+    "lbl:longitude":168.148599,
+    "mps:latitude":-46.900996,
+    "mps:longitude":168.148599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Evening Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888492,
+    "wof:geomhash":"289ce92c2e1b20aab976fc170e4b049d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369109,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729369109,
+    "wof:lastmodified":1603142545,
+    "wof:name":"Evening Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.146922,
+    -46.902101,
+    168.150142,
+    -46.899876
+],
+  "geometry": {"coordinates":[[[168.15014199999999,-46.900309],[168.15008700000001,-46.90074],[168.149022,-46.902007],[168.14850799999999,-46.902101],[168.14692199999999,-46.901594],[168.14724200000001,-46.901267],[168.14787200000001,-46.90032],[168.14805000000001,-46.900145],[168.148325,-46.899975],[168.14872600000001,-46.899876],[168.14908800000001,-46.899889],[168.14968999999999,-46.90018],[168.15014199999999,-46.900309]]],"type":"Polygon"}
+}

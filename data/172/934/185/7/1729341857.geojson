@@ -1,0 +1,75 @@
+{
+  "id": 1729341857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6832.855915,
+    "geom:bbox":"169.371461,-46.6222,169.372856,-46.621416",
+    "geom:latitude":-46.621815,
+    "geom:longitude":169.372146,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.62182,
+    "lbl:longitude":169.372146,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.62182,
+    "mps:longitude":169.372146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kinakina Island"
+    ],
+    "nz-linz:name":"Kinakina Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4431
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622649,
+    "wof:geomhash":"295bb2bfcebf4c712d58563a30c1a815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341857,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1729341857,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146251,
+    "wof:name":"Kinakina Island",
+    "wof:parent_id":85687201,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.371461,
+    -46.6222,
+    169.372856,
+    -46.621416
+],
+  "geometry": {"coordinates":[[[169.37284700000001,-46.622028],[169.37274500000001,-46.622116],[169.372479,-46.6222],[169.37205599999999,-46.622166],[169.37176700000001,-46.622069],[169.37148199999999,-46.621882],[169.37146100000001,-46.621657],[169.371534,-46.621523],[169.371735,-46.621416],[169.372061,-46.621446],[169.37248099999999,-46.621546],[169.372671,-46.621641],[169.37285600000001,-46.621871],[169.37284700000001,-46.622028]]],"type":"Polygon"}
+}

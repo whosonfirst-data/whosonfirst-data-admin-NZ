@@ -1,0 +1,60 @@
+{
+  "id": 1729369155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":395921.041467,
+    "geom:bbox":"174.940227,-40.842242,174.948719,-40.833856",
+    "geom:latitude":-40.838078,
+    "geom:longitude":174.944368,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.837933,
+    "lbl:longitude":174.944368,
+    "mps:latitude":-40.837933,
+    "mps:longitude":174.944368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Honeymoon Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888511,
+    "wof:geomhash":"a4ab2f24d7b6d0f1cc6b9e5b0dce959a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369155,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1729369155,
+    "wof:lastmodified":1603142568,
+    "wof:name":"Honeymoon Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.940227,
+    -40.842242,
+    174.948719,
+    -40.833856
+],
+  "geometry": {"coordinates":[[[174.94400999999999,-40.833856],[174.94871900000001,-40.836129],[174.94808599999999,-40.837625],[174.945436,-40.842242],[174.940258,-40.840274],[174.94033899999999,-40.840069],[174.940281,-40.839869],[174.94024999999999,-40.839765],[174.94022699999999,-40.839508],[174.940359,-40.8391],[174.940878,-40.837939],[174.94112899999999,-40.83755],[174.94128699999999,-40.837051],[174.941844,-40.836136],[174.94232700000001,-40.835585],[174.94307699999999,-40.835027],[174.943285,-40.834752],[174.94330199999999,-40.834729],[174.943817,-40.834244],[174.94400999999999,-40.833856]]],"type":"Polygon"}
+}

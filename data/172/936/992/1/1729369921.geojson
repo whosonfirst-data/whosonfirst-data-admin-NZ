@@ -1,0 +1,60 @@
+{
+  "id": 1729369921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":47244.799873,
+    "geom:bbox":"174.818434,-36.428563,174.822199,-36.426219",
+    "geom:latitude":-36.427278,
+    "geom:longitude":174.820475,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.427286,
+    "lbl:longitude":174.820504,
+    "mps:latitude":-36.427286,
+    "mps:longitude":174.820504,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Two House Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888810,
+    "wof:geomhash":"1a13f2eee2addb986c8976eda09035fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369921,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369921,
+    "wof:lastmodified":1603142941,
+    "wof:name":"Two House Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.818434,
+    -36.428563,
+    174.822199,
+    -36.426219
+],
+  "geometry": {"coordinates":[[[174.818434,-36.426289],[174.82071300000001,-36.426219],[174.820774,-36.426375],[174.82128800000001,-36.426724],[174.82143300000001,-36.426902],[174.821529,-36.42726],[174.82205300000001,-36.427903],[174.82219900000001,-36.428125],[174.82217900000001,-36.428351],[174.822101,-36.428488],[174.82196300000001,-36.428559],[174.82176799999999,-36.428563],[174.821314,-36.428347],[174.82044400000001,-36.428163],[174.82030399999999,-36.428166],[174.820167,-36.42826],[174.818434,-36.426289]]],"type":"Polygon"}
+}

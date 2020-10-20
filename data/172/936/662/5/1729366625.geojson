@@ -1,0 +1,60 @@
+{
+  "id": 1729366625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28605.275823,
+    "geom:bbox":"175.789088,-36.828317,175.791815,-36.82657",
+    "geom:latitude":-36.82757,
+    "geom:longitude":175.790286,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.827553,
+    "lbl:longitude":175.790176,
+    "mps:latitude":-36.827553,
+    "mps:longitude":175.790176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Cathedral Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887486,
+    "wof:geomhash":"4c1dc14a83b42126dc93c62277c1ce73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366625,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729366625,
+    "wof:lastmodified":1603141310,
+    "wof:name":"Cathedral Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.789088,
+    -36.828317,
+    175.791815,
+    -36.82657
+],
+  "geometry": {"coordinates":[[[175.79181500000001,-36.827725],[175.790831,-36.828317],[175.790549,-36.82828],[175.79018600000001,-36.828312],[175.79015000000001,-36.828309],[175.78962200000001,-36.82826],[175.789332,-36.828043],[175.78928099999999,-36.827875],[175.78908799999999,-36.827248],[175.79007100000001,-36.82657],[175.79181500000001,-36.827725]]],"type":"Polygon"}
+}

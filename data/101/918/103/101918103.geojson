@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":5918.200571,
-    "geom:bbox":"175.448870298,-41.2238701066,175.450168115,-41.2227554605",
-    "geom:latitude":-41.223296,
+    "geom:area_square_m":5919.578342,
+    "geom:bbox":"175.44887,-41.22387,175.450168,-41.222755",
+    "geom:latitude":-41.223295,
     "geom:longitude":175.449532,
     "iso:country":"NZ",
     "lbl:latitude":-41.223263,
     "lbl:longitude":175.4495,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.223263,
     "mps:longitude":175.4495,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Martinborough"
     ],
@@ -49,7 +53,7 @@
         "wk:page":"Martinborough"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"402a9e26b3a29f1f44329c4a43dce53b",
+    "wof:geomhash":"9a9be48f5ac3c31efb5e61a301641658",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +64,15 @@
         }
     ],
     "wof:id":101918103,
-    "wof:lastmodified":1527715668,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148588,
     "wof:name":"Martinborough",
     "wof:parent_id":102079347,
     "wof:placetype":"locality",
@@ -72,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.44887029755057,
-    -41.22387010657501,
-    175.45016811518738,
-    -41.22275546048586
+    175.44887,
+    -41.22387,
+    175.450168,
+    -41.222755
 ],
-  "geometry": {"coordinates":[[[175.44887029755057,-41.222996025124],[175.44938510534624,-41.22275546048586],[175.45016811518738,-41.2235387680981],[175.44970558232322,-41.22387010657501],[175.44887029755057,-41.222996025124]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[175.44887,-41.222996],[175.44938500000001,-41.222755],[175.45016799999999,-41.223539],[175.44970599999999,-41.22387],[175.44887,-41.222996]]],"type":"Polygon"}
 }

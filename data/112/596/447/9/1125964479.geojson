@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"175.84485,-40.1234205,175.84485,-40.1234205",
+    "geom:bbox":"175.84485,-40.123421,175.84485,-40.123421",
     "geom:latitude":-40.123421,
     "geom:longitude":175.84485,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":175.84485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497297921,
-    "wof:geomhash":"a654240c34d14eb5dff912164bd55f10",
+    "wof:geomhash":"a4cc9077a1ae5743216526bce9693881",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,15 @@
         }
     ],
     "wof:id":1125964479,
-    "wof:lastmodified":1566672602,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149261,
     "wof:name":"Mount Richards",
     "wof:parent_id":102079303,
     "wof:placetype":"locality",
@@ -78,9 +87,9 @@
 },
   "bbox": [
     175.84485,
-    -40.1234205,
+    -40.123421,
     175.84485,
-    -40.1234205
+    -40.123421
 ],
-  "geometry": {"coordinates":[175.84485000000001,-40.1234205],"type":"Point"}
+  "geometry": {"coordinates":[175.84485000000001,-40.123421],"type":"Point"}
 }

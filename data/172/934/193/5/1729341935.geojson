@@ -1,0 +1,77 @@
+{
+  "id": 1729341935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":490.939714,
+    "geom:bbox":"167.635337,-47.21722,167.635743,-47.216796",
+    "geom:latitude":-47.216982,
+    "geom:longitude":167.635567,
+    "iso:country":"NZ",
+    "lbl:latitude":-47.216977,
+    "lbl:longitude":167.63557,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-47.216977,
+    "mps:longitude":167.63557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Micrometer Rock And Reef"
+    ],
+    "nz-linz:name":"Micrometer Rock And Reef",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4501
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622682,
+    "wof:geomhash":"2c231303af23533c951adf8e949078e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729341935,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729341935,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146301,
+    "wof:name":"Micrometer Rock And Reef",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.635337,
+    -47.21722,
+    167.635743,
+    -47.216796
+],
+  "geometry": {"coordinates":[[[167.63571999999999,-47.216796],[167.63574299999999,-47.21691],[167.63556500000001,-47.217085],[167.63533699999999,-47.21722],[167.63546099999999,-47.217005],[167.63558499999999,-47.216836],[167.63571999999999,-47.216796]]],"type":"Polygon"}
+}

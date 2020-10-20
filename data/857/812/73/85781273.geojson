@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +19,7 @@
     "mps:latitude":-36.830172,
     "mps:longitude":174.770489,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":1,
@@ -67,8 +68,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c84b6394946e61713c6cc94fe5e7dc7e",
     "wof:hierarchy":[
@@ -81,15 +82,22 @@
         }
     ],
     "wof:id":85781273,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316525,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200815,
     "wof:name":"Stanley Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101916723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

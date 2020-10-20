@@ -1,0 +1,60 @@
+{
+  "id": 1729366981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":88120.928103,
+    "geom:bbox":"172.918914,-43.807808,172.922859,-43.804161",
+    "geom:latitude":-43.806209,
+    "geom:longitude":172.921007,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.806163,
+    "lbl:longitude":172.921044,
+    "mps:latitude":-43.806163,
+    "mps:longitude":172.921044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Te Monene"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887630,
+    "wof:geomhash":"79250030277926d6b5f69ba125b20efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366981,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1729366981,
+    "wof:lastmodified":1603141492,
+    "wof:name":"Te Monene",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.918914,
+    -43.807808,
+    172.922859,
+    -43.804161
+],
+  "geometry": {"coordinates":[[[172.91994500000001,-43.80779],[172.919693,-43.807432],[172.918914,-43.80691],[172.919093,-43.806354],[172.919613,-43.805473],[172.92025899999999,-43.80475],[172.920939,-43.804387],[172.92121700000001,-43.804161],[172.92285899999999,-43.805325],[172.92228399999999,-43.807808],[172.91994500000001,-43.80779]]],"type":"Polygon"}
+}

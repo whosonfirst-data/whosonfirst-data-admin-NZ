@@ -58,6 +58,9 @@
     "name:ast_x_preferred":[
         "Niue"
     ],
+    "name:avk_x_preferred":[
+        "Niuea"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u06cc\u0648\u0648\u06cc"
     ],
@@ -111,6 +114,9 @@
     ],
     "name:ces_x_preferred":[
         "Niue"
+    ],
+    "name:chv_x_preferred":[
+        "\u041d\u0438\u0443\u044d"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u06cc\u0648\u06ce"
@@ -267,6 +273,9 @@
     "name:ita_x_preferred":[
         "Niue"
     ],
+    "name:jav_x_preferred":[
+        "Niue"
+    ],
     "name:jpn_x_preferred":[
         "\u30cb\u30a6\u30a8"
     ],
@@ -351,6 +360,9 @@
     "name:mar_x_variant":[
         "\u0928\u0940\u092f\u0942"
     ],
+    "name:min_x_preferred":[
+        "Niue"
+    ],
     "name:mkd_x_preferred":[
         "\u041d\u0438\u0443\u0435"
     ],
@@ -432,6 +444,9 @@
     "name:por_x_preferred":[
         "Niue"
     ],
+    "name:pus_x_preferred":[
+        "\u0646\u06cc\u0648\u06cc"
+    ],
     "name:roh_x_preferred":[
         "Niue"
     ],
@@ -455,6 +470,9 @@
     ],
     "name:sco_x_preferred":[
         "Niue"
+    ],
+    "name:shn_x_preferred":[
+        "\u107c\u102e\u1038\u101d\u1084\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0dd2\u0dba\u0dd6"
@@ -539,6 +557,9 @@
     ],
     "name:tur_x_variant":[
         "Niue Adalar\u0131"
+    ],
+    "name:udm_x_preferred":[
+        "\u041d\u0438\u0443\u044d"
     ],
     "name:uig_x_preferred":[
         "Niu\u00e9 Arili"
@@ -781,7 +802,15 @@
         }
     ],
     "wof:id":85632493,
-    "wof:lastmodified":1587429086,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229377,
     "wof:name":"Niue",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",

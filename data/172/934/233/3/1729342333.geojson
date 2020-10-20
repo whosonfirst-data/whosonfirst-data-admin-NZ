@@ -1,0 +1,78 @@
+{
+  "id": 1729342333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5817.567253,
+    "geom:bbox":"174.818386,-36.290727,174.819499,-36.289907",
+    "geom:latitude":-36.290313,
+    "geom:longitude":174.818955,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.290298,
+    "lbl:longitude":174.818955,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.290298,
+    "mps:longitude":174.818955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "The Outpost"
+    ],
+    "name:mri_x_preferred":[
+        "Panetiki Island"
+    ],
+    "nz-linz:name":"Panetiki Island (The Outpost)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4785
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622843,
+    "wof:geomhash":"64e64cf4947c449c36d5dc33f98d3f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342333,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729342333,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146526,
+    "wof:name":"The Outpost",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.818386,
+    -36.290727,
+    174.819499,
+    -36.289907
+],
+  "geometry": {"coordinates":[[[174.81894,-36.289907],[174.819219,-36.289935],[174.81946300000001,-36.290078],[174.81949900000001,-36.290297],[174.819233,-36.290473],[174.819119,-36.290666],[174.81911400000001,-36.290671],[174.818667,-36.290727],[174.818386,-36.290389],[174.81862100000001,-36.290141],[174.81894,-36.289907]]],"type":"Polygon"}
+}

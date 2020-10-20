@@ -18,8 +18,8 @@
     "mps:latitude":-41.501968,
     "mps:longitude":173.902471,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -59,10 +59,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687185,
         102191583,
+        1729238455,
         85633345,
-        102079353
+        1729337927,
+        102079353,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +73,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"c15346a993576f80cccc71d6f53890f2",
     "wof:hierarchy":[
@@ -80,18 +82,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079353,
-            "locality_id":-1,
+            "localadmin_id":1729238455,
+            "locality_id":1729337927,
             "neighbourhood_id":85781531,
             "region_id":85687185
         }
     ],
     "wof:id":85781531,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316526,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210216,
     "wof:name":"Roselands",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729337927,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

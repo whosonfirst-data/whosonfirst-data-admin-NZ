@@ -1,0 +1,75 @@
+{
+  "id": 1729342259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6257.366181,
+    "geom:bbox":"174.865907,-38.091477,174.868307,-38.090854",
+    "geom:latitude":-38.091221,
+    "geom:longitude":174.866919,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.091125,
+    "lbl:longitude":174.866837,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-38.091125,
+    "mps:longitude":174.866837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "O Wiwi Ku"
+    ],
+    "nz-linz:name":"O Wiwi Ku",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4737
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622814,
+    "wof:geomhash":"831aecae9c6e5f38b7b5c27343c6d509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342259,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729342259,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146484,
+    "wof:name":"O Wiwi Ku",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.865907,
+    -38.091477,
+    174.868307,
+    -38.090854
+],
+  "geometry": {"coordinates":[[[174.86590699999999,-38.091237],[174.86651800000001,-38.090949],[174.86700200000001,-38.090854],[174.86714599999999,-38.090965],[174.86720600000001,-38.091167],[174.867323,-38.091256],[174.86752200000001,-38.091298],[174.86830699999999,-38.091317],[174.86806799999999,-38.091473],[174.86769699999999,-38.091477],[174.866953,-38.091328],[174.86658399999999,-38.091444],[174.86638500000001,-38.091446],[174.86590699999999,-38.091237]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1729342975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5076.8484,
+    "geom:bbox":"174.325637,-41.107548,174.327164,-41.106227",
+    "geom:latitude":-41.106749,
+    "geom:longitude":174.326378,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.106515,
+    "lbl:longitude":174.326229,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-41.106515,
+    "mps:longitude":174.326229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "The Twins"
+    ],
+    "nz-linz:name":"The Twins",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602623104,
+    "wof:geomhash":"a36836b45e0b1fcd89a76d2ba38b0455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":1729342975,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729342975,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146903,
+    "wof:name":"The Twins",
+    "wof:parent_id":102079353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.325637,
+    -41.107548,
+    174.327164,
+    -41.106227
+],
+  "geometry": {"coordinates":[[[[174.326527,-41.106924],[174.32634899999999,-41.106949],[174.32622799999999,-41.106884],[174.32598300000001,-41.106685],[174.325637,-41.106626],[174.325942,-41.106303],[174.32614799999999,-41.106232],[174.32641599999999,-41.106227],[174.326537,-41.106292],[174.32657,-41.106382],[174.32646199999999,-41.106744],[174.326527,-41.106924]]],[[[174.32699099999999,-41.107479],[174.326874,-41.107548],[174.32672299999999,-41.107483],[174.326627,-41.107282],[174.32677200000001,-41.107144],[174.32713100000001,-41.107183],[174.32716400000001,-41.107272],[174.32699099999999,-41.107479]]]],"type":"MultiPolygon"}
+}

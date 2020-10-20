@@ -1,0 +1,60 @@
+{
+  "id": 1729366697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":41136.996339,
+    "geom:bbox":"174.610311,-37.018294,174.61321,-37.015938",
+    "geom:latitude":-37.01697,
+    "geom:longitude":174.611644,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.016949,
+    "lbl:longitude":174.611672,
+    "mps:latitude":-37.016949,
+    "mps:longitude":174.611672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Herald Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887515,
+    "wof:geomhash":"da5b6c9ca95a6f8a33be7bfb733ebe19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366697,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729366697,
+    "wof:lastmodified":1603141350,
+    "wof:name":"Herald Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.610311,
+    -37.018294,
+    174.61321,
+    -37.015938
+],
+  "geometry": {"coordinates":[[[174.61193599999999,-37.018294],[174.61179200000001,-37.018161],[174.61150599999999,-37.017962],[174.611335,-37.017876],[174.61042900000001,-37.017619],[174.61031500000001,-37.017531],[174.610311,-37.017351],[174.61055099999999,-37.016874],[174.61054899999999,-37.016784],[174.61034100000001,-37.016291],[174.61188799999999,-37.015938],[174.61321000000001,-37.016502],[174.61193599999999,-37.018294]]],"type":"Polygon"}
+}

@@ -17,7 +17,6 @@
     "label:eng_x_preferred_shortcode":[
         "NZL"
     ],
-    "lbl:bbox":"166.42630157089,-47.2899926971627,178.577173985175,-33.958498138708",
     "lbl:latitude":-45.175323,
     "lbl:longitude":169.232531,
     "lbl:max_zoom":8.0,
@@ -65,6 +64,9 @@
     ],
     "name:ast_x_preferred":[
         "Nueva Zelanda"
+    ],
+    "name:avk_x_preferred":[
+        "Newzelanda"
     ],
     "name:azb_x_preferred":[
         "New Zealand"
@@ -311,6 +313,9 @@
     "name:hau_x_preferred":[
         "Nuzilan"
     ],
+    "name:hau_x_variant":[
+        "Sabuwar Zelandiya"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d5 \u05d6\u05d9\u05dc\u05e0\u05d3"
     ],
@@ -364,6 +369,9 @@
     ],
     "name:jav_x_preferred":[
         "S\u00e9landia Anyar"
+    ],
+    "name:jav_x_variant":[
+        "Niu S\u00e9lan"
     ],
     "name:jbo_x_preferred":[
         "zis. poi cnino"
@@ -461,6 +469,9 @@
     "name:lit_x_preferred":[
         "Naujoji Zelandija"
     ],
+    "name:lld_x_preferred":[
+        "Nueva-Zelandia"
+    ],
     "name:lmo_x_preferred":[
         "N\u00f6va Zelanda"
     ],
@@ -490,6 +501,12 @@
     ],
     "name:mar_x_variant":[
         "\u0928\u094d\u092f\u0942 \u091d\u0940\u0932\u0901\u0921"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0423 \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Selandia Baru"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0432 \u0417\u0435\u043b\u0430\u043d\u0434"
@@ -674,6 +691,9 @@
     "name:sgs_x_preferred":[
         "Naujuoj\u0117 Zeland\u0117j\u0117"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u107c\u102d\u101d\u103a\u1038\u1078\u102e\u1087\u101c\u1085\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba"
     ],
@@ -686,8 +706,17 @@
     "name:sme_x_preferred":[
         "O\u0111\u0111a-Sel\u00e1nda"
     ],
+    "name:sme_x_variant":[
+        "Aotearoa"
+    ],
+    "name:smn_x_preferred":[
+        "Aotearoa"
+    ],
     "name:smo_x_preferred":[
         "Niu Sila"
+    ],
+    "name:sms_x_preferred":[
+        "Aotearoa"
     ],
     "name:sna_x_preferred":[
         "New Zealand"
@@ -1006,9 +1035,8 @@
     "wof:country":"NZ",
     "wof:country_alpha3":"NZL",
     "wof:geom_alt":[
-        "whosonfirst-reversegeo",
-        "naturalearth",
-        "naturalearth-display-terrestrial-zoom6"
+        "whosonfirst",
+        "naturalearth"
     ],
     "wof:geomhash":"810ca5a4ec07b723c939c177cb9d17bb",
     "wof:hierarchy":[
@@ -1026,7 +1054,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1587429089,
+    "wof:lastmodified":1603229378,
     "wof:name":"New Zealand",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

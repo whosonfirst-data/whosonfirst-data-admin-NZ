@@ -1,0 +1,60 @@
+{
+  "id": 1729368501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":45545.121539,
+    "geom:bbox":"173.018315,-41.050873,173.02084,-41.048196",
+    "geom:latitude":-41.04958,
+    "geom:longitude":173.019512,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.049618,
+    "lbl:longitude":173.019536,
+    "mps:latitude":-41.049618,
+    "mps:longitude":173.019536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Stephens Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888244,
+    "wof:geomhash":"40a3a313f31f8e47ef0db3eed8f59df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368501,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1729368501,
+    "wof:lastmodified":1603142245,
+    "wof:name":"Stephens Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.018315,
+    -41.050873,
+    173.02084,
+    -41.048196
+],
+  "geometry": {"coordinates":[[[173.02049,-41.048739],[173.02083999999999,-41.050587],[173.01872,-41.050873],[173.01889700000001,-41.050692],[173.01886500000001,-41.050467],[173.01882699999999,-41.050418],[173.018721,-41.050283],[173.01844299999999,-41.049929],[173.01831999999999,-41.049524],[173.018315,-41.049097],[173.01854399999999,-41.048196],[173.02049,-41.048739]]],"type":"Polygon"}
+}

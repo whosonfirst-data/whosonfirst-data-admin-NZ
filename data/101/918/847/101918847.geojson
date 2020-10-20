@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":6027.964127,
-    "geom:bbox":"173.271006497,-35.1214702825,173.272300243,-35.1207916057",
-    "geom:latitude":-35.121143,
-    "geom:longitude":173.271639,
+    "geom:area_square_m":6024.966098,
+    "geom:bbox":"173.271006,-35.12147,173.2723,-35.120792",
+    "geom:latitude":-35.121144,
+    "geom:longitude":173.271638,
     "iso:country":"NZ",
     "lbl:latitude":-35.12115,
     "lbl:longitude":173.271671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.12115,
     "mps:longitude":173.271671,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kaitaia"
     ],
@@ -36,9 +40,10 @@
     "wd:longitude":173.262778,
     "wd:wordcount":1147,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687149,
+        102191583,
+        1729238539,
+        85633345,
         102079255
     ],
     "wof:breaches":[],
@@ -49,20 +54,29 @@
         "wk:page":"Kaitaia"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8b9bb9cf537b0001acbd86e99bc48581",
+    "wof:geomhash":"fcfb66c254b12b7e833b570c24ceb9c5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079255,
+            "localadmin_id":1729238539,
             "locality_id":101918847,
             "region_id":85687149
         }
     ],
     "wof:id":101918847,
-    "wof:lastmodified":1527715676,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148922,
     "wof:name":"Kaitaia",
-    "wof:parent_id":102079255,
+    "wof:parent_id":1729238539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[
@@ -72,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.27100649736659,
-    -35.12147028251096,
-    173.27230024322097,
-    -35.1207916057234
+    173.271006,
+    -35.12147,
+    173.2723,
+    -35.120792
 ],
-  "geometry": {"coordinates":[[[173.27230024322097,-35.12102750988045],[173.27225093058763,-35.12136118760376],[173.27224069433404,-35.12147028251096],[173.27124049494316,-35.12133061568745],[173.27100649736659,-35.12127669929527],[173.27105809085435,-35.1207916057234],[173.27230024322097,-35.12102750988045]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[173.2723,-35.121028],[173.27225100000001,-35.121361],[173.27224100000001,-35.12147],[173.27124000000001,-35.121331],[173.271006,-35.121277],[173.27105800000001,-35.120792],[173.2723,-35.121028]]],"type":"Polygon"}
 }

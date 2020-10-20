@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "mps:latitude":-38.126994,
     "mps:longitude":176.226869,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -61,8 +62,9 @@
     "wof:belongsto":[
         85687175,
         102191583,
+        1729238557,
         85633345,
-        101914629,
+        1729338743,
         102079289
     ],
     "wof:breaches":[],
@@ -82,21 +84,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079289,
-            "locality_id":101914629,
+            "localadmin_id":1729238557,
+            "locality_id":1729338743,
             "neighbourhood_id":85773009,
             "region_id":85687175
         }
     ],
     "wof:id":85773009,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316516,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200474,
     "wof:name":"Koutu",
-    "wof:parent_id":101914629,
+    "wof:parent_id":1729338743,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209349363
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

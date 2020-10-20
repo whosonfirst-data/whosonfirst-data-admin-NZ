@@ -1,0 +1,60 @@
+{
+  "id": 1729367293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":159195.050924,
+    "geom:bbox":"175.167041,-36.886522,175.173063,-36.882973",
+    "geom:latitude":-36.884799,
+    "geom:longitude":175.170197,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.884732,
+    "lbl:longitude":175.170255,
+    "mps:latitude":-36.884732,
+    "mps:longitude":175.170255,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Nora Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887753,
+    "wof:geomhash":"ce7fdae1d69b39b6c880e623bf93f081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367293,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729367293,
+    "wof:lastmodified":1603141648,
+    "wof:name":"Nora Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.167041,
+    -36.886522,
+    175.173063,
+    -36.882973
+],
+  "geometry": {"coordinates":[[[175.170838,-36.882973],[175.17092500000001,-36.883061],[175.17134300000001,-36.883067],[175.17199500000001,-36.883078],[175.172281,-36.88334],[175.17245700000001,-36.883573],[175.172979,-36.884634],[175.17306300000001,-36.885117],[175.17300599999999,-36.885536],[175.17280600000001,-36.885911],[175.17256,-36.886096],[175.17213100000001,-36.886174],[175.171862,-36.886223],[175.17185000000001,-36.886234],[175.17170300000001,-36.886381],[175.17156199999999,-36.886522],[175.16704100000001,-36.885924],[175.16753399999999,-36.883781],[175.170838,-36.882973]]],"type":"Polygon"}
+}

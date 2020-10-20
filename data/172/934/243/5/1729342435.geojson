@@ -1,0 +1,89 @@
+{
+  "id": 1729342435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3619.567358,
+    "geom:bbox":"175.313039,-36.14774,175.314049,-36.147188",
+    "geom:latitude":-36.147448,
+    "geom:longitude":175.313544,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.147447,
+    "lbl:longitude":175.313554,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.147447,
+    "mps:longitude":175.313554,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Rabbit Island"
+    ],
+    "name:deu_x_preferred":[
+        "Rabbit Island"
+    ],
+    "name:eng_x_preferred":[
+        "Rabbit Island"
+    ],
+    "name:eng_x_variant":[
+        "Port Abercrombie"
+    ],
+    "name:swe_x_preferred":[
+        "Rabbit Island"
+    ],
+    "nz-linz:name":"Rabbit Island (Port Abercrombie)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4861
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622884,
+    "wof:geomhash":"852042a5d61523064af67cf8d3d6ff71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729342435,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729342435,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229598,
+    "wof:name":"Rabbit Island",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.313039,
+    -36.14774,
+    175.314049,
+    -36.147188
+],
+  "geometry": {"coordinates":[[[175.31404900000001,-36.147508],[175.31397000000001,-36.147667],[175.31377800000001,-36.14774],[175.31361100000001,-36.147721],[175.31321399999999,-36.147527],[175.31304299999999,-36.147396],[175.313039,-36.147283],[175.31312,-36.147214],[175.31328600000001,-36.147188],[175.313593,-36.147203],[175.31396100000001,-36.14742],[175.31404900000001,-36.147508]]],"type":"Polygon"}
+}

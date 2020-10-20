@@ -1,0 +1,78 @@
+{
+  "id": 1729340263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":331.34458,
+    "geom:bbox":"173.746261,-40.937332,173.746608,-40.937086",
+    "geom:latitude":-40.937225,
+    "geom:longitude":173.746449,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.93722,
+    "lbl:longitude":173.746461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-40.93722,
+    "mps:longitude":173.746461,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Chicot Rock"
+    ],
+    "name:mri_x_preferred":[
+        "Tapuareroutuutu"
+    ],
+    "nz-linz:name":"Tapuareroutuutu (Chicot Rock)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4970
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621953,
+    "wof:geomhash":"077a57bc997cb8e4cdcbd3a80e24b869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340263,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729340263,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145159,
+    "wof:name":"Chicot Rock",
+    "wof:parent_id":85687185,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.746261,
+    -40.937332,
+    173.746608,
+    -40.937086
+],
+  "geometry": {"coordinates":[[[173.74660800000001,-40.937332],[173.746261,-40.937262],[173.746512,-40.937086],[173.746565,-40.937302],[173.74660800000001,-40.937332]]],"type":"Polygon"}
+}

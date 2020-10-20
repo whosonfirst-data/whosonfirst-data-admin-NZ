@@ -1,0 +1,75 @@
+{
+  "id": 1729342763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8140.765149,
+    "geom:bbox":"174.680235,-38.123384,174.681363,-38.12181",
+    "geom:latitude":-38.122547,
+    "geom:longitude":174.68076,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.12245,
+    "lbl:longitude":174.680666,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-38.12245,
+    "mps:longitude":174.680666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Waioioi Reef"
+    ],
+    "nz-linz:name":"Waioioi Reef",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5099
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623018,
+    "wof:geomhash":"656151449c6aa45dcf30aa907729f77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342763,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729342763,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146785,
+    "wof:name":"Waioioi Reef",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.680235,
+    -38.123384,
+    174.681363,
+    -38.12181
+],
+  "geometry": {"coordinates":[[[174.680598,-38.121811],[174.68073999999999,-38.12181],[174.68088599999999,-38.121989],[174.68106800000001,-38.122641],[174.681363,-38.123337],[174.681307,-38.123382],[174.68119200000001,-38.123384],[174.68087399999999,-38.123139],[174.680758,-38.12296],[174.68026699999999,-38.122558],[174.68023500000001,-38.122333],[174.680373,-38.121994],[174.680598,-38.121811]]],"type":"Polygon"}
+}

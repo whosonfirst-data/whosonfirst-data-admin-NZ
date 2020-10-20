@@ -1,0 +1,95 @@
+{
+  "id": 1729341785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3330.410718,
+    "geom:bbox":"167.684044,-46.777075,167.684842,-46.77641",
+    "geom:latitude":-46.776738,
+    "geom:longitude":167.684448,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.776737,
+    "lbl:longitude":167.68444,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.776737,
+    "mps:longitude":167.68444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "High Rock"
+    ],
+    "name:eng_x_preferred":[
+        "High Rock"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06cc \u0631\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "High Rock"
+    ],
+    "name:por_x_preferred":[
+        "High Rock"
+    ],
+    "name:ron_x_preferred":[
+        "High Rock"
+    ],
+    "name:swe_x_preferred":[
+        "High Rock"
+    ],
+    "nz-linz:name":"High Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079391,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4367
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622611,
+    "wof:geomhash":"10705a67ef80cb094b7538e0e8601151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729341785,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729341785,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229866,
+    "wof:name":"High Rock",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.684044,
+    -46.777075,
+    167.684842,
+    -46.77641
+],
+  "geometry": {"coordinates":[[[167.68456599999999,-46.777075],[167.684338,-46.777043],[167.68412499999999,-46.776855],[167.684044,-46.776649],[167.684089,-46.776493],[167.68426099999999,-46.77641],[167.68448900000001,-46.776418],[167.68483000000001,-46.776657],[167.684842,-46.776905],[167.68473499999999,-46.777014],[167.68456599999999,-46.777075]]],"type":"Polygon"}
+}

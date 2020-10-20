@@ -18,8 +18,8 @@
     "mps:latitude":-36.824499,
     "mps:longitude":174.732257,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":1,
     "mz:is_official":0,
@@ -82,10 +82,15 @@
         }
     ],
     "wof:id":85778957,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316532,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210253,
     "wof:name":"Birkenhead South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

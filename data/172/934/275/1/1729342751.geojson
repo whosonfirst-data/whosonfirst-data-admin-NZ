@@ -1,0 +1,77 @@
+{
+  "id": 1729342751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21069.172481,
+    "geom:bbox":"174.352311,-36.618883,174.354352,-36.616547",
+    "geom:latitude":-36.617565,
+    "geom:longitude":174.353312,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.617305,
+    "lbl:longitude":174.353567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.617305,
+    "mps:longitude":174.353567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Waikauri Island"
+    ],
+    "nz-linz:name":"Waikauri Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5095
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623013,
+    "wof:geomhash":"c4eaeb9e21e9bca19fde566098f7cc94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729342751,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729342751,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146778,
+    "wof:name":"Waikauri Island",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.352311,
+    -36.618883,
+    174.354352,
+    -36.616547
+],
+  "geometry": {"coordinates":[[[174.35254399999999,-36.618883],[174.35240099999999,-36.618772],[174.35231400000001,-36.618615],[174.35231099999999,-36.61848],[174.35233299999999,-36.618255],[174.35244,-36.618005],[174.352711,-36.617619],[174.353037,-36.617208],[174.35316700000001,-36.616733],[174.353193,-36.616688],[174.35335799999999,-36.61655],[174.35355300000001,-36.616547],[174.354006,-36.616743],[174.35409100000001,-36.61681],[174.354321,-36.617122],[174.35435200000001,-36.617212],[174.35432800000001,-36.617415],[174.35424699999999,-36.617551],[174.354083,-36.617688],[174.35394400000001,-36.617759],[174.35347200000001,-36.6179],[174.353251,-36.618016],[174.35297600000001,-36.618245],[174.352869,-36.618404],[174.35276300000001,-36.618722],[174.352709,-36.61879],[174.3526,-36.618882],[174.35254399999999,-36.618883]]],"type":"Polygon"}
+}

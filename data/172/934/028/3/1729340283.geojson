@@ -1,0 +1,77 @@
+{
+  "id": 1729340283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9046.34669,
+    "geom:bbox":"173.948314,-40.692465,173.949767,-40.69114",
+    "geom:latitude":-40.69185,
+    "geom:longitude":173.949141,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.691798,
+    "lbl:longitude":173.949262,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-40.691798,
+    "mps:longitude":173.949262,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Te Wakaapani"
+    ],
+    "nz-linz:name":"Te Wakaapani",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5013
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621962,
+    "wof:geomhash":"36d0706dc8b69882f77874c0929aa228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":1729340283,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729340283,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145169,
+    "wof:name":"Te Wakaapani",
+    "wof:parent_id":102079353,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.948314,
+    -40.692465,
+    173.949767,
+    -40.69114
+],
+  "geometry": {"coordinates":[[[173.94840600000001,-40.692465],[173.94831600000001,-40.692398],[173.94831400000001,-40.692308],[173.94843,-40.692216],[173.94869,-40.69189],[173.94912199999999,-40.691396],[173.949353,-40.69119],[173.9495,-40.691143],[173.94970699999999,-40.69114],[173.94976700000001,-40.691184],[173.94962799999999,-40.691569],[173.94963200000001,-40.691749],[173.94975500000001,-40.691928],[173.94972799999999,-40.692019],[173.949377,-40.692181],[173.949141,-40.692206],[173.94873100000001,-40.69246],[173.94840600000001,-40.692465]]],"type":"Polygon"}
+}

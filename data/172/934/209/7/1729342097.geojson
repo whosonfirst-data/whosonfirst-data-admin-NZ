@@ -1,0 +1,77 @@
+{
+  "id": 1729342097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":31184.852917,
+    "geom:bbox":"176.193237,-37.632281,176.195374,-37.629989",
+    "geom:latitude":-37.631224,
+    "geom:longitude":176.194179,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.631257,
+    "lbl:longitude":176.194159,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.631257,
+    "mps:longitude":176.194159,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Motuotau Island"
+    ],
+    "nz-linz:name":"Motuotau Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175,
+        102079285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4613
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622747,
+    "wof:geomhash":"528786e38d4c4ff6f33ab97f3e4fe813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":1729342097,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1729342097,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146394,
+    "wof:name":"Motuotau Island",
+    "wof:parent_id":102079285,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.193237,
+    -37.632281,
+    176.195374,
+    -37.629989
+],
+  "geometry": {"coordinates":[[[176.1943,-37.632277],[176.19408799999999,-37.632281],[176.19361799999999,-37.632028],[176.193423,-37.631865],[176.19337400000001,-37.631777],[176.193308,-37.631626],[176.19323700000001,-37.631233],[176.193252,-37.630879],[176.19330400000001,-37.630693],[176.19342,-37.630514],[176.19387,-37.630139],[176.194132,-37.629989],[176.194332,-37.63],[176.19450800000001,-37.630127],[176.19448499999999,-37.630324],[176.19456099999999,-37.630455],[176.19482099999999,-37.630685],[176.19502900000001,-37.631247],[176.195289,-37.631507],[176.19537399999999,-37.631669],[176.195233,-37.631821],[176.194785,-37.632073],[176.1943,-37.632277]]],"type":"Polygon"}
+}

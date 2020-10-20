@@ -1,0 +1,60 @@
+{
+  "id": 1729368231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":116762.998682,
+    "geom:bbox":"178.262632,-37.552838,178.267659,-37.54905",
+    "geom:latitude":-37.551135,
+    "geom:longitude":178.265287,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.55108,
+    "lbl:longitude":178.265287,
+    "mps:latitude":-37.55108,
+    "mps:longitude":178.265287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Oreteiti Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888135,
+    "wof:geomhash":"44885ef0897b5e968afd9d8cb1789c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368231,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1729368231,
+    "wof:lastmodified":1603142114,
+    "wof:name":"Oreteiti Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.262632,
+    -37.552838,
+    178.267659,
+    -37.54905
+],
+  "geometry": {"coordinates":[[[178.26473799999999,-37.54905],[178.26765900000001,-37.550626],[178.267245,-37.552474],[178.266752,-37.552502],[178.26579599999999,-37.552798],[178.26545899999999,-37.552838],[178.26527999999999,-37.552812],[178.26523,-37.552805],[178.26505299999999,-37.552723],[178.264409,-37.552695],[178.264275,-37.552583],[178.264139,-37.552297],[178.263959,-37.552171],[178.26377600000001,-37.55211],[178.26343299999999,-37.551995],[178.26307299999999,-37.551743],[178.26291599999999,-37.551571],[178.26284100000001,-37.551349],[178.262632,-37.551224],[178.26473799999999,-37.54905]]],"type":"Polygon"}
+}

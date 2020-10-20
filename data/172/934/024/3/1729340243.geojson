@@ -1,0 +1,92 @@
+{
+  "id": 1729340243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6428.043979,
+    "geom:bbox":"167.715909,-46.835835,167.717254,-46.834819",
+    "geom:latitude":-46.835266,
+    "geom:longitude":167.716583,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.835203,
+    "lbl:longitude":167.716649,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.835203,
+    "mps:longitude":167.716649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Shark Island"
+    ],
+    "name:deu_x_preferred":[
+        "Shark Island"
+    ],
+    "name:eng_x_preferred":[
+        "Shark Island"
+    ],
+    "name:fra_x_preferred":[
+        "Shark Island"
+    ],
+    "name:ita_x_preferred":[
+        "Shark Island"
+    ],
+    "name:swe_x_preferred":[
+        "Shark Island"
+    ],
+    "nz-linz:name":"Shark Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079391,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4931
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621945,
+    "wof:geomhash":"5439ef9a67e8935edf0b19f9891a3eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729340243,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729340243,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229563,
+    "wof:name":"Shark Island",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.715909,
+    -46.835835,
+    167.717254,
+    -46.834819
+],
+  "geometry": {"coordinates":[[[167.71606800000001,-46.835835],[167.71590900000001,-46.835761],[167.71597700000001,-46.835652],[167.71603500000001,-46.835559],[167.71610000000001,-46.835453],[167.71613099999999,-46.835071],[167.716611,-46.834819],[167.71709899999999,-46.834883],[167.717254,-46.835001],[167.717242,-46.835137],[167.71702300000001,-46.835399],[167.71678199999999,-46.835547],[167.71641299999999,-46.835646],[167.71606800000001,-46.835835]]],"type":"Polygon"}
+}

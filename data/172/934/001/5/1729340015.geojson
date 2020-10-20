@@ -1,0 +1,75 @@
+{
+  "id": 1729340015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":595.315111,
+    "geom:bbox":"173.715603,-34.979944,173.716015,-34.979718",
+    "geom:latitude":-34.979838,
+    "geom:longitude":173.715807,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.979839,
+    "lbl:longitude":173.715807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.979839,
+    "mps:longitude":173.715807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Hororoa Rock"
+    ],
+    "nz-linz:name":"Hororoa Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4381
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621855,
+    "wof:geomhash":"45f7d78a4785faa738c1595aba2338d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340015,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340015,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603144989,
+    "wof:name":"Hororoa Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.715603,
+    -34.979944,
+    173.716015,
+    -34.979718
+],
+  "geometry": {"coordinates":[[[173.716015,-34.97985],[173.71590699999999,-34.979941],[173.715743,-34.979944],[173.71560299999999,-34.979811],[173.71573799999999,-34.979718],[173.71590399999999,-34.979761],[173.716015,-34.97985]]],"type":"Polygon"}
+}

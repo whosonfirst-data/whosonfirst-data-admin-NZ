@@ -1,0 +1,77 @@
+{
+  "id": 1729340857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":460.46034,
+    "geom:bbox":"176.089958,-36.976412,176.090165,-36.976095",
+    "geom:latitude":-36.976265,
+    "geom:longitude":176.090065,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.976269,
+    "lbl:longitude":176.090063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.976269,
+    "mps:longitude":176.090063,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Little Hump"
+    ],
+    "nz-linz:name":"Little Hump",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229,
+        102079261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4455
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622196,
+    "wof:geomhash":"952471e682305c4bab043f700108eeee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1729340857,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729340857,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145577,
+    "wof:name":"Little Hump",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.089958,
+    -36.976412,
+    176.090165,
+    -36.976095
+],
+  "geometry": {"coordinates":[[[176.089958,-36.976392],[176.08996500000001,-36.976223],[176.090114,-36.976095],[176.090159,-36.976128],[176.09016500000001,-36.976297],[176.09007099999999,-36.976412],[176.089958,-36.976392]]],"type":"Polygon"}
+}

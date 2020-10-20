@@ -1,0 +1,78 @@
+{
+  "id": 1729340089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1146.578696,
+    "geom:bbox":"176.526244,-37.608189,176.526763,-37.607885",
+    "geom:latitude":-37.608053,
+    "geom:longitude":176.526487,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.60804,
+    "lbl:longitude":176.526487,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.60804,
+    "mps:longitude":176.526487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Schooner Rocks"
+    ],
+    "name:mri_x_preferred":[
+        "Motuhaku Island"
+    ],
+    "nz-linz:name":"Motuhaku Island (Schooner Rocks)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4533
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621884,
+    "wof:geomhash":"5d791a5f38dc61ff074aaf1dc7524abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340089,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1729340089,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145029,
+    "wof:name":"Schooner Rocks",
+    "wof:parent_id":85687175,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.526244,
+    -37.608189,
+    176.526763,
+    -37.607885
+],
+  "geometry": {"coordinates":[[[176.52676299999999,-37.608141],[176.52671000000001,-37.608189],[176.52629200000001,-37.608163],[176.52624800000001,-37.608122],[176.52624399999999,-37.607981],[176.52637999999999,-37.607885],[176.52658,-37.607923],[176.52676,-37.608074],[176.52676299999999,-37.608141]]],"type":"Polygon"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1729369939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":469787.536335,
+    "geom:bbox":"175.505784,-37.092988,175.516238,-37.087798",
+    "geom:latitude":-37.090308,
+    "geom:longitude":175.510745,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.090356,
+    "lbl:longitude":175.510745,
+    "mps:latitude":-37.090356,
+    "mps:longitude":175.510745,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Loughlins Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888817,
+    "wof:geomhash":"cb0956d06ac26759fbc561634e4ec4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369939,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729369939,
+    "wof:lastmodified":1603142950,
+    "wof:name":"Loughlins Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.505784,
+    -37.092988,
+    175.516238,
+    -37.087798
+],
+  "geometry": {"coordinates":[[[175.51506800000001,-37.087905],[175.51513,-37.088039],[175.515432,-37.088481],[175.51566800000001,-37.088745],[175.515882,-37.089123],[175.51598799999999,-37.089594],[175.51623799999999,-37.090173],[175.51619099999999,-37.090378],[175.515716,-37.09109],[175.515153,-37.09176],[175.51453000000001,-37.092296],[175.51399599999999,-37.092988],[175.50578400000001,-37.092662],[175.50606099999999,-37.087798],[175.51506800000001,-37.087905]]],"type":"Polygon"}
+}

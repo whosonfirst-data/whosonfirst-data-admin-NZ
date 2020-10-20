@@ -1,0 +1,60 @@
+{
+  "id": 1729366675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":62007.858177,
+    "geom:bbox":"173.968638,-41.268053,173.972462,-41.265541",
+    "geom:latitude":-41.26691,
+    "geom:longitude":173.970597,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.266836,
+    "lbl:longitude":173.970597,
+    "mps:latitude":-41.266836,
+    "mps:longitude":173.970597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Governors Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887507,
+    "wof:geomhash":"f541973ffe681adaa33f4444a0d23e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366675,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729366675,
+    "wof:lastmodified":1603141338,
+    "wof:name":"Governors Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.968638,
+    -41.268053,
+    173.972462,
+    -41.265541
+],
+  "geometry": {"coordinates":[[[173.97242600000001,-41.266352],[173.97233700000001,-41.26642],[173.97246200000001,-41.266802],[173.97219699999999,-41.267097],[173.97218899999999,-41.267536],[173.97213300000001,-41.26764],[173.97204199999999,-41.267808],[173.971732,-41.267957],[173.97101599999999,-41.268053],[173.96985100000001,-41.267949],[173.969325,-41.267729],[173.968919,-41.267439],[173.96882600000001,-41.267373],[173.96878100000001,-41.267249],[173.968638,-41.266698],[173.97029499999999,-41.265541],[173.97242600000001,-41.266352]]],"type":"Polygon"}
+}

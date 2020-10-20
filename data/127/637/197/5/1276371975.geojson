@@ -27,8 +27,9 @@
     "lbl:bbox":"172.56333,-43.32,172.60333,-43.28",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bells"
@@ -62,9 +63,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687179,
+        102191583,
+        1729238549,
+        85633345,
         102079367
     ],
     "wof:breaches":[],
@@ -72,20 +74,29 @@
         "gn:id":2193439
     },
     "wof:country":"NZ",
-    "wof:geomhash":"dce20e6edb3fc47a2d095b7ebeaff831",
+    "wof:geomhash":"6612602cd49aa2e73ced95f84147c747",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079367,
+            "localadmin_id":1729238549,
             "locality_id":1276371975,
             "region_id":85687179
         }
     ],
     "wof:id":1276371975,
-    "wof:lastmodified":1566672333,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149794,
     "wof:name":"Bells",
-    "wof:parent_id":102079367,
+    "wof:parent_id":1729238549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
@@ -93,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    172.58333000000005,
+    172.58333,
     -43.3,
-    172.58333000000005,
+    172.58333,
     -43.3
 ],
-  "geometry": {"coordinates":[172.58333000000005,-43.3],"type":"Point"}
+  "geometry": {"coordinates":[172.58332999999999,-43.3],"type":"Point"}
 }

@@ -1,0 +1,60 @@
+{
+  "id": 1729368301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24863.689315,
+    "geom:bbox":"168.189188,-46.924868,168.191781,-46.923121",
+    "geom:latitude":-46.924017,
+    "geom:longitude":168.190408,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.923974,
+    "lbl:longitude":168.190433,
+    "mps:latitude":-46.923974,
+    "mps:longitude":168.190433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Joss Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888165,
+    "wof:geomhash":"e56b6fdc27dcd7ea1fbc4996d0691642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368301,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729368301,
+    "wof:lastmodified":1603142148,
+    "wof:name":"Joss Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.189188,
+    -46.924868,
+    168.191781,
+    -46.923121
+],
+  "geometry": {"coordinates":[[[168.189188,-46.924503],[168.18953999999999,-46.923357],[168.19019800000001,-46.923121],[168.19142400000001,-46.923634],[168.191766,-46.923894],[168.19177099999999,-46.923982],[168.19178099999999,-46.924142],[168.190642,-46.924868],[168.19036,-46.924679],[168.19019599999999,-46.924673],[168.189954,-46.924822],[168.189887,-46.924843],[168.18975900000001,-46.924792],[168.18970200000001,-46.924678],[168.18938499999999,-46.924509],[168.189188,-46.924503]]],"type":"Polygon"}
+}

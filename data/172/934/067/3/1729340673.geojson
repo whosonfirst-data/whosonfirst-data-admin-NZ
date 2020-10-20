@@ -1,0 +1,77 @@
+{
+  "id": 1729340673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5716.618193,
+    "geom:bbox":"167.638008,-47.217729,167.639575,-47.217049",
+    "geom:latitude":-47.217431,
+    "geom:longitude":167.638774,
+    "iso:country":"NZ",
+    "lbl:latitude":-47.217487,
+    "lbl:longitude":167.638789,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-47.217487,
+    "mps:longitude":167.638789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Hebe Island"
+    ],
+    "nz-linz:name":"Hebe Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4360
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622121,
+    "wof:geomhash":"06a81ebef5c7822d9bc6948ae4e53f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729340673,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729340673,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145458,
+    "wof:name":"Hebe Island",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.638008,
+    -47.217729,
+    167.639575,
+    -47.217049
+],
+  "geometry": {"coordinates":[[[167.63800800000001,-47.217134],[167.638147,-47.217049],[167.63869199999999,-47.217251],[167.63922299999999,-47.217226],[167.639419,-47.217256],[167.63957500000001,-47.217375],[167.63952499999999,-47.217576],[167.63938400000001,-47.217661],[167.63881699999999,-47.217729],[167.638454,-47.217714],[167.63826399999999,-47.217616],[167.63803100000001,-47.217247],[167.63800800000001,-47.217134]]],"type":"Polygon"}
+}

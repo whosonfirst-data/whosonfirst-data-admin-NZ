@@ -1,0 +1,60 @@
+{
+  "id": 1729367301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":133348.237729,
+    "geom:bbox":"175.440471,-36.809551,175.446299,-36.806268",
+    "geom:latitude":-36.807857,
+    "geom:longitude":175.443403,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.807938,
+    "lbl:longitude":175.443403,
+    "mps:latitude":-36.807938,
+    "mps:longitude":175.443403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Papakarahi Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887756,
+    "wof:geomhash":"df71c807cb339a8e521fa6236a816329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367301,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729367301,
+    "wof:lastmodified":1603141652,
+    "wof:name":"Papakarahi Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.440471,
+    -36.809551,
+    175.446299,
+    -36.806268
+],
+  "geometry": {"coordinates":[[[175.44629900000001,-36.808106],[175.44623100000001,-36.808177],[175.44592,-36.808498],[175.44546700000001,-36.808789],[175.445246,-36.80901],[175.44499300000001,-36.809262],[175.44456199999999,-36.809396],[175.44396699999999,-36.809487],[175.443094,-36.809551],[175.442688,-36.809548],[175.44234900000001,-36.809477],[175.44216,-36.809353],[175.44181900000001,-36.809128],[175.44146900000001,-36.808751],[175.44134099999999,-36.808258],[175.44096500000001,-36.807917],[175.44081199999999,-36.807526],[175.440639,-36.807394],[175.440471,-36.807398],[175.44173599999999,-36.806268],[175.444962,-36.806422],[175.44629900000001,-36.808106]]],"type":"Polygon"}
+}

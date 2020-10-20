@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
-    "geom:area_square_m":179111.086585,
-    "geom:bbox":"174.751281738,-36.8686348783,174.756774902,-36.8642401471",
+    "geom:area_square_m":179114.921691,
+    "geom:bbox":"174.751282,-36.868635,174.756775,-36.86424",
     "geom:latitude":-36.866804,
     "geom:longitude":174.754486,
     "iso:country":"NZ",
@@ -16,7 +17,7 @@
     "mps:latitude":-36.867065,
     "mps:longitude":174.755314,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -62,7 +63,9 @@
     "wof:belongsto":[
         85687243,
         102191583,
+        1729238453,
         85633345,
+        1729338369,
         102079403
     ],
     "wof:breaches":[],
@@ -71,35 +74,43 @@
         "wd:id":"Q3047399"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e3e2611a10b56618eca4be81431fc99d",
+    "wof:geomhash":"6703b188d584886e3ef4504dbc472552",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "localadmin_id":1729238453,
+            "locality_id":1729338369,
             "neighbourhood_id":85780877,
             "region_id":85687243
         }
     ],
     "wof:id":85780877,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1566672256,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200734,
     "wof:name":"Eden Terrace",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338369,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729338369
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    174.75128173800016,
-    -36.86863487827775,
-    174.75677490200047,
-    -36.86424014711245
+    174.751282,
+    -36.868635,
+    174.756775,
+    -36.86424
 ],
-  "geometry": {"coordinates":[[[174.7567749020003,-36.86643754388739],[174.75677490200047,-36.86863487608333],[174.75402832000043,-36.86863487827775],[174.75128173800016,-36.86863487617108],[174.75128173800016,-36.8664375457714],[174.75402832000043,-36.86643754256863],[174.75402832000043,-36.86424014711245],[174.75677490200047,-36.86424014899042],[174.7567749020003,-36.86643754388739]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[174.756775,-36.866438],[174.756775,-36.868635],[174.75402800000001,-36.868635],[174.751282,-36.868635],[174.751282,-36.866438],[174.75402800000001,-36.866438],[174.75402800000001,-36.86424],[174.756775,-36.86424],[174.756775,-36.866438]]],"type":"Polygon"}
 }

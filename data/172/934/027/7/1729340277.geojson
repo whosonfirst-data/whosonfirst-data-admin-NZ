@@ -1,0 +1,77 @@
+{
+  "id": 1729340277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1074.633794,
+    "geom:bbox":"174.781062,-35.889372,174.781451,-35.888916",
+    "geom:latitude":-35.889108,
+    "geom:longitude":174.781273,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.889096,
+    "lbl:longitude":174.781277,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.889096,
+    "mps:longitude":174.781277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Taura Rock"
+    ],
+    "nz-linz:name":"Taura Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4983
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621959,
+    "wof:geomhash":"ec24263057c062837f70fa7ba037afba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1729340277,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340277,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145165,
+    "wof:name":"Taura Rock",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.781062,
+    -35.889372,
+    174.781451,
+    -35.888916
+],
+  "geometry": {"coordinates":[[[174.781387,-35.889372],[174.781093,-35.889143],[174.78106199999999,-35.889054],[174.78116900000001,-35.888916],[174.78133600000001,-35.888935],[174.781451,-35.889046],[174.781387,-35.889372]]],"type":"Polygon"}
+}

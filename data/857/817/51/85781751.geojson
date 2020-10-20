@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "mps:latitude":-41.139053,
     "mps:longitude":174.816991,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -71,8 +72,9 @@
     "wof:belongsto":[
         85687233,
         102191583,
+        1729238563,
         85633345,
-        101914925,
+        1729338373,
         102079317
     ],
     "wof:breaches":[],
@@ -89,21 +91,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079317,
-            "locality_id":101914925,
+            "localadmin_id":1729238563,
+            "locality_id":1729338373,
             "neighbourhood_id":85781751,
             "region_id":85687233
         }
     ],
     "wof:id":85781751,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316520,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200907,
     "wof:name":"Elsdon",
-    "wof:parent_id":101914925,
+    "wof:parent_id":1729338373,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729338373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

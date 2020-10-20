@@ -1,0 +1,60 @@
+{
+  "id": 1729366791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":44060.211964,
+    "geom:bbox":"175.45989,-36.770523,175.463018,-36.768071",
+    "geom:latitude":-36.769343,
+    "geom:longitude":175.461202,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.769418,
+    "lbl:longitude":175.461225,
+    "mps:latitude":-36.769418,
+    "mps:longitude":175.461225,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Makariri Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887553,
+    "wof:geomhash":"44e20ca0a7aa5cd4962f8609bb53f82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366791,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729366791,
+    "wof:lastmodified":1603141397,
+    "wof:name":"Makariri Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.45989,
+    -36.770523,
+    175.463018,
+    -36.768071
+],
+  "geometry": {"coordinates":[[[175.45989,-36.770062],[175.45993000000001,-36.769892],[175.45993999999999,-36.76985],[175.45994999999999,-36.769809],[175.460082,-36.769248],[175.46029799999999,-36.769063],[175.460252,-36.768613],[175.460432,-36.768181],[175.460666,-36.768073],[175.46093500000001,-36.768072],[175.461185,-36.768071],[175.46152699999999,-36.768243],[175.46173200000001,-36.768453],[175.46233699999999,-36.769249],[175.46272200000001,-36.769431],[175.46301800000001,-36.769468],[175.461434,-36.770523],[175.45989,-36.770062]]],"type":"Polygon"}
+}

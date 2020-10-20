@@ -1,0 +1,75 @@
+{
+  "id": 1729340171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10.417299,
+    "geom:bbox":"173.785011,-40.894478,173.785061,-40.894433",
+    "geom:latitude":-40.894456,
+    "geom:longitude":173.785044,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.894456,
+    "lbl:longitude":173.785046,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-40.894456,
+    "mps:longitude":173.785046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Te Horo Island"
+    ],
+    "nz-linz:name":"Te Horo Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4996
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621916,
+    "wof:geomhash":"fee57834c5243d3a112a61bfe7cf18a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340171,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729340171,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145079,
+    "wof:name":"Te Horo Island",
+    "wof:parent_id":85687185,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.785011,
+    -40.894478,
+    173.785061,
+    -40.894433
+],
+  "geometry": {"coordinates":[[[173.785011,-40.894457],[173.78505999999999,-40.894433],[173.78506100000001,-40.894478],[173.785011,-40.894457]]],"type":"Polygon"}
+}

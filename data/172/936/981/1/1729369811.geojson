@@ -1,0 +1,60 @@
+{
+  "id": 1729369811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":112556.381591,
+    "geom:bbox":"174.980372,-36.792976,174.986136,-36.789214",
+    "geom:latitude":-36.791233,
+    "geom:longitude":174.983401,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.791295,
+    "lbl:longitude":174.983357,
+    "mps:latitude":-36.791295,
+    "mps:longitude":174.983357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Te Miro Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888766,
+    "wof:geomhash":"452711dc95b1ed480b2d731bcd625065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369811,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369811,
+    "wof:lastmodified":1603142888,
+    "wof:name":"Te Miro Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.980372,
+    -36.792976,
+    174.986136,
+    -36.789214
+],
+  "geometry": {"coordinates":[[[174.98284200000001,-36.789214],[174.98299299999999,-36.789617],[174.983081,-36.789728],[174.98319499999999,-36.789816],[174.983394,-36.789903],[174.983564,-36.789945],[174.984093,-36.789927],[174.98455000000001,-36.790137],[174.98472000000001,-36.790215],[174.98500200000001,-36.790278],[174.98514399999999,-36.790343],[174.98540199999999,-36.79054],[174.98557700000001,-36.790762],[174.985578,-36.790807],[174.985637,-36.790896],[174.985838,-36.79105],[174.98592500000001,-36.791161],[174.98597599999999,-36.791285],[174.98613599999999,-36.791676],[174.98400699999999,-36.792976],[174.98037199999999,-36.791451],[174.98284200000001,-36.789214]]],"type":"Polygon"}
+}

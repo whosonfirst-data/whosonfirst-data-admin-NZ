@@ -1,0 +1,77 @@
+{
+  "id": 1729340707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6106.850604,
+    "geom:bbox":"168.283444,-46.881719,168.284515,-46.880523",
+    "geom:latitude":-46.881071,
+    "geom:longitude":168.28402,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.88099,
+    "lbl:longitude":168.284028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.88099,
+    "mps:longitude":168.284028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kanetetoe Islands"
+    ],
+    "nz-linz:name":"Kanetetoe Islands",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4416
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622135,
+    "wof:geomhash":"93a9ad815f6d670d72527482b6056ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729340707,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729340707,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145481,
+    "wof:name":"Kanetetoe Islands",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.283444,
+    -46.881719,
+    168.284515,
+    -46.880523
+],
+  "geometry": {"coordinates":[[[168.28402,-46.881719],[168.28396000000001,-46.88165],[168.28398100000001,-46.881357],[168.28369799999999,-46.881167],[168.283536,-46.881139],[168.283444,-46.881047],[168.28349,-46.880867],[168.283671,-46.880626],[168.283976,-46.880523],[168.28425899999999,-46.88069],[168.284423,-46.881041],[168.284515,-46.88124],[168.28447399999999,-46.881341],[168.28444099999999,-46.881423],[168.28439599999999,-46.881529],[168.28419199999999,-46.881655],[168.28412,-46.8817],[168.28402,-46.881719]]],"type":"Polygon"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1729369113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":100782.842022,
+    "geom:bbox":"174.814368,-36.435377,174.818311,-36.431243",
+    "geom:latitude":-36.433162,
+    "geom:longitude":174.816431,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.433152,
+    "lbl:longitude":174.816468,
+    "mps:latitude":-36.433152,
+    "mps:longitude":174.816468,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Farmer Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888495,
+    "wof:geomhash":"7b12c86c3bed5fca4fa411a79fb10dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369113,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369113,
+    "wof:lastmodified":1603142547,
+    "wof:name":"Farmer Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.814368,
+    -36.435377,
+    174.818311,
+    -36.431243
+],
+  "geometry": {"coordinates":[[[174.81553,-36.431426],[174.815617,-36.431514],[174.815755,-36.431489],[174.815946,-36.431349],[174.816361,-36.43125],[174.81669600000001,-36.431243],[174.816892,-36.431284],[174.817204,-36.431435],[174.817577,-36.431742],[174.81789800000001,-36.432163],[174.81805299999999,-36.432634],[174.81809999999999,-36.433196],[174.81819400000001,-36.43351],[174.81831099999999,-36.433665],[174.816586,-36.435377],[174.814368,-36.433589],[174.81553,-36.431426]]],"type":"Polygon"}
+}

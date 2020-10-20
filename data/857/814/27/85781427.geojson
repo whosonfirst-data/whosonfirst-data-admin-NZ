@@ -19,8 +19,8 @@
     "mps:latitude":-44.223758,
     "mps:longitude":171.278063,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -75,8 +75,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"4cb167c1044ffd6d2797f49d35f56f32",
     "wof:hierarchy":[
@@ -90,10 +90,15 @@
         }
     ],
     "wof:id":85781427,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316526,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210220,
     "wof:name":"Andrewville",
     "wof:parent_id":101914401,
     "wof:placetype":"neighbourhood",

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "mps:latitude":-38.660624,
     "mps:longitude":177.980471,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -122,7 +123,9 @@
     "wof:belongsto":[
         85687237,
         102191583,
+        1729238487,
         85633345,
+        1729338411,
         102079325
     ],
     "wof:breaches":[],
@@ -133,8 +136,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"ff2d6011a0d47a73d7dff732b289f3a2",
     "wof:hierarchy":[
@@ -142,21 +145,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079325,
-            "locality_id":-1,
+            "localadmin_id":1729238487,
+            "locality_id":1729338411,
             "neighbourhood_id":85781855,
             "region_id":85687237
         }
     ],
     "wof:id":85781855,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316517,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200928,
     "wof:name":"Elgin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338411,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729338371
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

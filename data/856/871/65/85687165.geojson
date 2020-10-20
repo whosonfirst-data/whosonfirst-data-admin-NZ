@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.994887,
-    "geom:area_square_m":36269756546.284004,
+    "geom:area_square_m":36269757740.625107,
     "geom:bbox":"167.838118,-44.499066,172.692102,-40.628352",
     "geom:latitude":-42.748091,
     "geom:longitude":170.69102,
@@ -46,11 +46,20 @@
     "name:dan_x_preferred":[
         "West Coast Region"
     ],
+    "name:deu_ch_x_preferred":[
+        "West Coast"
+    ],
     "name:deu_x_preferred":[
         "West Coast"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u0391\u03ba\u03c4\u03ae"
+    ],
+    "name:eng_ca_x_preferred":[
+        "West Coast"
+    ],
+    "name:eng_gb_x_preferred":[
+        "West Coast"
     ],
     "name:eng_x_preferred":[
         "West Coast Region"
@@ -63,6 +72,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0648\u0633\u062a \u06a9\u0648\u0633\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0633\u062a \u06a9\u0648\u0633\u062a\u060c \u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f"
     ],
     "name:fin_x_preferred":[
         "West Coast"
@@ -136,6 +148,9 @@
     "name:pol_x_preferred":[
         "West Coast"
     ],
+    "name:por_br_x_preferred":[
+        "Costa Oeste"
+    ],
     "name:por_x_preferred":[
         "Costa Oeste"
     ],
@@ -153,6 +168,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1   \u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c24\u0c40\u0c30 \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -241,7 +259,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1583882913,
+    "wof:lastmodified":1603229385,
     "wof:name":"West Coast Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

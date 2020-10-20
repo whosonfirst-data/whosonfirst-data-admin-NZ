@@ -1,0 +1,60 @@
+{
+  "id": 1729366959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":76425.101208,
+    "geom:bbox":"178.27505,-37.55492,178.279388,-37.551721",
+    "geom:latitude":-37.55312,
+    "geom:longitude":178.277357,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.553157,
+    "lbl:longitude":178.277505,
+    "mps:latitude":-37.553157,
+    "mps:longitude":178.277505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Tangaihe Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887621,
+    "wof:geomhash":"2708323d38633eea6ea040b0e088c3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366959,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1729366959,
+    "wof:lastmodified":1603141481,
+    "wof:name":"Tangaihe Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.27505,
+    -37.55492,
+    178.279388,
+    -37.551721
+],
+  "geometry": {"coordinates":[[[178.278648,-37.552116],[178.27938800000001,-37.553557],[178.27881099999999,-37.55379],[178.27860100000001,-37.553981],[178.27850699999999,-37.554116],[178.27837199999999,-37.554309],[178.27830599999999,-37.554539],[178.27812299999999,-37.554729],[178.27784600000001,-37.55492],[178.27756600000001,-37.554849],[178.27741599999999,-37.554744],[178.277342,-37.554544],[178.27718999999999,-37.554417],[178.276782,-37.554279],[178.27649,-37.554002],[178.276465,-37.553926],[178.276432,-37.553824],[178.276129,-37.553592],[178.27606,-37.553437],[178.27590900000001,-37.553332],[178.275553,-37.553147],[178.275229,-37.552644],[178.27504999999999,-37.552541],[178.276545,-37.551721],[178.278648,-37.552116]]],"type":"Polygon"}
+}

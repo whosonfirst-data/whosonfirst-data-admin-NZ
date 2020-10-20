@@ -18,8 +18,8 @@
     "mps:latitude":-46.622217,
     "mps:longitude":168.335484,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -59,10 +59,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687211,
         102191583,
+        1729238497,
         85633345,
-        102079397
+        101915603,
+        102079397,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,18 +82,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079397,
-            "locality_id":-1,
+            "localadmin_id":1729238497,
+            "locality_id":101915603,
             "neighbourhood_id":85782361,
             "region_id":85687211
         }
     ],
     "wof:id":85782361,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210198,
     "wof:name":"Bluff Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":101915603,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

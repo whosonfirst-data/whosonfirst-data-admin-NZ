@@ -1,0 +1,107 @@
+{
+  "id": 1729340657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13181.290445,
+    "geom:bbox":"173.10818,-41.267457,173.110216,-41.266481",
+    "geom:latitude":-41.266916,
+    "geom:longitude":173.109127,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.266908,
+    "lbl:longitude":173.109127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-41.266908,
+    "mps:longitude":173.109127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "Vo\u00ebleiland"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Bird"
+    ],
+    "name:ceb_x_preferred":[
+        "Bird Island"
+    ],
+    "name:deu_x_preferred":[
+        "Bird Island"
+    ],
+    "name:eng_x_preferred":[
+        "Bird Island"
+    ],
+    "name:fra_x_preferred":[
+        "Bird Island"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c9\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Vogeleiland"
+    ],
+    "name:pol_x_preferred":[
+        "Bird Island"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Bird Island"
+    ],
+    "nz-linz:name":"Bird Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079349,
+        85687219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4183
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622115,
+    "wof:geomhash":"b8900f764d7a30d71ede78410721c9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":1729340657,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1729340657,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229613,
+    "wof:name":"Bird Island",
+    "wof:parent_id":102079349,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.10818,
+    -41.267457,
+    173.110216,
+    -41.266481
+],
+  "geometry": {"coordinates":[[[173.108328,-41.266536],[173.10859600000001,-41.266489],[173.10979,-41.266481],[173.10991300000001,-41.266795],[173.11021600000001,-41.267109],[173.11012700000001,-41.267222],[173.10988900000001,-41.267224],[173.10962000000001,-41.267316],[173.10932199999999,-41.267273],[173.10869700000001,-41.267457],[173.10845699999999,-41.267346],[173.10842400000001,-41.267098],[173.108183,-41.266853],[173.10818,-41.26665],[173.108328,-41.266536]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729342009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":498.914849,
+    "geom:bbox":"173.965915,-35.032159,173.966218,-35.031913",
+    "geom:latitude":-35.032042,
+    "geom:longitude":173.966075,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.032043,
+    "lbl:longitude":173.966075,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.032043,
+    "mps:longitude":173.966075,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Motuhuia Island"
+    ],
+    "nz-linz:name":"Motuhuia Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4542
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622712,
+    "wof:geomhash":"088f52308bbd53c253d1ca5537bf8d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342009,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342009,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146342,
+    "wof:name":"Motuhuia Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.965915,
+    -35.032159,
+    173.966218,
+    -35.031913
+],
+  "geometry": {"coordinates":[[[173.966138,-35.032159],[173.96600100000001,-35.032138],[173.965915,-35.032005],[173.96602300000001,-35.031913],[173.966217,-35.032],[173.966218,-35.03209],[173.966138,-35.032159]]],"type":"Polygon"}
+}

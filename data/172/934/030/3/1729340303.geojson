@@ -1,0 +1,75 @@
+{
+  "id": 1729340303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1751.821448,
+    "geom:bbox":"174.341882,-35.19372,174.342456,-35.193292",
+    "geom:latitude":-35.193538,
+    "geom:longitude":174.342136,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.193535,
+    "lbl:longitude":174.342136,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.193535,
+    "mps:longitude":174.342136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Waiwiri Rock"
+    ],
+    "nz-linz:name":"Waiwiri Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5103
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621970,
+    "wof:geomhash":"fdb692f3d2ae692e19fdab556b81362e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340303,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340303,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145179,
+    "wof:name":"Waiwiri Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.341882,
+    -35.19372,
+    174.342456,
+    -35.193292
+],
+  "geometry": {"coordinates":[[[174.34232399999999,-35.193714],[174.34196600000001,-35.19372],[174.341882,-35.193655],[174.341927,-35.193338],[174.341981,-35.193292],[174.34231500000001,-35.193421],[174.342456,-35.193553],[174.34243000000001,-35.193621],[174.34232399999999,-35.193714]]],"type":"Polygon"}
+}

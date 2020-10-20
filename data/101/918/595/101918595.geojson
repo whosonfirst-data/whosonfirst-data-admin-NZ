@@ -5,18 +5,22 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":13979.700763,
-    "geom:bbox":"171.607412243,-41.7491107699,171.609618853,-41.7481836489",
+    "geom:area_square_m":13985.303069,
+    "geom:bbox":"171.607412,-41.749111,171.609619,-41.748184",
     "geom:latitude":-41.748617,
     "geom:longitude":171.608433,
     "gn:population":3629,
     "iso:country":"NZ",
     "lbl:latitude":-41.748604,
     "lbl:longitude":171.60844,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-41.748604,
     "mps:longitude":171.60844,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Westport"
     ],
@@ -36,9 +40,10 @@
     "src:population":"geonames",
     "wd:wordcount":1387,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687165,
+        102191583,
+        1729238585,
+        85633345,
         102079357
     ],
     "wof:breaches":[],
@@ -51,20 +56,29 @@
         "wk:page":"Westport, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ca18990c44456981d3225aedbe36e534",
+    "wof:geomhash":"2a445bd58f8c26fdc3c9956f0b3b8df7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079357,
+            "localadmin_id":1729238585,
             "locality_id":101918595,
             "region_id":85687165
         }
     ],
     "wof:id":101918595,
-    "wof:lastmodified":1527715668,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148813,
     "wof:name":"Westport",
-    "wof:parent_id":102079357,
+    "wof:parent_id":1729238585,
     "wof:placetype":"locality",
     "wof:population":3629,
     "wof:population_rank":4,
@@ -76,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    171.60741224322732,
-    -41.74911076989416,
-    171.60961885271078,
-    -41.7481836488507
+    171.607412,
+    -41.749111,
+    171.609619,
+    -41.748184
 ],
-  "geometry": {"coordinates":[[[171.60949712702322,-41.748286015362],[171.60961885271078,-41.74882362475424],[171.60742025385395,-41.74911076989416],[171.60741224322732,-41.74859291515535],[171.60756821348068,-41.74860820383288],[171.60759047416158,-41.74820383967253],[171.60759150598955,-41.7481836488507],[171.60949712702322,-41.748286015362]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[171.609497,-41.748286],[171.60961900000001,-41.748824],[171.60741999999999,-41.749111],[171.60741200000001,-41.748593],[171.60756799999999,-41.748608],[171.60758999999999,-41.748204],[171.60759200000001,-41.748184],[171.609497,-41.748286]]],"type":"Polygon"}
 }

@@ -1,0 +1,60 @@
+{
+  "id": 1729366921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":137484.479989,
+    "geom:bbox":"174.091471,-41.186186,174.098642,-41.182348",
+    "geom:latitude":-41.184272,
+    "geom:longitude":174.095817,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.184108,
+    "lbl:longitude":174.09617,
+    "mps:latitude":-41.184108,
+    "mps:longitude":174.09617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Sandy Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887605,
+    "wof:geomhash":"496ebe80f0aca306944962a13ab7fc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366921,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729366921,
+    "wof:lastmodified":1603141461,
+    "wof:name":"Sandy Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.091471,
+    -41.186186,
+    174.098642,
+    -41.182348
+],
+  "geometry": {"coordinates":[[[174.09864200000001,-41.183642],[174.09849500000001,-41.183756],[174.098468,-41.183948],[174.09860699999999,-41.184284],[174.09861000000001,-41.184465],[174.09833399999999,-41.18512],[174.09820199999999,-41.185433],[174.097666,-41.185972],[174.09726699999999,-41.186186],[174.096698,-41.186004],[174.09636800000001,-41.185846],[174.09587099999999,-41.185605],[174.09536299999999,-41.185588],[174.09147100000001,-41.184342],[174.09646699999999,-41.182348],[174.09864200000001,-41.183642]]],"type":"Polygon"}
+}

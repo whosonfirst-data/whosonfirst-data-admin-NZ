@@ -1,0 +1,60 @@
+{
+  "id": 1729369271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":30433.975068,
+    "geom:bbox":"175.332002,-36.143483,175.334733,-36.141881",
+    "geom:latitude":-36.142666,
+    "geom:longitude":175.333407,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.142647,
+    "lbl:longitude":175.333433,
+    "mps:latitude":-36.142647,
+    "mps:longitude":175.333433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Mohunga Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888556,
+    "wof:geomhash":"2ed0c1b00daca765c8a1f2de2d518dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369271,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369271,
+    "wof:lastmodified":1603142625,
+    "wof:name":"Mohunga Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.332002,
+    -36.143483,
+    175.334733,
+    -36.141881
+],
+  "geometry": {"coordinates":[[[175.33229299999999,-36.142119],[175.33248800000001,-36.142159],[175.333102,-36.141982],[175.33342400000001,-36.14189],[175.33378500000001,-36.141881],[175.334011,-36.141966],[175.33435399999999,-36.142206],[175.33467200000001,-36.142559],[175.334733,-36.142738],[175.334687,-36.142987],[175.33460700000001,-36.143106],[175.33458099999999,-36.143147],[175.334418,-36.143241],[175.33391800000001,-36.143253],[175.333732,-36.143483],[175.33200199999999,-36.143027],[175.33229299999999,-36.142119]]],"type":"Polygon"}
+}

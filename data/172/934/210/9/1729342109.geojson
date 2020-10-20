@@ -1,0 +1,75 @@
+{
+  "id": 1729342109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5334.404423,
+    "geom:bbox":"174.569937,-35.723031,174.570782,-35.722268",
+    "geom:latitude":-35.722657,
+    "geom:longitude":174.570362,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.722646,
+    "lbl:longitude":174.570354,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.722646,
+    "mps:longitude":174.570354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Moturewa Island"
+    ],
+    "nz-linz:name":"Moturewa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4630
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622752,
+    "wof:geomhash":"f45a94b51b4dc16445a11084efaa8cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342109,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342109,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146401,
+    "wof:name":"Moturewa Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.569937,
+    -35.723031,
+    174.570782,
+    -35.722268
+],
+  "geometry": {"coordinates":[[[174.570674,-35.723031],[174.57023100000001,-35.723018],[174.57003399999999,-35.722886],[174.56994599999999,-35.722707],[174.56993700000001,-35.722415],[174.570154,-35.722275],[174.57048499999999,-35.722268],[174.57065499999999,-35.7224],[174.570774,-35.722668],[174.57078200000001,-35.722938],[174.570674,-35.723031]]],"type":"Polygon"}
+}

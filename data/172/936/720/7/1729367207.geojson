@@ -1,0 +1,60 @@
+{
+  "id": 1729367207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":255315.691759,
+    "geom:bbox":"173.954568,-40.748154,173.960541,-40.742358",
+    "geom:latitude":-40.745262,
+    "geom:longitude":173.957838,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.745267,
+    "lbl:longitude":173.957838,
+    "mps:latitude":-40.745267,
+    "mps:longitude":173.957838,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Horea Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887720,
+    "wof:geomhash":"09061c4c636334ea3d8e2fcf556e278b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367207,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729367207,
+    "wof:lastmodified":1603141606,
+    "wof:name":"Horea Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.954568,
+    -40.748154,
+    173.960541,
+    -40.742358
+],
+  "geometry": {"coordinates":[[[173.95600899999999,-40.742922],[173.96046699999999,-40.742358],[173.96054100000001,-40.747467],[173.95559800000001,-40.748154],[173.95539500000001,-40.747098],[173.95529300000001,-40.746513],[173.95510400000001,-40.74602],[173.954791,-40.745372],[173.95456799999999,-40.744676],[173.95462000000001,-40.74436],[173.95482100000001,-40.744171],[173.955466,-40.743807],[173.95569900000001,-40.743579],[173.95587,-40.743329],[173.95600899999999,-40.742922]]],"type":"Polygon"}
+}

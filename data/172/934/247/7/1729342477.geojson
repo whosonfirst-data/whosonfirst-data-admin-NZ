@@ -1,0 +1,93 @@
+{
+  "id": 1729342477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":35785.920953,
+    "geom:bbox":"174.6962,-36.003043,174.699057,-36.001184",
+    "geom:latitude":-36.002005,
+    "geom:longitude":174.697666,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.002003,
+    "lbl:longitude":174.697693,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.002003,
+    "mps:longitude":174.697693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:bak_x_preferred":[
+        "\u0415\u043b\u043a\u04d9\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Parusfelsen"
+    ],
+    "name:eng_x_preferred":[
+        "Sail Rock"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057c\u0561\u0563\u0561\u057d\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Roca Parus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0442\u0440\u0438\u043b\u043e"
+    ],
+    "nz-linz:name":"Sail Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4910
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622901,
+    "wof:geomhash":"20bc08f49e1e59d838a00c293065dec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342477,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342477,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229765,
+    "wof:name":"Sail Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.6962,
+    -36.003043,
+    174.699057,
+    -36.001184
+],
+  "geometry": {"coordinates":[[[174.69905199999999,-36.001666],[174.69905299999999,-36.001688],[174.69905700000001,-36.00182],[174.698849,-36.002207],[174.698555,-36.002553],[174.69812300000001,-36.0029],[174.69779500000001,-36.003043],[174.69771,-36.002977],[174.69753299999999,-36.002929],[174.69717800000001,-36.002711],[174.696866,-36.002544],[174.696417,-36.002362],[174.69620399999999,-36.001952],[174.6962,-36.001816],[174.696279,-36.001702],[174.69657599999999,-36.00147],[174.69685000000001,-36.001351],[174.69726499999999,-36.001319],[174.69750999999999,-36.0012],[174.69825900000001,-36.001184],[174.6986,-36.001402],[174.69885099999999,-36.001441],[174.699049,-36.001572],[174.69905199999999,-36.001666]]],"type":"Polygon"}
+}

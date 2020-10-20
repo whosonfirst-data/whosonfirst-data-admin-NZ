@@ -1,0 +1,60 @@
+{
+  "id": 1729369659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":54217.804558,
+    "geom:bbox":"174.181759,-35.227188,174.18493,-35.224403",
+    "geom:latitude":-35.225868,
+    "geom:longitude":174.183407,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.225903,
+    "lbl:longitude":174.183536,
+    "mps:latitude":-35.225903,
+    "mps:longitude":174.183536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Wairaka Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888707,
+    "wof:geomhash":"e868a31c851a858264962fe0a7850393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369659,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729369659,
+    "wof:lastmodified":1603142813,
+    "wof:name":"Wairaka Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.181759,
+    -35.227188,
+    174.18493,
+    -35.224403
+],
+  "geometry": {"coordinates":[[[174.18292600000001,-35.224403],[174.18307100000001,-35.224442],[174.183347,-35.224722],[174.18355199999999,-35.224815],[174.183942,-35.224928],[174.18411699999999,-35.224974],[174.184316,-35.225084],[174.18450100000001,-35.225225],[174.18484100000001,-35.225477],[174.18493000000001,-35.225627],[174.18485899999999,-35.225762],[174.18460300000001,-35.226053],[174.18460200000001,-35.226387],[174.18442099999999,-35.22689],[174.18437299999999,-35.227164],[174.18315699999999,-35.227188],[174.181759,-35.22556],[174.18292600000001,-35.224403]]],"type":"Polygon"}
+}

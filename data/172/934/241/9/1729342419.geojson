@@ -1,0 +1,75 @@
+{
+  "id": 1729342419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1443.29645,
+    "geom:bbox":"174.730492,-36.514028,174.730997,-36.513644",
+    "geom:latitude":-36.513822,
+    "geom:longitude":174.730753,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.513836,
+    "lbl:longitude":174.730773,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.513836,
+    "mps:longitude":174.730773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Pudding Island"
+    ],
+    "nz-linz:name":"Pudding Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4836
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622878,
+    "wof:geomhash":"a15e276ac71ea5008605ae3f5550b362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342419,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729342419,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146581,
+    "wof:name":"Pudding Island",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.730492,
+    -36.514028,
+    174.730997,
+    -36.513644
+],
+  "geometry": {"coordinates":[[[174.73083500000001,-36.514027],[174.730751,-36.514028],[174.730695,-36.514007],[174.73052300000001,-36.513874],[174.730493,-36.513807],[174.730492,-36.513762],[174.73057399999999,-36.513671],[174.73062899999999,-36.513647],[174.730852,-36.513644],[174.730966,-36.513732],[174.73099500000001,-36.513776],[174.730997,-36.513867],[174.73097200000001,-36.513912],[174.73083500000001,-36.514027]]],"type":"Polygon"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1729366581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":50021.036987,
+    "geom:bbox":"174.373633,-35.350533,174.377196,-35.347875",
+    "geom:latitude":-35.349291,
+    "geom:longitude":174.375391,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.349253,
+    "lbl:longitude":174.375269,
+    "mps:latitude":-35.349253,
+    "mps:longitude":174.375269,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Okura Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887469,
+    "wof:geomhash":"e9234f14ff6c5ee62c7bf54c9cb1df5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366581,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729366581,
+    "wof:lastmodified":1603141289,
+    "wof:name":"Okura Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.373633,
+    -35.350533,
+    174.377196,
+    -35.347875
+],
+  "geometry": {"coordinates":[[[174.377196,-35.350023],[174.37539100000001,-35.350533],[174.375304,-35.3504],[174.375024,-35.350202],[174.374662,-35.350097],[174.374438,-35.349943],[174.37429399999999,-35.349721],[174.37408600000001,-35.349206],[174.37385599999999,-35.348872],[174.37363300000001,-35.348764],[174.37546,-35.347875],[174.377196,-35.350023]]],"type":"Polygon"}
+}

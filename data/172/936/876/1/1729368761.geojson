@@ -1,0 +1,60 @@
+{
+  "id": 1729368761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":131533.196408,
+    "geom:bbox":"174.807309,-36.382032,174.81296,-36.378478",
+    "geom:latitude":-36.380354,
+    "geom:longitude":174.810293,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.380228,
+    "lbl:longitude":174.810239,
+    "mps:latitude":-36.380228,
+    "mps:longitude":174.810239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Waikauri Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888354,
+    "wof:geomhash":"bd3f6e0bac1195b671dfdd64a27e8ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368761,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729368761,
+    "wof:lastmodified":1603142370,
+    "wof:name":"Waikauri Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.807309,
+    -36.382032,
+    174.81296,
+    -36.378478
+],
+  "geometry": {"coordinates":[[[174.807309,-36.381083],[174.80751799999999,-36.38065],[174.80800400000001,-36.380166],[174.80823899999999,-36.379709],[174.80834400000001,-36.37961],[174.808482,-36.379479],[174.80867499999999,-36.379385],[174.80902399999999,-36.378994],[174.80918700000001,-36.378855],[174.80973599999999,-36.378618],[174.810318,-36.378493],[174.811014,-36.378478],[174.81115700000001,-36.378587],[174.81128000000001,-36.378789],[174.81148099999999,-36.379121],[174.811768,-36.37934],[174.812218,-36.379466],[174.812636,-36.379457],[174.81296,-36.381309],[174.80986999999999,-36.382032],[174.807309,-36.381083]]],"type":"Polygon"}
+}

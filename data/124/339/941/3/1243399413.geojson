@@ -27,14 +27,16 @@
     "lbl:bbox":"176.34936,-38.22635,176.38936,-38.18635",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687175,
+        102191583,
+        1729238557,
+        85633345,
         102079289
     ],
     "wof:breaches":[],
@@ -48,14 +50,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079289,
+            "localadmin_id":1729238557,
             "locality_id":1243399413,
             "region_id":85687175
         }
     ],
     "wof:id":1243399413,
-    "wof:lastmodified":1566672658,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149666,
     "wof:name":"Punaromia",
-    "wof:parent_id":102079289,
+    "wof:parent_id":1729238557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

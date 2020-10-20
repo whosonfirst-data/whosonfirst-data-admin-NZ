@@ -1,0 +1,78 @@
+{
+  "id": 1729340781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1639.586717,
+    "geom:bbox":"174.953893,-36.698136,174.954375,-36.697661",
+    "geom:latitude":-36.697882,
+    "geom:longitude":174.954153,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.697875,
+    "lbl:longitude":174.954157,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.697875,
+    "mps:longitude":174.954157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "The Haystack"
+    ],
+    "name:mri_x_preferred":[
+        "Orarapa Island"
+    ],
+    "nz-linz:name":"Orarapa Island (The Haystack)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4760
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622166,
+    "wof:geomhash":"08fa5420eeee8513ea02cf114c004841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340781,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729340781,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145526,
+    "wof:name":"The Haystack",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.953893,
+    -36.698136,
+    174.954375,
+    -36.697661
+],
+  "geometry": {"coordinates":[[[174.95421099999999,-36.698135],[174.95415499999999,-36.698136],[174.95404099999999,-36.698048],[174.953925,-36.697892],[174.95389299999999,-36.69778],[174.95397399999999,-36.697688],[174.95422500000001,-36.697661],[174.95431099999999,-36.697727],[174.95436900000001,-36.697816],[174.954375,-36.697996],[174.95432099999999,-36.698065],[174.95421099999999,-36.698135]]],"type":"Polygon"}
+}

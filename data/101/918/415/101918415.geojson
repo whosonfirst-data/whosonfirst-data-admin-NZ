@@ -5,18 +5,22 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
-    "geom:area_square_m":39266.125756,
-    "geom:bbox":"177.889414765,-38.6260152486,177.891945002,-38.6235664037",
+    "geom:area_square_m":39263.547263,
+    "geom:bbox":"177.889415,-38.626015,177.891945,-38.623566",
     "geom:latitude":-38.624788,
     "geom:longitude":177.890676,
     "gn:population":386,
     "iso:country":"NZ",
     "lbl:latitude":-38.624788,
     "lbl:longitude":177.890666,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-38.624788,
     "mps:longitude":177.890666,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Patutahi"
     ],
@@ -39,9 +43,10 @@
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687237,
+        102191583,
+        1729238487,
+        85633345,
         102079325
     ],
     "wof:breaches":[],
@@ -54,20 +59,29 @@
         "wk:page":"Patutahi"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5109e70aaff0bc1bad328f3baec5c3a7",
+    "wof:geomhash":"3e65d7b3036291f15c0d59fd53359a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079325,
+            "localadmin_id":1729238487,
             "locality_id":101918415,
             "region_id":85687237
         }
     ],
     "wof:id":101918415,
-    "wof:lastmodified":1527715670,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148712,
     "wof:name":"Patutahi",
-    "wof:parent_id":102079325,
+    "wof:parent_id":1729238487,
     "wof:placetype":"locality",
     "wof:population":386,
     "wof:population_rank":2,
@@ -79,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    177.88941476484692,
-    -38.62601524856545,
-    177.89194500161585,
-    -38.62356640368843
+    177.889415,
+    -38.626015,
+    177.891945,
+    -38.623566
 ],
-  "geometry": {"coordinates":[[[177.89194500161585,-38.62391679852104],[177.89158326461251,-38.62497151854673],[177.89155274447478,-38.62506050278832],[177.89122535607177,-38.62601524856545],[177.88941476484692,-38.62566037900014],[177.88974185886602,-38.62468445215269],[177.88977073950753,-38.62459833476911],[177.89011648502662,-38.62356640368843],[177.89194500161585,-38.62391679852104]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[177.89194499999999,-38.623917],[177.891583,-38.624972],[177.89155299999999,-38.625061],[177.89122499999999,-38.626015],[177.88941500000001,-38.62566],[177.88974200000001,-38.624684],[177.889771,-38.624598],[177.89011600000001,-38.623566],[177.89194499999999,-38.623917]]],"type":"Polygon"}
 }

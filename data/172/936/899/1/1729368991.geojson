@@ -1,0 +1,60 @@
+{
+  "id": 1729368991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":117695.772896,
+    "geom:bbox":"174.983875,-36.805123,174.98873,-36.801912",
+    "geom:latitude":-36.803582,
+    "geom:longitude":174.986164,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.803531,
+    "lbl:longitude":174.986164,
+    "mps:latitude":-36.803531,
+    "mps:longitude":174.986164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Cable Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888445,
+    "wof:geomhash":"371bba92911808151acbda8e58a7f16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368991,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729368991,
+    "wof:lastmodified":1603142488,
+    "wof:name":"Cable Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.983875,
+    -36.805123,
+    174.98873,
+    -36.801912
+],
+  "geometry": {"coordinates":[[[174.98702599999999,-36.801912],[174.98726199999999,-36.802314],[174.98765499999999,-36.80253],[174.987863,-36.802708],[174.98800399999999,-36.80275],[174.988314,-36.802812],[174.98869199999999,-36.803278],[174.98873,-36.803593],[174.988485,-36.803783],[174.988373,-36.80387],[174.988223,-36.804458],[174.98786899999999,-36.804826],[174.98768100000001,-36.805123],[174.984115,-36.804867],[174.98387500000001,-36.80241],[174.98702599999999,-36.801912]]],"type":"Polygon"}
+}

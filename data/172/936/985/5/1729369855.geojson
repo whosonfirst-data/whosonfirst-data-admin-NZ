@@ -1,0 +1,60 @@
+{
+  "id": 1729369855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":67554.508603,
+    "geom:bbox":"166.581246,-45.980003,166.587468,-45.977699",
+    "geom:latitude":-45.97893,
+    "geom:longitude":166.584302,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.978813,
+    "lbl:longitude":166.584349,
+    "mps:latitude":-45.978813,
+    "mps:longitude":166.584349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Watering Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888783,
+    "wof:geomhash":"f2fb933ecb50b856c88ed7ce30abaf19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369855,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729369855,
+    "wof:lastmodified":1603142909,
+    "wof:name":"Watering Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.581246,
+    -45.980003,
+    166.587468,
+    -45.977699
+],
+  "geometry": {"coordinates":[[[166.58124599999999,-45.97821],[166.58475899999999,-45.977699],[166.587468,-45.980003],[166.58663000000001,-45.97998],[166.585688,-45.979862],[166.58513199999999,-45.97991],[166.58378099999999,-45.979836],[166.58307199999999,-45.979674],[166.58288400000001,-45.979472],[166.582686,-45.979359],[166.5821,-45.979248],[166.58190200000001,-45.979136],[166.58185399999999,-45.978987],[166.58199400000001,-45.978611],[166.582008,-45.978488],[166.58175900000001,-45.978249],[166.581683,-45.978199],[166.58124599999999,-45.97821]]],"type":"Polygon"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1729341781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":31062.259365,
+    "geom:bbox":"174.517229,-35.83027,174.519726,-35.828316",
+    "geom:latitude":-35.829363,
+    "geom:longitude":174.518582,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.829393,
+    "lbl:longitude":174.518605,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.829393,
+    "mps:longitude":174.518605,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "High Island"
+    ],
+    "name:deu_x_preferred":[
+        "High Island"
+    ],
+    "name:eng_x_preferred":[
+        "High Island"
+    ],
+    "name:epo_x_preferred":[
+        "High Island"
+    ],
+    "name:por_x_preferred":[
+        "High Island"
+    ],
+    "name:swe_x_preferred":[
+        "High Island"
+    ],
+    "nz-linz:name":"High Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4365
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622610,
+    "wof:geomhash":"40ad65f1f174a43438c7b7ebf5d6a882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341781,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341781,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229865,
+    "wof:name":"High Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.517229,
+    -35.83027,
+    174.519726,
+    -35.828316
+],
+  "geometry": {"coordinates":[[[174.51904999999999,-35.830243],[174.51880199999999,-35.83027],[174.518384,-35.830188],[174.517989,-35.82997],[174.517571,-35.829844],[174.51731699999999,-35.829668],[174.51722899999999,-35.829535],[174.517607,-35.829211],[174.51784599999999,-35.828869],[174.51802599999999,-35.828437],[174.51827299999999,-35.828319],[174.518439,-35.828316],[174.519227,-35.828774],[174.519567,-35.829015],[174.519712,-35.829237],[174.51972599999999,-35.829733],[174.51953900000001,-35.82994],[174.51931999999999,-35.830012],[174.51904999999999,-35.830243]]],"type":"Polygon"}
+}

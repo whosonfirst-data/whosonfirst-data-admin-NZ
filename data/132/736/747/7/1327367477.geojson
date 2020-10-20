@@ -27,8 +27,9 @@
     "lbl:bbox":"175.51946,-39.22063,175.55946,-39.18063",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +43,7 @@
         "gn:id":6225087
     },
     "wof:country":"NZ",
-    "wof:geomhash":"517da318bb3776065e7bd755d245b6c7",
+    "wof:geomhash":"8d12c72eeff86a374525bf51e9756625",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,15 @@
         }
     ],
     "wof:id":1327367477,
-    "wof:lastmodified":1566672074,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603150092,
     "wof:name":"Whakapapa Village",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.53946000000005,
+    175.53946,
     -39.20063,
-    175.53946000000005,
+    175.53946,
     -39.20063
 ],
-  "geometry": {"coordinates":[175.53946000000005,-39.20063],"type":"Point"}
+  "geometry": {"coordinates":[175.53945999999999,-39.20063],"type":"Point"}
 }

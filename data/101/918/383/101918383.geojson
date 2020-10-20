@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":12017.571365,
-    "geom:bbox":"176.93847932,-39.5930240514,176.93997608,-39.5913473985",
-    "geom:latitude":-39.592135,
+    "geom:area_square_m":12022.273091,
+    "geom:bbox":"176.938479,-39.593024,176.939976,-39.591347",
+    "geom:latitude":-39.592134,
     "geom:longitude":176.93932,
     "iso:country":"NZ",
     "lbl:latitude":-39.592066,
     "lbl:longitude":176.939305,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.592066,
     "mps:longitude":176.939305,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Clive"
     ],
@@ -49,7 +53,7 @@
         "wk:page":"Clive, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f5d919cda9eda3f2279a58c135561c6e",
+    "wof:geomhash":"d163e057eb99b053f12c24fc967c50ca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +64,15 @@
         }
     ],
     "wof:id":101918383,
-    "wof:lastmodified":1527715672,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148700,
     "wof:name":"Clive",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",
@@ -72,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    176.93847932002598,
-    -39.5930240514042,
-    176.93997607962612,
-    -39.59134739851049
+    176.938479,
+    -39.593024,
+    176.939976,
+    -39.591347
 ],
-  "geometry": {"coordinates":[[[176.93927895918483,-39.59134739851049],[176.93997607962612,-39.59226837838951],[176.93978536928489,-39.59292259766841],[176.93956043826498,-39.5930240514042],[176.939295582852,-39.59274156629086],[176.93847932002598,-39.59168593251717],[176.93927895918483,-39.59134739851049]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[176.939279,-39.591347],[176.939976,-39.592268],[176.939785,-39.592923],[176.93956,-39.593024],[176.93929600000001,-39.592742],[176.938479,-39.591686],[176.939279,-39.591347]]],"type":"Polygon"}
 }

@@ -1,0 +1,80 @@
+{
+  "id": 1729342205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1952.240304,
+    "geom:bbox":"174.819996,-36.939022,174.820523,-36.938479",
+    "geom:latitude":-36.938744,
+    "geom:longitude":174.820254,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.938744,
+    "lbl:longitude":174.820249,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.938744,
+    "mps:longitude":174.820249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Ngarango Otainui Island"
+    ],
+    "name:eng_x_preferred":[
+        "Ngarango Otainui Island"
+    ],
+    "nz-linz:name":"Ngarango Otainui Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4723
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622792,
+    "wof:geomhash":"889a4b86fa757072abeeb62f0e15639c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729342205,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729342205,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229572,
+    "wof:name":"Ngarango Otainui Island",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.819996,
+    -36.939022,
+    174.820523,
+    -36.938479
+],
+  "geometry": {"coordinates":[[[174.819996,-36.938867],[174.82007200000001,-36.938595],[174.82023799999999,-36.938479],[174.820435,-36.938499],[174.82052300000001,-36.938677],[174.82033699999999,-36.938996],[174.82014100000001,-36.939022],[174.819996,-36.938867]]],"type":"Polygon"}
+}

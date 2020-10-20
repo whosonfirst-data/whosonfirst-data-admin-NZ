@@ -1,0 +1,84 @@
+{
+  "id": 1729342139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":31453.55746,
+    "geom:bbox":"174.370954,-35.38725,174.373512,-35.384664",
+    "geom:latitude":-35.385878,
+    "geom:longitude":174.372111,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.385767,
+    "lbl:longitude":174.372024,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.385767,
+    "mps:longitude":174.372024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Henry Island"
+    ],
+    "name:eng_x_preferred":[
+        "Henry Island"
+    ],
+    "name:mri_x_preferred":[
+        "Motutara Island"
+    ],
+    "name:swe_x_preferred":[
+        "Henry Island"
+    ],
+    "nz-linz:name":"Motutara Island (Henry Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4656
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622766,
+    "wof:geomhash":"e68902665bf49e9726c80d1b2862ca0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342139,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342139,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229783,
+    "wof:name":"Henry Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.370954,
+    -35.38725,
+    174.373512,
+    -35.384664
+],
+  "geometry": {"coordinates":[[[174.371386,-35.387212],[174.37128000000001,-35.38725],[174.37103099999999,-35.387198],[174.37095400000001,-35.387104],[174.370969,-35.386845],[174.37102100000001,-35.386682],[174.37122099999999,-35.386423],[174.371261,-35.386316],[174.37125399999999,-35.386136],[174.37124600000001,-35.38586],[174.371287,-35.38572],[174.37136899999999,-35.385569],[174.37146999999999,-35.385424],[174.37187299999999,-35.38511],[174.37212600000001,-35.385062],[174.37226100000001,-35.385019],[174.372309,-35.384912],[174.37230600000001,-35.384774],[174.37239199999999,-35.384664],[174.372839,-35.384881],[174.372951,-35.384923],[174.37315599999999,-35.38483],[174.37331599999999,-35.384923],[174.37350799999999,-35.385493],[174.37351200000001,-35.385624],[174.37337500000001,-35.385702],[174.37313800000001,-35.385641],[174.372973,-35.385644],[174.37279100000001,-35.385749],[174.37259800000001,-35.386075],[174.372163,-35.386503],[174.372118,-35.386892],[174.37170399999999,-35.387002],[174.371554,-35.387048],[174.371386,-35.387212]]],"type":"Polygon"}
+}

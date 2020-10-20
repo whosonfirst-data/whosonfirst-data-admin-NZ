@@ -27,8 +27,9 @@
     "lbl:bbox":"176.85667,-39.43306,176.89667,-39.39306",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Petane"
@@ -53,9 +54,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687189,
+        102191583,
+        1729238511,
+        85633345,
         102079331
     ],
     "wof:breaches":[],
@@ -69,14 +71,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079331,
+            "localadmin_id":1729238511,
             "locality_id":1226273667,
             "region_id":85687189
         }
     ],
     "wof:id":1226273667,
-    "wof:lastmodified":1566672682,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149564,
     "wof:name":"Petane",
-    "wof:parent_id":102079331,
+    "wof:parent_id":1729238511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

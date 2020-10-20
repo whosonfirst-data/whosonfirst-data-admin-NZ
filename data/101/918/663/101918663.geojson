@@ -5,18 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4135.886545,
-    "geom:bbox":"171.749027528,-43.882619353,171.750360774,-43.8817084356",
+    "geom:area_square_m":4137.681955,
+    "geom:bbox":"171.749028,-43.882619,171.750361,-43.881708",
     "geom:latitude":-43.882162,
     "geom:longitude":171.749693,
     "gn:population":30100,
     "iso:country":"NZ",
     "lbl:latitude":-43.882194,
     "lbl:longitude":171.749657,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-43.882194,
     "mps:longitude":171.749657,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ashburton"
     ],
@@ -38,9 +41,10 @@
     "wd:longitude":171.745556,
     "wd:wordcount":1429,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687179,
+        102191583,
+        1729238451,
+        85633345,
         102079371
     ],
     "wof:breaches":[],
@@ -53,20 +57,29 @@
         "wk:page":"Ashburton, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cc9480113f86e1410d914dc04b38b3e0",
+    "wof:geomhash":"9c8e1f964e16173decabac5d5398e426",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079371,
+            "localadmin_id":1729238451,
             "locality_id":101918663,
             "region_id":85687179
         }
     ],
     "wof:id":101918663,
-    "wof:lastmodified":1527715677,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148845,
     "wof:name":"Ashburton",
-    "wof:parent_id":102079371,
+    "wof:parent_id":1729238451,
     "wof:placetype":"locality",
     "wof:population":30100,
     "wof:population_rank":7,
@@ -78,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    171.74902752805568,
-    -43.88261935302142,
-    171.75036077410707,
-    -43.88170843564455
+    171.749028,
+    -43.882619,
+    171.750361,
+    -43.881708
 ],
-  "geometry": {"coordinates":[[[171.75036077410707,-43.88191588770517],[171.74940165565042,-43.88261935302142],[171.74902752805568,-43.8823692975806],[171.75003322523906,-43.88170843564455],[171.75036077410707,-43.88191588770517]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[171.750361,-43.881916],[171.749402,-43.882619],[171.74902800000001,-43.882369],[171.750033,-43.881708],[171.750361,-43.881916]]],"type":"Polygon"}
 }

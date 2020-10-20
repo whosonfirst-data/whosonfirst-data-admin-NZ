@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":7303.850459,
-    "geom:bbox":"174.282486996,-35.5906713046,174.283104849,-35.5892643437",
+    "geom:area_square_m":7309.039576,
+    "geom:bbox":"174.282487,-35.590671,174.283105,-35.589264",
     "geom:latitude":-35.589955,
     "geom:longitude":174.282814,
     "iso:country":"NZ",
     "lbl:latitude":-35.589962,
     "lbl:longitude":174.282811,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.589962,
     "mps:longitude":174.282811,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hikurangi"
     ],
@@ -34,9 +38,10 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":662,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687149,
+        102191583,
+        1729238611,
+        85633345,
         102079257
     ],
     "wof:breaches":[],
@@ -47,20 +52,29 @@
         "wk:page":"Hikurangi"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"32f33586667e7a0482971a9f8ff7ca18",
+    "wof:geomhash":"8f79801d946b7f88045742fe67ddbc8e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079257,
+            "localadmin_id":1729238611,
             "locality_id":101915491,
             "region_id":85687149
         }
     ],
     "wof:id":101915491,
-    "wof:lastmodified":1527643132,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603147458,
     "wof:name":"Hikurangi",
-    "wof:parent_id":102079257,
+    "wof:parent_id":1729238611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[
@@ -70,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.28248699593806,
-    -35.59067130462236,
-    174.2831048492125,
-    -35.58926434372866
+    174.282487,
+    -35.590671,
+    174.283105,
+    -35.589264
 ],
-  "geometry": {"coordinates":[[[174.28260545731865,-35.58926693828207],[174.28309311404195,-35.58926434372866],[174.28310484921249,-35.58982209811582],[174.28301952152162,-35.59067130462236],[174.28248699593806,-35.59057803023751],[174.28260545731865,-35.58926693828207]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[174.28260499999999,-35.589267],[174.28309300000001,-35.589264],[174.28310500000001,-35.589822],[174.28301999999999,-35.590671],[174.282487,-35.590578],[174.28260499999999,-35.589267]]],"type":"Polygon"}
 }

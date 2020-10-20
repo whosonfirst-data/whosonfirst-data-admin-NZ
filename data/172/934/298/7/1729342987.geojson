@@ -1,0 +1,70 @@
+{
+  "id": 1729342987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":375.866452,
+    "geom:bbox":"174.845655,-36.447881,174.846099,-36.447333",
+    "geom:latitude":-36.447506,
+    "geom:longitude":174.845939,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.447446,
+    "lbl:longitude":174.845986,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.447446,
+    "mps:longitude":174.845986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Twins"
+    ],
+    "nz-linz:name":"Twins",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602623109,
+    "wof:geomhash":"108f8a9433c7fb2c2d305712ee17a4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342987,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729342987,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146912,
+    "wof:name":"Twins",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.845655,
+    -36.447881,
+    174.846099,
+    -36.447333
+],
+  "geometry": {"coordinates":[[[[174.84607199999999,-36.447479],[174.846003,-36.44756],[174.84590299999999,-36.447527],[174.845899,-36.447333],[174.84609900000001,-36.447387],[174.84607199999999,-36.447479]]],[[[174.84576200000001,-36.447836],[174.84565499999999,-36.447881],[174.84570600000001,-36.447744],[174.84576200000001,-36.447836]]]],"type":"MultiPolygon"}
+}

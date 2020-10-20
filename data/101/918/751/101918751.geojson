@@ -5,18 +5,22 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":8402.278624,
-    "geom:bbox":"173.20703437,-41.3409217095,173.208938048,-41.3396335414",
-    "geom:latitude":-41.34028,
+    "geom:area_square_m":8397.785966,
+    "geom:bbox":"173.207034,-41.340922,173.208938,-41.339634",
+    "geom:latitude":-41.340281,
     "geom:longitude":173.207991,
     "geonames:id":"2183472,6242630",
     "iso:country":"NZ",
     "lbl:latitude":-41.340286,
     "lbl:longitude":173.207984,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.340286,
     "mps:longitude":173.207984,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Richmond"
     ],
@@ -34,28 +38,38 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687219,
+        102191583,
+        1729238447,
+        85633345,
         102079349
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NZ",
-    "wof:geomhash":"72418b861b0c6e64cc5571161c00579d",
+    "wof:geomhash":"8f2f9b6410d3a19765b01d035ae7f5c2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079349,
+            "localadmin_id":1729238447,
             "locality_id":101918751,
             "region_id":85687219
         }
     ],
     "wof:id":101918751,
-    "wof:lastmodified":1487270017,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148879,
     "wof:name":"Richmond",
-    "wof:parent_id":102079349,
+    "wof:parent_id":1729238447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[
@@ -65,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.20703436961242,
-    -41.34092170945532,
-    173.2089380476536,
-    -41.33963354144121
+    173.207034,
+    -41.340922,
+    173.208938,
+    -41.339634
 ],
-  "geometry": {"coordinates":[[[173.20759600962822,-41.34083032549583],[173.20745004569386,-41.34092170945532],[173.20703436961242,-41.34057404652186],[173.20854958379311,-41.33963354144121],[173.20893804765359,-41.33998998168435],[173.20893792854159,-41.33999007197757],[173.20759600962822,-41.34083032549583]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[173.207596,-41.34083],[173.20744999999999,-41.340922],[173.20703399999999,-41.340574],[173.20855,-41.339634],[173.20893799999999,-41.33999],[173.20893799999999,-41.33999],[173.207596,-41.34083]]],"type":"Polygon"}
 }

@@ -1,0 +1,75 @@
+{
+  "id": 1729342241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":740.481151,
+    "geom:bbox":"174.737871,-35.48975,174.738284,-35.489498",
+    "geom:latitude":-35.489628,
+    "geom:longitude":174.73808,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.48962,
+    "lbl:longitude":174.73808,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.48962,
+    "mps:longitude":174.73808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Ngoio Rock"
+    ],
+    "nz-linz:name":"Ngoio Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4727
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622807,
+    "wof:geomhash":"f9f2cc1bc416d7ee119ff855ea706b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342241,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342241,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146472,
+    "wof:name":"Ngoio Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.737871,
+    -35.48975,
+    174.738284,
+    -35.489498
+],
+  "geometry": {"coordinates":[[[174.738282,-35.489562],[174.73828399999999,-35.489652],[174.738066,-35.489746],[174.73790099999999,-35.48975],[174.73787100000001,-35.489638],[174.73805899999999,-35.489498],[174.738226,-35.489518],[174.738282,-35.489562]]],"type":"Polygon"}
+}

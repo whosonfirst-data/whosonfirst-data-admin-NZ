@@ -1,0 +1,93 @@
+{
+  "id": 1729339997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3466.45794,
+    "geom:bbox":"175.184265,-36.803812,175.185273,-36.80331",
+    "geom:latitude":-36.803538,
+    "geom:longitude":175.184749,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.803533,
+    "lbl:longitude":175.184739,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.803533,
+    "mps:longitude":175.184739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0644 \u0641\u0631\u064a\u0646\u062a\u0634\u0645\u0627\u0646\u0633 \u0643\u0627\u067e"
+    ],
+    "name:ceb_x_preferred":[
+        "Frenchmans Cap"
+    ],
+    "name:deu_x_preferred":[
+        "Frenchmans Cap"
+    ],
+    "name:eng_x_preferred":[
+        "Frenchmans Cap"
+    ],
+    "name:pol_x_preferred":[
+        "Frenchmans Cap"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0435\u043d\u0447\u043c\u0435\u043d\u0441-\u041a\u044d\u043f"
+    ],
+    "name:swe_x_preferred":[
+        "Frenchmans Cap"
+    ],
+    "nz-linz:name":"Frenchmans Cap",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4311
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621847,
+    "wof:geomhash":"d4235329ec6e002ca8c1dd837e2c36f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729339997,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729339997,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229904,
+    "wof:name":"Frenchmans Cap",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.184265,
+    -36.803812,
+    175.185273,
+    -36.80331
+],
+  "geometry": {"coordinates":[[[175.18446599999999,-36.803373],[175.184707,-36.80331],[175.18508499999999,-36.803314],[175.18518499999999,-36.803368],[175.185273,-36.803502],[175.18521999999999,-36.803593],[175.18462299999999,-36.803796],[175.18441300000001,-36.803812],[175.18426500000001,-36.803566],[175.184428,-36.803383],[175.18446599999999,-36.803373]]],"type":"Polygon"}
+}

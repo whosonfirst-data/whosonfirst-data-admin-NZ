@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.6548075,-37.0937555,174.6548075,-37.0937555",
+    "geom:bbox":"174.654808,-37.093756,174.654808,-37.093756",
     "geom:latitude":-37.093756,
     "geom:longitude":174.654808,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":174.654808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497298899,
-    "wof:geomhash":"77f107dd282e5813e44fce80c936b618",
+    "wof:geomhash":"2e7cf5a936aff6ac3af986304df2b288",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,15 @@
         }
     ],
     "wof:id":1125987833,
-    "wof:lastmodified":1566672609,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149320,
     "wof:name":"Kauritutahi",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",
@@ -77,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.6548075,
-    -37.0937555,
-    174.6548075,
-    -37.0937555
+    174.654808,
+    -37.093756,
+    174.654808,
+    -37.093756
 ],
-  "geometry": {"coordinates":[174.6548075,-37.0937555],"type":"Point"}
+  "geometry": {"coordinates":[174.654808,-37.093756],"type":"Point"}
 }

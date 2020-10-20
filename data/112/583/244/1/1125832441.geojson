@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"171.2847085,-43.634986,171.2847085,-43.634986",
+    "geom:bbox":"171.284708,-43.634986,171.284708,-43.634986",
     "geom:latitude":-43.634986,
     "geom:longitude":171.284708,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":171.284708,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497292558,
-    "wof:geomhash":"de5f7375f52d9b1e6c0506b2f86e05b2",
+    "wof:geomhash":"0aa5f5730fa7b2df6b76c80fff452b16",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,15 @@
         }
     ],
     "wof:id":1125832441,
-    "wof:lastmodified":1566672653,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149006,
     "wof:name":"Mount Possession",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",
@@ -77,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    171.2847085,
+    171.284708,
     -43.634986,
-    171.2847085,
+    171.284708,
     -43.634986
 ],
-  "geometry": {"coordinates":[171.28470849999999,-43.634986],"type":"Point"}
+  "geometry": {"coordinates":[171.28470799999999,-43.634986],"type":"Point"}
 }

@@ -1,0 +1,75 @@
+{
+  "id": 1729340795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1062.523111,
+    "geom:bbox":"174.849865,-37.945667,174.850461,-37.945396",
+    "geom:latitude":-37.945545,
+    "geom:longitude":174.85017,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.945535,
+    "lbl:longitude":174.850176,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.945535,
+    "mps:longitude":174.850176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Karetoto Island"
+    ],
+    "nz-linz:name":"Karetoto Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4422
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622171,
+    "wof:geomhash":"d49297af728db60b1bdd6b52dc623827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340795,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729340795,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145534,
+    "wof:name":"Karetoto Island",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.849865,
+    -37.945667,
+    174.850461,
+    -37.945396
+],
+  "geometry": {"coordinates":[[[174.84986499999999,-37.94558],[174.850033,-37.945442],[174.85020299999999,-37.945396],[174.850346,-37.945439],[174.850461,-37.945527],[174.85032200000001,-37.945665],[174.85009400000001,-37.945667],[174.849951,-37.945646],[174.84986499999999,-37.94558]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729341487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":443.284354,
+    "geom:bbox":"174.564447,-35.715602,174.564751,-35.7154",
+    "geom:latitude":-35.715504,
+    "geom:longitude":174.564617,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.715504,
+    "lbl:longitude":174.564617,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.715504,
+    "mps:longitude":174.564617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Glucina Rock"
+    ],
+    "nz-linz:name":"Glucina Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4320
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622465,
+    "wof:geomhash":"54c8fe5c5a20ec249417517539cec75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341487,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341487,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146027,
+    "wof:name":"Glucina Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.564447,
+    -35.715602,
+    174.564751,
+    -35.7154
+],
+  "geometry": {"coordinates":[[[174.56455399999999,-35.7154],[174.56472099999999,-35.715419],[174.564751,-35.715531],[174.56472600000001,-35.715599],[174.56458799999999,-35.715602],[174.564447,-35.715515],[174.56455399999999,-35.7154]]],"type":"Polygon"}
+}

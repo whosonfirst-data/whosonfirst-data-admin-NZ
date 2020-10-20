@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":5352.150982,
-    "geom:bbox":"174.274386655,-39.5401341273,174.274807837,-39.5382953701",
+    "geom:area_square_m":5348.11395,
+    "geom:bbox":"174.274387,-39.540134,174.274808,-39.538295",
     "geom:latitude":-39.539218,
     "geom:longitude":174.274593,
     "iso:country":"NZ",
     "lbl:latitude":-39.539223,
     "lbl:longitude":174.274594,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-39.539223,
     "mps:longitude":174.274594,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Normanby"
     ],
@@ -40,9 +44,10 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":323,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687195,
+        102191583,
+        1729238475,
+        85633345,
         102079295
     ],
     "wof:breaches":[],
@@ -54,23 +59,29 @@
         "wk:page":"Normanby, Taranaki"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"77979cdc5a15b6319546fd582aef19c1",
+    "wof:geomhash":"83c67470d7e3f43d2acdddb9e42ea775",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079295,
+            "localadmin_id":1729238475,
             "locality_id":101914527,
             "region_id":85687195
         }
     ],
     "wof:id":101914527,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1527688586,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603147137,
     "wof:name":"Normanby",
-    "wof:parent_id":102079295,
+    "wof:parent_id":1729238475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[
@@ -80,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.2743866550506,
-    -39.54013412730232,
-    174.27480783747083,
-    -39.53829537011951
+    174.274387,
+    -39.540134,
+    174.274808,
+    -39.538295
 ],
-  "geometry": {"coordinates":[[[174.27438665505059,-39.53829767178959],[174.27446995244361,-39.53829708347032],[174.27468365985919,-39.53829537011951],[174.27469965127605,-39.53851852225367],[174.27472020917327,-39.53881054159562],[174.27480783747083,-39.54010945864304],[174.27449286572516,-39.54013412730232],[174.27438665505059,-39.53829767178959]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[174.27438699999999,-39.538298],[174.27447000000001,-39.538297],[174.27468400000001,-39.538295],[174.2747,-39.538519],[174.27472,-39.538811],[174.27480800000001,-39.540109],[174.27449300000001,-39.540134],[174.27438699999999,-39.538298]]],"type":"Polygon"}
 }

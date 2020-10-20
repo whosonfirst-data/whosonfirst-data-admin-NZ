@@ -27,8 +27,9 @@
     "lbl:bbox":"177.89667,-38.55333,177.93667,-38.51333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +43,7 @@
         "gn:id":2189196
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2f6c451f58130037fa58e9933c7bb111",
+    "wof:geomhash":"858fd1ac4b53c1aa0373c71de8cbd22b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,15 @@
         }
     ],
     "wof:id":1226783435,
-    "wof:lastmodified":1566672691,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149598,
     "wof:name":"Kaitaratahi",
     "wof:parent_id":102079325,
     "wof:placetype":"locality",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    177.91666999999995,
+    177.91667,
     -38.53333,
-    177.91666999999995,
+    177.91667,
     -38.53333
 ],
-  "geometry": {"coordinates":[177.91666999999995,-38.53333],"type":"Point"}
+  "geometry": {"coordinates":[177.91667000000001,-38.53333],"type":"Point"}
 }

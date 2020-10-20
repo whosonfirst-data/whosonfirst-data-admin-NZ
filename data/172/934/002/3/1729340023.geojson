@@ -1,0 +1,108 @@
+{
+  "id": 1729340023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1234.330528,
+    "geom:bbox":"174.119681,-35.268133,174.120079,-35.267709",
+    "geom:latitude":-35.26792,
+    "geom:longitude":174.119873,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.26791,
+    "lbl:longitude":174.11987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.26791,
+    "mps:longitude":174.11987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Mill Island"
+    ],
+    "name:deu_x_preferred":[
+        "Mill-Insel"
+    ],
+    "name:eng_x_preferred":[
+        "Mill Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Mill"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Mill"
+    ],
+    "name:ita_x_preferred":[
+        "Isola Mill"
+    ],
+    "name:lav_x_preferred":[
+        "Milla sala"
+    ],
+    "name:mri_x_preferred":[
+        "Kaiaraara Island"
+    ],
+    "name:nno_x_preferred":[
+        "Mill Island"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Mill"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u723e\u5cf6"
+    ],
+    "nz-linz:name":"Kaiaraara Island (Mill Island)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4405
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621858,
+    "wof:geomhash":"416e1de2bc1f342b1cbf5aff9b0a8f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340023,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340023,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229819,
+    "wof:name":"Mill Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.119681,
+    -35.268133,
+    174.120079,
+    -35.267709
+],
+  "geometry": {"coordinates":[[[174.11996400000001,-35.268127],[174.119742,-35.268133],[174.11968100000001,-35.267839],[174.11985200000001,-35.267709],[174.12001900000001,-35.26774],[174.120079,-35.2678],[174.11996400000001,-35.268127]]],"type":"Polygon"}
+}

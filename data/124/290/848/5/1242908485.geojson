@@ -27,8 +27,9 @@
     "lbl:bbox":"172.34667,-43.70333,172.38667,-43.66333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ellesmere"
@@ -44,6 +45,9 @@
     ],
     "name:ind_x_preferred":[
         "Ellesmere"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uc988\ubbf8\uc5b4"
     ],
     "name:nld_x_preferred":[
         "Ellesmere"
@@ -63,12 +67,15 @@
     "name:rus_x_preferred":[
         "\u042d\u043b\u0441\u043c\u0438\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Ellesmere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
         85633345,
-        85687179,
-        102079369
+        102079369,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +93,15 @@
         }
     ],
     "wof:id":1242908485,
-    "wof:lastmodified":1566672665,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230740,
     "wof:name":"Ellesmere",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

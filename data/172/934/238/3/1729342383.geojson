@@ -1,0 +1,75 @@
+{
+  "id": 1729342383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4103.69314,
+    "geom:bbox":"173.990818,-35.202202,173.991842,-35.201556",
+    "geom:latitude":-35.201905,
+    "geom:longitude":173.991296,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.20184,
+    "lbl:longitude":173.991184,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.20184,
+    "mps:longitude":173.991184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Pirikawau Island"
+    ],
+    "nz-linz:name":"Pirikawau Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4818
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622864,
+    "wof:geomhash":"fc6888befed18a897de3e21f9499913a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342383,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342383,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146554,
+    "wof:name":"Pirikawau Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.990818,
+    -35.202202,
+    173.991842,
+    -35.201556
+],
+  "geometry": {"coordinates":[[[173.99184199999999,-35.20211],[173.99170699999999,-35.202202],[173.99104600000001,-35.202101],[173.99082200000001,-35.201946],[173.99081799999999,-35.201788],[173.99111400000001,-35.201558],[173.991252,-35.201556],[173.991784,-35.201975],[173.99184199999999,-35.20211]]],"type":"Polygon"}
+}

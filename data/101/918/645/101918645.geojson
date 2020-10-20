@@ -5,18 +5,22 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3616.502686,
-    "geom:bbox":"170.145305909,-45.0265606978,170.146232526,-45.0258125401",
+    "geom:area_square_m":3615.516953,
+    "geom:bbox":"170.145306,-45.026561,170.146233,-45.025813",
     "geom:latitude":-45.026183,
     "geom:longitude":170.145757,
     "gn:population":120,
     "iso:country":"NZ",
     "lbl:latitude":-45.026165,
     "lbl:longitude":170.145694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":-45.026165,
     "mps:longitude":170.145694,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Naseby"
     ],
@@ -47,7 +51,7 @@
         "gp:id":28644445
     },
     "wof:country":"NZ",
-    "wof:geomhash":"667abe5400f16dc07541e14f9144f026",
+    "wof:geomhash":"2e28a730b0978b1da853d90f8fc5ce5e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +62,15 @@
         }
     ],
     "wof:id":101918645,
-    "wof:lastmodified":1505338688,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148837,
     "wof:name":"Naseby",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",
@@ -72,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    170.14530590887014,
-    -45.02656069775105,
-    170.1462325259711,
-    -45.02581254006853
+    170.145306,
+    -45.026561,
+    170.146233,
+    -45.025813
 ],
-  "geometry": {"coordinates":[[[170.1460127816143,-45.02656069775105],[170.14578216903411,-45.02647224273927],[170.14577595116157,-45.02646938367947],[170.14530590887014,-45.0263174603488],[170.14546242053424,-45.02581254006853],[170.1462325259711,-45.02606090705754],[170.1460127816143,-45.02656069775105]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[170.14601300000001,-45.026561],[170.145782,-45.026472],[170.14577600000001,-45.026469],[170.14530600000001,-45.026317],[170.14546200000001,-45.025813],[170.146233,-45.026061],[170.14601300000001,-45.026561]]],"type":"Polygon"}
 }

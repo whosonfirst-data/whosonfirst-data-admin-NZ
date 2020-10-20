@@ -27,8 +27,9 @@
     "lbl:bbox":"175.89667,-40.95333,175.93667,-40.91333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +43,7 @@
         "gn:id":2192577
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b62a623cfdd47708d8672770a9dce639",
+    "wof:geomhash":"99dda4067f5b2b89b9148b07d95e96ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,15 @@
         }
     ],
     "wof:id":1326661345,
-    "wof:lastmodified":1566672077,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603150034,
     "wof:name":"Carswells",
     "wof:parent_id":102079343,
     "wof:placetype":"locality",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.91666999999995,
+    175.91667,
     -40.93333,
-    175.91666999999995,
+    175.91667,
     -40.93333
 ],
-  "geometry": {"coordinates":[175.91666999999995,-40.93333],"type":"Point"}
+  "geometry": {"coordinates":[175.91667000000001,-40.93333],"type":"Point"}
 }

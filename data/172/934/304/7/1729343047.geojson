@@ -1,0 +1,107 @@
+{
+  "id": 1729343047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":42473.795522,
+    "geom:bbox":"173.356756,-34.782841,173.360257,-34.779138",
+    "geom:latitude":-34.781046,
+    "geom:longitude":173.358598,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.781284,
+    "lbl:longitude":173.358479,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.781284,
+    "mps:longitude":173.358479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Motutapu Island"
+    ],
+    "name:eng_x_preferred":[
+        "Motutapu Island"
+    ],
+    "name:fin_x_preferred":[
+        "Motutapu"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Motutapu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e2\u10e3\u10e2\u10d0\u10de\u10e3"
+    ],
+    "name:mri_x_preferred":[
+        "Motutapu"
+    ],
+    "name:nno_x_preferred":[
+        "Motutapu Island"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspa Motutapu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0442\u0443\u0442\u0430\u043f\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Motutapu"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5716\u5854\u666e\u5cf6"
+    ],
+    "nz-linz:name":"Motutapu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079255,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":8916
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623134,
+    "wof:geomhash":"f3c46e37e6b56d3745920bbf00f948b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729343047,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729343047,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229713,
+    "wof:name":"Motutapu Island",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.356756,
+    -34.782841,
+    173.360257,
+    -34.779138
+],
+  "geometry": {"coordinates":[[[173.358948,-34.78284],[173.35889399999999,-34.782841],[173.35881000000001,-34.782774],[173.35875200000001,-34.782549],[173.358611,-34.782347],[173.35786300000001,-34.781771],[173.35772299999999,-34.781591],[173.35747499999999,-34.781459],[173.357494,-34.781054],[173.357843,-34.780643],[173.35783900000001,-34.780463],[173.35778099999999,-34.780261],[173.357575,-34.779978],[173.35730699999999,-34.77977],[173.35689600000001,-34.77964],[173.35675599999999,-34.779484],[173.357159,-34.779141],[173.35735099999999,-34.779138],[173.357461,-34.779182],[173.357573,-34.779339],[173.35763499999999,-34.779721],[173.35776999999999,-34.779935],[173.35819100000001,-34.780233],[173.35855100000001,-34.780544],[173.358799,-34.780655],[173.35904600000001,-34.780696],[173.35915499999999,-34.78065],[173.35955999999999,-34.780396],[173.359837,-34.78041],[173.360231,-34.780915],[173.36025699999999,-34.781155],[173.36020400000001,-34.781223],[173.35979900000001,-34.781567],[173.35933700000001,-34.781662],[173.359149,-34.781868],[173.35893100000001,-34.781938],[173.35893300000001,-34.782051],[173.35907700000001,-34.782432],[173.358948,-34.78284]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729340027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1036.833849,
+    "geom:bbox":"174.659342,-37.092084,174.659818,-37.091722",
+    "geom:latitude":-37.091912,
+    "geom:longitude":174.659563,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.0919,
+    "lbl:longitude":174.659563,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.0919,
+    "mps:longitude":174.659563,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kauritutahi Island"
+    ],
+    "nz-linz:name":"Kauritutahi Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4424
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621859,
+    "wof:geomhash":"d0d56a870dcc3cb1a7e9969ca35dd4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340027,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729340027,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603144995,
+    "wof:name":"Kauritutahi Island",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.659342,
+    -37.092084,
+    174.659818,
+    -37.091722
+],
+  "geometry": {"coordinates":[[[174.65934200000001,-37.091996],[174.659367,-37.091883],[174.65947700000001,-37.091769],[174.659616,-37.091722],[174.659818,-37.091922],[174.65970799999999,-37.092014],[174.65948399999999,-37.092084],[174.65934200000001,-37.091996]]],"type":"Polygon"}
+}

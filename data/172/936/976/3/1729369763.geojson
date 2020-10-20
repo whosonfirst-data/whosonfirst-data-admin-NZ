@@ -1,0 +1,60 @@
+{
+  "id": 1729369763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":411677.084577,
+    "geom:bbox":"174.945736,-36.823591,174.955556,-36.815473",
+    "geom:latitude":-36.819648,
+    "geom:longitude":174.950679,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.819709,
+    "lbl:longitude":174.950679,
+    "mps:latitude":-36.819709,
+    "mps:longitude":174.950679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Ohinerau Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888748,
+    "wof:geomhash":"a83e873804651e591cd9b809cded9e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369763,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369763,
+    "wof:lastmodified":1603142864,
+    "wof:name":"Ohinerau Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.945736,
+    -36.823591,
+    174.955556,
+    -36.815473
+],
+  "geometry": {"coordinates":[[[174.94573600000001,-36.821825],[174.94579100000001,-36.821801],[174.94592800000001,-36.821686],[174.94627500000001,-36.821117],[174.946494,-36.820909],[174.94784100000001,-36.819014],[174.94931299999999,-36.816643],[174.94975099999999,-36.816252],[174.951111,-36.815798],[174.95157699999999,-36.815473],[174.955556,-36.818725],[174.95056,-36.823591],[174.94573600000001,-36.821825]]],"type":"Polygon"}
+}

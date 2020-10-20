@@ -19,8 +19,8 @@
     "mps:latitude":-37.123283,
     "mps:longitude":175.533608,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -64,6 +64,7 @@
         85687229,
         102191583,
         85633345,
+        101914305,
         102079261
     ],
     "wof:breaches":[],
@@ -74,8 +75,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"dbc50d2b07c118d613300cb144ba14ea",
     "wof:hierarchy":[
@@ -83,18 +84,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079261,
-            "locality_id":-1,
+            "locality_id":101914305,
             "neighbourhood_id":85781305,
             "region_id":85687229
         }
     ],
     "wof:id":85781305,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316527,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210226,
     "wof:name":"Thames North",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914305,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -18,8 +18,8 @@
     "mps:latitude":-41.209343,
     "mps:longitude":174.915449,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -28,6 +28,9 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:ara_x_preferred":[
+        "\u0644\u0648\u0631 \u0647\u0648\u062a"
+    ],
+    "name:arz_x_preferred":[
         "\u0644\u0648\u0631 \u0647\u0648\u062a"
     ],
     "name:cat_x_preferred":[
@@ -53,6 +56,9 @@
     ],
     "name:gla_x_preferred":[
         "Lower Hutt"
+    ],
+    "name:ind_x_preferred":[
+        "Hutt Bawah"
     ],
     "name:ita_x_preferred":[
         "Lower Hutt"
@@ -105,8 +111,14 @@
     "name:swe_x_preferred":[
         "Lower Hutt"
     ],
+    "name:szl_x_preferred":[
+        "Lower Hutt"
+    ],
     "name:tat_x_preferred":[
         "\u041b\u043e\u0432\u0435\u0440-\u04ba\u0430\u0442\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0432\u0435\u0440-\u0413\u0430\u0442\u0442"
     ],
     "name:vol_x_preferred":[
         "Lower Hutt"
@@ -144,10 +156,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687233,
         102191583,
         85633345,
-        102079337
+        102079337,
+        1729238533,
+        1729339033,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -165,18 +179,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079337,
-            "locality_id":-1,
+            "localadmin_id":1729238533,
+            "locality_id":1729339033,
             "neighbourhood_id":85782435,
             "region_id":85687233
         }
     ],
     "wof:id":85782435,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229339,
     "wof:name":"Lower Hutt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729339033,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

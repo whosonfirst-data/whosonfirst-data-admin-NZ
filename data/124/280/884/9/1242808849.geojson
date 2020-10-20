@@ -27,8 +27,9 @@
     "lbl:bbox":"172.64667,-41.72,172.68667,-41.68",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +43,7 @@
         "gn:id":2189727
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a76a2570bce0b232e43c40b8c0b6ccf9",
+    "wof:geomhash":"2f60887d711dd309c566d026ae684ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,15 @@
         }
     ],
     "wof:id":1242808849,
-    "wof:lastmodified":1566672659,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149616,
     "wof:name":"Howard Junction",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    172.66666999999995,
+    172.66667,
     -41.7,
-    172.66666999999995,
+    172.66667,
     -41.7
 ],
-  "geometry": {"coordinates":[172.66666999999995,-41.7],"type":"Point"}
+  "geometry": {"coordinates":[172.66667000000001,-41.7],"type":"Point"}
 }

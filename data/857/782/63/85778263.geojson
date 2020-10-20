@@ -18,8 +18,8 @@
     "mps:latitude":-45.866061,
     "mps:longitude":170.520221,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -62,10 +62,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":819,
     "wof:belongsto":[
-        85687201,
         102191583,
+        1729238495,
         85633345,
-        102079387
+        1729338931,
+        102079387,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,18 +85,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
-            "locality_id":-1,
+            "localadmin_id":1729238495,
+            "locality_id":1729338931,
             "neighbourhood_id":85778263,
             "region_id":85687201
         }
     ],
     "wof:id":85778263,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316522,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210278,
     "wof:name":"Dunedin North",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338931,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

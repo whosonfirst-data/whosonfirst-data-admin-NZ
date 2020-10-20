@@ -1,0 +1,75 @@
+{
+  "id": 1729342493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6714.446645,
+    "geom:bbox":"174.953926,-36.726446,174.954981,-36.725271",
+    "geom:latitude":-36.725867,
+    "geom:longitude":174.954383,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.725864,
+    "lbl:longitude":174.954375,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.725864,
+    "mps:longitude":174.954375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Sandy Bay Island"
+    ],
+    "nz-linz:name":"Sandy Bay Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4911
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622907,
+    "wof:geomhash":"59e7dabceba79db7581fe7d8a2232883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342493,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729342493,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146629,
+    "wof:name":"Sandy Bay Island",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.953926,
+    -36.726446,
+    174.954981,
+    -36.725271
+],
+  "geometry": {"coordinates":[[[174.95400699999999,-36.725296],[174.95411799999999,-36.725272],[174.95417399999999,-36.725271],[174.95428799999999,-36.725336],[174.95452,-36.725602],[174.954746,-36.725643],[174.95488900000001,-36.725753],[174.954947,-36.725842],[174.95497900000001,-36.725976],[174.954981,-36.726044],[174.95490100000001,-36.726159],[174.954846,-36.726182],[174.95434,-36.726147],[174.95404099999999,-36.726446],[174.954013,-36.726446],[174.953926,-36.726335],[174.953926,-36.726313],[174.954002,-36.726086],[174.95399900000001,-36.725973],[174.95394099999999,-36.725884],[174.953937,-36.725772],[174.95396400000001,-36.725726],[174.95407399999999,-36.725656],[174.95412999999999,-36.725655],[174.95400699999999,-36.725296]]],"type":"Polygon"}
+}

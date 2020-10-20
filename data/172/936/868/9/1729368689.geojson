@@ -1,0 +1,60 @@
+{
+  "id": 1729368689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":98175.895549,
+    "geom:bbox":"175.472249,-36.744718,175.477096,-36.741692",
+    "geom:latitude":-36.743048,
+    "geom:longitude":175.474756,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.743024,
+    "lbl:longitude":175.474755,
+    "mps:latitude":-36.743024,
+    "mps:longitude":175.474755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Tucks Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888326,
+    "wof:geomhash":"53d7dd109b4568d2c3f9d891cc8310ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368689,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729368689,
+    "wof:lastmodified":1603142335,
+    "wof:name":"Tucks Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.472249,
+    -36.744718,
+    175.477096,
+    -36.741692
+],
+  "geometry": {"coordinates":[[[175.47606300000001,-36.741692],[175.47609499999999,-36.741781],[175.47635600000001,-36.742],[175.476708,-36.742233],[175.47709599999999,-36.742491],[175.476887,-36.743128],[175.476878,-36.743153],[175.47644399999999,-36.744072],[175.476168,-36.744169],[175.47538900000001,-36.744292],[175.47530499999999,-36.744306],[175.474605,-36.744325],[175.47425799999999,-36.744718],[175.47224900000001,-36.743421],[175.47345100000001,-36.741761],[175.47606300000001,-36.741692]]],"type":"Polygon"}
+}

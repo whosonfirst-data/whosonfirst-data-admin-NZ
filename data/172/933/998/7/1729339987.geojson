@@ -1,0 +1,84 @@
+{
+  "id": 1729339987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10795.911745,
+    "geom:bbox":"175.973805,-37.550342,175.974504,-37.547346",
+    "geom:latitude":-37.548941,
+    "geom:longitude":175.974092,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.549007,
+    "lbl:longitude":175.974028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.549007,
+    "mps:longitude":175.974028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Egg Island"
+    ],
+    "name:deu_x_preferred":[
+        "Egg Island"
+    ],
+    "name:eng_x_preferred":[
+        "Egg Island"
+    ],
+    "name:swe_x_preferred":[
+        "Egg Island"
+    ],
+    "nz-linz:name":"Egg Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4286
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621843,
+    "wof:geomhash":"16f7f0c1fcfabbe485f101a7bc890550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729339987,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1729339987,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229883,
+    "wof:name":"Egg Island",
+    "wof:parent_id":85687175,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.973805,
+    -37.550342,
+    175.974504,
+    -37.547346
+],
+  "geometry": {"coordinates":[[[175.974366,-37.547346],[175.97450000000001,-37.547541],[175.974504,-37.547685],[175.97433799999999,-37.548139],[175.97421800000001,-37.548626],[175.97429700000001,-37.549645],[175.97425699999999,-37.549948],[175.97400200000001,-37.550282],[175.973938,-37.550331],[175.97386399999999,-37.550342],[175.97380699999999,-37.550266],[175.973805,-37.549476],[175.97381200000001,-37.548982],[175.97386700000001,-37.548642],[175.97408200000001,-37.547815],[175.974366,-37.547346]]],"type":"Polygon"}
+}

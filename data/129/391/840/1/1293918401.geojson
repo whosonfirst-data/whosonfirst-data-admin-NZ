@@ -27,14 +27,16 @@
     "lbl:bbox":"175.81889,-39.73187,175.85889,-39.69187",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687251,
+        102191583,
+        1729238543,
+        85633345,
         102079301
     ],
     "wof:breaches":[],
@@ -42,20 +44,29 @@
         "gn:id":2185813
     },
     "wof:country":"NZ",
-    "wof:geomhash":"34527e47477e0619a8b9338c34adbd79",
+    "wof:geomhash":"0e5ec1592c1e628651dcdbd9eabf6f76",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079301,
+            "localadmin_id":1729238543,
             "locality_id":1293918401,
             "region_id":85687251
         }
     ],
     "wof:id":1293918401,
-    "wof:lastmodified":1566672307,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149942,
     "wof:name":"Ohotu",
-    "wof:parent_id":102079301,
+    "wof:parent_id":1729238543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
@@ -64,9 +75,9 @@
 },
   "bbox": [
     175.83889,
-    -39.71187000000001,
+    -39.71187,
     175.83889,
-    -39.71187000000001
+    -39.71187
 ],
-  "geometry": {"coordinates":[175.83888999999999,-39.71187000000001],"type":"Point"}
+  "geometry": {"coordinates":[175.83888999999999,-39.71187],"type":"Point"}
 }

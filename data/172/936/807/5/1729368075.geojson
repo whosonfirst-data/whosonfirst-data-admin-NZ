@@ -1,0 +1,60 @@
+{
+  "id": 1729368075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":142922.389098,
+    "geom:bbox":"173.93797,-41.269916,173.943319,-41.266029",
+    "geom:latitude":-41.267984,
+    "geom:longitude":173.940585,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.267991,
+    "lbl:longitude":173.940636,
+    "mps:latitude":-41.267991,
+    "mps:longitude":173.940636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Momorangi Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888073,
+    "wof:geomhash":"e6e5487d67b6fc4e5e4bbc1a9bdeb938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368075,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729368075,
+    "wof:lastmodified":1603142042,
+    "wof:name":"Momorangi Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.93797,
+    -41.269916,
+    173.943319,
+    -41.266029
+],
+  "geometry": {"coordinates":[[[173.943319,-41.267994],[173.94297800000001,-41.268076],[173.942712,-41.268349],[173.942714,-41.268506],[173.94284300000001,-41.269204],[173.94281599999999,-41.269362],[173.94231400000001,-41.269771],[173.94218000000001,-41.269805],[173.94133500000001,-41.269916],[173.94046299999999,-41.269867],[173.940134,-41.269788],[173.939491,-41.269543],[173.938918,-41.269325],[173.93797000000001,-41.268791],[173.938658,-41.266243],[173.941744,-41.266029],[173.943319,-41.267994]]],"type":"Polygon"}
+}

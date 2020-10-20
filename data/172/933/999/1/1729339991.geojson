@@ -1,0 +1,84 @@
+{
+  "id": 1729339991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21253.004383,
+    "geom:bbox":"167.021193,-45.103258,167.023856,-45.101304",
+    "geom:latitude":-45.102155,
+    "geom:longitude":167.022459,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.102102,
+    "lbl:longitude":167.022369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-45.102102,
+    "mps:longitude":167.022369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Entrance Island"
+    ],
+    "name:deu_x_preferred":[
+        "Entrance Island"
+    ],
+    "name:eng_x_preferred":[
+        "Entrance Island"
+    ],
+    "name:swe_x_preferred":[
+        "Entrance Island"
+    ],
+    "nz-linz:name":"Entrance Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4289
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621845,
+    "wof:geomhash":"58f55a09ed093a3553ecd4c2df6ec0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729339991,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729339991,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229904,
+    "wof:name":"Entrance Island",
+    "wof:parent_id":85687211,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.021193,
+    -45.103258,
+    167.023856,
+    -45.101304
+],
+  "geometry": {"coordinates":[[[167.02171100000001,-45.103258],[167.021513,-45.103025],[167.02132900000001,-45.102809],[167.02119300000001,-45.102734],[167.02124000000001,-45.102659],[167.02149,-45.102481],[167.021773,-45.10219],[167.021829,-45.101949],[167.021861,-45.101811],[167.022109,-45.101551],[167.02222699999999,-45.101483],[167.02247600000001,-45.101436],[167.02266399999999,-45.101304],[167.02300399999999,-45.101394],[167.02318099999999,-45.101335],[167.02334400000001,-45.101336],[167.023673,-45.101395],[167.023822,-45.101465],[167.02385599999999,-45.10152],[167.02383599999999,-45.10158],[167.023684,-45.101704],[167.02350000000001,-45.101855],[167.02329700000001,-45.102118],[167.02303699999999,-45.102358],[167.02282099999999,-45.102485],[167.02241799999999,-45.10284],[167.02204699999999,-45.103061],[167.021806,-45.10325],[167.02171100000001,-45.103258]]],"type":"Polygon"}
+}

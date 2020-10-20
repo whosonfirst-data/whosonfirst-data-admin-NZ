@@ -1,0 +1,60 @@
+{
+  "id": 1729366847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":183472.679436,
+    "geom:bbox":"174.111959,-36.259589,174.119296,-36.256054",
+    "geom:latitude":-36.257631,
+    "geom:longitude":174.11591,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.257863,
+    "lbl:longitude":174.116207,
+    "mps:latitude":-36.257863,
+    "mps:longitude":174.116207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Oneroa Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887575,
+    "wof:geomhash":"63edc2df9421cee420e3214bed0e4afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366847,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729366847,
+    "wof:lastmodified":1603141425,
+    "wof:name":"Oneroa Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.111959,
+    -36.259589,
+    174.119296,
+    -36.256054
+],
+  "geometry": {"coordinates":[[[174.11929599999999,-36.25828],[174.11893900000001,-36.258489],[174.11819399999999,-36.259016],[174.11792800000001,-36.259204],[174.11759799999999,-36.259345],[174.11682400000001,-36.25956],[174.116435,-36.259589],[174.11612700000001,-36.25955],[174.115567,-36.259401],[174.11514399999999,-36.259227],[174.114045,-36.258659],[174.11313999999999,-36.25811],[174.11272,-36.257982],[174.11195900000001,-36.257611],[174.11311900000001,-36.256054],[174.118752,-36.256259],[174.11929599999999,-36.25828]]],"type":"Polygon"}
+}

@@ -18,8 +18,8 @@
     "mps:latitude":-36.798193,
     "mps:longitude":174.732678,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":1,
     "mz:is_official":0,
@@ -57,11 +57,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687243,
         102191583,
+        1729238453,
         85633345,
-        101914257,
-        102079403
+        1729338421,
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,18 +80,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":101914257,
+            "localadmin_id":1729238453,
+            "locality_id":1729338421,
             "neighbourhood_id":85778965,
             "region_id":85687243
         }
     ],
     "wof:id":85778965,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316532,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210252,
     "wof:name":"Northcote West",
-    "wof:parent_id":101914257,
+    "wof:parent_id":1729338421,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

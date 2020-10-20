@@ -18,8 +18,8 @@
     "mps:latitude":-38.691351,
     "mps:longitude":178.071293,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -28,6 +28,9 @@
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Wainui Beach"
+    ],
+    "name:eng_x_variant":[
+        "Wainui"
     ],
     "name:nld_x_preferred":[
         "Wainui Beach"
@@ -88,10 +91,15 @@
         }
     ],
     "wof:id":85784657,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316524,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229336,
     "wof:name":"Wainui Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

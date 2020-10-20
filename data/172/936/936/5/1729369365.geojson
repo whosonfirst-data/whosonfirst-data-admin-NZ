@@ -1,0 +1,60 @@
+{
+  "id": 1729369365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":205963.98369,
+    "geom:bbox":"175.164962,-36.781726,175.171999,-36.777515",
+    "geom:latitude":-36.779495,
+    "geom:longitude":175.168675,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.779734,
+    "lbl:longitude":175.16896,
+    "mps:latitude":-36.779734,
+    "mps:longitude":175.16896,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Opopo Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888592,
+    "wof:geomhash":"5b580ae2a0e7f3b11cc110f1dfe4b39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369365,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369365,
+    "wof:lastmodified":1603142672,
+    "wof:name":"Opopo Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.164962,
+    -36.781726,
+    175.171999,
+    -36.777515
+],
+  "geometry": {"coordinates":[[[175.171797,-36.778417],[175.171999,-36.780477],[175.16880599999999,-36.781726],[175.16506200000001,-36.78008],[175.16505699999999,-36.779876],[175.164962,-36.779517],[175.16506899999999,-36.779283],[175.16517400000001,-36.779054],[175.16549699999999,-36.778661],[175.16600199999999,-36.778235],[175.16673299999999,-36.777815],[175.16723400000001,-36.777736],[175.167699,-36.777763],[175.16872699999999,-36.777912],[175.16947200000001,-36.777559],[175.16999000000001,-36.777515],[175.170343,-36.777588],[175.17061200000001,-36.777707],[175.17093299999999,-36.777947],[175.1713,-36.778223],[175.171628,-36.778398],[175.171797,-36.778417]]],"type":"Polygon"}
+}

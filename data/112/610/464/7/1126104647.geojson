@@ -18,7 +18,8 @@
     "lbl:longitude":174.9402,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -51,6 +52,9 @@
     "name:srp_x_preferred":[
         "\u0412\u0438\u043d\u0433\u0435\u0458\u0442"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u0433\u0435\u0439\u0442"
+    ],
     "name:vol_x_preferred":[
         "Wingate"
     ],
@@ -81,10 +85,12 @@
     "woe:name_adm1":"Wellington",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687233,
         102191583,
         85633345,
-        102079337
+        102079337,
+        1729238533,
+        1729337813,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,15 +106,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079337,
-            "locality_id":-1,
+            "localadmin_id":1729238533,
+            "locality_id":1729337813,
             "neighbourhood_id":1126104647,
             "region_id":85687233
         }
     ],
     "wof:id":1126104647,
-    "wof:lastmodified":1566672555,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230482,
     "wof:name":"Wingate",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729337813,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -1,0 +1,60 @@
+{
+  "id": 1729367313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":42462.504573,
+    "geom:bbox":"175.04575,-36.776064,175.049196,-36.774316",
+    "geom:latitude":-36.775122,
+    "geom:longitude":175.047451,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.775231,
+    "lbl:longitude":175.047935,
+    "mps:latitude":-36.775231,
+    "mps:longitude":175.047935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Repo Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887760,
+    "wof:geomhash":"782ac04ebc417b29ed03c57ad3226a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367313,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729367313,
+    "wof:lastmodified":1603141658,
+    "wof:name":"Repo Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.04575,
+    -36.776064,
+    175.049196,
+    -36.774316
+],
+  "geometry": {"coordinates":[[[175.04919599999999,-36.774668],[175.04907299999999,-36.774794],[175.04901899999999,-36.775129],[175.04900799999999,-36.77519],[175.04898900000001,-36.775303],[175.04863900000001,-36.775816],[175.04844800000001,-36.77599],[175.04812999999999,-36.776055],[175.04808600000001,-36.776064],[175.048022,-36.776057],[175.04781800000001,-36.776035],[175.04757799999999,-36.77596],[175.047234,-36.775696],[175.046854,-36.775635],[175.04651899999999,-36.775675],[175.046255,-36.775759],[175.046064,-36.775943],[175.04575,-36.774523],[175.04743999999999,-36.774316],[175.04919599999999,-36.774668]]],"type":"Polygon"}
+}

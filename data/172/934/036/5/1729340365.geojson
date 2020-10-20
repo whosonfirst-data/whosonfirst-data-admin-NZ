@@ -1,0 +1,70 @@
+{
+  "id": 1729340365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2026.337894,
+    "geom:bbox":"173.967266,-40.720394,173.968918,-40.719782",
+    "geom:latitude":-40.720117,
+    "geom:longitude":173.968157,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.720015,
+    "lbl:longitude":173.968712,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-40.720015,
+    "mps:longitude":173.968712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Hapuka Rocks"
+    ],
+    "nz-linz:name":"Hapuka Rocks",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602621993,
+    "wof:geomhash":"6b4d25eb610f081517dd68e13403958e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340365,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729340365,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145212,
+    "wof:name":"Hapuka Rocks",
+    "wof:parent_id":85687185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.967266,
+    -40.720394,
+    173.968918,
+    -40.719782
+],
+  "geometry": {"coordinates":[[[[173.96880300000001,-40.720171],[173.968626,-40.720173],[173.968445,-40.720063],[173.96847199999999,-40.719973],[173.96867800000001,-40.719858],[173.968796,-40.719856],[173.968918,-40.71999],[173.96880300000001,-40.720171]]],[[[173.96759399999999,-40.720369],[173.967387,-40.720394],[173.967298,-40.72035],[173.967266,-40.720305],[173.96744000000001,-40.720122],[173.96758800000001,-40.72012],[173.967648,-40.720165],[173.96759399999999,-40.720369]]],[[[173.96818200000001,-40.720202],[173.96809400000001,-40.720272],[173.96794600000001,-40.720205],[173.96800200000001,-40.72007],[173.96812,-40.720068],[173.96818200000001,-40.720202]]],[[[173.967817,-40.719782],[173.96787900000001,-40.719893],[173.967759,-40.719893],[173.967817,-40.719782]]]],"type":"MultiPolygon"}
+}

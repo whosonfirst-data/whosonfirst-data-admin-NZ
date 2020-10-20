@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3136.612525,
-    "geom:bbox":"175.44740225,-41.220092757,175.448366717,-41.2192900324",
+    "geom:area_square_m":3139.999022,
+    "geom:bbox":"175.447402,-41.220093,175.448367,-41.21929",
     "geom:latitude":-41.219698,
-    "geom:longitude":175.447876,
+    "geom:longitude":175.447877,
     "iso:country":"NZ",
     "lbl:latitude":-41.219735,
     "lbl:longitude":175.447907,
@@ -16,8 +16,9 @@
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.219762,
     "mps:longitude":175.447934,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Martinborough"
@@ -49,7 +50,19 @@
     "name:dan_x_preferred":[
         "Martinborough"
     ],
+    "name:deu_at_x_preferred":[
+        "Martinborough"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Martinborough"
+    ],
     "name:deu_x_preferred":[
+        "Martinborough"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Martinborough"
+    ],
+    "name:eng_gb_x_preferred":[
         "Martinborough"
     ],
     "name:eng_x_preferred":[
@@ -163,6 +176,9 @@
     "name:pol_x_preferred":[
         "Martinborough"
     ],
+    "name:por_br_x_preferred":[
+        "Martinborough"
+    ],
     "name:por_x_preferred":[
         "Martinborough"
     ],
@@ -188,6 +204,9 @@
         "Martinborough"
     ],
     "name:srd_x_preferred":[
+        "Martinborough"
+    ],
+    "name:srp_el_x_preferred":[
         "Martinborough"
     ],
     "name:swa_x_preferred":[
@@ -234,8 +253,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687233,
-        102079347
+        102079347,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,7 +265,7 @@
         "wk:page":"Martinborough"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3ede1c9912f6a1af395526c243f15044",
+    "wof:geomhash":"6b5214746b00597c06173fa8dddeb369",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -257,7 +276,15 @@
         }
     ],
     "wof:id":101918677,
-    "wof:lastmodified":1566672506,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230407,
     "wof:name":"Martinorough",
     "wof:parent_id":102079347,
     "wof:placetype":"locality",
@@ -267,10 +294,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.44740224988075,
-    -41.22009275703125,
-    175.4483667170393,
-    -41.21929003244121
+    175.447402,
+    -41.220093,
+    175.448367,
+    -41.21929
 ],
-  "geometry": {"coordinates":[[[175.44773569476763,-41.21929003244121],[175.44836671703931,-41.21990091789457],[175.44798373206942,-41.22009275703125],[175.44740224988075,-41.21949883841342],[175.44773569476763,-41.21929003244121]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[175.44773599999999,-41.21929],[175.44836699999999,-41.219901],[175.44798399999999,-41.220093],[175.44740200000001,-41.219499],[175.44773599999999,-41.21929]]],"type":"Polygon"}
 }

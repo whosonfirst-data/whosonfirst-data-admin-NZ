@@ -1,0 +1,87 @@
+{
+  "id": 1729342527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7429.067152,
+    "geom:bbox":"168.327771,-46.574846,168.329098,-46.573878",
+    "geom:latitude":-46.574343,
+    "geom:longitude":168.32834,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.574367,
+    "lbl:longitude":168.328273,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.574367,
+    "mps:longitude":168.328273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Seal Rock"
+    ],
+    "name:deu_x_preferred":[
+        "Seal Rock"
+    ],
+    "name:eng_x_preferred":[
+        "Seal Rock"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e4\ub85d"
+    ],
+    "name:swe_x_preferred":[
+        "Seal Rock"
+    ],
+    "nz-linz:name":"Seal Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4919
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622921,
+    "wof:geomhash":"176b15d94b70a81e6da6387463928ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342527,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729342527,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229829,
+    "wof:name":"Seal Rock",
+    "wof:parent_id":85687211,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.327771,
+    -46.574846,
+    168.329098,
+    -46.573878
+],
+  "geometry": {"coordinates":[[[168.327856,-46.574656],[168.32777100000001,-46.574473],[168.327799,-46.574069],[168.32800700000001,-46.573918],[168.32817299999999,-46.573878],[168.328495,-46.573935],[168.32865200000001,-46.57403],[168.328846,-46.574059],[168.32909799999999,-46.574203],[168.32905500000001,-46.574336],[168.328677,-46.574594],[168.32863699999999,-46.574683],[168.32839899999999,-46.574832],[168.328136,-46.574846],[168.327856,-46.574656]]],"type":"Polygon"}
+}

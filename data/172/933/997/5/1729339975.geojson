@@ -1,0 +1,81 @@
+{
+  "id": 1729339975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":119868.835146,
+    "geom:bbox":"166.609493,-45.788485,166.615796,-45.784967",
+    "geom:latitude":-45.78661,
+    "geom:longitude":166.612719,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.786904,
+    "lbl:longitude":166.612404,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-45.786904,
+    "mps:longitude":166.612404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Curlew Island"
+    ],
+    "name:eng_x_preferred":[
+        "Curlew Island"
+    ],
+    "name:swe_x_preferred":[
+        "Curlew Island"
+    ],
+    "nz-linz:name":"Curlew Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4270
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621839,
+    "wof:geomhash":"2e926b7d35eb6009abe269e2d44c5c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729339975,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729339975,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229899,
+    "wof:name":"Curlew Island",
+    "wof:parent_id":85687211,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.609493,
+    -45.788485,
+    166.615796,
+    -45.784967
+],
+  "geometry": {"coordinates":[[[166.615633,-45.785869],[166.61498900000001,-45.786883],[166.614485,-45.787364],[166.61372600000001,-45.787955],[166.613215,-45.788209],[166.61272700000001,-45.788385],[166.61241699999999,-45.788425],[166.61121700000001,-45.788485],[166.610828,-45.788351],[166.610454,-45.787947],[166.61059499999999,-45.787695],[166.61061699999999,-45.787493],[166.610466,-45.786966],[166.61071200000001,-45.786202],[166.61119299999999,-45.785799],[166.61004,-45.786142],[166.60981799999999,-45.786108],[166.60968199999999,-45.786033],[166.60949299999999,-45.785842],[166.60950299999999,-45.785753],[166.61003299999999,-45.78533],[166.610423,-45.785306],[166.61162200000001,-45.785404],[166.61272199999999,-45.785374],[166.61386999999999,-45.785187],[166.61453399999999,-45.785167],[166.61500799999999,-45.784967],[166.61531299999999,-45.784972],[166.615497,-45.785031],[166.61560900000001,-45.785067],[166.615781,-45.785257],[166.61579599999999,-45.785416],[166.615633,-45.785869]]],"type":"Polygon"}
+}

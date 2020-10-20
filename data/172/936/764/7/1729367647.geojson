@@ -1,0 +1,60 @@
+{
+  "id": 1729367647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":35881.188089,
+    "geom:bbox":"175.795407,-36.832471,175.798123,-36.830291",
+    "geom:latitude":-36.831444,
+    "geom:longitude":175.796746,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.831453,
+    "lbl:longitude":175.79672,
+    "mps:latitude":-36.831453,
+    "mps:longitude":175.79672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Gemstone Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887902,
+    "wof:geomhash":"d0b0c4224352c0f73db9fd23f7759114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367647,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729367647,
+    "wof:lastmodified":1603141829,
+    "wof:name":"Gemstone Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.795407,
+    -36.832471,
+    175.798123,
+    -36.830291
+],
+  "geometry": {"coordinates":[[[175.79540700000001,-36.831336],[175.79618099999999,-36.830291],[175.79758899999999,-36.830812],[175.798123,-36.832173],[175.79705899999999,-36.832248],[175.79673,-36.832415],[175.79633999999999,-36.832471],[175.796167,-36.832374],[175.79589999999999,-36.832032],[175.79579799999999,-36.831607],[175.795535,-36.831366],[175.79540700000001,-36.831336]]],"type":"Polygon"}
+}

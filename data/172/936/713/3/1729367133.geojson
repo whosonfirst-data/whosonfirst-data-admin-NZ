@@ -1,0 +1,60 @@
+{
+  "id": 1729367133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":62190.464697,
+    "geom:bbox":"175.386591,-36.256563,175.390232,-36.254242",
+    "geom:latitude":-36.25539,
+    "geom:longitude":175.3885,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.255299,
+    "lbl:longitude":175.388465,
+    "mps:latitude":-36.255299,
+    "mps:longitude":175.388465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Long Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887690,
+    "wof:geomhash":"5dc9adccae084e8825c55851f416dd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367133,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729367133,
+    "wof:lastmodified":1603141570,
+    "wof:name":"Long Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.386591,
+    -36.256563,
+    175.390232,
+    -36.254242
+],
+  "geometry": {"coordinates":[[[175.38659100000001,-36.25512],[175.386922,-36.255045],[175.38727600000001,-36.254856],[175.38768099999999,-36.254508],[175.38798199999999,-36.254343],[175.388396,-36.254242],[175.388869,-36.254253],[175.389096,-36.254337],[175.38988000000001,-36.254453],[175.39013800000001,-36.25465],[175.39014599999999,-36.254875],[175.390232,-36.25494],[175.39015000000001,-36.256099],[175.38708800000001,-36.256563],[175.38659100000001,-36.25512]]],"type":"Polygon"}
+}

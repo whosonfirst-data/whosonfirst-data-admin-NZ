@@ -1,0 +1,75 @@
+{
+  "id": 1729342641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1115.675029,
+    "geom:bbox":"174.217416,-35.244356,174.217876,-35.243924",
+    "geom:latitude":-35.244138,
+    "geom:longitude":174.217634,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.244149,
+    "lbl:longitude":174.217618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.244149,
+    "mps:longitude":174.217618,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Te Korowhiti Rock"
+    ],
+    "nz-linz:name":"Te Korowhiti Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5002
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622968,
+    "wof:geomhash":"05f61cc7bdf8304e07902175d4705647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342641,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342641,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146713,
+    "wof:name":"Te Korowhiti Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.217416,
+    -35.244356,
+    174.217876,
+    -35.243924
+],
+  "geometry": {"coordinates":[[[174.21752799999999,-35.244356],[174.21741599999999,-35.244269],[174.21743900000001,-35.244132],[174.21770799999999,-35.243924],[174.21781799999999,-35.243945],[174.21787599999999,-35.244011],[174.21766400000001,-35.244309],[174.21752799999999,-35.244356]]],"type":"Polygon"}
+}

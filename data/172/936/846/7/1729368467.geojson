@@ -1,0 +1,60 @@
+{
+  "id": 1729368467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":178744.438516,
+    "geom:bbox":"173.117851,-35.178847,173.123946,-35.174477",
+    "geom:latitude":-35.176878,
+    "geom:longitude":173.121216,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.176944,
+    "lbl:longitude":173.121274,
+    "mps:latitude":-35.176944,
+    "mps:longitude":173.121274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Shipwreck Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888231,
+    "wof:geomhash":"a20208db70af1a6c36fc3491470dd55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368467,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729368467,
+    "wof:lastmodified":1603142228,
+    "wof:name":"Shipwreck Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.117851,
+    -35.178847,
+    173.123946,
+    -35.174477
+],
+  "geometry": {"coordinates":[[[173.12394599999999,-35.178146],[173.12378100000001,-35.178168],[173.12339700000001,-35.178326],[173.122657,-35.178688],[173.12205399999999,-35.178847],[173.121724,-35.178847],[173.12137100000001,-35.178807],[173.12092799999999,-35.17869],[173.12018599999999,-35.178579],[173.11958300000001,-35.178376],[173.11895100000001,-35.178085],[173.11837399999999,-35.177612],[173.11793399999999,-35.177185],[173.117851,-35.176959],[173.11796000000001,-35.176712],[173.11818,-35.176463],[173.11831699999999,-35.17617],[173.118289,-35.176057],[173.12324899999999,-35.174477],[173.12394599999999,-35.178146]]],"type":"Polygon"}
+}

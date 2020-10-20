@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-09-22",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":8136.440041,
-    "geom:bbox":"174.002456128,-35.4001292268,174.004252139,-35.399171037",
+    "geom:area_square_m":8136.168567,
+    "geom:bbox":"174.002456,-35.400129,174.004252,-35.399171",
     "geom:latitude":-35.399652,
     "geom:longitude":174.003353,
     "iso:country":"NZ",
@@ -16,8 +17,9 @@
     "lbl:min_zoom":13.5,
     "mps:latitude":-35.399664,
     "mps:longitude":174.003313,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Otiria"
@@ -62,7 +64,7 @@
         "wk:page":"Otiria"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"64fffcce7f927105ec947ac0853a6b1a",
+    "wof:geomhash":"354af7c65ea28bd35062da194ce05f60",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +75,15 @@
         }
     ],
     "wof:id":101918839,
-    "wof:lastmodified":1566672508,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148918,
     "wof:name":"Otiria",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",
@@ -83,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.00245612799958,
-    -35.40012922675212,
-    174.0042521392483,
-    -35.39917103704796
+    174.002456,
+    -35.400129,
+    174.004252,
+    -35.399171
 ],
-  "geometry": {"coordinates":[[[174.00425213924831,-35.39961665849406],[174.00265795158558,-35.40012922675212],[174.00245612799958,-35.39971538911909],[174.00259188055793,-35.39964998231239],[174.00403027531166,-35.39917103704796],[174.00425213924831,-35.39961665849406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[174.00425200000001,-35.399617],[174.002658,-35.400129],[174.002456,-35.399715],[174.00259199999999,-35.39965],[174.00403,-35.399171],[174.00425200000001,-35.399617]]],"type":"Polygon"}
 }

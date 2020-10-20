@@ -1,0 +1,84 @@
+{
+  "id": 1729341533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2865.772081,
+    "geom:bbox":"175.108697,-35.902678,175.10938,-35.901962",
+    "geom:latitude":-35.902287,
+    "geom:longitude":175.109084,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.902273,
+    "lbl:longitude":175.109089,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.902273,
+    "mps:longitude":175.109089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Bird Rock"
+    ],
+    "name:deu_x_preferred":[
+        "Bird Rock"
+    ],
+    "name:eng_x_preferred":[
+        "Bird Rock"
+    ],
+    "name:swe_x_preferred":[
+        "Bird Rock"
+    ],
+    "nz-linz:name":"Bird Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4188
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622489,
+    "wof:geomhash":"0e0b7aef07e50af38b83213c726b2a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341533,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729341533,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229706,
+    "wof:name":"Bird Rock",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.108697,
+    -35.902678,
+    175.10938,
+    -35.901962
+],
+  "geometry": {"coordinates":[[[175.10883200000001,-35.901965],[175.10899800000001,-35.901962],[175.10936699999999,-35.902224],[175.10937999999999,-35.902607],[175.10929899999999,-35.902677],[175.109216,-35.902678],[175.108757,-35.902215],[175.10869700000001,-35.902059],[175.10883200000001,-35.901965]]],"type":"Polygon"}
+}

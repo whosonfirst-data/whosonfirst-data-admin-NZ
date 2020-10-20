@@ -1,0 +1,60 @@
+{
+  "id": 1729367363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":191798.633013,
+    "geom:bbox":"172.994168,-40.794626,173.002393,-40.790772",
+    "geom:latitude":-40.792555,
+    "geom:longitude":172.998265,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.792756,
+    "lbl:longitude":172.998598,
+    "mps:latitude":-40.792756,
+    "mps:longitude":172.998598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Anatakapau Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687219
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887782,
+    "wof:geomhash":"c801514870e78668f87db1b628eb0ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367363,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":1729367363,
+    "wof:lastmodified":1603141682,
+    "wof:name":"Anatakapau Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.994168,
+    -40.794626,
+    173.002393,
+    -40.790772
+],
+  "geometry": {"coordinates":[[[173.00239300000001,-40.79346],[172.999942,-40.794504],[172.999854,-40.794457],[172.99964800000001,-40.794454],[172.999154,-40.794603],[172.99907899999999,-40.794626],[172.998786,-40.794621],[172.99866399999999,-40.794619],[172.99813399999999,-40.7945],[172.99745799999999,-40.794242],[172.995938,-40.79339],[172.99580900000001,-40.793318],[172.99556000000001,-40.793089],[172.99524600000001,-40.792611],[172.994731,-40.791906],[172.994325,-40.791265],[172.994168,-40.790772],[172.99996200000001,-40.79095],[173.00239300000001,-40.79346]]],"type":"Polygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1729342671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26319.560637,
+    "geom:bbox":"175.412541,-36.470969,175.41457,-36.469137",
+    "geom:latitude":-36.470106,
+    "geom:longitude":175.413603,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.470108,
+    "lbl:longitude":175.413482,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.470108,
+    "mps:longitude":175.413482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "The Pinnacles"
+    ],
+    "name:deu_x_preferred":[
+        "The Pinnacles"
+    ],
+    "name:eng_x_preferred":[
+        "The Pinnacles"
+    ],
+    "name:swe_x_preferred":[
+        "The Pinnacles"
+    ],
+    "nz-linz:name":"The Pinnacles",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079261,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5028
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622980,
+    "wof:geomhash":"d6e15584115622f20ac715c7aae601a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1729342671,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729342671,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229636,
+    "wof:name":"The Pinnacles",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.412541,
+    -36.470969,
+    175.41457,
+    -36.469137
+],
+  "geometry": {"coordinates":[[[175.41288,-36.470705],[175.41282699999999,-36.470626],[175.412724,-36.470546],[175.41257899999999,-36.470307],[175.412541,-36.47006],[175.412646,-36.469877],[175.41308000000001,-36.469551],[175.41326000000001,-36.469141],[175.4134,-36.469137],[175.413769,-36.469286],[175.41435300000001,-36.469248],[175.414411,-36.469292],[175.41433799999999,-36.469588],[175.41437199999999,-36.469722],[175.41451699999999,-36.469876],[175.41449299999999,-36.469966],[175.41414,-36.470246],[175.41422700000001,-36.470334],[175.41442499999999,-36.470375],[175.41457,-36.470551],[175.41452100000001,-36.47071],[175.41435899999999,-36.470872],[175.414085,-36.470969],[175.41383500000001,-36.470951],[175.41358500000001,-36.470941],[175.4134,-36.47092],[175.41288,-36.470705]]],"type":"Polygon"}
+}

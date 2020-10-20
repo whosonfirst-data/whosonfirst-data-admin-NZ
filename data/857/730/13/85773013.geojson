@@ -19,8 +19,8 @@
     "mps:latitude":-41.153134,
     "mps:longitude":174.833751,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -63,6 +63,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e0\u05d3\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Linden"
     ],
     "name:ita_x_preferred":[
         "Linden"
@@ -138,10 +141,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687233,
         102191583,
         85633345,
-        102079339
+        102079339,
+        1729238583,
+        101914575,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,8 +156,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"b2132649c3f6246d746e1273525ae661",
     "wof:hierarchy":[
@@ -160,18 +165,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
-            "locality_id":-1,
+            "localadmin_id":1729238583,
+            "locality_id":101914575,
             "neighbourhood_id":85773013,
             "region_id":85687233
         }
     ],
     "wof:id":85773013,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316516,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229315,
     "wof:name":"Linden",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914575,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

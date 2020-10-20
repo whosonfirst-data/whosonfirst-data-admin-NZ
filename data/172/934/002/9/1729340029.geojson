@@ -1,0 +1,77 @@
+{
+  "id": 1729340029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6286.886348,
+    "geom:bbox":"174.43637,-36.887035,174.437434,-36.886158",
+    "geom:latitude":-36.886664,
+    "geom:longitude":174.436948,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.886668,
+    "lbl:longitude":174.436948,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.886668,
+    "mps:longitude":174.436948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kauwahaia Island"
+    ],
+    "nz-linz:name":"Kauwahaia Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4425
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621860,
+    "wof:geomhash":"93cfe8421d806f3c11b1ee8e9edd3e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729340029,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729340029,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603144998,
+    "wof:name":"Kauwahaia Island",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.43637,
+    -36.887035,
+    174.437434,
+    -36.886158
+],
+  "geometry": {"coordinates":[[[174.437431,-36.886706],[174.437434,-36.886864],[174.43740700000001,-36.886909],[174.43727000000001,-36.887002],[174.437186,-36.887026],[174.437004,-36.887029],[174.43682799999999,-36.887032],[174.43656999999999,-36.887035],[174.43637000000001,-36.886925],[174.436587,-36.886607],[174.436667,-36.88638],[174.436813,-36.886176],[174.436848,-36.886158],[174.437139,-36.886238],[174.437196,-36.88626],[174.43728100000001,-36.886326],[174.43731199999999,-36.886393],[174.43731500000001,-36.886528],[174.43733599999999,-36.886561],[174.437431,-36.886706]]],"type":"Polygon"}
+}

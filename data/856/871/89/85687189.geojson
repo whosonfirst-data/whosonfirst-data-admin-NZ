@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.239036,
-    "geom:area_square_m":21380663355.256676,
+    "geom:area_square_m":21380662793.444153,
     "geom:bbox":"176.042936,-40.493139,178.263069,-38.583921",
     "geom:latitude":-39.441351,
     "geom:longitude":176.963822,
@@ -57,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "Hawke's Bay Region"
+    ],
+    "name:epo_x_preferred":[
+        "Hawke's Bay Regiono"
     ],
     "name:eus_x_preferred":[
         "Hawke's Bay eskualdea"
@@ -115,6 +118,9 @@
     "name:mri_x_preferred":[
         "Heretaunga"
     ],
+    "name:mri_x_variant":[
+        "Te Matau-a-M\u0101ui"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Hawke's Bay"
     ],
@@ -171,6 +177,18 @@
     ],
     "name:zea_x_preferred":[
         "Hawke's Bay"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u970d\u514b\u6e7e\u5927\u533a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8c6a\u514b\u65af\u7063\u5730\u5340"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u970d\u514b\u6e7e\u5927\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c6a\u514b\u65af\u7063\u5730\u5340"
     ],
     "name:zho_x_preferred":[
         "\u970d\u514b\u6e7e\u5927\u533a"
@@ -230,7 +248,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1583882908,
+    "wof:lastmodified":1603229383,
     "wof:name":"Hawke's Bay Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

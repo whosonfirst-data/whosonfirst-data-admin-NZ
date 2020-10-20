@@ -1,0 +1,60 @@
+{
+  "id": 1729369043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":49805.7135,
+    "geom:bbox":"174.897957,-36.605168,174.901223,-36.602285",
+    "geom:latitude":-36.603729,
+    "geom:longitude":174.899466,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.603688,
+    "lbl:longitude":174.899441,
+    "mps:latitude":-36.603688,
+    "mps:longitude":174.899441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Chinaman Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888465,
+    "wof:geomhash":"c4ecddbe818f1f265b3e410a5d8782e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369043,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369043,
+    "wof:lastmodified":1603142513,
+    "wof:name":"Chinaman Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.897957,
+    -36.605168,
+    174.901223,
+    -36.602285
+],
+  "geometry": {"coordinates":[[[174.89933199999999,-36.602285],[174.90122299999999,-36.603577],[174.89944299999999,-36.605168],[174.89941400000001,-36.605124],[174.899271,-36.605014],[174.89895899999999,-36.604884],[174.89890299999999,-36.604885],[174.898762,-36.604842],[174.89868999999999,-36.604745],[174.89864299999999,-36.604574],[174.89861300000001,-36.604507],[174.89855499999999,-36.60444],[174.898383,-36.604309],[174.89818500000001,-36.604223],[174.89812900000001,-36.604224],[174.897986,-36.604113],[174.89795699999999,-36.604069],[174.89800500000001,-36.603753],[174.89859799999999,-36.602998],[174.898729,-36.602725],[174.89911499999999,-36.602537],[174.89927900000001,-36.602399],[174.89933199999999,-36.602285]]],"type":"Polygon"}
+}

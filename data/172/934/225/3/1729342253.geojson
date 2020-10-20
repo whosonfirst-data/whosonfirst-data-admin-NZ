@@ -1,0 +1,75 @@
+{
+  "id": 1729342253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":24489.361761,
+    "geom:bbox":"173.155884,-34.756433,173.157849,-34.754097",
+    "geom:latitude":-34.755197,
+    "geom:longitude":173.156817,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.755227,
+    "lbl:longitude":173.156832,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.755227,
+    "mps:longitude":173.156832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Terakautuhaka Island"
+    ],
+    "nz-linz:name":"Terakautuhaka Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5017
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622812,
+    "wof:geomhash":"be74357330e467f8280aef1349ea253f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342253,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342253,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146480,
+    "wof:name":"Terakautuhaka Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.155884,
+    -34.756433,
+    173.157849,
+    -34.754097
+],
+  "geometry": {"coordinates":[[[173.15763200000001,-34.756433],[173.157275,-34.756234],[173.157082,-34.75619],[173.15685999999999,-34.755899],[173.15642,-34.755609],[173.15628000000001,-34.755597],[173.156001,-34.75532],[173.15588600000001,-34.754441],[173.15588399999999,-34.754261],[173.15596400000001,-34.754171],[173.15607499999999,-34.754192],[173.15616199999999,-34.754264],[173.156228,-34.754425],[173.156227,-34.754428],[173.15621999999999,-34.754452],[173.15635399999999,-34.754708],[173.156464,-34.754797],[173.15654599999999,-34.754797],[173.15657200000001,-34.754684],[173.15624700000001,-34.754332],[173.156285,-34.754262],[173.156373,-34.7541],[173.15664599999999,-34.754097],[173.15719799999999,-34.754453],[173.15720099999999,-34.754768],[173.15759499999999,-34.75569],[173.15781699999999,-34.755958],[173.157849,-34.756296],[173.15763200000001,-34.756433]]],"type":"Polygon"}
+}

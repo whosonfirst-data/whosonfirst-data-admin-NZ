@@ -1,0 +1,75 @@
+{
+  "id": 1729341371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3202.41044,
+    "geom:bbox":"174.527274,-35.861135,174.528102,-35.860544",
+    "geom:latitude":-35.860811,
+    "geom:longitude":174.527677,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.860834,
+    "lbl:longitude":174.527643,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.860834,
+    "mps:longitude":174.527643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Frenchman Island"
+    ],
+    "nz-linz:name":"Frenchman Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4308
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622415,
+    "wof:geomhash":"13aac528f46a5aa592510055857e6890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341371,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341371,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145956,
+    "wof:name":"Frenchman Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.527274,
+    -35.861135,
+    174.528102,
+    -35.860544
+],
+  "geometry": {"coordinates":[[[174.52810199999999,-35.860721],[174.527849,-35.861004],[174.52775299999999,-35.861111],[174.52769799999999,-35.861135],[174.52741800000001,-35.861028],[174.52730500000001,-35.86094],[174.52727400000001,-35.860828],[174.52735300000001,-35.860691],[174.52765299999999,-35.86055],[174.52793,-35.860544],[174.52807200000001,-35.860654],[174.52810199999999,-35.860721]]],"type":"Polygon"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1729369199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":84577.700945,
+    "geom:bbox":"174.760644,-35.893113,174.765028,-35.890518",
+    "geom:latitude":-35.891868,
+    "geom:longitude":174.762719,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.891816,
+    "lbl:longitude":174.762719,
+    "mps:latitude":-35.891816,
+    "mps:longitude":174.762719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Koarea Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888528,
+    "wof:geomhash":"78b6fd113240c0241f92a5921a2e3587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369199,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729369199,
+    "wof:lastmodified":1603142589,
+    "wof:name":"Koarea Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.760644,
+    -35.893113,
+    174.765028,
+    -35.890518
+],
+  "geometry": {"coordinates":[[[174.761765,-35.890518],[174.76315299999999,-35.890627],[174.76337699999999,-35.890691],[174.763519,-35.890801],[174.76405,-35.890971],[174.76433399999999,-35.891192],[174.76456400000001,-35.89148],[174.76478800000001,-35.891589],[174.76482100000001,-35.891745],[174.76502199999999,-35.89199],[174.765028,-35.892215],[174.764951,-35.892442],[174.76333099999999,-35.893113],[174.760806,-35.892812],[174.76080300000001,-35.892699],[174.76064400000001,-35.891982],[174.76071400000001,-35.891551],[174.761011,-35.891299],[174.76111499999999,-35.891004],[174.76124899999999,-35.890888],[174.76152300000001,-35.890771],[174.761765,-35.890518]]],"type":"Polygon"}
+}

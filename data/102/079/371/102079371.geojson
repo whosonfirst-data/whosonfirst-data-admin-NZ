@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.690784,
-    "geom:area_square_m":6180433482.579296,
+    "geom:area_square_m":6180433709.652459,
     "geom:bbox":"170.597255,-44.189369,172.194938,-43.095693",
     "geom:latitude":-43.650126,
     "geom:longitude":171.400743,
@@ -27,6 +27,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Ashburton District"
+    ],
+    "name:deu_x_preferred":[
+        "Ashburton District"
+    ],
     "name:eng_x_preferred":[
         "Ashburton District"
     ],
@@ -81,7 +87,15 @@
         }
     ],
     "wof:id":102079371,
-    "wof:lastmodified":1583950786,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229233,
     "wof:name":"Ashburton District",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

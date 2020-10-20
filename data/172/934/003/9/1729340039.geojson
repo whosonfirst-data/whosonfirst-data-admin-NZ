@@ -1,0 +1,77 @@
+{
+  "id": 1729340039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6659.586143,
+    "geom:bbox":"174.197985,-35.230803,174.199264,-35.229976",
+    "geom:latitude":-35.230394,
+    "geom:longitude":174.19861,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.230392,
+    "lbl:longitude":174.19861,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.230392,
+    "mps:longitude":174.19861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kuiamokimoki Island"
+    ],
+    "nz-linz:name":"Kuiamokimoki Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4440
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621864,
+    "wof:geomhash":"39c29db1bc8a1af4c5ee34e2932e4a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729340039,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340039,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145002,
+    "wof:name":"Kuiamokimoki Island",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.197985,
+    -35.230803,
+    174.199264,
+    -35.229976
+],
+  "geometry": {"coordinates":[[[174.199028,-35.230803],[174.19876099999999,-35.23079],[174.19844599999999,-35.230659],[174.19812400000001,-35.230478],[174.19798499999999,-35.230248],[174.19804199999999,-35.230074],[174.19828100000001,-35.229976],[174.198488,-35.229993],[174.19885400000001,-35.230184],[174.199003,-35.23027],[174.19922600000001,-35.230464],[174.199264,-35.230596],[174.199028,-35.230803]]],"type":"Polygon"}
+}

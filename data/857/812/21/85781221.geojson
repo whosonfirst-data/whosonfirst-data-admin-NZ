@@ -16,6 +16,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-39.081039,
     "lbl:longitude":174.097595,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.083502,
     "mps:longitude":174.098338,
     "mz:hierarchy_label":0,
@@ -66,7 +67,9 @@
     "wof:belongsto":[
         85687195,
         102191583,
+        1729238515,
         85633345,
+        1729338683,
         102079311
     ],
     "wof:breaches":[],
@@ -87,18 +90,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079311,
-            "locality_id":-1,
+            "localadmin_id":1729238515,
+            "locality_id":1729338683,
             "neighbourhood_id":85781221,
             "region_id":85687195
         }
     ],
     "wof:id":85781221,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316525,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200803,
     "wof:name":"Welbourn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

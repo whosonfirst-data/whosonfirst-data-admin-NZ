@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +19,7 @@
     "mps:latitude":-36.918174,
     "mps:longitude":174.89309,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -61,7 +62,9 @@
     "wof:belongsto":[
         85687243,
         102191583,
+        1729238453,
         85633345,
+        1729337745,
         102079403
     ],
     "wof:breaches":[],
@@ -80,21 +83,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "localadmin_id":1729238453,
+            "locality_id":1729337745,
             "neighbourhood_id":85781291,
             "region_id":85687243
         }
     ],
     "wof:id":85781291,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316525,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200818,
     "wof:name":"Burswood",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729337745,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729337745
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

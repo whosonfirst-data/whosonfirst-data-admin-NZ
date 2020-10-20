@@ -5,18 +5,20 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":10664.860118,
-    "geom:bbox":"176.871157372,-39.629491694,176.872563489,-39.6284738549",
+    "geom:area_square_m":10665.603547,
+    "geom:bbox":"176.871157,-39.629492,176.872563,-39.628474",
     "geom:latitude":-39.629011,
     "geom:longitude":176.871819,
     "gn:population":61696,
     "iso:country":"NZ",
     "lbl:latitude":-39.628995,
     "lbl:longitude":176.871836,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-39.628995,
     "mps:longitude":176.871836,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Hastings"
@@ -145,7 +147,7 @@
         "wk:page":"Hastings, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b2ae932062f3797d1fc8681dc7bf133e",
+    "wof:geomhash":"d71bf89f060b18e2b1acb67b7bb347bb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -156,7 +158,15 @@
         }
     ],
     "wof:id":101918777,
-    "wof:lastmodified":1527715673,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148891,
     "wof:name":"Hastings",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",
@@ -170,10 +180,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    176.87115737236817,
-    -39.6294916939686,
-    176.87256348862692,
-    -39.62847385494311
+    176.871157,
+    -39.629492,
+    176.872563,
+    -39.628474
 ],
-  "geometry": {"coordinates":[[[176.87116449102496,-39.6294916939686],[176.87116373176423,-39.62940455331371],[176.87115737236817,-39.62867461528903],[176.87219564169538,-39.62849745657565],[176.87233395873136,-39.62847385494311],[176.87256348862692,-39.62936593887042],[176.87116449102496,-39.6294916939686]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[176.87116399999999,-39.629492],[176.87116399999999,-39.629405],[176.87115700000001,-39.628675],[176.872196,-39.628497],[176.872334,-39.628474],[176.87256300000001,-39.629366],[176.87116399999999,-39.629492]]],"type":"Polygon"}
 }

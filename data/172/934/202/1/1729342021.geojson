@@ -1,0 +1,75 @@
+{
+  "id": 1729342021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2147.977372,
+    "geom:bbox":"176.438736,-37.626576,176.43927,-37.625927",
+    "geom:latitude":-37.626261,
+    "geom:longitude":176.439013,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.626256,
+    "lbl:longitude":176.439018,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.626256,
+    "mps:longitude":176.439018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Motukahakaha Island"
+    ],
+    "nz-linz:name":"Motukahakaha Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4547
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622716,
+    "wof:geomhash":"0e72ae36a5c28ababa167f2609919491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342021,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1729342021,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146352,
+    "wof:name":"Motukahakaha Island",
+    "wof:parent_id":85687175,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.438736,
+    -37.626576,
+    176.43927,
+    -37.625927
+],
+  "geometry": {"coordinates":[[[176.43877599999999,-37.626093],[176.43873600000001,-37.626045],[176.43887100000001,-37.625927],[176.438985,-37.625946],[176.43910399999999,-37.626031],[176.43926099999999,-37.626319],[176.43926999999999,-37.626454],[176.43916300000001,-37.626548],[176.43902199999999,-37.626576],[176.43884600000001,-37.626469],[176.438827,-37.626154],[176.43877599999999,-37.626093]]],"type":"Polygon"}
+}

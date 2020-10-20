@@ -1,0 +1,60 @@
+{
+  "id": 1729369227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":103674.677792,
+    "geom:bbox":"167.78895,-46.691122,167.793892,-46.687684",
+    "geom:latitude":-46.68929,
+    "geom:longitude":167.79117,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.689468,
+    "lbl:longitude":167.791217,
+    "mps:latitude":-46.689468,
+    "mps:longitude":167.791217,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Long Harry Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888539,
+    "wof:geomhash":"3c3232de0540d669a8467a8df1255773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369227,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729369227,
+    "wof:lastmodified":1603142604,
+    "wof:name":"Long Harry Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.78895,
+    -46.691122,
+    167.793892,
+    -46.687684
+],
+  "geometry": {"coordinates":[[[167.78934599999999,-46.687684],[167.793139,-46.68801],[167.793892,-46.688749],[167.79212999999999,-46.690925],[167.79159100000001,-46.691107],[167.79156399999999,-46.691109],[167.791394,-46.691122],[167.790909,-46.691035],[167.789886,-46.690725],[167.78937999999999,-46.690503],[167.788961,-46.690162],[167.78895900000001,-46.690108],[167.78895,-46.689742],[167.78907699999999,-46.689387],[167.789072,-46.689048],[167.7894,-46.688633],[167.789446,-46.688477],[167.78908100000001,-46.688125],[167.788995,-46.687964],[167.78903600000001,-46.687875],[167.78934599999999,-46.687684]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729341993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1632.876765,
+    "geom:bbox":"173.933543,-35.059521,173.934233,-35.059116",
+    "geom:latitude":-35.059328,
+    "geom:longitude":173.933869,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.059338,
+    "lbl:longitude":173.933864,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.059338,
+    "mps:longitude":173.933864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Motu Otamakupa Island"
+    ],
+    "nz-linz:name":"Motu Otamakupa Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4522
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622705,
+    "wof:geomhash":"8f52bba528d9877385494e32e6e895a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341993,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341993,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146331,
+    "wof:name":"Motu Otamakupa Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.933543,
+    -35.059521,
+    173.934233,
+    -35.059116
+],
+  "geometry": {"coordinates":[[[173.93423300000001,-35.059402],[173.93412599999999,-35.059517],[173.93387999999999,-35.059521],[173.933629,-35.059345],[173.93354299999999,-35.059211],[173.93362300000001,-35.05912],[173.933787,-35.059116],[173.93423300000001,-35.059402]]],"type":"Polygon"}
+}

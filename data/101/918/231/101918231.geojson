@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":9739.725834,
-    "geom:bbox":"175.328644578,-38.8940908279,175.331180918,-38.8929133217",
+    "geom:area_square_m":9746.720582,
+    "geom:bbox":"175.328645,-38.894091,175.331181,-38.892913",
     "geom:latitude":-38.893505,
     "geom:longitude":175.329914,
     "iso:country":"NZ",
     "lbl:latitude":-38.893511,
     "lbl:longitude":175.32993,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.893511,
     "mps:longitude":175.32993,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Manunui"
     ],
@@ -37,9 +41,10 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":292,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687251,
+        102191583,
+        1729238547,
+        85633345,
         102079297
     ],
     "wof:breaches":[],
@@ -51,20 +56,29 @@
         "wk:page":"Manunui"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a771135ac5129d7a562f73d4b2b7262c",
+    "wof:geomhash":"a036e33ec7f52a5a08e563770f180a70",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079297,
+            "localadmin_id":1729238547,
             "locality_id":101918231,
             "region_id":85687251
         }
     ],
     "wof:id":101918231,
-    "wof:lastmodified":1527715676,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148638,
     "wof:name":"Manunui",
-    "wof:parent_id":102079297,
+    "wof:parent_id":1729238547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[
@@ -74,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.3286445777161,
-    -38.89409082786763,
-    175.33118091780952,
-    -38.89291332173246
+    175.328645,
+    -38.894091,
+    175.331181,
+    -38.892913
 ],
-  "geometry": {"coordinates":[[[175.32888147301421,-38.89291332173246],[175.33118091780952,-38.89374130587672],[175.33096079652736,-38.89409082786763],[175.33069508027779,-38.89400504464085],[175.32946304121006,-38.89356389413525],[175.32864457771609,-38.8932649235849],[175.32888147301421,-38.89291332173246]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[175.328881,-38.892913],[175.33118099999999,-38.893741],[175.330961,-38.894091],[175.33069499999999,-38.894005],[175.329463,-38.893564],[175.32864499999999,-38.893265],[175.328881,-38.892913]]],"type":"Polygon"}
 }

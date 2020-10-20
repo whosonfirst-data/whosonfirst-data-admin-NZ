@@ -1,0 +1,77 @@
+{
+  "id": 1729342443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":4949.750911,
+    "geom:bbox":"173.765246,-40.881836,173.766138,-40.880955",
+    "geom:latitude":-40.881451,
+    "geom:longitude":173.765692,
+    "iso:country":"NZ",
+    "lbl:latitude":-40.881503,
+    "lbl:longitude":173.765656,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-40.881503,
+    "mps:longitude":173.765656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Rahuinui Island"
+    ],
+    "nz-linz:name":"Rahuinui Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185,
+        102079353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4865
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622888,
+    "wof:geomhash":"2791f4e609bb533cefa46b67457ba45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":1729342443,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729342443,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146595,
+    "wof:name":"Rahuinui Island",
+    "wof:parent_id":102079353,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.765246,
+    -40.881836,
+    173.766138,
+    -40.880955
+],
+  "geometry": {"coordinates":[[[173.76552100000001,-40.881836],[173.76524900000001,-40.88166],[173.76524599999999,-40.881479],[173.76556299999999,-40.88107],[173.76576800000001,-40.880955],[173.76588799999999,-40.880975],[173.76597899999999,-40.881087],[173.765986,-40.881425],[173.76613800000001,-40.881581],[173.766111,-40.881693],[173.76596499999999,-40.881786],[173.76575800000001,-40.881834],[173.76552100000001,-40.881836]]],"type":"Polygon"}
+}

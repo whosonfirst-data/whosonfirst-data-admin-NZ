@@ -1,0 +1,75 @@
+{
+  "id": 1729341743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":894.155593,
+    "geom:bbox":"168.171056,-46.858316,168.17147,-46.857936",
+    "geom:latitude":-46.858121,
+    "geom:longitude":168.171261,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.858119,
+    "lbl:longitude":168.171265,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.858119,
+    "mps:longitude":168.171265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Fish Rock"
+    ],
+    "nz-linz:name":"Fish Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4300
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622592,
+    "wof:geomhash":"c8a275fadfd9b921647c12e4f2b033a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341743,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729341743,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146186,
+    "wof:name":"Fish Rock",
+    "wof:parent_id":85687211,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.171056,
+    -46.858316,
+    168.17147,
+    -46.857936
+],
+  "geometry": {"coordinates":[[[168.17128099999999,-46.858263],[168.17118300000001,-46.858316],[168.17112599999999,-46.858284],[168.17105599999999,-46.858244],[168.17106799999999,-46.858087],[168.17127600000001,-46.857936],[168.17147,-46.857988],[168.17145600000001,-46.858168],[168.17128099999999,-46.858263]]],"type":"Polygon"}
+}

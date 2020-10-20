@@ -1,0 +1,73 @@
+{
+  "id": 1729342673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1944.544653,
+    "geom:bbox":"175.801431,-36.76208,175.802535,-36.761556",
+    "geom:latitude":-36.761813,
+    "geom:longitude":175.801985,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.761715,
+    "lbl:longitude":175.801651,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.761715,
+    "mps:longitude":175.801651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "The Twins"
+    ],
+    "name:mri_x_preferred":[
+        "Motumanga"
+    ],
+    "nz-linz:name":"The Twins (Motumanga)",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602622981,
+    "wof:geomhash":"d070a21d8bae887312299cfa46477762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342673,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729342673,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146729,
+    "wof:name":"The Twins",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.801431,
+    -36.76208,
+    175.802535,
+    -36.761556
+],
+  "geometry": {"coordinates":[[[[175.801829,-36.761779],[175.80166600000001,-36.761919],[175.80149399999999,-36.761811],[175.80143100000001,-36.761655],[175.80159499999999,-36.761561],[175.80173500000001,-36.761556],[175.801852,-36.761688],[175.801829,-36.761779]]],[[[175.80245600000001,-36.762033],[175.80237399999999,-36.76208],[175.802188,-36.762033],[175.80211399999999,-36.761907],[175.80224799999999,-36.761768],[175.80244300000001,-36.761739],[175.80253500000001,-36.761895],[175.80245600000001,-36.762033]]]],"type":"MultiPolygon"}
+}

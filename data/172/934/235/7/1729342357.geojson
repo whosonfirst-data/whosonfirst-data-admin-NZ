@@ -1,0 +1,89 @@
+{
+  "id": 1729342357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":107345.7577,
+    "geom:bbox":"175.929112,-37.06715,175.934198,-37.062944",
+    "geom:latitude":-37.065196,
+    "geom:longitude":175.931806,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.065209,
+    "lbl:longitude":175.932057,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.065209,
+    "mps:longitude":175.932057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Penguin Island"
+    ],
+    "name:deu_x_preferred":[
+        "Penguin Island"
+    ],
+    "name:eng_x_preferred":[
+        "Penguin Island"
+    ],
+    "name:pol_x_preferred":[
+        "Penguin Island"
+    ],
+    "name:swe_x_preferred":[
+        "Penguin Island"
+    ],
+    "nz-linz:name":"Penguin Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079261,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4799
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622854,
+    "wof:geomhash":"cd84da75056992546ad94504a7f7fbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1729342357,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729342357,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229625,
+    "wof:name":"Penguin Island",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.929112,
+    -37.06715,
+    175.934198,
+    -37.062944
+],
+  "geometry": {"coordinates":[[[175.93409,-37.063133],[175.93418,-37.063274],[175.93419800000001,-37.063447],[175.933875,-37.064567],[175.933727,-37.064852],[175.933324,-37.065261],[175.93326200000001,-37.06554],[175.93313599999999,-37.065848],[175.932974,-37.065971],[175.93255500000001,-37.066354],[175.93184099999999,-37.066659],[175.93148099999999,-37.06702],[175.93150399999999,-37.067036],[175.931254,-37.06715],[175.93031500000001,-37.067003],[175.93006800000001,-37.066885],[175.92998,-37.066822],[175.92957000000001,-37.066281],[175.929169,-37.065921],[175.929112,-37.065739],[175.92914200000001,-37.065537],[175.929429,-37.065246],[175.929642,-37.065156],[175.93010100000001,-37.065055],[175.93051,-37.064874],[175.93099599999999,-37.064602],[175.931287,-37.064315],[175.93126899999999,-37.064296],[175.93153899999999,-37.064008],[175.93156999999999,-37.064023],[175.932029,-37.063864],[175.93231499999999,-37.063729],[175.932457,-37.063642],[175.93293700000001,-37.063215],[175.93329700000001,-37.062947],[175.933404,-37.062944],[175.93409,-37.063133]]],"type":"Polygon"}
+}

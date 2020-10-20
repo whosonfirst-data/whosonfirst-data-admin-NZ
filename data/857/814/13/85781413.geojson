@@ -18,8 +18,8 @@
     "mps:latitude":-35.377461,
     "mps:longitude":173.595147,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -59,6 +59,7 @@
         85687149,
         102191583,
         85633345,
+        1209251185,
         102079255
     ],
     "wof:breaches":[],
@@ -68,8 +69,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"81cdaaaab9cd9cfab7aecc96179972ad",
     "wof:hierarchy":[
@@ -77,18 +78,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079255,
-            "locality_id":-1,
+            "locality_id":1209251185,
             "neighbourhood_id":85781413,
             "region_id":85687149
         }
     ],
     "wof:id":85781413,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316527,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210221,
     "wof:name":"Wairere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1209251185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

@@ -11,13 +11,14 @@
     "geom:longitude":174.931839,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.951839,-41.173475,174.951839,-41.173475",
     "lbl:latitude":-41.193475,
     "lbl:longitude":174.931839,
     "lbl:max_zoom":18.0,
     "mps:latitude":-41.193101,
     "mps:longitude":174.927845,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -61,6 +62,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d3\u05e8\u05ea \u05e4\u05d0\u05e8\u05e7"
+    ],
+    "name:heb_x_variant":[
+        "\u05d4\u05e9\u05d3\u05e8\u05d4 \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea"
     ],
     "name:hun_x_preferred":[
         "Park Avenue"
@@ -110,6 +114,9 @@
     "name:zho_x_preferred":[
         "\u516c\u56ed\u5927\u9053"
     ],
+    "name:zho_x_variant":[
+        "\u516c\u5712\u5927\u9053"
+    ],
     "qs:gn_adm0_cc":"NZ",
     "qs:gn_id":0,
     "qs:gn_local":2188164,
@@ -140,10 +147,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687233,
         102191583,
         85633345,
-        102079337
+        102079337,
+        1729238533,
+        1729338297,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,8 +161,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"bcda4938002e171b6bf73afa49ee2523",
     "wof:hierarchy":[
@@ -161,18 +170,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079337,
-            "locality_id":-1,
+            "localadmin_id":1729238533,
+            "locality_id":1729338297,
             "neighbourhood_id":85781045,
             "region_id":85687233
         }
     ],
     "wof:id":85781045,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316519,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229324,
     "wof:name":"Park Avenue",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338297,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

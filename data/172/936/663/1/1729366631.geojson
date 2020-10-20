@@ -1,0 +1,60 @@
+{
+  "id": 1729366631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28103.697897,
+    "geom:bbox":"174.529351,-35.617666,174.531015,-35.615389",
+    "geom:latitude":-35.616599,
+    "geom:longitude":174.530165,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.61661,
+    "lbl:longitude":174.530149,
+    "mps:latitude":-35.61661,
+    "mps:longitude":174.530149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Church Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887489,
+    "wof:geomhash":"8d177999b8ab448175888aa9fe3e36e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366631,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729366631,
+    "wof:lastmodified":1603141313,
+    "wof:name":"Church Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.529351,
+    -35.617666,
+    174.531015,
+    -35.615389
+],
+  "geometry": {"coordinates":[[[174.531015,-35.617382],[174.53071800000001,-35.617636],[174.530396,-35.617661],[174.53033300000001,-35.617666],[174.529887,-35.617539],[174.52969300000001,-35.617372],[174.52937499999999,-35.616888],[174.52935099999999,-35.616243],[174.52942300000001,-35.616119],[174.52950899999999,-35.615969],[174.52950899999999,-35.615958],[174.529562,-35.615735],[174.529574,-35.615683],[174.52960100000001,-35.615484],[174.52956800000001,-35.615389],[174.53036,-35.615556],[174.530869,-35.61623],[174.531015,-35.617382]]],"type":"Polygon"}
+}

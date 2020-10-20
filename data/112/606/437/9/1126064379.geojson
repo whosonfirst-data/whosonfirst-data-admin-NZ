@@ -16,7 +16,8 @@
     "lbl:longitude":174.821662,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
@@ -29,6 +30,9 @@
         "Southgate"
     ],
     "name:deu_x_preferred":[
+        "Southgate"
+    ],
+    "name:fra_x_preferred":[
         "Southgate"
     ],
     "name:ita_x_preferred":[
@@ -57,6 +61,9 @@
     ],
     "name:swe_x_preferred":[
         "Southgate"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0443\u0442\u0433\u0435\u0439\u0442"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0624\u062a\u06be \u06af\u06cc\u0679"
@@ -88,11 +95,12 @@
     "woe:name_adm1":"Wellington",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687233,
         102191583,
         85633345,
+        102079339,
+        1729238583,
         101914575,
-        102079339
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,13 +115,22 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079339,
+            "localadmin_id":1729238583,
             "locality_id":101914575,
             "neighbourhood_id":1126064379,
             "region_id":85687233
         }
     ],
     "wof:id":1126064379,
-    "wof:lastmodified":1566672619,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230624,
     "wof:name":"Southgate",
     "wof:parent_id":101914575,
     "wof:placetype":"neighbourhood",

@@ -1,0 +1,60 @@
+{
+  "id": 1729367597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":43391.676337,
+    "geom:bbox":"171.427673,-41.905413,171.431777,-41.903005",
+    "geom:latitude":-41.904166,
+    "geom:longitude":171.429542,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.904226,
+    "lbl:longitude":171.429169,
+    "mps:latitude":-41.904226,
+    "mps:longitude":171.429169,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Doctor Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887882,
+    "wof:geomhash":"96a3421f3a6fcf34d2fd7cd236d0fd88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367597,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1729367597,
+    "wof:lastmodified":1603141802,
+    "wof:name":"Doctor Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.427673,
+    -41.905413,
+    171.431777,
+    -41.903005
+],
+  "geometry": {"coordinates":[[[171.42943600000001,-41.903005],[171.43177700000001,-41.90372],[171.430903,-41.904214],[171.43002999999999,-41.904252],[171.42990699999999,-41.904363],[171.42990699999999,-41.904386],[171.430115,-41.904568],[171.43023400000001,-41.904614],[171.43050600000001,-41.904638],[171.430655,-41.904752],[171.43066400000001,-41.904816],[171.430677,-41.904901],[171.43056100000001,-41.904999],[171.43049999999999,-41.905022],[171.43007800000001,-41.904973],[171.42962600000001,-41.904969],[171.42953499999999,-41.90499],[171.429384,-41.905057],[171.42889700000001,-41.905413],[171.427673,-41.904545],[171.42943600000001,-41.903005]]],"type":"Polygon"}
+}

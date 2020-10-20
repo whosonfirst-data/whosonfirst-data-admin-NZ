@@ -1,0 +1,60 @@
+{
+  "id": 1729369741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26433.133828,
+    "geom:bbox":"174.764257,-35.89432,174.766521,-35.892384",
+    "geom:latitude":-35.893414,
+    "geom:longitude":174.765465,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.8934,
+    "lbl:longitude":174.765487,
+    "mps:latitude":-35.8934,
+    "mps:longitude":174.765487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Merrick Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888739,
+    "wof:geomhash":"43b2cff620385a9660a1eded7cd0f20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369741,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729369741,
+    "wof:lastmodified":1603142852,
+    "wof:name":"Merrick Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.764257,
+    -35.89432,
+    174.766521,
+    -35.892384
+],
+  "geometry": {"coordinates":[[[174.76425699999999,-35.893594],[174.765095,-35.892619],[174.76523399999999,-35.89264],[174.765289,-35.892593],[174.76531199999999,-35.892457],[174.76539299999999,-35.892388],[174.765615,-35.892384],[174.76609500000001,-35.892691],[174.76618300000001,-35.892891],[174.76637700000001,-35.893835],[174.76652100000001,-35.894034],[174.765342,-35.89432],[174.76425699999999,-35.893594]]],"type":"Polygon"}
+}

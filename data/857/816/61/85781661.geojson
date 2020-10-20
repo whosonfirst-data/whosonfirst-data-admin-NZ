@@ -19,8 +19,8 @@
     "mps:latitude":-46.595038,
     "mps:longitude":168.31877,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -112,8 +112,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"98aae7053329fce3e59f486cfbd8bd80",
     "wof:hierarchy":[
@@ -126,10 +126,15 @@
         }
     ],
     "wof:id":85781661,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316518,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210210,
     "wof:name":"West End",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

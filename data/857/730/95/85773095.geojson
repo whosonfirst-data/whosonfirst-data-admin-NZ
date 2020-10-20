@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "mps:latitude":-36.91978,
     "mps:longitude":174.616493,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -67,8 +68,9 @@
     "wof:belongsto":[
         85687243,
         102191583,
+        1729238453,
         85633345,
-        101914257,
+        1260010579,
         102079403
     ],
     "wof:breaches":[],
@@ -81,8 +83,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"70cd7d5a5bb843f74a46ad8ec4e19de8",
     "wof:hierarchy":[
@@ -90,21 +92,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":101914257,
+            "localadmin_id":1729238453,
+            "locality_id":1260010579,
             "neighbourhood_id":85773095,
             "region_id":85687243
         }
     ],
     "wof:id":85773095,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316515,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200492,
     "wof:name":"Oratia",
-    "wof:parent_id":101914257,
+    "wof:parent_id":1260010579,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729338545
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

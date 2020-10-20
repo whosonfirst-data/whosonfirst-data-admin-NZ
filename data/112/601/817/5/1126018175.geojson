@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"176.3482685,-38.0329275,176.3482685,-38.0329275",
+    "geom:bbox":"176.348268,-38.032927,176.348268,-38.032927",
     "geom:latitude":-38.032927,
     "geom:longitude":176.348268,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":176.348268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497300671,
-    "wof:geomhash":"d0d8d5e1f03c9f1a0a81c5cbd7304564",
+    "wof:geomhash":"9958f2f3deccd46fec1deac2775e4e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,15 @@
         }
     ],
     "wof:id":1126018175,
-    "wof:lastmodified":1566672624,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149355,
     "wof:name":"Whangamarino",
     "wof:parent_id":102079289,
     "wof:placetype":"locality",
@@ -77,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    176.3482685,
-    -38.0329275,
-    176.3482685,
-    -38.0329275
+    176.348268,
+    -38.032927,
+    176.348268,
+    -38.032927
 ],
-  "geometry": {"coordinates":[176.34826849999999,-38.0329275],"type":"Point"}
+  "geometry": {"coordinates":[176.34826799999999,-38.032927],"type":"Point"}
 }

@@ -5,18 +5,22 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":4948.859921,
-    "geom:bbox":"173.995122178,-41.3026023735,173.996555999,-41.3014598858",
+    "geom:area_square_m":4947.366696,
+    "geom:bbox":"173.995122,-41.302602,173.996556,-41.30146",
     "geom:latitude":-41.302043,
     "geom:longitude":173.99585,
     "gn:population":3000,
     "iso:country":"NZ",
     "lbl:latitude":-41.302063,
     "lbl:longitude":173.995837,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-41.302063,
     "mps:longitude":173.995837,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Picton"
     ],
@@ -38,9 +42,10 @@
     "wd:longitude":174.0,
     "wd:wordcount":1107,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687185,
+        102191583,
+        1729238561,
+        85633345,
         102079353
     ],
     "wof:breaches":[],
@@ -53,20 +58,29 @@
         "wk:page":"Picton, New Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0fb26b0fb962d9de91888c641bfb946f",
+    "wof:geomhash":"6886a7e155b8ade88bac829100eb5bea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079353,
+            "localadmin_id":1729238561,
             "locality_id":101918409,
             "region_id":85687185
         }
     ],
     "wof:id":101918409,
-    "wof:lastmodified":1527715671,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148710,
     "wof:name":"Picton",
-    "wof:parent_id":102079353,
+    "wof:parent_id":1729238561,
     "wof:placetype":"locality",
     "wof:population":3000,
     "wof:population_rank":4,
@@ -78,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.9951221777083,
-    -41.30260237345372,
-    173.99655599927658,
-    -41.30145988580863
+    173.995122,
+    -41.302602,
+    173.996556,
+    -41.30146
 ],
-  "geometry": {"coordinates":[[[173.99627256054566,-41.30145988580863],[173.99655599927658,-41.30171679791541],[173.99544820141068,-41.30260237345372],[173.99512217770831,-41.3023690617212],[173.99585851030329,-41.3018173049154],[173.99586172318868,-41.30181484560975],[173.99586454355483,-41.30181247968586],[173.99586716971737,-41.30181029559388],[173.99627256054566,-41.30145988580863]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[173.996273,-41.30146],[173.996556,-41.301717],[173.99544800000001,-41.302602],[173.99512200000001,-41.302369],[173.995859,-41.301817],[173.99586199999999,-41.301815],[173.99586500000001,-41.301812],[173.995867,-41.30181],[173.996273,-41.30146]]],"type":"Polygon"}
 }

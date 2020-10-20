@@ -1,0 +1,77 @@
+{
+  "id": 1729341849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13111.71062,
+    "geom:bbox":"173.94983,-35.018334,173.951715,-35.017063",
+    "geom:latitude":-35.017723,
+    "geom:longitude":173.950749,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.017823,
+    "lbl:longitude":173.950764,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.017823,
+    "mps:longitude":173.950764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Keokeo Island"
+    ],
+    "nz-linz:name":"Keokeo Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4428
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622646,
+    "wof:geomhash":"d3e86db941530df82ef609f0bc50bf87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729341849,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341849,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146247,
+    "wof:name":"Keokeo Island",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.94983,
+    -35.018334,
+    173.951715,
+    -35.017063
+],
+  "geometry": {"coordinates":[[[173.95171500000001,-35.017933],[173.951469,-35.017983],[173.95122799999999,-35.018212],[173.95111900000001,-35.018214],[173.95095699999999,-35.018329],[173.95080899999999,-35.018332],[173.95065600000001,-35.018334],[173.95046300000001,-35.018293],[173.95014699999999,-35.017734],[173.95008899999999,-35.017601],[173.95013700000001,-35.017306],[173.94982999999999,-35.017131],[173.949884,-35.017063],[173.95051599999999,-35.01712],[173.950681,-35.017162],[173.95096100000001,-35.017382],[173.951099,-35.017425],[173.95124000000001,-35.01758],[173.95146,-35.0176],[173.95165600000001,-35.017776],[173.95171300000001,-35.017866],[173.95171500000001,-35.017933]]],"type":"Polygon"}
+}

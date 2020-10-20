@@ -18,8 +18,8 @@
     "mps:latitude":-40.619124,
     "mps:longitude":175.267891,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -59,11 +59,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687251,
         102191583,
+        1729238529,
         85633345,
         101914363,
-        102079313
+        102079313,
+        85687251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,8 +73,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"7c2aa8a99d27873ca4ebf910ec4d990d",
     "wof:hierarchy":[
@@ -81,16 +82,22 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079313,
+            "localadmin_id":1729238529,
             "locality_id":101914363,
             "neighbourhood_id":85782865,
             "region_id":85687251
         }
     ],
     "wof:id":85782865,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316520,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210178,
     "wof:name":"Levin West",
     "wof:parent_id":101914363,
     "wof:placetype":"neighbourhood",

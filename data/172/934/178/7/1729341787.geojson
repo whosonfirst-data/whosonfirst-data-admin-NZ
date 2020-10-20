@@ -1,0 +1,75 @@
+{
+  "id": 1729341787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3945.463109,
+    "geom:bbox":"175.890701,-37.111416,175.891372,-37.110569",
+    "geom:latitude":-37.111023,
+    "geom:longitude":175.891046,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.111007,
+    "lbl:longitude":175.891073,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-37.111007,
+    "mps:longitude":175.891073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Hikunui Island"
+    ],
+    "nz-linz:name":"Hikunui Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4368
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622612,
+    "wof:geomhash":"433f65273b17a1c4662189f61294cf1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341787,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729341787,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146212,
+    "wof:name":"Hikunui Island",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.890701,
+    -37.111416,
+    175.891372,
+    -37.110569
+],
+  "geometry": {"coordinates":[[[175.891209,-37.110569],[175.891358,-37.110744],[175.89137199999999,-37.111037],[175.89129600000001,-37.111198],[175.89107999999999,-37.111384],[175.89096799999999,-37.111411],[175.89080000000001,-37.111416],[175.89071200000001,-37.111351],[175.89070100000001,-37.111126],[175.89085399999999,-37.110805],[175.89098799999999,-37.110666],[175.891209,-37.110569]]],"type":"Polygon"}
+}

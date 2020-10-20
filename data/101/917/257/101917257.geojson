@@ -5,18 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":19207.581604,
-    "geom:bbox":"174.124947012,-39.0440655339,174.128399043,-39.0416775046",
+    "geom:area_square_m":19200.862672,
+    "geom:bbox":"174.124947,-39.044066,174.128399,-39.041678",
     "geom:latitude":-39.042697,
     "geom:longitude":174.126435,
     "gn:population":49168,
     "iso:country":"NZ",
     "lbl:latitude":-39.04254,
     "lbl:longitude":174.126409,
+    "lbl:max_zoom":14.0,
     "mps:latitude":-39.04254,
     "mps:longitude":174.126409,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "New Plymouth"
     ],
@@ -41,9 +44,10 @@
     "wd:longitude":174.083333,
     "wd:wordcount":3463,
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687195,
+        102191583,
+        1729238515,
+        85633345,
         102079311
     ],
     "wof:breaches":[],
@@ -55,20 +59,29 @@
         "wk:page":"New Plymouth"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"14e72d99408f5ba28d44d9402c8b4264",
+    "wof:geomhash":"407df443b591455bffe086d81867750b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079311,
+            "localadmin_id":1729238515,
             "locality_id":101917257,
             "region_id":85687195
         }
     ],
     "wof:id":101917257,
-    "wof:lastmodified":1527715907,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148178,
     "wof:name":"New Plymouth",
-    "wof:parent_id":102079311,
+    "wof:parent_id":1729238515,
     "wof:placetype":"locality",
     "wof:population":49168,
     "wof:population_rank":7,
@@ -80,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.12494701235264,
-    -39.04406553387057,
-    174.12839904347126,
-    -39.04167750457406
+    174.124947,
+    -39.044066,
+    174.128399,
+    -39.041678
 ],
-  "geometry": {"coordinates":[[[174.12839904347126,-39.04209482598137],[174.12553946036419,-39.04308070112997],[174.1260006220763,-39.04391379916115],[174.12551326151006,-39.04406553387057],[174.12494701235264,-39.04283755456974],[174.12619205087478,-39.04237451984325],[174.1281841511524,-39.04167750457406],[174.12839904347126,-39.04209482598137]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[174.128399,-39.042095],[174.125539,-39.043081],[174.126001,-39.043914],[174.12551300000001,-39.044066],[174.12494699999999,-39.042838],[174.126192,-39.042375],[174.128184,-39.041678],[174.128399,-39.042095]]],"type":"Polygon"}
 }

@@ -27,8 +27,9 @@
     "lbl:bbox":"173.89667,-35.08667,173.93667,-35.04667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +43,7 @@
         "gn:id":2181389
     },
     "wof:country":"NZ",
-    "wof:geomhash":"67c42d219ffefd1469ca927ef1f9f443",
+    "wof:geomhash":"035dfa25fbb2febed01cd4bbae80a777",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +54,15 @@
         }
     ],
     "wof:id":1293235681,
-    "wof:lastmodified":1566672312,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149880,
     "wof:name":"Tepene",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.91666999999995,
+    173.91667,
     -35.06667,
-    173.91666999999995,
+    173.91667,
     -35.06667
 ],
-  "geometry": {"coordinates":[173.91666999999995,-35.06667],"type":"Point"}
+  "geometry": {"coordinates":[173.91667000000001,-35.06667],"type":"Point"}
 }

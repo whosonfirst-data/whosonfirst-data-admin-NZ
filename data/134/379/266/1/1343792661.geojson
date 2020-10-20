@@ -27,10 +27,14 @@
     "lbl:bbox":"175.49528,-41.43222,175.53528,-41.39222",
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
+        "Waipawa"
+    ],
+    "name:fra_x_preferred":[
         "Waipawa"
     ],
     "name:msa_x_preferred":[
@@ -44,15 +48,15 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687233,
-        102079347
+        102079347,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2206874
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1c5aa9873080a6453f2f2db728e9e00c",
+    "wof:geomhash":"e1ce421d4752d8e981cc01999be0a5dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +67,15 @@
         }
     ],
     "wof:id":1343792661,
-    "wof:lastmodified":1566672193,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229276,
     "wof:name":"Waipawa",
     "wof:parent_id":102079347,
     "wof:placetype":"locality",
@@ -75,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.51528000000005,
+    175.51528,
     -41.41222,
-    175.51528000000005,
+    175.51528,
     -41.41222
 ],
-  "geometry": {"coordinates":[175.51528000000005,-41.41222],"type":"Point"}
+  "geometry": {"coordinates":[175.51527999999999,-41.41222],"type":"Point"}
 }

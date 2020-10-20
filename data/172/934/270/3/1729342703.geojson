@@ -1,0 +1,77 @@
+{
+  "id": 1729342703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28677.057528,
+    "geom:bbox":"168.464109,-46.768511,168.466966,-46.76678",
+    "geom:latitude":-46.767601,
+    "geom:longitude":168.465521,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.767647,
+    "lbl:longitude":168.465263,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.767647,
+    "mps:longitude":168.465263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Topi Island"
+    ],
+    "nz-linz:name":"Topi Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5068
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622993,
+    "wof:geomhash":"a52db3a72ac68b51b73d4e43bf7ee323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729342703,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729342703,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146747,
+    "wof:name":"Topi Island",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.464109,
+    -46.768511,
+    168.466966,
+    -46.76678
+],
+  "geometry": {"coordinates":[[[168.46650500000001,-46.766861],[168.46666099999999,-46.766978],[168.46670900000001,-46.767228],[168.466947,-46.767597],[168.46696600000001,-46.7678],[168.46628200000001,-46.768228],[168.46605099999999,-46.768243],[168.46579299999999,-46.768167],[168.46565899999999,-46.768208],[168.465619,-46.768319],[168.46544700000001,-46.768449],[168.46527800000001,-46.768511],[168.46505099999999,-46.768482],[168.46465000000001,-46.768207],[168.464393,-46.768032],[168.46423200000001,-46.767982],[168.464113,-46.767821],[168.46410900000001,-46.767393],[168.464406,-46.767357],[168.46454399999999,-46.767271],[168.464527,-46.767023],[168.46460400000001,-46.766867],[168.46473800000001,-46.766805],[168.464902,-46.76681],[168.46541300000001,-46.767006],[168.46570800000001,-46.767015],[168.466084,-46.76678],[168.46650500000001,-46.766861]]],"type":"Polygon"}
+}

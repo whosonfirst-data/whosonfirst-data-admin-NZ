@@ -1,0 +1,60 @@
+{
+  "id": 1729367093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":50129.907028,
+    "geom:bbox":"175.162215,-36.8296,175.165447,-36.827135",
+    "geom:latitude":-36.828317,
+    "geom:longitude":175.163768,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.828424,
+    "lbl:longitude":175.163768,
+    "mps:latitude":-36.828424,
+    "mps:longitude":175.163768,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Connells Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887674,
+    "wof:geomhash":"57403565dcad605dbd4dcee4e8b6d25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367093,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729367093,
+    "wof:lastmodified":1603141549,
+    "wof:name":"Connells Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.162215,
+    -36.8296,
+    175.165447,
+    -36.827135
+],
+  "geometry": {"coordinates":[[[175.16378900000001,-36.827135],[175.165447,-36.827297],[175.16426999999999,-36.8296],[175.16304299999999,-36.82943],[175.16266899999999,-36.829092],[175.162294,-36.828682],[175.162215,-36.828087],[175.16237699999999,-36.827864],[175.16286299999999,-36.82805],[175.16290699999999,-36.827985],[175.16243900000001,-36.827793],[175.16261800000001,-36.827664],[175.16297499999999,-36.827607],[175.163341,-36.827557],[175.16344799999999,-36.827521],[175.16353899999999,-36.82749],[175.16365999999999,-36.82745],[175.16378800000001,-36.827292],[175.16378900000001,-36.827135]]],"type":"Polygon"}
+}

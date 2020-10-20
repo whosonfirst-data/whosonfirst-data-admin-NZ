@@ -1,0 +1,80 @@
+{
+  "id": 1729340119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13290.052054,
+    "geom:bbox":"174.203595,-35.20345,174.205426,-35.202272",
+    "geom:latitude":-35.202865,
+    "geom:longitude":174.204533,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.202844,
+    "lbl:longitude":174.204459,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.202844,
+    "mps:longitude":174.204459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Cliff Rock"
+    ],
+    "name:mri_x_preferred":[
+        "Motungarara Island"
+    ],
+    "nz-linz:name":"Motungarara Island (Cliff Rock)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4596
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621895,
+    "wof:geomhash":"7605892374f75dba5f73d230c3658a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":1729340119,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729340119,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145046,
+    "wof:name":"Cliff Rock",
+    "wof:parent_id":102079255,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.203595,
+    -35.20345,
+    174.205426,
+    -35.202272
+],
+  "geometry": {"coordinates":[[[174.20542599999999,-35.203312],[174.205265,-35.20345],[174.20485300000001,-35.203435],[174.20457300000001,-35.20326],[174.20418900000001,-35.203267],[174.20407599999999,-35.203179],[174.204058,-35.202951],[174.203767,-35.202891],[174.203654,-35.202803],[174.20359500000001,-35.202646],[174.20361800000001,-35.20251],[174.20405299999999,-35.2023],[174.204354,-35.202272],[174.204632,-35.202402],[174.20536100000001,-35.20293],[174.20542599999999,-35.203312]]],"type":"Polygon"}
+}

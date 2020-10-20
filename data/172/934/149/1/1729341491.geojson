@@ -1,0 +1,77 @@
+{
+  "id": 1729341491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17080.265164,
+    "geom:bbox":"167.938351,-47.138153,167.94074,-47.136693",
+    "geom:latitude":-47.137352,
+    "geom:longitude":167.939568,
+    "iso:country":"NZ",
+    "lbl:latitude":-47.137246,
+    "lbl:longitude":167.939387,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-47.137246,
+    "mps:longitude":167.939387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kopeka Island"
+    ],
+    "nz-linz:name":"Kopeka Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211,
+        102079391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4437
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622467,
+    "wof:geomhash":"f7c5be713ede6f6de38af83e26a9e177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":1729341491,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729341491,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146029,
+    "wof:name":"Kopeka Island",
+    "wof:parent_id":102079391,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.938351,
+    -47.138153,
+    167.94074,
+    -47.136693
+],
+  "geometry": {"coordinates":[[[167.93848800000001,-47.137263],[167.93835100000001,-47.136999],[167.93836200000001,-47.136865],[167.938436,-47.136754],[167.93860599999999,-47.136693],[167.93958799999999,-47.136797],[167.94002399999999,-47.137128],[167.94022100000001,-47.137158],[167.940392,-47.137074],[167.94055700000001,-47.13708],[167.94064900000001,-47.137174],[167.94062,-47.137533],[167.94074000000001,-47.137695],[167.94072499999999,-47.137875],[167.94034099999999,-47.138153],[167.940113,-47.1381],[167.93974900000001,-47.137704],[167.93912,-47.137726],[167.93885800000001,-47.137694],[167.938638,-47.13755],[167.93848800000001,-47.137263]]],"type":"Polygon"}
+}

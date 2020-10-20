@@ -1,0 +1,60 @@
+{
+  "id": 1729369523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":109059.512651,
+    "geom:bbox":"175.159239,-36.833226,175.16427,-36.829335",
+    "geom:latitude":-36.830828,
+    "geom:longitude":175.161641,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.830856,
+    "lbl:longitude":175.16168,
+    "mps:latitude":-36.830856,
+    "mps:longitude":175.16168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Waikorariki Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888654,
+    "wof:geomhash":"5cb30aac0b81f85b544a8560006de743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369523,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369523,
+    "wof:lastmodified":1603142747,
+    "wof:name":"Waikorariki Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.159239,
+    -36.833226,
+    175.16427,
+    -36.829335
+],
+  "geometry": {"coordinates":[[[175.16304299999999,-36.82943],[175.16426999999999,-36.8296],[175.16189499999999,-36.833226],[175.160617,-36.832258],[175.16056499999999,-36.83178],[175.16037600000001,-36.831593],[175.16013799999999,-36.831451],[175.15962099999999,-36.831144],[175.15936500000001,-36.830877],[175.15933000000001,-36.830843],[175.159302,-36.830811],[175.15923900000001,-36.830588],[175.15932599999999,-36.830215],[175.15957599999999,-36.82979],[175.16,-36.829785],[175.16063600000001,-36.829434],[175.16064900000001,-36.829431],[175.16166799999999,-36.829335],[175.16231999999999,-36.829364],[175.16281900000001,-36.829516],[175.16294400000001,-36.829552],[175.16304299999999,-36.82943]]],"type":"Polygon"}
+}

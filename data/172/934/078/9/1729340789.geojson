@@ -1,0 +1,80 @@
+{
+  "id": 1729340789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":71476.814267,
+    "geom:bbox":"175.155967,-36.926401,175.158678,-36.92271",
+    "geom:latitude":-36.924428,
+    "geom:longitude":175.157199,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.924502,
+    "lbl:longitude":175.157308,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.924502,
+    "mps:longitude":175.157308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Karamuramu Island"
+    ],
+    "name:eng_x_preferred":[
+        "Karamuramu Island"
+    ],
+    "nz-linz:name":"Karamuramu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4421
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622169,
+    "wof:geomhash":"b6b2d7c946393ecbbbf363df2d65894f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729340789,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729340789,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229608,
+    "wof:name":"Karamuramu Island",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.155967,
+    -36.926401,
+    175.158678,
+    -36.92271
+],
+  "geometry": {"coordinates":[[[175.15637799999999,-36.92271],[175.156814,-36.922736],[175.157566,-36.92298],[175.158053,-36.92332],[175.15845999999999,-36.923798],[175.158626,-36.92419],[175.15867800000001,-36.924482],[175.158649,-36.92471],[175.15862100000001,-36.924934],[175.158424,-36.9254],[175.157915,-36.925771],[175.156948,-36.926307],[175.15674100000001,-36.926401],[175.15606700000001,-36.925027],[175.155981,-36.924466],[175.155967,-36.923045],[175.156047,-36.922897],[175.15621100000001,-36.922758],[175.15637799999999,-36.92271]]],"type":"Polygon"}
+}

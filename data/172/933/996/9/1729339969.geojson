@@ -1,0 +1,77 @@
+{
+  "id": 1729339969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11569.23789,
+    "geom:bbox":"174.688819,-36.597924,174.691388,-36.597266",
+    "geom:latitude":-36.597592,
+    "geom:longitude":174.690077,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.597555,
+    "lbl:longitude":174.690052,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.597555,
+    "mps:longitude":174.690052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Crocodile Island"
+    ],
+    "nz-linz:name":"Crocodile Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4267
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621836,
+    "wof:geomhash":"263ad8f198b277118c1c4e30e6aea308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729339969,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729339969,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603144952,
+    "wof:name":"Crocodile Island",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.688819,
+    -36.597924,
+    174.691388,
+    -36.597266
+],
+  "geometry": {"coordinates":[[[174.69138599999999,-36.59757],[174.69138799999999,-36.597593],[174.691225,-36.597776],[174.69089,-36.597804],[174.690246,-36.59777],[174.68949599999999,-36.597918],[174.689132,-36.597924],[174.689076,-36.597903],[174.688819,-36.597726],[174.68884299999999,-36.597568],[174.68889799999999,-36.597522],[174.68909199999999,-36.597452],[174.69023300000001,-36.597274],[174.69073599999999,-36.597266],[174.69130000000001,-36.597481],[174.69135700000001,-36.597526],[174.69138599999999,-36.59757]]],"type":"Polygon"}
+}

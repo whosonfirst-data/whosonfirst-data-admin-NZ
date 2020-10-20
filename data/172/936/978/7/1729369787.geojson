@@ -1,0 +1,60 @@
+{
+  "id": 1729369787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":141437.916274,
+    "geom:bbox":"174.91017,-36.746605,174.915719,-36.742943",
+    "geom:latitude":-36.744533,
+    "geom:longitude":174.91302,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.744643,
+    "lbl:longitude":174.913072,
+    "mps:latitude":-36.744643,
+    "mps:longitude":174.913072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Sandy Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888757,
+    "wof:geomhash":"2cb03f7710f082f016433898b0fe2bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369787,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369787,
+    "wof:lastmodified":1603142876,
+    "wof:name":"Sandy Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.91017,
+    -36.746605,
+    174.915719,
+    -36.742943
+],
+  "geometry": {"coordinates":[[[174.91482400000001,-36.743079],[174.91485299999999,-36.743124],[174.91533999999999,-36.743521],[174.91542799999999,-36.743608],[174.91554199999999,-36.74372],[174.91564,-36.743881],[174.915718,-36.74401],[174.915719,-36.744055],[174.91556499999999,-36.744508],[174.91553999999999,-36.744621],[174.91549599999999,-36.745028],[174.91547,-36.745096],[174.915064,-36.7456],[174.91446199999999,-36.746037],[174.913917,-36.746131],[174.913569,-36.746191],[174.91321400000001,-36.746491],[174.913106,-36.746605],[174.91016999999999,-36.744973],[174.91100900000001,-36.742943],[174.91482400000001,-36.743079]]],"type":"Polygon"}
+}

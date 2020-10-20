@@ -19,8 +19,8 @@
     "mps:latitude":-43.591765,
     "mps:longitude":172.621852,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -64,10 +64,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687179,
         102191583,
+        1729238507,
         85633345,
-        102079401
+        1729337755,
+        102079401,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,8 +79,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"08c1a8b1f0f6664bbb01fd17d904554a",
     "wof:hierarchy":[
@@ -86,18 +88,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079401,
-            "locality_id":-1,
+            "localadmin_id":1729238507,
+            "locality_id":1729337755,
             "neighbourhood_id":85772869,
             "region_id":85687179
         }
     ],
     "wof:id":85772869,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316531,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210288,
     "wof:name":"Cashmere Hills",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729337755,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

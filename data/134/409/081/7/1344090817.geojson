@@ -26,8 +26,9 @@
     "lbl:bbox":"176.10277,-40.56668,176.14277,-40.52668",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +53,15 @@
         }
     ],
     "wof:id":1344090817,
-    "wof:lastmodified":1566672192,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603150179,
     "wof:name":"Mangatiti",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",

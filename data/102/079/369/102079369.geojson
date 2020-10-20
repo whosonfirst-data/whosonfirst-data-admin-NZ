@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.727393,
-    "geom:area_square_m":6544743758.325737,
+    "geom:area_square_m":6544743645.815291,
     "geom:bbox":"171.11351,-43.903722,172.627769,-42.740797",
     "geom:latitude":-43.309349,
     "geom:longitude":171.878184,
@@ -44,6 +44,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Selwyn"
+    ],
+    "name:fra_x_variant":[
+        "Selwyn"
     ],
     "name:ita_x_preferred":[
         "Distretto di Selwyn"
@@ -119,7 +122,15 @@
         }
     ],
     "wof:id":102079369,
-    "wof:lastmodified":1583950786,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229238,
     "wof:name":"Selwyn District",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

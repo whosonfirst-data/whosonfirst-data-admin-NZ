@@ -1,0 +1,75 @@
+{
+  "id": 1729342375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2931.967984,
+    "geom:bbox":"173.583923,-42.448645,173.584654,-42.447765",
+    "geom:latitude":-42.448153,
+    "geom:longitude":173.584231,
+    "iso:country":"NZ",
+    "lbl:latitude":-42.448105,
+    "lbl:longitude":173.584195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-42.448105,
+    "mps:longitude":173.584195,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Pinnacle Rock"
+    ],
+    "nz-linz:name":"Pinnacle Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4815
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622861,
+    "wof:geomhash":"657f7e651f495500e1b23fb3e9820e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342375,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1729342375,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146549,
+    "wof:name":"Pinnacle Rock",
+    "wof:parent_id":85687179,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.583923,
+    -42.448645,
+    173.584654,
+    -42.447765
+],
+  "geometry": {"coordinates":[[[173.58411699999999,-42.448645],[173.58399299999999,-42.448533],[173.584082,-42.448374],[173.58392599999999,-42.448173],[173.583923,-42.448038],[173.58422200000001,-42.447765],[173.58462299999999,-42.448009],[173.584654,-42.448076],[173.58432400000001,-42.448305],[173.584238,-42.448553],[173.58411699999999,-42.448645]]],"type":"Polygon"}
+}

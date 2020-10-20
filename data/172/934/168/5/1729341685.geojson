@@ -1,0 +1,78 @@
+{
+  "id": 1729341685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12681.53123,
+    "geom:bbox":"173.690191,-34.946024,173.692036,-34.944848",
+    "geom:latitude":-34.945431,
+    "geom:longitude":173.691104,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.945486,
+    "lbl:longitude":173.691104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.945486,
+    "mps:longitude":173.691104,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Cone Rock"
+    ],
+    "name:mri_x_preferred":[
+        "Horoiwi"
+    ],
+    "nz-linz:name":"Cone Rock (Horoiwi)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4257
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622565,
+    "wof:geomhash":"142cc2fd091ee0d183b90bbe53f5f25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341685,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341685,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146150,
+    "wof:name":"Cone Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.690191,
+    -34.946024,
+    173.692036,
+    -34.944848
+],
+  "geometry": {"coordinates":[[[173.692036,-34.944953],[173.691855,-34.945429],[173.691531,-34.945681],[173.69131899999999,-34.946],[173.69126499999999,-34.946024],[173.69110000000001,-34.945936],[173.690549,-34.945832],[173.69027500000001,-34.945836],[173.690191,-34.945747],[173.69032300000001,-34.945497],[173.69030100000001,-34.945318],[173.69037499999999,-34.945212],[173.69048000000001,-34.945156],[173.690699,-34.945153],[173.691025,-34.945036],[173.69118900000001,-34.945033],[173.69140300000001,-34.94485],[173.691485,-34.944848],[173.691542,-34.944893],[173.691517,-34.945006],[173.69165599999999,-34.945071],[173.691789,-34.944956],[173.69189800000001,-34.94491],[173.69198,-34.944908],[173.692036,-34.944953]]],"type":"Polygon"}
+}

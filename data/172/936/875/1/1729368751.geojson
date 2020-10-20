@@ -1,0 +1,60 @@
+{
+  "id": 1729368751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":48363.156769,
+    "geom:bbox":"173.906898,-35.024497,173.909769,-35.022254",
+    "geom:latitude":-35.023358,
+    "geom:longitude":173.908397,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.023365,
+    "lbl:longitude":173.908397,
+    "mps:latitude":-35.023365,
+    "mps:longitude":173.908397,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Waiheke Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888350,
+    "wof:geomhash":"c80eaff3bad2c0254767da8c472e6f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368751,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729368751,
+    "wof:lastmodified":1603142365,
+    "wof:name":"Waiheke Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.906898,
+    -35.024497,
+    173.909769,
+    -35.022254
+],
+  "geometry": {"coordinates":[[[173.908658,-35.024461],[173.90813700000001,-35.024447],[173.907836,-35.024497],[173.90767199999999,-35.024406],[173.90764100000001,-35.024388],[173.907365,-35.024067],[173.907162,-35.023832],[173.90712500000001,-35.023472],[173.90689800000001,-35.023115],[173.907003,-35.022933],[173.90710200000001,-35.022911],[173.90722099999999,-35.022884],[173.90732800000001,-35.022792],[173.90745999999999,-35.022587],[173.90776299999999,-35.022466],[173.907813,-35.022446],[173.90799999999999,-35.022284],[173.909381,-35.022254],[173.90976900000001,-35.023943],[173.908658,-35.024461]]],"type":"Polygon"}
+}

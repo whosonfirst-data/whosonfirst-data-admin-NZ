@@ -1,0 +1,60 @@
+{
+  "id": 1729370047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":89359.797588,
+    "geom:bbox":"174.822858,-41.343475,174.828081,-41.340344",
+    "geom:latitude":-41.341982,
+    "geom:longitude":174.825282,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.341898,
+    "lbl:longitude":174.825282,
+    "mps:latitude":-41.341898,
+    "mps:longitude":174.825282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Palmer Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888859,
+    "wof:geomhash":"c14d4cc670d55d882fb320821052adc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729370047,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1729370047,
+    "wof:lastmodified":1603143000,
+    "wof:name":"Palmer Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.822858,
+    -41.343475,
+    174.828081,
+    -41.340344
+],
+  "geometry": {"coordinates":[[[174.822858,-41.342868],[174.82302799999999,-41.342508],[174.823285,-41.342188],[174.823329,-41.342002],[174.823441,-41.341532],[174.82369800000001,-41.341189],[174.82380800000001,-41.340894],[174.82392400000001,-41.340802],[174.82459900000001,-41.340451],[174.82489899999999,-41.340468],[174.82508000000001,-41.340344],[174.828081,-41.341817],[174.82589400000001,-41.343475],[174.822858,-41.342868]]],"type":"Polygon"}
+}

@@ -27,8 +27,9 @@
     "lbl:bbox":"170.98,-42.78667,171.02,-42.74667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Woodstock-Festival"
@@ -111,6 +112,9 @@
     "name:mkd_x_preferred":[
         "\u0412\u0443\u0434\u0441\u0442\u043e\u043a"
     ],
+    "name:msa_x_preferred":[
+        "Festival Woodstock"
+    ],
     "name:nld_x_preferred":[
         "Woodstock"
     ],
@@ -151,8 +155,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687165,
-        102079363
+        102079363,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +174,15 @@
         }
     ],
     "wof:id":1209746879,
-    "wof:lastmodified":1566672349,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229505,
     "wof:name":"Woodstock",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",

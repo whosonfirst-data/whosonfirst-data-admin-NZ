@@ -1,0 +1,60 @@
+{
+  "id": 1729369445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":153277.246752,
+    "geom:bbox":"175.429749,-36.2886,175.434571,-36.284301",
+    "geom:latitude":-36.286673,
+    "geom:longitude":175.43204,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.286641,
+    "lbl:longitude":175.431994,
+    "mps:latitude":-36.286641,
+    "mps:longitude":175.431994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Smiths Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888624,
+    "wof:geomhash":"ab5e3859edff6a5e98896f0be37962ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369445,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369445,
+    "wof:lastmodified":1603142711,
+    "wof:name":"Smiths Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.429749,
+    -36.2886,
+    175.434571,
+    -36.284301
+],
+  "geometry": {"coordinates":[[[175.43226799999999,-36.284301],[175.43241599999999,-36.284523],[175.43287599999999,-36.284917],[175.433357,-36.285085],[175.43361300000001,-36.285237],[175.43380300000001,-36.285474],[175.43425999999999,-36.286145],[175.43457100000001,-36.286822],[175.43434099999999,-36.287495],[175.43418199999999,-36.287725],[175.43385799999999,-36.287992],[175.43383700000001,-36.288008],[175.433561,-36.288236],[175.433435,-36.2886],[175.43020899999999,-36.288577],[175.42974899999999,-36.285359],[175.43226799999999,-36.284301]]],"type":"Polygon"}
+}

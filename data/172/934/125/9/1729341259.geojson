@@ -1,0 +1,75 @@
+{
+  "id": 1729341259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9592.241501,
+    "geom:bbox":"173.971606,-34.981925,173.973154,-34.980255",
+    "geom:latitude":-34.981027,
+    "geom:longitude":173.972345,
+    "iso:country":"NZ",
+    "lbl:latitude":-34.981021,
+    "lbl:longitude":173.972357,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-34.981021,
+    "mps:longitude":173.972357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Motutakupu Island"
+    ],
+    "nz-linz:name":"Motutakupu Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4642
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622365,
+    "wof:geomhash":"8ba5c92769c4bc243022b34f77cb4f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341259,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341259,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145863,
+    "wof:name":"Motutakupu Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.971606,
+    -34.981925,
+    173.973154,
+    -34.980255
+],
+  "geometry": {"coordinates":[[[173.9727,-34.980255],[173.97278399999999,-34.980321],[173.97278800000001,-34.980479],[173.97251900000001,-34.980665],[173.972576,-34.980753],[173.97292999999999,-34.980702],[173.97315399999999,-34.980879],[173.97296700000001,-34.98104],[173.97294299999999,-34.981176],[173.97280499999999,-34.981133],[173.972668,-34.981136],[173.97234700000001,-34.981456],[173.97207599999999,-34.981552],[173.97192200000001,-34.981925],[173.971802,-34.981534],[173.97160600000001,-34.981402],[173.97189800000001,-34.980991],[173.972193,-34.98076],[173.97229799999999,-34.980623],[173.97242600000001,-34.98026],[173.97259099999999,-34.980303],[173.9727,-34.980255]]],"type":"Polygon"}
+}

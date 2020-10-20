@@ -1,0 +1,60 @@
+{
+  "id": 1729368791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":73059.222594,
+    "geom:bbox":"174.505835,-36.029691,174.509801,-36.026931",
+    "geom:latitude":-36.028238,
+    "geom:longitude":174.50814,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.028213,
+    "lbl:longitude":174.508178,
+    "mps:latitude":-36.028213,
+    "mps:longitude":174.508178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Waipu Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888366,
+    "wof:geomhash":"078f59b6ee16a00d1dd83a6fb98d4bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368791,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729368791,
+    "wof:lastmodified":1603142384,
+    "wof:name":"Waipu Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.505835,
+    -36.029691,
+    174.509801,
+    -36.026931
+],
+  "geometry": {"coordinates":[[[174.50963899999999,-36.029478],[174.509389,-36.029484],[174.508556,-36.029691],[174.50845100000001,-36.029678],[174.50834,-36.029663],[174.507947,-36.029535],[174.507496,-36.029274],[174.50695400000001,-36.028812],[174.50583499999999,-36.02764],[174.50765799999999,-36.026931],[174.50980100000001,-36.027391],[174.50963899999999,-36.029478]]],"type":"Polygon"}
+}

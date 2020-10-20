@@ -1,0 +1,75 @@
+{
+  "id": 1729341365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5524.38681,
+    "geom:bbox":"174.116155,-35.242117,174.116854,-35.240672",
+    "geom:latitude":-35.241413,
+    "geom:longitude":174.11653,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.24111,
+    "lbl:longitude":174.116467,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.24111,
+    "mps:longitude":174.116467,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Fraser Rock"
+    ],
+    "nz-linz:name":"Fraser Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4307
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622413,
+    "wof:geomhash":"3ea672c54b1f314244ea30940533e8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729341365,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341365,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145954,
+    "wof:name":"Fraser Rock",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.116155,
+    -35.242117,
+    174.116854,
+    -35.240672
+],
+  "geometry": {"coordinates":[[[174.11674199999999,-35.241819],[174.11670699999999,-35.242031],[174.11651000000001,-35.242117],[174.11631,-35.242069],[174.116218,-35.241971],[174.116332,-35.241773],[174.11652699999999,-35.24158],[174.116523,-35.241445],[174.116186,-35.241157],[174.11615499999999,-35.241023],[174.116208,-35.240954],[174.11631800000001,-35.240952],[174.11640600000001,-35.240867],[174.11647400000001,-35.240676],[174.11651800000001,-35.240672],[174.11655400000001,-35.240679],[174.11668499999999,-35.240808],[174.11673200000001,-35.241035],[174.11668,-35.241149],[174.116851,-35.241372],[174.11685399999999,-35.241507],[174.116748,-35.241622],[174.11674199999999,-35.241819]]],"type":"Polygon"}
+}

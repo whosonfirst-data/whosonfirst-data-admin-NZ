@@ -1,0 +1,78 @@
+{
+  "id": 1729340007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":29699.070357,
+    "geom:bbox":"175.053816,-35.900771,175.055959,-35.898837",
+    "geom:latitude":-35.899812,
+    "geom:longitude":175.054961,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.899804,
+    "lbl:longitude":175.05494,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.899804,
+    "mps:longitude":175.05494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Groper Island"
+    ],
+    "name:mri_x_preferred":[
+        "Tatapihi"
+    ],
+    "nz-linz:name":"Groper Island (Tatapihi)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4338
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621851,
+    "wof:geomhash":"2eccc604d147dbf6c39e848595deff41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340007,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729340007,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603144985,
+    "wof:name":"Groper Island",
+    "wof:parent_id":85687243,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.053816,
+    -35.900771,
+    175.055959,
+    -35.898837
+],
+  "geometry": {"coordinates":[[[175.055486,-35.898837],[175.055656,-35.898968],[175.05563599999999,-35.899217],[175.05581100000001,-35.89946],[175.05576099999999,-35.899664],[175.05595299999999,-35.900471],[175.055959,-35.900628],[175.05584999999999,-35.900721],[175.05551399999999,-35.900615],[175.05520899999999,-35.900621],[175.054743,-35.900766],[175.05454900000001,-35.900771],[175.05443500000001,-35.90066],[175.05434299999999,-35.90037],[175.05408700000001,-35.900195],[175.054137,-35.899991],[175.05388099999999,-35.899816],[175.05381600000001,-35.899503],[175.054384,-35.899041],[175.055181,-35.898843],[175.055486,-35.898837]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1729342821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":744.889499,
+    "geom:bbox":"174.346913,-35.377782,174.347247,-35.377422",
+    "geom:latitude":-35.377609,
+    "geom:longitude":174.347079,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.377611,
+    "lbl:longitude":174.347065,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.377611,
+    "mps:longitude":174.347065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Whitikau Rocks"
+    ],
+    "nz-linz:name":"Whitikau Rocks",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5142
+    },
+    "wof:country":"NZ",
+    "wof:created":1602623042,
+    "wof:geomhash":"81cf86575db0877dad8ee242edd9ba9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342821,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342821,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146816,
+    "wof:name":"Whitikau Rocks",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.346913,
+    -35.377782,
+    174.347247,
+    -35.377422
+],
+  "geometry": {"coordinates":[[[174.347083,-35.377782],[174.34697,-35.377693],[174.346913,-35.377582],[174.34701699999999,-35.377422],[174.34710100000001,-35.377443],[174.34724399999999,-35.377643],[174.34724700000001,-35.377711],[174.347083,-35.377782]]],"type":"Polygon"}
+}

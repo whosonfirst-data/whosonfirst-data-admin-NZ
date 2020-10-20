@@ -19,8 +19,8 @@
     "mps:latitude":-41.137444,
     "mps:longitude":174.848249,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -62,10 +62,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687233,
         102191583,
+        1729238563,
         85633345,
-        102079317
+        1729338971,
+        102079317,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,18 +86,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079317,
-            "locality_id":-1,
+            "localadmin_id":1729238563,
+            "locality_id":1729338971,
             "neighbourhood_id":85778549,
             "region_id":85687233
         }
     ],
     "wof:id":85778549,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316521,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210273,
     "wof:name":"Porirua East",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729338971,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

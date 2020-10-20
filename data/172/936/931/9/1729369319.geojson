@@ -1,0 +1,60 @@
+{
+  "id": 1729369319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":77564.187247,
+    "geom:bbox":"175.03295,-36.813479,175.037291,-36.810613",
+    "geom:latitude":-36.812074,
+    "geom:longitude":175.035049,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.812074,
+    "lbl:longitude":175.035056,
+    "mps:latitude":-36.812074,
+    "mps:longitude":175.035056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Oakura Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888574,
+    "wof:geomhash":"f1ee28d6cc2856db42e59ea1c67c5cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369319,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369319,
+    "wof:lastmodified":1603142650,
+    "wof:name":"Oakura Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.03295,
+    -36.813479,
+    175.037291,
+    -36.810613
+],
+  "geometry": {"coordinates":[[[175.03559300000001,-36.810613],[175.03729100000001,-36.812021],[175.03697299999999,-36.812185],[175.03674000000001,-36.812403],[175.03662299999999,-36.812577],[175.036552,-36.812682],[175.03630899999999,-36.813042],[175.03607600000001,-36.813238],[175.03586899999999,-36.813354],[175.03542200000001,-36.813408],[175.03455199999999,-36.813356],[175.03423000000001,-36.813395],[175.03410099999999,-36.813441],[175.03402500000001,-36.813467],[175.03399400000001,-36.813479],[175.03295,-36.811347],[175.03559300000001,-36.810613]]],"type":"Polygon"}
+}

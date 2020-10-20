@@ -1,0 +1,75 @@
+{
+  "id": 1729339937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1228.118371,
+    "geom:bbox":"168.265945,-46.51022,168.266488,-46.509824",
+    "geom:latitude":-46.510007,
+    "geom:longitude":168.266227,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.510006,
+    "lbl:longitude":168.266232,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.510006,
+    "mps:longitude":168.266232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Bombay Rock"
+    ],
+    "nz-linz:name":"Bombay Rock",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4215
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621823,
+    "wof:geomhash":"7b4bf41fb32dbb42a16d17c04a1a1161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729339937,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729339937,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603144932,
+    "wof:name":"Bombay Rock",
+    "wof:parent_id":85687211,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.265945,
+    -46.51022,
+    168.266488,
+    -46.509824
+],
+  "geometry": {"coordinates":[[[168.266379,-46.51022],[168.266187,-46.510168],[168.26597000000001,-46.510002],[168.26594499999999,-46.509889],[168.26601600000001,-46.509824],[168.266276,-46.509833],[168.2664,-46.509927],[168.26648800000001,-46.510065],[168.266482,-46.510155],[168.266379,-46.51022]]],"type":"Polygon"}
+}

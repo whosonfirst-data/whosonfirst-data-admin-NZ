@@ -18,7 +18,8 @@
     "lbl:longitude":177.41667,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -51,6 +52,7 @@
         85687189,
         102191583,
         85633345,
+        101914545,
         102079327
     ],
     "wof:breaches":[],
@@ -67,15 +69,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079327,
-            "locality_id":-1,
+            "locality_id":101914545,
             "neighbourhood_id":1126080851,
             "region_id":85687189
         }
     ],
     "wof:id":1126080851,
-    "wof:lastmodified":1566672614,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210325,
     "wof:name":"Turiroa",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914545,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

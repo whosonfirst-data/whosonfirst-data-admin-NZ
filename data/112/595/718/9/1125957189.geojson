@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"173.3481445,-41.2795505,173.3481445,-41.2795505",
+    "geom:bbox":"173.348144,-41.27955,173.348144,-41.27955",
     "geom:latitude":-41.27955,
     "geom:longitude":173.348144,
     "gn:country":null,
@@ -16,8 +16,9 @@
     "lbl:longitude":173.348144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -56,7 +57,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497297657,
-    "wof:geomhash":"15bf76e7f5ff456968afccc9eeab75e0",
+    "wof:geomhash":"0a0628edc64dee8fb05a28f9cbdc1cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +68,15 @@
         }
     ],
     "wof:id":1125957189,
-    "wof:lastmodified":1566672554,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149256,
     "wof:name":"Maitai Valley",
     "wof:parent_id":102079351,
     "wof:placetype":"locality",
@@ -77,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    173.3481445,
-    -41.2795505,
-    173.3481445,
-    -41.2795505
+    173.348144,
+    -41.27955,
+    173.348144,
+    -41.27955
 ],
-  "geometry": {"coordinates":[173.34814449999999,-41.2795505],"type":"Point"}
+  "geometry": {"coordinates":[173.34814399999999,-41.27955],"type":"Point"}
 }

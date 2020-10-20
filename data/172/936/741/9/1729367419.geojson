@@ -1,0 +1,60 @@
+{
+  "id": 1729367419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26873.952272,
+    "geom:bbox":"174.015533,-35.190279,174.017643,-35.188554",
+    "geom:latitude":-35.189411,
+    "geom:longitude":174.016567,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.189397,
+    "lbl:longitude":174.016587,
+    "mps:latitude":-35.189397,
+    "mps:longitude":174.016587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Blacksmiths Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887808,
+    "wof:geomhash":"75b1509eab0b8b6579a858db30536f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367419,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729367419,
+    "wof:lastmodified":1603141710,
+    "wof:name":"Blacksmiths Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.015533,
+    -35.190279,
+    174.017643,
+    -35.188554
+],
+  "geometry": {"coordinates":[[[174.015727,-35.188822],[174.01605699999999,-35.188816],[174.01659900000001,-35.188558],[174.01684599999999,-35.188554],[174.01709600000001,-35.18864],[174.017371,-35.188657],[174.01751100000001,-35.188768],[174.017515,-35.188925],[174.017438,-35.18913],[174.017447,-35.18949],[174.01764299999999,-35.189623],[174.01684900000001,-35.190279],[174.015533,-35.19003],[174.015727,-35.188822]]],"type":"Polygon"}
+}

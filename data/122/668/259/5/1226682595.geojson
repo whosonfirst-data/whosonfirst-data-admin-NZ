@@ -27,8 +27,9 @@
     "lbl:bbox":"173.33,-35.33667,173.37,-35.29667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +54,15 @@
         }
     ],
     "wof:id":1226682595,
-    "wof:lastmodified":1566672684,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149595,
     "wof:name":"Runaruna",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

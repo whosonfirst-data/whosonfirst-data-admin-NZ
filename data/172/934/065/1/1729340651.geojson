@@ -1,0 +1,92 @@
+{
+  "id": 1729340651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":33756.716755,
+    "geom:bbox":"175.865795,-36.711614,175.868931,-36.709872",
+    "geom:latitude":-36.710598,
+    "geom:longitude":175.867498,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.710712,
+    "lbl:longitude":175.867655,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.710712,
+    "mps:longitude":175.867655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Flat Island"
+    ],
+    "name:deu_x_preferred":[
+        "Flat Island"
+    ],
+    "name:eng_x_preferred":[
+        "Flat Island"
+    ],
+    "name:ita_x_preferred":[
+        "Flat Island"
+    ],
+    "name:nld_x_preferred":[
+        "Flat Island"
+    ],
+    "name:swe_x_preferred":[
+        "Flat Island"
+    ],
+    "nz-linz:name":"Flat Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079261,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4302
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622112,
+    "wof:geomhash":"4a0acbf07be907dabaacac2875679036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":1729340651,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729340651,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229613,
+    "wof:name":"Flat Island",
+    "wof:parent_id":102079261,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.865795,
+    -36.711614,
+    175.868931,
+    -36.709872
+],
+  "geometry": {"coordinates":[[[175.86860799999999,-36.711563],[175.868526,-36.71161],[175.86838599999999,-36.711614],[175.868235,-36.711394],[175.86814899999999,-36.711328],[175.86800600000001,-36.711288],[175.86767399999999,-36.711366],[175.86744999999999,-36.71135],[175.86689899999999,-36.710961],[175.86664200000001,-36.710879],[175.86633499999999,-36.710888],[175.86610300000001,-36.710738],[175.86583200000001,-36.710317],[175.86579499999999,-36.71016],[175.86600999999999,-36.709951],[175.86636999999999,-36.709872],[175.86673500000001,-36.709884],[175.867189,-36.710004],[175.86763999999999,-36.710059],[175.86842300000001,-36.710035],[175.86862099999999,-36.710073],[175.86876599999999,-36.710182],[175.86888999999999,-36.710426],[175.868931,-36.710695],[175.86883399999999,-36.711014],[175.868595,-36.711292],[175.86860799999999,-36.711563]]],"type":"Polygon"}
+}

@@ -27,12 +27,16 @@
     "lbl:bbox":"168.66333,-44.88667,168.70333,-44.84667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687201,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,25 @@
     "wof:geomhash":"80eb1dd52b9a180d4fd7f4d2898df8f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209550125
+            "county_id":102079385,
+            "locality_id":1209550125,
+            "region_id":85687201
         }
     ],
     "wof:id":1209550125,
-    "wof:lastmodified":1566672338,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149493,
     "wof:name":"Maori Point",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

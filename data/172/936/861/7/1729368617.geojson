@@ -1,0 +1,60 @@
+{
+  "id": 1729368617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":242539.068096,
+    "geom:bbox":"174.775541,-36.269753,174.782976,-36.264652",
+    "geom:latitude":-36.267235,
+    "geom:longitude":174.779409,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.2673,
+    "lbl:longitude":174.77948,
+    "mps:latitude":-36.2673,
+    "mps:longitude":174.77948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Te Rere Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888290,
+    "wof:geomhash":"c446c4813771ed3350d23a74639710ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368617,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729368617,
+    "wof:lastmodified":1603142300,
+    "wof:name":"Te Rere Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.775541,
+    -36.269753,
+    174.782976,
+    -36.264652
+],
+  "geometry": {"coordinates":[[[174.77917600000001,-36.264652],[174.78272000000001,-36.26696],[174.78297599999999,-36.268886],[174.78253599999999,-36.269054],[174.78167999999999,-36.269252],[174.7808,-36.269587],[174.779956,-36.269743],[174.77932999999999,-36.269753],[174.778908,-36.269628],[174.77862300000001,-36.269408],[174.77767,-36.268368],[174.777299,-36.268084],[174.77643,-36.267921],[174.776219,-36.26777],[174.77613500000001,-36.267387],[174.776194,-36.266642],[174.77614199999999,-36.265899],[174.77593999999999,-36.265678],[174.775541,-36.265394],[174.77917600000001,-36.264652]]],"type":"Polygon"}
+}

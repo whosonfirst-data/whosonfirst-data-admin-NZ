@@ -1,0 +1,60 @@
+{
+  "id": 1729366599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27478.48413,
+    "geom:bbox":"174.429477,-36.850136,174.431772,-36.848366",
+    "geom:latitude":-36.849163,
+    "geom:longitude":174.430646,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.849205,
+    "lbl:longitude":174.430624,
+    "mps:latitude":-36.849205,
+    "mps:longitude":174.430624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Bartrum Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887476,
+    "wof:geomhash":"5ebe3b3bd6eb0db5d885e3b7bcc4de18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366599,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729366599,
+    "wof:lastmodified":1603141297,
+    "wof:name":"Bartrum Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.429477,
+    -36.850136,
+    174.431772,
+    -36.848366
+],
+  "geometry": {"coordinates":[[[174.42969299999999,-36.848634],[174.43133399999999,-36.848366],[174.43149199999999,-36.848435],[174.431533,-36.848452],[174.43167600000001,-36.848563],[174.43176299999999,-36.848697],[174.431772,-36.849103],[174.431747,-36.849216],[174.43166500000001,-36.849352],[174.43147300000001,-36.849512],[174.43050600000001,-36.850136],[174.42947699999999,-36.849503],[174.42969299999999,-36.848634]]],"type":"Polygon"}
+}

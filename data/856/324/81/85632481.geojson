@@ -391,6 +391,9 @@
     "name:mar_x_variant":[
         "\u0915\u0942\u0915 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
     ],
+    "name:min_x_preferred":[
+        "Kapulauan Cook"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0443\u043a\u043e\u0432\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
     ],
@@ -506,6 +509,9 @@
     "name:sco_x_preferred":[
         "Cook Islands"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u1030\u1087\u1075\u102f\u107c\u103a \u1076\u102f\u1075\u103a\u1088"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0d9a\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca"
     ],
@@ -581,6 +587,9 @@
     ],
     "name:tur_x_preferred":[
         "Cook Adalar\u0131"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u0443\u043a \u0448\u043e\u0440\u043c\u0443\u04f5\u044a\u0451\u0441"
     ],
     "name:uig_x_preferred":[
         "Kuk Taqim Aralliri"
@@ -812,10 +821,15 @@
         }
     ],
     "wof:id":85632481,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1587429087,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229377,
     "wof:name":"Cook Islands",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",

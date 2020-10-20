@@ -1,0 +1,75 @@
+{
+  "id": 1729342059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":57222.641406,
+    "geom:bbox":"174.44729,-35.79279,174.449519,-35.789207",
+    "geom:latitude":-35.791119,
+    "geom:longitude":174.448525,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.791129,
+    "lbl:longitude":174.448434,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.791129,
+    "mps:longitude":174.448434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Motukiore Island"
+    ],
+    "nz-linz:name":"Motukiore Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4566
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622732,
+    "wof:geomhash":"37df8ef67ff6d0d852544187a1656a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342059,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729342059,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146374,
+    "wof:name":"Motukiore Island",
+    "wof:parent_id":85687149,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.44729,
+    -35.79279,
+    174.449519,
+    -35.789207
+],
+  "geometry": {"coordinates":[[[174.449037,-35.79279],[174.44873200000001,-35.792773],[174.447948,-35.792473],[174.44769400000001,-35.792274],[174.447577,-35.792074],[174.44744800000001,-35.7914],[174.44729799999999,-35.79102],[174.44729000000001,-35.790749],[174.447396,-35.790567],[174.44790800000001,-35.790084],[174.448227,-35.789649],[174.448578,-35.78935],[174.44874100000001,-35.789256],[174.448961,-35.789207],[174.44932600000001,-35.789403],[174.44943900000001,-35.789491],[174.449209,-35.790149],[174.44918799999999,-35.790352],[174.44945000000001,-35.790843],[174.449443,-35.79152],[174.44950800000001,-35.791857],[174.44951900000001,-35.79224],[174.449444,-35.792512],[174.449174,-35.792742],[174.449037,-35.79279]]],"type":"Polygon"}
+}

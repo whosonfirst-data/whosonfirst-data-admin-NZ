@@ -1,0 +1,75 @@
+{
+  "id": 1729340817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4199.625602,
+    "geom:bbox":"175.440711,-36.64269,175.441755,-36.642154",
+    "geom:latitude":-36.642448,
+    "geom:longitude":175.441213,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.642422,
+    "lbl:longitude":175.441171,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.642422,
+    "mps:longitude":175.441171,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Oruapopou Island"
+    ],
+    "nz-linz:name":"Oruapopou Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4762
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622180,
+    "wof:geomhash":"fcf343164b41d8aeb49ee38a9e7539e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340817,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729340817,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145550,
+    "wof:name":"Oruapopou Island",
+    "wof:parent_id":85687229,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.440711,
+    -36.64269,
+    175.441755,
+    -36.642154
+],
+  "geometry": {"coordinates":[[[175.44170299999999,-36.642684],[175.44096200000001,-36.64269],[175.440775,-36.642548],[175.44071099999999,-36.642324],[175.44079199999999,-36.642232],[175.441125,-36.642156],[175.441237,-36.642154],[175.44147799999999,-36.642261],[175.44172399999999,-36.642481],[175.441755,-36.64257],[175.44170299999999,-36.642684]]],"type":"Polygon"}
+}

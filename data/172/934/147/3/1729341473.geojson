@@ -1,0 +1,83 @@
+{
+  "id": 1729341473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":912.506523,
+    "geom:bbox":"174.021035,-39.050268,174.021426,-39.049933",
+    "geom:latitude":-39.050104,
+    "geom:longitude":174.021233,
+    "iso:country":"NZ",
+    "lbl:latitude":-39.050109,
+    "lbl:longitude":174.021229,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-39.050109,
+    "mps:longitude":174.021229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Barrett Reef"
+    ],
+    "name:eng_x_preferred":[
+        "Barrett Reef"
+    ],
+    "name:mri_x_preferred":[
+        "Tokomapuna"
+    ],
+    "nz-linz:name":"Tokomapuna (Barrett Reef)",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079311,
+        85687195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5062
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622458,
+    "wof:geomhash":"ee2be588d01e60cf8753edaca2061fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":1729341473,
+            "region_id":85687195
+        }
+    ],
+    "wof:id":1729341473,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229865,
+    "wof:name":"Barrett Reef",
+    "wof:parent_id":102079311,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.021035,
+    -39.050268,
+    174.021426,
+    -39.049933
+],
+  "geometry": {"coordinates":[[[174.02136200000001,-39.049933],[174.02142599999999,-39.050092],[174.02138299999999,-39.050197],[174.021233,-39.050268],[174.021063,-39.050235],[174.02103500000001,-39.050138],[174.02108699999999,-39.050019],[174.02119300000001,-39.049955],[174.02136200000001,-39.049933]]],"type":"Polygon"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1729340013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3587.550377,
+    "geom:bbox":"168.648671,-45.070203,168.649902,-45.06952",
+    "geom:latitude":-45.069885,
+    "geom:longitude":168.649265,
+    "iso:country":"NZ",
+    "lbl:latitude":-45.069984,
+    "lbl:longitude":168.649153,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-45.069984,
+    "mps:longitude":168.649153,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Hidden Island"
+    ],
+    "name:eng_x_preferred":[
+        "Hidden Island"
+    ],
+    "name:ita_x_preferred":[
+        "Hidden Island"
+    ],
+    "nz-linz:name":"Hidden Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079385,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4364
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621854,
+    "wof:geomhash":"5712ded16e714d6dbfdc67c429c5d68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":1729340013,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1729340013,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229651,
+    "wof:name":"Hidden Island",
+    "wof:parent_id":102079385,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.648671,
+    -45.070203,
+    168.649902,
+    -45.06952
+],
+  "geometry": {"coordinates":[[[168.649902,-45.069667],[168.64922899999999,-45.070183],[168.64916299999999,-45.070203],[168.64894200000001,-45.070195],[168.64881600000001,-45.070168],[168.648696,-45.070073],[168.64867100000001,-45.069982],[168.648708,-45.069916],[168.648775,-45.069873],[168.649261,-45.069734],[168.649294,-45.069712],[168.649563,-45.06952],[168.64968999999999,-45.069524],[168.649843,-45.069597],[168.649902,-45.069667]]],"type":"Polygon"}
+}

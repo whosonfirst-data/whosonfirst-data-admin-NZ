@@ -1,0 +1,60 @@
+{
+  "id": 1729369901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":73379.733721,
+    "geom:bbox":"174.816586,-36.436774,174.820849,-36.433665",
+    "geom:latitude":-36.435087,
+    "geom:longitude":174.818585,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.434958,
+    "lbl:longitude":174.818553,
+    "mps:latitude":-36.434958,
+    "mps:longitude":174.818553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Ladys Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888802,
+    "wof:geomhash":"461a835fdcb7c322ae12965dab0b35d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369901,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729369901,
+    "wof:lastmodified":1603142931,
+    "wof:name":"Ladys Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.816586,
+    -36.436774,
+    174.820849,
+    -36.433665
+],
+  "geometry": {"coordinates":[[[174.81831099999999,-36.433665],[174.818567,-36.43384],[174.818905,-36.433923],[174.81985399999999,-36.433947],[174.82016300000001,-36.433986],[174.82041699999999,-36.434093],[174.82079100000001,-36.434401],[174.82084900000001,-36.43449],[174.820674,-36.435102],[174.820683,-36.435159],[174.81697,-36.436774],[174.816586,-36.435377],[174.81831099999999,-36.433665]]],"type":"Polygon"}
+}

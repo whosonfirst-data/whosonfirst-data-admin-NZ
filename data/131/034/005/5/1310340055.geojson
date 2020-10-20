@@ -27,14 +27,16 @@
     "lbl:bbox":"176.10427,-37.76944,176.14427,-37.72944",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191583,
-        85633345,
         85687175,
+        102191583,
+        1729238603,
+        85633345,
         102079285
     ],
     "wof:breaches":[],
@@ -48,14 +50,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079285,
+            "localadmin_id":1729238603,
             "locality_id":1310340055,
             "region_id":85687175
         }
     ],
     "wof:id":1310340055,
-    "wof:lastmodified":1566672373,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149988,
     "wof:name":"Veda Glen",
-    "wof:parent_id":102079285,
+    "wof:parent_id":1729238603,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

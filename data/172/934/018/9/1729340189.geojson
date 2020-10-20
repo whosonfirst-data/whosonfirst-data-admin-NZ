@@ -1,0 +1,77 @@
+{
+  "id": 1729340189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10517.453547,
+    "geom:bbox":"174.36904,-36.618199,174.370223,-36.616073",
+    "geom:latitude":-36.617174,
+    "geom:longitude":174.369559,
+    "iso:country":"NZ",
+    "lbl:latitude":-36.617186,
+    "lbl:longitude":174.369519,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-36.617186,
+    "mps:longitude":174.369519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Puharakeke Island"
+    ],
+    "nz-linz:name":"Puharakeke Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687243,
+        102079403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4838
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621923,
+    "wof:geomhash":"e3795973453468e3a59315f7159db9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":1729340189,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":1729340189,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145090,
+    "wof:name":"Puharakeke Island",
+    "wof:parent_id":102079403,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.36904,
+    -36.618199,
+    174.370223,
+    -36.616073
+],
+  "geometry": {"coordinates":[[[174.37013999999999,-36.618199],[174.37011200000001,-36.618177],[174.37,-36.618179],[174.369744,-36.617979],[174.36965799999999,-36.61789],[174.36925299999999,-36.617288],[174.36910599999999,-36.616975],[174.36907600000001,-36.616885],[174.36904000000001,-36.616525],[174.36906200000001,-36.616254],[174.369088,-36.616119],[174.36914200000001,-36.616073],[174.36933999999999,-36.61616],[174.37021899999999,-36.617972],[174.37022300000001,-36.61813],[174.37013999999999,-36.618199]]],"type":"Polygon"}
+}

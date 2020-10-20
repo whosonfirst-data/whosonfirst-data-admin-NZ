@@ -1,0 +1,75 @@
+{
+  "id": 1729339999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5098.683293,
+    "geom:bbox":"178.295635,-38.534506,178.296699,-38.533672",
+    "geom:latitude":-38.534133,
+    "geom:longitude":178.296133,
+    "iso:country":"NZ",
+    "lbl:latitude":-38.534194,
+    "lbl:longitude":178.29609,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-38.534194,
+    "mps:longitude":178.29609,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Gable Islet"
+    ],
+    "nz-linz:name":"Gable Islet",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4313
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621848,
+    "wof:geomhash":"e8cc4ef776106f4bcb16251fec428093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729339999,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1729339999,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603144969,
+    "wof:name":"Gable Islet",
+    "wof:parent_id":85687237,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.295635,
+    -38.534506,
+    178.296699,
+    -38.533672
+],
+  "geometry": {"coordinates":[[[178.29669899999999,-38.533734],[178.29668000000001,-38.533848],[178.29649599999999,-38.534061],[178.296404,-38.534336],[178.296269,-38.534442],[178.296188,-38.534506],[178.29575700000001,-38.534505],[178.295635,-38.534421],[178.29566500000001,-38.534081],[178.29579799999999,-38.533962],[178.29630299999999,-38.533823],[178.296492,-38.533677],[178.29660699999999,-38.533672],[178.29664099999999,-38.533694],[178.29669899999999,-38.533734]]],"type":"Polygon"}
+}

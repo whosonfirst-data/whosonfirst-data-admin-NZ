@@ -1,0 +1,77 @@
+{
+  "id": 1729341219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11418.14741,
+    "geom:bbox":"174.579326,-35.838948,174.581117,-35.838003",
+    "geom:latitude":-35.838473,
+    "geom:longitude":174.580222,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.838422,
+    "lbl:longitude":174.580222,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-35.838422,
+    "mps:longitude":174.580222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Moturaka Island"
+    ],
+    "nz-linz:name":"Moturaka Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149,
+        102079257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4626
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622347,
+    "wof:geomhash":"b88ab10bfec714b44c4433538dcf524c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":1729341219,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729341219,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145832,
+    "wof:name":"Moturaka Island",
+    "wof:parent_id":102079257,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.579326,
+    -35.838948,
+    174.581117,
+    -35.838003
+],
+  "geometry": {"coordinates":[[[174.57932600000001,-35.838772],[174.57934800000001,-35.838569],[174.57999699999999,-35.838083],[174.580161,-35.838012],[174.58063100000001,-35.838003],[174.58094,-35.838131],[174.58105399999999,-35.838241],[174.58111700000001,-35.838488],[174.58090100000001,-35.838673],[174.579746,-35.838944],[174.57957999999999,-35.838948],[174.579441,-35.838906],[174.57932600000001,-35.838772]]],"type":"Polygon"}
+}

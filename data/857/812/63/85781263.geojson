@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "mps:latitude":-36.70506,
     "mps:longitude":174.747026,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -60,7 +61,9 @@
     "wof:belongsto":[
         85687243,
         102191583,
+        1729238453,
         85633345,
+        1293725293,
         102079403
     ],
     "wof:breaches":[],
@@ -77,21 +80,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "localadmin_id":1729238453,
+            "locality_id":1293725293,
             "neighbourhood_id":85781263,
             "region_id":85687243
         }
     ],
     "wof:id":85781263,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316525,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200812,
     "wof:name":"Waiake",
-    "wof:parent_id":-1,
+    "wof:parent_id":1293725293,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729338865
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

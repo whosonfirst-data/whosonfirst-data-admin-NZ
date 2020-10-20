@@ -1,0 +1,75 @@
+{
+  "id": 1729340633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2887.123053,
+    "geom:bbox":"169.331916,-43.669306,169.332693,-43.668612",
+    "geom:latitude":-43.668927,
+    "geom:longitude":169.332338,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.668903,
+    "lbl:longitude":169.332369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-43.668903,
+    "mps:longitude":169.332369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Abbey Rocks"
+    ],
+    "nz-linz:name":"Abbey Rocks",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4132
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622105,
+    "wof:geomhash":"1efa56b667a858b8ad48db7d8f7183ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729340633,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":1729340633,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603145432,
+    "wof:name":"Abbey Rocks",
+    "wof:parent_id":85687165,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.331916,
+    -43.669306,
+    169.332693,
+    -43.668612
+],
+  "geometry": {"coordinates":[[[169.33269300000001,-43.669272],[169.33265299999999,-43.669276],[169.33261899999999,-43.669304],[169.33250799999999,-43.669306],[169.332482,-43.66923],[169.33241699999999,-43.669158],[169.331962,-43.668999],[169.33192,-43.668682],[169.33191600000001,-43.668648],[169.33198300000001,-43.668667],[169.33212599999999,-43.668707],[169.332234,-43.668723],[169.33235199999999,-43.668612],[169.33252899999999,-43.668687],[169.33262300000001,-43.668806],[169.33269300000001,-43.669272]]],"type":"Polygon"}
+}

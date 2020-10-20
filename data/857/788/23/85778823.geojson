@@ -11,13 +11,14 @@
     "geom:longitude":174.70047,
     "gn:id":"",
     "iso:country":"NZ",
+    "lbl:bbox":"174.72047,-36.884881,174.72047,-36.884881",
     "lbl:latitude":-36.904881,
     "lbl:longitude":174.70047,
     "lbl:max_zoom":18.0,
     "mps:latitude":-36.904364,
     "mps:longitude":174.700782,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,10 +60,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687243,
         102191583,
+        1729238453,
         85633345,
-        102079403
+        1125997717,
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +74,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d3e096b8cd96d0fda65ccac66010d3be",
     "wof:hierarchy":[
@@ -80,18 +83,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":-1,
+            "localadmin_id":1729238453,
+            "locality_id":1125997717,
             "neighbourhood_id":85778823,
             "region_id":85687243
         }
     ],
     "wof:id":85778823,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316530,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210266,
     "wof:name":"Avondale South",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125997717,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

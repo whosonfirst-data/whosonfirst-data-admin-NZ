@@ -1,0 +1,60 @@
+{
+  "id": 1729367291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11926.489047,
+    "geom:bbox":"174.196338,-35.223333,174.197868,-35.222103",
+    "geom:latitude":-35.222648,
+    "geom:longitude":174.197083,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.22263,
+    "lbl:longitude":174.197068,
+    "mps:latitude":-35.22263,
+    "mps:longitude":174.197068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Otupoho Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887752,
+    "wof:geomhash":"6b1efb46af41e45e9753529e343987a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729367291,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729367291,
+    "wof:lastmodified":1603141647,
+    "wof:name":"Otupoho Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.196338,
+    -35.223333,
+    174.197868,
+    -35.222103
+],
+  "geometry": {"coordinates":[[[174.19686100000001,-35.222103],[174.197868,-35.222132],[174.197757,-35.222794],[174.197608,-35.222765],[174.19745399999999,-35.222813],[174.19710900000001,-35.223097],[174.19695200000001,-35.223308],[174.196819,-35.223333],[174.19667799999999,-35.223316],[174.19653700000001,-35.223203],[174.196338,-35.222959],[174.19637700000001,-35.222727],[174.19673499999999,-35.222388],[174.19686100000001,-35.222103]]],"type":"Polygon"}
+}

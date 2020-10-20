@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +19,7 @@
     "mps:latitude":-37.727332,
     "mps:longitude":176.1467,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -61,8 +62,9 @@
     "wof:belongsto":[
         85687175,
         102191583,
+        1729238603,
         85633345,
-        101914325,
+        1729337905,
         102079285
     ],
     "wof:breaches":[],
@@ -81,21 +83,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079285,
-            "locality_id":101914325,
+            "localadmin_id":1729238603,
+            "locality_id":1729337905,
             "neighbourhood_id":85781323,
             "region_id":85687175
         }
     ],
     "wof:id":85781323,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316527,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200825,
     "wof:name":"Parkvale",
-    "wof:parent_id":101914325,
+    "wof:parent_id":1729337905,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729337905
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

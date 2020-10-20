@@ -16,6 +16,7 @@
     "iso:country":"NZ",
     "lbl:latitude":-38.126205,
     "lbl:longitude":176.186632,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.129973,
     "mps:longitude":176.194075,
     "mz:hierarchy_label":0,
@@ -64,10 +65,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
-        85687175,
         102191583,
         85633345,
-        102079289
+        1125908429,
+        102079289,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,18 +87,23 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079289,
-            "locality_id":-1,
+            "locality_id":1125908429,
             "neighbourhood_id":85781065,
             "region_id":85687175
         }
     ],
     "wof:id":85781065,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316519,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200771,
     "wof:name":"Pleasant Heights",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125908429,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[

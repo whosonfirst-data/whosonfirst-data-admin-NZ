@@ -27,11 +27,18 @@
     "lbl:bbox":"170.89667,-42.78667,170.93667,-42.74667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Waikato-Tainui"
+    ],
+    "name:deu_x_variant":[
+        "Tainui"
+    ],
+    "name:mri_x_preferred":[
+        "Tainui"
     ],
     "name:msa_x_preferred":[
         "Tainui"
@@ -43,15 +50,15 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687165,
-        102079363
+        102079363,
+        85687165
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2182020
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cf1903eb21d277eb7015af7d2f355403",
+    "wof:geomhash":"61fb20e0b55e0f1a8ffd462d192f3885",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +69,15 @@
         }
     ],
     "wof:id":1243394083,
-    "wof:lastmodified":1566672658,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603230719,
     "wof:name":"Tainui",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",
@@ -72,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    170.91666999999995,
+    170.91667,
     -42.76667,
-    170.91666999999995,
+    170.91667,
     -42.76667
 ],
-  "geometry": {"coordinates":[170.91666999999995,-42.76667],"type":"Point"}
+  "geometry": {"coordinates":[170.91667000000001,-42.76667],"type":"Point"}
 }

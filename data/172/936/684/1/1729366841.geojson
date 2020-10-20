@@ -1,0 +1,60 @@
+{
+  "id": 1729366841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":48821.573227,
+    "geom:bbox":"174.255116,-35.225299,174.258236,-35.222996",
+    "geom:latitude":-35.224233,
+    "geom:longitude":174.256855,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.224215,
+    "lbl:longitude":174.256885,
+    "mps:latitude":-35.224215,
+    "mps:longitude":174.256885,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Onepoto Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887573,
+    "wof:geomhash":"63b1bf51043289f59dc241eb36346316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366841,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729366841,
+    "wof:lastmodified":1603141422,
+    "wof:name":"Onepoto Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.255116,
+    -35.225299,
+    174.258236,
+    -35.222996
+],
+  "geometry": {"coordinates":[[[174.25511599999999,-35.223832],[174.257228,-35.222996],[174.257542,-35.223282],[174.25774200000001,-35.223474],[174.25795299999999,-35.223701],[174.25818000000001,-35.223941],[174.25823600000001,-35.224168],[174.25822099999999,-35.224327],[174.25817599999999,-35.224542],[174.25808699999999,-35.225056],[174.258094,-35.225247],[174.25683799999999,-35.225299],[174.25556599999999,-35.2247],[174.25511599999999,-35.223832]]],"type":"Polygon"}
+}

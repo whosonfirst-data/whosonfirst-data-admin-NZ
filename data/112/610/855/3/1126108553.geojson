@@ -18,7 +18,8 @@
     "lbl:longitude":174.27021,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -48,10 +49,12 @@
     "woe:name_adm1":"Taranaki",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687195,
         102191583,
+        1729238475,
         85633345,
-        102079295
+        101914721,
+        102079295,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,15 +70,24 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079295,
-            "locality_id":-1,
+            "localadmin_id":1729238475,
+            "locality_id":101914721,
             "neighbourhood_id":1126108553,
             "region_id":85687195
         }
     ],
     "wof:id":1126108553,
-    "wof:lastmodified":1566672557,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603210308,
     "wof:name":"Turuturu",
-    "wof:parent_id":-1,
+    "wof:parent_id":101914721,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

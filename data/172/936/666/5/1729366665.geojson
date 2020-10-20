@@ -1,0 +1,60 @@
+{
+  "id": 1729366665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":46482.547577,
+    "geom:bbox":"173.410583,-41.145535,173.413802,-41.143399",
+    "geom:latitude":-41.144504,
+    "geom:longitude":173.412228,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.144483,
+    "lbl:longitude":173.412228,
+    "mps:latitude":-41.144483,
+    "mps:longitude":173.412228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Fall Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687157
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602887502,
+    "wof:geomhash":"f4ab3fb38112fb9ed343b1e7ad643a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729366665,
+            "region_id":85687157
+        }
+    ],
+    "wof:id":1729366665,
+    "wof:lastmodified":1603141332,
+    "wof:name":"Fall Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.410583,
+    -41.145535,
+    173.413802,
+    -41.143399
+],
+  "geometry": {"coordinates":[[[173.41262499999999,-41.143399],[173.41322600000001,-41.143669],[173.41331400000001,-41.143708],[173.41361699999999,-41.143976],[173.41377,-41.144245],[173.413802,-41.144558],[173.41341700000001,-41.145076],[173.41307399999999,-41.145535],[173.41093499999999,-41.145323],[173.410583,-41.143999],[173.41262499999999,-41.143399]]],"type":"Polygon"}
+}

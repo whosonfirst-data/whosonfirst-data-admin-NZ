@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22311,
-    "geom:area_square_m":2205114126.091891,
+    "geom:area_square_m":2205113797.143118,
     "geom:bbox":"175.326196,-37.298418,176.10688,-36.421344",
     "geom:latitude":-36.935843,
     "geom:longitude":175.642824,
@@ -45,11 +45,20 @@
     "name:eng_x_variant":[
         "Thames-Coromandel"
     ],
+    "name:fin_x_preferred":[
+        "Thames-Coromandel"
+    ],
     "name:fra_x_preferred":[
         "District de Thames-Coromandel"
     ],
+    "name:fra_x_variant":[
+        "Thames-Coromandel"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Thames-Coromandel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30e0\u30ba\u30fb\u30b3\u30fc\u30e9\u30de\u30f3\u30c7\u30eb\u90e1"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0435\u043c\u0441-\u041a\u043e\u0440\u043e\u043c\u0430\u043d\u0434\u0435\u043b"
@@ -122,7 +131,15 @@
         }
     ],
     "wof:id":102079261,
-    "wof:lastmodified":1583950772,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229228,
     "wof:name":"Thames-Coromandel District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

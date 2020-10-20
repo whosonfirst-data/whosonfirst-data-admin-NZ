@@ -27,29 +27,44 @@
     "lbl:bbox":"175.47724,-39.8041,175.51724,-39.7641",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633345
+        102191583,
+        85633345,
+        85687251,
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2184090
     },
     "wof:country":"NZ",
-    "wof:geomhash":"982ff5fceb8bb035034d60f19a9b4b10",
+    "wof:geomhash":"fbcabcccca8769364f6d9b1d17adef2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
             "country_id":85633345,
-            "locality_id":1209142101
+            "county_id":102079301,
+            "locality_id":1209142101,
+            "region_id":85687251
         }
     ],
     "wof:id":1209142101,
-    "wof:lastmodified":1566672344,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149448,
     "wof:name":"Pukeroa",
-    "wof:parent_id":85633345,
+    "wof:parent_id":102079301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],
@@ -57,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.49723999999995,
+    175.49724,
     -39.7841,
-    175.49723999999995,
+    175.49724,
     -39.7841
 ],
-  "geometry": {"coordinates":[175.49723999999995,-39.7841],"type":"Point"}
+  "geometry": {"coordinates":[175.49724000000001,-39.7841],"type":"Point"}
 }

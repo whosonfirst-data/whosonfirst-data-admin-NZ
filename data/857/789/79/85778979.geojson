@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +19,7 @@
     "mps:latitude":-37.709681,
     "mps:longitude":176.314075,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -62,8 +63,10 @@
     "wof:belongsto":[
         85687175,
         102191583,
+        1729238435,
         85633345,
-        102079285
+        101915579,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,30 +76,38 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"252e26f799e717936f66862fcacc4d37",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":102079285,
-            "locality_id":-1,
+            "county_id":102079283,
+            "localadmin_id":1729238435,
+            "locality_id":101915579,
             "neighbourhood_id":85778979,
             "region_id":85687175
         }
     ],
     "wof:id":85778979,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316532,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200705,
     "wof:name":"Papamoa Beach",
-    "wof:parent_id":-1,
+    "wof:parent_id":101915579,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101915579
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

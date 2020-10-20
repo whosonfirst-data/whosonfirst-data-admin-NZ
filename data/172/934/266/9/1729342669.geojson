@@ -1,0 +1,75 @@
+{
+  "id": 1729342669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1437.725355,
+    "geom:bbox":"172.971647,-43.890759,172.972079,-43.890217",
+    "geom:latitude":-43.89048,
+    "geom:longitude":172.971853,
+    "iso:country":"NZ",
+    "lbl:latitude":-43.890478,
+    "lbl:longitude":172.971849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-43.890478,
+    "mps:longitude":172.971849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "The Long Boat"
+    ],
+    "nz-linz:name":"The Long Boat",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":5027
+    },
+    "wof:country":"NZ",
+    "wof:created":1602622979,
+    "wof:geomhash":"914665aaad6edf042a7f3b73d3330b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":1729342669,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1729342669,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603146726,
+    "wof:name":"The Long Boat",
+    "wof:parent_id":85687179,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.971647,
+    -43.890759,
+    172.972079,
+    -43.890217
+],
+  "geometry": {"coordinates":[[[172.97171,-43.890759],[172.97164699999999,-43.890692],[172.97170600000001,-43.890354],[172.97182900000001,-43.890218],[172.97198499999999,-43.890217],[172.97207900000001,-43.890307],[172.971959,-43.890668],[172.97186500000001,-43.890735],[172.97171,-43.890759]]],"type":"Polygon"}
+}

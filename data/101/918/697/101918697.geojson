@@ -5,17 +5,21 @@
     "edtf:cessation":"2017-02-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2375.828237,
-    "geom:bbox":"175.703522056,-40.6424902092,175.704441566,-40.6418434676",
+    "geom:area_square_m":2376.611501,
+    "geom:bbox":"175.703522,-40.64249,175.704442,-40.641843",
     "geom:latitude":-40.642164,
     "geom:longitude":175.703987,
     "iso:country":"NZ",
     "lbl:latitude":-40.642086,
     "lbl:longitude":175.70386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-40.642086,
     "mps:longitude":175.70386,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Eketahuna"
     ],
@@ -47,7 +51,7 @@
         "wk:page":"Eketahuna"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6548027d7960e4ad5dde5cd64d8612c4",
+    "wof:geomhash":"bea82acc008022d2e51299d00fdad7f2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +62,15 @@
         }
     ],
     "wof:id":101918697,
-    "wof:lastmodified":1527715677,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603148858,
     "wof:name":"Eketahuna",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",
@@ -70,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.70352205610118,
-    -40.64249020922926,
-    175.70444156624126,
-    -40.64184346758971
+    175.703522,
+    -40.64249,
+    175.704442,
+    -40.641843
 ],
-  "geometry": {"coordinates":[[[175.70444156624126,-40.64225457876454],[175.70422870576428,-40.64249020922926],[175.70352205610118,-40.64206617574516],[175.70376027668328,-40.64184346758971],[175.70444156624126,-40.64225457876454]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[175.704442,-40.642255],[175.704229,-40.64249],[175.70352199999999,-40.642066],[175.70375999999999,-40.641843],[175.704442,-40.642255]]],"type":"Polygon"}
 }

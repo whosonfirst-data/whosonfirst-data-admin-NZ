@@ -1,0 +1,60 @@
+{
+  "id": 1729369187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":62246.695908,
+    "geom:bbox":"174.273086,-41.218818,174.277054,-41.215483",
+    "geom:latitude":-41.217248,
+    "geom:longitude":174.275059,
+    "iso:country":"NZ",
+    "lbl:latitude":-41.21771,
+    "lbl:longitude":174.27536,
+    "mps:latitude":-41.21771,
+    "mps:longitude":174.27536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Kotoitoi Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888523,
+    "wof:geomhash":"3fd286f8f38cefc607e20e771651d228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369187,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":1729369187,
+    "wof:lastmodified":1603142583,
+    "wof:name":"Kotoitoi Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.273086,
+    -41.218818,
+    174.277054,
+    -41.215483
+],
+  "geometry": {"coordinates":[[[174.27705399999999,-41.216328],[174.27671699999999,-41.218263],[174.27491599999999,-41.218818],[174.27488199999999,-41.218638],[174.27457100000001,-41.218215],[174.274171,-41.217771],[174.27389600000001,-41.217573],[174.27322100000001,-41.216885],[174.27309500000001,-41.21664],[174.27308600000001,-41.216324],[174.273169,-41.21612],[174.273157,-41.21567],[174.273258,-41.215512],[174.27357000000001,-41.215483],[174.27381099999999,-41.215592],[174.27399700000001,-41.215836],[174.274157,-41.216216],[174.274676,-41.216637],[174.27506700000001,-41.216743],[174.27548400000001,-41.216736],[174.27613600000001,-41.216568],[174.27664300000001,-41.21656],[174.27705399999999,-41.216328]]],"type":"Polygon"}
+}

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "mps:latitude":-43.475929,
     "mps:longitude":172.594554,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -63,8 +64,9 @@
     "wof:belongsto":[
         85687179,
         102191583,
+        1729238507,
         85633345,
-        101914521,
+        1729337753,
         102079401
     ],
     "wof:breaches":[],
@@ -75,8 +77,8 @@
     },
     "wof:country":"NZ",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"53553724cf42e17dee80824b11654d5d",
     "wof:hierarchy":[
@@ -84,21 +86,29 @@
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079401,
-            "locality_id":101914521,
+            "localadmin_id":1729238507,
+            "locality_id":1729337753,
             "neighbourhood_id":85778221,
             "region_id":85687179
         }
     ],
     "wof:id":85778221,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
     ],
-    "wof:lastmodified":1582316521,
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603200553,
     "wof:name":"Casebrook",
-    "wof:parent_id":101914521,
+    "wof:parent_id":1729337753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729337753
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

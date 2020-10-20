@@ -1,0 +1,86 @@
+{
+  "id": 1729340205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7091.93063,
+    "geom:bbox":"168.329757,-46.568324,168.331228,-46.567457",
+    "geom:latitude":-46.567921,
+    "geom:longitude":168.330475,
+    "iso:country":"NZ",
+    "lbl:latitude":-46.567851,
+    "lbl:longitude":168.330534,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":-46.567851,
+    "mps:longitude":168.330534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Rabbit Island"
+    ],
+    "name:deu_x_preferred":[
+        "Rabbit Island"
+    ],
+    "name:eng_x_preferred":[
+        "Rabbit Island"
+    ],
+    "name:swe_x_preferred":[
+        "Rabbit Island"
+    ],
+    "nz-linz:name":"Rabbit Island",
+    "nz-linz:type":"ISLAND",
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079397,
+        85687211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "nz-linz:id":4858
+    },
+    "wof:country":"NZ",
+    "wof:created":1602621929,
+    "wof:geomhash":"f37358c918aeac7b774493d4b121eab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":1729340205,
+            "region_id":85687211
+        }
+    ],
+    "wof:id":1729340205,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603229752,
+    "wof:name":"Rabbit Island",
+    "wof:parent_id":102079397,
+    "wof:placetype":"locality",
+    "wof:placetype_local":"island",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.329757,
+    -46.568324,
+    168.331228,
+    -46.567457
+],
+  "geometry": {"coordinates":[[[168.329757,-46.568142],[168.32976199999999,-46.567956],[168.32993099999999,-46.567712],[168.33028999999999,-46.567457],[168.33046200000001,-46.567541],[168.33065199999999,-46.567529],[168.330838,-46.567684],[168.33112800000001,-46.567772],[168.33122800000001,-46.567892],[168.33109400000001,-46.568188],[168.33077499999999,-46.568324],[168.33049399999999,-46.568236],[168.33037400000001,-46.568128],[168.330187,-46.56823],[168.32986,-46.568223],[168.329757,-46.568142]]],"type":"Polygon"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1729369039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":58975.717956,
+    "geom:bbox":"174.741431,-35.477046,174.745005,-35.474658",
+    "geom:latitude":-35.475756,
+    "geom:longitude":174.743356,
+    "iso:country":"NZ",
+    "lbl:latitude":-35.475764,
+    "lbl:longitude":174.743211,
+    "mps:latitude":-35.475764,
+    "mps:longitude":174.743211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Crater Bay"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687149
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888464,
+    "wof:geomhash":"a3fefe50c95b93105fa6447eb0cf4121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729369039,
+            "region_id":85687149
+        }
+    ],
+    "wof:id":1729369039,
+    "wof:lastmodified":1603142510,
+    "wof:name":"Crater Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.741431,
+    -35.477046,
+    174.745005,
+    -35.474658
+],
+  "geometry": {"coordinates":[[[174.74143100000001,-35.475325],[174.742932,-35.474658],[174.74500499999999,-35.474884],[174.744719,-35.476568],[174.744471,-35.476551],[174.74405899999999,-35.476626],[174.743787,-35.476767],[174.74373,-35.4769],[174.74337399999999,-35.477039],[174.74317099999999,-35.477046],[174.74288300000001,-35.476965],[174.742436,-35.476748],[174.74229500000001,-35.476615],[174.742177,-35.476325],[174.74192400000001,-35.476171],[174.74180100000001,-35.475701],[174.74143100000001,-35.475325]]],"type":"Polygon"}
+}

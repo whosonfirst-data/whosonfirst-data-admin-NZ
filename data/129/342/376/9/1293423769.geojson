@@ -27,8 +27,9 @@
     "lbl:bbox":"171.89667,-43.77,171.93667,-43.73",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Somerton"
@@ -81,7 +82,7 @@
         "gn:id":2182572
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4d507f4d4cbd7e262fa3bfd6d1629999",
+    "wof:geomhash":"eee65d7d05e3b452cee65906fc174e55",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -92,7 +93,15 @@
         }
     ],
     "wof:id":1293423769,
-    "wof:lastmodified":1566672319,
+    "wof:lang_x_official":[
+        "eng",
+        "mri"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mri"
+    ],
+    "wof:lastmodified":1603149899,
     "wof:name":"Somerton",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",
@@ -102,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    171.91666999999995,
+    171.91667,
     -43.75,
-    171.91666999999995,
+    171.91667,
     -43.75
 ],
-  "geometry": {"coordinates":[171.91666999999995,-43.75],"type":"Point"}
+  "geometry": {"coordinates":[171.91667000000001,-43.75],"type":"Point"}
 }

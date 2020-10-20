@@ -1,0 +1,60 @@
+{
+  "id": 1729368535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":868388.502726,
+    "geom:bbox":"175.504977,-37.10251,175.516496,-37.093193",
+    "geom:latitude":-37.098276,
+    "geom:longitude":175.51071,
+    "iso:country":"NZ",
+    "lbl:latitude":-37.098185,
+    "lbl:longitude":175.51071,
+    "mps:latitude":-37.098185,
+    "mps:longitude":175.51071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Tainui Cove"
+    ],
+    "src:geom":"nz-linz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        85687229
+    ],
+    "wof:breaches":[],
+    "wof:country":"NZ",
+    "wof:created":1602888257,
+    "wof:geomhash":"f5d8ccfb32aa3d20162c290960fa8489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "locality_id":-1,
+            "neighbourhood_id":1729368535,
+            "region_id":85687229
+        }
+    ],
+    "wof:id":1729368535,
+    "wof:lastmodified":1603142261,
+    "wof:name":"Tainui Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.504977,
+    -37.10251,
+    175.516496,
+    -37.093193
+],
+  "geometry": {"coordinates":[[[175.513949,-37.093193],[175.51403999999999,-37.093348],[175.514276,-37.093589],[175.51482999999999,-37.094002],[175.51512500000001,-37.09431],[175.51557399999999,-37.094929],[175.51603700000001,-37.095841],[175.516481,-37.096347],[175.516482,-37.09637],[175.51649599999999,-37.096685],[175.516346,-37.097117],[175.51583099999999,-37.098192],[175.515659,-37.098761],[175.515669,-37.098986],[175.51573500000001,-37.099233],[175.51598000000001,-37.099677],[175.51599100000001,-37.099902],[175.515557,-37.100929],[175.51531299999999,-37.101794],[175.51532700000001,-37.102109],[175.51548600000001,-37.10251],[175.504977,-37.102439],[175.505627,-37.094991],[175.513949,-37.093193]]],"type":"Polygon"}
+}
