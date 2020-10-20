@@ -20,7 +20,7 @@
     "mps:longitude":173.304841,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -115,12 +115,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687157,
         102191583,
         1729238513,
         85633345,
         1292934619,
-        102079351
+        102079351,
+        85687157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,7 +154,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200876,
+    "wof:lastmodified":1603210214,
     "wof:name":"Brooklands",
     "wof:parent_id":1292934619,
     "wof:placetype":"neighbourhood",

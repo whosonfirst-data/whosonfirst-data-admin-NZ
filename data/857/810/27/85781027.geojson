@@ -20,7 +20,7 @@
     "mps:longitude":177.422543,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -64,11 +64,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687189,
         102191583,
         85633345,
         101914545,
-        102079327,
-        85687189
+        102079327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200763,
+    "wof:lastmodified":1603210237,
     "wof:name":"North Clyde",
     "wof:parent_id":101914545,
     "wof:placetype":"neighbourhood",

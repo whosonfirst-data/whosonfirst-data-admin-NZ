@@ -19,7 +19,7 @@
     "mps:longitude":170.961113,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -56,12 +56,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687201,
         102191583,
         1729238521,
         85633345,
         101914699,
-        102079381
+        102079381,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +94,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200976,
+    "wof:lastmodified":1603210189,
     "wof:name":"Oamaru Central",
     "wof:parent_id":101914699,
     "wof:placetype":"neighbourhood",

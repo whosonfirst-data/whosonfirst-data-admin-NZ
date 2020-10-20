@@ -19,7 +19,7 @@
     "mps:longitude":173.283732,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -63,12 +63,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":374,
     "wof:belongsto":[
-        85687157,
         102191583,
         1729238513,
         85633345,
         101915555,
-        102079351
+        102079351,
+        85687157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +102,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200974,
+    "wof:lastmodified":1603210190,
     "wof:name":"Nelson Central",
     "wof:parent_id":101915555,
     "wof:placetype":"neighbourhood",

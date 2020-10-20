@@ -20,7 +20,7 @@
     "mps:longitude":174.796783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -64,12 +64,12 @@
     "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":176,
     "wof:belongsto":[
-        85687243,
         102191583,
         1729238453,
         85633345,
         1729338227,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +105,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200651,
+    "wof:lastmodified":1603210269,
     "wof:name":"Te Papapa",
     "wof:parent_id":1729338227,
     "wof:placetype":"neighbourhood",

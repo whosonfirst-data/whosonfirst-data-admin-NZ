@@ -20,7 +20,7 @@
     "mps:longitude":176.35009,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -61,12 +61,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687175,
         102191583,
         1729238435,
         85633345,
         101915579,
-        102079283
+        102079283,
+        85687175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +100,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603201004,
+    "wof:lastmodified":1603210177,
     "wof:name":"Papamoa Beach East",
     "wof:parent_id":101915579,
     "wof:placetype":"neighbourhood",

@@ -19,7 +19,7 @@
     "mps:longitude":175.646055,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -57,12 +57,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687233,
         102191583,
         1729238527,
         85633345,
         101915543,
-        102079343
+        102079343,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +95,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200971,
+    "wof:lastmodified":1603210191,
     "wof:name":"Masterton Central",
     "wof:parent_id":101915543,
     "wof:placetype":"neighbourhood",

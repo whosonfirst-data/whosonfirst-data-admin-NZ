@@ -20,7 +20,7 @@
     "mps:longitude":174.985862,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -144,12 +144,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":1955,
     "wof:belongsto":[
-        85687233,
         102191583,
         1729238533,
         85633345,
         101915621,
-        102079337
+        102079337,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -183,7 +183,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200746,
+    "wof:lastmodified":1603210241,
     "wof:name":"Holborn",
     "wof:parent_id":101915621,
     "wof:placetype":"neighbourhood",

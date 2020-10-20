@@ -19,7 +19,7 @@
     "mps:longitude":172.647247,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -204,12 +204,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2296,
     "wof:belongsto":[
-        85687179,
         102191583,
         1729238507,
         85633345,
         1729337755,
-        102079401
+        102079401,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -243,7 +243,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200999,
+    "wof:lastmodified":1603210180,
     "wof:name":"Cashmere South",
     "wof:parent_id":1729337755,
     "wof:placetype":"neighbourhood",

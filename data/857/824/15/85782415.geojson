@@ -19,7 +19,7 @@
     "mps:longitude":174.28175,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -59,12 +59,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687195,
         102191583,
         1729238475,
         85633345,
         101914721,
-        102079295
+        102079295,
+        85687195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200963,
+    "wof:lastmodified":1603210194,
     "wof:name":"Hawera Central",
     "wof:parent_id":101914721,
     "wof:placetype":"neighbourhood",

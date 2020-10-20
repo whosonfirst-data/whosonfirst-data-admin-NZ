@@ -19,7 +19,7 @@
     "mps:longitude":168.942828,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -59,12 +59,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687211,
         102191583,
         1729238489,
         85633345,
         101914261,
-        102079393
+        102079393,
+        85687211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603201000,
+    "wof:lastmodified":1603210180,
     "wof:name":"Gore North",
     "wof:parent_id":101914261,
     "wof:placetype":"neighbourhood",

@@ -18,7 +18,7 @@
     "mps:longitude":174.731945,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -134,12 +134,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":406,
     "wof:belongsto":[
-        85687243,
         102191583,
         1729238453,
         85633345,
         101918489,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +170,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200598,
+    "wof:lastmodified":1603210274,
     "wof:name":"Marlborough",
     "wof:parent_id":101918489,
     "wof:placetype":"neighbourhood",

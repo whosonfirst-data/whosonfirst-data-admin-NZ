@@ -20,7 +20,7 @@
     "mps:longitude":172.745929,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -79,12 +79,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1402,
     "wof:belongsto":[
-        85687179,
         102191583,
         1729238507,
         85633345,
         1729338637,
-        102079401
+        102079401,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +120,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200687,
+    "wof:lastmodified":1603210259,
     "wof:name":"New Brighton South",
     "wof:parent_id":1729338637,
     "wof:placetype":"neighbourhood",

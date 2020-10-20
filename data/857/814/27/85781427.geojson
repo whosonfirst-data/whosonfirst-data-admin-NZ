@@ -20,7 +20,7 @@
     "mps:longitude":171.278063,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -61,11 +61,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914401,
-        102079373,
-        85687179
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +98,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200845,
+    "wof:lastmodified":1603210220,
     "wof:name":"Andrewville",
     "wof:parent_id":101914401,
     "wof:placetype":"neighbourhood",

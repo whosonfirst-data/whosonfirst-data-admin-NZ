@@ -19,7 +19,7 @@
     "mps:longitude":168.700749,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -58,12 +58,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687201,
         102191583,
         1729238565,
         85633345,
         101914507,
-        102079385
+        102079385,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +95,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200914,
+    "wof:lastmodified":1603210204,
     "wof:name":"Wakatipu Heights",
     "wof:parent_id":101914507,
     "wof:placetype":"neighbourhood",

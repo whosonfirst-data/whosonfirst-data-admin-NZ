@@ -19,7 +19,7 @@
     "mps:longitude":170.998736,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -55,12 +55,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687201,
         102191583,
         1729238521,
         85633345,
         1729338875,
-        102079381
+        102079381,
+        85687201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +92,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200851,
+    "wof:lastmodified":1603210219,
     "wof:name":"Fernbrook",
     "wof:parent_id":1729338875,
     "wof:placetype":"neighbourhood",

@@ -19,7 +19,7 @@
     "mps:longitude":173.970563,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -107,12 +107,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687185,
         102191583,
         1729238455,
         85633345,
         101915709,
-        102079353
+        102079353,
+        85687185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -145,7 +145,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603200791,
+    "wof:lastmodified":1603210231,
     "wof:name":"Townsend",
     "wof:parent_id":101915709,
     "wof:placetype":"neighbourhood",

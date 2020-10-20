@@ -17,6 +17,7 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NZ",
@@ -43,12 +44,12 @@
     "woe:name_adm1":"Auckland Region",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687243,
         102191583,
         1729238453,
         85633345,
         1729338109,
-        102079403
+        102079403,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +79,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603175134,
+    "wof:lastmodified":1603210332,
     "wof:name":"Cumbria Downs",
     "wof:parent_id":1729338109,
     "wof:placetype":"neighbourhood",
