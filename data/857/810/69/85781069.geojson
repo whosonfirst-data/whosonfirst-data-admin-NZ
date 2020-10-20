@@ -63,12 +63,13 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":39,
     "wof:belongsto":[
+        85687233,
         102191583,
-        85633345,
-        102079337,
         1729238533,
-        1276478687,
-        85687233
+        85633345,
+        101914319,
+        102079337,
+        1276478687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +82,15 @@
     ],
     "wof:geomhash":"f4724d26d8239b48e7201f60156fe6c3",
     "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "localadmin_id":1729238533,
+            "locality_id":101914319,
+            "neighbourhood_id":85781069,
+            "region_id":85687233
+        },
         {
             "continent_id":102191583,
             "country_id":85633345,
@@ -100,9 +110,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603229324,
+    "wof:lastmodified":1603235077,
     "wof:name":"Pomare",
-    "wof:parent_id":1276478687,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:superseded_by":[],

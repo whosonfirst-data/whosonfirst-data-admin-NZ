@@ -389,7 +389,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1729238493
+        85687229,
+        102191583,
+        1729238493,
+        85633345,
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -406,10 +410,12 @@
     "wof:geomhash":"6d5a799e5bce38b28c75523ad5d4e42d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "localadmin_id":1729238493,
             "locality_id":101914271,
-            "region_id":-1
+            "region_id":85687229
         }
     ],
     "wof:id":101914271,
@@ -421,7 +427,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230340,
+    "wof:lastmodified":1603235074,
     "wof:name":"Hamilton",
     "wof:parent_id":1729238493,
     "wof:placetype":"locality",
