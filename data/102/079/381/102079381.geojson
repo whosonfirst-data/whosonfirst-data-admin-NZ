@@ -100,6 +100,7 @@
     "wof:belongsto":[
         102191583,
         85633345,
+        85687179,
         85687201
     ],
     "wof:breaches":[],
@@ -108,12 +109,22 @@
         "hasc:id":"NZ.OT.WI",
         "wd:id":"Q1760804"
     },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
     "wof:geomhash":"e19a60de1b9e7087f8dc77286168c5ca",
     "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "region_id":85687179
+        },
         {
             "continent_id":102191583,
             "country_id":85633345,
@@ -130,9 +141,9 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603161973,
+    "wof:lastmodified":1603212990,
     "wof:name":"Waitaki District",
-    "wof:parent_id":85687201,
+    "wof:parent_id":-4,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:population":20085,
