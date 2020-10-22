@@ -389,11 +389,11 @@
     "wd:population":362000,
     "wd:wordcount":8478,
     "wof:belongsto":[
-        85687179,
         102191583,
-        1729238507,
         85633345,
-        102079401
+        102079401,
+        1729238507,
+        85687179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -430,7 +430,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603235723,
+    "wof:lastmodified":1603394480,
     "wof:megacity":0,
     "wof:name":"Christchurch",
     "wof:parent_id":1729238507,
@@ -439,9 +439,7 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:scale":3,
-    "wof:superseded_by":[
-        1729238507
-    ],
+    "wof:superseded_by":[],
     "wof:supersedes":[
         101914709,
         101914711,
