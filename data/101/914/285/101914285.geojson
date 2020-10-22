@@ -519,11 +519,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238583,
         85633345,
-        102079339
+        102079339,
+        1729238583,
+        85687233
     ],
     "wof:breaches":[],
     "wof:capital_of":85633345,
@@ -561,16 +561,14 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603235724,
+    "wof:lastmodified":1603394477,
     "wof:name":"Wellington",
     "wof:parent_id":1729238583,
     "wof:placetype":"locality",
     "wof:population":381900,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[
-        1729238583
-    ],
+    "wof:superseded_by":[],
     "wof:supersedes":[
         101914341,
         101914343,
