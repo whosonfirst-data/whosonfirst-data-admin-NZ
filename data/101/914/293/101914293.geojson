@@ -98,10 +98,13 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        85687195,
-        102079293
+        102079293,
+        85687195
     ],
     "wof:breaches":[],
+    "wof:capital_of":[
+        85687195
+    ],
     "wof:concordances":{
         "fct:id":"020c6a94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6223846,
@@ -133,7 +136,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603135896,
+    "wof:lastmodified":1607462734,
     "wof:name":"Stratford",
     "wof:parent_id":102079293,
     "wof:placetype":"locality",
