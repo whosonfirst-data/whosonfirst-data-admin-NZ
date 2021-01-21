@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3139.999022,
@@ -17,8 +18,8 @@
     "mps:latitude":-41.219762,
     "mps:longitude":175.447934,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
-    "mz:is_funky":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Martinborough"
@@ -284,7 +285,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230407,
+    "wof:lastmodified":1611269649,
     "wof:name":"Martinorough",
     "wof:parent_id":102079347,
     "wof:placetype":"locality",
