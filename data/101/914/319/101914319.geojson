@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-21",
     "edtf:inception":"uuuu",
     "geom:area":0.001643,
     "geom:area_square_m":15282505.958205,
@@ -19,7 +20,7 @@
     "mps:latitude":-41.208196,
     "mps:longitude":174.912578,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
@@ -219,11 +220,11 @@
     "wd:population":102000,
     "wd:wordcount":2727,
     "wof:belongsto":[
-        85687233,
         102191583,
-        1729238533,
         85633345,
-        102079337
+        102079337,
+        1729238533,
+        85687233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -260,14 +261,16 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603235725,
+    "wof:lastmodified":1611269633,
     "wof:name":"Lower Hutt",
     "wof:parent_id":1729238533,
     "wof:placetype":"locality",
     "wof:population":102000,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729238533
+    ],
     "wof:supersedes":[
         101914351,
         101914519,
