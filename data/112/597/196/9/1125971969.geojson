@@ -23,14 +23,80 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0646\u062c\u064a\u062a\u0627\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u0999\u09cd\u0997\u09bf\u09a4\u09be\u09a4\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03bd\u03b3\u03ba\u03b9\u03c4\u03ac\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Rangitata"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0646\u06af\u06cc\u062a\u0627\u062a\u0627"
     ],
     "name:fra_x_preferred":[
         "Rangitata"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e0\u05d2\u05d9\u05d8\u05d0\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0902\u0917\u093f\u0924\u093e\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Rangitata"
+    ],
+    "name:ind_x_preferred":[
+        "Rangitata"
+    ],
+    "name:ita_x_preferred":[
+        "Rangitata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30ae\u30bf\u30bf\u5ddd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub791\uae30\ud0c0\ud0c0"
+    ],
+    "name:pol_x_preferred":[
+        "Rangitata"
+    ],
+    "name:por_x_preferred":[
+        "Rangitata"
+    ],
+    "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0420\u0430\u043d\u0433\u0438\u0442\u0430\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rangitata"
+    ],
+    "name:swe_x_preferred":[
+        "Rangitata River"
+    ],
+    "name:tur_x_preferred":[
+        "Rangitata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043d\u0433\u0456\u0442\u0430\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "South Rangitata"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0646\u06af\u06cc\u0679\u0627\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Rangitata"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6717\u5409\u5854\u5854\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6717\u5409\u5854\u5854\u6cb3"
     ],
     "nz-linz:id":1364,
     "nz-linz:name":"Rangitata",
@@ -67,8 +133,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079373,
-        85687179
+        85687179,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +167,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230589,
+    "wof:lastmodified":1636495131,
     "wof:name":"Rangitata",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

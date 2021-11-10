@@ -75,8 +75,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab2\u0ac7\u0aa8\u0ab9\u0ac7\u0a88\u0aae"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d9\u05d9\u05e0\u05d4\u05d9\u05d9\u05dd"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094d\u0932\u0947\u0928\u0939\u0947\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Blenheim"
     ],
     "name:ind_x_preferred":[
         "Blenheim"
@@ -193,11 +199,11 @@
     "src:population":"geonames",
     "wd:wordcount":2267,
     "wof:belongsto":[
+        85687185,
         102191583,
-        85633345,
-        102079353,
         1729238455,
-        85687185
+        85633345,
+        102079353
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -240,7 +246,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1607462733,
+    "wof:lastmodified":1636495108,
     "wof:name":"Blenheim",
     "wof:parent_id":1729238455,
     "wof:placetype":"locality",

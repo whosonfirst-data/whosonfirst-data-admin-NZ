@@ -28,11 +28,23 @@
     "name:eng_x_preferred":[
         "Black Point"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05e7 \u05e4\u05d5\u05d9\u05e0\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Black Point"
+    ],
     "name:spa_x_preferred":[
         "Black Point"
     ],
     "name:swe_x_preferred":[
         "Black Point"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e03\u83b1\u514b\u89d2"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e03\u62c9\u514b\u6ce2\u56e0\u7279"
     ],
     "nz-linz:name":"Black Point",
     "nz-linz:type":"LOCALITY",
@@ -41,8 +53,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079381,
-        85687201
+        85687201,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +81,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603229623,
+    "wof:lastmodified":1636495093,
     "wof:name":"Black Point",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

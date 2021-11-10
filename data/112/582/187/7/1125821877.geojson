@@ -23,8 +23,14 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u09b0\u09c1\u099c\u09be\u09b2\u09c7\u09ae"
+    ],
     "name:deu_x_preferred":[
         "Jerusalem"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc"
     ],
     "name:eng_x_preferred":[
         "Jerusalem"
@@ -37,6 +43,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05e8\u05d5\u05d6\u05dc\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u0930\u0942\u0936\u0932\u0947\u092e"
     ],
     "name:mri_x_preferred":[
         "Hiruharama"
@@ -76,8 +85,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079299,
-        85687251
+        85687251,
+        102079299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +116,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230653,
+    "wof:lastmodified":1636495135,
     "wof:name":"Jerusalem",
     "wof:parent_id":102079299,
     "wof:placetype":"locality",

@@ -20,16 +20,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u064a\u0631\u0644\u064a\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09b2\u09bf\u0982"
+    ],
     "name:ceb_x_preferred":[
         "Stirling"
     ],
     "name:eng_x_preferred":[
         "Stirling"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u0930\u094d\u0932\u093f\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Stirling"
+    ],
     "name:mri_x_preferred":[
         "Stirling"
     ],
     "name:msa_x_preferred":[
+        "Stirling"
+    ],
+    "name:tur_x_preferred":[
+        "Stirling"
+    ],
+    "name:vie_x_preferred":[
         "Stirling"
     ],
     "nz-linz:id":2383,
@@ -55,8 +73,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079389,
-        85687201
+        85687201,
+        102079389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +109,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230391,
+    "wof:lastmodified":1636495125,
     "wof:name":"Stirling",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

@@ -19,17 +19,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b6\u09cd\u09af\u09be\u09a8\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Shannon"
     ],
     "name:deu_x_preferred":[
         "Shannon"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03bf\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Shannon"
     ],
     "name:fra_x_preferred":[
         "Shannon"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0947\u0928\u0928"
     ],
     "name:msa_x_preferred":[
         "Shannon"
@@ -40,11 +49,17 @@
     "name:pol_x_preferred":[
         "Shannon"
     ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043d\u043d\u043e\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0646\u0646\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
     ],
     "name:urd_x_variant":[
         "\u0634\u06cc\u0646\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Shannon"
     ],
     "nz-linz:id":4042,
     "nz-linz:name":"Shannon",
@@ -68,8 +83,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079313,
-        85687251
+        85687251,
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +117,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230247,
+    "wof:lastmodified":1636495108,
     "wof:name":"Shannon",
     "wof:parent_id":102079313,
     "wof:placetype":"locality",

@@ -254,6 +254,9 @@
         "Virginia"
     ],
     "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30b8\u30cb\u30a2"
+    ],
+    "name:jpn_x_variant":[
         "\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde"
     ],
     "name:kab_x_preferred":[
@@ -542,8 +545,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079365,
-        85687179
+        85687179,
+        102079365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -570,7 +573,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603229719,
+    "wof:lastmodified":1636495094,
     "wof:name":"Virginia",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

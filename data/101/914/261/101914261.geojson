@@ -64,6 +64,9 @@
         "\u30b4\u30a2"
     ],
     "name:kor_x_preferred":[
+        "\uace0\ub9ac"
+    ],
+    "name:kor_x_variant":[
         "\uace0\uc5b4"
     ],
     "name:mri_x_preferred":[
@@ -84,6 +87,9 @@
     "name:pol_x_preferred":[
         "Gore"
     ],
+    "name:por_x_preferred":[
+        "Gore"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440"
     ],
@@ -95,6 +101,24 @@
     ],
     "name:swe_x_preferred":[
         "Gore"
+    ],
+    "name:tur_x_preferred":[
+        "Gore"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0631\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Gore"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6208\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6208\u723e"
     ],
     "name:zho_x_preferred":[
         "\u5317\u5e15\u83ab\u65af\u987f"
@@ -120,11 +144,11 @@
     "src:population":"geonames",
     "wd:wordcount":1699,
     "wof:belongsto":[
+        85687211,
         102191583,
-        85633345,
-        102079393,
         1729238489,
-        85687211
+        85633345,
+        102079393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,7 +186,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230311,
+    "wof:lastmodified":1636495114,
     "wof:name":"Gore",
     "wof:parent_id":1729238489,
     "wof:placetype":"locality",

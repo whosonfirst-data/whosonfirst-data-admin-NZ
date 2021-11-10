@@ -67,7 +67,13 @@
     "name:fra_x_preferred":[
         "Para"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Para"
+    ],
+    "name:hun_x_preferred":[
         "Para"
     ],
     "name:ind_x_preferred":[
@@ -137,8 +143,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079353,
-        85687185
+        85687185,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,7 +170,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230743,
+    "wof:lastmodified":1636495138,
     "wof:name":"Para",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

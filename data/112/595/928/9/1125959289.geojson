@@ -21,6 +21,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u064a\u0631\u0629 \u0623\u0648\u0647\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u0995 \u0993\u09b9\u09be\u0989"
+    ],
     "name:cat_x_preferred":[
         "Llac Ohau"
     ],
@@ -30,11 +36,35 @@
     "name:deu_x_preferred":[
         "Lake Ohau"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03bd\u03b7 \u039f\u03c7\u03ac\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Lake Ohau"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u0686\u0647 \u0627\u0648\u0647\u0627\u0626\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ohau"
+    ],
+    "name:fra_x_preferred":[
+        "Lake Ohau"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dd \u05d0\u05d5\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0939\u093e\u090a \u091d\u0940\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Ohau-t\u00f3"
+    ],
+    "name:ind_x_preferred":[
+        "Danau Ohau"
+    ],
+    "name:ita_x_preferred":[
+        "Lake Ohau"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30cf\u30a6\u6e56"
@@ -57,6 +87,9 @@
     "name:pol_x_preferred":[
         "Ohau"
     ],
+    "name:por_x_preferred":[
+        "Lago \u014chau"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0445\u0430\u0443"
     ],
@@ -65,6 +98,18 @@
     ],
     "name:swe_x_preferred":[
         "Lake Ohau"
+    ],
+    "name:tur_x_preferred":[
+        "Ohau G\u00f6l\u00fc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043e\u0437\u0435\u0440\u043e \u041e\u0445\u0430\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06be\u06cc\u0644 \u0627\u0648\u06c1\u0627\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ed3 Ohau"
     ],
     "name:zho_x_preferred":[
         "\u5967\u8c6a\u6e56"
@@ -134,7 +179,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1617131188,
+    "wof:lastmodified":1636495129,
     "wof:name":"Lake Ohau",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

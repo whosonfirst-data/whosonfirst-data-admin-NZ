@@ -21,6 +21,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u064a\u0631\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u0993\u09df\u09c7\u09b0\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Hawera"
     ],
@@ -30,16 +36,34 @@
     "name:deu_x_preferred":[
         "Hawera"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03b2\u03ad\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Hawera"
     ],
     "name:eng_x_variant":[
         "H\u0101wera"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0648\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "Hawera"
     ],
     "name:gla_x_preferred":[
+        "Hawera"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u093e\u0935\u0947\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Hawera"
+    ],
+    "name:ind_x_preferred":[
         "Hawera"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +74,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10f0\u10d0\u10d5\u10d4\u10e0\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\uc640\ub77c"
     ],
     "name:mri_x_preferred":[
         "H\u0101wera"
@@ -66,11 +93,35 @@
     "name:pol_x_preferred":[
         "Hawera"
     ],
+    "name:por_x_preferred":[
+        "H\u0101wera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0432\u0435\u0440\u0430"
+    ],
     "name:spa_x_preferred":[
         "Hawera"
     ],
     "name:swe_x_preferred":[
         "Hawera"
+    ],
+    "name:tur_x_preferred":[
+        "Hawera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0454\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u0648\u06cc\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Hawera"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u54c8\u7ef4\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u54c8\u97cb\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"New Zealand",
@@ -188,11 +239,11 @@
     "wd:longitude":174.283333,
     "wd:wordcount":1295,
     "wof:belongsto":[
+        85687195,
         102191583,
-        85633345,
-        102079295,
         1729238475,
-        85687195
+        85633345,
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -232,7 +283,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230356,
+    "wof:lastmodified":1636495122,
     "wof:name":"Hawera",
     "wof:parent_id":1729238475,
     "wof:placetype":"locality",

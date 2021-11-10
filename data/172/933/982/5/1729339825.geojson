@@ -22,8 +22,14 @@
     "name:afr_x_preferred":[
         "Delawarebaai"
     ],
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u062f\u064a\u0644\u0627\u0648\u064a\u0631"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u043b\u0430\u0432\u044d\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09ac\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u043b\u0430\u0443\u0435\u044a\u0440"
@@ -40,14 +46,23 @@
     "name:epo_x_preferred":[
         "Delavara Golfeto"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u062f\u0644\u0627\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Delawarenlahti"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05d3\u05dc\u05d0\u05d5\u05d5\u05e8"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u0947\u0932\u093e\u0935\u0947\u092f\u0930 \u0916\u093e\u095c\u0940"
+    ],
     "name:hun_x_preferred":[
         "Delaware-\u00f6b\u00f6l"
+    ],
+    "name:ind_x_preferred":[
+        "Teluk Delaware"
     ],
     "name:ita_x_preferred":[
         "Baia del Delaware"
@@ -57,6 +72,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d4\u10da\u10d0\u10d5\u10d4\u10e0\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ub378\ub77c\uc6e8\uc5b4 \ubca0\uc774"
     ],
     "name:lit_x_preferred":[
         "Delavero \u012flanka"
@@ -82,8 +100,14 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e48\u0e32\u0e27\u0e40\u0e14\u0e25\u0e32\u0e41\u0e27\u0e23\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "Delaware Koyu"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u0430\u0432\u0435\u0440\u0441\u044c\u043a\u0430 \u0437\u0430\u0442\u043e\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0644\u0627\u0648\u06cc\u0626\u0631 \u0628\u06d2"
     ],
     "name:vie_x_preferred":[
         "V\u1ecbnh Delaware"
@@ -98,8 +122,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079351,
-        85687157
+        85687157,
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +150,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230009,
+    "wof:lastmodified":1636495100,
     "wof:name":"Delaware Bay",
     "wof:parent_id":102079351,
     "wof:placetype":"locality",

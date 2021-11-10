@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0646\u0627\u0643\u0627"
+    ],
     "name:arg_x_preferred":[
         "Wanaka"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09be\u09a8\u09be\u0995\u09be"
     ],
     "name:ceb_x_preferred":[
         "Wanaka"
@@ -37,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Wanaka"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b1\u03bd\u03ac\u03ba\u03b1"
     ],
     "name:eng_gb_x_preferred":[
         "Wanaka"
@@ -64,6 +73,18 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d0\u05e0\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0928\u093e\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Wanaka"
+    ],
+    "name:ind_x_preferred":[
+        "Wanaka"
+    ],
+    "name:ita_x_preferred":[
+        "Wanaka"
     ],
     "name:jpn_x_preferred":[
         "\u30ef\u30ca\u30ab"
@@ -98,8 +119,17 @@
     "name:swe_x_preferred":[
         "Wanaka"
     ],
+    "name:tur_x_preferred":[
+        "Wanaka"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u0430\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0646\u0627\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Wanaka"
     ],
     "name:zho_x_preferred":[
         "\u74e6\u7d0d\u5361"
@@ -127,8 +157,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079385,
-        85687201
+        85687201,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,7 +192,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230291,
+    "wof:lastmodified":1636495112,
     "wof:name":"Wanaka",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

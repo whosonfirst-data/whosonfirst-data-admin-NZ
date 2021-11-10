@@ -250,10 +250,10 @@
         "Whakatu"
     ],
     "name:urd_x_preferred":[
-        "\u0646\u06cc\u0644\u0633\u0646\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
+        "\u0646\u06cc\u0644\u0633\u0646"
     ],
     "name:urd_x_variant":[
-        "\u0646\u06cc\u0644\u0633\u0646"
+        "\u0646\u06cc\u0644\u0633\u0646\u060c \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
     ],
     "name:vie_x_preferred":[
         "Nelson"
@@ -330,11 +330,11 @@
     "wd:longitude":173.238056,
     "wd:wordcount":6507,
     "wof:belongsto":[
+        85687157,
         102191583,
-        85633345,
-        102079351,
         1729238513,
-        85687157
+        85633345,
+        102079351
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -377,7 +377,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1607462729,
+    "wof:lastmodified":1636495109,
     "wof:name":"Nelson",
     "wof:parent_id":1729238513,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:bar_x_preferred":[
         "Masterton"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b8\u09cd\u099f\u09be\u09b0\u099f\u09a8"
+    ],
     "name:bre_x_preferred":[
         "Masterton"
     ],
@@ -119,6 +122,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e1\u05d8\u05e8\u05d8\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0938\u094d\u091f\u0930\u091f\u0928"
     ],
     "name:hrv_x_preferred":[
         "Masterton"
@@ -252,6 +258,15 @@
     "name:swe_x_preferred":[
         "Masterton"
     ],
+    "name:tur_x_preferred":[
+        "Masterton"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0441\u0442\u0435\u0440\u0442\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0633\u0679\u0631\u0679\u0646"
+    ],
     "name:vec_x_preferred":[
         "Masterton"
     ],
@@ -303,11 +318,11 @@
     "wd:longitude":175.65,
     "wd:wordcount":2258,
     "wof:belongsto":[
+        85687233,
         102191583,
-        85633345,
-        102079343,
         1729238527,
-        85687233
+        85633345,
+        102079343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -347,7 +362,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230258,
+    "wof:lastmodified":1636495109,
     "wof:name":"Masterton",
     "wof:parent_id":1729238527,
     "wof:placetype":"locality",

@@ -43,6 +43,12 @@
     "name:fra_x_preferred":[
         "Courtenay"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d8\u05e0\u05d0\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Courtenay"
+    ],
     "name:ita_x_preferred":[
         "Courtenay"
     ],
@@ -76,6 +82,7 @@
     "name:spa_x_preferred":[
         "Courtenay"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Courtenay"
     ],
@@ -89,8 +96,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079369,
-        85687179
+        85687179,
+        102079369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +123,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230728,
+    "wof:lastmodified":1636495138,
     "wof:name":"Courtenay",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

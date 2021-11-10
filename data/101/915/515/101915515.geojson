@@ -96,6 +96,9 @@
     "name:hin_x_preferred":[
         "\u0907\u0928\u0935\u0930\u094d\u0915\u0930\u0917\u093f\u0932"
     ],
+    "name:hun_x_preferred":[
+        "Invercargill"
+    ],
     "name:hye_x_preferred":[
         "\u053b\u0576\u057e\u0565\u0580\u056f\u0561\u0580\u0563\u056b\u056c"
     ],
@@ -236,11 +239,11 @@
     "wd:longitude":168.266667,
     "wd:wordcount":3975,
     "wof:belongsto":[
+        85687211,
         102191583,
-        85633345,
-        102079397,
         1729238483,
-        85687211
+        85633345,
+        102079397
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -281,7 +284,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1607462736,
+    "wof:lastmodified":1636495111,
     "wof:name":"Invercargill",
     "wof:parent_id":1729238483,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:bel_x_preferred":[
         "\u0413\u0440\u044d\u0439\u043c\u0443\u0442"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cd\u09b0\u09c7\u09ae\u09be\u0989\u09a5"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0440\u0435\u0439\u043c\u043e\u0443\u0442\u0445"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:deu_x_preferred":[
         "Greymouth"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03ad\u03b9\u03bc\u03bf\u03c5\u03b8"
     ],
     "name:eng_x_preferred":[
         "Greymouth"
@@ -63,8 +69,17 @@
     "name:gla_x_preferred":[
         "Greymouth"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d9\u05d9\u05de\u05d0\u05d5\u05d8'"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u094d\u0930\u0947\u092f\u094d\u092e\u094b\u0909\u0925"
+    ],
+    "name:hun_x_preferred":[
+        "Greymouth"
+    ],
+    "name:ind_x_preferred":[
+        "Greymouth"
     ],
     "name:ita_x_preferred":[
         "Greymouth"
@@ -111,8 +126,14 @@
     "name:tur_x_preferred":[
         "Greymouth"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0435\u0439\u043c\u0443\u0442"
+    ],
     "name:urd_x_preferred":[
         "\u06af\u0631\u06d2\u0645\u0627\u0648\u062a\u06be"
+    ],
+    "name:vie_x_preferred":[
+        "Greymouth"
     ],
     "name:zho_x_preferred":[
         "\u683c\u96f7\u8305\u65af"
@@ -138,11 +159,11 @@
     "src:population":"geonames",
     "wd:wordcount":1579,
     "wof:belongsto":[
+        85687165,
         102191583,
-        85633345,
-        102079361,
         1729238491,
-        85687165
+        85633345,
+        102079361
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -183,7 +204,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1607462729,
+    "wof:lastmodified":1636495110,
     "wof:name":"Greymouth",
     "wof:parent_id":1729238491,
     "wof:placetype":"locality",

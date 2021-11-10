@@ -574,15 +574,19 @@
         "Republic of Niue"
     ],
     "name:urd_x_preferred":[
-        "\u0646\u06cc\u0648\u0648\u06d2"
+        "\u0646\u06cc\u0648\u06d2"
     ],
     "name:urd_x_variant":[
-        "\u0646\u06cc\u0626\u0648"
+        "\u0646\u06cc\u0626\u0648",
+        "\u0646\u06cc\u0648\u0648\u06d2"
     ],
     "name:vec_x_preferred":[
         "Niue"
     ],
     "name:vie_x_preferred":[
+        "Qu\u1ed1c \u0111\u1ea3o Niue"
+    ],
+    "name:vie_x_variant":[
         "Niue"
     ],
     "name:vro_x_preferred":[
@@ -612,8 +616,14 @@
     "name:zha_x_preferred":[
         "Niue"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u7ebd\u57c3\u5c9b"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Niue"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d10\u57c3\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u7d10\u57c3"
@@ -875,7 +885,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1617827390,
+    "wof:lastmodified":1636495072,
     "wof:name":"Niue",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",

@@ -23,10 +23,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u098f\u09b2\u09bf\u0982"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03bb\u03b9\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Ealing"
     ],
     "name:fra_x_preferred":[
+        "Ealing"
+    ],
+    "name:ind_x_preferred":[
         "Ealing"
     ],
     "name:mri_x_preferred":[
@@ -70,8 +79,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079371,
-        85687179
+        85687179,
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +114,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230594,
+    "wof:lastmodified":1636495132,
     "wof:name":"Ealing",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

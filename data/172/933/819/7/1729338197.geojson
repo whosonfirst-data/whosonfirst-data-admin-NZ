@@ -51,10 +51,25 @@
         "\u0421\u0430\u0443\u0442 \u0425\u0438\u043b"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0430\u0443\u0441-\u0425\u0456\u043b\u043b"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0430\u0443\u0442-\u0413\u0456\u043b\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0624\u062a\u06be \u06c1\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "South Hill"
     ],
     "name:vol_x_preferred":[
         "South Hill"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5357\u5e0c\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5357\u5e0c\u723e\u5c71"
     ],
     "nz-linz:name":"South Hill",
     "nz-linz:type":"SUBURB",
@@ -81,11 +96,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687201,
         102191583,
-        85633345,
-        102079381,
         1729238521,
-        85687201
+        85633345,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +130,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603229930,
+    "wof:lastmodified":1636495099,
     "wof:name":"South Hill",
     "wof:parent_id":1729238521,
     "wof:placetype":"locality",

@@ -152,10 +152,16 @@
         "Richmond"
     ],
     "name:ukr_x_preferred":[
+        "\u0420\u0456\u0447\u043c\u043e\u043d\u0434"
+    ],
+    "name:ukr_x_variant":[
         "\u0420\u0438\u0447\u043c\u043e\u043d\u0434"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0686\u0645\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Richmond"
     ],
     "name:vol_x_preferred":[
         "Richmond"
@@ -171,11 +177,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687179,
         102191583,
-        85633345,
-        102079401,
         1729238507,
-        85687179
+        85633345,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -203,7 +209,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603229929,
+    "wof:lastmodified":1636495098,
     "wof:name":"Richmond",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

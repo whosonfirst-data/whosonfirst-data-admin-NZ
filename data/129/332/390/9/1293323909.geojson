@@ -79,6 +79,9 @@
         "Salisbury"
     ],
     "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bb\u03b9\u03c3\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
         "\u03a3\u03cc\u03bb\u03c3\u03bc\u03c0\u03b5\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
@@ -113,6 +116,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05dc\u05e1\u05d1\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0932\u093f\u0938\u092c\u0930\u0940"
     ],
     "name:hun_x_preferred":[
         "Salisbury"
@@ -253,8 +259,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079373,
-        85687179
+        85687179,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -284,7 +290,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603229424,
+    "wof:lastmodified":1636495074,
     "wof:name":"Salisbury",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

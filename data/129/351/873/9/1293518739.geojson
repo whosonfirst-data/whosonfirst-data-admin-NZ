@@ -31,6 +31,33 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u064a\u062a\u0627\u0643\u064a\u0631\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09c7\u099f\u09be\u0995\u09c7\u09b0\u09c7"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u062a\u0627\u06a9\u0631\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05d8\u05e7\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0908\u0915\u093e\u0915\u0947\u0930\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Waitakere"
+    ],
+    "name:tur_x_preferred":[
+        "Waitakere"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0679\u0627\u06a9\u06cc\u0631\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Waitakere"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -66,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603149909,
+    "wof:lastmodified":1636495074,
     "wof:name":"Waitakere",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

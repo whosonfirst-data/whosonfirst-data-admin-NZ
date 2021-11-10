@@ -40,6 +40,9 @@
     "name:bel_x_variant":[
         "\u0410\u043b\u043e\u0444\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09cb\u09ab\u09bf"
+    ],
     "name:bos_x_preferred":[
         "Alofi"
     ],
@@ -108,6 +111,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d5\u05e4\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932\u094b\u092b\u093c\u0940"
     ],
     "name:hrv_x_preferred":[
         "Alofi"
@@ -368,8 +374,8 @@
     "reversegeo:longitude":-169.913625,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        102191583,
         85632493,
+        102191583,
         136253053
     ],
     "wof:breaches":[],
@@ -398,7 +404,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230816,
+    "wof:lastmodified":1636495139,
     "wof:name":"Alofi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

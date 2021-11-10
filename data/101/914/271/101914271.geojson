@@ -275,6 +275,9 @@
         "\u6f22\u7f8e\u9813"
     ],
     "name:zho_tw_x_preferred":[
+        "\u6f22\u7c73\u9813"
+    ],
+    "name:zho_tw_x_variant":[
         "\u6f22\u5bc6\u9813"
     ],
     "name:zho_x_preferred":[
@@ -389,11 +392,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687229,
         102191583,
-        85633345,
-        102079271,
         1729238493,
-        85687229
+        85633345,
+        102079271
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -431,7 +434,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1607462737,
+    "wof:lastmodified":1636495118,
     "wof:name":"Hamilton",
     "wof:parent_id":1729238493,
     "wof:placetype":"locality",
