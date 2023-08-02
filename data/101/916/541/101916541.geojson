@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Grovetown"
     ],
+    "name:fra_x_preferred":[
+        "Grovetown"
+    ],
     "name:mri_x_preferred":[
         "Grovetown"
     ],
@@ -54,11 +57,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687185,
         102191583,
-        85633345,
-        102079353,
         1729238455,
-        85687185
+        85633345,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230401,
+    "wof:lastmodified":1690850130,
     "wof:name":"Grovetown",
     "wof:parent_id":1729238455,
     "wof:placetype":"locality",

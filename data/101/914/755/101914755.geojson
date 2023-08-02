@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Owaka"
+    ],
     "name:ceb_x_preferred":[
         "Owaka"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:fra_x_preferred":[
         "Owaka"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc640\uce74"
     ],
     "name:msa_x_preferred":[
         "Owaka"
@@ -68,8 +74,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079389,
-        85687201
+        85687201,
+        102079389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +111,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230288,
+    "wof:lastmodified":1690850052,
     "wof:name":"Owaka",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

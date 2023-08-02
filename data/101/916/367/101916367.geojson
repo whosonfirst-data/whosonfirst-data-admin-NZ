@@ -25,6 +25,9 @@
     "name:eng_x_variant":[
         "Manunui Town District"
     ],
+    "name:fra_x_preferred":[
+        "Manunui"
+    ],
     "name:mri_x_preferred":[
         "Manunui"
     ],
@@ -49,11 +52,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":292,
     "wof:belongsto":[
+        85687251,
         102191583,
-        85633345,
-        102079297,
         1729238547,
-        85687251
+        85633345,
+        102079297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230385,
+    "wof:lastmodified":1690850119,
     "wof:name":"Manunui",
     "wof:parent_id":1729238547,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ward"
+    ],
     "name:ceb_x_preferred":[
         "Ward"
     ],
@@ -30,6 +33,9 @@
         "Ward"
     ],
     "name:eng_x_preferred":[
+        "Ward"
+    ],
+    "name:fra_x_preferred":[
         "Ward"
     ],
     "name:mri_x_preferred":[
@@ -85,8 +91,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079353,
-        85687185
+        85687185,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +126,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230525,
+    "wof:lastmodified":1690850160,
     "wof:name":"Ward",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

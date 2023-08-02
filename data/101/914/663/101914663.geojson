@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Dargaville"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u0440\u0433\u0430\u0432\u0438\u043b\u0435"
     ],
@@ -40,6 +43,12 @@
     ],
     "name:ita_x_preferred":[
         "Dargaville"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30fc\u30ac\u30d3\u30eb"
+    ],
+    "name:mri_x_preferred":[
+        "T\u0101kiwira"
     ],
     "name:msa_x_preferred":[
         "Dargaville"
@@ -91,8 +100,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079259,
-        85687149
+        85687149,
+        102079259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230345,
+    "wof:lastmodified":1690850091,
     "wof:name":"Dargaville",
     "wof:parent_id":102079259,
     "wof:placetype":"locality",

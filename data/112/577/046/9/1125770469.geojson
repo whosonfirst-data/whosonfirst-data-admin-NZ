@@ -23,7 +23,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Coalgate"
+    ],
     "name:eng_x_preferred":[
+        "Coalgate"
+    ],
+    "name:fra_x_preferred":[
         "Coalgate"
     ],
     "name:mri_x_preferred":[
@@ -70,8 +76,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079369,
-        85687179
+        85687179,
+        102079369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +111,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230689,
+    "wof:lastmodified":1690850201,
     "wof:name":"Coalgate",
     "wof:parent_id":102079369,
     "wof:placetype":"locality",

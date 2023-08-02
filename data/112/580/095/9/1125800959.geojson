@@ -23,11 +23,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tuamarina"
+    ],
     "name:eng_x_preferred":[
         "Tuamarina"
     ],
     "name:fra_x_preferred":[
         "Tuamarina"
+    ],
+    "name:mri_x_preferred":[
+        "Tuamarino"
     ],
     "name:msa_x_preferred":[
         "Tuamarina"
@@ -79,8 +85,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079353,
-        85687185
+        85687185,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +120,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230549,
+    "wof:lastmodified":1690850167,
     "wof:name":"Tuamarina",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

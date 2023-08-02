@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Twizel"
+    ],
+    "name:cat_x_preferred":[
+        "Twizel"
+    ],
     "name:ces_x_preferred":[
         "Twizel"
     ],
@@ -34,6 +40,9 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30ef\u30a4\u30bc\u30eb"
     ],
+    "name:kor_x_preferred":[
+        "\ud2b8\uc640\uc774\uc824"
+    ],
     "name:msa_x_preferred":[
         "Twizel"
     ],
@@ -42,6 +51,9 @@
     ],
     "name:pol_x_preferred":[
         "Twizel"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u5a01\u6cfd\u5c14\u9547"
     ],
     "nz-linz:id":8657,
     "nz-linz:name":"Twizel",
@@ -66,8 +78,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079375,
-        85687179
+        85687179,
+        102079375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +115,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230280,
+    "wof:lastmodified":1690850045,
     "wof:name":"Twizel",
     "wof:parent_id":102079375,
     "wof:placetype":"locality",

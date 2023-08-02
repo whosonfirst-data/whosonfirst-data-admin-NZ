@@ -29,11 +29,17 @@
     "name:eng_x_preferred":[
         "Runanga"
     ],
+    "name:eng_x_variant":[
+        "R\u016bnanga"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0646\u0627\u0646\u06af\u0627"
     ],
     "name:fra_x_preferred":[
         "Runanga"
+    ],
+    "name:mri_x_preferred":[
+        "R\u016bnanga"
     ],
     "name:msa_x_preferred":[
         "Runanga"
@@ -64,11 +70,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
+        85687165,
         102191583,
-        85633345,
-        102079361,
         1729238545,
-        85687165
+        85633345,
+        102079361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +111,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230360,
+    "wof:lastmodified":1690850104,
     "wof:name":"Runanga",
     "wof:parent_id":1729238545,
     "wof:placetype":"locality",

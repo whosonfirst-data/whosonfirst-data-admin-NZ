@@ -26,8 +26,17 @@
     "name:eng_x_preferred":[
         "Katiki"
     ],
+    "name:eng_x_variant":[
+        "K\u0101tiki"
+    ],
+    "name:fra_x_preferred":[
+        "Katiki"
+    ],
     "name:mri_x_preferred":[
         "Katiki"
+    ],
+    "name:mri_x_variant":[
+        "K\u0101tiki"
     ],
     "name:nld_x_preferred":[
         "Katiki"
@@ -64,8 +73,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079381,
-        85687201
+        85687201,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +104,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230573,
+    "wof:lastmodified":1690850174,
     "wof:name":"Katiki",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

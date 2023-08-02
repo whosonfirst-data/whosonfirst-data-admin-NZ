@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Kohimarama"
     ],
+    "name:fra_x_preferred":[
+        "Kohimarama"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30d2\u30de\u30e9\u30de"
     ],
@@ -60,11 +63,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687243,
         102191583,
-        85633345,
-        102079403,
         1729238453,
-        85687243
+        85633345,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +100,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230063,
+    "wof:lastmodified":1690849993,
     "wof:name":"Kohimarama",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

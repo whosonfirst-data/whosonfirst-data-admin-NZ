@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Roxburgh"
+    ],
     "name:ceb_x_preferred":[
         "Roxburgh"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:fra_x_preferred":[
         "Roxburgh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30c3\u30af\u30b9\u30d0\u30e9"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u043e\u043a\u0441\u0431\u0440\u0443"
@@ -68,8 +74,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079383,
-        85687201
+        85687201,
+        102079383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +111,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230278,
+    "wof:lastmodified":1690850043,
     "wof:name":"Roxburgh",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

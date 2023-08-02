@@ -20,6 +20,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a\u0647\u0641\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Methven"
+    ],
+    "name:cat_x_preferred":[
+        "Methven"
+    ],
     "name:ceb_x_preferred":[
         "Methven"
     ],
@@ -46,6 +55,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0442\u0432\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062a\u06be\u0648\u0646"
     ],
     "name:zho_x_preferred":[
         "\u6885\u601d\u6587"
@@ -74,8 +86,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079371,
-        85687179
+        85687179,
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +123,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230384,
+    "wof:lastmodified":1690850119,
     "wof:name":"Methven",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

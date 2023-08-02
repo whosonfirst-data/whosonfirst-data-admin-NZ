@@ -29,6 +29,9 @@
     "name:ast_x_preferred":[
         "Eltham"
     ],
+    "name:aze_x_preferred":[
+        "Eltham"
+    ],
     "name:bam_x_preferred":[
         "Eltham"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:gsw_x_preferred":[
         "Eltham"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05ea'\u05dd"
     ],
     "name:hrv_x_preferred":[
         "Eltham"
@@ -245,6 +251,9 @@
     "name:tur_x_preferred":[
         "Eltham"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644\u062a\u06be\u0645"
+    ],
     "name:vec_x_preferred":[
         "Eltham"
     ],
@@ -294,8 +303,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079295,
-        85687195
+        85687195,
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -328,7 +337,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230286,
+    "wof:lastmodified":1690850050,
     "wof:name":"Eltham",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

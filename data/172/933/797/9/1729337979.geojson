@@ -293,6 +293,9 @@
     "name:jbo_x_preferred":[
         "Yelverton"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30a7\u30eb\u30f4\u30a1\u30fc\u30c8\u30f3"
+    ],
     "name:jut_x_preferred":[
         "Yelverton"
     ],
@@ -708,11 +711,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687185,
         102191583,
-        85633345,
-        102079353,
         1729238455,
-        85687185
+        85633345,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -743,7 +746,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603229871,
+    "wof:lastmodified":1690849970,
     "wof:name":"Yelverton",
     "wof:parent_id":1729238455,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Paek\u0101k\u0101riki"
+    ],
+    "name:cat_x_preferred":[
+        "Paekakariki"
+    ],
     "name:deu_x_preferred":[
         "Paekakariki"
     ],
@@ -30,7 +36,8 @@
         "Paekakariki Hill"
     ],
     "name:eng_x_variant":[
-        "Paekakariki"
+        "Paekakariki",
+        "Paek\u0101k\u0101riki"
     ],
     "name:fra_x_preferred":[
         "Paekakariki"
@@ -118,7 +125,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1617129910,
+    "wof:lastmodified":1690850159,
     "wof:name":"Paekakariki Hill",
     "wof:parent_id":85687233,
     "wof:placetype":"locality",

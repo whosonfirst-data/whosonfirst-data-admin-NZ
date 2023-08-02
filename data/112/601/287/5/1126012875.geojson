@@ -23,8 +23,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Harihari"
+    ],
     "name:ceb_x_preferred":[
         "Hari Hari"
+    ],
+    "name:deu_x_preferred":[
+        "Harihari"
     ],
     "name:eng_x_preferred":[
         "Harihari"
@@ -77,8 +83,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079363,
-        85687165
+        85687165,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +118,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230629,
+    "wof:lastmodified":1690850185,
     "wof:name":"Harihari",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",

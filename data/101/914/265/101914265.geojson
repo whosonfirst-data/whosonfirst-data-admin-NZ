@@ -28,6 +28,9 @@
     "name:eng_x_variant":[
         "Normanby Town District"
     ],
+    "name:mri_x_preferred":[
+        "Matariki"
+    ],
     "name:msa_x_preferred":[
         "Normanby"
     ],
@@ -57,11 +60,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":323,
     "wof:belongsto":[
+        85687195,
         102191583,
-        85633345,
-        102079295,
         1729238475,
-        85687195
+        85633345,
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +99,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230348,
+    "wof:lastmodified":1690850094,
     "wof:name":"Normanby",
     "wof:parent_id":1729238475,
     "wof:placetype":"locality",

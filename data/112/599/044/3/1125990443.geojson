@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Wairau"
+    ],
     "name:ceb_x_preferred":[
         "Wairau Valley"
     ],
@@ -83,8 +86,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079353,
-        85687185
+        85687185,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +121,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230569,
+    "wof:lastmodified":1690850172,
     "wof:name":"Wairau Valley",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

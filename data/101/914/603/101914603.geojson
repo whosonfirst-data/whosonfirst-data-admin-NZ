@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Eketahuna"
+    ],
     "name:deu_x_preferred":[
         "Eketahuna"
     ],
@@ -37,6 +40,9 @@
     "name:mri_x_preferred":[
         "Eketahuna"
     ],
+    "name:mri_x_variant":[
+        "Eket\u0101huna"
+    ],
     "name:msa_x_preferred":[
         "Eketahuna"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:pol_x_preferred":[
         "Eketahuna"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043a\u0435\u0442\u0430\u0445\u0443\u043d\u0430"
     ],
     "nz-linz:id":336,
     "nz-linz:name":"Eketahuna",
@@ -71,8 +80,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079309,
-        85687251
+        85687251,
+        102079309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +113,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230316,
+    "wof:lastmodified":1690850068,
     "wof:name":"Eketahuna",
     "wof:parent_id":102079309,
     "wof:placetype":"locality",

@@ -22,14 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:eng_x_preferred":[
+    "name:cat_x_preferred":[
         "Papatoetoe"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
         "Papatoetoe"
     ],
     "name:fra_x_preferred":[
         "Papatoetoe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30d1\u30c8\u30a8\u30c8\u30a8"
     ],
     "name:msa_x_preferred":[
         "Papatoetoe"
@@ -42,6 +45,9 @@
     ],
     "name:por_x_preferred":[
         "Papatoetoe"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u067e\u0627\u0679\u0648\u0679\u0648\u0626\u06d2"
     ],
     "name:zho_x_preferred":[
         "\u5967\u514b\u862d"
@@ -136,7 +142,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137735,
+    "wof:lastmodified":1690850149,
     "wof:name":"Papatoetoe",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "Te Awanga"
+    ],
     "name:ces_x_preferred":[
         "Te Awanga"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:spa_x_preferred":[
         "Te Awanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u963f\u65fa\u52a0"
     ],
     "nz-linz:name":"Te Awa",
     "nz-linz:type":"SUBURB",
@@ -76,11 +82,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687189,
         102191583,
-        85633345,
-        102079331,
         1729238511,
-        85687189
+        85633345,
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +119,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230041,
+    "wof:lastmodified":1690849990,
     "wof:name":"Te Awa",
     "wof:parent_id":1729238511,
     "wof:placetype":"locality",

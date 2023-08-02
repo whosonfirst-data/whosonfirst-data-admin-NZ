@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0646\u064a\u062f\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u062f\u0648\u0646\u064a\u062f\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u0646\u064a\u062f\u0646"
+    ],
     "name:ast_x_preferred":[
         "Dunedin"
     ],
@@ -248,6 +254,9 @@
     "name:urd_x_preferred":[
         "\u0688\u0646\u06cc\u0688\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Dunedin"
+    ],
     "name:vie_x_preferred":[
         "Dunedin"
     ],
@@ -298,11 +307,11 @@
     "wd:longitude":170.5,
     "wd:wordcount":8479,
     "wof:belongsto":[
+        85687201,
         102191583,
-        85633345,
-        102079387,
         1729238495,
-        85687201
+        85633345,
+        102079387
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -341,7 +350,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1607462735,
+    "wof:lastmodified":1690850069,
     "wof:name":"Dunedin",
     "wof:parent_id":1729238495,
     "wof:placetype":"locality",
