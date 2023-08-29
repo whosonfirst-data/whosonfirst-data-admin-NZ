@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Wellsford"
+    ],
     "name:ceb_x_preferred":[
         "Wellsford"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:fra_x_preferred":[
         "Wellsford"
+    ],
+    "name:mri_x_preferred":[
+        "Whakapirau"
     ],
     "name:msa_x_preferred":[
         "Wellsford"
@@ -49,6 +55,9 @@
     ],
     "name:und_x_variant":[
         "Welsford"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0644\u0632 \u0641\u0648\u0631\u0688"
     ],
     "nz-linz:id":1897,
     "nz-linz:name":"Wellsford",
@@ -73,8 +82,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079403,
-        85687243
+        85687243,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +116,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230329,
+    "wof:lastmodified":1690850077,
     "wof:name":"Wellsford",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

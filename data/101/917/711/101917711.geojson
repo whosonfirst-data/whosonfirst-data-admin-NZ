@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Whitford"
     ],
+    "name:fra_x_preferred":[
+        "Whitford"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30c3\u30c8\u30d5\u30a9\u30fc\u30c9"
+    ],
     "name:mri_x_preferred":[
         "Whitford"
     ],
@@ -54,8 +60,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079403,
-        85687243
+        85687243,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +96,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230424,
+    "wof:lastmodified":1690850144,
     "wof:name":"Whitford",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

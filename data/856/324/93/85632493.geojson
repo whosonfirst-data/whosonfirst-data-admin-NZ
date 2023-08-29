@@ -43,6 +43,9 @@
     "name:amh_x_variant":[
         "\u1292\u12cc"
     ],
+    "name:anp_x_preferred":[
+        "\u0928\u0940\u0909\u090f"
+    ],
     "name:ara_x_preferred":[
         "\u0646\u064a\u064a\u0648\u064a"
     ],
@@ -75,6 +78,9 @@
     ],
     "name:bam_x_preferred":[
         "Nyuwe"
+    ],
+    "name:ban_x_preferred":[
+        "Niue"
     ],
     "name:bcl_x_preferred":[
         "Niue"
@@ -118,11 +124,17 @@
     "name:chv_x_preferred":[
         "\u041d\u0438\u0443\u044d"
     ],
+    "name:chy_x_preferred":[
+        "Niue"
+    ],
     "name:ckb_x_preferred":[
         "\u0646\u06cc\u0648\u06ce"
     ],
     "name:cor_x_preferred":[
         "Niue"
+    ],
+    "name:cos_x_preferred":[
+        "Niu\u00e8"
     ],
     "name:crh_x_preferred":[
         "Niue"
@@ -372,6 +384,9 @@
     "name:mlg_x_preferred":[
         "Nio\u00e9"
     ],
+    "name:mlg_x_variant":[
+        "Nioe"
+    ],
     "name:mlt_x_preferred":[
         "Nju"
     ],
@@ -447,6 +462,9 @@
     "name:pus_x_preferred":[
         "\u0646\u06cc\u0648\u06cc"
     ],
+    "name:que_x_preferred":[
+        "Niwuyi"
+    ],
     "name:roh_x_preferred":[
         "Niue"
     ],
@@ -464,6 +482,9 @@
     ],
     "name:sag_x_preferred":[
         "Niue"
+    ],
+    "name:sah_x_preferred":[
+        "\u041d\u0438\u0443\u044d"
     ],
     "name:scn_x_preferred":[
         "Niui"
@@ -544,13 +565,17 @@
         "\u0e19\u0e35\u0e2d\u0e39\u0e40\u0e2d"
     ],
     "name:tha_x_variant":[
-        "\u0e19\u0e35\u0e27\u0e40\u0e27"
+        "\u0e19\u0e35\u0e27\u0e40\u0e27",
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e19\u0e35\u0e27\u0e40\u0e27"
     ],
     "name:tir_x_preferred":[
         "\u1292\u12a1\u12ed"
     ],
     "name:ton_x_preferred":[
         "Niu\u0113"
+    ],
+    "name:tuk_x_preferred":[
+        "Niue"
     ],
     "name:tur_x_preferred":[
         "Niue"
@@ -579,6 +604,9 @@
     "name:urd_x_variant":[
         "\u0646\u06cc\u0626\u0648",
         "\u0646\u06cc\u0648\u0648\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Niue"
     ],
     "name:vec_x_preferred":[
         "Niue"
@@ -885,7 +913,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495072,
+    "wof:lastmodified":1690849932,
     "wof:name":"Niue",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",

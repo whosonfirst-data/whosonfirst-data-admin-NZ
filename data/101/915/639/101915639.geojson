@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Brooklands"
     ],
+    "name:fra_x_preferred":[
+        "Brooklands"
+    ],
     "name:mri_x_preferred":[
         "Brooklands"
     ],
@@ -48,11 +51,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5105,
     "wof:belongsto":[
+        85687179,
         102191583,
-        85633345,
-        102079401,
         1729238507,
-        85687179
+        85633345,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230276,
+    "wof:lastmodified":1690850041,
     "wof:name":"Brooklands",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

@@ -34,11 +34,17 @@
     "name:eng_x_preferred":[
         "Paremoremo"
     ],
+    "name:eng_x_variant":[
+        "P\u0101remoremo"
+    ],
     "name:fra_x_preferred":[
         "Paremoremo"
     ],
     "name:mri_x_preferred":[
         "Paremoremo"
+    ],
+    "name:mri_x_variant":[
+        "P\u0101remoremo"
     ],
     "name:msa_x_preferred":[
         "Paremoremo"
@@ -69,11 +75,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":596,
     "wof:belongsto":[
+        85687243,
         102191583,
-        85633345,
-        102079403,
         1729238453,
-        85687243
+        85633345,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +114,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230279,
+    "wof:lastmodified":1690850044,
     "wof:name":"Paremoremo",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

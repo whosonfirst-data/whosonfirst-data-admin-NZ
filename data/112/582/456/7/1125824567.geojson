@@ -23,6 +23,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Raukokore"
+    ],
     "name:cym_x_preferred":[
         "Raukokore"
     ],
@@ -35,6 +38,9 @@
     "name:eng_x_preferred":[
         "Raukokore"
     ],
+    "name:fra_x_preferred":[
+        "Raukokore"
+    ],
     "name:jpn_x_preferred":[
         "\u30ed\u30a6\u30b3\u30b3\u30a2"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:nld_x_preferred":[
         "Raukokore"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0443\u043a\u043e\u043a\u043e\u0440"
     ],
     "name:swe_x_preferred":[
         "Raukokore"
@@ -76,8 +85,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079321,
-        85687175
+        85687175,
+        102079321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +116,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230656,
+    "wof:lastmodified":1690850190,
     "wof:name":"Raukokore",
     "wof:parent_id":102079321,
     "wof:placetype":"locality",

@@ -28,8 +28,14 @@
     "name:eng_x_variant":[
         "M\u0101kara"
     ],
+    "name:fra_x_preferred":[
+        "Makara"
+    ],
     "name:ita_x_preferred":[
         "Makara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30fc\u30ab\u30e9"
     ],
     "name:mri_x_preferred":[
         "M\u0101kara"
@@ -61,11 +67,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":192,
     "wof:belongsto":[
+        85687233,
         102191583,
-        85633345,
-        102079339,
         1729238583,
-        85687233
+        85633345,
+        102079339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +105,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230405,
+    "wof:lastmodified":1690850134,
     "wof:name":"Makara",
     "wof:parent_id":1729238583,
     "wof:placetype":"locality",

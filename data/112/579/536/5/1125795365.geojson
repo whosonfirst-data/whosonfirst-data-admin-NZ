@@ -23,7 +23,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Motunui"
+    ],
     "name:eng_x_preferred":[
+        "Motunui"
+    ],
+    "name:fra_x_preferred":[
         "Motunui"
     ],
     "name:mri_x_preferred":[
@@ -65,8 +71,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079311,
-        85687195
+        85687195,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +106,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230676,
+    "wof:lastmodified":1690850196,
     "wof:name":"Motunui",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

@@ -34,6 +34,12 @@
     "name:arg_x_preferred":[
         "Manawatu-Wanganui"
     ],
+    "name:ary_x_preferred":[
+        "\u062c\u064a\u0647\u0629 \u0645\u0627\u0646\u0627\u0648\u0627\u0637\u0648 \u0641\u0627\u0646\u0763\u0627\u0646\u0648\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0432\u0430\u0442\u0443-\u0423\u0430\u043d\u0433\u0430\u043d\u0443\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u0993\u09af\u09bc\u09be\u09a4\u09c1 \u0993\u09af\u09bc\u09be\u0982\u0997\u09be\u09a8\u09be\u0987 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -91,11 +97,17 @@
     "name:hrv_x_preferred":[
         "Manawatu-Wanganui"
     ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u0576\u0561\u0578\u0582\u0561\u0569\u0578\u0582"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Manawatu-Wanganui"
     ],
     "name:ita_x_preferred":[
         "Manawatu-Wanganui"
+    ],
+    "name:ita_x_variant":[
+        "Manawat\u016b-Whanganui"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30ca\u30ef\u30c4\u30fb\u30ef\u30f3\u30ac\u30cc\u30a4\u5730\u65b9"
@@ -201,6 +213,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u7eb3\u74e6\u56fe\uff0d\u65fa\u52a0\u52aa\u4f0a"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u7eb3\u74e6\u56fe-\u65fa\u963f\u52aa\u4f0a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NZL",
@@ -322,7 +337,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1607462738,
+    "wof:lastmodified":1690849928,
     "wof:name":"Manawatu-Wanganui Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

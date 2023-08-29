@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0648\u0646\u0627\u0643\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0628\u0648\u0646\u0627\u0643\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "\u014cpunake"
+    ],
     "name:cat_x_preferred":[
         "Opunake"
     ],
@@ -74,6 +80,9 @@
     "name:szl_x_preferred":[
         "Opunake"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u067e\u0648\u0646\u0627\u06a9\u06d2"
+    ],
     "nz-linz:id":2948,
     "nz-linz:name":"Opunake",
     "nz-linz:type":"SUBURB",
@@ -98,8 +107,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079295,
-        85687195
+        85687195,
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,7 +144,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230266,
+    "wof:lastmodified":1690850034,
     "wof:name":"Opunake",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

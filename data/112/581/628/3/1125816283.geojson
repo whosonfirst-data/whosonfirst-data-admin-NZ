@@ -56,6 +56,12 @@
     "name:spa_x_preferred":[
         "Kumara"
     ],
+    "name:swe_x_preferred":[
+        "Kumara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u99ac\u62c9"
+    ],
     "nz-linz:id":725,
     "nz-linz:name":"Kumara",
     "nz-linz:type":"SUBURB",
@@ -89,11 +95,11 @@
     "woe:name_adm1":"West Coast",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85687165,
         102191583,
-        85633345,
-        102079361,
         1729238491,
-        85687165
+        85633345,
+        102079361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +134,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230523,
+    "wof:lastmodified":1690850159,
     "wof:name":"Kumara",
     "wof:parent_id":1729238491,
     "wof:placetype":"locality",

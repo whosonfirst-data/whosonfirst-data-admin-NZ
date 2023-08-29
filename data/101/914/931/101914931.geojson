@@ -21,6 +21,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "\u014ctaki"
+    ],
+    "name:cat_x_preferred":[
+        "Otaki"
+    ],
     "name:ceb_x_preferred":[
         "Otaki"
     ],
@@ -57,6 +63,9 @@
     "name:pol_x_preferred":[
         "Otaki"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0679\u0627\u06a9\u06cc"
+    ],
     "nz-linz:id":4000,
     "nz-linz:name":"Otaki",
     "nz-linz:type":"SUBURB",
@@ -79,11 +88,11 @@
     "src:population":"geonames",
     "wd:wordcount":482,
     "wof:belongsto":[
+        85687233,
         102191583,
-        85633345,
-        102079315,
         1729238569,
-        85687233
+        85633345,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +132,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230287,
+    "wof:lastmodified":1690850051,
     "wof:name":"Otaki",
     "wof:parent_id":1729238569,
     "wof:placetype":"locality",

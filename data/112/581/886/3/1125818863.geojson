@@ -21,11 +21,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Minginui"
+    ],
     "name:eng_x_preferred":[
         "Minginui"
     ],
     "name:fra_x_preferred":[
         "Minginui"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30f3\u30ae\u30cc\u30a4"
     ],
     "name:mri_x_preferred":[
         "Minginui"
@@ -68,8 +74,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079291,
-        85687175
+        85687175,
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +108,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230525,
+    "wof:lastmodified":1690850160,
     "wof:name":"Minginui",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

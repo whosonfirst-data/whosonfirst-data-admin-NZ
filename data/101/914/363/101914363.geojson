@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u064a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Levin"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09ad\u09bf\u09a8"
     ],
@@ -72,8 +75,14 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30d3\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30ec\u30f4\u30a3\u30f3"
+    ],
     "name:kor_x_preferred":[
         "\ub808\ube10"
+    ],
+    "name:mri_x_preferred":[
+        "Taitoko"
     ],
     "name:msa_x_preferred":[
         "Levin"
@@ -185,7 +194,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495113,
+    "wof:lastmodified":1690850057,
     "wof:name":"Levin",
     "wof:parent_id":1729238529,
     "wof:placetype":"locality",

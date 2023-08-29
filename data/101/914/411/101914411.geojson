@@ -60,6 +60,9 @@
     "name:por_x_preferred":[
         "Petone"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0679\u0648\u0646"
+    ],
     "nz-linz:id":1242,
     "nz-linz:name":"Petone",
     "nz-linz:type":"SUBURB",
@@ -101,11 +104,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687233,
         102191583,
-        85633345,
-        102079337,
         1729238533,
-        85687233
+        85633345,
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230339,
+    "wof:lastmodified":1690850086,
     "wof:name":"Petone",
     "wof:parent_id":1729238533,
     "wof:placetype":"locality",

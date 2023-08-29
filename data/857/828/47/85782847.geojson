@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u0635\u0648\u0641 \u0627\u0644\u0643\u0634\u0645\u064a\u0631"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0448\u0430\u043c\u0456\u0440"
+    ],
     "name:cat_x_preferred":[
         "Llana caixmir"
     ],
@@ -54,7 +57,8 @@
         "Cashmere South"
     ],
     "name:eng_x_variant":[
-        "cashmere"
+        "cashmere",
+        "Cashmere"
     ],
     "name:epo_x_preferred":[
         "ka\u015dmiro"
@@ -76,6 +80,9 @@
     ],
     "name:gle_x_preferred":[
         "Caism\u00edr"
+    ],
+    "name:glg_x_preferred":[
+        "caxemira"
     ],
     "name:hbs_x_preferred":[
         "Ka\u0161mir"
@@ -217,10 +224,10 @@
     "wd:wordcount":2296,
     "wof:belongsto":[
         102191583,
-        85633345,
-        102079401,
         1729238507,
+        85633345,
         1729337755,
+        102079401,
         85687179
     ],
     "wof:breaches":[],
@@ -255,7 +262,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603229328,
+    "wof:lastmodified":1690849922,
     "wof:name":"Cashmere South",
     "wof:parent_id":1729337755,
     "wof:placetype":"neighbourhood",

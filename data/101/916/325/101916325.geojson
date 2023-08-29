@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043b\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Bulls"
+    ],
     "name:ceb_x_preferred":[
         "Bulls"
     ],
@@ -45,6 +48,9 @@
     "name:ita_x_preferred":[
         "Bulls"
     ],
+    "name:mri_x_preferred":[
+        "\u014c-hine-puhiawe"
+    ],
     "name:msa_x_preferred":[
         "Bulls"
     ],
@@ -65,6 +71,9 @@
     ],
     "name:und_x_variant":[
         "Bulls Town District"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5c14\u65af"
     ],
     "nz-linz:id":2048,
     "nz-linz:name":"Bulls",
@@ -88,11 +97,11 @@
     "src:population":"geonames",
     "wd:wordcount":596,
     "wof:belongsto":[
+        85687251,
         102191583,
-        85633345,
-        102079301,
         1729238501,
-        85687251
+        85633345,
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,7 +140,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230380,
+    "wof:lastmodified":1690850117,
     "wof:name":"Bulls",
     "wof:parent_id":1729238501,
     "wof:placetype":"locality",

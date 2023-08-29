@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Te Rapa"
     ],
+    "name:fra_x_preferred":[
+        "Te Rapa"
+    ],
     "name:msa_x_preferred":[
         "Te Rapa"
     ],
@@ -57,11 +60,11 @@
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687229,
         102191583,
-        85633345,
-        102079271,
         1729238493,
-        85687229
+        85633345,
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603229947,
+    "wof:lastmodified":1690849981,
     "wof:name":"Te Rapa",
     "wof:parent_id":1729238493,
     "wof:placetype":"locality",

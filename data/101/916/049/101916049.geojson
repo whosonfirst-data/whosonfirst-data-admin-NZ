@@ -31,6 +31,12 @@
     "name:mri_x_preferred":[
         "East Taieri"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0634\u0631\u0642\u06cc \u0637\u0627\u0626\u06cc\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u6cf0\u91cc"
+    ],
     "nz-linz:id":324,
     "nz-linz:name":"East Taieri",
     "nz-linz:type":"SUBURB",
@@ -51,11 +57,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
+        85687201,
         102191583,
-        85633345,
-        102079387,
         1729238457,
-        85687201
+        85633345,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +95,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230369,
+    "wof:lastmodified":1690850110,
     "wof:name":"East Taieri",
     "wof:parent_id":1729238457,
     "wof:placetype":"locality",
