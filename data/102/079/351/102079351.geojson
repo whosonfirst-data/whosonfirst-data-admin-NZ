@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045627,
-    "geom:area_square_m":424200209.664645,
+    "geom:area_square_m":424200209.663166,
     "geom:bbox":"173.189653,-41.393427,173.598762,-41.05112",
     "geom:latitude":-41.246267,
     "geom:longitude":173.392305,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Nelson City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":-41.234617,
     "lbl:longitude":173.389384,
     "lbl:max_zoom":10.0,
@@ -31,7 +37,7 @@
         "Nelson City"
     ],
     "name:eng_x_preferred":[
-        "Nelson City"
+        "Nelson"
     ],
     "name:eng_x_variant":[
         "Nelson"
@@ -78,7 +84,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"877e6c1c4b789a622fb7316c698de127",
+    "wof:geomhash":"5967ce91f72f55333ace26352320cafe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,7 +102,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1627522483,
+    "wof:lastmodified":1694498066,
     "wof:name":"Nelson City",
     "wof:parent_id":85687157,
     "wof:placetype":"county",

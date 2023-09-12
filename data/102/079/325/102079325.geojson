@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.860188,
-    "geom:area_square_m":8349172339.540645,
+    "geom:area_square_m":8349172339.547217,
     "geom:bbox":"177.122171,-38.972812,178.577244,-37.534249",
     "geom:latitude":-38.281528,
     "geom:longitude":177.920863,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Gisborne District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-38.389884,
     "lbl:longitude":177.920547,
     "lbl:max_zoom":10.0,
@@ -61,7 +67,7 @@
         "\u0393\u03ba\u03af\u03c3\u03bc\u03c0\u03b5\u03c1\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Gisborne District"
+        "Gisborne"
     ],
     "name:eng_x_variant":[
         "Gisborne"
@@ -250,7 +256,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa59bbe269a4d6da86781ee92f01c4e6",
+    "wof:geomhash":"5fd9b9704622b051c32d70e09ecbfbaa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -268,7 +274,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849905,
+    "wof:lastmodified":1694498101,
     "wof:name":"Gisborne District",
     "wof:parent_id":85687237,
     "wof:placetype":"county",

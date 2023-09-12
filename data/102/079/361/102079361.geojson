@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.385131,
-    "geom:area_square_m":3511510922.129406,
+    "geom:area_square_m":3511510922.129078,
     "geom:bbox":"171.129116,-42.76252,172.195773,-42.056275",
     "geom:latitude":-42.491974,
     "geom:longitude":171.581139,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Grey District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-42.50851,
     "lbl:longitude":171.573119,
     "lbl:max_zoom":10.0,
@@ -37,7 +43,7 @@
         "Grey District"
     ],
     "name:eng_x_preferred":[
-        "Grey District"
+        "Grey"
     ],
     "name:eng_x_variant":[
         "Grey"
@@ -109,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b436502523d9d636875bd14df60311b",
+    "wof:geomhash":"baf2c0c5eaf255525d304c0f101ab89c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +133,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849905,
+    "wof:lastmodified":1694497900,
     "wof:name":"Grey District",
     "wof:parent_id":85687165,
     "wof:placetype":"county",

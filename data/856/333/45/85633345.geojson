@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":29.27994,
-    "geom:area_square_m":269735081660.986694,
+    "geom:area_square_m":269735081661.02774,
     "geom:bbox":"-176.893092,-47.289993,178.577174,-33.958498",
     "geom:latitude":-41.741943,
     "geom:longitude":171.528207,
@@ -13,6 +13,9 @@
     "iso:country":"NZ",
     "itu:country_code":[
         "64"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "NZL"
@@ -1162,8 +1165,9 @@
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
     "src:population_date":"2019",
+    "src:population_year":"2019",
     "statoids:dial":"64",
     "statoids:ds":"NZ",
     "statoids:fifa":"NZL",
@@ -1218,7 +1222,7 @@
         "whosonfirst",
         "naturalearth"
     ],
-    "wof:geomhash":"810ca5a4ec07b723c939c177cb9d17bb",
+    "wof:geomhash":"19eb3c9909394871dd8b6ae440213a51",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1234,12 +1238,12 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849934,
+    "wof:lastmodified":1694492050,
     "wof:name":"New Zealand",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
-    "wof:population":4950420,
-    "wof:population_rank":12,
+    "wof:population":4917000,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:shortcode":"NZL",
     "wof:superseded_by":[],
