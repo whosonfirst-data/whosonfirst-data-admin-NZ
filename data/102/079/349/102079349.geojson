@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.040614,
-    "geom:area_square_m":9644344068.574627,
+    "geom:area_square_m":9644344068.576164,
     "geom:bbox":"172.050586,-42.305574,173.304418,-40.498029",
     "geom:latitude":-41.449472,
     "geom:longitude":172.648642,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Tasman District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-41.673482,
     "lbl:longitude":172.637963,
     "lbl:max_zoom":10.0,
@@ -58,9 +64,6 @@
         "\u03a4\u03b1\u03c3\u03bc\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Tasman District"
-    ],
-    "name:eng_x_variant":[
         "Tasman"
     ],
     "name:epo_x_preferred":[
@@ -229,7 +232,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be689521f36feafd416b75f0aa9db53e",
+    "wof:geomhash":"375584bc37cbb8aea7efe45bf99b4021",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -247,7 +250,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849903,
+    "wof:lastmodified":1694639802,
     "wof:name":"Tasman District",
     "wof:parent_id":85687219,
     "wof:placetype":"county",

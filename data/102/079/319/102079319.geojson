@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002423,
-    "geom:area_square_m":23576477.108816,
+    "geom:area_square_m":23576477.108836,
     "geom:bbox":"176.641445,-38.114641,176.742891,-38.056306",
     "geom:latitude":-38.089511,
     "geom:longitude":176.690719,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Kawerau District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-38.095471,
     "lbl:longitude":176.687252,
     "lbl:max_zoom":10.0,
@@ -40,11 +46,10 @@
         "Kawerau"
     ],
     "name:eng_x_preferred":[
-        "Kawerau District"
+        "Kawerau"
     ],
     "name:eng_x_variant":[
-        "Whakatane",
-        "Kawerau"
+        "Whakatane"
     ],
     "name:fra_x_preferred":[
         "Kawerau"
@@ -101,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"14c23d800fee7053bbc545e6d4b4a81e",
+    "wof:geomhash":"aa9ae6f8f3574e5b6a34448dc8a206f6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -119,7 +124,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849917,
+    "wof:lastmodified":1694639691,
     "wof:name":"Kawerau District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

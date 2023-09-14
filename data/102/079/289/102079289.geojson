@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2691,
-    "geom:area_square_m":2614076539.505324,
+    "geom:area_square_m":2614076539.504434,
     "geom:bbox":"175.981746,-38.568698,176.615174,-37.936964",
     "geom:latitude":-38.223025,
     "geom:longitude":176.326459,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Rotorua District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-38.232716,
     "lbl:longitude":176.364018,
     "lbl:max_zoom":10.0,
@@ -73,9 +79,6 @@
         "\u03a1\u03bf\u03c4\u03cc\u03c1\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
-        "Rotorua District"
-    ],
-    "name:eng_x_variant":[
         "Rotorua"
     ],
     "name:epo_x_preferred":[
@@ -295,7 +298,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c4a64323ea8135b26e90a2a225520002",
+    "wof:geomhash":"bcf1b0708c862a964bd0f5ffc14b06e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -313,7 +316,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849896,
+    "wof:lastmodified":1694639700,
     "wof:name":"Rotorua District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

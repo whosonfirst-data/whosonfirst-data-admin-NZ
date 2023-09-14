@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078121,
-    "geom:area_square_m":730560157.177996,
+    "geom:area_square_m":730560157.178301,
     "geom:bbox":"174.868496,-41.013315,175.425313,-40.700334",
     "geom:latitude":-40.861922,
     "geom:longitude":175.170328,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Kapiti Coast District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-40.864613,
     "lbl:longitude":175.19402,
     "lbl:max_zoom":10.0,
@@ -40,10 +46,9 @@
         "Kapiti Coast District"
     ],
     "name:eng_x_preferred":[
-        "Kapiti Coast District"
+        "Kapiti Coast"
     ],
     "name:eng_x_variant":[
-        "Kapiti Coast",
         "K\u0101piti Coast District"
     ],
     "name:fra_x_preferred":[
@@ -110,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"698c6ee72eaf225c88297cc842eacb91",
+    "wof:geomhash":"1ec54f98b2a50ee9316c35170e711332",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -128,7 +133,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849902,
+    "wof:lastmodified":1694639705,
     "wof:name":"Kapiti Coast District",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

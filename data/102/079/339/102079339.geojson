@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031151,
-    "geom:area_square_m":289577230.259738,
+    "geom:area_square_m":289577230.260044,
     "geom:bbox":"174.61327,-41.362451,174.89541,-41.14354",
     "geom:latitude":-41.256035,
     "geom:longitude":174.74993,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Wellington City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":-41.287495,
     "lbl:longitude":174.71685,
     "lbl:max_zoom":10.0,
@@ -31,10 +37,9 @@
         "Wellington City"
     ],
     "name:eng_x_preferred":[
-        "Wellington City"
+        "Wellington"
     ],
     "name:eng_x_variant":[
-        "Wellington",
         "Wellington City Council"
     ],
     "name:fra_x_preferred":[
@@ -92,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f231a4b26bbd4f2c521540467bef2631",
+    "wof:geomhash":"64e802b92c91661f61176364f9bc66be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -110,7 +115,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849895,
+    "wof:lastmodified":1694639725,
     "wof:name":"Wellington City",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229588,
-    "geom:area_square_m":2204656164.032082,
+    "geom:area_square_m":2204656164.029714,
     "geom:bbox":"173.820328,-39.296043,174.862896,-38.706486",
     "geom:latitude":-39.050377,
     "geom:longitude":174.374862,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "New Plymouth District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-39.114492,
     "lbl:longitude":174.331636,
     "lbl:max_zoom":10.0,
@@ -37,9 +43,6 @@
         "New Plymouth District"
     ],
     "name:eng_x_preferred":[
-        "New Plymouth District"
-    ],
-    "name:eng_x_variant":[
         "New Plymouth"
     ],
     "name:fra_x_preferred":[
@@ -100,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5347cf2df8e2507d087fdcc4d1fb4b52",
+    "wof:geomhash":"97dbff136dd505b19d2af612cc508742",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +121,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849915,
+    "wof:lastmodified":1694639691,
     "wof:name":"New Plymouth District",
     "wof:parent_id":85687195,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018738,
-    "geom:area_square_m":174621678.198106,
+    "geom:area_square_m":174621678.198527,
     "geom:bbox":"174.770789,-41.164136,174.995543,-41.003921",
     "geom:latitude":-41.092575,
     "geom:longitude":174.903859,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Porirua City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":-41.058712,
     "lbl:longitude":174.924769,
     "lbl:max_zoom":10.0,
@@ -28,9 +34,6 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Porirua City"
-    ],
-    "name:eng_x_variant":[
         "Porirua"
     ],
     "name:fra_x_preferred":[
@@ -75,7 +78,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"332d2600aa062b5e76ec58295e42d47f",
+    "wof:geomhash":"2f26add89e07e35de9133dfa0fbbf2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +96,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1627522484,
+    "wof:lastmodified":1694639724,
     "wof:name":"Porirua City",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

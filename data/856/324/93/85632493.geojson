@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022864,
-    "geom:area_square_m":267228756.56343,
+    "geom:area_square_m":267228756.56333,
     "geom:bbox":"-169.952942,-19.156334,-169.778778,-18.95125",
     "geom:latitude":-19.052014,
     "geom:longitude":-169.862192,
@@ -14,6 +14,9 @@
     "iso:parent":"NZ",
     "itu:country_code":[
         "683"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "self-governing territory"
     ],
     "label:eng_x_preferred_shortcode":[
         "NU"
@@ -847,7 +850,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2018",
     "statoids:dial":"683",
     "statoids:ds":"NZ",
     "statoids:fifa":"NIU",
@@ -896,7 +900,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67aefb88461fe060b6f631b3d0f862e5",
+    "wof:geomhash":"b641dc6038530738a12f66a2e3c3af7f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -913,15 +917,15 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849932,
+    "wof:lastmodified":1694639813,
     "wof:name":"Niue",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",
     "wof:placetype_alt":[
         "region"
     ],
-    "wof:population":2166,
-    "wof:population_rank":4,
+    "wof:population":1620,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:shortcode":"NU",
     "wof:superseded_by":[],

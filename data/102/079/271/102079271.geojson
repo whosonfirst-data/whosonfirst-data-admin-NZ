@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011342,
-    "geom:area_square_m":110861462.796493,
+    "geom:area_square_m":110861462.796392,
     "geom:bbox":"175.184301,-37.846039,175.344869,-37.69933",
     "geom:latitude":-37.77265,
     "geom:longitude":175.267697,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Hamilton City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":-37.771428,
     "lbl:longitude":175.266497,
     "lbl:max_zoom":10.0,
@@ -34,9 +40,6 @@
         "Hamilton City"
     ],
     "name:eng_x_preferred":[
-        "Hamilton City"
-    ],
-    "name:eng_x_variant":[
         "Hamilton"
     ],
     "name:fra_x_preferred":[
@@ -80,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f9fc27f294c34efa3c545675b2473d9",
+    "wof:geomhash":"86d1d173e71ae2163b885e6e343563dd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -98,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1627522481,
+    "wof:lastmodified":1694639722,
     "wof:name":"Hamilton City",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021675,
-    "geom:area_square_m":252704052.815541,
+    "geom:area_square_m":252704052.815526,
     "geom:bbox":"-165.908783,-21.945473,-157.313782,-8.951222",
     "geom:latitude":-19.044651,
     "geom:longitude":-159.123726,
@@ -15,6 +15,9 @@
     "iso:parent":"NZ",
     "itu:country_code":[
         "682"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "CK"
@@ -853,8 +856,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-12-01",
+    "src:population":"naturalearth",
+    "src:population_date":"2016",
     "statoids:area_km":"293",
     "statoids:area_mi":"113",
     "statoids:as_of_date":"2011-12-01",
@@ -913,7 +916,7 @@
     "wof:geom_alt":[
         "naturalearth"
     ],
-    "wof:geomhash":"d7e5cf96114d4cddad7bdcb3eab3ac29",
+    "wof:geomhash":"4b175a5b18d6f2f8d2e6d8544392bb00",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -930,7 +933,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849933,
+    "wof:lastmodified":1694639809,
     "wof:name":"Cook Islands",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",
@@ -938,8 +941,8 @@
         "region"
     ],
     "wof:placetype_local":"autonomous state",
-    "wof:population":17794,
-    "wof:population_rank":6,
+    "wof:population":17459,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-nz",
     "wof:shortcode":"CK",
     "wof:superseded_by":[],
