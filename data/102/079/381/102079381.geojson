@@ -119,8 +119,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554029,
         "hasc:id":"NZ.OT.WI",
+        "nz-linz:id":"068",
         "wd:id":"Q1760804"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:controlled":[
         "wof:parent_id",
         "wof:hierarchy"
@@ -153,7 +158,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639715,
+    "wof:lastmodified":1695886390,
     "wof:name":"Waitaki District",
     "wof:parent_id":-4,
     "wof:placetype":"county",

@@ -116,8 +116,13 @@
         "digitalenvoy:metro_code":554053,
         "gp:id":55875858,
         "hasc:id":"NZ.OT.QL",
+        "nz-linz:id":"070",
         "wd:id":"Q613684"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -140,7 +145,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639706,
+    "wof:lastmodified":1695886343,
     "wof:name":"Queenstown-Lakes District",
     "wof:parent_id":85687201,
     "wof:placetype":"county",

@@ -84,8 +84,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"NZ.BP.WB",
+        "nz-linz:id":"022",
         "wd:id":"Q959152"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -108,7 +113,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639689,
+    "wof:lastmodified":1695886296,
     "wof:name":"Western Bay of Plenty District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

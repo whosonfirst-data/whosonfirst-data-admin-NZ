@@ -118,8 +118,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554044,
         "hasc:id":"NZ.WK.MP",
+        "nz-linz:id":"015",
         "wd:id":"Q974296"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -142,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639705,
+    "wof:lastmodified":1695886340,
     "wof:name":"Matamata-Piako District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

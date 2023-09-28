@@ -108,8 +108,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"NZ.WK.WP",
+        "nz-linz:id":"017",
         "wd:id":"Q1760796"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -132,7 +137,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639699,
+    "wof:lastmodified":1695886324,
     "wof:name":"Waipa District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

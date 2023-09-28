@@ -117,8 +117,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"NZ.SO.SL",
+        "nz-linz:id":"073",
         "wd:id":"Q1972706"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -141,7 +146,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639694,
+    "wof:lastmodified":1695886309,
     "wof:name":"Southland District",
     "wof:parent_id":85687211,
     "wof:placetype":"county",

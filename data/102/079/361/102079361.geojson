@@ -106,8 +106,13 @@
     "wof:concordances":{
         "gp:id":55875922,
         "hasc:id":"NZ.WC.GR",
+        "nz-linz:id":"056",
         "wd:id":"Q642203"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -130,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639692,
+    "wof:lastmodified":1695886305,
     "wof:name":"Grey District",
     "wof:parent_id":85687165,
     "wof:placetype":"county",

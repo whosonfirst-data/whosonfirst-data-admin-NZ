@@ -106,8 +106,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554045,
         "hasc:id":"NZ.CA.WR",
+        "nz-linz:id":"059",
         "wd:id":"Q1542322"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -130,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639707,
+    "wof:lastmodified":1695886348,
     "wof:name":"Waimakariri District",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

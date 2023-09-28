@@ -72,8 +72,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":554002,
-        "hasc:id":"NZ.CA.CC"
+        "hasc:id":"NZ.CA.CC",
+        "nz-linz:id":"060"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -96,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639720,
+    "wof:lastmodified":1695886103,
     "wof:name":"Christchurch City",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

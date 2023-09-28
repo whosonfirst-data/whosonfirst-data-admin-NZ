@@ -108,8 +108,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"NZ.MW.MN",
+        "nz-linz:id":"039",
         "wd:id":"Q613305"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -132,7 +137,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639706,
+    "wof:lastmodified":1695886346,
     "wof:name":"Manawatu District",
     "wof:parent_id":85687251,
     "wof:placetype":"county",

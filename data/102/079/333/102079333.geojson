@@ -111,8 +111,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"NZ.HB.CH",
+        "nz-linz:id":"032",
         "wd:id":"Q1053673"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -135,7 +140,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639691,
+    "wof:lastmodified":1695886302,
     "wof:name":"Central Hawke's Bay District",
     "wof:parent_id":85687189,
     "wof:placetype":"county",

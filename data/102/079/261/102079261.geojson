@@ -118,8 +118,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554043,
         "hasc:id":"NZ.WK.TC",
+        "nz-linz:id":"011",
         "wd:id":"Q2305865"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -142,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639703,
+    "wof:lastmodified":1695886336,
     "wof:name":"Thames-Coromandel District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

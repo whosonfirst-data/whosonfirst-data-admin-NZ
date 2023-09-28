@@ -91,8 +91,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554004,
         "hasc:id":"NZ.WG.WE",
+        "nz-linz:id":"047",
         "wd:id":"Q601800"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -115,7 +120,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639725,
+    "wof:lastmodified":1695886119,
     "wof:name":"Wellington City",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

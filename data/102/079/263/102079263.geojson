@@ -106,8 +106,13 @@
     "wof:concordances":{
         "gp:id":55875879,
         "hasc:id":"NZ.WK.HK",
+        "nz-linz:id":"012",
         "wd:id":"Q1589865"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -130,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639708,
+    "wof:lastmodified":1695886353,
     "wof:name":"Hauraki District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

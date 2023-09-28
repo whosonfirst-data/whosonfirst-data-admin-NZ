@@ -97,8 +97,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554005,
         "hasc:id":"NZ.TK.NP",
+        "nz-linz:id":"033",
         "wd:id":"Q4846747"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -121,7 +126,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639691,
+    "wof:lastmodified":1695886300,
     "wof:name":"New Plymouth District",
     "wof:parent_id":85687195,
     "wof:placetype":"county",

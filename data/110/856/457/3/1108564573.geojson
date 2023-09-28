@@ -58,8 +58,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"NZ.BP.WB"
+        "hasc:id":"NZ.BP.WB",
+        "nz-linz:id":"999"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:created":1474059006,
     "wof:geomhash":"7037b0c1a41dec119ea0e867c930f317",
@@ -80,7 +85,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886250,
     "wof:name":"Area Outside Territorial Authority",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

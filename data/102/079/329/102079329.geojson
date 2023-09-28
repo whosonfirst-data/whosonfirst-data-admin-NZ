@@ -70,8 +70,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"NZ.HB.HS"
+        "hasc:id":"NZ.HB.HS",
+        "nz-linz:id":"030"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -94,7 +99,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639722,
+    "wof:lastmodified":1695886109,
     "wof:name":"Hastings District",
     "wof:parent_id":85687189,
     "wof:placetype":"county",

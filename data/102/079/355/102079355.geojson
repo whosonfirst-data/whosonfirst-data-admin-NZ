@@ -71,8 +71,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":554038,
-        "hasc:id":"NZ.CA.KK"
+        "hasc:id":"NZ.CA.KK",
+        "nz-linz:id":"054"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -95,7 +100,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639725,
+    "wof:lastmodified":1695886117,
     "wof:name":"Kaikoura District",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

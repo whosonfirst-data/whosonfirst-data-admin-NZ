@@ -77,8 +77,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"NZ.WK.HM"
+        "hasc:id":"NZ.WK.HM",
+        "nz-linz:id":"016"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -101,7 +106,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639722,
+    "wof:lastmodified":1695886108,
     "wof:name":"Hamilton City",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

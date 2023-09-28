@@ -70,8 +70,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"NZ.MW.PN"
+        "hasc:id":"NZ.MW.PN",
+        "nz-linz:id":"040"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -94,7 +99,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639723,
+    "wof:lastmodified":1695886114,
     "wof:name":"Palmerston North City",
     "wof:parent_id":85687251,
     "wof:placetype":"county",

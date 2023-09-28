@@ -108,8 +108,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"NZ.WK.WT",
+        "nz-linz:id":"013",
         "wd:id":"Q1973593"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -132,7 +137,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639708,
+    "wof:lastmodified":1695886351,
     "wof:name":"Waikato District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

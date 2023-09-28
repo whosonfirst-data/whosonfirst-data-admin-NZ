@@ -134,8 +134,13 @@
         "digitalenvoy:metro_code":554064,
         "gp:id":55875861,
         "hasc:id":"NZ.BP.OP",
+        "nz-linz:id":"027",
         "wd:id":"Q953871"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -158,7 +163,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639714,
+    "wof:lastmodified":1695886387,
     "wof:name":"Opotiki District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

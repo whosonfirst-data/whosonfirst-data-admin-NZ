@@ -71,8 +71,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"NZ.SO.GO"
+        "hasc:id":"NZ.SO.GO",
+        "nz-linz:id":"074"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -95,7 +100,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639723,
+    "wof:lastmodified":1695886110,
     "wof:name":"Gore District",
     "wof:parent_id":85687211,
     "wof:placetype":"county",

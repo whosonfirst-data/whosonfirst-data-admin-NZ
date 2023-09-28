@@ -75,8 +75,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":554020,
-        "hasc:id":"NZ.NE.NL"
+        "hasc:id":"NZ.NE.NL",
+        "nz-linz:id":"052"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -99,7 +104,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639724,
+    "wof:lastmodified":1695886115,
     "wof:name":"Nelson City",
     "wof:parent_id":85687157,
     "wof:placetype":"county",

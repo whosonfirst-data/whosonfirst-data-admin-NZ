@@ -100,8 +100,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554054,
         "hasc:id":"NZ.WG.SP",
+        "nz-linz:id":"050",
         "wd:id":"Q1760817"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -124,7 +129,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639706,
+    "wof:lastmodified":1695886345,
     "wof:name":"South Wairarapa District",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

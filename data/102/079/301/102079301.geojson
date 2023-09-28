@@ -121,8 +121,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554031,
         "hasc:id":"NZ.MW.RT",
+        "nz-linz:id":"038",
         "wd:id":"Q591972"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -145,7 +150,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639699,
+    "wof:lastmodified":1695886323,
     "wof:name":"Rangitikei District",
     "wof:parent_id":85687251,
     "wof:placetype":"county",
