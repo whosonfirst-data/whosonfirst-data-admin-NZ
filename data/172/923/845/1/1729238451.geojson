@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012806,
-    "geom:area_square_m":114066661.693441,
+    "geom:area_square_m":114066661.693316,
     "geom:bbox":"171.652233,-43.987103,171.902269,-43.845443",
     "geom:latitude":-43.915941,
     "geom:longitude":171.766778,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-43.902355,
     "lbl:longitude":171.743997,
     "lbl:max_zoom":13.0,
@@ -76,7 +82,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724607,
-    "wof:geomhash":"d5c4d12d1a56358d952cf29a29a8abe5",
+    "wof:geomhash":"62e5d1accc286e862d0b9bfb98f65250",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -95,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495078,
+    "wof:lastmodified":1695878943,
     "wof:name":"Ashburton",
     "wof:parent_id":102079371,
     "wof:placetype":"localadmin",

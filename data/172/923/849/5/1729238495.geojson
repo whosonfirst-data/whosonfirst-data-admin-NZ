@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023584,
-    "geom:area_square_m":203019783.809753,
+    "geom:area_square_m":203019783.809552,
     "geom:bbox":"170.247302,-45.96919,170.683577,-45.796627",
     "geom:latitude":-45.879847,
     "geom:longitude":170.479075,
     "gn:population":114347,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-45.884331,
     "lbl:longitude":170.46444,
     "lbl:max_zoom":14.0,
@@ -316,7 +322,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724631,
-    "wof:geomhash":"af4cdfec153de341963e6b0f9054d698",
+    "wof:geomhash":"2eabccd20e38daf4693824acc583f139",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -335,7 +341,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849961,
+    "wof:lastmodified":1695878941,
     "wof:name":"Dunedin",
     "wof:parent_id":102079387,
     "wof:placetype":"localadmin",

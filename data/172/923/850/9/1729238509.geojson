@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007036,
-    "geom:area_square_m":69703242.696076,
+    "geom:area_square_m":69703242.696036,
     "geom:bbox":"175.462503,-36.825575,175.612505,-36.705524",
     "geom:latitude":-36.757312,
     "geom:longitude":175.539047,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-36.744395,
     "lbl:longitude":175.507952,
     "lbl:max_zoom":13.0,
@@ -73,7 +79,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724637,
-    "wof:geomhash":"1da55544dd3e2ac991707c2750eff5d0",
+    "wof:geomhash":"cf9fdc5ef63cab8e4b62e67acf232874",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -92,7 +98,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495081,
+    "wof:lastmodified":1695878945,
     "wof:name":"Coromandel",
     "wof:parent_id":102079261,
     "wof:placetype":"localadmin",
