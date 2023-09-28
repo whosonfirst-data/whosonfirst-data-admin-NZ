@@ -46,7 +46,10 @@
         85633345
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "nz-linz:id":"99"
+    },
+    "wof:concordances_official":"nz-linz:id",
     "wof:country":"NZ",
     "wof:geomhash":"299c123a1093214a5f756868b992a639",
     "wof:hierarchy":[
@@ -65,7 +68,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694498185,
+    "wof:lastmodified":1695884756,
     "wof:name":"Area Outside Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

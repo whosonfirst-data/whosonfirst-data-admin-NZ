@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.663002,
-    "geom:area_square_m":25287149974.153816,
+    "geom:area_square_m":25287149974.150299,
     "geom:bbox":"174.675165,-40.81111,176.892079,-38.470329",
     "geom:latitude":-39.827003,
     "geom:longitude":175.556433,
@@ -315,12 +315,18 @@
         "gn:id":2179671,
         "gp:id":15021764,
         "hasc:id":"NZ.MW",
+        "iso:code":"NZ-MWT",
         "iso:id":"NZ-MWT",
+        "nz-linz:id":"08",
         "unlc:id":"NZ-MWT",
         "wd:id":"Q139907"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"ae9348c243cfc8e97323a36181b8909c",
+    "wof:geomhash":"1a71704cae00a946e836a1753447d89a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -337,7 +343,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849928,
+    "wof:lastmodified":1695884462,
     "wof:name":"Manawatu-Wanganui Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.625514,
-    "geom:area_square_m":16152160918.001591,
+    "geom:area_square_m":16152160917.999199,
     "geom:bbox":"173.896631,-37.363454,175.9033,-35.698479",
     "geom:latitude":-36.522986,
     "geom:longitude":174.867371,
@@ -264,12 +264,18 @@
         "digitalenvoy:region_code":25041,
         "fips:code":"NZE7",
         "hasc:id":"NZ.AU",
+        "iso:code":"NZ-AUK",
         "iso:id":"NZ-AUK",
+        "nz-linz:id":"02",
         "unlc:id":"NZ-AUK",
         "wd:id":"Q18574960"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"24416b8b071ee4d4fc04d68c2ded0370",
+    "wof:geomhash":"3b17592c505fd42630caecd9cd62e876",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -286,7 +292,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849931,
+    "wof:lastmodified":1695884462,
     "wof:name":"Auckland Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

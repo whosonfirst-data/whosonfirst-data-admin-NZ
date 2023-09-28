@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.907841,
-    "geom:area_square_m":17676466006.639938,
+    "geom:area_square_m":17676466006.647339,
     "geom:bbox":"172.71853,-42.488129,174.603476,-40.460762",
     "geom:latitude":-41.467899,
     "geom:longitude":173.775769,
@@ -303,11 +303,17 @@
         "gn:id":2187304,
         "gp:id":15021759,
         "hasc:id":"NZ.MA",
+        "iso:code":"NZ-MBH",
         "iso:id":"NZ-MBH",
+        "nz-linz:id":"18",
         "wd:id":"Q140083"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"99eb0355d548c3ab99d21550b2408b86",
+    "wof:geomhash":"5852cd259b62551ba4708c9bec15816e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -324,7 +330,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849941,
+    "wof:lastmodified":1695884456,
     "wof:name":"Marlborough Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

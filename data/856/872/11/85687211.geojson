@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.393621,
-    "geom:area_square_m":54922446481.596794,
+    "geom:area_square_m":54922446481.600151,
     "geom:bbox":"166.138653,-47.724046,169.342055,-44.127058",
     "geom:latitude":-45.99093,
     "geom:longitude":167.746888,
@@ -303,12 +303,18 @@
         "gn:id":2182501,
         "gp:id":15021750,
         "hasc:id":"NZ.SO",
+        "iso:code":"NZ-STL",
         "iso:id":"NZ-STL",
+        "nz-linz:id":"15",
         "unlc:id":"NZ-STL",
         "wd:id":"Q864971"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"42fecfa7e5d6f2b63119257c935d7740",
+    "wof:geomhash":"c9ded821ab219fc54b2d2d739a8ca47c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -325,7 +331,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849929,
+    "wof:lastmodified":1695884459,
     "wof:name":"Southland Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

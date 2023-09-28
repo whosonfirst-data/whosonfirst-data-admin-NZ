@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.328785,
-    "geom:area_square_m":56691719275.67556,
+    "geom:area_square_m":56691719275.658798,
     "geom:bbox":"169.542498,-45.080929,174.264103,-41.907383",
     "geom:latitude":-43.573456,
     "geom:longitude":171.797241,
@@ -352,12 +352,18 @@
         "gn:id":2192628,
         "gp:id":15021751,
         "hasc:id":"NZ.CA",
+        "iso:code":"NZ-CAN",
         "iso:id":"NZ-CAN",
+        "nz-linz:id":"13",
         "unlc:id":"NZ-CAN",
         "wd:id":"Q657004"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"d6fa7217209fae60f68593545470d245",
+    "wof:geomhash":"390d2af1ea8dd862eb2d2b9c33532752",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -374,7 +380,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849940,
+    "wof:lastmodified":1695884455,
     "wof:name":"Canterbury Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

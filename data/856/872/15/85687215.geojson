@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.49764,
-    "geom:area_square_m":13324495430.643661,
+    "geom:area_square_m":13324495430.643631,
     "geom:bbox":"-177.357902,-44.608488,-175.500024,-43.346533",
     "geom:latitude":-43.984416,
     "geom:longitude":-176.416182,
@@ -379,11 +379,17 @@
         "gn:id":4033013,
         "gp:id":56126020,
         "hasc:id":"NZ.CI",
+        "iso:code":"NZ-CIT",
         "iso:id":"NZ-CIT",
+        "nz-linz:id":"99",
         "wd:id":"Q115459"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"a2879efc6d841c89bc467f2586d7c16c",
+    "wof:geomhash":"6e261a6142cf315094b92bb4b6c25117",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -400,7 +406,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849932,
+    "wof:lastmodified":1695884442,
     "wof:name":"Chatham Islands",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

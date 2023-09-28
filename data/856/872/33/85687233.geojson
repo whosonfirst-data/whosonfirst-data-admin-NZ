@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.710759,
-    "geom:area_square_m":15921702933.19817,
+    "geom:area_square_m":15921702933.199694,
     "geom:bbox":"174.388038,-41.815112,176.56406,-40.628591",
     "geom:latitude":-41.178263,
     "geom:longitude":175.416904,
@@ -409,12 +409,18 @@
         "gn:id":2179538,
         "gp:id":15021762,
         "hasc:id":"NZ.WG",
+        "iso:code":"NZ-WGN",
         "iso:id":"NZ-WGN",
+        "nz-linz:id":"09",
         "unlc:id":"NZ-WGN",
         "wd:id":"Q856010"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"cd1f8bcf7e2dce2013c62fc4cd8ced55",
+    "wof:geomhash":"6b162468848d45314c78a436ab65b288",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -431,7 +437,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849929,
+    "wof:lastmodified":1695884461,
     "wof:name":"Wellington Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

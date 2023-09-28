@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.568812,
-    "geom:area_square_m":34859742351.140373,
+    "geom:area_square_m":34859742351.149239,
     "geom:bbox":"174.313776,-39.300652,176.505325,-36.258285",
     "geom:latitude":-37.812827,
     "geom:longitude":175.437742,
@@ -323,12 +323,18 @@
         "gn:id":2180293,
         "gp:id":15021765,
         "hasc:id":"NZ.WK",
+        "iso:code":"NZ-WKO",
         "iso:id":"NZ-WKO",
+        "nz-linz:id":"03",
         "unlc:id":"NZ-WKO",
         "wd:id":"Q139918"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"0f09e582ab0a0337df449d7dde893a03",
+    "wof:geomhash":"1c79cc82f695846e61f9f5eb7eb4364c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -345,7 +351,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849930,
+    "wof:lastmodified":1695884461,
     "wof:name":"Waikato Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",
