@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.984759,
-    "geom:area_square_m":30104481092.623817,
+    "geom:area_square_m":30104481092.623322,
     "geom:bbox":"172.392389,-36.558506,174.993537,-34.193512",
     "geom:latitude":-35.341423,
     "geom:longitude":173.740876,
@@ -312,12 +312,18 @@
         "gn:id":2185978,
         "gp:id":15021755,
         "hasc:id":"NZ.NO",
+        "iso:code":"NZ-NTL",
         "iso:id":"NZ-NTL",
+        "nz-linz:id":"01",
         "unlc:id":"NZ-NTL",
         "wd:id":"Q59596"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"9daa1be64d5a021bc1787e7c9744f933",
+    "wof:geomhash":"65348483e6f251995a7036029695893c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -334,7 +340,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849942,
+    "wof:lastmodified":1695884452,
     "wof:name":"Northland Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

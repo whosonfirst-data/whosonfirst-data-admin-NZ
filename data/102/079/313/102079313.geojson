@@ -106,8 +106,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554050,
         "hasc:id":"NZ.MW.HW",
+        "nz-linz:id":"042",
         "wd:id":"Q1232367"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -130,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639706,
+    "wof:lastmodified":1695886346,
     "wof:name":"Horowhenua District",
     "wof:parent_id":85687251,
     "wof:placetype":"county",

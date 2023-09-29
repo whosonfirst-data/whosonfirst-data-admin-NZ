@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036426,
-    "geom:area_square_m":368312987.055286,
+    "geom:area_square_m":368312987.055537,
     "geom:bbox":"173.055245,-35.252237,173.469121,-35.051074",
     "geom:latitude":-35.143275,
     "geom:longitude":173.26863,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-35.116242,
     "lbl:longitude":173.231047,
     "lbl:max_zoom":13.0,
@@ -82,7 +88,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724652,
-    "wof:geomhash":"944c3c91f4dbaa47c9db0415d17c33a2",
+    "wof:geomhash":"79c2fe37a112e0fd5a77041576c12465",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -101,7 +107,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495090,
+    "wof:lastmodified":1695878954,
     "wof:name":"Kaitaia",
     "wof:parent_id":102079255,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008492,
-    "geom:area_square_m":82767871.986538,
+    "geom:area_square_m":82767871.986561,
     "geom:bbox":"176.906839,-38.033935,177.068761,-37.920827",
     "geom:latitude":-37.978505,
     "geom:longitude":176.983066,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-37.979731,
     "lbl:longitude":176.977542,
     "lbl:max_zoom":13.0,
@@ -100,7 +106,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724684,
-    "wof:geomhash":"648f7e88a8be7d8a34369edce2fdf894",
+    "wof:geomhash":"936072f798c5da7ec2cc7d1e7281fc92",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -119,7 +125,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495080,
+    "wof:lastmodified":1695878944,
     "wof:name":"Whakatane",
     "wof:parent_id":102079291,
     "wof:placetype":"localadmin",

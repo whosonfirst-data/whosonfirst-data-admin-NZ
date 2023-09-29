@@ -118,8 +118,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554023,
         "hasc:id":"NZ.OT.CL",
+        "nz-linz:id":"072",
         "wd:id":"Q1103566"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -142,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639713,
+    "wof:lastmodified":1695886383,
     "wof:name":"Clutha District",
     "wof:parent_id":85687201,
     "wof:placetype":"county",

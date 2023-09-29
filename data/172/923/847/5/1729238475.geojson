@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017809,
-    "geom:area_square_m":169786688.138565,
+    "geom:area_square_m":169786688.138459,
     "geom:bbox":"174.214933,-39.652713,174.376696,-39.464623",
     "geom:latitude":-39.554492,
     "geom:longitude":174.299432,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-39.554317,
     "lbl:longitude":174.299459,
     "lbl:max_zoom":13.0,
@@ -88,7 +94,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724623,
-    "wof:geomhash":"679228f8f9806f02e92ef5d25f78cb09",
+    "wof:geomhash":"0d605b9edc59ea1bd859a226c054d8ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -107,7 +113,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495090,
+    "wof:lastmodified":1695878954,
     "wof:name":"Hawera",
     "wof:parent_id":102079295,
     "wof:placetype":"localadmin",

@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030927,
-    "geom:area_square_m":287484267.811532,
+    "geom:area_square_m":287484267.811916,
     "geom:bbox":"174.613106,-41.36238,174.895409,-41.14354",
     "geom:latitude":-41.256608,
     "geom:longitude":174.750133,
     "gn:population":381900,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority city"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "collectivit\u00e9 territoriale ville"
+    ],
     "lbl:latitude":-41.28566,
     "lbl:longitude":174.724424,
     "lbl:max_zoom":13.0,
@@ -583,7 +589,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724671,
-    "wof:geomhash":"0478f13b033b86f4cae8b969256ce603",
+    "wof:geomhash":"90716f4072c70b1f138ab8ea59b0c04e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -602,7 +608,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849959,
+    "wof:lastmodified":1696022877,
     "wof:name":"Wellington",
     "wof:parent_id":102079339,
     "wof:placetype":"localadmin",

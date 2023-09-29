@@ -106,8 +106,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554011,
         "hasc:id":"NZ.NO.WN",
+        "nz-linz:id":"002",
         "wd:id":"Q3696415"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -130,7 +135,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639700,
+    "wof:lastmodified":1695886327,
     "wof:name":"Whangarei District",
     "wof:parent_id":85687149,
     "wof:placetype":"county",

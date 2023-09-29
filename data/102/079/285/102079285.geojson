@@ -62,8 +62,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"NZ.BP.WB"
+        "hasc:id":"NZ.BP.WB",
+        "nz-linz:id":"023"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -86,7 +91,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639724,
+    "wof:lastmodified":1695886116,
     "wof:name":"Tauranga City",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

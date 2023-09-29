@@ -75,8 +75,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554009,
         "gp:id":55875918,
-        "hasc:id":"NZ.WG.LH"
+        "hasc:id":"NZ.WG.LH",
+        "nz-linz:id":"046"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -99,7 +104,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639723,
+    "wof:lastmodified":1695886114,
     "wof:name":"Lower Hutt City",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

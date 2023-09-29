@@ -100,8 +100,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554066,
         "hasc:id":"NZ.BP.WH",
+        "nz-linz:id":"026",
         "wd:id":"Q1674085"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -124,7 +129,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639691,
+    "wof:lastmodified":1695886301,
     "wof:name":"Kawerau District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

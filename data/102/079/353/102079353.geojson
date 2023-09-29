@@ -153,8 +153,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554016,
         "gp:id":55875875,
-        "hasc:id":"NZ.MA.MB"
+        "hasc:id":"NZ.MA.MB",
+        "nz-linz:id":"053"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +182,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639798,
+    "wof:lastmodified":1695886635,
     "wof:name":"Marlborough District",
     "wof:parent_id":85687185,
     "wof:placetype":"county",

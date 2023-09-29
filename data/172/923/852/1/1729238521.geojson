@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005561,
-    "geom:area_square_m":48557721.448009,
+    "geom:area_square_m":48557721.447999,
     "geom:bbox":"170.897807,-45.122193,171.01932,-45.024824",
     "geom:latitude":-45.072637,
     "geom:longitude":170.950547,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-45.081738,
     "lbl:longitude":170.944563,
     "lbl:max_zoom":13.0,
@@ -76,7 +82,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724643,
-    "wof:geomhash":"68f3e92cc9910b6acc2866ec100a0003",
+    "wof:geomhash":"106362726b340423bce0ad07a3bdd8b5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -95,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495093,
+    "wof:lastmodified":1695878956,
     "wof:name":"Oamaru",
     "wof:parent_id":102079381,
     "wof:placetype":"localadmin",

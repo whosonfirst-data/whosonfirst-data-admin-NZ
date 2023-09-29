@@ -71,8 +71,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":554025,
-        "hasc:id":"NZ.WG.UH"
+        "hasc:id":"NZ.WG.UH",
+        "nz-linz:id":"045"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -95,7 +100,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639724,
+    "wof:lastmodified":1695886117,
     "wof:name":"Upper Hutt City",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

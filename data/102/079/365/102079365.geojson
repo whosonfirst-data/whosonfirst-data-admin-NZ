@@ -116,8 +116,13 @@
         "digitalenvoy:metro_code":554038,
         "gp:id":55875849,
         "hasc:id":"NZ.CA.HN",
+        "nz-linz:id":"058",
         "wd:id":"Q1638765"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -140,7 +145,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639698,
+    "wof:lastmodified":1695886321,
     "wof:name":"Hurunui District",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

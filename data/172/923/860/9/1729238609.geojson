@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001055,
-    "geom:area_square_m":9814050.124261,
+    "geom:area_square_m":9814050.124248,
     "geom:bbox":"173.055294,-41.261386,173.108441,-41.207572",
     "geom:latitude":-41.239055,
     "geom:longitude":173.081925,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-41.244405,
     "lbl:longitude":173.083726,
     "lbl:max_zoom":13.0,
@@ -37,7 +43,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724682,
-    "wof:geomhash":"fb2e7c2523958694e29df3957cbe8aa9",
+    "wof:geomhash":"c6fca9a6be43f79c73c9225323116689",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -56,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1617131292,
+    "wof:lastmodified":1695878941,
     "wof:name":"Mapua",
     "wof:parent_id":102079349,
     "wof:placetype":"localadmin",

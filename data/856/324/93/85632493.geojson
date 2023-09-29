@@ -880,6 +880,7 @@
         "gp:id":23424904,
         "hasc:id":"NU",
         "ioc:id":"NIU",
+        "iso:code":"NU",
         "itu:id":"NIU",
         "m49:code":"570",
         "marc:id":"xh",
@@ -892,6 +893,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":897038
     },
+    "wof:concordances_official":"iso:code",
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -917,7 +919,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639813,
+    "wof:lastmodified":1695881384,
     "wof:name":"Niue",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",

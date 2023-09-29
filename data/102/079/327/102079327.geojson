@@ -121,8 +121,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554059,
         "hasc:id":"NZ.HB.WW",
+        "nz-linz:id":"029",
         "wd:id":"Q599594"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -145,7 +150,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639691,
+    "wof:lastmodified":1695886301,
     "wof:name":"Wairoa District",
     "wof:parent_id":85687189,
     "wof:placetype":"county",

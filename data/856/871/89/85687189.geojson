@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.239036,
-    "geom:area_square_m":21380662793.444153,
+    "geom:area_square_m":21380662793.440308,
     "geom:bbox":"176.042936,-40.493139,178.263069,-38.583921",
     "geom:latitude":-39.441351,
     "geom:longitude":176.963822,
@@ -245,11 +245,17 @@
         "digitalenvoy:region_code":25045,
         "fips:code":"NZF2",
         "hasc:id":"NZ.HB",
+        "iso:code":"NZ-HKB",
         "iso:id":"NZ-HKB",
+        "nz-linz:id":"06",
         "wd:id":"Q251825"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"7aa4c580b3abf9890e462c253ed6b09c",
+    "wof:geomhash":"ccd2a8667c8d29178ba24c4d933547bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -266,7 +272,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849937,
+    "wof:lastmodified":1695884457,
     "wof:name":"Hawke's Bay Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

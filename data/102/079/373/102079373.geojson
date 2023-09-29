@@ -91,8 +91,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554018,
         "hasc:id":"NZ.CA.TU",
+        "nz-linz:id":"064",
         "wd:id":"Q14395599"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -115,7 +120,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639714,
+    "wof:lastmodified":1695886386,
     "wof:name":"Timaru District",
     "wof:parent_id":85687179,
     "wof:placetype":"county",

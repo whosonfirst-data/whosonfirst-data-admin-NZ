@@ -247,8 +247,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554015,
         "hasc:id":"NZ.GI.GB",
+        "nz-linz:id":"028",
         "wd:id":"Q140246"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -271,7 +276,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639803,
+    "wof:lastmodified":1695886644,
     "wof:name":"Gisborne District",
     "wof:parent_id":85687237,
     "wof:placetype":"county",

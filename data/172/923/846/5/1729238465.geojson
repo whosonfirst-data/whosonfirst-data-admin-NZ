@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006903,
-    "geom:area_square_m":64501678.730941,
+    "geom:area_square_m":64501678.730356,
     "geom:bbox":"174.97228,-40.973652,175.076804,-40.871394",
     "geom:latitude":-40.920635,
     "geom:longitude":175.019549,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-40.918723,
     "lbl:longitude":175.01855,
     "lbl:max_zoom":13.0,
@@ -85,7 +91,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724618,
-    "wof:geomhash":"a80ab0f3d680b325a3396c7f5d42b122",
+    "wof:geomhash":"ead3deb75d0346ff938611c63c38da5c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,7 +110,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495087,
+    "wof:lastmodified":1695878951,
     "wof:name":"Paraparaumu",
     "wof:parent_id":102079315,
     "wof:placetype":"localadmin",

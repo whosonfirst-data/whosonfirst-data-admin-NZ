@@ -124,8 +124,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554033,
         "hasc:id":"NZ.MW.RP",
+        "nz-linz:id":"036",
         "wd:id":"Q586428"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -148,7 +153,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639690,
+    "wof:lastmodified":1695886299,
     "wof:name":"Ruapehu District",
     "wof:parent_id":85687251,
     "wof:placetype":"county",

@@ -292,8 +292,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554012,
         "hasc:id":"NZ.WK.RR",
+        "nz-linz:id":"024",
         "wd:id":"Q208948"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -316,7 +321,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639700,
+    "wof:lastmodified":1695886326,
     "wof:name":"Rotorua District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

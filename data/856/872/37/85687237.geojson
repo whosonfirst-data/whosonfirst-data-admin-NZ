@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.433222,
-    "geom:area_square_m":13923035279.085007,
+    "geom:area_square_m":13923035279.10037,
     "geom:bbox":"177.122171,-39.001628,178.836208,-37.331372",
     "geom:latitude":-38.218822,
     "geom:longitude":178.113128,
@@ -154,10 +154,16 @@
         "gn:id":2190767,
         "gp:id":15021761,
         "hasc:id":"NZ.GI",
-        "iso:id":"NZ-GIS"
+        "iso:code":"NZ-GIS",
+        "iso:id":"NZ-GIS",
+        "nz-linz:id":"05"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"5460e1a4bc2d8fdbd320c83b1c74c832",
+    "wof:geomhash":"eb4b850ab20cdddc4ab621ab3d9dd688",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -174,7 +180,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1607462738,
+    "wof:lastmodified":1695884461,
     "wof:name":"Gisborne Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

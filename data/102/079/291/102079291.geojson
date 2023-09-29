@@ -59,8 +59,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":554052,
-        "hasc:id":"NZ.BP.WH"
+        "hasc:id":"NZ.BP.WH",
+        "nz-linz:id":"025"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -83,7 +88,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639722,
+    "wof:lastmodified":1695886109,
     "wof:name":"Whakatane District",
     "wof:parent_id":85687175,
     "wof:placetype":"county",

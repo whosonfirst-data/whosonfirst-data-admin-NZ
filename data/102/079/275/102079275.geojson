@@ -91,8 +91,13 @@
     "wof:concordances":{
         "gp:id":55875903,
         "hasc:id":"NZ.WK.OH",
+        "nz-linz:id":"018",
         "wd:id":"Q24490507"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -115,7 +120,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639699,
+    "wof:lastmodified":1695886325,
     "wof:name":"Otorohanga District",
     "wof:parent_id":85687229,
     "wof:placetype":"county",

@@ -109,8 +109,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554049,
         "hasc:id":"NZ.WC.WL",
+        "nz-linz:id":"057",
         "wd:id":"Q2119644"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -133,7 +138,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639721,
+    "wof:lastmodified":1695886105,
     "wof:name":"Westland District",
     "wof:parent_id":85687165,
     "wof:placetype":"county",

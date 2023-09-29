@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.421057,
-    "geom:area_square_m":38392140674.45594,
+    "geom:area_square_m":38392140674.463341,
     "geom:bbox":"168.116395,-46.839379,171.406801,-43.955411",
     "geom:latitude":-45.385754,
     "geom:longitude":169.696786,
@@ -299,12 +299,18 @@
         "gn:id":6612109,
         "gp:id":15021754,
         "hasc:id":"NZ.OT",
+        "iso:code":"NZ-OTA",
         "iso:id":"NZ-OTA",
+        "nz-linz:id":"14",
         "unlc:id":"NZ-OTA",
         "wd:id":"Q692912"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"bb68e3ad1df7f42402e0cf263a2be98e",
+    "wof:geomhash":"d1a504a7a384c0658177bc6c222da93d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -321,7 +327,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849931,
+    "wof:lastmodified":1695884458,
     "wof:name":"Otago Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

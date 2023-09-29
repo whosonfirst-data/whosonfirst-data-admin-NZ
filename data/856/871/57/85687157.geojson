@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132509,
-    "geom:area_square_m":1234581819.371246,
+    "geom:area_square_m":1234581819.371124,
     "geom:bbox":"173.176422,-41.393428,173.598762,-40.805375",
     "geom:latitude":-41.113609,
     "geom:longitude":173.396306,
@@ -93,10 +93,16 @@
         "digitalenvoy:region_code":25048,
         "fips:code":"NZF5",
         "hasc:id":"NZ.NE",
-        "iso:id":"NZ-NSN"
+        "iso:code":"NZ-NSN",
+        "iso:id":"NZ-NSN",
+        "nz-linz:id":"17"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"a861ed0470b3bef32140495330c62c1f",
+    "wof:geomhash":"5ad557059bec960b53d9c19a639bff86",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -113,7 +119,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1607462729,
+    "wof:lastmodified":1695884452,
     "wof:name":"Nelson Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

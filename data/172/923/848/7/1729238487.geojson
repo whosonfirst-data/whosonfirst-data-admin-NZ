@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015107,
-    "geom:area_square_m":145909641.013956,
+    "geom:area_square_m":145909641.013856,
     "geom:bbox":"177.849941,-38.716217,178.106324,-38.555393",
     "geom:latitude":-38.641267,
     "geom:longitude":177.967012,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "unitary authority"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 unitaire"
+    ],
+    "label:fra_x_variant_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-38.638119,
     "lbl:longitude":177.954402,
     "lbl:max_zoom":13.0,
@@ -43,7 +52,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724628,
-    "wof:geomhash":"7b6b5ee2d3703f0d9f0c10e99ecd606c",
+    "wof:geomhash":"be07af0681beba10e170a50bbec4f480",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +71,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495087,
+    "wof:lastmodified":1696022882,
     "wof:name":"Gisborne",
     "wof:parent_id":102079325,
     "wof:placetype":"localadmin",

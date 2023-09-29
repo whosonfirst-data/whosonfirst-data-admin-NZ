@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009343,
-    "geom:area_square_m":92510852.425578,
+    "geom:area_square_m":92510852.425467,
     "geom:bbox":"174.9815,-36.848275,175.202979,-36.737837",
     "geom:latitude":-36.795983,
     "geom:longitude":175.103182,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-36.795252,
     "lbl:longitude":175.129073,
     "lbl:max_zoom":13.0,
@@ -37,7 +43,7 @@
     ],
     "wof:country":"NZ",
     "wof:created":1600724603,
-    "wof:geomhash":"a5f0937f33c7a8787d276edb526ef504",
+    "wof:geomhash":"916112e272d121452f0e94fd73becd11",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -56,7 +62,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1617130188,
+    "wof:lastmodified":1695878935,
     "wof:name":"Waiheke Island",
     "wof:parent_id":102079403,
     "wof:placetype":"localadmin",

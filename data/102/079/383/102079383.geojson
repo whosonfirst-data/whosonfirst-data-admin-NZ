@@ -112,8 +112,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554034,
         "hasc:id":"NZ.OT.CO",
+        "nz-linz:id":"069",
         "wd:id":"Q1053677"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -136,7 +141,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639705,
+    "wof:lastmodified":1695886341,
     "wof:name":"Central Otago District",
     "wof:parent_id":85687201,
     "wof:placetype":"county",

@@ -72,8 +72,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554041,
         "gp:id":55875866,
-        "hasc:id":"NZ.WG.PR"
+        "hasc:id":"NZ.WG.PR",
+        "nz-linz:id":"044"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -96,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639724,
+    "wof:lastmodified":1695886116,
     "wof:name":"Porirua City",
     "wof:parent_id":85687233,
     "wof:placetype":"county",

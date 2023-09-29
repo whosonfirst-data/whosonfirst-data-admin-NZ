@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.236987,
-    "geom:area_square_m":21827242248.491798,
+    "geom:area_square_m":21827242248.486778,
     "geom:bbox":"175.805921,-39.005085,178.107555,-36.893635",
     "geom:latitude":-37.897231,
     "geom:longitude":176.863033,
@@ -258,12 +258,18 @@
         "digitalenvoy:region_code":25042,
         "fips:code":"NZE8",
         "hasc:id":"NZ.BP",
+        "iso:code":"NZ-BOP",
         "iso:id":"NZ-BOP",
+        "nz-linz:id":"04",
         "unlc:id":"NZ-BOP",
         "wd:id":"Q2192924"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NZ",
-    "wof:geomhash":"f478a80dbd72cd8e4fd420b37fab6580",
+    "wof:geomhash":"c1fa8ba389703cfc418a5abdb5461a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -280,7 +286,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849938,
+    "wof:lastmodified":1695884454,
     "wof:name":"Bay of Plenty Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

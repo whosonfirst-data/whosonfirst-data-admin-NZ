@@ -112,8 +112,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554021,
         "hasc:id":"NZ.TK.ST",
+        "nz-linz:id":"035",
         "wd:id":"Q1972712"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -136,7 +141,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639705,
+    "wof:lastmodified":1695886340,
     "wof:name":"South Taranaki District",
     "wof:parent_id":85687195,
     "wof:placetype":"county",

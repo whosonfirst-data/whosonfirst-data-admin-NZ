@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01106,
-    "geom:area_square_m":105525146.229027,
+    "geom:area_square_m":105525146.228408,
     "geom:bbox":"176.809277,-39.570451,176.928148,-39.388665",
     "geom:latitude":-39.500305,
     "geom:longitude":176.869239,
     "gn:population":56787,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority district"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "autorit\u00e9 territoriale"
+    ],
     "lbl:latitude":-39.524326,
     "lbl:longitude":176.88404,
     "lbl:max_zoom":14.0,
@@ -337,7 +343,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1600724638,
-    "wof:geomhash":"57204d7f15decda23032bab5395ace90",
+    "wof:geomhash":"cdf566c631d6b4b8903a1f2f5d144e76",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -356,7 +362,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690849957,
+    "wof:lastmodified":1695878942,
     "wof:name":"Napier",
     "wof:parent_id":102079331,
     "wof:placetype":"localadmin",

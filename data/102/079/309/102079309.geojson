@@ -118,8 +118,13 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":554014,
         "hasc:id":"NZ.MW.TR",
+        "nz-linz:id":"041",
         "wd:id":"Q1750590"
     },
+    "wof:concordances_official":"nz-linz:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"NZ",
     "wof:geom_alt":[
         "quattroshapes"
@@ -142,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1694639693,
+    "wof:lastmodified":1695886307,
     "wof:name":"Tararua District",
     "wof:parent_id":85687251,
     "wof:placetype":"county",
