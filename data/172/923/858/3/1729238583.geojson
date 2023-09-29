@@ -11,6 +11,12 @@
     "geom:longitude":174.750133,
     "gn:population":381900,
     "iso:country":"NZ",
+    "label:eng_x_preferred_placetype":[
+        "territorial authority city"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "collectivit\u00e9 territoriale ville"
+    ],
     "lbl:latitude":-41.28566,
     "lbl:longitude":174.724424,
     "lbl:max_zoom":13.0,
@@ -602,7 +608,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1695878937,
+    "wof:lastmodified":1696022877,
     "wof:name":"Wellington",
     "wof:parent_id":102079339,
     "wof:placetype":"localadmin",
